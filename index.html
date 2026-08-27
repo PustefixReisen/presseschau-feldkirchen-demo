@@ -3,30 +3,176 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Presseschau Feldkirchen – Demonstrator 2</title>
+<title>Presseschau Feldkirchen – Demonstrator 3</title>
 <style>
-:root{--bg:#f5f6f3;--card:#fff;--text:#1d241f;--muted:#667068;--line:#dfe4df;--green:#2f6b3a;--dark:#173d21;--soft:#edf5ef;--warn:#fff7df;--max:1100px}*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;background:var(--bg);color:var(--text);line-height:1.55}a{color:var(--green);text-underline-offset:.14em}header{position:sticky;top:0;z-index:20;background:#fff;border-bottom:1px solid var(--line)}.head{max-width:var(--max);margin:auto;padding:12px 20px;display:flex;justify-content:space-between;gap:18px;align-items:center}.brand{font-weight:800}nav{display:flex;gap:16px;flex-wrap:wrap}nav a{text-decoration:none;font-weight:700;font-size:.92rem}.hero{max-width:var(--max);margin:auto;padding:44px 20px 26px}.kicker{text-transform:uppercase;letter-spacing:.12em;font-size:.76rem;font-weight:800;color:var(--green)}h1{font-size:clamp(2rem,5vw,3.5rem);line-height:1.05;margin:.15em 0 .25em}.hero p{max-width:780px;color:var(--muted);font-size:1.08rem}.notice{margin-top:18px;padding:13px 15px;border-left:4px solid #b58a12;background:var(--warn);border-radius:8px}main{max-width:var(--max);margin:auto;padding:0 20px 70px}.section-title{font-size:1.65rem;margin:40px 0 8px}.section-intro{color:var(--muted);margin-top:0}.toolbar{display:flex;gap:8px;flex-wrap:wrap;margin:18px 0}button,.chip{border:1px solid var(--line);background:#fff;border-radius:999px;padding:8px 12px;font:inherit}button{cursor:pointer}button.active{background:var(--dark);color:#fff;border-color:var(--dark)}.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:24px;margin:0 0 18px}.meta{font-size:.84rem;color:var(--muted);margin-bottom:6px}.card h2{font-size:1.45rem;line-height:1.22;margin:.1em 0 .2em}.subtitle{font-size:1.02rem;font-weight:650;color:#3e4a41;margin:0 0 14px}.sourcebox{border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:11px 0;margin:16px 0;font-size:.92rem}.block{margin-top:16px}.block h3{font-size:1rem;margin:0 0 6px}.einordnung{background:var(--soft);border-left:5px solid var(--green);padding:15px 17px;border-radius:8px}.history{background:#fafcf9;border:1px dashed #bac7bd;padding:14px 16px;border-radius:8px}.history-list{list-style:none;padding:0;margin:8px 0 0}.history-list li{padding:7px 0;border-top:1px solid #e8ece8}.history-list li:first-child{border-top:0}.toplist{margin:0;padding-left:1.1em}.toplist li{margin:.45em 0}.topic-card{border-left:5px solid var(--green)}.archive{display:flex;justify-content:center;gap:8px;flex-wrap:wrap;margin:24px 0}.small{font-size:.9rem;color:var(--muted)}footer{background:#202a22;color:#dbe3dc;padding:30px 20px}footer .inner{max-width:var(--max);margin:auto}@media(max-width:700px){.head{align-items:flex-start;flex-direction:column}nav{gap:10px}.hero{padding-top:28px}.card{padding:18px}.section-title{margin-top:30px}h1{font-size:2.2rem}}
+:root{
+  --bg:#f5f6f3;--card:#fff;--text:#1d241f;--muted:#667068;--line:#dfe4df;
+  --green:#2f6b3a;--dark:#173d21;--soft:#edf5ef;--warn:#fff7df;--blue:#eef5f7;
+  --max:1100px;--radius:14px
+}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;background:var(--bg);color:var(--text);line-height:1.58}a{color:var(--green);text-underline-offset:.14em}a:focus-visible,button:focus-visible{outline:3px solid #87b995;outline-offset:3px}
+header{position:sticky;top:0;z-index:20;background:#fff;border-bottom:1px solid var(--line)}.head{max-width:var(--max);margin:auto;padding:12px 20px;display:flex;justify-content:space-between;gap:18px;align-items:center}.brand{font-weight:800}.demo-tag{font-size:.78rem;color:var(--muted);font-weight:650;margin-left:.35rem}nav{display:flex;gap:16px;flex-wrap:wrap}nav a{text-decoration:none;font-weight:700;font-size:.92rem}
+.hero{max-width:var(--max);margin:auto;padding:44px 20px 26px}.kicker{text-transform:uppercase;letter-spacing:.12em;font-size:.76rem;font-weight:800;color:var(--green)}h1{font-size:clamp(2rem,5vw,3.5rem);line-height:1.05;margin:.15em 0 .25em}.hero>p{max-width:810px;color:var(--muted);font-size:1.08rem}.notice{margin-top:18px;padding:13px 15px;border-left:4px solid #b58a12;background:var(--warn);border-radius:8px}.basis{margin-top:10px;font-size:.86rem;color:#5e5a48}
+main{max-width:var(--max);margin:auto;padding:0 20px 70px}.section-title{font-size:1.65rem;margin:40px 0 8px}.section-intro{color:var(--muted);margin-top:0;max-width:800px}.toolbar{display:flex;gap:8px;flex-wrap:wrap;margin:18px 0}button,.chip{border:1px solid var(--line);background:#fff;border-radius:999px;padding:8px 12px;font:inherit}button{cursor:pointer}button.active{background:var(--dark);color:#fff;border-color:var(--dark)}
+.card{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:24px;margin:0 0 18px}.meta{font-size:.84rem;color:var(--muted);margin-bottom:6px;display:flex;gap:8px;flex-wrap:wrap;align-items:center}.kind{display:inline-block;border:1px solid var(--line);border-radius:999px;padding:2px 8px;background:#fafbfa;font-size:.76rem;font-weight:700;color:#526057}.card h2{font-size:1.45rem;line-height:1.22;margin:.1em 0 .2em}.subtitle{font-size:1.02rem;font-weight:650;color:#3e4a41;margin:0 0 14px}.sourcebox{border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:11px 0;margin:16px 0;font-size:.92rem}.sourcebox ul{margin:.35em 0 0;padding-left:1.25em}.sourcebox li{margin:.2em 0}.block{margin-top:16px}.block h3{font-size:1rem;margin:0 0 6px}.einordnung{background:var(--soft);border-left:5px solid var(--green);padding:15px 17px;border-radius:8px}.history{background:#fafcf9;border:1px dashed #bac7bd;padding:14px 16px;border-radius:8px}.history-list{list-style:none;padding:0;margin:8px 0 0}.history-list li{padding:7px 0;border-top:1px solid #e8ece8}.history-list li:first-child{border-top:0}.statusbox{background:var(--blue);padding:14px 16px;border-radius:8px}.toplist{margin:0;padding-left:1.1em}.toplist li{margin:.55em 0}.session-card{border-left:5px solid #5b7a83}.topic-card{border-left:5px solid var(--green)}.topic-facts{display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 16px}.topic-facts .chip{font-size:.83rem;background:#fbfcfb}.archive{display:flex;justify-content:center;gap:8px;flex-wrap:wrap;margin:24px 0}.small{font-size:.9rem;color:var(--muted)}.demo-note{font-size:.88rem;color:var(--muted);border-top:1px solid var(--line);padding-top:12px;margin-top:18px}
+footer{background:#202a22;color:#dbe3dc;padding:30px 20px}footer .inner{max-width:var(--max);margin:auto}footer a{color:#dbe3dc}
+@media(max-width:700px){.head{align-items:flex-start;flex-direction:column}nav{gap:10px}.hero{padding-top:28px}.card{padding:18px}.section-title{margin-top:30px}h1{font-size:2.2rem}.meta{align-items:flex-start}}
 </style>
 </head>
 <body>
-<header><div class="head"><div class="brand">GRÜNE Feldkirchen · Demo 2</div><nav><a href="#presseschau">Presseschau</a><a href="#gemeinderat">Gemeinderat</a><a href="#themen">Themen</a><a href="#archiv">Archiv</a></nav></div></header>
-<section class="hero"><div class="kicker">Lokale Presseschau</div><h1>Was sich in Feldkirchen politisch und kommunal bewegt.</h1><p>Aktuelle Entwicklungen aus Presse, Gemeinde, Ratsinformationssystem und weiteren öffentlichen Quellen – mit Quellen direkt bei der Sachinformation und, wo sinnvoll, einer getrennten grünen Einordnung.</p><div class="notice"><strong>Demonstrator:</strong> Diese Seite dient der Abstimmung von Inhalt, Struktur und Nutzererlebnis. Sie ist keine produktive Veröffentlichung.</div></section>
+<header>
+  <div class="head">
+    <div class="brand">GRÜNE Feldkirchen <span class="demo-tag">Demonstrator 3</span></div>
+    <nav aria-label="Hauptnavigation">
+      <a href="#presseschau">Presseschau</a>
+      <a href="#gemeinderat">Gemeinderat</a>
+      <a href="#themen">Themen</a>
+      <a href="#archiv">Archiv</a>
+    </nav>
+  </div>
+</header>
+
+<section class="hero">
+  <div class="kicker">Lokale Presseschau</div>
+  <h1>Was sich in Feldkirchen politisch und kommunal bewegt.</h1>
+  <p>Aktuelle Entwicklungen aus Presse, Gemeinde, Ratsinformationssystem und weiteren öffentlichen Quellen – mit Quellen direkt bei der Sachinformation und, wo sinnvoll, einer klar getrennten grünen Einordnung.</p>
+  <div class="notice">
+    <strong>Demonstrator:</strong> Diese Seite dient ausschließlich der Abstimmung von Inhalt, Informationsarchitektur und Nutzererlebnis. Sie ist keine produktive Veröffentlichung.
+    <div class="basis">Fachliche Grundlage: Fachliche Beschreibung 0.2 · KI-Leitfaden 0.2 · Referenzquellen Grüne Positionen 0.1 · Sprachmerkblatt 1.0</div>
+  </div>
+</section>
+
 <main>
-<section id="presseschau"><h2 class="section-title">Presseschau – alle Beiträge</h2><p class="section-intro">Testzeitraum: Mai bis August 2026. Neueste Beiträge zuerst.</p><div class="toolbar"><button class="active" onclick="filterArticles('all',this)">Alle</button><button onclick="filterArticles('verkehr',this)">Verkehr & Mobilität</button><button onclick="filterArticles('energie',this)">Klima & Energie</button><button onclick="filterArticles('umwelt',this)">Umwelt & Gesundheit</button><button onclick="filterArticles('gemeinderat',this)">Gemeinderat</button></div>
-<article class="card" data-cat="service" id="b-bhf-2108"><div class="meta">21.08.2026 · Infrastruktur</div><h2>Bahnhofstraße wegen Reparatur an Fernwärmeleitung gesperrt</h2><p class="subtitle">Die Vollsperrung dauert voraussichtlich vom 24. August bis 11. September; auch der Busverkehr wird umgeleitet.</p><p><strong>21.08.2026.</strong> Wegen dringender Reparaturarbeiten an einer Fernwärmeleitung wird die Bahnhofstraße gesperrt. Die Maßnahme betrifft auch den Busverkehr.</p><div class="sourcebox"><strong>Quelle:</strong> Gemeinde Feldkirchen.</div></article>
-<article class="card" data-cat="umwelt" id="b-see-2008"><div class="meta">20.08.2026 · Umwelt & Gesundheit</div><h2>Blaualgen im Heimstettener See: Gesundheitsamt rät vom Baden ab</h2><p class="subtitle">Bei einer Wasserprobe wurden Cyanobakterien nachgewiesen; ein Badeverbot besteht derzeit nicht.</p><p><strong>20.08.2026.</strong> Bei einer Wasserprobe wurden Cyanobakterien nachgewiesen. Das Gesundheitsamt München Land rät deshalb bis auf Weiteres vom Baden ab.</p><div class="sourcebox"><strong>Quellen:</strong> Landkreis München · Gemeinde Feldkirchen.</div></article>
-<article class="card" data-cat="energie" id="b-afk-1908"><div class="meta">19.08.2026 · Klima & Energie</div><h2>AFK erweitert Geothermie: Zweite Dublette soll neue Anschlüsse ermöglichen</h2><p class="subtitle">Ab 2028 könnten bis zu 1.200 zusätzliche Anschlüsse in Aschheim, Feldkirchen und Kirchheim mit Geothermie versorgt werden.</p><p><strong>19.08.2026.</strong> Die AFK Geothermie bereitet eine zweite Geothermie-Dublette vor. Wenn das Projekt planmäßig verläuft, sollen zusätzliche Anschlüsse versorgt werden können.</p><div class="sourcebox"><strong>Quelle:</strong> Münchner Merkur vom 19.08.2026.</div><div class="block einordnung"><h3>Unsere Einordnung</h3><p>Der Ausbau der Geothermie ist für Feldkirchen ein wichtiger Baustein einer klimafreundlichen Wärmeversorgung. Entscheidend ist ein nachvollziehbarer Netzausbau.</p></div><div class="block history"><h3>Bisheriger Verlauf</h3><ul class="history-list"><li><a href="#b-afk-1908">19.08.2026 – Zweite Dublette soll neue Anschlüsse ermöglichen</a></li></ul></div></article>
-<article class="card" data-cat="verkehr" id="b-park-1808"><div class="meta">18.08.2026 · Verkehr & Mobilität</div><h2>Parkraumkonzept: Anwohner kritisieren neue Parkregeln</h2><p class="subtitle">Der Gemeinderat hält am Konzept fest, verlängert aber die zulässige Parkdauer am Friedhof von zwei auf drei Stunden.</p><p><strong>18.08.2026.</strong> 34 Anwohner haben sich schriftlich gegen neue Parkregelungen rund um den Friedhof gewandt. Der Gemeinderat hält grundsätzlich am Konzept fest, reagiert aber bei der Parkdauer am Friedhof mit einer Änderung.</p><div class="sourcebox"><strong>Quelle:</strong> Münchner Merkur vom 18.08.2026.</div><div class="block einordnung"><h3>Unsere Einordnung</h3><p>Früh erkennbare Nebenwirkungen sollten systematisch ausgewertet und Regelungen bei Bedarf angepasst werden.</p></div><div class="block history"><h3>Bisheriger Verlauf</h3><ul class="history-list"><li><a href="#b-park-1808">18.08.2026 – Anwohner kritisieren neue Parkregeln</a></li><li><a href="#sitzung-2307">23.07.2026 – Gemeinderat behandelt das Parkraumkonzept</a></li></ul></div></article>
-<article class="card" data-cat="gemeinderat" id="b-park-2307"><div class="meta">23.07.2026 · Gemeinderat</div><h2>Parkraumkonzept erneut im Gemeinderat behandelt</h2><p class="subtitle">Der Gemeinderat befasst sich mit den Regelungen und dem weiteren Vorgehen.</p><p><strong>23.07.2026.</strong> Das Parkraumkonzept wird im Gemeinderat erneut behandelt.</p><div class="sourcebox"><strong>Quelle:</strong> Ratsinformationssystem Feldkirchen – Sitzung vom 23.07.2026.</div></article>
-<article class="card" data-cat="gemeinderat" id="b-parkanlage-2506"><div class="meta">25.06.2026 · Gemeinderat</div><h2>Innerörtliche Parkanlage: Antrag und weitere Beratung</h2><p class="subtitle">Der Gemeinderat befasst sich mit einem Antrag zur innerörtlichen Parkanlage.</p><p><strong>25.06.2026.</strong> In der Sitzung wird ein Antrag zur innerörtlichen Parkanlage behandelt.</p><div class="sourcebox"><strong>Quelle:</strong> Ratsinformationssystem Feldkirchen – Sitzung vom 25.06.2026.</div></article>
-<article class="card" data-cat="gemeinderat" id="b-hitze-1106"><div class="meta">11.06.2026 · Gemeinderat</div><h2>Hitzeaktionsplan für Feldkirchen beschlossen</h2><p class="subtitle">Der Gemeinderat beschließt Maßnahmen zum Schutz der Bevölkerung bei Hitze.</p><p><strong>11.06.2026.</strong> Der Gemeinderat beschließt den Hitzeaktionsplan Feldkirchen.</p><div class="sourcebox"><strong>Quellen:</strong> Ratsinformationssystem Feldkirchen · <a href="https://www.feldkirchen.de/service/krise-katastrophe/hitze" target="_blank" rel="noopener">Gemeinde Feldkirchen – Hitze</a>.</div><div class="block einordnung"><h3>Unsere Einordnung</h3><p>Kommunaler Hitzeschutz ist konkrete Klimaanpassung. Entscheidend ist, dass aus dem Plan sichtbare Maßnahmen folgen.</p></div></article>
-<article class="card" data-cat="gemeinderat" id="b-gr-1105"><div class="meta">11.05.2026 · Gemeinderat</div><h2>Gemeinderat beschließt Hauptsatzung und Geschäftsordnung</h2><p class="subtitle">Zu Beginn der neuen Wahlperiode werden zentrale organisatorische Grundlagen beschlossen.</p><p><strong>11.05.2026.</strong> Der Gemeinderat beschließt Hauptsatzung und Geschäftsordnung einstimmig.</p><div class="sourcebox"><strong>Quelle:</strong> Ratsinformationssystem Feldkirchen – Sitzung vom 11.05.2026.</div></article><div class="archive" id="archiv"><button>← Neuer</button><span class="chip">Mai–August 2026</span><button>Ältere Beiträge →</button></div></section>
-<section id="gemeinderat"><h2 class="section-title">Gemeinderat – Sitzungen und Entscheidungen</h2><p class="section-intro">Jede Sitzung erscheint mobilfreundlich als eigener Eintrag.</p>
-<article class="card" id="sitzung-2307"><div class="meta">Sitzungsübersicht</div><h2>23.07.2026 – Gemeinderat</h2><div class="block"><h3>Wichtige TOPs</h3><ul class="toplist"><li><strong>Parkraumkonzept</strong> – <a href="#b-park-2307">Beitrag zum Beratungsstand</a></li><li><strong>Hundewiese östlich des Friedhofs</strong></li><li><strong>Feuerwehrgerätehaus</strong></li><li><strong>Generationenbeauftragte</strong></li><li>weitere Verwaltungs- und Bauangelegenheiten</li></ul></div><div class="block"><h3>Entscheidungen / Stand</h3><p>Das Parkraumkonzept wird weitergeführt; spätere Reaktionen und Anpassungen werden in den verknüpften Beiträgen sichtbar.</p></div><div class="block"><h3>Niederschrift</h3><p><strong>Status:</strong> im Demonstrator nicht abschließend verifiziert.</p></div><div class="block"><h3>Sitzung</h3><p><a href="https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1026" target="_blank" rel="noopener">Sitzung vom 23.07.2026 im RIS</a></p></div><div class="block history"><h3>Bisheriger Verlauf</h3><ul class="history-list"><li><a href="#b-park-1808">18.08.2026 – Anwohner kritisieren neue Parkregeln</a></li><li><a href="#b-park-2307">23.07.2026 – Beitrag zum Parkraumkonzept</a></li></ul></div></article>
-<article class="card" id="sitzung-2506"><div class="meta">Sitzungsübersicht</div><h2>25.06.2026 – Gemeinderat</h2><div class="block"><h3>Wichtige TOPs</h3><ul class="toplist"><li><strong>Innerörtliche Parkanlage</strong> – Antrag und Beratung</li><li>weitere Bau- und Verwaltungsangelegenheiten</li></ul></div><div class="block"><h3>Entscheidungen / Stand</h3><p>Behandlung des Antrags; der Demonstrator zeigt hier nur die Struktur.</p></div><div class="block"><h3>Niederschrift</h3><p><strong>Status:</strong> im Demonstrator nicht abschließend verifiziert.</p></div><div class="block history"><h3>Bisheriger Verlauf</h3><ul class="history-list"><li><a href="#b-parkanlage-2506">25.06.2026 – Innerörtliche Parkanlage</a></li><li><a href="#thema-ortsentwicklung">Thematischer Zusammenhang: Ortsentwicklung, Grünplanung & Mobilität</a></li></ul></div></article>
-<article class="card" id="sitzung-1106"><div class="meta">Sitzungsübersicht</div><h2>11.06.2026 – Gemeinderat</h2><div class="block"><h3>Wichtige TOPs</h3><ul class="toplist"><li><strong>Hitzeaktionsplan Feldkirchen</strong> – <a href="https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=73237&type=do" target="_blank" rel="noopener">Beschlussvorlage / Dokument im RIS</a></li><li><strong>Jahresrechnung 2025</strong></li><li><strong>AFK-Beteiligungsbericht</strong></li><li><strong>Feuerwehrführung</strong></li></ul></div><div class="block"><h3>Entscheidungen / Stand</h3><p>Der Hitzeaktionsplan wird beschlossen.</p></div><div class="block"><h3>Niederschrift</h3><p><a href="https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1044" target="_blank" rel="noopener">Öffentliche Sitzungsunterlagen / Niederschrift im RIS</a></p></div><div class="block"><h3>Weitere Links</h3><p><a href="https://www.feldkirchen.de/service/krise-katastrophe/hitze" target="_blank" rel="noopener">Gemeinde Feldkirchen – Informationen zu Hitze</a></p></div><div class="block"><h3>Sitzung</h3><p><a href="https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1044" target="_blank" rel="noopener">Sitzung vom 11.06.2026 im RIS</a></p></div></article>
-<article class="card" id="sitzung-1105"><div class="meta">Sitzungsübersicht</div><h2>11.05.2026 – Gemeinderat</h2><div class="block"><h3>Wichtige TOPs</h3><ul class="toplist"><li><strong>Hauptsatzung</strong></li><li><strong>Geschäftsordnung</strong></li><li><strong>Wahl weiterer Bürgermeister</strong></li><li><strong>Ausschüsse und organisatorische Festlegungen</strong></li></ul></div><div class="block"><h3>Entscheidungen / Stand</h3><p>Hauptsatzung und Geschäftsordnung werden einstimmig beschlossen.</p></div><div class="block"><h3>Niederschrift</h3><p>Über die Sitzung im RIS auffindbar bzw. Status dort prüfbar.</p></div></article></section>
-<section id="themen"><h2 class="section-title">Themen</h2><p class="section-intro">Diese Rubrik ordnet wichtige Entwicklungen über einzelne Beiträge und Sitzungen hinaus ein.</p><article class="card topic-card" id="thema-ortsentwicklung"><div class="meta">Thema · Stand 27.08.2026</div><h2>Ortsentwicklung, Grünplanung & Mobilität</h2><p class="subtitle">Wie Feldkirchen wachsen, seine Freiräume sichern und gleichzeitig Verkehr und Aufenthaltsqualität verbessern kann.</p><p>Die Ortsentwicklung in Feldkirchen berührt Siedlungsentwicklung, Grün- und Freiraumplanung, Fuß- und Radverkehr, Straßenraum und Klimaanpassung. Diese Fragen sollten zusammen betrachtet werden.</p><p>In den vergangenen Monaten wurden dazu Informationen, Planungen und fachliche Grundlagen ausgewertet. Daraus werden derzeit mögliche politische Schritte vorbereitet. <strong>Ein entsprechender Antrag ist zum Stand dieses Demonstrators noch nicht gestellt.</strong></p><div class="sourcebox"><strong>Grundlagen:</strong> Ortsentwicklungskonzept Feldkirchen, Radverkehrskonzept, weitere kommunale Planungen und fachliche Stellungnahmen.</div><div class="block einordnung"><h3>Unsere Einordnung</h3><p>Eine zukunftsfähige Ortsentwicklung sollte kurze Wege, attraktive öffentliche Räume, sichere Fuß- und Radverbindungen und den Schutz prägender Grünstrukturen gemeinsam betrachten.</p></div><div class="block history"><h3>Bisheriger Verlauf</h3><ul class="history-list"><li><a href="#sitzung-1106">11.06.2026 – Hitzeaktionsplan im Gemeinderat</a></li><li><a href="#b-parkanlage-2506">25.06.2026 – Innerörtliche Parkanlage</a></li><li><a href="#b-park-2307">23.07.2026 – Parkraumkonzept im Gemeinderat</a></li><li><a href="#b-park-1808">18.08.2026 – Anwohnerkritik am Parkraumkonzept</a></li></ul></div></article></section>
-</main><footer><div class="inner"><strong>Presseschau Feldkirchen – Demonstrator 2</strong><p class="small">Funktions- und Layoutdemo für die weitere Abstimmung. Keine produktive Veröffentlichung.</p></div></footer>
-<script>function filterArticles(cat,btn){document.querySelectorAll('.toolbar button').forEach(b=>b.classList.remove('active'));btn.classList.add('active');document.querySelectorAll('#presseschau article.card').forEach(a=>{a.style.display=(cat==='all'||a.dataset.cat===cat)?'block':'none'})}</script>
-</body></html>
+<section id="presseschau">
+  <h2 class="section-title">Presseschau</h2>
+  <p class="section-intro">Konkrete neue Entwicklungen mit Feldkirchen-Bezug. Mehrere Quellen zum selben Sachverhalt werden gebündelt; neueste Entwicklungen stehen zuerst.</p>
+  <div class="toolbar" aria-label="Beiträge filtern">
+    <button class="active" onclick="filterArticles('all',this)">Alle</button>
+    <button onclick="filterArticles('verkehr',this)">Verkehr &amp; Mobilität</button>
+    <button onclick="filterArticles('energie',this)">Klima &amp; Energie</button>
+    <button onclick="filterArticles('umwelt',this)">Umwelt &amp; Gesundheit</button>
+    <button onclick="filterArticles('gemeinderat',this)">Gemeinderat</button>
+    <button onclick="filterArticles('infrastruktur',this)">Infrastruktur</button>
+  </div>
+
+  <article class="card" data-cat="infrastruktur" id="b-bhf-2108">
+    <div class="meta"><span class="kind">Beitrag</span><span>21.08.2026 · Infrastruktur</span></div>
+    <h2>Bahnhofstraße wegen Reparatur an Fernwärmeleitung gesperrt</h2>
+    <p class="subtitle">Die Sperrung betrifft auch den Busverkehr und zeigt unmittelbar, wo kommunale Infrastruktur den Alltag beeinflusst.</p>
+    <p><strong>21.08.2026.</strong> Wegen Reparaturarbeiten an einer Fernwärmeleitung wird die Bahnhofstraße zeitweise gesperrt. Die Maßnahme wirkt sich auch auf den Busverkehr aus. Für die Presseschau ist die neue Entwicklung selbst maßgeblich; spätere Meldungen zum selben Vorgang würden nur bei einem neuen relevanten Sachstand einen weiteren Beitrag auslösen.</p>
+    <div class="sourcebox"><strong>Quelle</strong><ul><li>Gemeinde Feldkirchen – öffentliche Mitteilung zum Vorgang (im Demonstrator noch ohne verifizierten Direktlink)</li></ul></div>
+  </article>
+
+  <article class="card" data-cat="umwelt" id="b-see-2008">
+    <div class="meta"><span class="kind">Beitrag</span><span>20.08.2026 · Umwelt &amp; Gesundheit</span></div>
+    <h2>Blaualgen im Heimstettener See: Gesundheitsamt rät vom Baden ab</h2>
+    <p class="subtitle">Der Hinweis betrifft ein Naherholungsziel in unmittelbarer Umgebung Feldkirchens.</p>
+    <p><strong>20.08.2026.</strong> Bei einer Wasserprobe wurden Cyanobakterien nachgewiesen. Das Gesundheitsamt rät deshalb bis auf Weiteres vom Baden ab. Ein Badeverbot ist damit nicht automatisch verbunden; entscheidend ist der jeweils öffentlich dokumentierte Stand.</p>
+    <div class="sourcebox"><strong>Quellen</strong><ul><li>Landkreis München – öffentliche Information (Direktlink für die produktive Fassung zu verifizieren)</li><li>Gemeinde Feldkirchen – öffentliche Information (Direktlink für die produktive Fassung zu verifizieren)</li></ul></div>
+  </article>
+
+  <article class="card" data-cat="energie" id="b-afk-1908">
+    <div class="meta"><span class="kind">Beitrag</span><span>19.08.2026 · Klima &amp; Energie</span></div>
+    <h2>AFK erweitert Geothermie: Zweite Dublette soll neue Anschlüsse ermöglichen</h2>
+    <p class="subtitle">Der geplante Ausbau könnte die regionale Wärmeversorgung deutlich erweitern.</p>
+    <p><strong>19.08.2026.</strong> Die AFK Geothermie bereitet eine zweite Geothermie-Dublette vor. Wenn das Projekt planmäßig umgesetzt wird, können zusätzliche Anschlüsse in Aschheim, Feldkirchen und Kirchheim versorgt werden. Für Feldkirchen ist damit vor allem die Frage relevant, wie sich Erzeugung und tatsächlicher Netzausbau zusammen entwickeln.</p>
+    <div class="sourcebox"><strong>Quelle</strong><ul><li>Münchner Merkur vom 19.08.2026 (Direktlink für die produktive Fassung zu verifizieren)</li></ul></div>
+    <div class="block einordnung"><h3>Unsere Einordnung</h3><p>Mehr erneuerbare Wärme hilft nur dann vollständig, wenn sie auch bei den Gebäuden ankommt. Für Feldkirchen folgt daraus: Nicht nur die zusätzliche Erzeugungsleistung ist politisch relevant, sondern ebenso ein nachvollziehbarer Ausbau des Wärmenetzes, transparente Anschlussmöglichkeiten und eine langfristig verlässliche kommunale Wärmeplanung.</p></div>
+  </article>
+
+  <article class="card" data-cat="verkehr" id="b-park-1808">
+    <div class="meta"><span class="kind">Beitrag</span><span>18.08.2026 · Verkehr &amp; Mobilität</span></div>
+    <h2>Parkraumkonzept: Kritik führt zu einer ersten Anpassung</h2>
+    <p class="subtitle">Die Parkdauer am Friedhof wird verändert; zugleich bleibt das Grundkonzept bestehen.</p>
+    <p><strong>18.08.2026.</strong> Nach Kritik von Anwohnerinnen und Anwohnern hält der Gemeinderat grundsätzlich am Parkraumkonzept fest, verändert aber die zulässige Parkdauer am Friedhof. Gegenüber dem bisherigen Stand ist damit nicht mehr die Einführung des Konzepts neu, sondern der erste öffentlich erkennbare Anpassungsschritt.</p>
+    <div class="sourcebox"><strong>Quelle</strong><ul><li>Münchner Merkur vom 18.08.2026 (Direktlink für die produktive Fassung zu verifizieren)</li></ul></div>
+    <div class="block einordnung"><h3>Unsere Einordnung</h3><p>Parkraumbewirtschaftung ist kein Selbstzweck. Sie soll knappen Straßenraum sinnvoll ordnen und zugleich unerwünschte Nebenwirkungen vermeiden. Wenn sich nach der Einführung konkrete Probleme zeigen, ist eine nachvollziehbare Auswertung mit gezielten Korrekturen sinnvoller als ein Festhalten an jeder Einzelregel.</p></div>
+    <div class="block history"><h3>Bisheriger Verlauf</h3><ul class="history-list"><li><a href="#b-park-2307">23.07.2026 – Parkraumkonzept erneut im Gemeinderat behandelt</a></li></ul></div>
+  </article>
+
+  <article class="card" data-cat="gemeinderat" id="b-park-2307">
+    <div class="meta"><span class="kind">Beitrag</span><span>23.07.2026 · Gemeinderat</span></div>
+    <h2>Parkraumkonzept erneut im Gemeinderat behandelt</h2>
+    <p class="subtitle">Die erneute Beratung bildet den Ausgangspunkt für die später dokumentierte Anpassung.</p>
+    <p><strong>23.07.2026.</strong> Der Gemeinderat befasst sich erneut mit dem Parkraumkonzept. Der Beitrag bildet den zu diesem Zeitpunkt öffentlich belegten Beratungsstand ab; spätere Reaktionen werden nicht rückwirkend in diese Sachinformation hineingeschrieben.</p>
+    <div class="sourcebox"><strong>Quelle</strong><ul><li><a href="https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1026" target="_blank" rel="noopener">Ratsinformationssystem Feldkirchen – Sitzung vom 23.07.2026</a></li></ul></div>
+  </article>
+
+  <article class="card" data-cat="gemeinderat" id="b-hitze-1106">
+    <div class="meta"><span class="kind">Beitrag</span><span>11.06.2026 · Gemeinderat</span></div>
+    <h2>Hitzeaktionsplan für Feldkirchen beschlossen</h2>
+    <p class="subtitle">Der Plan schafft einen kommunalen Rahmen für den Schutz der Bevölkerung bei Hitze.</p>
+    <p><strong>11.06.2026.</strong> Der Gemeinderat beschließt den Hitzeaktionsplan Feldkirchen. Damit liegt für den kommunalen Hitzeschutz ein politisch beschlossener Handlungsrahmen vor. Für spätere Beiträge wäre entscheidend, welche konkreten Maßnahmen daraus umgesetzt oder weiterentwickelt werden.</p>
+    <div class="sourcebox"><strong>Quellen</strong><ul><li><a href="https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=73237&type=do" target="_blank" rel="noopener">Ratsinformationssystem Feldkirchen – Dokument zum Hitzeaktionsplan</a></li><li><a href="https://www.feldkirchen.de/service/krise-katastrophe/hitze" target="_blank" rel="noopener">Gemeinde Feldkirchen – Informationen zu Hitze</a></li></ul></div>
+    <div class="block einordnung"><h3>Unsere Einordnung</h3><p>Ein Hitzeaktionsplan ist konkrete kommunale Klimaanpassung. Sein Wert entscheidet sich aber nicht am Papier allein: Wichtig ist, ob besonders gefährdete Menschen erreicht, öffentliche Räume hitzetauglicher werden und Zuständigkeiten für den Ernstfall klar geregelt sind. Aus einem beschlossenen Plan muss deshalb Schritt für Schritt sichtbare Vorsorge werden.</p></div>
+  </article>
+
+  <div class="archive" id="archiv"><button type="button" disabled>← Neuer</button><span class="chip">Beispielzeitraum Mai–August 2026</span><button type="button">Ältere Beiträge →</button></div>
+  <p class="demo-note">Im späteren System entstehen Archiv und Kategorien aus den strukturierten Beitragsdaten. Sie werden nicht zusätzlich redaktionell gepflegt.</p>
+</section>
+
+<section id="gemeinderat">
+  <h2 class="section-title">Gemeinderat – Sitzungen und Entscheidungen</h2>
+  <p class="section-intro">Jede Sitzung wird als eigene mobile Karte dargestellt. Hervorgehobene Tagesordnungspunkte verlinken auf die spezifischste verfügbare öffentliche RIS-Quelle. Vorlage und tatsächliche Entscheidung werden strikt getrennt.</p>
+
+  <article class="card session-card" id="sitzung-2307">
+    <div class="meta"><span class="kind">Sitzung</span><span>23.07.2026</span></div>
+    <h2>23.07.2026 – Gemeinderat</h2>
+    <div class="block"><h3>Wichtige TOPs</h3><ul class="toplist"><li><a href="https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1026" target="_blank" rel="noopener"><strong>Parkraumkonzept</strong></a></li><li><strong>Hundewiese östlich des Friedhofs</strong></li><li><strong>Feuerwehrgerätehaus</strong></li><li><strong>Generationenbeauftragte</strong></li><li>weitere Verwaltungs- und Bauangelegenheiten</li></ul></div>
+    <div class="block statusbox"><h3>Entscheidungen / Stand</h3><p><strong>Demostatus:</strong> Eine belastbare öffentliche Ergebnisquelle wird hier nicht unterstellt. Für die produktive Fassung würde daher entweder ein belegtes Ergebnis oder „Entscheidung noch nicht öffentlich dokumentiert“ ausgegeben.</p></div>
+    <div class="block"><h3>Niederschrift</h3><p><strong>Status:</strong> im Demonstrator nicht abschließend verifiziert. Sobald vorhanden, wird die öffentliche Niederschrift möglichst direkt verlinkt.</p></div>
+    <div class="block"><h3>Sitzung</h3><p><a href="https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1026" target="_blank" rel="noopener">Sitzung vom 23.07.2026 im RIS</a></p></div>
+    <div class="block history"><h3>Weiterführende Informationen</h3><ul class="history-list"><li>Parkraumkonzept: <a href="#b-park-2307">Beitrag zum Beratungsstand vom 23.07.2026</a></li><li>Parkraumkonzept: <a href="#b-park-1808">spätere Entwicklung vom 18.08.2026</a></li></ul></div>
+  </article>
+
+  <article class="card session-card" id="sitzung-1106">
+    <div class="meta"><span class="kind">Sitzung</span><span>11.06.2026</span></div>
+    <h2>11.06.2026 – Gemeinderat</h2>
+    <div class="block"><h3>Wichtige TOPs</h3><ul class="toplist"><li><a href="https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=73237&type=do" target="_blank" rel="noopener"><strong>Hitzeaktionsplan Feldkirchen</strong></a></li><li><strong>Jahresrechnung 2025</strong></li><li><strong>AFK-Beteiligungsbericht</strong></li><li><strong>Feuerwehrführung</strong></li></ul></div>
+    <div class="block statusbox"><h3>Entscheidungen / Stand</h3><p><strong>Hitzeaktionsplan:</strong> beschlossen. In der produktiven Fassung darf diese Formulierung nur erscheinen, wenn ein belastbarer öffentlicher Ergebnisnachweis vorliegt.</p></div>
+    <div class="block"><h3>Niederschrift</h3><p><a href="https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1044" target="_blank" rel="noopener">Sitzungsunterlagen / Niederschrift über die konkrete Sitzung im RIS</a></p></div>
+    <div class="block"><h3>Sitzung</h3><p><a href="https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1044" target="_blank" rel="noopener">Sitzung vom 11.06.2026 im RIS</a></p></div>
+    <div class="block history"><h3>Weiterführende Informationen</h3><ul class="history-list"><li>Hitze: <a href="#b-hitze-1106">Presseschau-Beitrag zum Beschluss</a></li><li>Hitze: <a href="https://www.feldkirchen.de/service/krise-katastrophe/hitze" target="_blank" rel="noopener">Informationen der Gemeinde Feldkirchen</a></li></ul></div>
+  </article>
+</section>
+
+<section id="themen">
+  <h2 class="section-title">Themen</h2>
+  <p class="section-intro">Themen bündeln längerfristige Entwicklungen. Sie sind keine bloße Chronologie, sondern eine analytisch-neutrale Gesamtdarstellung mit aktuellem Stand und offenen Fragen. Eine grüne Einordnung folgt – wenn sinnvoll – separat.</p>
+
+  <article class="card topic-card" id="thema-ortsentwicklung">
+    <div class="meta"><span class="kind">Thema</span><span>zuletzt inhaltlich aktualisiert: 27.08.2026</span></div>
+    <h2>Ortsentwicklung, Grünplanung &amp; Mobilität</h2>
+    <p class="subtitle">Wie Siedlungsentwicklung, Freiräume, Klimaanpassung und Mobilität in Feldkirchen zusammenspielen.</p>
+    <div class="topic-facts"><span class="chip">Status: aktuell</span><span class="chip">erstmals angelegt: 27.08.2026</span><span class="chip">aktualisiert: 27.08.2026</span></div>
+    <p>Bei der Ortsentwicklung greifen mehrere kommunale Aufgaben ineinander: Flächennutzung und Bebauung verändern Wege und Verkehrsströme; Grün- und Freiflächen prägen Aufenthaltsqualität, Artenvielfalt und den Umgang mit Hitze; Fuß- und Radverbindungen entscheiden mit darüber, welche Alltagswege ohne Auto attraktiv und sicher zurückgelegt werden können.</p>
+    <p>Deshalb reicht es nicht, einzelne Maßnahmen isoliert zu betrachten. Für eine belastbare Gesamtsicht müssen kommunale Konzepte, laufende Planungen, Gemeinderatsentscheidungen und ihre tatsächliche Umsetzung zusammengeführt werden. Der Themenartikel hält diesen Zusammenhang dauerhaft fest und wird nur bei wesentlichen neuen Informationen inhaltlich fortgeschrieben.</p>
+    <h3>Wo steht Feldkirchen?</h3>
+    <p>Für den Demonstrator werden Ortsentwicklung, Grünplanung, Parkraum, Hitzeschutz sowie Fuß- und Radverkehr als miteinander verbundene Arbeitsfelder sichtbar gemacht. Eine abschließende fachliche Bewertung des Gesamtstands ist mit den im Demonstrator hinterlegten Beispielquellen noch nicht möglich.</p>
+    <h3>Offene Fragen</h3>
+    <ul><li>Welche Ziele aus bestehenden kommunalen Konzepten sind bereits umgesetzt, welche noch offen?</li><li>Wo entstehen Zielkonflikte zwischen Verkehr, Aufenthaltsqualität, Grünstrukturen und baulicher Entwicklung?</li><li>Welche Entscheidungen benötigen einen zusammenhängenden politischen Rahmen statt einzelner Maßnahmen?</li></ul>
+    <div class="sourcebox"><strong>Grundlagen im Demonstrator</strong><ul><li>kommunale Planungen und Ratsinformationen</li><li>verknüpfte Presseschau-Beiträge und Gemeinderatssitzungen</li><li>weitere fachliche Quellen, sobald sie für die produktive Themendarstellung verifiziert sind</li></ul></div>
+    <div class="block einordnung"><h3>Unsere Einordnung</h3><p><strong>Straßen- und Freiraum ist wie ein begrenztes Budget: Jeder Quadratmeter kann nur einmal vergeben werden.</strong> Für Feldkirchen folgt daraus, dass Mobilität, Grün, Klimaanpassung und Aufenthaltsqualität gemeinsam abgewogen werden sollten. Aus grüner Sicht liegt der Schwerpunkt auf sicheren Fuß- und Radverbindungen, dem Schutz wirksamer Grünstrukturen und einer Ortsentwicklung, die kurze Wege erleichtert. Wo eine konkrete lokale Position noch nicht öffentlich belegt ist, muss sie vor Veröffentlichung als solche verifiziert oder als Vorschlag gekennzeichnet werden.</p></div>
+    <div class="block history"><h3>Verknüpfte Entwicklungen</h3><ul class="history-list"><li><a href="#sitzung-1106">11.06.2026 – Hitzeaktionsplan im Gemeinderat</a></li><li><a href="#b-park-2307">23.07.2026 – Parkraumkonzept im Gemeinderat</a></li><li><a href="#b-park-1808">18.08.2026 – erste dokumentierte Anpassung am Parkraumkonzept</a></li></ul></div>
+  </article>
+  <p class="demo-note">Themen werden später standardmäßig nach „zuletzt inhaltlich aktualisiert“ absteigend sortiert. Reine Layout-, Tippfehler- oder Linkkorrekturen verändern dieses Datum nicht.</p>
+</section>
+</main>
+
+<footer>
+  <div class="inner">
+    <strong>Presseschau Feldkirchen – Demonstrator 3</strong>
+    <p class="small">Funktions- und Strukturdemonstrator. Keine produktive Veröffentlichung. Fachstand des Demonstrators: 27.08.2026.</p>
+  </div>
+</footer>
+<script>
+function filterArticles(cat,btn){
+  document.querySelectorAll('.toolbar button').forEach(b=>b.classList.remove('active'));
+  btn.classList.add('active');
+  document.querySelectorAll('#presseschau article.card').forEach(a=>{
+    a.style.display=(cat==='all'||a.dataset.cat===cat)?'block':'none';
+  });
+}
+</script>
+</body>
+</html>
