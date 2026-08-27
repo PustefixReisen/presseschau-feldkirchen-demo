@@ -1,0 +1,270 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Presseschau Feldkirchen – Demo</title>
+<style>
+:root{
+  --bg:#f6f7f4;
+  --card:#ffffff;
+  --text:#1d241f;
+  --muted:#667068;
+  --line:#dfe4df;
+  --green:#2e6b3b;
+  --green-soft:#eef5ef;
+  --accent:#163d21;
+  --max:1180px;
+}
+*{box-sizing:border-box}
+body{margin:0;font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;background:var(--bg);color:var(--text);line-height:1.55}
+a{color:var(--green);text-decoration-thickness:.08em;text-underline-offset:.14em}
+header{background:var(--card);border-bottom:1px solid var(--line);position:sticky;top:0;z-index:10}
+.header-inner{max-width:var(--max);margin:auto;padding:14px 22px;display:flex;gap:28px;align-items:center;justify-content:space-between}
+.brand{font-weight:800;letter-spacing:.01em}
+nav a{margin-left:18px;text-decoration:none;font-weight:650}
+.hero{max-width:var(--max);margin:0 auto;padding:56px 22px 30px}
+.kicker{text-transform:uppercase;letter-spacing:.12em;font-size:.78rem;font-weight:800;color:var(--green)}
+h1{font-size:clamp(2rem,5vw,4.2rem);line-height:1.03;margin:.2em 0 .28em;max-width:900px}
+.hero p{font-size:1.15rem;max-width:780px;color:var(--muted)}
+.notice{margin-top:20px;padding:14px 16px;background:#fff7df;border-left:4px solid #c89716;border-radius:8px;max-width:900px}
+main{max-width:var(--max);margin:auto;padding:0 22px 70px}
+.section-title{margin:42px 0 18px;font-size:1.7rem}
+.toolbar{display:flex;gap:10px;flex-wrap:wrap;margin:0 0 18px}
+button,.pill{border:1px solid var(--line);background:var(--card);padding:8px 12px;border-radius:999px;font:inherit;cursor:pointer}
+button.active{background:var(--accent);color:white;border-color:var(--accent)}
+.article{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:26px;margin:0 0 18px;box-shadow:0 1px 1px rgba(0,0,0,.02)}
+.meta{font-size:.86rem;color:var(--muted);margin-bottom:7px}
+.article h2{font-size:1.55rem;line-height:1.2;margin:.15em 0 .15em}
+.subtitle{font-size:1.05rem;font-weight:650;color:#3e4a41;margin:0 0 16px}
+.sources{border-top:1px solid var(--line);padding-top:12px;margin-top:16px;font-size:.92rem}
+.einordnung{background:var(--green-soft);border-left:5px solid var(--green);padding:16px 18px;margin:18px 0 0;border-radius:8px}
+.einordnung h3{margin:0 0 6px;font-size:1rem}
+.chain{margin-top:14px;padding:12px 14px;border:1px dashed #bdc8bf;border-radius:8px;background:#fafcf9}
+.chain strong{display:block;margin-bottom:6px}
+.chain ul{margin:0;padding-left:20px}
+.archive{display:flex;gap:10px;align-items:center;justify-content:center;margin:26px 0}
+.panel{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:22px;overflow:auto}
+.tabs{display:flex;gap:8px;margin-bottom:16px}
+table{border-collapse:collapse;width:100%;min-width:820px}
+th,td{text-align:left;vertical-align:top;border-bottom:1px solid var(--line);padding:12px 10px}
+th{font-size:.86rem;text-transform:uppercase;letter-spacing:.04em;color:#4e5a51;background:#fafbfa}
+.small{font-size:.9rem;color:var(--muted)}
+.topic-links a{display:inline-block;margin:2px 7px 2px 0}
+.hidden{display:none}
+footer{background:#202a22;color:#dbe3dc;padding:34px 22px}
+footer .inner{max-width:var(--max);margin:auto}
+@media (max-width:760px){
+  .header-inner{align-items:flex-start;flex-direction:column;gap:6px}
+  nav a{margin:0 14px 0 0}
+  .hero{padding-top:34px}
+  .article{padding:20px}
+}
+</style>
+</head>
+<body>
+<header>
+  <div class="header-inner">
+    <div class="brand">GRÜNE Feldkirchen · Demo</div>
+    <nav>
+      <a href="#presseschau">Presseschau</a>
+      <a href="#gemeinderat">Gemeinderat</a>
+      <a href="#archiv">Archiv</a>
+    </nav>
+  </div>
+</header>
+
+<section class="hero">
+  <div class="kicker">Lokale Presseschau</div>
+  <h1>Was sich in Feldkirchen politisch und kommunal bewegt.</h1>
+  <p>Aktuelle Entwicklungen aus Presse, Gemeinde, Ratsinformationssystem und weiteren öffentlichen Quellen – sachlich zusammengefasst und, wo sinnvoll, mit klar gekennzeichneter grüner Einordnung.</p>
+  <div class="notice"><strong>Demoversion:</strong> Die Inhalte basieren auf den im Konzeptgespräch verwendeten Beispielen. Sie demonstrieren Struktur, Navigation und Darstellung und ersetzen keine vollständige aktuelle Recherche.</div>
+</section>
+
+<main>
+<section id="presseschau">
+  <h2 class="section-title">Presseschau</h2>
+  <div class="toolbar">
+    <button class="active" onclick="filterArticles('all',this)">Alle</button>
+    <button onclick="filterArticles('verkehr',this)">Verkehr & Mobilität</button>
+    <button onclick="filterArticles('energie',this)">Klima & Energie</button>
+    <button onclick="filterArticles('umwelt',this)">Umwelt & Gesundheit</button>
+    <button onclick="filterArticles('service',this)">Service</button>
+  </div>
+
+  <article class="article" data-cat="service">
+    <div class="meta">21.08.2026 · Verkehr / Infrastruktur</div>
+    <h2>Bahnhofstraße wegen Reparatur an Fernwärmeleitung gesperrt</h2>
+    <p class="subtitle">Die Vollsperrung dauert voraussichtlich vom 24. August bis 11. September; auch der Busverkehr wird umgeleitet.</p>
+    <p><strong>21.08.2026.</strong> Wegen dringender Reparaturarbeiten an einer Fernwärmeleitung wird die Bahnhofstraße ab der Zeppelinstraße vollständig gesperrt. Im Bereich der Zeppelinstraße besteht eine halbseitige Sperrung. Die Maßnahme betrifft auch den Busverkehr.</p>
+    <div class="sources"><strong>Quelle:</strong> <a target="_blank" rel="noopener" href="https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/vollsperrung-bahnhofstrasse">Gemeinde Feldkirchen – Vollsperrung Bahnhofstraße</a></div>
+  </article>
+
+  <article class="article" data-cat="umwelt">
+    <div class="meta">20.08.2026 · Umwelt / Gesundheit / Freizeit</div>
+    <h2>Blaualgen im Heimstettener See: Gesundheitsamt rät vom Baden ab</h2>
+    <p class="subtitle">Bei einer Wasserprobe wurden Cyanobakterien nachgewiesen; ein Badeverbot besteht derzeit nicht.</p>
+    <p><strong>20.08.2026.</strong> Bei einer Wasserprobe im Heimstettener See wurden Cyanobakterien nachgewiesen. Das Gesundheitsamt München Land rät deshalb bis auf Weiteres vom Baden ab. Ein formelles Badeverbot wurde nicht ausgesprochen.</p>
+    <div class="sources"><strong>Quellen:</strong>
+      <a target="_blank" rel="noopener" href="https://www.landkreis-muenchen.de/artikel/blaualgen-im-heimstettener-see-nachgewiesen/">Landkreis München</a> ·
+      <a target="_blank" rel="noopener" href="https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/blaualgen-im-heimstettener-see-nachgewiesen">Gemeinde Feldkirchen</a>
+    </div>
+  </article>
+
+  <article class="article" data-cat="energie">
+    <div class="meta">19.08.2026 · Klima & Energie · Vorgang: Geothermie / Fernwärme</div>
+    <h2>AFK erweitert Geothermie: Zweite Dublette soll neue Anschlüsse ermöglichen</h2>
+    <p class="subtitle">Ab 2028 könnten bis zu 1.200 zusätzliche Anschlüsse in Aschheim, Feldkirchen und Kirchheim mit Geothermie versorgt werden.</p>
+    <p><strong>19.08.2026.</strong> Die AFK Geothermie bereitet in Aschheim eine zweite Geothermie-Dublette vor. Die Bohrungen sollen im November beginnen. Wenn das Projekt planmäßig verläuft, sollen ab Anfang 2028 bis zu 1.200 zusätzliche Anschlüsse in Aschheim, Feldkirchen und Kirchheim versorgt werden können.</p>
+    <p>Für Feldkirchen ist damit vor allem relevant, welche Ortsteile und Straßenzüge künftig tatsächlich angeschlossen werden können und wie schnell das Wärmenetz entsprechend erweitert wird.</p>
+    <div class="einordnung">
+      <h3>Unsere Einordnung</h3>
+      <p>Der Ausbau der Geothermie ist für Feldkirchen ein wichtiger Baustein einer klimafreundlichen Wärmeversorgung. Entscheidend ist jetzt, dass aus zusätzlicher Erzeugungskapazität auch möglichst viele tatsächlich erreichbare Anschlüsse entstehen. Deshalb sollte transparent werden, in welchen Bereichen Feldkirchens der Netzausbau als Nächstes vorgesehen ist.</p>
+    </div>
+    <div class="chain">
+      <strong>Politischer Vorgang: Geothermie / Fernwärme</strong>
+      <ul>
+        <li>19.08.2026 – Zweite Dublette soll neue Anschlüsse ermöglichen</li>
+        <li>Frühere Beiträge würden hier automatisch chronologisch ergänzt.</li>
+      </ul>
+    </div>
+    <div class="sources"><strong>Quelle:</strong> <a target="_blank" rel="noopener" href="https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/afk-geothermie-bohrungen-fuer-dublette-ab-november-neue-anschluesse-ab-2028-94449062.html">Münchner Merkur vom 19.08.2026</a></div>
+  </article>
+
+  <article class="article" data-cat="verkehr">
+    <div class="meta">18.08.2026 · Verkehr & Mobilität · Vorgang: Parkraumkonzept Feldkirchen</div>
+    <h2>Parkraumkonzept: Anwohner kritisieren neue Parkregeln</h2>
+    <p class="subtitle">Der Gemeinderat hält am Konzept fest, verlängert aber die zulässige Parkdauer am Friedhof von zwei auf drei Stunden.</p>
+    <p><strong>18.08.2026.</strong> 34 Anwohner haben sich schriftlich gegen die neuen Parkregelungen rund um den Friedhof gewandt. Kritisiert werden insbesondere die Begrenzung der Parkdauer sowie Regelungen in der Dornacher Straße.</p>
+    <p>Das Parkraumkonzept war bereits zuvor im Gemeinderat behandelt worden. Für die neue Entwicklung ist vor allem relevant: Der Gemeinderat hält grundsätzlich am Konzept fest, reagiert aber bei der Parkdauer am Friedhof mit einer Änderung.</p>
+    <div class="einordnung">
+      <h3>Unsere Einordnung</h3>
+      <p>Ein Parkraumkonzept kann sinnvoll sein, wenn dadurch Parkraum gezielter genutzt und Fehlbelegungen reduziert werden. Wenn Betroffene konkrete Probleme benennen und einzelne Regelungen bereits kurz nach Einführung angepasst werden, spricht das aus unserer Sicht dafür, die Auswirkungen systematisch auszuwerten und bei Bedarf nachzusteuern.</p>
+    </div>
+    <div class="chain">
+      <strong>Politischer Vorgang: Parkraumkonzept Feldkirchen</strong>
+      <ul>
+        <li>18.08.2026 – Anwohner kritisieren neue Parkregeln</li>
+        <li>23.07.2026 – Gemeinderat behandelt das Parkraumkonzept</li>
+      </ul>
+    </div>
+    <div class="sources"><strong>Quelle:</strong> <a target="_blank" rel="noopener" href="https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/feldkirchen-aerger-ueber-neue-parkregeln-anwohner-protest-gegen-konzept-der-gemeinde-94447851.html">Münchner Merkur vom 18.08.2026</a></div>
+  </article>
+
+  <div class="archive" id="archiv">
+    <button>← Neuer</button><span class="pill">Seite 1</span><button>Weitere Beiträge →</button>
+  </div>
+</section>
+
+<section id="gemeinderat">
+  <h2 class="section-title">Gemeinderat – Sitzungen und Entscheidungen</h2>
+  <p class="small">Zwei Ansichten auf denselben Datenbestand: nach Sitzung oder nach politischen Themen und Entscheidungen.</p>
+  <div class="panel">
+    <div class="tabs">
+      <button id="tabSitz" class="active" onclick="showCouncil('sitz')">Nach Sitzungen</button>
+      <button id="tabThem" onclick="showCouncil('them')">Nach Themen & Entscheidungen</button>
+    </div>
+
+    <div id="councilSitz">
+      <table>
+        <thead><tr><th>Datum</th><th>Gremium</th><th>Wichtige Themen</th><th>Stand / Entscheidung</th><th>Niederschrift</th><th>Weitere Links</th></tr></thead>
+        <tbody>
+          <tr>
+            <td>23.07.2026</td>
+            <td>Gemeinderat</td>
+            <td>
+              <strong>Parkraumkonzept</strong><br>
+              <a href="#presseschau">Beitrag: Anwohner kritisieren neue Parkregeln</a><br><br>
+              <strong>Hundewiese östlich des Friedhofs</strong><br>
+              <strong>Feuerwehrgerätehaus</strong>
+            </td>
+            <td>behandelt / weitere Schritte je TOP</td>
+            <td>noch nicht veröffentlicht bzw. in Demo nicht verifiziert</td>
+            <td class="topic-links"><a target="_blank" rel="noopener" href="https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1026">Sitzung im RIS</a></td>
+          </tr>
+          <tr>
+            <td>11.06.2026</td>
+            <td>Gemeinderat</td>
+            <td>
+              <strong>Hitzeaktionsplan Feldkirchen</strong><br>
+              <strong>Jahresrechnung 2025</strong><br>
+              <strong>AFK-Beteiligungsbericht</strong>
+            </td>
+            <td>Hitzeaktionsplan beschlossen; weitere Themen behandelt</td>
+            <td>öffentliche Niederschrift vorhanden</td>
+            <td class="topic-links">
+              <a target="_blank" rel="noopener" href="https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1044">Sitzung im RIS</a>
+              <a target="_blank" rel="noopener" href="https://www.feldkirchen.de/service/krise-katastrophe/hitze">Hitzeaktionsplan / Gemeinde</a>
+            </td>
+          </tr>
+          <tr>
+            <td>11.05.2026</td>
+            <td>Gemeinderat</td>
+            <td><strong>Hauptsatzung</strong><br><strong>Geschäftsordnung</strong><br><strong>Wahl weiterer Bürgermeister</strong></td>
+            <td>Hauptsatzung und Geschäftsordnung einstimmig angenommen; Bürgermeisterwahl mehrheitlich</td>
+            <td>siehe RIS</td>
+            <td><a target="_blank" rel="noopener" href="https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1021">Sitzung im RIS</a></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div id="councilThem" class="hidden">
+      <table>
+        <thead><tr><th>Datum</th><th>Thema / Entwicklung</th><th>Stand / Entscheidung</th><th>Sitzung</th><th>Niederschrift</th><th>Weitere Links</th></tr></thead>
+        <tbody>
+          <tr>
+            <td>23.07.2026</td>
+            <td><strong>Parkraumkonzept</strong><br><a href="#presseschau">Beitrag: Anwohner kritisieren neue Parkregeln</a></td>
+            <td>erneut behandelt; spätere Reaktion auf Anwohnerkritik</td>
+            <td>Gemeinderat 23.07.2026</td>
+            <td>in Demo nicht verifiziert</td>
+            <td><a target="_blank" rel="noopener" href="https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1026">RIS</a></td>
+          </tr>
+          <tr>
+            <td>11.06.2026</td>
+            <td><strong>Hitzeaktionsplan Feldkirchen</strong></td>
+            <td>beschlossen</td>
+            <td>Gemeinderat 11.06.2026</td>
+            <td>vorhanden</td>
+            <td class="topic-links"><a target="_blank" rel="noopener" href="https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1044">RIS</a><a target="_blank" rel="noopener" href="https://www.feldkirchen.de/service/krise-katastrophe/hitze">Gemeinde</a></td>
+          </tr>
+          <tr>
+            <td>11.06.2026</td>
+            <td><strong>Jahresrechnung 2025</strong></td>
+            <td>mit ergänzenden Finanzunterlagen behandelt</td>
+            <td>Gemeinderat 11.06.2026</td>
+            <td>vorhanden</td>
+            <td><a target="_blank" rel="noopener" href="https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1044">RIS</a></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</section>
+</main>
+
+<footer>
+  <div class="inner">
+    <strong>Presseschau Feldkirchen – Demonstrator</strong>
+    <p class="small">Konzeptdemo für BÜNDNIS 90/DIE GRÜNEN Feldkirchen. Keine produktive Veröffentlichung.</p>
+  </div>
+</footer>
+
+<script>
+function filterArticles(cat,btn){
+  document.querySelectorAll('.toolbar button').forEach(b=>b.classList.remove('active'));
+  btn.classList.add('active');
+  document.querySelectorAll('.article').forEach(a=>{
+    a.style.display=(cat==='all'||a.dataset.cat===cat)?'block':'none';
+  });
+}
+function showCouncil(mode){
+  const s=document.getElementById('councilSitz'), t=document.getElementById('councilThem');
+  const bs=document.getElementById('tabSitz'), bt=document.getElementById('tabThem');
+  if(mode==='sitz'){s.classList.remove('hidden');t.classList.add('hidden');bs.classList.add('active');bt.classList.remove('active');}
+  else{t.classList.remove('hidden');s.classList.add('hidden');bt.classList.add('active');bs.classList.remove('active');}
+}
+</script>
+</body>
+</html>
