@@ -14,7 +14,29 @@
   const loader=await fetch(source,{cache:'no-store'}).then(r=>{if(!r.ok)throw new Error('Quelldatei '+r.status);return r.text()});
   const m=loader.match(/const b64='([^']+)'/);
   if(!m) throw new Error('Komprimierter Inhalt nicht gefunden');
-  const bytes=Uint8Array.from(atob(m[1]),c=>c.charCodeAt(0));
+
+  function decodeBase64(input){
+    const chars='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/';
+    const s=String(input).replace(/[^A-Za-z0-9+/=]/g,'');
+    const out=[];
+    for(let i=0;i<s.length;i+=4){
+      const c1=s[i], c2=s[i+1], c3=s[i+2]||'=', c4=s[i+3]||'=';
+      const v1=chars.indexOf(c1), v2=chars.indexOf(c2);
+      if(v1<0||v2<0) break;
+      out.push((v1<<2)|(v2>>4));
+      if(c3!=='='){
+        const v3=chars.indexOf(c3); if(v3<0) break;
+        out.push(((v2&15)<<4)|(v3>>2));
+        if(c4!=='='){
+          const v4=chars.indexOf(c4); if(v4<0) break;
+          out.push(((v3&3)<<6)|v4);
+        }
+      }
+    }
+    return Uint8Array.from(out);
+  }
+
+  const bytes=decodeBase64(m[1]);
   let html;
   try {
     if(!('DecompressionStream' in window)) throw new Error('DecompressionStream fehlt');
@@ -24,7 +46,8 @@
     await new Promise((resolve,reject)=>{
       const s=document.createElement('script');
       s.src='https://cdn.jsdelivr.net/npm/pako@2.1.0/dist/pako.min.js';
-      s.onload=resolve;s.onerror=()=>reject(new Error('Fallback-Bibliothek konnte nicht geladen werden'));
+      s.onload=resolve;
+      s.onerror=()=>reject(new Error('Fallback-Bibliothek konnte nicht geladen werden'));
       document.head.appendChild(s);
     });
     html=new TextDecoder().decode(window.pako.ungzip(bytes));
