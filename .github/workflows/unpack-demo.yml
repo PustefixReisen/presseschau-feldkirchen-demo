@@ -1,0 +1,42 @@
+name: Publish plain HTML demonstrator
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/unpack-demo.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  unpack:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Restore uncompressed annual demonstrator
+        run: |
+          python3 - <<'PY'
+          import base64, gzip, re, subprocess
+          source = subprocess.check_output(
+              ['git','show','09b524ab0ae67ce4e00dc1034327efdb6353b713:index.html'],
+              text=True
+          )
+          match = re.search(r"const b64='([^']+)'", source)
+          if not match:
+              raise SystemExit('Compressed annual content not found')
+          html = gzip.decompress(base64.b64decode(match.group(1))).decode('utf-8')
+          with open('index.html','w',encoding='utf-8') as f:
+              f.write(html)
+          print('Restored bytes:', len(html.encode('utf-8')))
+          PY
+      - name: Commit plain HTML
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.html
+          git diff --cached --quiet && exit 0
+          git commit -m "Publish plain HTML annual demonstrator"
+          git push
