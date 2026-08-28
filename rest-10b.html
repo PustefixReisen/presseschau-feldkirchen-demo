@@ -1,0 +1,45 @@
+es/muenchen-lk/feldkirchen-ort28673/gemeinderat-lehnt-sb-baeckerei-in-feldkirchen-zum-zweiten-mal-ab-94339733.html" target="_blank" rel="noopener">Münchner Merkur – Gemeinderat lehnt SB-Bäckerei zum zweiten Mal ab</a></li></ul></div>
+      <section class="assessment"><h4>Unsere Einordnung</h4><p>Lebendige Ortszentren entstehen nicht durch einzelne Geschäfte allein, sondern durch ein Zusammenspiel aus Nahversorgung, Dienstleistungen, kurzen Wegen und Aufenthaltsqualität. Die Verlagerung der Post zeigt, dass Angebote im Ort erhalten bleiben können, auch wenn sich ihr Standort verändert. Die wiederholt abgelehnte SB-Bäckerei zeigt dagegen, dass neue Nutzungen nicht automatisch in jede Fläche passen.</p><p>Aus grüner Sicht sollte Feldkirchen die Entwicklung des Ortszentrums aktiv begleiten: wohnortnahe Versorgung stärken, Leerstände und Umnutzungen frühzeitig betrachten und die Maßnahmen des Ortsentwicklungskonzepts mit Fuß- und Radwegen sowie attraktiven öffentlichen Räumen verbinden.</p></section>
+      <div class="related"><h4>Zugehörige Beiträge</h4><ul><li><a href="#beitrag-R002">30. September 2025 – Postfiliale zieht an den Wolfgangsplatz</a></li><li><a href="#beitrag-R031">30. April 2026 – Gemeinderat lehnt SB-Bäckerei in der Kirchenstraße erneut ab</a></li></ul></div>
+    </article>
+    <article class="card topic-card" id="thema-T007">
+      <div class="topic-dates"><span>Erstmals angelegt: 17. November 2025</span><span>Zuletzt inhaltlich aktualisiert: 17. November 2025</span></div>
+      <h3>Spielplätze</h3>
+      <div class="body"><p>Im November 2025 entwickelten sich die Spielplatzangebote in zwei Wohnbereichen gegenläufig. Am Königsberger Weg scheiterte der geplante Erwerb beziehungsweise die Modernisierung des bisherigen Spielplatzareals an einer fehlenden Einigung mit den Grundstückseigentümern; der dortige Spielplatz entfiel.</p><p>Nahezu zeitgleich meldete die Gemeinde den Baufortschritt eines neuen Spielplatzes an der Schwalbenstraße, der unter dem Motto „Piraten Ahoi“ gestaltet wird. Die beiden Entwicklungen zeigen, dass die Versorgung mit wohnungsnahen Spielflächen nicht allein von kommunaler Planung, sondern teilweise auch von Grundstücksverfügbarkeit und Eigentumsverhältnissen abhängt.</p></div>
+      <div class="open-questions"><h4>Offene Fragen</h4><ul><li>Wie verändert der Wegfall am Königsberger Weg die wohnungsnahe Spielplatzversorgung in diesem Bereich?</li><li>Gibt es Ersatz- oder Alternativflächen für den entfallenen Standort?</li><li>Wie verteilt sich das Spielplatzangebot künftig über die verschiedenen Wohngebiete Feldkirchens?</li></ul></div>
+      <div class="sources"><h4>Quellen</h4><ul><li><a href="https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/modernisierung-gescheitert-spielplatz-in-feldkirchen-verschwindet-94025260.html" target="_blank" rel="noopener">Münchner Merkur – Spielplatz verschwindet</a></li><li><a href="https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/nachrichten-archiv/neue-spielplatz-schwalbenstrasse" target="_blank" rel="noopener">Gemeinde Feldkirchen – Neuer Spielplatz</a></li></ul></div>
+      <section class="assessment"><h4>Unsere Einordnung</h4><p>Ein neuer attraktiver Spielplatz ist ein Gewinn. Gleichzeitig zeigt der Wegfall am Königsberger Weg, dass die Gesamtversorgung im Blick bleiben muss. Für Kinder zählt nicht nur die Zahl der Anlagen, sondern ob Spielflächen sicher und selbstständig erreichbar sowie über die Wohngebiete sinnvoll verteilt sind.</p><p>Grüne Kommunalpolitik versteht Spiel- und Freizeitflächen als Teil einer kindgerechten Ortsentwicklung. Deshalb sollte die Gemeinde prüfen, welche Versorgungslücke am Königsberger Weg entsteht und ob dort oder in erreichbarer Nähe ein Ersatzangebot möglich ist.</p></section>
+      <div class="related"><h4>Zugehörige Beiträge</h4><ul><li><a href="#beitrag-R010">7. November 2025 – Spielplatz am Königsberger Weg entfällt</a></li><li><a href="#beitrag-R011">17. November 2025 – Neuer Piratenspielplatz an der Schwalbenstraße entsteht</a></li></ul></div>
+    </article></div>
+</section>
+</main>
+<footer><div>Presseschau von BÜNDNIS 90/DIE GRÜNEN Feldkirchen · Quellen führen zu den jeweils verwendeten öffentlichen Original- oder Presseinformationen.</div></footer>
+<script>
+const buttons=[...document.querySelectorAll('nav button')];
+const panels=[...document.querySelectorAll('.panel')];
+function showPanel(id){
+ panels.forEach(p=>p.classList.toggle('active',p.id===id));
+ buttons.forEach(b=>b.classList.toggle('active',b.dataset.target===id));
+ if(location.hash && !document.querySelector(location.hash)) history.replaceState(null,'','#'+id);
+}
+buttons.forEach(b=>b.addEventListener('click',()=>{showPanel(b.dataset.target);history.replaceState(null,'','#'+b.dataset.target);window.scrollTo({top:0,behavior:'smooth'})}));
+function activateForHash(){
+ const h=location.hash.slice(1);
+ if(h.startsWith('beitrag-')) showPanel('presseschau');
+ else if(h.startsWith('sitzung-')) showPanel('gemeinderat');
+ else if(h.startsWith('thema-')) showPanel('themen');
+ else if(['presseschau','gemeinderat','themen'].includes(h)) showPanel(h);
+}
+activateForHash(); window.addEventListener('hashchange',activateForHash);
+const cat=document.getElementById('categoryFilter'), q=document.getElementById('searchInput');
+function filterPosts(){
+ const cv=cat.value.toLowerCase(), qv=q.value.trim().toLowerCase();
+ document.querySelectorAll('.contribution').forEach(el=>{
+   const okCat=!cv||el.dataset.category.toLowerCase()===cv;
+   const okQ=!qv||el.innerText.toLowerCase().includes(qv);
+   el.style.display=(okCat&&okQ)?'block':'none';
+ });
+}
+cat.addEventListener('change',filterPosts); q.addEventListener('input',filterPosts);
+</script>
+</body></html>
