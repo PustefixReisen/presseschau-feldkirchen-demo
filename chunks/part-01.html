@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Presseschau Feldkirchen</title>
+<style>
+:root {
+ --green:#0b6b3a; --green-2:#e8f4ed; --ink:#1c2420; --muted:#5e6a63; --line:#d9e1dc;
+ --bg:#f6f8f6; --card:#fff; --accent:#f2c94c; --max:1120px;
+}
+*{box-sizing:border-box} html{scroll-behavior:smooth} body{margin:0;font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;color:var(--ink);background:var(--bg);line-height:1.58}
+a{color:var(--green);text-decoration-thickness:1px;text-underline-offset:2px} a:hover{text-decoration-thickness:2px}
+header{background:linear-gradient(135deg,#073f25,#0b6b3a);color:#fff;padding:2rem 1rem 1.5rem}
+.header-inner{max-width:var(--max);margin:auto} .eyebrow{font-size:.82rem;text-transform:uppercase;letter-spacing:.09em;opacity:.85}
+h1{font-size:clamp(2rem,5vw,3.6rem);line-height:1.05;margin:.35rem 0 .6rem} .lead{max-width:780px;margin:0;font-size:1.08rem;opacity:.94}
+.demo-note{max-width:var(--max);margin:1rem auto 0;padding:.65rem .8rem;border-left:3px solid var(--accent);background:rgba(255,255,255,.1);font-size:.9rem}
+nav{position:sticky;top:0;z-index:10;background:#fff;border-bottom:1px solid var(--line)} .nav-inner{max-width:var(--max);margin:auto;display:flex;gap:.3rem;padding:.55rem 1rem;overflow:auto}
+nav button{border:0;background:transparent;padding:.65rem .85rem;border-radius:999px;font:inherit;font-weight:650;cursor:pointer;white-space:nowrap}
+nav button.active,nav button:hover{background:var(--green-2);color:var(--green)}
+main{max-width:var(--max);margin:0 auto;padding:1.3rem 1rem 4rem}
+.panel{display:none} .panel.active{display:block} .section-head{display:flex;align-items:end;justify-content:space-between;gap:1rem;margin:1.2rem 0 1rem}
+.section-head h2{font-size:clamp(1.6rem,3vw,2.2rem);margin:0} .count{color:var(--muted);font-size:.92rem}
+.filters{display:flex;flex-wrap:wrap;gap:.7rem;margin-bottom:1rem} select,input[type=search]{font:inherit;padding:.65rem .8rem;border:1px solid var(--line);border-radius:.55rem;background:#fff;min-width:220px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:1.1rem 1.2rem;margin:0 0 1rem;box-shadow:0 2px 10px rgba(0,0,0,.03)}
+.card h3{font-size:1.35rem;line-height:1.25;margin:.35rem 0 .35rem} .card h4{font-size:.98rem;margin:1rem 0 .35rem}
+.card-meta,.topic-dates{display:flex;gap:.7rem;flex-wrap:wrap;color:var(--muted);font-size:.86rem} .card-meta span{background:#eef2ef;border-radius:999px;padding:.05rem .5rem}
+.subtitle{font-weight:650;color:#36423b;margin:.15rem 0 .75rem} .body p{margin:.55rem 0}
+.sources{border-top:1px solid var(--line);margin-top:.9rem;padding-top:.15rem} ul{margin:.3rem 0 .6rem;padding-left:1.2rem} li{margin:.25rem 0}
+.assessment{background:var(--green-2);border-left:4px solid var(--green);padding:.75rem .9rem;margin:1rem 0 .2rem;border-radius:0 9px 9px 0}
+.assessment h4{color:var(--green);margin:.05rem 0 .35rem} .assessment p{margin:.45rem 0}
+.history,.related,.open-questions{margin-top:.8rem} .top-item{padding:.7rem 0;border-bottom:1px solid var(--line)} .top-item:last-child{border-bottom:0}
+.top-title{font-weight:700} .vo{font-size:.8rem;color:var(--muted);font-weight:550;white-space:nowrap} .decision{margin:.3rem 0 0;color:#39443d;font-size:.95rem}
+.council-links{margin-top:.8rem;padding-top:.6rem;border-top:1px solid var(--line);font-size:.92rem} .council-links p{margin:.28rem 0}
+.muted,.status-open{color:var(--muted)} .topic-dates{justify-content:space-between;border-bottom:1px solid var(--line);padding-bottom:.5rem}
+footer{border-top:1px solid var(--line);padding:1.5rem 1rem;color:var(--muted);font-size:.9rem;background:#fff} footer div{max-width:var(--max);margin:auto}
+@media (min-width:850px){.council-card,.topic-card{padding:1.35rem 1.55rem}}
+@media (max-width:620px){header{padding-top:1.4rem} .card{padding:1rem} .topic-dates{display:block} .topic-dates span{display:block;margin:.15rem 0}}
+</style>
+</head>
+<body>
+<header>
+ <div class="header-inner">
+  <div class="eyebrow">BÜNDNIS 90/DIE GRÜNEN Feldkirchen</div>
+  <h1>Presseschau Feldkirchen</h1>
+  <p class="lead">Lokale Entwicklungen, Entscheidungen im Gemeinderat und länger laufende Themen – sachlich zusammengefasst und, wo sinnvoll, mit unserer Einordnung.</p>
+ </div>
+ <div class="demo-note">Technischer Demonstrator für Inhalt und Informationsarchitektur. Der dargestellte Jahresbestand umfasst den Zeitraum 27. August 2025 bis 27. August 2026.</div>
+</header>
+<nav aria-label="Bereiche">
+ <div class="nav-inner">
+  <button class="active" data-target="presseschau">Presseschau</button>
+  <button data-target="gemeinderat">Gemeinderat</button>
+  <button data-target="themen">Themen</button>
+ </div>
+</nav>
+<main>
+<section id="presseschau" class="panel active">
+ <div class="section-head"><h2>Presseschau</h2><div class="count">43 Beiträge</div></div>
+ <div class="filters">
+  <select id="categoryFilter"><option value="">Alle Kategorien</option><option value="Bürgerbeteiligung &amp; Verkehr">Bürgerbeteiligung &amp; Verkehr</option><option value="Erholung &amp; Verkehr">Erholung &amp; Verkehr</option><option value="Finanzen">Finanzen</option><option value="Gesundheit &amp; Umwelt">Gesundheit &amp; Umwelt</option><option value="Infrastruktur &amp; Versorgung">Infrastruktur &amp; Versorgung</option><option value="Kinder &amp; Bildung">Kinder &amp; Bildung</option><option value="Kinder &amp; Verkehr">Kinder &amp; Verkehr</option><option value="Kinder &amp; öffentlicher Raum">Kinder &amp; öffentlicher Raum</option><option value="Klima &amp; Energie">Klima &amp; Energie</option><option value="Klima &amp; Gesundheit">Klima &amp; Gesundheit</option><option value="Klima &amp; Umwelt">Klima &amp; Umwelt</option><option value="Kommunale Einrichtungen">Kommunale Einrichtungen</option><option value="Kommunalpolitik">Kommunalpolitik</option><option value="Ordnung &amp; Verkehr">Ordnung &amp; Verkehr</option><option value="Ortsentwicklung &amp; Bauen">Ortsentwicklung &amp; Bauen</option><option value="Ortsentwicklung &amp; öffentlicher Raum">Ortsentwicklung &amp; öffentlicher Raum</option><option value="Ortszentrum &amp; Gewerbe">Ortszentrum &amp; Gewerbe</option><option value="Sicherheit &amp; Katastrophenschutz">Sicherheit &amp; Katastrophenschutz</option><option value="Umwelt &amp; Abfall">Umwelt &amp; Abfall</option><option value="Verkehr &amp; Infrastruktur">Verkehr &amp; Infrastruktur</option><option value="Verkehr &amp; Mobilität">Verkehr &amp; Mobilität</option><option value="Verkehr &amp; öffentlicher Raum">Verkehr &amp; öffentlicher Raum</option><option value="Wohnen &amp; Bauen">Wohnen &amp; Bauen</option><option value="ÖPNV &amp; Mobilität">ÖPNV &amp; Mobilität</option></select>
+  <input id="searchInput" type="search" placeholder="Beiträge durchsuchen" aria-label="Beiträge durchsuchen">
+ </div>
+ <div id="contributionList">
+    <article class="card contribution" id="beitrag-R048" data-category="Gesundheit &amp; Umwelt" data-date="2026-08-20">
+      <div class="card-meta"><time datetime="2026-08-20">20. August 2026</time><span>Gesundheit &amp; Umwelt</span></div>
+      <h3>Blaualgen im Heimstettener See nachgewiesen</h3>
+      <p class="subtitle">Das Gesundheitsamt rät vorsorglich vom Baden und Schwimmen im gesamten See ab.</p>
+      <div class="body"><p>Das Gesundheitsamt München Land wies Cyanobakterien insbesondere am Südufer des Heimstettener Sees nach. Vorsorglich wurde vom Baden und Schwimmen im gesamten See abgeraten; ein Badeverbot wurde nicht ausgesprochen.</p></div>
+      <div class="sources"><h4>Quellen</h4><ul><li><a href="https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/blaualgen-im-heimstettener-see-nachgewiesen" target="_blank" rel="noopener">Gemeinde Feldkirchen – Blaualgen im Heimstettener See</a></li></ul></div>
+      
+      
+    </article>
+    <article class="card contribution" id="beitrag-R040" data-category="Klima &amp; Energie" data-date="2026-08-19">
+      <div class="card-meta"><time datetime="2026-08-19">19. August 2026</time><span>Klima &amp; Energie</span></div>
+      <h3>AFK startet Bauphase für zweite Geothermie-Dublette</h3>
+      <p class="subtitle">Die Bohrungen sollen ab November beginnen; zusätzliche Fernwärmeanschlüsse sind nach bisheriger Planung ab 2028 vorgesehen.</p>
+      <div class="body"><p>Die AFK meldete im August 2026 den Beginn der Baustellenvorbereitung für die zweite Geothermie-Dublette. Die Bohrungen sollen ab November bis in rund 2.600 Meter Tiefe reichen. Erste zusätzliche Anschlüsse an das Wärmenetz sind nach dem bisherigen Zeitplan ab 2028 vorgesehen.</p></div>
+      <div class="sources"><h4>Quellen</h4><ul><li><a href="https://afk-geothermie.de/ueber-uns/zweite-tiefenbohrung-der-naechste-schritt-in-richtung-klimaneutrale-waermeversorgung/" target="_blank" rel="noopener">AFK-Geothermie – Zweite Tiefenbohrung</a></li><li><a href="https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/afk-geothermie-bohrungen-fuer-dublette-ab-november-neue-anschluesse-ab-2028-94449062.html" target="_blank" rel="noopener">Münchner Merkur – AFK: Bohrungen für Dublette ab November</a></li></ul></div>
+      <section class="assessment"><h4>Unsere Einordnung</h4><p>Mit der zweiten Dublette wird aus der Wärmeplanung konkrete Infrastruktur. Für uns ist deshalb wichtig, dass der Netzausbau jetzt parallel vorbereitet wird: Neue geothermische Wärme nützt Feldkirchen erst dann umfassend, wenn sie zusätzliche Haushalte und Betriebe erreicht. Ausbau, Kostenentwicklung und Umweltauflagen sollten transparent begleitet werden.</p></section>
+      <div class="history"><h4>Bisheriger Verlauf</h4><ul><li><a href="#beitrag-R022">5. Februar 2026 – AFK kündigt zweite Geothermie-Tiefenbohrung an</a></li></ul></div>
+    </article>
+    <article class="card contribution" id="beitrag-R039" data-category="Verkehr &amp; Mobilität" data-date="2026-08-18">
+      <div class="card-meta"><time datetime="2026-08-18">18. August 2026</time><span>Verkehr &amp; Mobilität</span></div>
+      <h3>Anwohner protestieren gegen neue Parkregelung am Friedhof</h3>
+      <p class="subtitle">Nach Einwänden gegen die Zwei-Stunden-Regel soll die zulässige Parkdauer auf drei Stunden verlängert werden.</p>
+      <div class="body"><p>34 Anwohner wandten sich gegen die neue Zwei-Stunden-Parkregelung im Umfeld des Friedhofs. Der Gemeinderat hielt grundsätzlich am Parkraumkonzept fest; für diesen Bereich sollte die zulässige Parkdauer jedoch auf drei Stunden verlängert werden.</p></div>
+      <div class="sources"><h4>Quellen</h4><ul><li><a href="https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/feldkirchen-aerger-ueber-neue-parkregeln-anwohner-protest-gegen-konzept-der-gemeinde-94447851.html" target="_blank" rel="noopener">Münchner Merkur – Anwohner-Protest gegen Parkregeln</a></li></ul></div>
+      <section class="assessment"><h4>Unsere Einordnung</h4><p>Der Konflikt am Friedhof zeigt, warum Parkraummanagement eine klare Zielsetzung und anschließende Wirkungskontrolle braucht. Eine Änderung von zwei auf drei Stunden kann sachgerecht sein – entscheidend ist aber, ob die Regelung die tatsächlichen Nutzungsprobleme löst und unterschiedliche Interessen nachvollziehbar abwägt.</p></section>
+      <div class="history"><h4>Bisheriger Verlauf</h4><ul><li><a href="#beitrag-R026">12. März 2026 – Gemeinderat fordert Ergänzungen am Parkraumkonzept</a></li></ul></div>
+    </article>
+    <article cla
