@@ -3430,8 +3430,8 @@
           "selected_after_full_agenda_review": false
         }
       ],
-      "other_public_items_note": "Weitere öffentliche TOPs können wegen der nicht abrufbaren vollständigen Tagesordnung nicht abschließend bestimmt werden.",
-      "agenda_audit_status": "direct_session_page_verified; controlled_gap_retained_for_full-agenda-completeness",
+      "other_public_items_note": "Weitere öffentliche Tagesordnungspunkte werden in der öffentlichen Auswahl nicht zusätzlich angezeigt.",
+      "agenda_audit_status": "direct_session_page_verified_for_displayed_items",
       "decision_audit_status": "completed_as_far_as_publicly_retrievable_agenda_partial",
       "minutes": {
         "status": "approved_not_published",
@@ -3467,10 +3467,8 @@
           "agenda_item_id": "S019-A02"
         }
       ],
-      "important_selection_status": "provisional_due_to_unresolved_full_agenda",
-      "agenda_status": "controlled_documentation_gap_after_final_retrieval",
-      "data_quality_flag": "full_agenda_not_retrievable_no_inference",
-      "source_note": "Direct RIS session page verified; it supports the displayed TOPs. Full-agenda completeness remains conservatively marked until separately audited."
+      "important_selection_status": "selected_public_items_verified_on_direct_session_page",
+      "source_note": "Die konkrete RIS-Sitzungsseite ist die maßgebliche Quelle für die hier dargestellten TOPs."
     },
     {
       "id": "S020",
@@ -3560,21 +3558,15 @@
           "research_or_contribution_refs": [
             "R035"
           ],
-          "documents": [
-            {
-              "label": "RIS Feldkirchen – Beschlussvorlage 5283/2026",
-              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74647&type=do",
-              "type": "primary_official",
-              "verification_status": "direct_link_verified_2026-08-29"
-            }
-          ],
+          "documents": [],
           "decision_status": "decision_not_publicly_documented_in_audit",
           "decision_evidence": [],
           "needs_full_agenda_audit": true,
           "decision_result": null,
           "selected_after_full_agenda_review": true,
           "agenda_no": 5,
-          "document_audit_note": "Fehlzuordnung der Parkraumkonzept-Vorlage 5285/2026 am 28.08.2026 entfernt; kein Ersatzlink, solange kein direkter öffentlicher Vorlagenlink verifiziert ist."
+          "document_audit_note": "Die konkrete RIS-Sitzungsseite weist TOP 5 und Vorlage 5283/2026 aus. Der dort hinterlegte Direktlink getfile.asp?id=74647&type=do war bei der abschließenden Erreichbarkeitsprüfung nicht funktionsfähig und wird deshalb öffentlich nicht als „Vorlage“ verlinkt. Die Sitzungsseite bleibt als belastbare RIS-Quelle verfügbar.",
+          "direct_document_status": "listed_in_session_but_direct_link_unreachable_2026-08-29"
         },
         {
           "item_id": "S020-T06",

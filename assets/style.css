@@ -63,3 +63,9 @@ details{border-top:1px solid #d2d9d5;margin-top:14px;padding-top:11px}summary{cu
 .hero h1{max-width:900px}.hero-inner{padding-top:68px}.brand b{letter-spacing:.04em}.card:hover{box-shadow:0 3px 0 rgba(0,84,55,.11),0 14px 34px rgba(20,45,34,.09)}
 
 .topic-link{margin-top:18px;padding-top:13px;border-top:1px solid #d2d9d5;font-weight:800}.topic-link a{color:#005437;text-decoration-thickness:2px}.topic-link a:hover{color:#007a4d}.topic-card{scroll-margin-top:110px}.section-intro p{color:#c4d1cb}.toolbar label{color:#d9e2dd}.archive-box .muted{color:#5c6d65}
+
+/* Link contrast on light content cards */
+.card a{color:#00613f;text-decoration-thickness:1.7px;text-underline-offset:3px}
+.card a:hover,.card a:focus{color:#003f2a;text-decoration-thickness:2px}
+.sources a{color:#00613f;font-weight:600}
+.document-unavailable{display:inline-block;color:#52655c;font-size:.95rem;font-style:italic;margin-top:.2rem}
