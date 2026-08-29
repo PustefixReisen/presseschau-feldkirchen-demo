@@ -7,27 +7,30 @@
 </head>
 <body>
 <noscript>Für diesen Demonstrator muss JavaScript aktiviert sein.</noscript>
-<p id="status" style="font-family:system-ui,sans-serif;padding:1rem">Demonstrator wird geladen …</p>
+<p id="status" style="font-family:system-ui,sans-serif;padding:1rem">Presseschau wird geladen …</p>
 <script>
 (async()=>{
-  const parts=[
-    'chunks/part-01.html','chunks/part-02.html',
-    'rest-01.html','rest-02.html','rest-03.html','rest-04.html','rest-05.html','rest-06.html','rest-07.html',
-    'rest-08a.html','rest-08b.html','rest-09a.html','rest-09b.html','rest-10a.html','rest-10b.html'
-  ];
   try {
-    const texts=[];
-    for(const part of parts){
-      const response=await fetch(part,{cache:'no-store'});
-      if(!response.ok) throw new Error(part+' – HTTP '+response.status);
-      texts.push(await response.text());
+    const files=[
+      'release-2026-08-29/p1.txt',
+      'release-2026-08-29/p2.txt',
+      'release-2026-08-29/p3.txt',
+      'release-2026-08-29/p4.txt'
+    ];
+    let encoded='';
+    for(const file of files){
+      const response=await fetch(file,{cache:'no-store'});
+      if(!response.ok) throw new Error(file+' – HTTP '+response.status);
+      encoded+=await response.text();
     }
-    const html=texts.join('');
+    const bytes=Uint8Array.from(atob(encoded),c=>c.charCodeAt(0));
+    const stream=new Blob([bytes]).stream().pipeThrough(new DecompressionStream('gzip'));
+    const html=await new Response(stream).text();
     document.open();
     document.write(html);
     document.close();
   } catch(e) {
-    document.body.innerHTML='<p style="font-family:system-ui,sans-serif;padding:1rem"><strong>Der Demonstrator konnte nicht geladen werden.</strong><br>Technischer Hinweis: '+String(e.message||e)+'</p>';
+    document.body.innerHTML='<p style="font-family:system-ui,sans-serif;padding:1rem"><strong>Die Presseschau konnte nicht geladen werden.</strong><br>Technischer Hinweis: '+String(e.message||e)+'</p>';
     console.error(e);
   }
 })();
