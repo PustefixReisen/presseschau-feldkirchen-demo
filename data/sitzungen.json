@@ -1,0 +1,3986 @@
+{
+  "schema_version": "2.0",
+  "status": "canonical_after_stage_F_with_controlled_gap",
+  "research_window": {
+    "from": "2025-08-27",
+    "to": "2026-08-27"
+  },
+  "purpose": "Kanonischer strukturierter Sitzungsbestand der Homepage-Presseschau",
+  "migration": {
+    "stage": "A",
+    "date": "2026-08-28",
+    "source_file": "gemeinderatssitzungen_2025-08-27_2026-08-27.csv",
+    "source_sha256": "6e35b4576c08a05b018b95e6a2d9839dee3a1d376e25b013f16db1b37272e3ec",
+    "canonical_replacement": "not_yet"
+  },
+  "session_count": 21,
+  "sessions": [
+    {
+      "id": "S001",
+      "date": "2025-09-18",
+      "body": "Gemeinderat",
+      "session_ref": "GR/414/2025",
+      "session_url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=996",
+      "legacy_important_items": "5021/2025 | 5026/2025 | 5031/2025 | 5034/2025",
+      "important_items": [
+        {
+          "item_id": "S001-T05",
+          "legacy_label": "5034/2025",
+          "proposal_no": "5034/2025",
+          "title": "Multifunktionsfläche Messe München auf Feldkirchner Gebiet – Tekturantrag/weitere Befreiungen",
+          "research_or_contribution_refs": [],
+          "documents": [
+            {
+              "label": "RIS Feldkirchen – Beschlussvorlage 5034/2025",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=70876&type=do",
+              "type": "primary_official",
+              "verification_status": "direct_link_verified_2026-08-29"
+            }
+          ],
+          "decision_status": "decision_not_publicly_documented_in_audit",
+          "decision_evidence": [],
+          "needs_full_agenda_audit": true,
+          "decision_result": null,
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 5
+        },
+        {
+          "item_id": "S001-T06",
+          "legacy_label": "5021/2025",
+          "proposal_no": "5021/2025",
+          "title": "20. Änderung Flächennutzungsplan östlich M1/nördlich M18 – Gewerbe sowie Bauhof/Wertstoffhof",
+          "research_or_contribution_refs": [
+            "R001"
+          ],
+          "documents": [
+            {
+              "label": "RIS Feldkirchen – Beschlussvorlage 5021/2025",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=70759&type=do",
+              "type": "primary_official",
+              "verification_status": "legacy_link_preserved"
+            }
+          ],
+          "decision_status": "decision_not_publicly_documented_in_audit",
+          "decision_evidence": [],
+          "needs_full_agenda_audit": true,
+          "decision_result": null,
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 6
+        },
+        {
+          "item_id": "S001-T07",
+          "proposal_no": "5019/2025",
+          "title": "21. Änderung Flächennutzungsplan Gewerbegebiet Weißenfelder Straße",
+          "research_or_contribution_refs": [],
+          "documents": [
+            {
+              "label": "RIS Feldkirchen – Beschlussvorlage 5019/2025",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=70723&type=do",
+              "type": "primary_official",
+              "verification_status": "direct_link_verified_2026-08-29"
+            }
+          ],
+          "decision_status": "decision_not_publicly_documented_in_audit",
+          "decision_result": null,
+          "decision_evidence": [],
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 7
+        },
+        {
+          "item_id": "S001-T08",
+          "proposal_no": "5018/2025",
+          "title": "Bebauungs- und Grünordnungsplan Nr. 102, 1. Änderung Gewerbegebiet Weißenfelder Straße",
+          "research_or_contribution_refs": [],
+          "documents": [
+            {
+              "label": "RIS Feldkirchen – Beschlussvorlage 5018/2025",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=70704&type=do",
+              "type": "primary_official",
+              "verification_status": "direct_link_verified_2026-08-29"
+            }
+          ],
+          "decision_status": "decision_not_publicly_documented_in_audit",
+          "decision_result": null,
+          "decision_evidence": [],
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 8
+        },
+        {
+          "item_id": "S001-T09",
+          "proposal_no": "5020/2025",
+          "title": "Bebauungsplan Nr. 101, 1. Änderung – Billigungsbeschluss",
+          "research_or_contribution_refs": [],
+          "documents": [
+            {
+              "label": "RIS Feldkirchen – Beschlussvorlage 5020/2025",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=70746&type=do",
+              "type": "primary_official",
+              "verification_status": "direct_link_verified_2026-08-29"
+            }
+          ],
+          "decision_status": "decision_not_publicly_documented_in_audit",
+          "decision_result": null,
+          "decision_evidence": [],
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 9
+        },
+        {
+          "item_id": "S001-T10",
+          "proposal_no": "5027/2025",
+          "title": "Bebauungsplan Nr. 103, 2. Änderung Ludwig-/Westend-/Brunnen-/Münchner Straße",
+          "research_or_contribution_refs": [],
+          "documents": [
+            {
+              "label": "RIS Feldkirchen – Beschlussvorlage 5027/2025",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=70840&type=do",
+              "type": "primary_official",
+              "verification_status": "direct_link_verified_2026-08-29"
+            }
+          ],
+          "decision_status": "decision_not_publicly_documented_in_audit",
+          "decision_result": null,
+          "decision_evidence": [],
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 10
+        },
+        {
+          "item_id": "S001-T11",
+          "legacy_label": "5026/2025",
+          "proposal_no": "5026/2025",
+          "title": "Antrag Bebauungsplanänderung BP 9 – Hotel mit 75 Appartements und Gaststätte, Hohenlindner Str. 38",
+          "research_or_contribution_refs": [],
+          "documents": [
+            {
+              "label": "RIS Feldkirchen – Beschlussvorlage 5026/2025",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=70837&type=do",
+              "type": "primary_official",
+              "verification_status": "direct_link_verified_2026-08-29"
+            }
+          ],
+          "decision_status": "decision_not_publicly_documented_in_audit",
+          "decision_evidence": [],
+          "needs_full_agenda_audit": true,
+          "decision_result": null,
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 11
+        },
+        {
+          "item_id": "S001-T12",
+          "legacy_label": "5031/2025",
+          "proposal_no": "5031/2025",
+          "title": "Brunnen am Maibaumplatz – Sanierung, Trinkwasserbrunnen, Sprühnebelanlage, Kneippbecken",
+          "research_or_contribution_refs": [],
+          "documents": [
+            {
+              "label": "RIS Feldkirchen – Beschlussvorlage 5031/2025",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=70867&type=do",
+              "type": "primary_official",
+              "verification_status": "direct_link_verified_2026-08-29"
+            }
+          ],
+          "decision_status": "decision_not_publicly_documented_in_audit",
+          "decision_evidence": [],
+          "needs_full_agenda_audit": true,
+          "decision_result": null,
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 12
+        }
+      ],
+      "other_public_items_note": "Weitere öffentliche TOPs wurden vollständig geprüft und nicht einzeln als wichtig ausgewiesen.",
+      "agenda_audit_status": "full_public_agenda_verified",
+      "decision_audit_status": "completed_for_selected_items_public_evidence_only",
+      "minutes": {
+        "status": "approved_not_published",
+        "approval_status": "approved",
+        "approval_date": "2025-10-16",
+        "approval_evidence_session_id": "S003",
+        "publication_status": "not_publicly_found",
+        "publication_date": null,
+        "direct_public_minutes_url": null,
+        "link_status": "no_link",
+        "evidence": [
+          {
+            "type": "later_public_agenda_approval_item",
+            "session_id": "S003",
+            "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=999"
+          }
+        ]
+      },
+      "legacy_verification_status": "agenda/session verified",
+      "full_public_agenda": [
+        {
+          "no": 1,
+          "title": "Genehmigung der Niederschrift der Ferienausschuss-Sitzung vom 21.08.2025",
+          "agenda_item_id": "S001-A01"
+        },
+        {
+          "no": 2,
+          "proposal": "5023/2025",
+          "title": "Bauantrag Wintergarten Falkenstr. 2 – erneute Beschlussfassung",
+          "agenda_item_id": "S001-A02"
+        },
+        {
+          "no": 3,
+          "proposal": "5024/2025",
+          "title": "Vorbescheid: zwei Wohnhäuser mit Teilgewerbe und Tiefgarage, Bahnhofstr. 19",
+          "agenda_item_id": "S001-A03"
+        },
+        {
+          "no": 4,
+          "proposal": "5030/2025",
+          "title": "Erweiterung Überdachung Logistikgebäude, Weißenfelderstraße 6",
+          "agenda_item_id": "S001-A04"
+        },
+        {
+          "no": 5,
+          "proposal": "5034/2025",
+          "title": "Multifunktionsfläche Messe München auf Feldkirchner Gebiet – Tekturantrag/weitere Befreiungen",
+          "agenda_item_id": "S001-A05"
+        },
+        {
+          "no": 6,
+          "proposal": "5021/2025",
+          "title": "20. Änderung Flächennutzungsplan östlich M1/nördlich M18 – Gewerbe sowie Bauhof/Wertstoffhof",
+          "agenda_item_id": "S001-A06"
+        },
+        {
+          "no": 7,
+          "proposal": "5019/2025",
+          "title": "21. Änderung Flächennutzungsplan Gewerbegebiet Weißenfelder Straße",
+          "agenda_item_id": "S001-A07"
+        },
+        {
+          "no": 8,
+          "proposal": "5018/2025",
+          "title": "Bebauungs- und Grünordnungsplan Nr. 102, 1. Änderung Gewerbegebiet Weißenfelder Straße",
+          "agenda_item_id": "S001-A08"
+        },
+        {
+          "no": 9,
+          "proposal": "5020/2025",
+          "title": "Bebauungsplan Nr. 101, 1. Änderung – Billigungsbeschluss",
+          "agenda_item_id": "S001-A09"
+        },
+        {
+          "no": 10,
+          "proposal": "5027/2025",
+          "title": "Bebauungsplan Nr. 103, 2. Änderung Ludwig-/Westend-/Brunnen-/Münchner Straße",
+          "agenda_item_id": "S001-A10"
+        },
+        {
+          "no": 11,
+          "proposal": "5026/2025",
+          "title": "Antrag Bebauungsplanänderung BP 9 – Hotel mit 75 Appartements und Gaststätte, Hohenlindner Str. 38",
+          "agenda_item_id": "S001-A11"
+        },
+        {
+          "no": 12,
+          "proposal": "5031/2025",
+          "title": "Brunnen am Maibaumplatz – Sanierung, Trinkwasserbrunnen, Sprühnebelanlage, Kneippbecken",
+          "agenda_item_id": "S001-A12"
+        },
+        {
+          "no": 13,
+          "proposal": "5028/2025",
+          "title": "Runder Tisch Sport – CSU-Antrag",
+          "agenda_item_id": "S001-A13"
+        },
+        {
+          "no": 14,
+          "proposal": "5025/2025",
+          "title": "Antrag auf Verwendung des Gemeindewappens",
+          "agenda_item_id": "S001-A14"
+        },
+        {
+          "no": 15,
+          "title": "Bekanntgaben und Berichte",
+          "agenda_item_id": "S001-A15"
+        },
+        {
+          "no": 16,
+          "title": "Anfragen",
+          "agenda_item_id": "S001-A16"
+        }
+      ],
+      "important_selection_status": "completed_after_full_agenda_review"
+    },
+    {
+      "id": "S002",
+      "date": "2025-10-02",
+      "body": "Gemeinderat",
+      "session_ref": "GR/415/2025",
+      "session_url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=998",
+      "legacy_important_items": "4999/2025 | 5048/2025 | 5044/2025 | 5045/2025 | 5046/2025",
+      "important_items": [
+        {
+          "item_id": "S002-T02",
+          "legacy_label": "4999/2025",
+          "proposal_no": "4999/2025",
+          "title": "Bebauungsplan Nr. 113 südlich Hohenlindner Straße bis Jahnstraße – Behandlung Stellungnahmen",
+          "research_or_contribution_refs": [
+            "R003"
+          ],
+          "documents": [
+            {
+              "label": "RIS Feldkirchen – Sitzung 02.10.2025",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=998",
+              "type": "primary_official",
+              "verification_status": "legacy_link_preserved"
+            },
+            {
+              "label": "RIS Feldkirchen – Beschlussvorlage 4999/2025",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=70456&type=do",
+              "type": "primary_official",
+              "verification_status": "legacy_link_preserved"
+            }
+          ],
+          "decision_status": "public_result_verified",
+          "decision_evidence": [
+            {
+              "type": "official_sessionnet",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=998"
+            }
+          ],
+          "needs_full_agenda_audit": true,
+          "decision_result": "mehrheitlich angenommen",
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 2
+        },
+        {
+          "item_id": "S002-T03",
+          "legacy_label": "5048/2025",
+          "proposal_no": "5048/2025",
+          "title": "Kinderhaus St. Jakob – Umgestaltung bisheriges Krippengebäude zu Wohnungen",
+          "research_or_contribution_refs": [],
+          "documents": [
+            {
+              "label": "RIS Feldkirchen – Beschlussvorlage 5048/2025",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=71024&type=do",
+              "type": "primary_official",
+              "verification_status": "direct_link_verified_2026-08-29"
+            }
+          ],
+          "decision_status": "public_result_verified",
+          "decision_evidence": [
+            {
+              "type": "official_sessionnet",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=998"
+            }
+          ],
+          "needs_full_agenda_audit": true,
+          "decision_result": "abgelehnt",
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 3
+        },
+        {
+          "item_id": "S002-T04",
+          "legacy_label": "5044/2025",
+          "proposal_no": "5044/2025",
+          "title": "Umgestaltung Fußgänger-Unterführung am Rathaus unter Hohenlindner Straße",
+          "research_or_contribution_refs": [
+            "R004"
+          ],
+          "documents": [
+            {
+              "label": "RIS Feldkirchen – Beschlussvorlage 5044/2025",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=71007&type=do",
+              "type": "primary_official",
+              "verification_status": "legacy_link_preserved"
+            }
+          ],
+          "decision_status": "public_result_verified",
+          "decision_evidence": [
+            {
+              "type": "official_sessionnet",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=998"
+            }
+          ],
+          "needs_full_agenda_audit": true,
+          "decision_result": "mehrheitlich angenommen",
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 4
+        },
+        {
+          "item_id": "S002-T05",
+          "legacy_label": "5045/2025",
+          "proposal_no": "5045/2025",
+          "title": "Fortführung Fuß- und Radweg nördlich Münchner Straße, westlich Olympiastraße",
+          "research_or_contribution_refs": [
+            "R005"
+          ],
+          "documents": [
+            {
+              "label": "RIS Feldkirchen – Sitzung 02.10.2025",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=998",
+              "type": "primary_official",
+              "verification_status": "legacy_link_preserved"
+            },
+            {
+              "label": "RIS Feldkirchen – Beschlussvorlage 5045/2025",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=71014&type=do",
+              "type": "primary_official",
+              "verification_status": "legacy_link_preserved"
+            }
+          ],
+          "decision_status": "public_result_verified",
+          "decision_evidence": [
+            {
+              "type": "official_sessionnet",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=998"
+            }
+          ],
+          "needs_full_agenda_audit": true,
+          "decision_result": "mehrheitlich angenommen",
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 5
+        },
+        {
+          "item_id": "S002-T07",
+          "legacy_label": "5046/2025",
+          "proposal_no": "5046/2025",
+          "title": "CSU-Anträge: Haltestelle Rathaus und drei barrierefreie Haltestellen",
+          "research_or_contribution_refs": [],
+          "documents": [
+            {
+              "label": "RIS Feldkirchen – Beschlussvorlage 5046/2025",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=71019&type=do",
+              "type": "primary_official",
+              "verification_status": "direct_link_verified_2026-08-29"
+            }
+          ],
+          "decision_status": "public_result_verified",
+          "decision_evidence": [
+            {
+              "type": "official_sessionnet",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=998"
+            }
+          ],
+          "needs_full_agenda_audit": true,
+          "decision_result": "einstimmig angenommen",
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 7
+        }
+      ],
+      "other_public_items_note": "Weitere öffentliche TOPs wurden vollständig geprüft und nicht einzeln als wichtig ausgewiesen.",
+      "agenda_audit_status": "full_public_agenda_verified",
+      "decision_audit_status": "completed_for_selected_items_public_evidence_only",
+      "minutes": {
+        "status": "approved_not_published",
+        "approval_status": "approved",
+        "approval_date": "2025-10-16",
+        "approval_evidence_session_id": "S003",
+        "publication_status": "not_publicly_found",
+        "publication_date": null,
+        "direct_public_minutes_url": null,
+        "link_status": "no_link",
+        "evidence": [
+          {
+            "type": "later_public_agenda_approval_item",
+            "session_id": "S003",
+            "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=999"
+          }
+        ]
+      },
+      "legacy_verification_status": "agenda and key decision statuses verified",
+      "full_public_agenda": [
+        {
+          "no": 1,
+          "title": "Genehmigung der Niederschrift vom 18.09.2025",
+          "result": "vertagt",
+          "agenda_item_id": "S002-A01"
+        },
+        {
+          "no": 2,
+          "proposal": "4999/2025",
+          "title": "Bebauungsplan Nr. 113 südlich Hohenlindner Straße bis Jahnstraße – Behandlung Stellungnahmen",
+          "result": "mehrheitlich angenommen",
+          "agenda_item_id": "S002-A02"
+        },
+        {
+          "no": 3,
+          "proposal": "5048/2025",
+          "title": "Kinderhaus St. Jakob – Umgestaltung bisheriges Krippengebäude zu Wohnungen",
+          "result": "abgelehnt",
+          "agenda_item_id": "S002-A03"
+        },
+        {
+          "no": 4,
+          "proposal": "5044/2025",
+          "title": "Umgestaltung Fußgänger-Unterführung am Rathaus unter Hohenlindner Straße",
+          "result": "mehrheitlich angenommen",
+          "agenda_item_id": "S002-A04"
+        },
+        {
+          "no": 5,
+          "proposal": "5045/2025",
+          "title": "Fortführung Fuß- und Radweg nördlich Münchner Straße, westlich Olympiastraße",
+          "result": "mehrheitlich angenommen",
+          "agenda_item_id": "S002-A05"
+        },
+        {
+          "no": 6,
+          "proposal": "5040/2025",
+          "title": "Großraumzulage für nicht pädagogisches Personal in Kindertageseinrichtungen",
+          "result": "einstimmig angenommen",
+          "agenda_item_id": "S002-A06"
+        },
+        {
+          "no": 7,
+          "proposal": "5046/2025",
+          "title": "CSU-Anträge: Haltestelle Rathaus und drei barrierefreie Haltestellen",
+          "result": "einstimmig angenommen",
+          "agenda_item_id": "S002-A07"
+        },
+        {
+          "no": 8,
+          "title": "Bekanntgaben und Berichte",
+          "result": "zur Kenntnis genommen",
+          "agenda_item_id": "S002-A08"
+        },
+        {
+          "no": 9,
+          "title": "Anfragen",
+          "agenda_item_id": "S002-A09"
+        }
+      ],
+      "important_selection_status": "completed_after_full_agenda_review"
+    },
+    {
+      "id": "S003",
+      "date": "2025-10-16",
+      "body": "Gemeinderat",
+      "session_ref": "GR/416/2025",
+      "session_url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=999",
+      "legacy_important_items": "5056/2025 | 5063/2025 | 5043/2025",
+      "important_items": [
+        {
+          "item_id": "S003-T03",
+          "legacy_label": "5056/2025",
+          "proposal_no": "5056/2025",
+          "title": "Kinderhaus St. Jakob – Information Sachstand und aktuelle Planung",
+          "research_or_contribution_refs": [
+            "R006"
+          ],
+          "documents": [
+            {
+              "label": "RIS Feldkirchen – Beschlussvorlage 5056/2025",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=71109&type=do",
+              "type": "primary_official",
+              "verification_status": "legacy_link_preserved"
+            },
+            {
+              "label": "RIS Feldkirchen – Sitzung 16.10.2025",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=999",
+              "type": "primary_official",
+              "verification_status": "legacy_link_preserved"
+            }
+          ],
+          "decision_status": "public_result_verified",
+          "decision_evidence": [
+            {
+              "type": "official_sessionnet",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=999"
+            }
+          ],
+          "needs_full_agenda_audit": true,
+          "decision_result": "zur Kenntnis genommen",
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 3
+        },
+        {
+          "item_id": "S003-T06",
+          "proposal_no": "5057/2025",
+          "title": "Bauvoranfrage zwei Mehrfamilienhäuser Westendstr. 9/9a",
+          "research_or_contribution_refs": [],
+          "documents": [],
+          "decision_status": "public_result_verified",
+          "decision_result": "abgesetzt",
+          "decision_evidence": [
+            {
+              "type": "official_sessionnet",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=999"
+            }
+          ],
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 6
+        },
+        {
+          "item_id": "S003-T09",
+          "legacy_label": "5063/2025",
+          "proposal_no": "5063/2025",
+          "title": "Sanierung Emeranstraße – Ausschreibung Planungsbüro",
+          "research_or_contribution_refs": [],
+          "documents": [
+            {
+              "label": "RIS Feldkirchen – Beschlussvorlage 5063/2025",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=71178&type=do",
+              "type": "primary_official",
+              "verification_status": "direct_link_verified_2026-08-29"
+            }
+          ],
+          "decision_status": "decision_not_publicly_documented_in_audit",
+          "decision_evidence": [],
+          "needs_full_agenda_audit": true,
+          "decision_result": null,
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 9
+        },
+        {
+          "item_id": "S003-T10",
+          "legacy_label": "5043/2025",
+          "proposal_no": "5043/2025",
+          "title": "SPD-Antrag zur weiteren Anpassung der Satzungsänderung der AFK Geothermie GmbH",
+          "research_or_contribution_refs": [],
+          "documents": [],
+          "decision_status": "public_result_verified",
+          "decision_evidence": [
+            {
+              "type": "official_sessionnet",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=999"
+            }
+          ],
+          "needs_full_agenda_audit": true,
+          "decision_result": "abgelehnt",
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 10
+        }
+      ],
+      "other_public_items_note": "Weitere öffentliche TOPs wurden vollständig geprüft und nicht einzeln als wichtig ausgewiesen.",
+      "agenda_audit_status": "full_public_agenda_verified",
+      "decision_audit_status": "completed_for_selected_items_public_evidence_only",
+      "minutes": {
+        "status": "approved_not_published",
+        "approval_status": "approved",
+        "approval_date": "2025-10-30",
+        "approval_evidence_session_id": "S004",
+        "publication_status": "not_publicly_found",
+        "publication_date": null,
+        "direct_public_minutes_url": null,
+        "link_status": "no_link",
+        "evidence": [
+          {
+            "type": "later_public_agenda_approval_item",
+            "session_id": "S004",
+            "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1000"
+          }
+        ]
+      },
+      "legacy_verification_status": "agenda and key decision statuses verified",
+      "full_public_agenda": [
+        {
+          "no": 1,
+          "title": "Genehmigung der Niederschrift vom 18.09.2025 und 02.10.2025",
+          "agenda_item_id": "S003-A01"
+        },
+        {
+          "no": 2,
+          "proposal": "5016/2025",
+          "title": "Bestellung Standesbeamtin",
+          "agenda_item_id": "S003-A02"
+        },
+        {
+          "no": 3,
+          "proposal": "5056/2025",
+          "title": "Kinderhaus St. Jakob – Information Sachstand und aktuelle Planung",
+          "agenda_item_id": "S003-A03"
+        },
+        {
+          "no": 4,
+          "proposal": "5037/2025",
+          "title": "Einzäunung Brauereiweg 4",
+          "agenda_item_id": "S003-A04"
+        },
+        {
+          "no": 5,
+          "proposal": "5038/2025",
+          "title": "Terrassendach Brucknerstr. 9",
+          "agenda_item_id": "S003-A05"
+        },
+        {
+          "no": 6,
+          "proposal": "5057/2025",
+          "title": "Bauvoranfrage zwei Mehrfamilienhäuser Westendstr. 9/9a",
+          "result": "abgesetzt",
+          "agenda_item_id": "S003-A06"
+        },
+        {
+          "no": 7,
+          "proposal": "5058/2025",
+          "title": "Lagerplatz Emeranstraße 47",
+          "agenda_item_id": "S003-A07"
+        },
+        {
+          "no": 8,
+          "proposal": "5060/2025",
+          "title": "Aufteilung drei in sieben Wohneinheiten Egerländer Str. 15",
+          "result": "abgelehnt",
+          "agenda_item_id": "S003-A08"
+        },
+        {
+          "no": 9,
+          "proposal": "5063/2025",
+          "title": "Sanierung Emeranstraße – Ausschreibung Planungsbüro",
+          "agenda_item_id": "S003-A09"
+        },
+        {
+          "no": 10,
+          "proposal": "5043/2025",
+          "title": "SPD-Antrag zur weiteren Anpassung der Satzungsänderung der AFK Geothermie GmbH",
+          "result": "abgelehnt",
+          "agenda_item_id": "S003-A10"
+        },
+        {
+          "no": 11,
+          "title": "Bekanntgaben und Berichte",
+          "agenda_item_id": "S003-A11"
+        },
+        {
+          "no": 12,
+          "title": "Anfragen",
+          "agenda_item_id": "S003-A12"
+        }
+      ],
+      "important_selection_status": "completed_after_full_agenda_review"
+    },
+    {
+      "id": "S004",
+      "date": "2025-10-30",
+      "body": "Gemeinderat",
+      "session_ref": "GR/417/2025",
+      "session_url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1000",
+      "legacy_important_items": "5055/2025 | 5064/2025",
+      "important_items": [
+        {
+          "item_id": "S004-T02",
+          "legacy_label": "5055/2025",
+          "proposal_no": "5055/2025",
+          "title": "Verlegung Kreisstraße M18/EBE4 im Zusammenhang mit A99 – Planvariante 5",
+          "research_or_contribution_refs": [
+            "R008"
+          ],
+          "documents": [
+            {
+              "label": "RIS Feldkirchen – Sitzung 30.10.2025",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1000",
+              "type": "primary_official",
+              "verification_status": "legacy_link_preserved"
+            },
+            {
+              "label": "RIS Feldkirchen – Beschlussvorlage 5055/2025",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=71104&type=do",
+              "type": "primary_official",
+              "verification_status": "legacy_link_preserved"
+            }
+          ],
+          "decision_status": "public_result_verified",
+          "decision_evidence": [
+            {
+              "type": "official_sessionnet",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1000"
+            }
+          ],
+          "needs_full_agenda_audit": true,
+          "decision_result": "einstimmig angenommen",
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 2
+        },
+        {
+          "item_id": "S004-T03",
+          "legacy_label": "5064/2025",
+          "proposal_no": "5064/2025",
+          "title": "Bebauungsplan Nr. 32, 4. Änderung – Satzungsbeschluss",
+          "research_or_contribution_refs": [
+            "R009"
+          ],
+          "documents": [
+            {
+              "label": "RIS Feldkirchen – Sitzung 30.10.2025",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1000",
+              "type": "primary_official",
+              "verification_status": "legacy_link_preserved"
+            },
+            {
+              "label": "RIS Feldkirchen – Beschlussvorlage 5064/2025",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=71224&type=do",
+              "type": "primary_official",
+              "verification_status": "legacy_link_preserved"
+            }
+          ],
+          "decision_status": "public_result_verified",
+          "decision_evidence": [
+            {
+              "type": "official_sessionnet",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1000"
+            }
+          ],
+          "needs_full_agenda_audit": true,
+          "decision_result": "einstimmig angenommen",
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 3
+        }
+      ],
+      "other_public_items_note": "Weitere öffentliche TOPs wurden vollständig geprüft und nicht einzeln als wichtig ausgewiesen.",
+      "agenda_audit_status": "full_public_agenda_verified",
+      "decision_audit_status": "completed_for_selected_items_public_evidence_only",
+      "minutes": {
+        "status": "approved_not_published",
+        "approval_status": "approved",
+        "approval_date": "2025-11-13",
+        "approval_evidence_session_id": "S005",
+        "publication_status": "not_publicly_found",
+        "publication_date": null,
+        "direct_public_minutes_url": null,
+        "link_status": "no_link",
+        "evidence": [
+          {
+            "type": "later_public_agenda_approval_item",
+            "session_id": "S005",
+            "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/do0040.asp?smcadat=2460984"
+          }
+        ]
+      },
+      "legacy_verification_status": "agenda and decisions verified",
+      "full_public_agenda": [
+        {
+          "no": 1,
+          "title": "Genehmigung der Niederschrift vom 16.10.2025",
+          "agenda_item_id": "S004-A01"
+        },
+        {
+          "no": 2,
+          "proposal": "5055/2025",
+          "title": "Verlegung Kreisstraße M18/EBE4 im Zusammenhang mit A99 – Planvariante 5",
+          "result": "einstimmig angenommen",
+          "agenda_item_id": "S004-A02"
+        },
+        {
+          "no": 3,
+          "proposal": "5064/2025",
+          "title": "Bebauungsplan Nr. 32, 4. Änderung – Satzungsbeschluss",
+          "result": "einstimmig angenommen",
+          "agenda_item_id": "S004-A03"
+        },
+        {
+          "no": 4,
+          "proposal": "5066/2025",
+          "title": "Doppelhaus Philipp-Holy-Str. 8/8a",
+          "result": "einstimmig angenommen",
+          "agenda_item_id": "S004-A04"
+        },
+        {
+          "no": 5,
+          "title": "Bekanntgaben und Berichte",
+          "result": "zur Kenntnis genommen",
+          "agenda_item_id": "S004-A05"
+        },
+        {
+          "no": 6,
+          "title": "Anfragen",
+          "agenda_item_id": "S004-A06"
+        }
+      ],
+      "important_selection_status": "completed_after_full_agenda_review"
+    },
+    {
+      "id": "S005",
+      "date": "2025-11-13",
+      "body": "Gemeinderat",
+      "session_ref": null,
+      "session_url": "https://buergerinfo-feldkirchen.digitalfabrix.de/do0040.asp?smcadat=2460984",
+      "legacy_important_items": "Friedhofssatzungen | Bebauungsplan 94 | Bürgercafé",
+      "important_items": [
+        {
+          "item_id": "S005-T03",
+          "proposal_no": "5065/2025",
+          "title": "Gemeindlicher Friedhof – Kalkulation und Neufassung der Gebührensatzung sowie Neufassung der Benutzungssatzung",
+          "research_or_contribution_refs": [],
+          "documents": [
+            {
+              "label": "RIS Feldkirchen – Beschlussvorlage 5065/2025",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=71317&type=do",
+              "type": "primary_official",
+              "verification_status": "direct_link_verified_2026-08-29"
+            }
+          ],
+          "decision_status": "decision_not_publicly_documented_in_audit",
+          "decision_result": null,
+          "decision_evidence": [],
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 3
+        },
+        {
+          "item_id": "S005-T04",
+          "proposal_no": "5067/2025",
+          "title": "Unbefristete Dauernutzung Ludwig-Glöckl-Haus durch Diakonie für „Art Misteria“",
+          "research_or_contribution_refs": [],
+          "documents": [
+            {
+              "label": "RIS Feldkirchen – Beschlussvorlage 5067/2025",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=71312&type=do",
+              "type": "primary_official",
+              "verification_status": "direct_link_verified_2026-08-29"
+            }
+          ],
+          "decision_status": "decision_not_publicly_documented_in_audit",
+          "decision_result": null,
+          "decision_evidence": [],
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 4
+        },
+        {
+          "item_id": "S005-T05",
+          "proposal_no": "5069/2025",
+          "title": "Dauernutzung Bürgercafé Richthofenstr. 16 durch Familienstützpunkt Lotse",
+          "research_or_contribution_refs": [],
+          "documents": [
+            {
+              "label": "RIS Feldkirchen – Beschlussvorlage 5069/2025",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=71320&type=do",
+              "type": "primary_official",
+              "verification_status": "direct_link_verified_2026-08-29"
+            }
+          ],
+          "decision_status": "decision_not_publicly_documented_in_audit",
+          "decision_result": null,
+          "decision_evidence": [],
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 5
+        },
+        {
+          "item_id": "S005-T06",
+          "proposal_no": "5077/2025",
+          "title": "Genehmigung der Satzungsänderung des Zweckverbands Staatliche Weiterführende Schulen im Osten des Landkreises München",
+          "research_or_contribution_refs": [],
+          "documents": [
+            {
+              "label": "RIS Feldkirchen – Beschlussvorlage 5077/2025",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=71423&type=do",
+              "type": "primary_official",
+              "verification_status": "direct_link_verified_2026-08-29"
+            }
+          ],
+          "decision_status": "decision_not_publicly_documented_in_audit",
+          "decision_result": null,
+          "decision_evidence": [],
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 6
+        }
+      ],
+      "other_public_items_note": "Weitere öffentliche TOPs wurden vollständig geprüft und nicht einzeln als wichtig ausgewiesen.",
+      "agenda_audit_status": "full_public_agenda_verified",
+      "decision_audit_status": "completed_for_selected_items_public_evidence_only",
+      "minutes": {
+        "status": "approved_not_published",
+        "approval_status": "approved",
+        "approval_date": "2025-12-04",
+        "approval_evidence_session_id": "S006",
+        "publication_status": "not_publicly_found",
+        "publication_date": null,
+        "direct_public_minutes_url": null,
+        "link_status": "no_link",
+        "evidence": [
+          {
+            "type": "later_public_agenda_approval_item",
+            "session_id": "S006",
+            "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1003"
+          }
+        ]
+      },
+      "legacy_verification_status": "meeting/document set verified; exact session page not resolved",
+      "full_public_agenda": [
+        {
+          "no": 1,
+          "title": "Genehmigung der Niederschrift der Gemeinderatssitzung vom 30.10.2025",
+          "agenda_item_id": "S005-A01"
+        },
+        {
+          "no": 2,
+          "proposal": "5051/2025",
+          "title": "Neue Benutzungsverordnung Bücherei",
+          "agenda_item_id": "S005-A02"
+        },
+        {
+          "no": 3,
+          "proposal": "5065/2025",
+          "title": "Gemeindlicher Friedhof – Kalkulation und Neufassung der Gebührensatzung sowie Neufassung der Benutzungssatzung",
+          "agenda_item_id": "S005-A03"
+        },
+        {
+          "no": 4,
+          "proposal": "5067/2025",
+          "title": "Unbefristete Dauernutzung Ludwig-Glöckl-Haus durch Diakonie für „Art Misteria“",
+          "agenda_item_id": "S005-A04"
+        },
+        {
+          "no": 5,
+          "proposal": "5069/2025",
+          "title": "Dauernutzung Bürgercafé Richthofenstr. 16 durch Familienstützpunkt Lotse",
+          "agenda_item_id": "S005-A05"
+        },
+        {
+          "no": 6,
+          "proposal": "5077/2025",
+          "title": "Genehmigung der Satzungsänderung des Zweckverbands Staatliche Weiterführende Schulen im Osten des Landkreises München",
+          "agenda_item_id": "S005-A06"
+        },
+        {
+          "no": 7,
+          "title": "Bekanntgaben und Berichte",
+          "agenda_item_id": "S005-A07"
+        },
+        {
+          "no": 8,
+          "title": "Anfragen",
+          "agenda_item_id": "S005-A08"
+        }
+      ],
+      "important_selection_status": "completed_after_full_agenda_review"
+    },
+    {
+      "id": "S006",
+      "date": "2025-12-04",
+      "body": "Gemeinderat",
+      "session_ref": "GR/420/2025",
+      "session_url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1003",
+      "legacy_important_items": "Bürgeranträge 22.10.2025",
+      "important_items": [
+        {
+          "item_id": "S006-T10",
+          "proposal_no": "5079/2025",
+          "title": "Bürgerversammlung: Austausch Gehwegplatten Hohenlindner-/Münchner-/Emeranstraße",
+          "research_or_contribution_refs": [],
+          "documents": [
+            {
+              "label": "RIS Feldkirchen – Beschlussvorlage 5079/2025",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=71446&type=do",
+              "type": "primary_official",
+              "verification_status": "direct_link_verified_2026-08-29"
+            }
+          ],
+          "decision_status": "public_result_verified",
+          "decision_result": "abgelehnt",
+          "decision_evidence": [
+            {
+              "type": "official_sessionnet",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1003"
+            }
+          ],
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 10
+        },
+        {
+          "item_id": "S006-T11",
+          "proposal_no": "5080/2025",
+          "title": "Bürgerversammlung: Radfahr-/Schutzstreifen B471 und M18",
+          "research_or_contribution_refs": [],
+          "documents": [
+            {
+              "label": "RIS Feldkirchen – Beschlussvorlage 5080/2025",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=71451&type=do",
+              "type": "primary_official",
+              "verification_status": "direct_link_verified_2026-08-29"
+            }
+          ],
+          "decision_status": "public_result_verified",
+          "decision_result": "einstimmig angenommen",
+          "decision_evidence": [
+            {
+              "type": "official_sessionnet",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1003"
+            }
+          ],
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 11
+        },
+        {
+          "item_id": "S006-T12",
+          "proposal_no": "5084/2025",
+          "title": "Bürgerversammlung: Tempo 30 auf stark frequentierten Schulwegen",
+          "research_or_contribution_refs": [],
+          "documents": [
+            {
+              "label": "RIS Feldkirchen – Beschlussvorlage 5084/2025",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=71467&type=do",
+              "type": "primary_official",
+              "verification_status": "direct_link_verified_2026-08-29"
+            }
+          ],
+          "decision_status": "public_result_verified",
+          "decision_result": "einstimmig angenommen",
+          "decision_evidence": [
+            {
+              "type": "official_sessionnet",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1003"
+            }
+          ],
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 12
+        },
+        {
+          "item_id": "S006-T13",
+          "proposal_no": "5082/2025",
+          "title": "Bürgerversammlung: Sachstand kommunale CO2-Einsparziele",
+          "research_or_contribution_refs": [],
+          "documents": [
+            {
+              "label": "RIS Feldkirchen – Beschlussvorlage 5082/2025",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=71459&type=do",
+              "type": "primary_official",
+              "verification_status": "direct_link_verified_2026-08-29"
+            }
+          ],
+          "decision_status": "public_result_verified",
+          "decision_result": "einstimmig angenommen",
+          "decision_evidence": [
+            {
+              "type": "official_sessionnet",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1003"
+            }
+          ],
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 13
+        },
+        {
+          "item_id": "S006-T14",
+          "proposal_no": "5083/2025",
+          "title": "Bürgerversammlung: Alternativen zur CO2-Einsparung",
+          "research_or_contribution_refs": [],
+          "documents": [
+            {
+              "label": "RIS Feldkirchen – Beschlussvorlage 5083/2025",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=71463&type=do",
+              "type": "primary_official",
+              "verification_status": "direct_link_verified_2026-08-29"
+            }
+          ],
+          "decision_status": "public_result_verified",
+          "decision_result": "einstimmig angenommen",
+          "decision_evidence": [
+            {
+              "type": "official_sessionnet",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1003"
+            }
+          ],
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 14
+        }
+      ],
+      "other_public_items_note": "Weitere öffentliche TOPs wurden vollständig geprüft und nicht einzeln als wichtig ausgewiesen.",
+      "agenda_audit_status": "full_public_agenda_verified",
+      "decision_audit_status": "completed_for_selected_items_public_evidence_only",
+      "minutes": {
+        "status": "approved_not_published",
+        "approval_status": "approved",
+        "approval_date": "2026-01-29",
+        "approval_evidence_session_id": "S008",
+        "publication_status": "not_publicly_found",
+        "publication_date": null,
+        "direct_public_minutes_url": null,
+        "link_status": "no_link",
+        "evidence": [
+          {
+            "type": "later_public_agenda_approval_item",
+            "session_id": "S008",
+            "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1014"
+          }
+        ]
+      },
+      "legacy_verification_status": "agenda and key outcomes verified through RIS/secondary reporting",
+      "full_public_agenda": [
+        {
+          "no": 1,
+          "title": "Genehmigung der Niederschrift vom 13.11.2025",
+          "agenda_item_id": "S006-A01"
+        },
+        {
+          "no": 2,
+          "proposal": "5086/2025",
+          "title": "Erfrischungsgeld Wahlhelfer",
+          "agenda_item_id": "S006-A02"
+        },
+        {
+          "no": 3,
+          "proposal": "5098/2025",
+          "title": "Vorbescheid Einfamilienwohnhaus Wendelsteinstr. 7",
+          "agenda_item_id": "S006-A03"
+        },
+        {
+          "no": 4,
+          "proposal": "5103/2025",
+          "title": "Einfamilienwohnhaus Wilhelm-Vetter-Str.",
+          "agenda_item_id": "S006-A04"
+        },
+        {
+          "no": 5,
+          "title": "Bauvorhaben Friedensstr. 15",
+          "agenda_item_id": "S006-A05"
+        },
+        {
+          "no": 6,
+          "title": "Doppelhaus Philipp-Holy-Str. 8/8a",
+          "agenda_item_id": "S006-A06"
+        },
+        {
+          "no": 7,
+          "title": "Bauraumerweiterung Finkenstr. 1c",
+          "agenda_item_id": "S006-A07"
+        },
+        {
+          "no": 8,
+          "title": "Kaltwintergarten Falkenstr. 2",
+          "agenda_item_id": "S006-A08"
+        },
+        {
+          "no": 9,
+          "proposal": "5089/2025",
+          "title": "Terrassenüberdachung Brucknerstr. 13",
+          "agenda_item_id": "S006-A09"
+        },
+        {
+          "no": 10,
+          "proposal": "5079/2025",
+          "title": "Bürgerversammlung: Austausch Gehwegplatten Hohenlindner-/Münchner-/Emeranstraße",
+          "result": "abgelehnt",
+          "agenda_item_id": "S006-A10"
+        },
+        {
+          "no": 11,
+          "proposal": "5080/2025",
+          "title": "Bürgerversammlung: Radfahr-/Schutzstreifen B471 und M18",
+          "result": "einstimmig angenommen",
+          "agenda_item_id": "S006-A11"
+        },
+        {
+          "no": 12,
+          "proposal": "5084/2025",
+          "title": "Bürgerversammlung: Tempo 30 auf stark frequentierten Schulwegen",
+          "result": "einstimmig angenommen",
+          "agenda_item_id": "S006-A12"
+        },
+        {
+          "no": 13,
+          "proposal": "5082/2025",
+          "title": "Bürgerversammlung: Sachstand kommunale CO2-Einsparziele",
+          "result": "einstimmig angenommen",
+          "agenda_item_id": "S006-A13"
+        },
+        {
+          "no": 14,
+          "proposal": "5083/2025",
+          "title": "Bürgerversammlung: Alternativen zur CO2-Einsparung",
+          "result": "einstimmig angenommen",
+          "agenda_item_id": "S006-A14"
+        },
+        {
+          "no": 15,
+          "proposal": "5081/2025",
+          "title": "Bürgerversammlung: Schließfächer Dreifachturnhalle",
+          "result": "einstimmig angenommen",
+          "agenda_item_id": "S006-A15"
+        },
+        {
+          "no": 16,
+          "proposal": "5094/2025",
+          "title": "Informationen aus dem Bauamt",
+          "agenda_item_id": "S006-A16"
+        },
+        {
+          "no": 17,
+          "title": "Bekanntgaben und Berichte",
+          "agenda_item_id": "S006-A17"
+        },
+        {
+          "no": 18,
+          "title": "Anfragen",
+          "agenda_item_id": "S006-A18"
+        }
+      ],
+      "important_selection_status": "completed_after_full_agenda_review"
+    },
+    {
+      "id": "S007",
+      "date": "2026-01-15",
+      "body": "Gemeinderat",
+      "session_ref": "GR/423/2026",
+      "session_url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1013",
+      "legacy_important_items": "5110/2025 | 5112/2025 | 4931/2025",
+      "important_items": [
+        {
+          "item_id": "S007-T02",
+          "legacy_label": "5110/2025",
+          "proposal_no": "5110/2025",
+          "title": "Integriertes Klimafolgenanpassungskonzept",
+          "research_or_contribution_refs": [
+            "R013"
+          ],
+          "documents": [
+            {
+              "label": "RIS Feldkirchen – Dokumente/Sitzung 15.01.2026",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/do0040.asp?smcadat=2461027",
+              "type": "primary_official",
+              "verification_status": "legacy_link_preserved"
+            },
+            {
+              "label": "RIS Feldkirchen – Beschlussvorlage 5110/2025",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=71694&type=do",
+              "type": "primary_official",
+              "verification_status": "legacy_link_preserved"
+            }
+          ],
+          "decision_status": "public_result_verified",
+          "decision_evidence": [
+            {
+              "type": "official_sessionnet",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1013"
+            }
+          ],
+          "needs_full_agenda_audit": true,
+          "decision_result": "einstimmig angenommen",
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 2
+        },
+        {
+          "item_id": "S007-T03",
+          "legacy_label": "5112/2025",
+          "proposal_no": "5112/2025",
+          "title": "Förderrichtlinie Balkonsolaranlagen",
+          "research_or_contribution_refs": [
+            "R014"
+          ],
+          "documents": [
+            {
+              "label": "RIS Feldkirchen – Sitzung 15.01.2026",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/do0040.asp?smcadat=2461027",
+              "type": "primary_official",
+              "verification_status": "legacy_link_preserved"
+            },
+            {
+              "label": "RIS Feldkirchen – Beschlussvorlage 5112/2025",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=71784&type=do",
+              "type": "primary_official",
+              "verification_status": "legacy_link_preserved"
+            }
+          ],
+          "decision_status": "public_result_verified",
+          "decision_evidence": [
+            {
+              "type": "official_sessionnet",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1013"
+            }
+          ],
+          "needs_full_agenda_audit": true,
+          "decision_result": "einstimmig angenommen",
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 3
+        },
+        {
+          "item_id": "S007-T04",
+          "legacy_label": "4931/2025",
+          "proposal_no": "4931/2025",
+          "title": "Erstellung einer Wertstoffbörse am Wertstoffhof",
+          "research_or_contribution_refs": [
+            "R015"
+          ],
+          "documents": [
+            {
+              "label": "RIS Feldkirchen – Dokumente/Sitzung 15.01.2026",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/do0040.asp?smcadat=2461027",
+              "type": "primary_official",
+              "verification_status": "legacy_link_preserved"
+            },
+            {
+              "label": "RIS Feldkirchen – Beschlussvorlage 4931/2025",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=71683&type=do",
+              "type": "primary_official",
+              "verification_status": "legacy_link_preserved"
+            }
+          ],
+          "decision_status": "public_result_verified",
+          "decision_evidence": [
+            {
+              "type": "official_sessionnet",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1013"
+            }
+          ],
+          "needs_full_agenda_audit": true,
+          "decision_result": "einstimmig angenommen",
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 4
+        },
+        {
+          "item_id": "S007-T11",
+          "proposal_no": "5114/2025",
+          "title": "Mögliche Nachfolgenutzung Aschheimer Str. 5/7",
+          "research_or_contribution_refs": [],
+          "documents": [
+            {
+              "label": "RIS Feldkirchen – Beschlussvorlage 5114/2025",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=71796&type=do",
+              "type": "primary_official",
+              "verification_status": "direct_link_verified_2026-08-29"
+            }
+          ],
+          "decision_status": "public_result_verified",
+          "decision_result": "einstimmig angenommen",
+          "decision_evidence": [
+            {
+              "type": "official_sessionnet",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1013"
+            }
+          ],
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 11
+        },
+        {
+          "item_id": "S007-T14",
+          "proposal_no": "5132/2026",
+          "title": "CSU-Antrag Bushaltestellen/Wartehäuschen",
+          "research_or_contribution_refs": [],
+          "documents": [
+            {
+              "label": "RIS Feldkirchen – Beschlussvorlage 5132/2026",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=71894&type=do",
+              "type": "primary_official",
+              "verification_status": "direct_link_verified_2026-08-29"
+            }
+          ],
+          "decision_status": "public_result_verified",
+          "decision_result": "einstimmig angenommen",
+          "decision_evidence": [
+            {
+              "type": "official_sessionnet",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1013"
+            }
+          ],
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 14
+        }
+      ],
+      "other_public_items_note": "Weitere öffentliche TOPs wurden vollständig geprüft und nicht einzeln als wichtig ausgewiesen.",
+      "agenda_audit_status": "full_public_agenda_verified",
+      "decision_audit_status": "completed_for_selected_items_public_evidence_only",
+      "minutes": {
+        "status": "approved_not_published",
+        "approval_status": "approved",
+        "approval_date": "2026-01-29",
+        "approval_evidence_session_id": "S008",
+        "publication_status": "not_publicly_found",
+        "publication_date": null,
+        "direct_public_minutes_url": null,
+        "link_status": "no_link",
+        "evidence": [
+          {
+            "type": "later_public_agenda_approval_item",
+            "session_id": "S008",
+            "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1014"
+          }
+        ]
+      },
+      "legacy_verification_status": "agenda and decisions verified",
+      "full_public_agenda": [
+        {
+          "no": 1,
+          "title": "Genehmigung der Niederschrift vom 04.12.2025",
+          "result": "vertagt",
+          "agenda_item_id": "S007-A01"
+        },
+        {
+          "no": 2,
+          "proposal": "5110/2025",
+          "title": "Integriertes Klimafolgenanpassungskonzept",
+          "result": "einstimmig angenommen",
+          "agenda_item_id": "S007-A02"
+        },
+        {
+          "no": 3,
+          "proposal": "5112/2025",
+          "title": "Förderrichtlinie Balkonsolaranlagen",
+          "result": "einstimmig angenommen",
+          "agenda_item_id": "S007-A03"
+        },
+        {
+          "no": 4,
+          "proposal": "4931/2025",
+          "title": "Erstellung einer Wertstoffbörse am Wertstoffhof",
+          "result": "einstimmig angenommen",
+          "agenda_item_id": "S007-A04"
+        },
+        {
+          "no": 5,
+          "proposal": "5057/2025",
+          "title": "Bauvoranfrage zwei Mehrfamilienhäuser Westendstr. 9/9a",
+          "result": "abgelehnt",
+          "agenda_item_id": "S007-A05"
+        },
+        {
+          "no": 6,
+          "proposal": "5126/2025",
+          "title": "Vorbescheid zwei Wohnhäuser mit Teilgewerbe und Tiefgarage Bahnhofstr. 19",
+          "result": "abgelehnt",
+          "agenda_item_id": "S007-A06"
+        },
+        {
+          "no": 7,
+          "proposal": "5124/2025",
+          "title": "Behindertenparkplatz an der Sportanlage",
+          "result": "einstimmig angenommen",
+          "agenda_item_id": "S007-A07"
+        },
+        {
+          "no": 8,
+          "proposal": "5115/2025",
+          "title": "Bauvorhaben Friedensstr. 15",
+          "result": "einstimmig angenommen",
+          "agenda_item_id": "S007-A08"
+        },
+        {
+          "no": 9,
+          "proposal": "5125/2025",
+          "title": "Isolierte Befreiung Ludwigstr. 23",
+          "result": "einstimmig angenommen",
+          "agenda_item_id": "S007-A09"
+        },
+        {
+          "no": 10,
+          "proposal": "5122/2025",
+          "title": "Bebauungsplan Nr. 101, 1. Änderung – Beteiligung",
+          "result": "einstimmig angenommen",
+          "agenda_item_id": "S007-A10"
+        },
+        {
+          "no": 11,
+          "proposal": "5114/2025",
+          "title": "Mögliche Nachfolgenutzung Aschheimer Str. 5/7",
+          "result": "einstimmig angenommen",
+          "agenda_item_id": "S007-A11"
+        },
+        {
+          "no": 12,
+          "proposal": "5116/2025",
+          "title": "Bestellung stellvertretende Kassenverwaltung",
+          "result": "einstimmig angenommen",
+          "agenda_item_id": "S007-A12"
+        },
+        {
+          "no": 13,
+          "proposal": "5113/2025",
+          "title": "AFK Beteiligungsbericht 2024",
+          "result": "zur Kenntnis genommen",
+          "agenda_item_id": "S007-A13"
+        },
+        {
+          "no": 14,
+          "proposal": "5132/2026",
+          "title": "CSU-Antrag Bushaltestellen/Wartehäuschen",
+          "result": "einstimmig angenommen",
+          "agenda_item_id": "S007-A14"
+        },
+        {
+          "no": 15,
+          "proposal": "5130/2026",
+          "title": "Bekanntgaben und Berichte",
+          "agenda_item_id": "S007-A15"
+        },
+        {
+          "no": 16,
+          "title": "Anfragen",
+          "agenda_item_id": "S007-A16"
+        }
+      ],
+      "important_selection_status": "completed_after_full_agenda_review"
+    },
+    {
+      "id": "S008",
+      "date": "2026-01-29",
+      "body": "Gemeinderat",
+      "session_ref": "GR/424/2026",
+      "session_url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1014",
+      "legacy_important_items": "5117/2025 | 5118/2025 | 5138/2026",
+      "important_items": [
+        {
+          "item_id": "S008-T02",
+          "legacy_label": "5117/2025",
+          "proposal_no": "5117/2025",
+          "title": "Jahresrechnung 2024 – Feststellung",
+          "research_or_contribution_refs": [],
+          "documents": [
+            {
+              "label": "RIS Feldkirchen – Beschlussvorlage 5117/2025",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=71806&type=do",
+              "type": "primary_official",
+              "verification_status": "direct_link_verified_2026-08-29"
+            }
+          ],
+          "decision_status": "public_result_verified",
+          "decision_evidence": [
+            {
+              "type": "official_sessionnet",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1014"
+            }
+          ],
+          "needs_full_agenda_audit": true,
+          "decision_result": "einstimmig angenommen",
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 2
+        },
+        {
+          "item_id": "S008-T03",
+          "legacy_label": "5118/2025",
+          "proposal_no": "5118/2025",
+          "title": "Jahresrechnung 2024 – Entlastung",
+          "research_or_contribution_refs": [],
+          "documents": [
+            {
+              "label": "RIS Feldkirchen – Beschlussvorlage 5118/2025",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=71810&type=do",
+              "type": "primary_official",
+              "verification_status": "direct_link_verified_2026-08-29"
+            }
+          ],
+          "decision_status": "public_result_verified",
+          "decision_evidence": [
+            {
+              "type": "official_sessionnet",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1014"
+            }
+          ],
+          "needs_full_agenda_audit": true,
+          "decision_result": "einstimmig angenommen",
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 3
+        },
+        {
+          "item_id": "S008-T10",
+          "legacy_label": "5138/2026",
+          "proposal_no": "5138/2026",
+          "title": "Umsetzung Bushaltestellen/Wartehäuschen",
+          "research_or_contribution_refs": [
+            "R017"
+          ],
+          "documents": [
+            {
+              "label": "RIS Feldkirchen – Beschlussvorlage 5138/2026",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=72000&type=do",
+              "type": "primary_official",
+              "verification_status": "legacy_link_preserved"
+            },
+            {
+              "label": "RIS Feldkirchen – Sitzung 29.01.2026",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1014",
+              "type": "primary_official",
+              "verification_status": "legacy_link_preserved"
+            }
+          ],
+          "decision_status": "public_result_verified",
+          "decision_evidence": [
+            {
+              "type": "official_sessionnet",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1014"
+            }
+          ],
+          "needs_full_agenda_audit": true,
+          "decision_result": "einstimmig angenommen",
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 10
+        }
+      ],
+      "other_public_items_note": "Weitere öffentliche TOPs wurden vollständig geprüft und nicht einzeln als wichtig ausgewiesen.",
+      "agenda_audit_status": "full_public_agenda_verified",
+      "decision_audit_status": "completed_for_selected_items_public_evidence_only",
+      "minutes": {
+        "status": "approved_not_published",
+        "approval_status": "approved",
+        "approval_date": "2026-02-11",
+        "approval_evidence_session_id": "S009",
+        "publication_status": "not_publicly_found",
+        "publication_date": null,
+        "direct_public_minutes_url": null,
+        "link_status": "no_link",
+        "evidence": [
+          {
+            "type": "later_public_agenda_approval_item",
+            "session_id": "S009",
+            "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/do0040.asp?smcadat=2461001"
+          }
+        ]
+      },
+      "legacy_verification_status": "agenda and decisions verified",
+      "full_public_agenda": [
+        {
+          "no": 1,
+          "title": "Genehmigung der Niederschriften vom 04.12.2025 und 15.01.2026",
+          "agenda_item_id": "S008-A01"
+        },
+        {
+          "no": 2,
+          "proposal": "5117/2025",
+          "title": "Jahresrechnung 2024 – Feststellung",
+          "agenda_item_id": "S008-A02"
+        },
+        {
+          "no": 3,
+          "proposal": "5118/2025",
+          "title": "Jahresrechnung 2024 – Entlastung",
+          "agenda_item_id": "S008-A03"
+        },
+        {
+          "no": 4,
+          "proposal": "5129/2025",
+          "title": "Kulturprogramm 2027 – Vertragsabschlüsse",
+          "agenda_item_id": "S008-A04"
+        },
+        {
+          "no": 5,
+          "proposal": "5135/2026",
+          "title": "Bauvoranfrage Mehrfamilienhaus Wendelsteinstr. 14",
+          "agenda_item_id": "S008-A05"
+        },
+        {
+          "no": 6,
+          "proposal": "5134/2026",
+          "title": "Packstation Hohenlindner Str. 32a",
+          "agenda_item_id": "S008-A06"
+        },
+        {
+          "no": 7,
+          "proposal": "5140/2026",
+          "title": "Terrassenüberdachung Flurweg 13",
+          "agenda_item_id": "S008-A07"
+        },
+        {
+          "no": 8,
+          "proposal": "5143/2026",
+          "title": "Doppelhaus Philipp-Holy-Str. 8/8a",
+          "agenda_item_id": "S008-A08"
+        },
+        {
+          "no": 9,
+          "proposal": "5137/2026",
+          "title": "Bebauungsplan Nr. 103, 2. Änderung",
+          "agenda_item_id": "S008-A09"
+        },
+        {
+          "no": 10,
+          "proposal": "5138/2026",
+          "title": "Umsetzung Bushaltestellen/Wartehäuschen",
+          "agenda_item_id": "S008-A10"
+        },
+        {
+          "no": 11,
+          "title": "Bekanntgaben und Berichte",
+          "agenda_item_id": "S008-A11"
+        },
+        {
+          "no": 12,
+          "title": "Anfragen",
+          "agenda_item_id": "S008-A12"
+        }
+      ],
+      "important_selection_status": "completed_after_full_agenda_review"
+    },
+    {
+      "id": "S009",
+      "date": "2026-02-11",
+      "body": "Gemeinderat",
+      "session_ref": null,
+      "session_url": "https://buergerinfo-feldkirchen.digitalfabrix.de/do0040.asp?smcadat=2461001",
+      "legacy_important_items": "20. FNP-Änderung",
+      "important_items": [
+        {
+          "item_id": "S009-T02",
+          "proposal_no": "5144/2026",
+          "title": "20. Änderung Flächennutzungsplan östlich M1/nördlich M18 – Billigung nach frühzeitiger Beteiligung",
+          "research_or_contribution_refs": [],
+          "documents": [
+            {
+              "label": "RIS Feldkirchen – Beschlussvorlage 5144/2026",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=72131&type=do",
+              "type": "primary_official",
+              "verification_status": "direct_link_verified_2026-08-29"
+            }
+          ],
+          "decision_status": "decision_not_publicly_documented_in_audit",
+          "decision_result": null,
+          "decision_evidence": [],
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 2
+        }
+      ],
+      "other_public_items_note": "Weitere öffentliche TOPs wurden vollständig geprüft und nicht einzeln als wichtig ausgewiesen.",
+      "agenda_audit_status": "full_public_agenda_verified",
+      "decision_audit_status": "completed_for_selected_items_public_evidence_only",
+      "minutes": {
+        "status": "approved_not_published",
+        "approval_status": "approved",
+        "approval_date": "2026-02-26",
+        "approval_evidence_session_id": "S010",
+        "publication_status": "not_publicly_found",
+        "publication_date": null,
+        "direct_public_minutes_url": null,
+        "link_status": "no_link",
+        "evidence": [
+          {
+            "type": "later_public_agenda_approval_item",
+            "session_id": "S010",
+            "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1016"
+          }
+        ]
+      },
+      "legacy_verification_status": "meeting/document set verified; exact session page not resolved",
+      "full_public_agenda": [
+        {
+          "no": 1,
+          "title": "Genehmigung der Niederschrift vom 29.01.2026",
+          "agenda_item_id": "S009-A01"
+        },
+        {
+          "no": 2,
+          "proposal": "5144/2026",
+          "title": "20. Änderung Flächennutzungsplan östlich M1/nördlich M18 – Billigung nach frühzeitiger Beteiligung",
+          "agenda_item_id": "S009-A02"
+        },
+        {
+          "no": 3,
+          "title": "Bekanntgaben und Berichte",
+          "agenda_item_id": "S009-A03"
+        },
+        {
+          "no": 4,
+          "title": "Anfragen",
+          "agenda_item_id": "S009-A04"
+        }
+      ],
+      "important_selection_status": "completed_after_full_agenda_review"
+    },
+    {
+      "id": "S010",
+      "date": "2026-02-26",
+      "body": "Gemeinderat",
+      "session_ref": "GR/426/2026",
+      "session_url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1016",
+      "legacy_important_items": "5100/2025 | 5101/2025 | 5147/2026 | 5148/2026",
+      "important_items": [
+        {
+          "item_id": "S010-T02",
+          "legacy_label": "5100/2025",
+          "proposal_no": "5100/2025",
+          "title": "Haushaltssatzung und Haushaltsplan 2026",
+          "research_or_contribution_refs": [
+            "R018"
+          ],
+          "documents": [
+            {
+              "label": "RIS Feldkirchen – Haushaltssatzung und Haushaltsplan 2026, Vorlage 5100/2025",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=71615&type=do",
+              "type": "primary_official",
+              "verification_status": "legacy_link_preserved"
+            }
+          ],
+          "decision_status": "decision_not_publicly_documented_in_audit",
+          "decision_evidence": [],
+          "needs_full_agenda_audit": true,
+          "decision_result": null,
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 2
+        },
+        {
+          "item_id": "S010-T03",
+          "legacy_label": "5101/2025",
+          "proposal_no": "5101/2025",
+          "title": "Finanzplanung 2025–2029",
+          "research_or_contribution_refs": [],
+          "documents": [
+            {
+              "label": "RIS Feldkirchen – Beschlussvorlage 5101/2025",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=71619&type=do",
+              "type": "primary_official",
+              "verification_status": "direct_link_verified_2026-08-29"
+            }
+          ],
+          "decision_status": "decision_not_publicly_documented_in_audit",
+          "decision_evidence": [],
+          "needs_full_agenda_audit": true,
+          "decision_result": null,
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 3
+        },
+        {
+          "item_id": "S010-T05",
+          "legacy_label": "5148/2026",
+          "proposal_no": "5148/2026",
+          "title": "Nutzungsänderung Kiosk zur SB-Bäckerei, Kirchenstr. 4",
+          "research_or_contribution_refs": [],
+          "documents": [
+            {
+              "label": "RIS Feldkirchen – Beschlussvorlage 5148/2026",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=72207&type=do",
+              "type": "primary_official",
+              "verification_status": "direct_link_verified_2026-08-29"
+            }
+          ],
+          "decision_status": "decision_not_publicly_documented_in_audit",
+          "decision_evidence": [],
+          "needs_full_agenda_audit": true,
+          "decision_result": null,
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 5
+        },
+        {
+          "item_id": "S010-T07",
+          "proposal_no": "5149/2026",
+          "title": "Anlage zur Behandlung nicht gefährlicher Abfälle, Am Kiesgrund",
+          "research_or_contribution_refs": [],
+          "documents": [
+            {
+              "label": "RIS Feldkirchen – Beschlussvorlage 5149/2026",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=72216&type=do",
+              "type": "primary_official",
+              "verification_status": "direct_link_verified_2026-08-29"
+            }
+          ],
+          "decision_status": "decision_not_publicly_documented_in_audit",
+          "decision_result": null,
+          "decision_evidence": [],
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 7
+        },
+        {
+          "item_id": "S010-T08",
+          "legacy_label": "5147/2026",
+          "proposal_no": "5147/2026",
+          "title": "Bebauungsplan Nr. 113 – Billigungsbeschluss",
+          "research_or_contribution_refs": [],
+          "documents": [
+            {
+              "label": "RIS Feldkirchen – Beschlussvorlage 5147/2026",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=72203&type=do",
+              "type": "primary_official",
+              "verification_status": "direct_link_verified_2026-08-29"
+            }
+          ],
+          "decision_status": "decision_not_publicly_documented_in_audit",
+          "decision_evidence": [],
+          "needs_full_agenda_audit": true,
+          "decision_result": null,
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 8
+        }
+      ],
+      "other_public_items_note": "Weitere öffentliche TOPs wurden vollständig geprüft und nicht einzeln als wichtig ausgewiesen.",
+      "agenda_audit_status": "full_public_agenda_verified",
+      "decision_audit_status": "completed_for_selected_items_public_evidence_only",
+      "minutes": {
+        "status": "approved_not_published",
+        "approval_status": "approved",
+        "approval_date": "2026-03-12",
+        "approval_evidence_session_id": "S011",
+        "publication_status": "not_publicly_found",
+        "publication_date": null,
+        "direct_public_minutes_url": null,
+        "link_status": "no_link",
+        "evidence": [
+          {
+            "type": "later_public_agenda_approval_item",
+            "session_id": "S011",
+            "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1017"
+          }
+        ]
+      },
+      "legacy_verification_status": "agenda verified; budget source verified",
+      "full_public_agenda": [
+        {
+          "no": 1,
+          "title": "Genehmigung der Niederschrift vom 11.02.2026",
+          "agenda_item_id": "S010-A01"
+        },
+        {
+          "no": 2,
+          "proposal": "5100/2025",
+          "title": "Haushaltssatzung und Haushaltsplan 2026",
+          "agenda_item_id": "S010-A02"
+        },
+        {
+          "no": 3,
+          "proposal": "5101/2025",
+          "title": "Finanzplanung 2025–2029",
+          "agenda_item_id": "S010-A03"
+        },
+        {
+          "no": 4,
+          "proposal": "5146/2026",
+          "title": "Nutzungsänderung Xaver-Münch-Str. 2",
+          "agenda_item_id": "S010-A04"
+        },
+        {
+          "no": 5,
+          "proposal": "5148/2026",
+          "title": "Nutzungsänderung Kiosk zur SB-Bäckerei, Kirchenstr. 4",
+          "agenda_item_id": "S010-A05"
+        },
+        {
+          "no": 6,
+          "proposal": "5153/2026",
+          "title": "Einfamilienwohnhaus Wilhelm-Vetter-Str.",
+          "agenda_item_id": "S010-A06"
+        },
+        {
+          "no": 7,
+          "proposal": "5149/2026",
+          "title": "Anlage zur Behandlung nicht gefährlicher Abfälle, Am Kiesgrund",
+          "agenda_item_id": "S010-A07"
+        },
+        {
+          "no": 8,
+          "proposal": "5147/2026",
+          "title": "Bebauungsplan Nr. 113 – Billigungsbeschluss",
+          "agenda_item_id": "S010-A08"
+        },
+        {
+          "no": 9,
+          "title": "Bekanntgaben und Berichte",
+          "agenda_item_id": "S010-A09"
+        },
+        {
+          "no": 10,
+          "title": "Anfragen",
+          "agenda_item_id": "S010-A10"
+        }
+      ],
+      "important_selection_status": "completed_after_full_agenda_review"
+    },
+    {
+      "id": "S011",
+      "date": "2026-03-12",
+      "body": "Gemeinderat",
+      "session_ref": "GR/427/2026",
+      "session_url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1017",
+      "legacy_important_items": "5159/2026 | 5157/2026",
+      "important_items": [
+        {
+          "item_id": "S011-T02",
+          "legacy_label": "5159/2026",
+          "proposal_no": "5159/2026",
+          "title": "Parkraumkonzept der Gemeinde Feldkirchen – Ergebnisse und weiteres Vorgehen",
+          "research_or_contribution_refs": [
+            "R026"
+          ],
+          "documents": [
+            {
+              "label": "RIS Feldkirchen – Parkraumkonzept, Vorlage 5159/2026",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=72371&type=do",
+              "type": "primary_official",
+              "verification_status": "legacy_link_preserved"
+            },
+            {
+              "label": "RIS Feldkirchen – Sitzung 12.03.2026",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1017",
+              "type": "primary_official",
+              "verification_status": "legacy_link_preserved"
+            }
+          ],
+          "decision_status": "decision_not_publicly_documented_in_audit",
+          "decision_evidence": [],
+          "needs_full_agenda_audit": true,
+          "decision_result": null,
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 2
+        },
+        {
+          "item_id": "S011-T03",
+          "legacy_label": "5157/2026",
+          "proposal_no": "5157/2026",
+          "title": "21. Änderung Flächennutzungsplan Weißenfelder Straße",
+          "research_or_contribution_refs": [],
+          "documents": [],
+          "decision_status": "decision_not_publicly_documented_in_audit",
+          "decision_evidence": [],
+          "needs_full_agenda_audit": true,
+          "decision_result": null,
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 3
+        }
+      ],
+      "other_public_items_note": "Weitere öffentliche TOPs wurden vollständig geprüft und nicht einzeln als wichtig ausgewiesen.",
+      "agenda_audit_status": "full_public_agenda_verified",
+      "decision_audit_status": "completed_for_selected_items_public_evidence_only",
+      "minutes": {
+        "status": "approved_not_published",
+        "approval_status": "approved",
+        "approval_date": "2026-03-26",
+        "approval_evidence_session_id": "S012",
+        "publication_status": "not_publicly_found",
+        "publication_date": null,
+        "direct_public_minutes_url": null,
+        "link_status": "no_link",
+        "evidence": [
+          {
+            "type": "later_public_agenda_approval_item",
+            "session_id": "S012",
+            "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/do0040.asp?smcadat=2461110"
+          }
+        ]
+      },
+      "legacy_verification_status": "agenda and decisions verified",
+      "full_public_agenda": [
+        {
+          "no": 1,
+          "title": "Genehmigung der Niederschrift vom 26.02.2026",
+          "agenda_item_id": "S011-A01"
+        },
+        {
+          "no": 2,
+          "proposal": "5159/2026",
+          "title": "Parkraumkonzept der Gemeinde Feldkirchen – Ergebnisse und weiteres Vorgehen",
+          "agenda_item_id": "S011-A02"
+        },
+        {
+          "no": 3,
+          "proposal": "5157/2026",
+          "title": "21. Änderung Flächennutzungsplan Weißenfelder Straße",
+          "agenda_item_id": "S011-A03"
+        },
+        {
+          "no": 4,
+          "title": "Bekanntgaben und Berichte",
+          "agenda_item_id": "S011-A04"
+        },
+        {
+          "no": 5,
+          "title": "Anfragen",
+          "agenda_item_id": "S011-A05"
+        }
+      ],
+      "important_selection_status": "completed_after_full_agenda_review"
+    },
+    {
+      "id": "S012",
+      "date": "2026-03-26",
+      "body": "Gemeinderat",
+      "session_ref": null,
+      "session_url": "https://buergerinfo-feldkirchen.digitalfabrix.de/do0040.asp?smcadat=2461110",
+      "legacy_important_items": "Interkommunaler Wärmeplan | Bebauungsplan 91, 4. Änderung",
+      "important_items": [
+        {
+          "item_id": "S012-T02",
+          "proposal_no": "5160/2026",
+          "title": "Interkommunale Wärmeplanung Feldkirchen, Aschheim und Kirchheim",
+          "research_or_contribution_refs": [],
+          "documents": [
+            {
+              "label": "RIS Feldkirchen – Beschlussvorlage 5160/2026",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=72425&type=do",
+              "type": "primary_official",
+              "verification_status": "direct_link_verified_2026-08-29"
+            }
+          ],
+          "decision_status": "decision_not_publicly_documented_in_audit",
+          "decision_result": null,
+          "decision_evidence": [],
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 2
+        },
+        {
+          "item_id": "S012-T06",
+          "proposal_no": "5187/2026",
+          "title": "Bebauungsplan Nr. 91, 4. Änderung – Bereich St. Jakob",
+          "research_or_contribution_refs": [],
+          "documents": [
+            {
+              "label": "RIS Feldkirchen – Beschlussvorlage 5187/2026",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=72600&type=do",
+              "type": "primary_official",
+              "verification_status": "direct_link_verified_2026-08-29"
+            }
+          ],
+          "decision_status": "decision_not_publicly_documented_in_audit",
+          "decision_result": null,
+          "decision_evidence": [],
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 6
+        },
+        {
+          "item_id": "S012-T07",
+          "proposal_no": "5072/2025",
+          "title": "Errichtung einer Hundewiese",
+          "research_or_contribution_refs": [],
+          "documents": [
+            {
+              "label": "RIS Feldkirchen – Beschlussvorlage 5072/2025",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=71375&type=do",
+              "type": "primary_official",
+              "verification_status": "direct_link_verified_2026-08-29"
+            }
+          ],
+          "decision_status": "decision_not_publicly_documented_in_audit",
+          "decision_result": null,
+          "decision_evidence": [],
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 7
+        }
+      ],
+      "other_public_items_note": "Weitere öffentliche TOPs wurden vollständig geprüft und nicht einzeln als wichtig ausgewiesen.",
+      "agenda_audit_status": "full_public_agenda_verified",
+      "decision_audit_status": "completed_for_selected_items_public_evidence_only",
+      "minutes": {
+        "status": "approved_not_published",
+        "approval_status": "approved",
+        "approval_date": "2026-04-15",
+        "approval_evidence_session_id": "S013",
+        "publication_status": "not_publicly_found",
+        "publication_date": null,
+        "direct_public_minutes_url": null,
+        "link_status": "no_link",
+        "evidence": [
+          {
+            "type": "later_public_agenda_approval_item",
+            "session_id": "S013",
+            "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/do0040.asp?smcadat=2461110"
+          }
+        ]
+      },
+      "legacy_verification_status": "meeting/document set verified; exact session page not resolved",
+      "full_public_agenda": [
+        {
+          "no": 1,
+          "title": "Genehmigung der Niederschrift vom 12.03.2026",
+          "agenda_item_id": "S012-A01"
+        },
+        {
+          "no": 2,
+          "proposal": "5160/2026",
+          "title": "Interkommunale Wärmeplanung Feldkirchen, Aschheim und Kirchheim",
+          "agenda_item_id": "S012-A02"
+        },
+        {
+          "no": 3,
+          "proposal": "5164/2026",
+          "title": "Bauvorhaben Reichenberger Str. 7 – Erweiterung",
+          "agenda_item_id": "S012-A03"
+        },
+        {
+          "no": 4,
+          "proposal": "5189/2026",
+          "title": "Mehrfamilienhaus Aschheimer Str. 17a",
+          "agenda_item_id": "S012-A04"
+        },
+        {
+          "no": 5,
+          "proposal": "5190/2026",
+          "title": "Trafostation Emeranstr. 28",
+          "agenda_item_id": "S012-A05"
+        },
+        {
+          "no": 6,
+          "proposal": "5187/2026",
+          "title": "Bebauungsplan Nr. 91, 4. Änderung – Bereich St. Jakob",
+          "agenda_item_id": "S012-A06"
+        },
+        {
+          "no": 7,
+          "proposal": "5072/2025",
+          "title": "Errichtung einer Hundewiese",
+          "agenda_item_id": "S012-A07"
+        },
+        {
+          "no": 8,
+          "title": "Bekanntgaben und Berichte",
+          "agenda_item_id": "S012-A08"
+        },
+        {
+          "no": 9,
+          "title": "Anfragen",
+          "agenda_item_id": "S012-A09"
+        }
+      ],
+      "important_selection_status": "completed_after_full_agenda_review"
+    },
+    {
+      "id": "S013",
+      "date": "2026-04-15",
+      "body": "Gemeinderat",
+      "session_ref": null,
+      "session_url": "https://buergerinfo-feldkirchen.digitalfabrix.de/do0040.asp?smcadat=2461110",
+      "legacy_important_items": "Ende Amtsperiode / Ehrungen",
+      "important_items": [
+        {
+          "item_id": "S013-T02",
+          "proposal_no": "5199/2026",
+          "title": "Ehrungen ausscheidender Gemeinderatsmitglieder",
+          "research_or_contribution_refs": [],
+          "documents": [
+            {
+              "label": "RIS Feldkirchen – Beschlussvorlage 5199/2026",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=72728&type=do",
+              "type": "primary_official",
+              "verification_status": "direct_link_verified_2026-08-29"
+            }
+          ],
+          "decision_status": "decision_not_publicly_documented_in_audit",
+          "decision_result": null,
+          "decision_evidence": [],
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 2
+        }
+      ],
+      "other_public_items_note": "Weitere öffentliche TOPs wurden vollständig geprüft und nicht einzeln als wichtig ausgewiesen.",
+      "agenda_audit_status": "full_public_agenda_verified",
+      "decision_audit_status": "completed_for_selected_items_public_evidence_only",
+      "minutes": {
+        "status": "approved_not_published",
+        "approval_status": "approved",
+        "approval_date": "2026-05-11",
+        "approval_evidence_session_id": "S015",
+        "publication_status": "not_publicly_found",
+        "publication_date": null,
+        "direct_public_minutes_url": null,
+        "link_status": "no_link",
+        "evidence": [
+          {
+            "type": "later_public_agenda_approval_item",
+            "session_id": "S015",
+            "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1021"
+          }
+        ]
+      },
+      "legacy_verification_status": "meeting/document set verified; exact session page not resolved",
+      "full_public_agenda": [
+        {
+          "no": 1,
+          "title": "Genehmigung der Niederschrift vom 26.03.2026",
+          "agenda_item_id": "S013-A01"
+        },
+        {
+          "no": 2,
+          "proposal": "5199/2026",
+          "title": "Ehrungen ausscheidender Gemeinderatsmitglieder",
+          "agenda_item_id": "S013-A02"
+        },
+        {
+          "no": 3,
+          "proposal": "5200/2026",
+          "title": "Dank an ausscheidende Gemeinderatsmitglieder",
+          "agenda_item_id": "S013-A03"
+        },
+        {
+          "no": 4,
+          "title": "Bekanntgaben und Berichte",
+          "agenda_item_id": "S013-A04"
+        }
+      ],
+      "important_selection_status": "completed_after_full_agenda_review"
+    },
+    {
+      "id": "S014",
+      "date": "2026-04-30",
+      "body": "Gemeinderat",
+      "session_ref": "GR/430/2026",
+      "session_url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1020",
+      "legacy_important_items": "5208/2026 | 5210/2026 | 5197/2026 | 5196/2026",
+      "important_items": [
+        {
+          "item_id": "S014-T02",
+          "legacy_label": "5208/2026",
+          "proposal_no": "5208/2026",
+          "title": "Kinderhaus St. Jakob – zusätzliche Hortgruppe ab September 2026",
+          "research_or_contribution_refs": [
+            "C027",
+            "R027"
+          ],
+          "documents": [
+            {
+              "label": "RIS Feldkirchen – Eröffnung weitere Hortgruppe, Vorlage 5208/2026",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=72790&type=do",
+              "type": "primary_official",
+              "verification_status": "legacy_link_preserved"
+            },
+            {
+              "label": "RIS Feldkirchen – Sitzung 30.04.2026",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1020",
+              "type": "primary_official",
+              "verification_status": "legacy_link_preserved"
+            }
+          ],
+          "decision_status": "public_result_verified",
+          "decision_evidence": [
+            {
+              "type": "official_sessionnet",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1020"
+            }
+          ],
+          "needs_full_agenda_audit": true,
+          "decision_result": "einstimmig angenommen",
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 2
+        },
+        {
+          "item_id": "S014-T03",
+          "legacy_label": "5210/2026",
+          "proposal_no": "5210/2026",
+          "title": "Kinderhaus St. Jakob – temporäre Containeranlage als Ausweichquartier",
+          "research_or_contribution_refs": [
+            "R028",
+            "C027"
+          ],
+          "documents": [
+            {
+              "label": "RIS Feldkirchen – TOP Containeranlage St. Jakob",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/to0050.asp?__ktonr=18941",
+              "type": "primary_official",
+              "verification_status": "legacy_link_preserved"
+            },
+            {
+              "label": "RIS Feldkirchen – Sitzung 30.04.2026",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1020",
+              "type": "primary_official",
+              "verification_status": "legacy_link_preserved"
+            }
+          ],
+          "decision_status": "public_result_verified",
+          "decision_evidence": [
+            {
+              "type": "official_sessionnet",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1020"
+            }
+          ],
+          "needs_full_agenda_audit": true,
+          "decision_result": "einstimmig angenommen",
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 3
+        },
+        {
+          "item_id": "S014-T04",
+          "legacy_label": "5197/2026",
+          "proposal_no": "5197/2026",
+          "title": "Kiosk Kirchenstr. 4 zur SB-Bäckerei – erneute Behandlung",
+          "research_or_contribution_refs": [
+            "R031"
+          ],
+          "documents": [
+            {
+              "label": "RIS Feldkirchen – Beschlussvorlage 5197/2026",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=72724&type=do",
+              "type": "primary_official",
+              "verification_status": "legacy_link_preserved"
+            }
+          ],
+          "decision_status": "public_result_verified",
+          "decision_evidence": [
+            {
+              "type": "official_sessionnet",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1020"
+            }
+          ],
+          "needs_full_agenda_audit": true,
+          "decision_result": "abgelehnt",
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 4
+        },
+        {
+          "item_id": "S014-T06",
+          "legacy_label": "5196/2026",
+          "proposal_no": "5196/2026",
+          "title": "Bebauungsplan Nr. 91, 4. Änderung",
+          "research_or_contribution_refs": [],
+          "documents": [
+            {
+              "label": "RIS Feldkirchen – Beschlussvorlage 5196/2026",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=72718&type=do",
+              "type": "primary_official",
+              "verification_status": "direct_link_verified_2026-08-29"
+            }
+          ],
+          "decision_status": "public_result_verified",
+          "decision_evidence": [
+            {
+              "type": "official_sessionnet",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1020"
+            }
+          ],
+          "needs_full_agenda_audit": true,
+          "decision_result": "angenommen",
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 6
+        }
+      ],
+      "other_public_items_note": "Weitere öffentliche TOPs wurden vollständig geprüft und nicht einzeln als wichtig ausgewiesen.",
+      "agenda_audit_status": "full_public_agenda_verified",
+      "decision_audit_status": "completed_for_selected_items_public_evidence_only",
+      "minutes": {
+        "status": "approved_not_published",
+        "approval_status": "approved",
+        "approval_date": "2026-05-11",
+        "approval_evidence_session_id": "S015",
+        "publication_status": "not_publicly_found",
+        "publication_date": null,
+        "direct_public_minutes_url": null,
+        "link_status": "no_link",
+        "evidence": [
+          {
+            "type": "later_public_agenda_approval_item",
+            "session_id": "S015",
+            "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1021"
+          }
+        ]
+      },
+      "legacy_verification_status": "agenda and decisions verified",
+      "full_public_agenda": [
+        {
+          "no": 1,
+          "proposal": "5155/2026",
+          "title": "Überplanmäßige Ausgaben 2025",
+          "agenda_item_id": "S014-A01"
+        },
+        {
+          "no": 2,
+          "proposal": "5208/2026",
+          "title": "Kinderhaus St. Jakob – zusätzliche Hortgruppe ab September 2026",
+          "agenda_item_id": "S014-A02"
+        },
+        {
+          "no": 3,
+          "proposal": "5210/2026",
+          "title": "Kinderhaus St. Jakob – temporäre Containeranlage als Ausweichquartier",
+          "agenda_item_id": "S014-A03"
+        },
+        {
+          "no": 4,
+          "proposal": "5197/2026",
+          "title": "Kiosk Kirchenstr. 4 zur SB-Bäckerei – erneute Behandlung",
+          "result": "abgelehnt",
+          "agenda_item_id": "S014-A04"
+        },
+        {
+          "no": 5,
+          "proposal": "5211/2026",
+          "title": "Mehrfamilienhaus Aschheimer Str. 17a",
+          "result": "angenommen",
+          "agenda_item_id": "S014-A05"
+        },
+        {
+          "no": 6,
+          "proposal": "5196/2026",
+          "title": "Bebauungsplan Nr. 91, 4. Änderung",
+          "result": "angenommen",
+          "agenda_item_id": "S014-A06"
+        },
+        {
+          "no": 7,
+          "proposal": "5192/2026",
+          "title": "Jugendclub – Nutzung eines Raums",
+          "result": "angenommen",
+          "agenda_item_id": "S014-A07"
+        },
+        {
+          "no": 8,
+          "title": "Bekanntgaben und Berichte",
+          "agenda_item_id": "S014-A08"
+        },
+        {
+          "no": 9,
+          "title": "Anfragen",
+          "agenda_item_id": "S014-A09"
+        }
+      ],
+      "important_selection_status": "completed_after_full_agenda_review"
+    },
+    {
+      "id": "S015",
+      "date": "2026-05-11",
+      "body": "Gemeinderat",
+      "session_ref": "GR/431/2026",
+      "session_url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1021",
+      "legacy_important_items": "5168/2026 | 5174/2026 | 5175/2026 | 5170/2026",
+      "important_items": [
+        {
+          "item_id": "S015-T03",
+          "legacy_label": "5174/2026",
+          "proposal_no": "5174/2026",
+          "title": "Erlass der Hauptsatzung",
+          "research_or_contribution_refs": [],
+          "documents": [
+            {
+              "label": "RIS Feldkirchen – Beschlussvorlage 5174/2026",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=72541&type=do",
+              "type": "primary_official",
+              "verification_status": "direct_link_verified_2026-08-29"
+            }
+          ],
+          "decision_status": "public_result_verified",
+          "decision_evidence": [
+            {
+              "type": "official_sessionnet",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1021"
+            }
+          ],
+          "needs_full_agenda_audit": true,
+          "decision_result": "einstimmig angenommen",
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 3
+        },
+        {
+          "item_id": "S015-T04",
+          "legacy_label": "5175/2026",
+          "proposal_no": "5175/2026",
+          "title": "Erlass der Geschäftsordnung",
+          "research_or_contribution_refs": [],
+          "documents": [
+            {
+              "label": "RIS Feldkirchen – Beschlussvorlage 5175/2026",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=72545&type=do",
+              "type": "primary_official",
+              "verification_status": "direct_link_verified_2026-08-29"
+            }
+          ],
+          "decision_status": "public_result_verified",
+          "decision_evidence": [
+            {
+              "type": "official_sessionnet",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1021"
+            }
+          ],
+          "needs_full_agenda_audit": true,
+          "decision_result": "einstimmig angenommen",
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 4
+        },
+        {
+          "item_id": "S015-T05",
+          "legacy_label": "5170/2026",
+          "proposal_no": "5170/2026",
+          "title": "Wahl weiterer Bürgermeister",
+          "research_or_contribution_refs": [],
+          "documents": [
+            {
+              "label": "RIS Feldkirchen – Beschlussvorlage 5170/2026",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=72525&type=do",
+              "type": "primary_official",
+              "verification_status": "direct_link_verified_2026-08-29"
+            }
+          ],
+          "decision_status": "public_result_verified",
+          "decision_evidence": [
+            {
+              "type": "official_sessionnet",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1021"
+            }
+          ],
+          "needs_full_agenda_audit": true,
+          "decision_result": "mehrheitlich angenommen",
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 5
+        },
+        {
+          "item_id": "S015-T08",
+          "proposal_no": "5176/2026",
+          "title": "Besetzung der Ausschüsse",
+          "research_or_contribution_refs": [],
+          "documents": [
+            {
+              "label": "RIS Feldkirchen – Beschlussvorlage 5176/2026",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=72549&type=do",
+              "type": "primary_official",
+              "verification_status": "direct_link_verified_2026-08-29"
+            }
+          ],
+          "decision_status": "public_result_verified",
+          "decision_result": "einstimmig angenommen",
+          "decision_evidence": [
+            {
+              "type": "official_sessionnet",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1021"
+            }
+          ],
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 8
+        },
+        {
+          "item_id": "S015-T13",
+          "proposal_no": "5181/2026",
+          "title": "Zweckverband weiterführende Schulen – Berufung in Verbandsorgane",
+          "research_or_contribution_refs": [],
+          "documents": [
+            {
+              "label": "RIS Feldkirchen – Beschlussvorlage 5181/2026",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=72569&type=do",
+              "type": "primary_official",
+              "verification_status": "direct_link_verified_2026-08-29"
+            }
+          ],
+          "decision_status": "public_result_verified",
+          "decision_result": "einstimmig angenommen",
+          "decision_evidence": [
+            {
+              "type": "official_sessionnet",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1021"
+            }
+          ],
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 13
+        },
+        {
+          "item_id": "S015-T15",
+          "proposal_no": "5183/2026",
+          "title": "AFK Geothermie GmbH – Benennung Gesellschaftervertreter",
+          "research_or_contribution_refs": [],
+          "documents": [
+            {
+              "label": "RIS Feldkirchen – Beschlussvorlage 5183/2026",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=72577&type=do",
+              "type": "primary_official",
+              "verification_status": "direct_link_verified_2026-08-29"
+            }
+          ],
+          "decision_status": "public_result_verified",
+          "decision_result": "einstimmig angenommen",
+          "decision_evidence": [
+            {
+              "type": "official_sessionnet",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1021"
+            }
+          ],
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 15
+        }
+      ],
+      "other_public_items_note": "Weitere öffentliche TOPs wurden vollständig geprüft und nicht einzeln als wichtig ausgewiesen.",
+      "agenda_audit_status": "full_public_agenda_verified",
+      "decision_audit_status": "completed_for_selected_items_public_evidence_only",
+      "minutes": {
+        "status": "approved_not_published",
+        "approval_status": "approved",
+        "approval_date": "2026-06-11",
+        "approval_evidence_session_id": "S017",
+        "publication_status": "not_publicly_found",
+        "publication_date": null,
+        "direct_public_minutes_url": null,
+        "link_status": "no_link",
+        "evidence": [
+          {
+            "type": "later_public_agenda_approval_item",
+            "session_id": "S017",
+            "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1044"
+          }
+        ]
+      },
+      "legacy_verification_status": "constituent meeting; agenda and decisions verified",
+      "full_public_agenda": [
+        {
+          "no": 1,
+          "proposal": "5213/2026",
+          "title": "Genehmigung der Niederschriften vom 15.04.2026 und 30.04.2026",
+          "agenda_item_id": "S015-A01"
+        },
+        {
+          "no": 2,
+          "proposal": "5168/2026",
+          "title": "Vereidigung der neu gewählten Gemeinderatsmitglieder",
+          "agenda_item_id": "S015-A02"
+        },
+        {
+          "no": 3,
+          "proposal": "5174/2026",
+          "title": "Erlass der Hauptsatzung",
+          "result": "einstimmig angenommen",
+          "agenda_item_id": "S015-A03"
+        },
+        {
+          "no": 4,
+          "proposal": "5175/2026",
+          "title": "Erlass der Geschäftsordnung",
+          "result": "einstimmig angenommen",
+          "agenda_item_id": "S015-A04"
+        },
+        {
+          "no": 5,
+          "proposal": "5170/2026",
+          "title": "Wahl weiterer Bürgermeister",
+          "result": "mehrheitlich angenommen",
+          "agenda_item_id": "S015-A05"
+        },
+        {
+          "no": 6,
+          "proposal": "5171/2026",
+          "title": "Vereidigung weiterer Bürgermeister",
+          "agenda_item_id": "S015-A06"
+        },
+        {
+          "no": 7,
+          "proposal": "5172/2026",
+          "title": "Verpflichtung auf Verschwiegenheit",
+          "agenda_item_id": "S015-A07"
+        },
+        {
+          "no": 8,
+          "proposal": "5176/2026",
+          "title": "Besetzung der Ausschüsse",
+          "result": "einstimmig angenommen",
+          "agenda_item_id": "S015-A08"
+        },
+        {
+          "no": 9,
+          "proposal": "5177/2026",
+          "title": "Bestellung Jugend-/KJR-Vertretungen",
+          "result": "einstimmig angenommen",
+          "agenda_item_id": "S015-A09"
+        },
+        {
+          "no": 10,
+          "proposal": "5178/2026",
+          "title": "gKu VE – Verwaltungsrat",
+          "agenda_item_id": "S015-A10"
+        },
+        {
+          "no": 11,
+          "proposal": "5179/2026",
+          "title": "Erholungsflächenverein – Vertretung",
+          "result": "einstimmig angenommen",
+          "agenda_item_id": "S015-A11"
+        },
+        {
+          "no": 12,
+          "proposal": "5180/2026",
+          "title": "VHS – Berufung in Verbandsorgane",
+          "result": "einstimmig angenommen",
+          "agenda_item_id": "S015-A12"
+        },
+        {
+          "no": 13,
+          "proposal": "5181/2026",
+          "title": "Zweckverband weiterführende Schulen – Berufung in Verbandsorgane",
+          "result": "einstimmig angenommen",
+          "agenda_item_id": "S015-A13"
+        },
+        {
+          "no": 14,
+          "proposal": "5182/2026",
+          "title": "Schulverband Mittelschule – Berufung Verbandsräte",
+          "result": "einstimmig angenommen",
+          "agenda_item_id": "S015-A14"
+        },
+        {
+          "no": 15,
+          "proposal": "5183/2026",
+          "title": "AFK Geothermie GmbH – Benennung Gesellschaftervertreter",
+          "result": "einstimmig angenommen",
+          "agenda_item_id": "S015-A15"
+        },
+        {
+          "no": 16,
+          "proposal": "5184/2026",
+          "title": "Bestellung Bürgermeister zu Eheschließungsstandesbeamten",
+          "result": "einstimmig angenommen",
+          "agenda_item_id": "S015-A16"
+        }
+      ],
+      "important_selection_status": "completed_after_full_agenda_review"
+    },
+    {
+      "id": "S016",
+      "date": "2026-05-21",
+      "body": "Gemeinderat",
+      "session_ref": null,
+      "session_url": "https://buergerinfo-feldkirchen.digitalfabrix.de/do0040.asp?smcadat=2461139",
+      "legacy_important_items": "Bürgercafé | Bauanträge",
+      "important_items": [
+        {
+          "item_id": "S016-U01",
+          "proposal_no": null,
+          "title": "Photovoltaik Egerländer Str. 7",
+          "research_or_contribution_refs": [],
+          "documents": [],
+          "decision_status": "decision_not_publicly_documented_in_audit",
+          "decision_result": null,
+          "decision_evidence": [],
+          "selected_after_full_agenda_review": true
+        },
+        {
+          "item_id": "S016-T08",
+          "proposal_no": null,
+          "title": "Bürgercafé als Hausaufgabenraum",
+          "research_or_contribution_refs": [],
+          "documents": [],
+          "decision_status": "decision_not_publicly_documented_in_audit",
+          "decision_result": null,
+          "decision_evidence": [],
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 8
+        }
+      ],
+      "other_public_items_note": "Weitere öffentliche TOPs wurden vollständig geprüft und nicht einzeln als wichtig ausgewiesen.",
+      "agenda_audit_status": "full_public_agenda_verified",
+      "decision_audit_status": "completed_for_selected_items_public_evidence_only",
+      "minutes": {
+        "status": "approved_and_published",
+        "approval_status": "approved",
+        "approval_date": "2026-06-11",
+        "approval_evidence_session_id": "S017",
+        "publication_status": "published",
+        "publication_date": "2026-08-03",
+        "direct_public_minutes_url": null,
+        "link_status": "direct_link_pending_retrieval",
+        "evidence": [
+          {
+            "type": "later_public_agenda_approval_item",
+            "session_id": "S017",
+            "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1044"
+          },
+          {
+            "type": "official_sessionnet_document_release_index",
+            "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/do0040.asp?smcadat=2461027",
+            "note": "public minutes listed as published 2026-08-03"
+          }
+        ]
+      },
+      "legacy_verification_status": "meeting/documents verified; public minutes later listed",
+      "full_public_agenda": [
+        {
+          "no": 1,
+          "title": "Genehmigung der Niederschriften vom 15.04.2026 und 30.04.2026",
+          "agenda_item_id": "S016-A01"
+        },
+        {
+          "no": 2,
+          "title": "Photovoltaikvorhaben Egerländer Str. 7",
+          "agenda_item_id": "S016-A02"
+        },
+        {
+          "no": 3,
+          "title": "Kaltwintergarten Falkenstr. 2",
+          "agenda_item_id": "S016-A03"
+        },
+        {
+          "no": 4,
+          "title": "Einfamilienwohnhaus Wilhelm-Vetter-Str.",
+          "agenda_item_id": "S016-A04"
+        },
+        {
+          "no": 5,
+          "title": "Garage/Carport Fasanweg 37",
+          "agenda_item_id": "S016-A05"
+        },
+        {
+          "no": 6,
+          "title": "Einfamilienwohnhaus Flurweg 4",
+          "agenda_item_id": "S016-A06"
+        },
+        {
+          "no": 7,
+          "title": "Bauraumerweiterung Finkenstr. 1c",
+          "agenda_item_id": "S016-A07"
+        },
+        {
+          "no": 8,
+          "title": "Bürgercafé als Hausaufgabenraum",
+          "agenda_item_id": "S016-A08"
+        },
+        {
+          "no": 9,
+          "title": "Bekanntgaben und Berichte",
+          "agenda_item_id": "S016-A09"
+        },
+        {
+          "no": 10,
+          "title": "Anfragen",
+          "agenda_item_id": "S016-A10"
+        }
+      ],
+      "important_selection_status": "completed_after_full_agenda_review"
+    },
+    {
+      "id": "S017",
+      "date": "2026-06-11",
+      "body": "Gemeinderat",
+      "session_ref": "GR/449/2026",
+      "session_url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1044",
+      "legacy_important_items": "5231/2026 | 5233/2026 | 5156/2026",
+      "important_items": [
+        {
+          "item_id": "S017-T04",
+          "legacy_label": "5233/2026",
+          "proposal_no": "5233/2026",
+          "title": "Hitzeaktionsplan der Gemeinde Feldkirchen",
+          "research_or_contribution_refs": [],
+          "documents": [
+            {
+              "label": "RIS Feldkirchen – Beschlussvorlage 5233/2026",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=73172&type=do",
+              "type": "primary_official",
+              "verification_status": "direct_link_verified_2026-08-29"
+            }
+          ],
+          "decision_status": "public_result_verified",
+          "decision_evidence": [
+            {
+              "type": "official_sessionnet",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1044"
+            }
+          ],
+          "needs_full_agenda_audit": true,
+          "decision_result": "einstimmig angenommen",
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 4
+        },
+        {
+          "item_id": "S017-T05",
+          "legacy_label": "5156/2026",
+          "proposal_no": "5156/2026",
+          "title": "Jahresrechnung 2025",
+          "research_or_contribution_refs": [],
+          "documents": [
+            {
+              "label": "RIS Feldkirchen – Beschlussvorlage 5156/2026",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=72308&type=do",
+              "type": "primary_official",
+              "verification_status": "direct_link_verified_2026-08-29"
+            }
+          ],
+          "decision_status": "public_result_verified",
+          "decision_evidence": [
+            {
+              "type": "official_sessionnet",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1044"
+            }
+          ],
+          "needs_full_agenda_audit": true,
+          "decision_result": "einstimmig angenommen",
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 5
+        },
+        {
+          "item_id": "S017-T06",
+          "proposal_no": "5236/2026",
+          "title": "Vorbescheid Mehrfamilienhaus mit 10 Wohneinheiten und Tiefgarage, Sonnenstr. 1",
+          "research_or_contribution_refs": [],
+          "documents": [
+            {
+              "label": "RIS Feldkirchen – Beschlussvorlage 5236/2026",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=73191&type=do",
+              "type": "primary_official",
+              "verification_status": "direct_link_verified_2026-08-29"
+            }
+          ],
+          "decision_status": "public_result_verified",
+          "decision_result": "einstimmig angenommen",
+          "decision_evidence": [
+            {
+              "type": "official_sessionnet",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1044"
+            }
+          ],
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 6
+        },
+        {
+          "item_id": "S017-T11",
+          "proposal_no": "5230/2026",
+          "title": "Straßenbenennung/Hausnummern Bebauungsplan Nr. 113",
+          "research_or_contribution_refs": [],
+          "documents": [
+            {
+              "label": "RIS Feldkirchen – Beschlussvorlage 5230/2026",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=73113&type=do",
+              "type": "primary_official",
+              "verification_status": "direct_link_verified_2026-08-29"
+            }
+          ],
+          "decision_status": "public_result_verified",
+          "decision_result": "einstimmig angenommen",
+          "decision_evidence": [
+            {
+              "type": "official_sessionnet",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1044"
+            }
+          ],
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 11
+        },
+        {
+          "item_id": "S017-T12",
+          "proposal_no": "5235/2026",
+          "title": "CSU-Antrag innerörtlicher Park",
+          "research_or_contribution_refs": [],
+          "documents": [
+            {
+              "label": "RIS Feldkirchen – Beschlussvorlage 5235/2026",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=73186&type=do",
+              "type": "primary_official",
+              "verification_status": "direct_link_verified_2026-08-29"
+            }
+          ],
+          "decision_status": "public_result_verified",
+          "decision_result": "einstimmig angenommen",
+          "decision_evidence": [
+            {
+              "type": "official_sessionnet",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1044"
+            }
+          ],
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 12
+        }
+      ],
+      "other_public_items_note": "Weitere öffentliche TOPs wurden vollständig geprüft und nicht einzeln als wichtig ausgewiesen.",
+      "agenda_audit_status": "full_public_agenda_verified",
+      "decision_audit_status": "completed_for_selected_items_public_evidence_only",
+      "minutes": {
+        "status": "approved_and_published",
+        "approval_status": "approved",
+        "approval_date": "2026-06-25",
+        "approval_evidence_session_id": "S018",
+        "publication_status": "published",
+        "publication_date": "2026-07-31",
+        "direct_public_minutes_url": null,
+        "link_status": "direct_link_pending_retrieval",
+        "evidence": [
+          {
+            "type": "later_public_agenda_approval_item",
+            "session_id": "S018",
+            "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/do0040.asp?smcadat=2461235"
+          },
+          {
+            "type": "official_sessionnet_document_release_index",
+            "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/do0040.asp?smcadat=2461027",
+            "note": "public minutes listed as published 2026-07-31"
+          }
+        ]
+      },
+      "legacy_verification_status": "agenda and key decisions verified; public minutes listed",
+      "full_public_agenda": [
+        {
+          "no": 1,
+          "title": "Genehmigung der Niederschriften vom 11.05.2026 und 21.05.2026",
+          "agenda_item_id": "S017-A01"
+        },
+        {
+          "no": 2,
+          "proposal": "5231/2026",
+          "title": "Bestätigung der Wahl Feuerwehrkommandant und Stellvertretung",
+          "agenda_item_id": "S017-A02"
+        },
+        {
+          "no": 3,
+          "proposal": "5226/2026",
+          "title": "Kinderbetreuung – duale Studierende",
+          "agenda_item_id": "S017-A03"
+        },
+        {
+          "no": 4,
+          "proposal": "5233/2026",
+          "title": "Hitzeaktionsplan der Gemeinde Feldkirchen",
+          "agenda_item_id": "S017-A04"
+        },
+        {
+          "no": 5,
+          "proposal": "5156/2026",
+          "title": "Jahresrechnung 2025",
+          "agenda_item_id": "S017-A05"
+        },
+        {
+          "no": 6,
+          "proposal": "5236/2026",
+          "title": "Vorbescheid Mehrfamilienhaus mit 10 Wohneinheiten und Tiefgarage, Sonnenstr. 1",
+          "agenda_item_id": "S017-A06"
+        },
+        {
+          "no": 7,
+          "proposal": "5237/2026",
+          "title": "Nutzung Weihnachtsbeleuchtungsmasten zur Veranstaltungswerbung",
+          "agenda_item_id": "S017-A07"
+        },
+        {
+          "no": 8,
+          "proposal": "5227/2026",
+          "title": "Terrassenüberdachung Brahmsstr. 16",
+          "agenda_item_id": "S017-A08"
+        },
+        {
+          "no": 9,
+          "proposal": "5223/2026",
+          "title": "Ersatzbau Zweifamilienhaus Wendelsteinstr. 7",
+          "agenda_item_id": "S017-A09"
+        },
+        {
+          "no": 10,
+          "proposal": "5228/2026",
+          "title": "Nutzungsänderung Büro zu Wohnen, Mozartstr. 2",
+          "agenda_item_id": "S017-A10"
+        },
+        {
+          "no": 11,
+          "proposal": "5230/2026",
+          "title": "Straßenbenennung/Hausnummern Bebauungsplan Nr. 113",
+          "agenda_item_id": "S017-A11"
+        },
+        {
+          "no": 12,
+          "proposal": "5235/2026",
+          "title": "CSU-Antrag innerörtlicher Park",
+          "agenda_item_id": "S017-A12"
+        },
+        {
+          "no": 13,
+          "title": "Bekanntgaben und Berichte",
+          "agenda_item_id": "S017-A13"
+        },
+        {
+          "no": 14,
+          "title": "Anfragen",
+          "agenda_item_id": "S017-A14"
+        }
+      ],
+      "important_selection_status": "completed_after_full_agenda_review"
+    },
+    {
+      "id": "S018",
+      "date": "2026-06-25",
+      "body": "Gemeinderat",
+      "session_ref": null,
+      "session_url": "https://buergerinfo-feldkirchen.digitalfabrix.de/do0040.asp?smcadat=2461235",
+      "legacy_important_items": "Kinderhaus St. Jakob Außenanlagen",
+      "important_items": [
+        {
+          "item_id": "S018-T02",
+          "proposal_no": "5265/2026",
+          "title": "Arbeitskreis Spielplätze – Neubesetzung aufgrund der Kommunalwahl",
+          "research_or_contribution_refs": [],
+          "documents": [
+            {
+              "label": "RIS Feldkirchen – Beschlussvorlage 5265/2026",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74497&type=do",
+              "type": "primary_official",
+              "verification_status": "direct_link_verified_2026-08-29"
+            }
+          ],
+          "decision_status": "decision_not_publicly_documented_in_audit",
+          "decision_result": null,
+          "decision_evidence": [],
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 2
+        },
+        {
+          "item_id": "S018-T03",
+          "proposal_no": "5267/2026",
+          "title": "Kindergarten St. Jakob – Entwurfsplanung und Kostenschätzung Außenanlagen",
+          "research_or_contribution_refs": [],
+          "documents": [],
+          "decision_status": "decision_not_publicly_documented_in_audit",
+          "decision_result": null,
+          "decision_evidence": [],
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 3
+        },
+        {
+          "item_id": "S018-T04",
+          "proposal_no": "5268/2026",
+          "title": "Kindergarten St. Jakob – Entwurfsplanung und Kostenberechnung Kernsanierung, Erweiterung und Aufstockung",
+          "research_or_contribution_refs": [],
+          "documents": [
+            {
+              "label": "RIS Feldkirchen – Beschlussvorlage 5268/2026",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74510&type=do",
+              "type": "primary_official",
+              "verification_status": "direct_link_verified_2026-08-29"
+            }
+          ],
+          "decision_status": "decision_not_publicly_documented_in_audit",
+          "decision_result": null,
+          "decision_evidence": [],
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 4
+        },
+        {
+          "item_id": "S018-T05",
+          "proposal_no": "5239/2026",
+          "title": "Bauantrag Tektur Wohnanlage mit 22 Wohneinheiten und Tiefgarage, Aschheimer Str. 12a",
+          "research_or_contribution_refs": [],
+          "documents": [],
+          "decision_status": "decision_not_publicly_documented_in_audit",
+          "decision_result": null,
+          "decision_evidence": [],
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 5
+        }
+      ],
+      "other_public_items_note": "Weitere öffentliche TOPs wurden vollständig geprüft und nicht einzeln als wichtig ausgewiesen.",
+      "agenda_audit_status": "full_public_agenda_verified",
+      "decision_audit_status": "completed_for_selected_items_public_evidence_only",
+      "minutes": {
+        "status": "approved_and_published",
+        "approval_status": "approved",
+        "approval_date": "2026-07-23",
+        "approval_evidence_session_id": "S020",
+        "publication_status": "published",
+        "publication_date": "2026-07-31",
+        "direct_public_minutes_url": null,
+        "link_status": "direct_link_pending_retrieval",
+        "evidence": [
+          {
+            "type": "later_public_agenda_approval_item",
+            "session_id": "S020",
+            "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1026"
+          },
+          {
+            "type": "official_sessionnet_document_release_index",
+            "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/do0040.asp?smcadat=2461027",
+            "note": "public minutes listed as published 2026-07-31"
+          }
+        ]
+      },
+      "legacy_verification_status": "meeting/documents verified; public minutes listed",
+      "full_public_agenda": [
+        {
+          "no": 1,
+          "title": "Genehmigung der Niederschrift vom 11.06.2026",
+          "agenda_item_id": "S018-A01"
+        },
+        {
+          "no": 2,
+          "proposal": "5265/2026",
+          "title": "Arbeitskreis Spielplätze – Neubesetzung aufgrund der Kommunalwahl",
+          "agenda_item_id": "S018-A02"
+        },
+        {
+          "no": 3,
+          "proposal": "5267/2026",
+          "title": "Kindergarten St. Jakob – Entwurfsplanung und Kostenschätzung Außenanlagen",
+          "agenda_item_id": "S018-A03"
+        },
+        {
+          "no": 4,
+          "proposal": "5268/2026",
+          "title": "Kindergarten St. Jakob – Entwurfsplanung und Kostenberechnung Kernsanierung, Erweiterung und Aufstockung",
+          "agenda_item_id": "S018-A04"
+        },
+        {
+          "no": 5,
+          "proposal": "5239/2026",
+          "title": "Bauantrag Tektur Wohnanlage mit 22 Wohneinheiten und Tiefgarage, Aschheimer Str. 12a",
+          "agenda_item_id": "S018-A05"
+        },
+        {
+          "no": 6,
+          "proposal": "5240/2026",
+          "title": "Isolierte Befreiung Pool, Breslauer Str. 3",
+          "agenda_item_id": "S018-A06"
+        },
+        {
+          "no": 7,
+          "proposal": "5241/2026",
+          "title": "Zwei neue Stellplätze, Salzstr. 7",
+          "agenda_item_id": "S018-A07"
+        },
+        {
+          "no": 8,
+          "proposal": "5243/2026",
+          "title": "Bekanntgaben und Berichte",
+          "agenda_item_id": "S018-A08"
+        },
+        {
+          "no": 9,
+          "title": "Anfragen",
+          "agenda_item_id": "S018-A09"
+        }
+      ],
+      "important_selection_status": "completed_after_full_agenda_review"
+    },
+    {
+      "id": "S019",
+      "date": "2026-07-09",
+      "body": "Gemeinderat",
+      "session_ref": null,
+      "session_url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1025",
+      "legacy_important_items": "166 Eigentumswohnungen | Kinderhaus St. Jakob",
+      "important_items": [
+        {
+          "item_id": "S019-U01",
+          "proposal_no": null,
+          "title": "Neubau von acht Wohngebäuden mit 166 Eigentumswohnungen und 243 Tiefgaragenstellplätzen",
+          "research_or_contribution_refs": [
+            "R047"
+          ],
+          "documents": [
+            {
+              "label": "RIS Feldkirchen – Beschlussvorlage: 166 Eigentumswohnungen / 243 Tiefgaragenstellplätze",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74541&type=do",
+              "type": "primary_official",
+              "verification_status": "direct_link_verified_2026-08-29"
+            }
+          ],
+          "decision_status": "decision_not_publicly_documented_in_audit",
+          "decision_result": null,
+          "decision_evidence": [],
+          "selected_after_full_agenda_review": false
+        },
+        {
+          "item_id": "S019-U02",
+          "proposal_no": null,
+          "title": "FDP-Antrag: mobiler Toilettenwagen",
+          "research_or_contribution_refs": [],
+          "documents": [
+            {
+              "label": "RIS Feldkirchen – Beschlussvorlage: FDP-Antrag mobiler Toilettenwagen",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74730&type=do",
+              "type": "primary_official",
+              "verification_status": "direct_link_verified_2026-08-29"
+            }
+          ],
+          "decision_status": "decision_not_publicly_documented_in_audit",
+          "decision_result": null,
+          "decision_evidence": [],
+          "selected_after_full_agenda_review": false
+        }
+      ],
+      "other_public_items_note": "Weitere öffentliche TOPs können wegen der nicht abrufbaren vollständigen Tagesordnung nicht abschließend bestimmt werden.",
+      "agenda_audit_status": "direct_session_page_verified; controlled_gap_retained_for_full-agenda-completeness",
+      "decision_audit_status": "completed_as_far_as_publicly_retrievable_agenda_partial",
+      "minutes": {
+        "status": "approved_not_published",
+        "approval_status": "approved",
+        "approval_date": "2026-08-20",
+        "approval_evidence_session_id": "S021",
+        "publication_status": "not_publicly_found",
+        "publication_date": null,
+        "direct_public_minutes_url": null,
+        "link_status": "no_link",
+        "evidence": [
+          {
+            "type": "later_public_agenda_approval_item",
+            "session_id": "S021",
+            "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1027"
+          }
+        ]
+      },
+      "legacy_verification_status": "meeting/document set verified; exact decision statuses not asserted",
+      "full_public_agenda": [
+        {
+          "no": null,
+          "proposal": null,
+          "title": "Bauantrag: Neubau von acht Wohngebäuden mit 166 Eigentumswohnungen und einer Tiefgarage mit 243 Kfz-Stellplätzen zwischen Hohenlindner Straße und Jahnstraße",
+          "result": null,
+          "agenda_item_id": "S019-A01"
+        },
+        {
+          "no": null,
+          "proposal": null,
+          "title": "Antrag der FDP-Fraktion auf Beschaffung eines mobilen Toilettenwagens für Vereine und Veranstaltungen",
+          "result": null,
+          "agenda_item_id": "S019-A02"
+        }
+      ],
+      "important_selection_status": "provisional_due_to_unresolved_full_agenda",
+      "agenda_status": "controlled_documentation_gap_after_final_retrieval",
+      "data_quality_flag": "full_agenda_not_retrievable_no_inference",
+      "source_note": "Direct RIS session page verified; it supports the displayed TOPs. Full-agenda completeness remains conservatively marked until separately audited."
+    },
+    {
+      "id": "S020",
+      "date": "2026-07-23",
+      "body": "Gemeinderat",
+      "session_ref": "GR/436/2026",
+      "session_url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1026",
+      "legacy_important_items": "5293/2026 | 5285/2026 | 5287/2026 | 5283/2026 | 5275/2026 | 5277/2026 | 5278/2026 | 5281/2026",
+      "important_items": [
+        {
+          "item_id": "S020-T02",
+          "legacy_label": "5293/2026",
+          "proposal_no": "5293/2026",
+          "title": "Wahl dreier Generationenbeauftragten aus dem Gemeinderat",
+          "research_or_contribution_refs": [
+            "R035"
+          ],
+          "documents": [
+            {
+              "label": "RIS Feldkirchen – Beschlussvorlage 5293/2026",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74768&type=do",
+              "type": "primary_official",
+              "verification_status": "direct_link_verified_2026-08-29"
+            }
+          ],
+          "decision_status": "decision_not_publicly_documented_in_audit",
+          "decision_evidence": [],
+          "needs_full_agenda_audit": true,
+          "decision_result": null,
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 2,
+          "document_audit_note": "Fehlzuordnung der Parkraumkonzept-Vorlage 5285/2026 am 28.08.2026 entfernt; kein Ersatzlink, solange kein direkter öffentlicher Vorlagenlink verifiziert ist."
+        },
+        {
+          "item_id": "S020-T03",
+          "legacy_label": "5285/2026",
+          "proposal_no": "5285/2026",
+          "title": "Parkraumkonzept der Gemeinde Feldkirchen",
+          "research_or_contribution_refs": [
+            "R035"
+          ],
+          "documents": [
+            {
+              "label": "Vorlage",
+              "source_name": "RIS Feldkirchen – Parkraumkonzept, Vorlage 5285/2026",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74670&type=do",
+              "type": "primary_official",
+              "verification_status": "verified_from_research_basis"
+            }
+          ],
+          "decision_status": "decision_not_publicly_documented_in_audit",
+          "decision_evidence": [],
+          "needs_full_agenda_audit": true,
+          "decision_result": null,
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 3
+        },
+        {
+          "item_id": "S020-T04",
+          "legacy_label": "5287/2026",
+          "proposal_no": "5287/2026",
+          "title": "Instandsetzungskonzept Feuerwehrgerätehaus Feldkirchen",
+          "research_or_contribution_refs": [
+            "R035"
+          ],
+          "documents": [
+            {
+              "label": "RIS Feldkirchen – Beschlussvorlage 5287/2026",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74697&type=do",
+              "type": "primary_official",
+              "verification_status": "direct_link_verified_2026-08-29"
+            }
+          ],
+          "decision_status": "decision_not_publicly_documented_in_audit",
+          "decision_evidence": [],
+          "needs_full_agenda_audit": true,
+          "decision_result": null,
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 4,
+          "document_audit_note": "Fehlzuordnung der Parkraumkonzept-Vorlage 5285/2026 am 28.08.2026 entfernt; kein Ersatzlink, solange kein direkter öffentlicher Vorlagenlink verifiziert ist."
+        },
+        {
+          "item_id": "S020-T05",
+          "legacy_label": "5283/2026",
+          "proposal_no": "5283/2026",
+          "title": "Errichtung einer Hundewiese östlich des Friedhofs – weiteres Vorgehen nach schalltechnischer Stellungnahme",
+          "research_or_contribution_refs": [
+            "R035"
+          ],
+          "documents": [
+            {
+              "label": "RIS Feldkirchen – Beschlussvorlage 5283/2026",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74647&type=do",
+              "type": "primary_official",
+              "verification_status": "direct_link_verified_2026-08-29"
+            }
+          ],
+          "decision_status": "decision_not_publicly_documented_in_audit",
+          "decision_evidence": [],
+          "needs_full_agenda_audit": true,
+          "decision_result": null,
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 5,
+          "document_audit_note": "Fehlzuordnung der Parkraumkonzept-Vorlage 5285/2026 am 28.08.2026 entfernt; kein Ersatzlink, solange kein direkter öffentlicher Vorlagenlink verifiziert ist."
+        },
+        {
+          "item_id": "S020-T06",
+          "legacy_label": "5275/2026",
+          "proposal_no": "5275/2026",
+          "title": "Bürgerversammlung: Tempo 30 auf stark frequentierten Schulwegen",
+          "research_or_contribution_refs": [],
+          "documents": [
+            {
+              "label": "RIS Feldkirchen – Beschlussvorlage 5275/2026",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74581&type=do",
+              "type": "primary_official",
+              "verification_status": "direct_link_verified_2026-08-29"
+            }
+          ],
+          "decision_status": "decision_not_publicly_documented_in_audit",
+          "decision_evidence": [],
+          "needs_full_agenda_audit": true,
+          "decision_result": null,
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 6
+        },
+        {
+          "item_id": "S020-T07",
+          "legacy_label": "5277/2026",
+          "proposal_no": "5277/2026",
+          "title": "Bürgerversammlung: Radfahr-/Schutzstreifen B471 und M18",
+          "research_or_contribution_refs": [],
+          "documents": [
+            {
+              "label": "RIS Feldkirchen – Beschlussvorlage 5277/2026",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74590&type=do",
+              "type": "primary_official",
+              "verification_status": "direct_link_verified_2026-08-29"
+            }
+          ],
+          "decision_status": "decision_not_publicly_documented_in_audit",
+          "decision_evidence": [],
+          "needs_full_agenda_audit": true,
+          "decision_result": null,
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 7
+        },
+        {
+          "item_id": "S020-T08",
+          "legacy_label": "5278/2026",
+          "proposal_no": "5278/2026",
+          "title": "Bürgerversammlung: große Schließfächer Dreifachturnhalle",
+          "research_or_contribution_refs": [],
+          "documents": [
+            {
+              "label": "RIS Feldkirchen – Beschlussvorlage 5278/2026",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74594&type=do",
+              "type": "primary_official",
+              "verification_status": "direct_link_verified_2026-08-29"
+            }
+          ],
+          "decision_status": "decision_not_publicly_documented_in_audit",
+          "decision_evidence": [],
+          "needs_full_agenda_audit": true,
+          "decision_result": null,
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 8
+        },
+        {
+          "item_id": "S020-T09",
+          "legacy_label": "5281/2026",
+          "proposal_no": "5281/2026",
+          "title": "Ortsentwicklungskonzept – Rahmenplan Bahnhof/Bahnhofstraße/Emeranstraße und Kirchenvorplatz",
+          "research_or_contribution_refs": [
+            "R036"
+          ],
+          "documents": [
+            {
+              "label": "RIS Feldkirchen – Sitzung 23.07.2026",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1026",
+              "type": "primary_official",
+              "verification_status": "legacy_link_preserved"
+            },
+            {
+              "label": "RIS Feldkirchen – Beschlussvorlage 5281/2026",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74606&type=do",
+              "type": "primary_official",
+              "verification_status": "legacy_link_preserved"
+            }
+          ],
+          "decision_status": "decision_not_publicly_documented_in_audit",
+          "decision_evidence": [],
+          "needs_full_agenda_audit": true,
+          "decision_result": null,
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 9
+        }
+      ],
+      "other_public_items_note": "Weitere öffentliche TOPs wurden vollständig geprüft und nicht einzeln als wichtig ausgewiesen.",
+      "agenda_audit_status": "full_public_agenda_verified",
+      "decision_audit_status": "completed_for_selected_items_public_evidence_only",
+      "minutes": {
+        "status": "approved_not_published",
+        "approval_status": "approved",
+        "approval_date": "2026-08-20",
+        "approval_evidence_session_id": "S021",
+        "publication_status": "not_publicly_found",
+        "publication_date": null,
+        "direct_public_minutes_url": null,
+        "link_status": "no_link",
+        "evidence": [
+          {
+            "type": "later_public_agenda_approval_item",
+            "session_id": "S021",
+            "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1027"
+          }
+        ]
+      },
+      "legacy_verification_status": "agenda/proposal numbers verified",
+      "full_public_agenda": [
+        {
+          "no": 1,
+          "title": "Genehmigung der Niederschrift vom 25.06.2026",
+          "agenda_item_id": "S020-A01"
+        },
+        {
+          "no": 2,
+          "proposal": "5293/2026",
+          "title": "Wahl dreier Generationenbeauftragten aus dem Gemeinderat",
+          "agenda_item_id": "S020-A02"
+        },
+        {
+          "no": 3,
+          "proposal": "5285/2026",
+          "title": "Parkraumkonzept der Gemeinde Feldkirchen",
+          "agenda_item_id": "S020-A03"
+        },
+        {
+          "no": 4,
+          "proposal": "5287/2026",
+          "title": "Instandsetzungskonzept Feuerwehrgerätehaus Feldkirchen",
+          "agenda_item_id": "S020-A04"
+        },
+        {
+          "no": 5,
+          "proposal": "5283/2026",
+          "title": "Errichtung einer Hundewiese östlich des Friedhofs – weiteres Vorgehen nach schalltechnischer Stellungnahme",
+          "agenda_item_id": "S020-A05"
+        },
+        {
+          "no": 6,
+          "proposal": "5275/2026",
+          "title": "Bürgerversammlung: Tempo 30 auf stark frequentierten Schulwegen",
+          "agenda_item_id": "S020-A06"
+        },
+        {
+          "no": 7,
+          "proposal": "5277/2026",
+          "title": "Bürgerversammlung: Radfahr-/Schutzstreifen B471 und M18",
+          "agenda_item_id": "S020-A07"
+        },
+        {
+          "no": 8,
+          "proposal": "5278/2026",
+          "title": "Bürgerversammlung: große Schließfächer Dreifachturnhalle",
+          "agenda_item_id": "S020-A08"
+        },
+        {
+          "no": 9,
+          "proposal": "5281/2026",
+          "title": "Ortsentwicklungskonzept – Rahmenplan Bahnhof/Bahnhofstraße/Emeranstraße und Kirchenvorplatz",
+          "agenda_item_id": "S020-A09"
+        },
+        {
+          "no": 10,
+          "proposal": "5291/2026",
+          "title": "Bestellung des Ersten Bürgermeisters zum Eheschließungsstandesbeamten",
+          "agenda_item_id": "S020-A10"
+        },
+        {
+          "no": 11,
+          "proposal": "5249/2026",
+          "title": "Bekanntgabe nichtöffentlich gefasster Beschlüsse nach Wegfall des Geheimhaltungsgrundes",
+          "agenda_item_id": "S020-A11"
+        },
+        {
+          "no": 12,
+          "proposal": "5303/2026",
+          "title": "Stellungnahme zur Bauleitplanung der Gemeinde Poing, Bebauungsplan Nr. 54.1, 1. Änderung",
+          "agenda_item_id": "S020-A12"
+        },
+        {
+          "no": 13,
+          "title": "Bekanntgaben und Berichte",
+          "agenda_item_id": "S020-A13"
+        },
+        {
+          "no": 14,
+          "title": "Anfragen",
+          "agenda_item_id": "S020-A14"
+        }
+      ],
+      "important_selection_status": "completed_after_full_agenda_review"
+    },
+    {
+      "id": "S021",
+      "date": "2026-08-20",
+      "body": "Ferienausschuss",
+      "session_ref": "FA/011/2026",
+      "session_url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1027",
+      "legacy_important_items": "5324/2026 | 5328/2026 | 5317/2026",
+      "important_items": [
+        {
+          "item_id": "S021-T02",
+          "legacy_label": "5324/2026",
+          "proposal_no": "5324/2026",
+          "title": "Auftrag zur Aufstellung eines Nachtragshaushalts 2026",
+          "research_or_contribution_refs": [],
+          "documents": [],
+          "decision_status": "decision_not_publicly_documented_in_audit",
+          "decision_evidence": [],
+          "needs_full_agenda_audit": true,
+          "decision_result": null,
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 2
+        },
+        {
+          "item_id": "S021-T03",
+          "legacy_label": "5328/2026",
+          "proposal_no": "5328/2026",
+          "title": "Unbefristete Dauernutzung Bürgercafé Richthofenstr. 16 durch Familienstützpunkt Lotse",
+          "research_or_contribution_refs": [],
+          "documents": [],
+          "decision_status": "decision_not_publicly_documented_in_audit",
+          "decision_evidence": [],
+          "needs_full_agenda_audit": true,
+          "decision_result": null,
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 3
+        },
+        {
+          "item_id": "S021-T04",
+          "legacy_label": "5317/2026",
+          "proposal_no": "5317/2026",
+          "title": "Nutzungsänderung Kiosk in SB-Bäckerei Kirchenstr. 4 – erneute Vorlage",
+          "research_or_contribution_refs": [],
+          "documents": [],
+          "decision_status": "decision_not_publicly_documented_in_audit",
+          "decision_evidence": [],
+          "needs_full_agenda_audit": true,
+          "decision_result": null,
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 4
+        },
+        {
+          "item_id": "S021-T05",
+          "proposal_no": "5318/2026",
+          "title": "Vorbescheid zwei Wohngebäude mit Teilgewerbefläche und Tiefgarage Bahnhofstr. 19",
+          "research_or_contribution_refs": [],
+          "documents": [],
+          "decision_status": "decision_not_publicly_documented_in_audit",
+          "decision_result": null,
+          "decision_evidence": [],
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 5
+        },
+        {
+          "item_id": "S021-T06",
+          "proposal_no": "5326/2026",
+          "title": "Aufstockung Otto-Lilienthal-Ring 22 zur Schaffung weiterer Mitarbeiterwohnungen",
+          "research_or_contribution_refs": [
+            "R049"
+          ],
+          "documents": [],
+          "decision_status": "decision_not_publicly_documented_in_audit",
+          "decision_result": null,
+          "decision_evidence": [],
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 6
+        }
+      ],
+      "other_public_items_note": "Weitere öffentliche TOPs wurden vollständig geprüft und nicht einzeln als wichtig ausgewiesen.",
+      "agenda_audit_status": "full_public_agenda_verified",
+      "decision_audit_status": "completed_for_selected_items_public_evidence_only",
+      "minutes": {
+        "status": "approval_and_publication_not_documented_within_cutoff",
+        "approval_status": "approval_not_publicly_documented_within_cutoff",
+        "approval_date": null,
+        "approval_evidence_session_id": null,
+        "publication_status": "not_publicly_found",
+        "publication_date": null,
+        "direct_public_minutes_url": null,
+        "link_status": "no_link",
+        "evidence": []
+      },
+      "legacy_verification_status": "agenda verified; no result status asserted",
+      "full_public_agenda": [
+        {
+          "no": 1,
+          "title": "Genehmigung der Niederschriften der Gemeinderatssitzungen vom 09.07.2026 und 23.07.2026",
+          "agenda_item_id": "S021-A01"
+        },
+        {
+          "no": 2,
+          "proposal": "5324/2026",
+          "title": "Auftrag zur Aufstellung eines Nachtragshaushalts 2026",
+          "agenda_item_id": "S021-A02"
+        },
+        {
+          "no": 3,
+          "proposal": "5328/2026",
+          "title": "Unbefristete Dauernutzung Bürgercafé Richthofenstr. 16 durch Familienstützpunkt Lotse",
+          "agenda_item_id": "S021-A03"
+        },
+        {
+          "no": 4,
+          "proposal": "5317/2026",
+          "title": "Nutzungsänderung Kiosk in SB-Bäckerei Kirchenstr. 4 – erneute Vorlage",
+          "agenda_item_id": "S021-A04"
+        },
+        {
+          "no": 5,
+          "proposal": "5318/2026",
+          "title": "Vorbescheid zwei Wohngebäude mit Teilgewerbefläche und Tiefgarage Bahnhofstr. 19",
+          "agenda_item_id": "S021-A05"
+        },
+        {
+          "no": 6,
+          "proposal": "5326/2026",
+          "title": "Aufstockung Otto-Lilienthal-Ring 22 zur Schaffung weiterer Mitarbeiterwohnungen",
+          "agenda_item_id": "S021-A06"
+        },
+        {
+          "no": 7,
+          "proposal": "5319/2026",
+          "title": "Doppelhaus Friedenstraße – Befreiungen Bebauungsplan 9",
+          "agenda_item_id": "S021-A07"
+        },
+        {
+          "no": 8,
+          "proposal": "5322/2026",
+          "title": "Doppelhaus Friedensstr. 15 – Änderungsantrag Keller und Dachhöhe",
+          "agenda_item_id": "S021-A08"
+        },
+        {
+          "no": 9,
+          "proposal": "5320/2026",
+          "title": "Lehrwerkstatt/Recyclingbetrieb Kreuzstr. 9 – brandschutzrechtliche Neubewertung und Änderungen",
+          "agenda_item_id": "S021-A09"
+        },
+        {
+          "no": 10,
+          "proposal": "5321/2026",
+          "title": "Packstation Hohenlindner Str. 32a",
+          "agenda_item_id": "S021-A10"
+        },
+        {
+          "no": 11,
+          "title": "Bekanntgaben und Berichte",
+          "agenda_item_id": "S021-A11"
+        },
+        {
+          "no": 12,
+          "title": "Anfragen",
+          "agenda_item_id": "S021-A12"
+        }
+      ],
+      "important_selection_status": "completed_after_full_agenda_review"
+    }
+  ],
+  "stage": "D_completed_with_controlled_gap",
+  "audit_cutoff": "2026-08-28",
+  "audit_summary": {
+    "actual_sessions_verified": 21,
+    "full_public_agendas_verified": 20,
+    "controlled_agenda_gaps": [
+      "S019 2026-07-09"
+    ],
+    "public_minutes_verified": [
+      "S016",
+      "S017",
+      "S018"
+    ],
+    "canonical_file_changed": false,
+    "full_agendas_verified": 20,
+    "controlled_agenda_gap": "S019 / 09.07.2026",
+    "stage_D_finalized_at": "2026-08-28",
+    "stage_D_completion_note": "All 21 meetings inventoried; 20 full public agendas verified. S019 remains an explicit documentation gap."
+  },
+  "stage_F": {
+    "date": "2026-08-28",
+    "source": "stage_D_sitzungsbestand_working.json",
+    "controlled_gap": "S019 / 09.07.2026 complete public agenda not retrievable; no missing TOP inferred",
+    "post_qa_corrections": [
+      {
+        "date": "2026-08-28",
+        "type": "important_item_document_mapping",
+        "session_id": "S020",
+        "description": "Fehlzuordnung der Parkraumkonzept-Vorlage 5285/2026 bei TOP 2, 4 und 5 entfernt; Vorlage bleibt ausschließlich TOP 3 Parkraumkonzept zugeordnet.",
+        "affected_items": [
+          "S020-T02",
+          "S020-T04",
+          "S020-T05"
+        ]
+      }
+    ],
+    "direct_vorlage_link_audit_2026_08_29": {
+      "status": "partial_systematic_enrichment",
+      "rule": "Every important TOP was rechecked where a direct link could be reliably resolved; known proposal number without direct link remains an open link-audit, not evidence of absence.",
+      "s019_direct_session": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1025"
+    }
+  }
+}

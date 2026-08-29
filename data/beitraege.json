@@ -1,0 +1,3485 @@
+{
+  "schema_version": "2.0",
+  "work_package": "canonical",
+  "status": "canonical_after_stage_G_source_class_extension_and_fact_backcheck",
+  "research_window": {
+    "from": "2025-08-27",
+    "to": "2026-08-27"
+  },
+  "source_basis": [
+    "recherchebestand.json",
+    "sitzungsbestand.json"
+  ],
+  "contribution_count": 59,
+  "editorial_rules": [
+    "No methodological or demonstrator text inside public contribution content.",
+    "Sachinformation is neutral; political assessment is a separate optional field.",
+    "Sources follow Sachinformation and use concrete public links.",
+    "Bisheriger Verlauf contains earlier related contributions only and never the current contribution.",
+    "Public main categories are restricted to: Mobilität & Verkehr; Klima & Energie; Natur & Umwelt; Ortsentwicklung & Bauen; Bildung, Soziales & Gesundheit; Kommunalpolitik & Beteiligung; Finanzen & Wirtschaft; Infrastruktur & Versorgung; Sicherheit & Bevölkerungsschutz.",
+    "Internal topic_candidates are not rendered; established topics may be linked as Mehr zum Thema.",
+    "Unsere Einordnung was audited on 2026-08-29 for citizen-oriented political language per KI-Leitfaden 0.8."
+  ],
+  "contributions": [
+    {
+      "id": "R059",
+      "date": "2026-08-27",
+      "publication_date": "2026-08-27",
+      "category": "Mobilität & Verkehr",
+      "topic_candidates": [
+        "A99",
+        "B304",
+        "Regionale Verkehrsführung"
+      ],
+      "title": "A99 bei Haar: Verkehr läuft über Behelfsbrücke",
+      "subtitle": "Für den Abriss der alten B304-Brücke ist im November eine mehrtägige Vollsperrung der A99 angekündigt.",
+      "sachinformation": "Für den Ersatzneubau der B304-Brücke über die A99 an der Anschlussstelle Haar wurde die Verkehrsführung Ende August auf die Behelfsbrücke umgestellt. Für den Abbruch der alten Brücke ist vom 20. bis 23. November 2026 eine Vollsperrung des Autobahnrings in beiden Richtungen angekündigt, mit erheblichen Auswirkungen im gesamten Münchner Osten. Der Vorgang ergänzt die Beobachtung des A99-Korridors, der auch Feldkirchen unmittelbar betrifft.",
+      "sources": [
+        {
+          "name": "Landkreis München / Autobahn GmbH – Ersatzneubau der Brücke an der Anschlussstelle Haar",
+          "url": "https://www.landkreis-muenchen.de/artikel/a99-autobahnring-b304-ersatzneubau-der-bruecke-an-der-anschlussstelle-haar-1/",
+          "type": "primary_official_republished",
+          "date": "2026-08-04",
+          "date_basis": "source_publication_date",
+          "date_status": "verified"
+        },
+        {
+          "name": "Münchner Merkur – A99 bei Haar wird für drei Tage voll gesperrt",
+          "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/gesperrt-a99-bei-haar-wird-fuer-drei-tage-voll-94459646.html",
+          "type": "press",
+          "date": "2026-08-27",
+          "date_basis": "source_publication_date",
+          "date_status": "verified"
+        }
+      ],
+      "bisheriger_verlauf": [
+        {
+          "id": "R052",
+          "date": "2025-09-25",
+          "title": "Haar lehnt vorgestellte M18/EBE4-Verlegung beim A99-Ausbau ab"
+        },
+        {
+          "id": "R008",
+          "date": "2025-10-30",
+          "title": "Gemeinderat stimmt Variante 5 für die Verlegung von M18/EBE4 zu"
+        }
+      ],
+      "unsere_einordnung": null,
+      "council": null,
+      "research_refs": [
+        "R059"
+      ],
+      "ortsbezug": {
+        "display_place": "Haar",
+        "related_places": [
+          "Haar",
+          "Feldkirchen"
+        ],
+        "scope": "neighbor_transport_corridor_substantive_Feldkirchen_relation",
+        "verification_status": "verified_for_stage_E_from_research_basis",
+        "note": "A99/A94 corridor and regional diversions affect Feldkirchen's transport context; not a local Haar-only issue."
+      },
+      "stage_E_meta": {
+        "editorial_action": "new_from_verified_research",
+        "created_at": "2026-08-28"
+      },
+      "established_topic_refs": [
+        {
+          "id": "T012",
+          "title": "A99-Ausbau und M18/EBE4"
+        }
+      ]
+    },
+    {
+      "id": "R050",
+      "date": "2026-08-27",
+      "publication_date": "2026-08-27",
+      "category": "Sicherheit & Bevölkerungsschutz",
+      "topic_candidates": [
+        "Katastrophenschutz",
+        "Gesundheit/Pflege",
+        "Kommunale Resilienz"
+      ],
+      "title": "Gemeinde erfasst Unterstützungsbedarf für Stromausfälle und Schadenslagen",
+      "subtitle": "Menschen mit schwerer Pflegebedürftigkeit oder lebenswichtigen strombetriebenen Hilfsmitteln sollen ihren Unterstützungsbedarf frühzeitig melden.",
+      "sachinformation": "Die Gemeinde bittet Menschen mit schwerer Pflegebedürftigkeit, Einschränkungen oder lebenswichtigen strombetriebenen medizinischen Hilfsmitteln, ihren besonderen Unterstützungsbedarf frühzeitig mitzuteilen. Die Angaben sollen eine vorausschauende Planung für Stromausfälle und andere Schadenslagen unterstützen.",
+      "sources": [
+        {
+          "name": "Gemeinde Feldkirchen – Vorsorge für Ausnahmesituationen und Schadenslagen",
+          "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/vorsorge-in-ausnahmesituationen",
+          "type": "primary_official",
+          "date": "2026-08-27",
+          "date_basis": "source_publication_date",
+          "date_status": "verified"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": null,
+      "research_refs": [
+        "R050"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen",
+        "related_places": [
+          "Feldkirchen"
+        ],
+        "scope": "feldkirchen_direct",
+        "verification_status": "verified_for_stage_E_from_research_basis",
+        "note": "Direkter Aufruf der Gemeinde Feldkirchen an betroffene Einwohnerinnen und Einwohner."
+      },
+      "stage_E_meta": {
+        "editorial_action": "new_from_verified_research",
+        "created_at": "2026-08-28"
+      },
+      "established_topic_refs": [
+        {
+          "id": "T014",
+          "title": "Katastrophenschutz und kommunale Vorsorge"
+        }
+      ]
+    },
+    {
+      "id": "C057",
+      "date": "2026-08-25",
+      "publication_date": "2026-08-25",
+      "category": "Bildung, Soziales & Gesundheit",
+      "topic_candidates": [
+        "Schulzweckverband",
+        "Bildungsinfrastruktur"
+      ],
+      "title": "Schulneubauten in Kirchheim und Aschheim stehen vor der Inbetriebnahme",
+      "subtitle": "Beide Großprojekte werden vom gemeinsamen Schulzweckverband mit Feldkirchen getragen; der Start ist für 15. September vorgesehen.",
+      "sachinformation": "Nach mehrfachen Verzögerungen soll der Erweiterungsneubau des Gymnasiums Kirchheim am 15. September 2026 den Unterricht aufnehmen. Der Zweckverband aus Landkreis München, Kirchheim, Aschheim und Feldkirchen rechnet mit Baukosten von rund 125 Millionen Euro; wegen Kapazitätsgrenzen der Flucht- und Rettungswege bleiben zunächst etwa 150 Schülerinnen und Schüler in Containern.\n\nDer neue Schulcampus Aschheim mit erweitertem Realschulstandort, neuem Gymnasium, Sportanlagen und Schulschwimmbad soll am 15. September 2026 in Betrieb gehen. Der Zweckverband rechnet mit rund 150 Millionen Euro Gesamtkosten. Das Schulschwimmbad steht im Schulbetrieb auch den Grundschulen der drei Verbandsgemeinden Aschheim, Feldkirchen und Kirchheim zur Verfügung.",
+      "sources": [
+        {
+          "name": "Münchner Merkur – Gymnasium Kirchheim öffnet vier Jahre verspätet",
+          "url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/gymnasium-kirchheim-oeffnet-vier-jahre-verspaetet-150-schueler-bleiben-im-container-94452521.html",
+          "type": "press",
+          "date": "2026-08-21",
+          "date_basis": "source_publication_date",
+          "date_status": "verified"
+        },
+        {
+          "name": "Zweckverband Staatliche weiterführende Schulen im Osten des Landkreises München – Über uns",
+          "url": "https://szv-mo.de/ueber-uns/",
+          "type": "institutional_primary",
+          "date": null,
+          "date_basis": "standing_information",
+          "date_status": "current",
+          "note": "Bestätigt Feldkirchen als Verbandsmitglied und Mitträger der Schulbauten."
+        },
+        {
+          "name": "Münchner Merkur – Schulcampus Aschheim startet am 15. September",
+          "url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/900-realschueler-und-170-gymnasiasten-starten-am-15-september-auf-neuem-campus-94457462.html",
+          "type": "press",
+          "date": "2026-08-25",
+          "date_basis": "source_publication_date",
+          "date_status": "verified"
+        },
+        {
+          "name": "Gymnasium Aschheim – Der neue Schulcampus Aschheim",
+          "url": "https://gymnasium-aschheim.de/",
+          "type": "institutional_primary",
+          "date": null,
+          "date_basis": "current_project_information",
+          "date_status": "current"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": null,
+      "research_refs": [
+        "R057",
+        "R058"
+      ],
+      "ortsbezug": {
+        "display_place": "Kirchheim / Aschheim",
+        "related_places": [
+          "Kirchheim",
+          "Feldkirchen",
+          "Aschheim"
+        ],
+        "scope": "neighbor_school_joint_authority_direct",
+        "verification_status": "verified_for_stage_E_from_research_basis",
+        "note": "Feldkirchen ist Mitglied des Zweckverbands und an den Schulprojekten beteiligt. Feldkirchen ist Zweckverbandsmitglied; Schwimmbad und Schulangebot haben direkten Verbandsbezug."
+      },
+      "stage_E_meta": {
+        "editorial_action": "new_from_verified_research",
+        "created_at": "2026-08-28"
+      },
+      "established_topic_refs": []
+    },
+    {
+      "id": "R041",
+      "date": "2026-08-21",
+      "publication_date": "2026-08-21",
+      "category": "Infrastruktur & Versorgung",
+      "topic_candidates": [
+        "Fernwärme",
+        "Verkehr"
+      ],
+      "title": "Fernwärmereparatur sperrt die Bahnhofstraße bis 11. September",
+      "subtitle": "Die Vollsperrung führt zu Busumleitungen; für 2. September ist zusätzlich eine Wärmeunterbrechung angekündigt.",
+      "sachinformation": "Wegen dringender Reparaturarbeiten an einer Fernwärmeleitung wird die Bahnhofstraße ab der Zeppelinstraße vom 24. August bis 11. September voll gesperrt; der Busverkehr wird umgeleitet. Für den 2. September kündigte die Gemeinde zusätzlich von 8 bis 15 Uhr eine Wärmeunterbrechung in zahlreichen Straßen Feldkirchens wegen der Reparaturmaßnahme an.",
+      "sources": [
+        {
+          "name": "Gemeinde Feldkirchen – Vollsperrung Bahnhofstraße",
+          "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/vollsperrung-bahnhofstrasse",
+          "type": "primary_official",
+          "date": "2026-08-21",
+          "date_basis": "record_publication_date_single_source",
+          "date_status": "provisional_migrated"
+        },
+        {
+          "name": "Gemeinde Feldkirchen – Unterbrechung der Wärmeversorgung in Feldkirchen",
+          "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/unterbrechung-der-waermeversorgung-in-feldkirchen",
+          "type": "primary_official",
+          "date": "2026-08-27",
+          "date_basis": "source_publication_date",
+          "date_status": "verified"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": null,
+      "research_refs": [
+        "R041"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen",
+        "related_places": [
+          "Feldkirchen"
+        ],
+        "scope": "feldkirchen_direct",
+        "verification_status": "verified_for_stage_E_from_research_basis",
+        "note": "Strukturell ergänzt; konkreter Ortskopf wird in Vollständigkeits-/Nachbarschaftsaudit verifiziert."
+      },
+      "stage_E_meta": {
+        "editorial_action": "new_from_verified_research",
+        "created_at": "2026-08-28"
+      },
+      "established_topic_refs": []
+    },
+    {
+      "id": "R049",
+      "date": "2026-08-20",
+      "publication_date": "2026-08-28",
+      "category": "Ortsentwicklung & Bauen",
+      "topic_candidates": [
+        "Wohnen",
+        "Gewerbegebiet",
+        "Mitarbeiterwohnen"
+      ],
+      "title": "Ferienausschuss genehmigt 36 zusätzliche Mitarbeiterwohnungen am Ettenhuber-Betriebshof",
+      "subtitle": "Der Carport des neuen Betriebshofs am Otto-Lilienthal-Ring soll dafür um zwei Geschosse aufgestockt werden.",
+      "sachinformation": "Das Busunternehmen Ettenhuber will den Carport seines neuen Betriebshofs am Otto-Lilienthal-Ring um zwei Geschosse mit insgesamt 36 zusätzlichen Wohnungen für Fahrer aufstocken. Der Münchner Merkur berichtet, dass der Ferienausschuss das Vorhaben am 20. August trotz Kritik an einer schrittweisen Erweiterung genehmigte. Die Sitzung und der Bauantrag werden im RIS geführt; der amtliche Ergebnisstatus wird im vollständigen Sitzungsaudit nochmals geprüft.",
+      "sources": [
+        {
+          "name": "Münchner Merkur – Busunternehmen Ettenhuber baut 36 zusätzliche Wohnungen für Fahrer",
+          "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/salami-taktik-busunternehmen-ettenhuber-baut-36-zusaetzliche-wohnungen-fuer-fahrer-kritik-an-94460992.html",
+          "type": "press",
+          "date": "2026-08-28",
+          "date_basis": "source_publication_date",
+          "date_status": "verified"
+        },
+        {
+          "name": "RIS Feldkirchen – Ferienausschuss 20.08.2026 / Bauantrag Ettenhuber",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/do0040.asp?smcadat=2460384",
+          "type": "primary_official",
+          "date": "2026-08-20",
+          "date_basis": "session_date",
+          "date_status": "verified_agenda_context"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": {
+        "date": "2026-08-20",
+        "proposal_no": "5326/2026",
+        "session_id": "S021"
+      },
+      "research_refs": [
+        "R049"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen",
+        "related_places": [
+          "Feldkirchen"
+        ],
+        "scope": "feldkirchen_direct",
+        "verification_status": "verified_for_stage_E_from_research_basis",
+        "note": "Betriebshof am Otto-Lilienthal-Ring in Feldkirchen."
+      },
+      "stage_E_meta": {
+        "editorial_action": "new_from_verified_research",
+        "created_at": "2026-08-28"
+      },
+      "established_topic_refs": [
+        {
+          "id": "T009",
+          "title": "Wohnungsbau und kommunale Planung"
+        }
+      ]
+    },
+    {
+      "id": "R048",
+      "date": "2026-08-20",
+      "publication_date": "2026-08-20",
+      "category": "Natur & Umwelt",
+      "topic_candidates": [
+        "Heimstettener See",
+        "Gesundheit"
+      ],
+      "title": "Blaualgen im Heimstettener See nachgewiesen",
+      "subtitle": "Das Gesundheitsamt rät vorsorglich vom Baden und Schwimmen im gesamten See ab.",
+      "sachinformation": "Das Gesundheitsamt München Land wies Cyanobakterien insbesondere am Südufer des Heimstettener Sees nach. Vorsorglich wurde vom Baden und Schwimmen im gesamten See abgeraten; ein Badeverbot wurde nicht ausgesprochen.",
+      "sources": [
+        {
+          "name": "Gemeinde Feldkirchen – Blaualgen im Heimstettener See",
+          "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/blaualgen-im-heimstettener-see-nachgewiesen",
+          "type": "primary_official",
+          "date": "2026-08-20",
+          "date_basis": "record_publication_date_single_source",
+          "date_status": "provisional_migrated"
+        },
+        {
+          "name": "Landkreis München – Blaualgen im Heimstettener See nachgewiesen",
+          "url": "https://www.landkreis-muenchen.de/artikel/blaualgen-im-heimstettener-see-nachgewiesen/",
+          "type": "primary_official",
+          "date": "2026-08-20",
+          "date_basis": "source_publication_date",
+          "date_status": "verified"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": null,
+      "research_refs": [
+        "R048"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen",
+        "related_places": [
+          "Feldkirchen",
+          "Aschheim",
+          "Kirchheim"
+        ],
+        "scope": "intermunicipal_shared_lake_direct_Feldkirchen_relevance",
+        "verification_status": "verified_for_stage_E_from_research_basis",
+        "note": "Heimstettener See liegt auf Gebiet von Feldkirchen, Aschheim und Kirchheim."
+      },
+      "stage_E_meta": {
+        "editorial_action": "updated_from_stage_B",
+        "updated_at": "2026-08-28",
+        "reason": "county corroborating source added"
+      },
+      "established_topic_refs": [
+        {
+          "id": "T013",
+          "title": "Heimstettener See: Nutzung, Erholung und Gesundheit"
+        }
+      ]
+    },
+    {
+      "id": "R040",
+      "date": "2026-08-18",
+      "publication_date": "2026-08-18",
+      "category": "Klima & Energie",
+      "topic_candidates": [
+        "Geothermie",
+        "Kommunale Wärmeplanung"
+      ],
+      "title": "AFK startet Bauphase für zweite Geothermie-Dublette",
+      "subtitle": "Die Bohrungen sollen ab November beginnen; zusätzliche Fernwärmeanschlüsse sind nach bisheriger Planung ab 2028 vorgesehen.",
+      "sachinformation": "Die AFK meldete am 18. August, dass die Bohrplatzarbeiten für die zweite Tiefengeothermie-Dublette begonnen haben. Der Münchner Merkur berichtete für die Herrichtung des Bauplatzes ab 19. August; die eigentlichen Bohrungen sind ab November vorgesehen. Bis zu 1.200 zusätzliche Anschlüsse in Aschheim, Feldkirchen und Kirchheim sollen nach bisherigem Zeitplan ab Januar 2028 möglich werden.",
+      "sources": [
+        {
+          "name": "AFK Geothermie – Bohrplatzarbeiten für die zweite Tiefenbohrung haben begonnen",
+          "url": "https://afk-geothermie.de/bohrplatzarbeiten-fuer-die-zweite-tiefenbohrung-haben-begonnen/",
+          "type": "primary_official",
+          "date": "2026-08-18",
+          "date_basis": "source_publication_date",
+          "date_status": "verified"
+        },
+        {
+          "name": "Münchner Merkur – AFK Geothermie: Bohrungen für Dublette ab November – Neue Anschlüsse ab 2028",
+          "url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/afk-geothermie-bohrungen-fuer-dublette-ab-november-neue-anschluesse-ab-2028-94449062.html",
+          "type": "press",
+          "date": "2026-08-19",
+          "date_basis": "source_publication_date",
+          "date_status": "verified"
+        }
+      ],
+      "bisheriger_verlauf": [
+        {
+          "id": "R022",
+          "date": "2026-02-05",
+          "title": "AFK kündigt zweite Geothermie-Tiefenbohrung an"
+        }
+      ],
+      "unsere_einordnung": "Die zweite Dublette ist ein wichtiger Schritt für mehr erneuerbare Wärme. Für Feldkirchen kommt es jetzt darauf an, dass auch Leitungen und Anschlüsse rechtzeitig mitwachsen. Kosten, Zeitplan und Umweltauflagen sollten dabei so transparent sein, dass Bürgerinnen und Bürger nachvollziehen können, wann zusätzliche Haushalte und Betriebe tatsächlich profitieren.",
+      "council": null,
+      "einordnung_meta": {
+        "topic_ref": "T001",
+        "basis": "topic assessment/reference frame",
+        "editorial_status": "selected_contribution_assessment"
+      },
+      "research_refs": [
+        "R040"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen / Aschheim / Kirchheim",
+        "related_places": [
+          "Feldkirchen",
+          "Aschheim",
+          "Kirchheim"
+        ],
+        "scope": "intermunicipal_AFk_direct_Feldkirchen_relevance",
+        "verification_status": "verified_for_stage_E_from_research_basis",
+        "note": "AFK versorgt/erweitert für Aschheim, Feldkirchen und Kirchheim; Standort der neuen Bohrung liegt in Aschheim."
+      },
+      "stage_E_meta": {
+        "editorial_action": "updated_from_stage_B",
+        "updated_at": "2026-08-28",
+        "reason": "AFK primary source/date clarified"
+      },
+      "established_topic_refs": [
+        {
+          "id": "T001",
+          "title": "Kommunale Wärmeplanung und Geothermie"
+        }
+      ]
+    },
+    {
+      "id": "R039",
+      "date": "2026-08-18",
+      "publication_date": "2026-08-18",
+      "category": "Mobilität & Verkehr",
+      "topic_candidates": [
+        "Parkraumkonzept"
+      ],
+      "title": "Anwohner protestieren gegen neue Parkregelung am Friedhof",
+      "subtitle": "Nach Einwänden gegen die Zwei-Stunden-Regel soll die zulässige Parkdauer auf drei Stunden verlängert werden.",
+      "sachinformation": "34 Anwohner wandten sich gegen die neue Zwei-Stunden-Parkregelung im Umfeld des Friedhofs. Der Gemeinderat hielt grundsätzlich am Parkraumkonzept fest; für diesen Bereich sollte die zulässige Parkdauer jedoch auf drei Stunden verlängert werden.",
+      "sources": [
+        {
+          "name": "Münchner Merkur – Anwohner-Protest gegen Parkregeln",
+          "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/feldkirchen-aerger-ueber-neue-parkregeln-anwohner-protest-gegen-konzept-der-gemeinde-94447851.html",
+          "type": "press",
+          "date": "2026-08-18",
+          "date_basis": "publication_date",
+          "date_status": "migrated_unique"
+        }
+      ],
+      "bisheriger_verlauf": [
+        {
+          "id": "R026",
+          "date": "2026-03-12",
+          "title": "Gemeinderat fordert Ergänzungen am Parkraumkonzept"
+        }
+      ],
+      "unsere_einordnung": "Die Reaktion der Anwohner zeigt: Parkregeln müssen im Alltag funktionieren. Drei Stunden können am Friedhof passender sein als zwei – entscheidend ist, ob damit die unterschiedlichen Bedürfnisse von Anwohnern, Friedhofsbesuchern und anderen Nutzern besser zusammenpassen. Solche Regeln sollten deshalb nach einiger Zeit überprüft und bei Bedarf nachvollziehbar angepasst werden.",
+      "council": null,
+      "einordnung_meta": {
+        "topic_ref": "T006",
+        "basis": "topic assessment/reference frame",
+        "editorial_status": "selected_contribution_assessment"
+      },
+      "research_refs": [
+        "R039"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen",
+        "related_places": [
+          "Feldkirchen"
+        ],
+        "scope": "feldkirchen_relevance_existing",
+        "verification_status": "verified_for_stage_E_from_research_basis",
+        "note": "Strukturell ergänzt; konkreter Ortskopf wird in Vollständigkeits-/Nachbarschaftsaudit verifiziert."
+      },
+      "established_topic_refs": [
+        {
+          "id": "T006",
+          "title": "Parkraumkonzept"
+        }
+      ]
+    },
+    {
+      "id": "R037",
+      "date": "2026-07-24",
+      "publication_date": "2026-07-24",
+      "category": "Ortsentwicklung & Bauen",
+      "topic_candidates": [
+        "Wohnen",
+        "Kommunale Planungshoheit"
+      ],
+      "title": "Landratsamt hält zehn Mietwohnungen in der Sonnenstraße für genehmigungsfähig",
+      "subtitle": "Nach zwei Ablehnungen im Gemeinderat fordert die Bauaufsicht die Gemeinde zur Erteilung des Einvernehmens auf.",
+      "sachinformation": "Nach zweimaliger Ablehnung durch den Gemeinderat bewertete das Landratsamt München das Vorhaben mit zehn Mietwohnungen in der Sonnenstraße als genehmigungsfähig. Die Gemeinde wurde aufgefordert, ihr Einvernehmen zu erteilen.",
+      "sources": [
+        {
+          "name": "Münchner Merkur – Landratsamt widerspricht bei Mietwohnungen",
+          "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/ab-landratsamt-widerspricht-baufirma-verzweifelt-gemeinderat-lehnt-zehn-mietwohnungen-zweimal-94408449.html",
+          "type": "press",
+          "date": "2026-07-24",
+          "date_basis": "publication_date",
+          "date_status": "migrated_unique"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": "Bei einzelnen Bauanträgen kann die Gemeinde nur innerhalb des Baurechts entscheiden. Wenn Feldkirchen beeinflussen will, wo und wie gebaut wird, muss es deshalb früher ansetzen – etwa mit Bebauungsplänen, städtebaulichen Vorgaben und einer aktiven Bodenpolitik. Im laufenden Verfahren sollte die Gemeinde ihren rechtlichen Spielraum nutzen, aber auch seine Grenzen offen benennen.",
+      "council": null,
+      "einordnung_meta": {
+        "topic_ref": "T009",
+        "basis": "topic assessment/reference frame",
+        "editorial_status": "selected_contribution_assessment"
+      },
+      "research_refs": [
+        "R037"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen",
+        "related_places": [
+          "Feldkirchen"
+        ],
+        "scope": "feldkirchen_relevance_existing",
+        "verification_status": "verified_for_stage_E_from_research_basis",
+        "note": "Strukturell ergänzt; konkreter Ortskopf wird in Vollständigkeits-/Nachbarschaftsaudit verifiziert."
+      },
+      "established_topic_refs": [
+        {
+          "id": "T009",
+          "title": "Wohnungsbau und kommunale Planung"
+        }
+      ]
+    },
+    {
+      "id": "R036",
+      "date": "2026-07-23",
+      "publication_date": null,
+      "category": "Ortsentwicklung & Bauen",
+      "topic_candidates": [
+        "Ortsentwicklung"
+      ],
+      "title": "Ortsentwicklung: neue Planungsimpulse für Bahnhof und Kirchenvorplatz",
+      "subtitle": "Der Gemeinderat stößt die weitere Bearbeitung zweier zentraler Bereiche im Ortskern an.",
+      "sachinformation": "Der Gemeinderat befasste sich am 23. Juli 2026 mit der weiteren Umsetzung des Ortsentwicklungskonzepts. Gegenstand waren Anstoßbeschlüsse für einen Rahmenplan im Bereich Bahnhofsplatz, Bahnhofstraße und Emeranstraße sowie für die Umgestaltung des Kirchenvorplatzes.",
+      "sources": [
+        {
+          "name": "RIS Feldkirchen – Beschlussvorlage 5281/2026",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74606&type=do",
+          "type": "primary_official",
+          "date": "2026-07-23",
+          "date_basis": "event_or_session_date",
+          "date_status": "migrated_fallback_needs_source_date_check"
+        },
+        {
+          "name": "RIS Feldkirchen – Sitzung 23.07.2026",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1026",
+          "type": "primary_official",
+          "date": "2026-07-23",
+          "date_basis": "event_or_session_date",
+          "date_status": "migrated_fallback_needs_source_date_check"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": "Bahnhof und Kirchenvorplatz sind mehr als einzelne Bauprojekte: Hier geht es um Wege, Begegnung und das Gesicht der Ortsmitte. Die weitere Planung sollte deshalb sichere Fuß- und Radwege, Barrierefreiheit, Schatten und Grün sowie die Nahversorgung von Anfang an zusammendenken. So lassen sich Zielkonflikte früher erkennen und bessere Lösungen für den ganzen Ortskern finden.",
+      "council": {
+        "date": "2026-07-23",
+        "proposal_no": "5281/2026",
+        "session_id": "S020"
+      },
+      "einordnung_meta": {
+        "topic_ref": "T002",
+        "basis": "topic assessment/reference frame",
+        "editorial_status": "selected_contribution_assessment"
+      },
+      "research_refs": [
+        "R036"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen",
+        "related_places": [
+          "Feldkirchen"
+        ],
+        "scope": "feldkirchen_relevance_existing",
+        "verification_status": "verified_for_stage_E_from_research_basis",
+        "note": "Strukturell ergänzt; konkreter Ortskopf wird in Vollständigkeits-/Nachbarschaftsaudit verifiziert."
+      },
+      "established_topic_refs": [
+        {
+          "id": "T002",
+          "title": "Ortsentwicklung und Bauleitplanung"
+        }
+      ]
+    },
+    {
+      "id": "R067",
+      "date": "2026-07-09",
+      "publication_date": "2026-07-15",
+      "category": "Infrastruktur & Versorgung",
+      "topic_candidates": [
+        "Vereine",
+        "Veranstaltungsinfrastruktur"
+      ],
+      "title": "FDP-Fraktion schlägt mobilen Toilettenwagen für Vereine und Veranstaltungen vor",
+      "subtitle": "Der Antrag stand am 9. Juli auf der öffentlichen Tagesordnung; die Beschlussvorlage wurde am 15. Juli im RIS veröffentlicht.",
+      "sachinformation": "Der Antrag der FDP-Fraktion auf Beschaffung eines mobilen Toilettenwagens für Vereine und Veranstaltungen stand am 9. Juli 2026 auf der öffentlichen Tagesordnung des Gemeinderats. Die zugehörige Beschlussvorlage wurde im Ratsinformationssystem am 15. Juli veröffentlicht. Ein belastbares öffentliches Beratungsergebnis ist in der bislang ausgewerteten Quellenlage nicht dokumentiert.",
+      "sources": [
+        {
+          "name": "RIS Feldkirchen – Gemeinderat 09.07.2026",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1025",
+          "type": "primary_official",
+          "date": "2026-07-09",
+          "date_basis": "session_date",
+          "date_status": "verified"
+        },
+        {
+          "name": "RIS Feldkirchen – Beschlussvorlage zum FDP-Antrag auf mobilen Toilettenwagen",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74730&type=do",
+          "type": "primary_official",
+          "date": "2026-07-15",
+          "date_basis": "document_release_date",
+          "date_status": "verified"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": {
+        "date": "2026-07-09",
+        "proposal_no": null,
+        "session_id": "S019"
+      },
+      "research_refs": [
+        "R067"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen",
+        "related_places": [
+          "Feldkirchen"
+        ],
+        "scope": "feldkirchen_direct",
+        "verification_status": "verified_stage_G",
+        "note": "Konkreter Fraktionsantrag; Ergebnis ausdrücklich offen gehalten."
+      },
+      "stage_G_meta": {
+        "editorial_action": "new_from_party_source_audit",
+        "created_at": "2026-08-29",
+        "fact_backcheck": "corrected_2026-08-29_direct_session_evidence"
+      },
+      "established_topic_refs": []
+    },
+    {
+      "id": "R056",
+      "date": "2026-07-11",
+      "publication_date": "2026-07-11",
+      "category": "Natur & Umwelt",
+      "topic_candidates": [
+        "Heimstettener See",
+        "Tourismus/Freizeit",
+        "Flächennutzung"
+      ],
+      "title": "Aschheim unterstützt Camping- und Reisemobilpark am Heimstettener See",
+      "subtitle": "Geplant ist ein ganzjähriger Natur-Camping- und Reisemobilpark mit 150 Stellplätzen am gemeinsamen Erholungsraum.",
+      "sachinformation": "Der Aschheimer Bau- und Umweltausschuss stimmte einer formlosen Bauvoranfrage für einen ganzjährig geplanten ökologischen Natur-Camping- und Reisemobilpark mit 150 Stellplätzen grundsätzlich zu. Das vorgesehene Areal liegt zwischen Klausnerstraße und Heimstettener See. Weil der Erholungsraum auf Aschheim, Kirchheim und Feldkirchen verteilt ist, hat das Vorhaben einen unmittelbaren Feldkirchen-Bezug.",
+      "sources": [
+        {
+          "name": "Münchner Merkur – Campingplatz am Fidsche: Aschheim stimmt Vorhaben grundsätzlich zu",
+          "url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/campingplatz-am-fidsche-aschheim-stimmt-plaenen-grundsaetzlich-zu-das-ist-geplant-94392053.html",
+          "type": "press",
+          "date": "2026-07-11",
+          "date_basis": "source_publication_date",
+          "date_status": "verified"
+        },
+        {
+          "name": "Landkreis München – Heimstettener See",
+          "url": "https://www.landkreis-muenchen.de/themen/freizeit-kultur-sport/badeseen-und-badegewaesser/heimstettener-see/",
+          "type": "primary_official",
+          "date": null,
+          "date_basis": "standing_information",
+          "date_status": "current",
+          "note": "Bestätigt, dass das Erholungsgebiet im Gebiet von Aschheim, Kirchheim und Feldkirchen liegt."
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": null,
+      "research_refs": [
+        "R056"
+      ],
+      "ortsbezug": {
+        "display_place": "Aschheim",
+        "related_places": [
+          "Aschheim",
+          "Feldkirchen",
+          "Kirchheim"
+        ],
+        "scope": "neighbor_landuse_shared_recreation_area",
+        "verification_status": "verified_for_stage_E_from_research_basis",
+        "note": "Vorhaben unmittelbar am gemeinsamen Heimstettener See."
+      },
+      "stage_E_meta": {
+        "editorial_action": "new_from_verified_research",
+        "created_at": "2026-08-28"
+      },
+      "established_topic_refs": [
+        {
+          "id": "T013",
+          "title": "Heimstettener See: Nutzung, Erholung und Gesundheit"
+        }
+      ]
+    },
+    {
+      "id": "R047",
+      "date": "2026-07-09",
+      "publication_date": "2026-07-02",
+      "category": "Ortsentwicklung & Bauen",
+      "topic_candidates": [
+        "Wohnen",
+        "Bebauungsplan 113"
+      ],
+      "title": "Bauantrag für 166 Eigentumswohnungen erreicht den Gemeinderat",
+      "subtitle": "Zwischen Hohenlindner Straße und Jahnstraße sind acht Wohngebäude mit einer großen Tiefgarage vorgesehen.",
+      "sachinformation": "Dem Gemeinderat lag im Juli 2026 ein Bauantrag für acht Wohngebäude mit insgesamt 166 Eigentumswohnungen auf Grundstücken zwischen Hohenlindner Straße und Jahnstraße vor. Vorgesehen ist außerdem eine Tiefgarage mit 243 Kfz-Stellplätzen.",
+      "sources": [
+        {
+          "name": "RIS Feldkirchen – Dokumente zur Sitzung 09.07.2026",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/do0040.asp?smcadat=2461195",
+          "type": "primary_official",
+          "date": "2026-07-02",
+          "date_basis": "publication_date",
+          "date_status": "migrated_unique"
+        }
+      ],
+      "bisheriger_verlauf": [
+        {
+          "id": "R003",
+          "date": "2025-10-02",
+          "title": "Bebauungsplan 113 südlich der Hohenlindner Straße wird weitergeführt"
+        }
+      ],
+      "unsere_einordnung": null,
+      "council": {
+        "date": "2026-07-09",
+        "proposal_no": null,
+        "session_id": "S019"
+      },
+      "research_refs": [
+        "R047"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen",
+        "related_places": [
+          "Feldkirchen"
+        ],
+        "scope": "feldkirchen_relevance_existing",
+        "verification_status": "verified_for_stage_E_from_research_basis",
+        "note": "Strukturell ergänzt; konkreter Ortskopf wird in Vollständigkeits-/Nachbarschaftsaudit verifiziert."
+      },
+      "established_topic_refs": [
+        {
+          "id": "T009",
+          "title": "Wohnungsbau und kommunale Planung"
+        }
+      ]
+    },
+    {
+      "id": "R033",
+      "date": "2026-07-02",
+      "publication_date": "2026-07-02",
+      "category": "Mobilität & Verkehr",
+      "topic_candidates": [
+        "Radverkehr"
+      ],
+      "title": "Drei neue überdachte Fahrrad-Abstellstationen fertiggestellt",
+      "subtitle": "Die Anlagen am Ludwig-Glöckl-Haus, an der Sportanlage und an der Grundschule setzen Maßnahmen aus dem Radverkehrskonzept um.",
+      "sachinformation": "Die Gemeinde nahm drei überdachte Fahrrad-Abstellstationen am Ludwig-Glöckl-Haus, an der Sportanlage Olympiastraße und an der Grundschule in Betrieb. Sie ordnet die Anlagen als Umsetzung des kommunalen Radverkehrskonzepts ein.",
+      "sources": [
+        {
+          "name": "Gemeinde Feldkirchen – Neue überdachte Fahrrad-Abstellstationen",
+          "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/neue-ueberdachte-fahrrad-abstellstationen-in-feldkirchen",
+          "type": "primary_official",
+          "date": "2026-07-02",
+          "date_basis": "publication_date",
+          "date_status": "migrated_unique"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": null,
+      "research_refs": [
+        "R033"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen",
+        "related_places": [
+          "Feldkirchen"
+        ],
+        "scope": "feldkirchen_relevance_existing",
+        "verification_status": "verified_for_stage_E_from_research_basis",
+        "note": "Strukturell ergänzt; konkreter Ortskopf wird in Vollständigkeits-/Nachbarschaftsaudit verifiziert."
+      },
+      "established_topic_refs": [
+        {
+          "id": "T003",
+          "title": "Radverkehr und Verbindung über die A94"
+        }
+      ]
+    },
+    {
+      "id": "R034",
+      "date": "2026-06-29",
+      "publication_date": "2026-07-07",
+      "category": "Klima & Energie",
+      "topic_candidates": [
+        "Geothermie"
+      ],
+      "title": "Florian Meier übernimmt Vorsitz des AFK-Aufsichtsrats",
+      "subtitle": "Aschheims Erster Bürgermeister folgt Feldkirchens Bürgermeister Andreas Janson an der Spitze des Aufsichtsgremiums der interkommunalen Geothermiegesellschaft.",
+      "sachinformation": "Am 29. Juni 2026 übernahm Aschheims Erster Bürgermeister Florian Meier den Vorsitz des Aufsichtsrats der AFK-Geothermie von Feldkirchens Erstem Bürgermeister Andreas Janson. Die AFK veröffentlichte den Wechsel am 7. Juli 2026.",
+      "sources": [
+        {
+          "name": "AFK-Geothermie – Wechsel im Aufsichtsratsvorsitz",
+          "url": "https://afk-geothermie.de/wechsel-im-aufsichtsratsvorsitz-der-afk-geothermie-gmbh/",
+          "type": "primary_actor",
+          "date": "2026-07-07",
+          "date_basis": "publication_date",
+          "date_status": "migrated_unique"
+        },
+        {
+          "name": "Münchner Merkur – Florian Meier übernimmt AFK-Aufsichtsratsvorsitz",
+          "url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/afk-geothermie-florian-meier-uebernimmt-aufsichtsratsvorsitz-94385198.html",
+          "type": "press",
+          "date": "2026-07-07",
+          "date_basis": "publication_date",
+          "date_status": "migrated_unique"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": null,
+      "research_refs": [
+        "R034"
+      ],
+      "ortsbezug": {
+        "display_place": null,
+        "related_places": [
+          "Feldkirchen",
+          "Aschheim"
+        ],
+        "scope": "intermunicipal_or_neighbor_relation_needs_audit",
+        "verification_status": "verified_after_fact_backcheck_2026-08-29",
+        "note": "Interkommunaler AFK-Vorgang; Rollen- und Ortszuordnung am 29.08.2026 gegen Quellen rückgeprüft."
+      },
+      "established_topic_refs": [
+        {
+          "id": "T001",
+          "title": "Kommunale Wärmeplanung und Geothermie"
+        }
+      ]
+    },
+    {
+      "id": "R066",
+      "date": "2026-06-11",
+      "publication_date": "2026-06-11",
+      "category": "Natur & Umwelt",
+      "topic_candidates": [
+        "Ortsentwicklung",
+        "Grünplanung",
+        "Klimaanpassung"
+      ],
+      "title": "Gemeinderat unterstützt Planung einer innerörtlichen Grün- und Parkanlage",
+      "subtitle": "Ein CSU-Antrag für die Erweiterungswiese und das Friedhofsumfeld wird einstimmig angenommen.",
+      "sachinformation": "Die CSU-Fraktion beantragte im Mai 2026, die Erweiterungswiese und das Friedhofsumfeld fachplanerisch mit dem Ziel einer innerörtlichen Grün- und Parkanlage zu überplanen. Der Gemeinderat nahm den Antrag am 11. Juni einstimmig an. Damit ist zunächst der politische Auftrag für eine weitere fachliche Planung belegt; eine konkrete Gestaltung der Anlage ist damit noch nicht beschlossen.",
+      "sources": [
+        {
+          "name": "RIS Feldkirchen – Beschlussvorlage 5235/2026",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=73186&type=do",
+          "type": "primary_official",
+          "date": "2026-05-28",
+          "date_basis": "proposal_creation_date",
+          "date_status": "verified"
+        },
+        {
+          "name": "RIS Feldkirchen – Gemeinderat 11.06.2026, TOP 12",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1044&smcmode=32832",
+          "type": "primary_official",
+          "date": "2026-06-11",
+          "date_basis": "session_and_decision_date",
+          "date_status": "verified"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": "Eine neue Grün- und Parkanlage kann an heißen Tagen Schatten bieten und zugleich einen Ort für Begegnung schaffen. Bei der Planung sollte deshalb früh geklärt werden, wie viel Raum Bäume, Grünflächen, Wege und Aufenthaltsbereiche bekommen. Das Klimaanpassungskonzept und die Ziele der Ortsentwicklung bieten dafür eine gute Grundlage; über die konkrete Gestaltung ist mit dem jetzigen Beschluss noch nicht entschieden.",
+      "council": {
+        "date": "2026-06-11",
+        "proposal_no": "5235/2026",
+        "session_id": null
+      },
+      "research_refs": [
+        "R066"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen",
+        "related_places": [
+          "Feldkirchen"
+        ],
+        "scope": "feldkirchen_direct",
+        "verification_status": "verified_stage_G",
+        "note": "Amtlicher Antrag und einstimmiger Beschluss belegt."
+      },
+      "stage_G_meta": {
+        "editorial_action": "new_from_party_source_audit",
+        "created_at": "2026-08-29",
+        "fact_backcheck": "passed"
+      },
+      "established_topic_refs": []
+    },
+    {
+      "id": "R032",
+      "date": "2026-06-11",
+      "publication_date": null,
+      "category": "Klima & Energie",
+      "topic_candidates": [
+        "Klimaanpassung",
+        "Hitzeschutz"
+      ],
+      "title": "Gemeinderat beschließt Hitzeaktionsplan",
+      "subtitle": "Der Plan konkretisiert den kommunalen Umgang mit zunehmenden Hitzeperioden.",
+      "sachinformation": "Der Gemeinderat beschloss am 11. Juni 2026 den Hitzeaktionsplan der Gemeinde Feldkirchen einstimmig. Er konkretisiert Maßnahmen zum Schutz der Bevölkerung bei zunehmenden Hitzeereignissen und knüpft an das zuvor beschlossene Klimaanpassungskonzept an.",
+      "sources": [
+        {
+          "name": "Gemeinde Feldkirchen – Hitzeschutz",
+          "url": "https://www.feldkirchen.de/service/krise-katastrophe/hitze",
+          "type": "primary_official",
+          "date": "2026-06-11",
+          "date_basis": "event_or_session_date",
+          "date_status": "migrated_fallback_needs_source_date_check"
+        },
+        {
+          "name": "RIS Feldkirchen – Sitzung 11.06.2026",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1044",
+          "type": "primary_official",
+          "date": "2026-06-11",
+          "date_basis": "event_or_session_date",
+          "date_status": "migrated_fallback_needs_source_date_check"
+        },
+        {
+          "name": "RIS Feldkirchen – Hitzeaktionsplan / Anlage",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=73237&type=do",
+          "type": "primary_official",
+          "date": "2026-06-11",
+          "date_basis": "event_or_session_date",
+          "date_status": "migrated_fallback_needs_source_date_check"
+        },
+        {
+          "name": "RIS Feldkirchen – Hitzeaktionsplan",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/do0040.asp?smcadat=2461183",
+          "type": "primary_official",
+          "date": "2026-06-11",
+          "date_basis": "event_or_session_date",
+          "date_status": "migrated_fallback_needs_source_date_check"
+        }
+      ],
+      "bisheriger_verlauf": [
+        {
+          "id": "R013",
+          "date": "2026-01-15",
+          "title": "Feldkirchen beschließt Klimaanpassungskonzept"
+        }
+      ],
+      "unsere_einordnung": "Ein Hitzeaktionsplan ist dann besonders wertvoll, wenn aus ihm konkrete Schutzmaßnahmen entstehen. Feldkirchen sollte deshalb sichtbar machen, was zuerst umgesetzt wird und wie sich die Wirkung überprüfen lässt. Hitzeschutz gehört außerdem dauerhaft in die Planung von Straßen, Plätzen, Grünflächen und öffentlichen Gebäuden – nicht erst dann, wenn die nächste Hitzewelle da ist.",
+      "council": {
+        "date": "2026-06-11",
+        "proposal_no": "5233/2026",
+        "session_id": "S017"
+      },
+      "einordnung_meta": {
+        "topic_ref": "T005",
+        "basis": "topic assessment/reference frame",
+        "editorial_status": "selected_contribution_assessment"
+      },
+      "research_refs": [
+        "R032"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen",
+        "related_places": [
+          "Feldkirchen"
+        ],
+        "scope": "feldkirchen_relevance_existing",
+        "verification_status": "verified_for_stage_E_from_research_basis",
+        "note": "Strukturell ergänzt; konkreter Ortskopf wird in Vollständigkeits-/Nachbarschaftsaudit verifiziert."
+      },
+      "established_topic_refs": [
+        {
+          "id": "T005",
+          "title": "Klimaanpassung und Hitzeschutz"
+        }
+      ]
+    },
+    {
+      "id": "R030",
+      "date": "2026-06-01",
+      "publication_date": "2026-06-01",
+      "category": "Bildung, Soziales & Gesundheit",
+      "topic_candidates": [
+        "Kinderhaus St. Jakob",
+        "Schul- und Kitawege"
+      ],
+      "title": "Ausweichquartier für St. Jakob bringt rund 100 Kinder an die Clara-Schumann-Straße",
+      "subtitle": "Die mehrjährige Containerlösung macht insbesondere die Verkehrsorganisation am neuen Standort zum Thema.",
+      "sachinformation": "Für die Sanierung des Kinderhauses St. Jakob ist eine Containeranlage am Bolzplatz an der Clara-Schumann-Straße vorgesehen. Dort sollen rund 100 Kinder voraussichtlich für mehrere Jahre betreut werden. In der weiteren Planung spielen deshalb auch Bring- und Holverkehr sowie die Verkehrssituation im Umfeld eine Rolle.",
+      "sources": [
+        {
+          "name": "RIS Feldkirchen – Vorlage 5210/2026: Containeranlage St. Jakob",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=72801&type=do",
+          "type": "primary_official",
+          "date": "2026-06-01",
+          "date_basis": "publication_date",
+          "date_status": "migrated_unique"
+        },
+        {
+          "name": "Gemeinde Feldkirchen – Umbau & Sanierung Kindergarten Sankt Jakob",
+          "url": "https://feldkirchen.de/bauen/bauprojekte/umbau-sanierung-kindergarten-sankt-jakob",
+          "type": "primary_official",
+          "date": "2026-06-01",
+          "date_basis": "publication_date",
+          "date_status": "migrated_unique"
+        },
+        {
+          "name": "Münchner Merkur – Kindergarten St. Jakob zieht auf Bolzplatz",
+          "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/kindergarten-st-jakob-zieht-auf-bolzplatz-raete-fuerchten-verkehrschaos-94329885.html",
+          "type": "press",
+          "date": "2026-06-01",
+          "date_basis": "publication_date",
+          "date_status": "migrated_unique"
+        }
+      ],
+      "bisheriger_verlauf": [
+        {
+          "id": "R006",
+          "date": "2025-10-16",
+          "title": "Planungsstand für das Kinderhaus St. Jakob wird vorgestellt"
+        },
+        {
+          "id": "C027",
+          "date": "2026-04-30",
+          "title": "Kinderhaus St. Jakob: zusätzliche Hortgruppe und Ausweichcontainer beschlossen"
+        }
+      ],
+      "unsere_einordnung": "Wenn rund 100 Kinder mehrere Jahre lang das Ausweichquartier nutzen, verändert das den Verkehr rund um die Clara-Schumann-Straße. Sichere Wege zu Fuß und mit dem Rad sowie ein gut organisiertes Bringen und Abholen sollten deshalb vor dem regulären Betrieb geklärt sein. Nach dem Start wäre sinnvoll, gemeinsam mit Eltern und Anwohnern zu prüfen, wo im Alltag nachgebessert werden muss.",
+      "council": {
+        "date": "2026-04-30",
+        "proposal_no": "5210/2026",
+        "session_id": "S014"
+      },
+      "einordnung_meta": {
+        "topic_ref": "T004",
+        "basis": "topic assessment/reference frame",
+        "editorial_status": "selected_contribution_assessment"
+      },
+      "research_refs": [
+        "R030"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen",
+        "related_places": [
+          "Feldkirchen"
+        ],
+        "scope": "feldkirchen_relevance_existing",
+        "verification_status": "verified_for_stage_E_from_research_basis",
+        "note": "Strukturell ergänzt; konkreter Ortskopf wird in Vollständigkeits-/Nachbarschaftsaudit verifiziert."
+      },
+      "established_topic_refs": [
+        {
+          "id": "T004",
+          "title": "Kinderhaus St. Jakob"
+        }
+      ]
+    },
+    {
+      "id": "R063",
+      "date": "2026-05-21",
+      "publication_date": "2026-05-21",
+      "category": "Klima & Energie",
+      "topic_candidates": [
+        "Kommunale Wärmeplanung",
+        "Geothermie",
+        "Fernwärmepreise",
+        "Bürgerinitiative AFK"
+      ],
+      "title": "BI-AFK bringt Preis- und Transparenzkritik in mehrere Verfahren ein",
+      "subtitle": "Die Bürgerinitiative wendet sich an Gemeinderäte, Kartellamt und Verbraucherschutz; ihre Vorwürfe sind politische und rechtliche Positionen, keine festgestellten Rechtsverstöße.",
+      "sachinformation": "Die interkommunale Bürgerinitiative AFK hat ihre Kritik an Preisbildung und Transparenz der AFK-Geothermie im Frühjahr 2026 über mehrere Wege eingebracht. Im Februar wandte sie sich an die Bürgermeister, die AFK und die Gemeinderäte der drei Trägergemeinden und regte beim Bundeskartellamt eine Prüfung an. Im April folgte eine Eingabe an den Verbraucherzentrale Bundesverband. Am 21. Mai richtete die BI einen offenen Brief an die Gemeinderäte von Aschheim, Feldkirchen und Kirchheim und verknüpfte ihre Kritik mit der Umsetzung der kommunalen Wärmeplanung.\n\nDie von der BI erhobenen Rechts- und Missbrauchsvorwürfe sind nicht als festgestellte Tatsachen belegt und werden deshalb ausschließlich der Bürgerinitiative zugeschrieben. Bei einer gezielten Suche nach Resonanz wurde keine ausdrücklich auf diese Schreiben bezogene öffentliche Antwort der AFK gefunden. Die AFK stellt für 2026 unabhängig davon sinkende Wärmepreise und den Entfall einer CO₂-Preiskomponente heraus; ihr Preisblatt dokumentiert die geltenden Preis- und Anpassungsregelungen.",
+      "sources": [
+        {
+          "name": "BI-AFK – Offener Brief an die Gemeinderäte",
+          "url": "https://bi-afk.de/aktuelles/mai-2026-offener-brief/",
+          "type": "citizens_initiative_primary",
+          "date": "2026-05-21",
+          "date_basis": "document_date",
+          "date_status": "verified"
+        },
+        {
+          "name": "BI-AFK – Schreiben an das Bundeskartellamt",
+          "url": "https://bi-afk.de/aktuelles/feb-2026-kartellamt/",
+          "type": "citizens_initiative_primary",
+          "date": "2026-02-22",
+          "date_basis": "document_date",
+          "date_status": "verified"
+        },
+        {
+          "name": "BI-AFK – Schreiben an den Verbraucherschutz",
+          "url": "https://bi-afk.de/aktuelles/april-2026-verbraucherschutz/",
+          "type": "citizens_initiative_primary",
+          "date": "2026-04-15",
+          "date_basis": "document_date",
+          "date_status": "verified"
+        },
+        {
+          "name": "AFK-Geothermie – Ausblick 2026 / Wärmepreise",
+          "url": "https://afk-geothermie.de/ausblick/",
+          "type": "primary_actor",
+          "date": "2026-05-21",
+          "date_basis": "context_source",
+          "date_status": "current_context"
+        },
+        {
+          "name": "AFK-Geothermie – Preisblatt 2026",
+          "url": "https://afk-geothermie.de/wp-content/uploads/2026/02/AFK_Preisblatt_2026.pdf",
+          "type": "primary_actor",
+          "date": "2026-02-01",
+          "date_basis": "document_year_month",
+          "date_status": "verified_document"
+        }
+      ],
+      "bisheriger_verlauf": [
+        {
+          "date": "2025-12-18",
+          "title": "AFK veröffentlicht Fernwärmepreise für 2026",
+          "contribution_ref": "R043"
+        },
+        {
+          "date": "2026-02-09",
+          "title": "Interkommunale Wärmeplanung wird öffentlich vorgestellt",
+          "contribution_ref": "R016"
+        }
+      ],
+      "unsere_einordnung": "Die Bürgerinitiative stellt konkrete Fragen zu Preisen, Abrechnung und Transparenz der AFK. Diese Eingaben beweisen für sich keine Rechtsverstöße, verdienen aber eine nachvollziehbare Antwort – gerade weil das Wärmenetz deutlich wachsen soll. Für Feldkirchen ist wichtig, dass überprüfbare Kritik, rechtliche Bewertungen und die Sicht der AFK klar auseinandergehalten werden.\n\nEine erfolgreiche Wärmewende braucht beides: erneuerbare Wärme und Vertrauen in ihren Anbieter. Deshalb sollten Preisbildung, wirtschaftliche Grundlagen und Entscheidungen so offen erklärt werden, wie es rechtlich möglich ist, und Rückmeldungen der Kundinnen und Kunden sichtbar in die weitere Entwicklung einfließen.",
+      "council": null,
+      "research_refs": [
+        "R060",
+        "R061",
+        "R062",
+        "R063"
+      ],
+      "ortsbezug": {
+        "display_place": null,
+        "related_places": [
+          "Aschheim",
+          "Feldkirchen",
+          "Kirchheim"
+        ],
+        "scope": "intermunicipal_citizens_initiative_direct",
+        "verification_status": "verified_stage_G",
+        "note": "BI und AFK betreffen alle drei Trägergemeinden; Beitrag bündelt vier Rechercheereignisse bewusst zu einem öffentlichen Sachstand."
+      },
+      "stage_G_meta": {
+        "editorial_action": "new_bundled_citizens_initiative_development",
+        "created_at": "2026-08-29",
+        "fact_backcheck": "passed",
+        "resonance_search": "performed_no_explicit_direct_AFK_reply_found"
+      },
+      "established_topic_refs": [
+        {
+          "id": "T001",
+          "title": "Kommunale Wärmeplanung und Geothermie"
+        }
+      ]
+    },
+    {
+      "id": "R055",
+      "date": "2026-05-20",
+      "publication_date": "2026-05-28",
+      "category": "Mobilität & Verkehr",
+      "topic_candidates": [
+        "MobilityHub München Ost",
+        "OstAllianz",
+        "Interkommunale Mobilität"
+      ],
+      "title": "Konzeptstudie für MobilityHub-Standorte Aschheim und Feldkirchen läuft",
+      "subtitle": "Untersucht werden Flächeneignung, Bedarf und Verkehrswirkung sowie mögliche neue ÖPNV-Verbindungen.",
+      "sachinformation": "Die OstAllianz meldete, dass die Konzeptstudie für die Standorte Aschheim und Feldkirchen an die BERNARD Gruppe vergeben wurde und die Bearbeitung begonnen hat. Untersucht werden Flächeneignung, Bedarf und verkehrliche Wirkung; zu den Szenarien gehören unter anderem ein S-Bahn-Ast Riem–Aschheim und ein Expressbus Feldkirchen–Stadtzentrum.",
+      "sources": [
+        {
+          "name": "OstAllianz – Neuer Vorstand gewählt und drei Projekte, die die Region bewegen",
+          "url": "https://www.ostallianz.online/news/1/1240868/nachrichten/neuer-vorstand-gew%C3%A4hlt--und-drei-projekte-die-die-region-bewegen.html",
+          "type": "intermunicipal_primary",
+          "date": "2026-05-28",
+          "date_basis": "source_publication_date",
+          "date_status": "verified"
+        },
+        {
+          "name": "OstAllianz – MobilityHub MünchenOst",
+          "url": "https://www.ostallianz.online/seite/758476/mobilityhub-m%C3%BCnchenost.html",
+          "type": "intermunicipal_primary",
+          "date": "2026-05-01",
+          "date_basis": "project_status_month",
+          "date_status": "month_verified"
+        }
+      ],
+      "bisheriger_verlauf": [
+        {
+          "id": "R053",
+          "date": "2025-12-04",
+          "title": "MobilityHub-Studie konzentriert sich auf Feldkirchen und Aschheim"
+        }
+      ],
+      "unsere_einordnung": null,
+      "council": null,
+      "research_refs": [
+        "R055"
+      ],
+      "ortsbezug": {
+        "display_place": "Aschheim / Feldkirchen",
+        "related_places": [
+          "Aschheim",
+          "Feldkirchen"
+        ],
+        "scope": "intermunicipal_project_direct",
+        "verification_status": "verified_for_stage_E_from_research_basis",
+        "note": "Konzeptstudie untersucht ausdrücklich beide Standorte."
+      },
+      "stage_E_meta": {
+        "editorial_action": "new_from_verified_research",
+        "created_at": "2026-08-28"
+      },
+      "established_topic_refs": [
+        {
+          "id": "T011",
+          "title": "Interkommunale Mobilität und MobilityHub München Ost"
+        }
+      ]
+    },
+    {
+      "id": "R029",
+      "date": "2026-05-11",
+      "publication_date": "2026-05-13",
+      "category": "Kommunalpolitik & Beteiligung",
+      "topic_candidates": [
+        "Gemeinderat 2026–2032",
+        "Bürgerbeteiligung"
+      ],
+      "title": "Neuer Gemeinderat konstituiert sich",
+      "subtitle": "Christian Wilhelm wird Zweiter Bürgermeister, Martin Obergroßberger Dritter Bürgermeister; die Bürgerfragestunde bleibt thematisch offen.",
+      "sachinformation": "Der neu gewählte Gemeinderat trat am 11. Mai 2026 zu seiner konstituierenden Sitzung zusammen. Christian Wilhelm (SPD) wurde zum Zweiten Bürgermeister und Martin Obergroßberger (CSU) zum Dritten Bürgermeister gewählt. Ein Antrag, das Rederecht in der Bürgerfragestunde einzuschränken, fand keine Mehrheit.",
+      "sources": [
+        {
+          "name": "Münchner Merkur – Bürger dürfen weiter zu allen Themen sprechen",
+          "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/trotz-kontroverse-buerger-duerfen-weiter-zu-allen-themen-sprechen-94303821.html",
+          "type": "press",
+          "date": "2026-05-13",
+          "date_basis": "publication_date",
+          "date_status": "migrated_unique"
+        }
+      ],
+      "bisheriger_verlauf": [
+        {
+          "id": "C019",
+          "date": "2026-03-08",
+          "title": "Kommunalwahl verändert die Zusammensetzung des Gemeinderats"
+        },
+        {
+          "id": "R023",
+          "date": "2026-03-22",
+          "title": "Andreas Janson als Bürgermeister wiedergewählt"
+        }
+      ],
+      "unsere_einordnung": null,
+      "council": {
+        "date": "2026-05-11",
+        "proposal_no": null,
+        "session_id": "S015"
+      },
+      "research_refs": [
+        "R029"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen",
+        "related_places": [
+          "Feldkirchen"
+        ],
+        "scope": "feldkirchen_relevance_existing",
+        "verification_status": "verified_for_stage_E_from_research_basis",
+        "note": "Strukturell ergänzt; konkreter Ortskopf wird in Vollständigkeits-/Nachbarschaftsaudit verifiziert."
+      },
+      "established_topic_refs": [
+        {
+          "id": "T008",
+          "title": "Bürgerbeteiligung und kommunale Mitwirkung"
+        }
+      ]
+    },
+    {
+      "id": "R054",
+      "date": "2026-05-07",
+      "publication_date": "2026-05-07",
+      "category": "Mobilität & Verkehr",
+      "topic_candidates": [
+        "Bikesharing",
+        "Radverkehr",
+        "ÖPNV-Verknüpfung"
+      ],
+      "title": "Regionales Bikesharing MyRadl startet auch in Feldkirchen",
+      "subtitle": "Feldkirchen, Aschheim, Kirchheim und Haar sind Teil desselben kommunalübergreifenden Systems.",
+      "sachinformation": "Das neue regionale Bikesharing-System MyRadl startete am 7. Mai 2026. Im Landkreis München beteiligen sich unter anderem Feldkirchen, Aschheim, Kirchheim-Heimstetten und Haar. Das System soll kommunale Grenzen überbrücken und insbesondere die Verknüpfung mit dem ÖPNV und die letzte Meile verbessern.",
+      "sources": [
+        {
+          "name": "Landkreis München – MyRadl startet am 7. Mai 2026",
+          "url": "https://www.landkreis-muenchen.de/artikel/flexibel-und-umweltfreundlich-unterwegs-myradl-das-bikesharing-system-fuer-die-region-muenchen-startet-am-7-mai-2026/",
+          "type": "primary_official",
+          "date": "2026-05-07",
+          "date_basis": "event_and_publication_date",
+          "date_status": "verified"
+        },
+        {
+          "name": "Gemeinde Aschheim – Radverkehr / MyRadl",
+          "url": "https://www.aschheim.de/umwelt-energie/radverkehr",
+          "type": "primary_official",
+          "date": "2026-05-07",
+          "date_basis": "service_start_date",
+          "date_status": "verified"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": null,
+      "research_refs": [
+        "R054"
+      ],
+      "ortsbezug": {
+        "display_place": "Region München Ost",
+        "related_places": [
+          "Feldkirchen",
+          "Aschheim",
+          "Kirchheim",
+          "Haar"
+        ],
+        "scope": "regional_shared_mobility_direct",
+        "verification_status": "verified_for_stage_E_from_research_basis",
+        "note": "Alle vier Kommunen nehmen am selben grenzüberschreitenden Bikesharing-System teil."
+      },
+      "stage_E_meta": {
+        "editorial_action": "new_from_verified_research",
+        "created_at": "2026-08-28"
+      },
+      "established_topic_refs": [
+        {
+          "id": "T011",
+          "title": "Interkommunale Mobilität und MobilityHub München Ost"
+        }
+      ]
+    },
+    {
+      "id": "R031",
+      "date": "2026-04-30",
+      "publication_date": "2026-06-08",
+      "category": "Infrastruktur & Versorgung",
+      "topic_candidates": [
+        "Ortszentrum & Nahversorgung"
+      ],
+      "title": "Gemeinderat lehnt SB-Bäckerei in der Kirchenstraße erneut ab",
+      "subtitle": "Auch der überarbeitete Bauantrag erhält keine Zustimmung.",
+      "sachinformation": "Der Gemeinderat lehnte am 30. April 2026 auch den überarbeiteten Bauantrag für die Nutzungsänderung eines Kiosks zu einer SB-Bäckerei in der Kirchenstraße ab. Ein späterer Pressebericht machte die zweite Ablehnung öffentlich bekannt.",
+      "sources": [
+        {
+          "name": "RIS Feldkirchen – Beschlussvorlage 5197/2026",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=72724&type=do",
+          "type": "primary_official",
+          "date": "2026-06-08",
+          "date_basis": "publication_date",
+          "date_status": "migrated_unique"
+        },
+        {
+          "name": "Münchner Merkur – Gemeinderat lehnt SB-Bäckerei zum zweiten Mal ab",
+          "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/gemeinderat-lehnt-sb-baeckerei-in-feldkirchen-zum-zweiten-mal-ab-94339733.html",
+          "type": "press",
+          "date": "2026-06-08",
+          "date_basis": "publication_date",
+          "date_status": "migrated_unique"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": "Mit der erneuten Ablehnung ist dieses Bauvorhaben zunächst beendet. Die Frage, welche Nahversorgung die Feldkirchner Ortsmitte braucht, bleibt aber offen. Statt nur von Antrag zu Antrag zu entscheiden, sollte die Gemeinde im Rahmen der Ortsentwicklung klären, welche Angebote sie im Zentrum stärken will und welche räumlichen Voraussetzungen dafür nötig sind.",
+      "council": {
+        "date": "2026-04-30",
+        "proposal_no": "5197/2026",
+        "session_id": "S014"
+      },
+      "einordnung_meta": {
+        "topic_ref": "T010",
+        "basis": "topic assessment/reference frame",
+        "editorial_status": "selected_contribution_assessment"
+      },
+      "research_refs": [
+        "R031"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen",
+        "related_places": [
+          "Feldkirchen"
+        ],
+        "scope": "feldkirchen_relevance_existing",
+        "verification_status": "verified_for_stage_E_from_research_basis",
+        "note": "Strukturell ergänzt; konkreter Ortskopf wird in Vollständigkeits-/Nachbarschaftsaudit verifiziert."
+      },
+      "established_topic_refs": [
+        {
+          "id": "T010",
+          "title": "Ortszentrum und Nahversorgung"
+        }
+      ]
+    },
+    {
+      "id": "C027",
+      "date": "2026-04-30",
+      "publication_date": null,
+      "category": "Bildung, Soziales & Gesundheit",
+      "topic_candidates": [
+        "Kinderhaus St. Jakob",
+        "Kinderbetreuung"
+      ],
+      "title": "Kinderhaus St. Jakob: zusätzliche Hortgruppe und Ausweichcontainer beschlossen",
+      "subtitle": "Für mehr Betreuungskapazität und die Sanierungszeit werden zwei wichtige Übergangslösungen vorbereitet.",
+      "sachinformation": "Der Gemeinderat beschloss am 30. April 2026 einstimmig, ab 1. September eine zusätzliche Hortgruppe im Kinderhaus St. Jakob zu eröffnen. Außerdem genehmigte er eine temporäre Containeranlage an der Clara-Schumann-Straße als Ausweichquartier während der Sanierung.",
+      "sources": [
+        {
+          "name": "RIS Feldkirchen – Eröffnung weitere Hortgruppe, Vorlage 5208/2026",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=72790&type=do",
+          "type": "primary_official",
+          "date": "2026-04-30",
+          "date_basis": "event_or_session_date",
+          "date_status": "migrated_fallback_needs_source_date_check"
+        },
+        {
+          "name": "RIS Feldkirchen – Sitzung 30.04.2026",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1020",
+          "type": "primary_official",
+          "date": "2026-04-30",
+          "date_basis": "event_or_session_date",
+          "date_status": "migrated_fallback_needs_source_date_check"
+        },
+        {
+          "name": "RIS Feldkirchen – TOP Containeranlage St. Jakob",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/to0050.asp?__ktonr=18941",
+          "type": "primary_official",
+          "date": "2026-04-30",
+          "date_basis": "event_or_session_date",
+          "date_status": "migrated_fallback_needs_source_date_check"
+        }
+      ],
+      "bisheriger_verlauf": [
+        {
+          "id": "R006",
+          "date": "2025-10-16",
+          "title": "Planungsstand für das Kinderhaus St. Jakob wird vorgestellt"
+        }
+      ],
+      "unsere_einordnung": null,
+      "council": {
+        "date": "2026-04-30",
+        "proposal_no": "5208/2026",
+        "session_id": "S014"
+      },
+      "research_refs": [
+        "R027",
+        "R028"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen",
+        "related_places": [
+          "Feldkirchen"
+        ],
+        "scope": "feldkirchen_relevance_existing",
+        "verification_status": "verified_for_stage_E_from_research_basis",
+        "note": "Strukturell ergänzt; konkreter Ortskopf wird in Vollständigkeits-/Nachbarschaftsaudit verifiziert."
+      },
+      "established_topic_refs": [
+        {
+          "id": "T004",
+          "title": "Kinderhaus St. Jakob"
+        }
+      ]
+    },
+    {
+      "id": "R065",
+      "date": "2026-04-17",
+      "publication_date": "2026-04-17",
+      "category": "Kommunalpolitik & Beteiligung",
+      "topic_candidates": [
+        "Kommunalwahl 2026",
+        "Gemeinderat"
+      ],
+      "title": "Matthias Haaf rückt für die FDP in den Gemeinderat nach",
+      "subtitle": "Die gewählte FDP-Spitzenkandidatin Katharina Diem verzichtet auf ihr Mandat; Haaf wird im Mai als Gemeinderatsmitglied vereidigt.",
+      "sachinformation": "Katharina Diem, die bei der Gemeinderatswahl am 8. März 2026 den FDP-Sitz gewonnen hatte, erklärte am 17. April ihren Verzicht auf das Mandat. Nach dem amtlichen Wahlergebnis war Matthias Haaf der erste FDP-Nachrücker. Am 11. Mai wurde Haaf im Feldkirchner Gemeinderat als neu gewähltes Mitglied vereidigt. Der zugleich erfolgte Wechsel im FDP-Ortsvorsitz ist für die Presseschau nur Begleitumstand; relevant ist die veränderte Zusammensetzung des Gemeinderats.",
+      "sources": [
+        {
+          "name": "FDP Feldkirchen – Katharina Diem verzichtet auf Mandat, Matthias Haaf übernimmt",
+          "url": "https://feldkirchen.freie-demokraten.de/paukenschlag-feldkirchen-fdp-ortsvorsitzende-katharina-diem-gibt-ortsvorsitz-sowie",
+          "type": "party_primary_position_and_event",
+          "date": "2026-04-17",
+          "date_basis": "publication_date",
+          "date_status": "verified"
+        },
+        {
+          "name": "Gemeinde Feldkirchen – Ergebnis Gemeinderatswahl 08.03.2026",
+          "url": "https://www.feldkirchen.de/wahlen/GR/",
+          "type": "primary_official",
+          "date": "2026-03-08",
+          "date_basis": "election_date",
+          "date_status": "verified"
+        },
+        {
+          "name": "RIS Feldkirchen – Vereidigung, Vorlage 5168/2026",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=72517&type=do",
+          "type": "primary_official",
+          "date": "2026-05-11",
+          "date_basis": "session_date",
+          "date_status": "verified"
+        }
+      ],
+      "bisheriger_verlauf": [
+        {
+          "date": "2026-03-08",
+          "title": "Kommunalwahl verändert die Zusammensetzung des Gemeinderats",
+          "contribution_ref": "C019"
+        }
+      ],
+      "unsere_einordnung": null,
+      "council": {
+        "date": "2026-05-11",
+        "proposal_no": "5168/2026",
+        "session_id": null
+      },
+      "research_refs": [
+        "R065"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen",
+        "related_places": [
+          "Feldkirchen"
+        ],
+        "scope": "feldkirchen_direct",
+        "verification_status": "verified_stage_G",
+        "note": "Mandatswechsel durch amtliche Wahldaten und spätere Vereidigung abgesichert."
+      },
+      "stage_G_meta": {
+        "editorial_action": "new_from_party_source_audit",
+        "created_at": "2026-08-29",
+        "fact_backcheck": "passed"
+      },
+      "established_topic_refs": []
+    },
+    {
+      "id": "R025",
+      "date": "2026-03-26",
+      "publication_date": null,
+      "category": "Ortsentwicklung & Bauen",
+      "topic_candidates": [
+        "Ortsentwicklung"
+      ],
+      "title": "Vierte Änderung des Bebauungsplans 91 wird eingeleitet",
+      "subtitle": "Der Gemeinderat startet das Änderungsverfahren für einen Bereich der Ortsmitte Nordost.",
+      "sachinformation": "Der Gemeinderat fasste am 26. März 2026 den Aufstellungsbeschluss für die 4. Änderung des Bebauungsplans Nr. 91 „Ortsmitte Nordost – Fl.Nr. 64 T“. Damit wurde das Änderungsverfahren eingeleitet.",
+      "sources": [
+        {
+          "name": "RIS Feldkirchen – Beschlussvorlage 5187/2026: Bebauungsplan Nr. 91, 4. Änderung",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=72600&type=do",
+          "type": "primary_official",
+          "date": "2026-03-26",
+          "date_basis": "event_or_session_date",
+          "date_status": "migrated_fallback_needs_source_date_check"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": {
+        "date": "2026-03-26",
+        "proposal_no": "5187/2026",
+        "session_id": "S012"
+      },
+      "research_refs": [
+        "R025"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen",
+        "related_places": [
+          "Feldkirchen"
+        ],
+        "scope": "feldkirchen_relevance_existing",
+        "verification_status": "verified_for_stage_E_from_research_basis",
+        "note": "Strukturell ergänzt; konkreter Ortskopf wird in Vollständigkeits-/Nachbarschaftsaudit verifiziert."
+      },
+      "established_topic_refs": [
+        {
+          "id": "T002",
+          "title": "Ortsentwicklung und Bauleitplanung"
+        }
+      ]
+    },
+    {
+      "id": "R024",
+      "date": "2026-03-26",
+      "publication_date": null,
+      "category": "Klima & Energie",
+      "topic_candidates": [
+        "Kommunale Wärmeplanung",
+        "Geothermie"
+      ],
+      "title": "Interkommunaler Wärmeplan wird beschlossen",
+      "subtitle": "Feldkirchen legt gemeinsam mit Aschheim und Kirchheim die strategische Grundlage für die künftige Wärmeversorgung fest.",
+      "sachinformation": "Feldkirchen und Aschheim beschlossen den gemeinsam mit Kirchheim erarbeiteten kommunalen Wärmeplan am 26. März 2026; Kirchheim folgte mit Beschluss am 14. April 2026. Damit ist der interkommunale Wärmeplan in allen drei beteiligten Gemeinden politisch beschlossen. Der Plan sieht für das Projektgebiet bis 2045 unter anderem einen erheblichen Fernwärmeanteil und den weiteren Ausbau der AFK-Geothermie vor.",
+      "sources": [
+        {
+          "name": "RIS Feldkirchen – Beschlussvorlage 5160/2026: Beschluss des interkommunalen Wärmeplans",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=72425&type=do",
+          "type": "primary_official",
+          "date": "2026-03-26",
+          "date_basis": "session_date",
+          "date_status": "verified"
+        },
+        {
+          "name": "Gemeinde Aschheim – Kommunale Wärmeplanung beschlossen",
+          "url": "https://www.aschheim.de/umwelt-energie/klimaschutz-energie",
+          "type": "primary_official",
+          "date": "2026-03-26",
+          "date_basis": "council_decision_date",
+          "date_status": "verified"
+        },
+        {
+          "name": "Gemeinde Kirchheim – Kommunale Wärmeplanung / Ergebnisse",
+          "url": "https://www.kirchheim-heimstetten.de/klima-naturschutz/",
+          "type": "primary_official",
+          "date": "2026-04-14",
+          "date_basis": "council_decision_date",
+          "date_status": "verified"
+        }
+      ],
+      "bisheriger_verlauf": [
+        {
+          "id": "R016",
+          "date": "2026-01-19",
+          "title": "Interkommunale Wärmeplanung wird öffentlich vorgestellt"
+        }
+      ],
+      "unsere_einordnung": null,
+      "council": {
+        "date": "2026-03-26",
+        "proposal_no": "5160/2026",
+        "session_id": "S012"
+      },
+      "research_refs": [
+        "R024"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen / Aschheim / Kirchheim",
+        "related_places": [
+          "Feldkirchen",
+          "Aschheim",
+          "Kirchheim"
+        ],
+        "scope": "intermunicipal_direct",
+        "verification_status": "verified_for_stage_C",
+        "note": "Gemeinsamer Wärmeplan; Beschlüsse in allen drei Gemeinden verifiziert."
+      },
+      "stage_E_meta": {
+        "editorial_action": "updated_from_stage_C",
+        "updated_at": "2026-08-28",
+        "reason": "intermunicipal decision status completed"
+      },
+      "established_topic_refs": [
+        {
+          "id": "T001",
+          "title": "Kommunale Wärmeplanung und Geothermie"
+        }
+      ]
+    },
+    {
+      "id": "R023",
+      "date": "2026-03-22",
+      "publication_date": "2026-03-23",
+      "category": "Kommunalpolitik & Beteiligung",
+      "topic_candidates": [
+        "Kommunalwahl 2026"
+      ],
+      "title": "Andreas Janson als Bürgermeister wiedergewählt",
+      "subtitle": "Der Amtsinhaber gewinnt die Stichwahl gegen Herbert Vanvolsem.",
+      "sachinformation": "Andreas Janson gewann am 22. März 2026 die Bürgermeister-Stichwahl gegen Herbert Vanvolsem mit rund 60,2 Prozent der Stimmen.",
+      "sources": [
+        {
+          "name": "Gemeinde Feldkirchen – Stichwahl Bürgermeisterwahl 22.03.2026",
+          "url": "https://wahl.feldkirchen.de/Stichwahl/",
+          "type": "primary_official",
+          "date": "2026-03-23",
+          "date_basis": "publication_date",
+          "date_status": "migrated_unique"
+        },
+        {
+          "name": "Gemeinde Feldkirchen – Ergebnisse der Stichwahl",
+          "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/nachrichten-archiv/ergebnisse-der-stichwahl",
+          "type": "primary_official",
+          "date": "2026-03-23",
+          "date_basis": "publication_date",
+          "date_status": "migrated_unique"
+        }
+      ],
+      "bisheriger_verlauf": [
+        {
+          "id": "C019",
+          "date": "2026-03-08",
+          "title": "Kommunalwahl verändert die Zusammensetzung des Gemeinderats"
+        }
+      ],
+      "unsere_einordnung": null,
+      "council": null,
+      "research_refs": [
+        "R023"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen",
+        "related_places": [
+          "Feldkirchen"
+        ],
+        "scope": "feldkirchen_relevance_existing",
+        "verification_status": "verified_for_stage_E_from_research_basis",
+        "note": "Strukturell ergänzt; konkreter Ortskopf wird in Vollständigkeits-/Nachbarschaftsaudit verifiziert."
+      },
+      "established_topic_refs": []
+    },
+    {
+      "id": "R026",
+      "date": "2026-03-12",
+      "publication_date": "2026-04-18",
+      "category": "Mobilität & Verkehr",
+      "topic_candidates": [
+        "Parkraumkonzept"
+      ],
+      "title": "Gemeinderat fordert Ergänzungen am Parkraumkonzept",
+      "subtitle": "Nach der Vorstellung des Entwurfs sollen weitere Straßen und konkrete Maßnahmen in die Planung aufgenommen werden.",
+      "sachinformation": "Das beauftragte Planungsbüro stellte dem Gemeinderat am 12. März 2026 den Entwurf des Parkraumkonzepts vor. In der Diskussion wurde Kritik an fehlenden konkreten Maßnahmen geäußert. Der Gemeinderat verlangte Ergänzungen für weitere Straßen und Bereiche; anschließend sollte das Konzept erneut zur Beschlussfassung vorgelegt werden.",
+      "sources": [
+        {
+          "name": "RIS Feldkirchen – Parkraumkonzept, Vorlage 5159/2026",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=72371&type=do",
+          "type": "primary_official",
+          "date": "2026-04-18",
+          "date_basis": "publication_date",
+          "date_status": "migrated_unique"
+        },
+        {
+          "name": "RIS Feldkirchen – Sitzung 12.03.2026",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1017",
+          "type": "primary_official",
+          "date": "2026-04-18",
+          "date_basis": "publication_date",
+          "date_status": "migrated_unique"
+        },
+        {
+          "name": "Münchner Merkur – Kritik an Parkraumkonzept",
+          "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/opposition-kritisiert-parkraumkonzept-als-blosse-bestandsaufnahme-94266885.html",
+          "type": "press",
+          "date": "2026-04-18",
+          "date_basis": "publication_date",
+          "date_status": "migrated_unique"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": {
+        "date": "2026-03-12",
+        "proposal_no": "5159/2026",
+        "session_id": "S011"
+      },
+      "research_refs": [
+        "R026"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen",
+        "related_places": [
+          "Feldkirchen"
+        ],
+        "scope": "feldkirchen_relevance_existing",
+        "verification_status": "verified_for_stage_E_from_research_basis",
+        "note": "Strukturell ergänzt; konkreter Ortskopf wird in Vollständigkeits-/Nachbarschaftsaudit verifiziert."
+      },
+      "established_topic_refs": [
+        {
+          "id": "T006",
+          "title": "Parkraumkonzept"
+        }
+      ]
+    },
+    {
+      "id": "C019",
+      "date": "2026-03-08",
+      "publication_date": "2026-03-09",
+      "category": "Kommunalpolitik & Beteiligung",
+      "topic_candidates": [
+        "Kommunalwahl 2026"
+      ],
+      "title": "Kommunalwahl verändert die Zusammensetzung des Gemeinderats",
+      "subtitle": "Die UWV bleibt stärkste Kraft; bei der Bürgermeisterwahl ist nach dem ersten Wahlgang eine Stichwahl nötig.",
+      "sachinformation": "Bei der Gemeinderatswahl am 8. März 2026 blieb die UWV stärkste Kraft. CSU und UWV gewannen Sitze, BÜNDNIS 90/DIE GRÜNEN verloren zwei Mandate und die FDP zog erstmals in den Gemeinderat ein. Bei der Bürgermeisterwahl erreichte Amtsinhaber Andreas Janson rund 45,2 Prozent, Herbert Vanvolsem rund 29,4 Prozent; damit wurde eine Stichwahl erforderlich.",
+      "sources": [
+        {
+          "name": "Gemeinde Feldkirchen – Ergebnis Gemeinderatswahl 08.03.2026",
+          "url": "https://www.feldkirchen.de/wahlen/GR/",
+          "type": "primary_official",
+          "date": "2026-03-09",
+          "date_basis": "publication_date",
+          "date_status": "migrated_unique"
+        },
+        {
+          "name": "Gemeinde Feldkirchen – Ergebnis Bürgermeisterwahl 08.03.2026",
+          "url": "https://www.feldkirchen.de/wahlen/BGM/",
+          "type": "primary_official",
+          "date": "2026-03-09",
+          "date_basis": "publication_date",
+          "date_status": "migrated_unique"
+        },
+        {
+          "name": "Münchner Merkur – CSU und UWV gewinnen Sitze, Grüne verlieren zwei Mandate",
+          "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/csu-und-uwv-gewinnen-in-feldkirchen-sitze-gruene-verlieren-zwei-mandate-im-gemeinderat-94209206.html",
+          "type": "press",
+          "date": "2026-03-09",
+          "date_basis": "publication_date",
+          "date_status": "migrated_unique"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": null,
+      "research_refs": [
+        "R019",
+        "R020"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen",
+        "related_places": [
+          "Feldkirchen"
+        ],
+        "scope": "feldkirchen_relevance_existing",
+        "verification_status": "verified_for_stage_E_from_research_basis",
+        "note": "Strukturell ergänzt; konkreter Ortskopf wird in Vollständigkeits-/Nachbarschaftsaudit verifiziert."
+      },
+      "established_topic_refs": []
+    },
+    {
+      "id": "R021",
+      "date": "2026-02-27",
+      "publication_date": "2026-03-09",
+      "category": "Mobilität & Verkehr",
+      "topic_candidates": [
+        "Radverkehr",
+        "Münchner Straße/A94"
+      ],
+      "title": "Bauphase für neue Fuß- und Radwegbrücke über die A94 beginnt",
+      "subtitle": "Die neue Querung soll die Rad- und Fußverbindung zwischen Feldkirchen und dem Messebereich verbessern.",
+      "sachinformation": "Am 27. Februar 2026 begann die aktive Bau- und Verkehrsphase für die neue Fuß- und Radwegbrücke über die A94. Im Frühjahr und Sommer folgten weitere Bauabschnitte für die Verbindung in Richtung Messe München.",
+      "sources": [
+        {
+          "name": "Verkehr.de – A94 Fuß- und Radwegbrücke Messe, Baustellenbeginn 27.02.2026",
+          "url": "https://www.verkehr.de/autobahn/a94/",
+          "type": "secondary_official_data",
+          "date": "2026-03-09",
+          "date_basis": "publication_date",
+          "date_status": "migrated_unique"
+        },
+        {
+          "name": "Münchner Merkur – A94 bei Feldkirchen: Traggerüst für neue Brücke",
+          "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/a94-bei-feldkirchen-drei-naechte-gesperrt-traggeruest-fuer-neue-bruecke-wird-eingehoben-94348286.html",
+          "type": "press",
+          "date": "2026-03-09",
+          "date_basis": "publication_date",
+          "date_status": "migrated_unique"
+        }
+      ],
+      "bisheriger_verlauf": [
+        {
+          "id": "R005",
+          "date": "2025-10-02",
+          "title": "Gemeinderat beschließt Fortführung des Radwegs an der Münchner Straße"
+        }
+      ],
+      "unsere_einordnung": null,
+      "council": null,
+      "research_refs": [
+        "R021"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen",
+        "related_places": [
+          "Feldkirchen"
+        ],
+        "scope": "feldkirchen_relevance_existing",
+        "verification_status": "verified_for_stage_E_from_research_basis",
+        "note": "Strukturell ergänzt; konkreter Ortskopf wird in Vollständigkeits-/Nachbarschaftsaudit verifiziert."
+      },
+      "established_topic_refs": [
+        {
+          "id": "T003",
+          "title": "Radverkehr und Verbindung über die A94"
+        }
+      ]
+    },
+    {
+      "id": "R046",
+      "date": "2026-02-26",
+      "publication_date": "2026-02-26",
+      "category": "Sicherheit & Bevölkerungsschutz",
+      "topic_candidates": [
+        "Katastrophenschutz"
+      ],
+      "title": "Landkreis erweitert Bevölkerungswarnung um WhatsApp-Kanal",
+      "subtitle": "Der Kanal „Sicher im Landkreis München“ ergänzt die bestehenden Warnmöglichkeiten für Gefahren- und Krisenlagen.",
+      "sachinformation": "Der Landkreis München ergänzte seine Warnkanäle um den WhatsApp-Kanal „Sicher im Landkreis München“. Darüber sollen Informationen zu Gefahrenlagen sowie Krisen- und Katastrophenfällen verbreitet werden.",
+      "sources": [
+        {
+          "name": "Gemeinde Feldkirchen – Neuer WhatsApp-Warnkanal",
+          "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/nachrichten-archiv/neuer-whatsapp-warnkanal",
+          "type": "primary_official",
+          "date": "2026-02-26",
+          "date_basis": "publication_date",
+          "date_status": "migrated_unique"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": null,
+      "research_refs": [
+        "R046"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen",
+        "related_places": [
+          "Feldkirchen"
+        ],
+        "scope": "feldkirchen_relevance_existing",
+        "verification_status": "verified_for_stage_E_from_research_basis",
+        "note": "Strukturell ergänzt; konkreter Ortskopf wird in Vollständigkeits-/Nachbarschaftsaudit verifiziert."
+      },
+      "established_topic_refs": [
+        {
+          "id": "T014",
+          "title": "Katastrophenschutz und kommunale Vorsorge"
+        }
+      ]
+    },
+    {
+      "id": "R018",
+      "date": "2026-02-26",
+      "publication_date": "2026-03-04",
+      "category": "Finanzen & Wirtschaft",
+      "topic_candidates": [
+        "Gemeindehaushalt",
+        "Investitionen"
+      ],
+      "title": "Gemeinderat beschließt Haushalt 2026 mit 63,7 Millionen Euro",
+      "subtitle": "Das hohe Investitionsvolumen beansprucht nach der Finanzplanung die Rücklagen in den kommenden Jahren stark.",
+      "sachinformation": "Der Gemeinderat beschloss am 26. Februar 2026 den Haushalt 2026 mit einem Gesamtvolumen von 63,7 Millionen Euro. Zwei CSU-Gemeinderäte stimmten dagegen. Die Finanzplanung sieht in den kommenden Jahren eine starke Inanspruchnahme der vorhandenen Rücklagen vor.",
+      "sources": [
+        {
+          "name": "RIS Feldkirchen – Haushaltssatzung und Haushaltsplan 2026, Vorlage 5100/2025",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=71615&type=do",
+          "type": "primary_official",
+          "date": "2026-03-04",
+          "date_basis": "publication_date",
+          "date_status": "migrated_unique"
+        },
+        {
+          "name": "Münchner Merkur – Feldkirchens Rücklagen sind bis 2028 aufgebraucht",
+          "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/trotz-kritik-feldkirchens-ruecklagen-sind-bis-2028-aufgebraucht-94195827.html",
+          "type": "press",
+          "date": "2026-03-04",
+          "date_basis": "publication_date",
+          "date_status": "migrated_unique"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": {
+        "date": "2026-02-26",
+        "proposal_no": "5100/2025",
+        "session_id": "S010"
+      },
+      "research_refs": [
+        "R018"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen",
+        "related_places": [
+          "Feldkirchen"
+        ],
+        "scope": "feldkirchen_relevance_existing",
+        "verification_status": "verified_for_stage_E_from_research_basis",
+        "note": "Strukturell ergänzt; konkreter Ortskopf wird in Vollständigkeits-/Nachbarschaftsaudit verifiziert."
+      },
+      "established_topic_refs": []
+    },
+    {
+      "id": "R022",
+      "date": "2026-02-05",
+      "publication_date": "2026-03-12",
+      "category": "Klima & Energie",
+      "topic_candidates": [
+        "Geothermie",
+        "Kommunale Wärmeplanung"
+      ],
+      "title": "AFK kündigt zweite Geothermie-Tiefenbohrung an",
+      "subtitle": "Die zusätzliche Dublette soll mehr regenerative Wärme für das gemeinsame Fernwärmenetz erschließen.",
+      "sachinformation": "Die AFK-Geothermie informierte die Gemeinderäte am 5. Februar 2026 über die geplante zweite Tiefenbohrung. Mit der zusätzlichen Dublette sollen weitere Wärmemengen erschlossen und perspektivisch zusätzliche Haushalte an das Fernwärmenetz angeschlossen werden.",
+      "sources": [
+        {
+          "name": "AFK-Geothermie – Information zur zweiten Bohrung",
+          "url": "https://afk-geothermie.de/pressemitteilung/neues-aus-der-geothermiehalle-afk-geothermie-gmbh-informiert-ueber-zweite-bohrung-und-praesentiert-neuen-markenauftritt/",
+          "type": "primary_official",
+          "date": "2026-03-12",
+          "date_basis": "publication_date",
+          "date_status": "migrated_unique"
+        },
+        {
+          "name": "AFK-Geothermie – Zweite Tiefenbohrung",
+          "url": "https://afk-geothermie.de/ueber-uns/zweite-tiefenbohrung-der-naechste-schritt-in-richtung-klimaneutrale-waermeversorgung/",
+          "type": "primary_actor",
+          "date": null,
+          "date_basis": null,
+          "date_status": "ambiguous_or_unresolved",
+          "date_candidates": {
+            "publication_dates": [
+              "2026-03-12",
+              "2026-08-19"
+            ],
+            "event_dates": [
+              "2026-02-05",
+              "2026-08-19"
+            ]
+          }
+        },
+        {
+          "name": "Münchner Merkur – Wärme für 1200 weitere Haushalte: AFK plant zweite Bohrung",
+          "url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/waerme-fuer-1200-weitere-haushalte-afk-geothermie-plant-zweite-bohrung-ende-2026-94212934.html",
+          "type": "press",
+          "date": "2026-03-12",
+          "date_basis": "publication_date",
+          "date_status": "migrated_unique"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": null,
+      "research_refs": [
+        "R022"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen",
+        "related_places": [
+          "Feldkirchen"
+        ],
+        "scope": "feldkirchen_relevance_existing",
+        "verification_status": "verified_for_stage_E_from_research_basis",
+        "note": "Strukturell ergänzt; konkreter Ortskopf wird in Vollständigkeits-/Nachbarschaftsaudit verifiziert."
+      },
+      "established_topic_refs": [
+        {
+          "id": "T001",
+          "title": "Kommunale Wärmeplanung und Geothermie"
+        }
+      ]
+    },
+    {
+      "id": "R017",
+      "date": "2026-01-29",
+      "publication_date": "2026-02-10",
+      "category": "Mobilität & Verkehr",
+      "topic_candidates": [
+        "ÖPNV",
+        "Barrierefreiheit"
+      ],
+      "title": "Vier zusätzliche Buswartehäuschen sollen geprüft werden",
+      "subtitle": "Der Gemeinderat unterstützt den Antrag grundsätzlich; Standorte und Fördermöglichkeiten müssen noch geklärt werden.",
+      "sachinformation": "Der Gemeinderat unterstützte am 29. Januar 2026 grundsätzlich einen Antrag auf weitere Wartehäuschen an mehreren Bushaltestellen. Vor einer Umsetzung sollen insbesondere die Flächenverfügbarkeit und mögliche Förderungen geprüft werden.",
+      "sources": [
+        {
+          "name": "RIS Feldkirchen – Beschlussvorlage 5138/2026",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=72000&type=do",
+          "type": "primary_official",
+          "date": "2026-02-10",
+          "date_basis": "publication_date",
+          "date_status": "migrated_unique"
+        },
+        {
+          "name": "RIS Feldkirchen – Sitzung 29.01.2026",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1014",
+          "type": "primary_official",
+          "date": "2026-02-10",
+          "date_basis": "publication_date",
+          "date_status": "migrated_unique"
+        },
+        {
+          "name": "Münchner Merkur – Wartehäuschen an vier Bushaltestellen beantragt",
+          "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/feldkirchen-wartehaeuschen-an-vier-bushaltestellen-beantragt-94161812.html",
+          "type": "press",
+          "date": "2026-02-10",
+          "date_basis": "publication_date",
+          "date_status": "migrated_unique"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": {
+        "date": "2026-01-29",
+        "proposal_no": "5138/2026",
+        "session_id": "S008"
+      },
+      "research_refs": [
+        "R017"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen",
+        "related_places": [
+          "Feldkirchen"
+        ],
+        "scope": "feldkirchen_relevance_existing",
+        "verification_status": "verified_for_stage_E_from_research_basis",
+        "note": "Strukturell ergänzt; konkreter Ortskopf wird in Vollständigkeits-/Nachbarschaftsaudit verifiziert."
+      },
+      "established_topic_refs": []
+    },
+    {
+      "id": "R016",
+      "date": "2026-01-19",
+      "publication_date": "2026-02-09",
+      "category": "Klima & Energie",
+      "topic_candidates": [
+        "Kommunale Wärmeplanung",
+        "Geothermie"
+      ],
+      "title": "Interkommunale Wärmeplanung wird öffentlich vorgestellt",
+      "subtitle": "Der gemeinsame Wärmeplan von Aschheim, Feldkirchen und Kirchheim zeigt für Feldkirchen eine zentrale Rolle der Geothermie, aber auch Bereiche mit dezentralen Lösungen.",
+      "sachinformation": "Aschheim, Feldkirchen und Kirchheim stellten am 19. Januar 2026 die interkommunale Wärmeplanung öffentlich vor. Für Feldkirchen ist der weitere Ausbau des Wärmenetzes der AFK-Geothermie ein wichtiger Baustein; außerhalb geeigneter Wärmenetzgebiete bleiben dezentrale Lösungen erforderlich.",
+      "sources": [
+        {
+          "name": "Gemeinde Feldkirchen – Kommunale Wärmeplanung",
+          "url": "https://www.feldkirchen.de/umwelt/klimaschutz/kommunale-waermeplanung",
+          "type": "primary_official",
+          "date": "2026-02-09",
+          "date_basis": "publication_date",
+          "date_status": "migrated_unique"
+        },
+        {
+          "name": "Gemeinde Feldkirchen – Öffentliche Auslegung des Wärmeplans",
+          "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/nachrichten-archiv/oeffentliche-auslegung-waermeplan",
+          "type": "primary_official",
+          "date": "2026-02-09",
+          "date_basis": "publication_date",
+          "date_status": "migrated_unique"
+        },
+        {
+          "name": "Münchner Merkur – Interkommunaler Wärmeplan: Heizen der Zukunft in Feldkirchen, Aschheim und Kirchheim",
+          "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/feldkirchen-geothermie-reicht-nur-fuer-die-haelfte-der-haushalte-94160129.html",
+          "type": "press",
+          "date": "2026-02-09",
+          "date_basis": "publication_date",
+          "date_status": "migrated_unique"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": null,
+      "research_refs": [
+        "R016"
+      ],
+      "ortsbezug": {
+        "display_place": null,
+        "related_places": [
+          "Feldkirchen",
+          "Aschheim",
+          "Kirchheim"
+        ],
+        "scope": "intermunicipal_or_neighbor_relation_needs_audit",
+        "verification_status": "verified_for_stage_E_from_research_basis",
+        "note": "Strukturell ergänzt; konkreter Ortskopf wird in Vollständigkeits-/Nachbarschaftsaudit verifiziert."
+      },
+      "established_topic_refs": [
+        {
+          "id": "T001",
+          "title": "Kommunale Wärmeplanung und Geothermie"
+        }
+      ]
+    },
+    {
+      "id": "R015",
+      "date": "2026-01-15",
+      "publication_date": null,
+      "category": "Natur & Umwelt",
+      "topic_candidates": [
+        "Kreislaufwirtschaft"
+      ],
+      "title": "Wertstoffbörse am Wertstoffhof beschlossen",
+      "subtitle": "Gut erhaltene Gegenstände sollen künftig leichter weitergegeben statt entsorgt werden können.",
+      "sachinformation": "Der Gemeinderat stimmte am 15. Januar 2026 einstimmig für die Einrichtung einer Wertstoffbörse am Wertstoffhof. Die Börse soll die Weiterverwendung geeigneter Gegenstände ermöglichen.",
+      "sources": [
+        {
+          "name": "RIS Feldkirchen – Beschlussvorlage 4931/2025",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=71683&type=do",
+          "type": "primary_official",
+          "date": "2026-01-15",
+          "date_basis": "event_or_session_date",
+          "date_status": "migrated_fallback_needs_source_date_check"
+        },
+        {
+          "name": "RIS Feldkirchen – Dokumente/Sitzung 15.01.2026",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/do0040.asp?smcadat=2461027",
+          "type": "primary_official",
+          "date": "2026-01-15",
+          "date_basis": "event_or_session_date",
+          "date_status": "migrated_fallback_needs_source_date_check"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": {
+        "date": "2026-01-15",
+        "proposal_no": "4931/2025",
+        "session_id": "S007"
+      },
+      "research_refs": [
+        "R015"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen",
+        "related_places": [
+          "Feldkirchen"
+        ],
+        "scope": "feldkirchen_relevance_existing",
+        "verification_status": "verified_for_stage_E_from_research_basis",
+        "note": "Strukturell ergänzt; konkreter Ortskopf wird in Vollständigkeits-/Nachbarschaftsaudit verifiziert."
+      },
+      "established_topic_refs": [
+        {
+          "id": "T005",
+          "title": "Klimaanpassung und Hitzeschutz"
+        }
+      ]
+    },
+    {
+      "id": "R014",
+      "date": "2026-01-15",
+      "publication_date": null,
+      "category": "Klima & Energie",
+      "topic_candidates": [
+        "Klimaschutz",
+        "Photovoltaik"
+      ],
+      "title": "Förderrichtlinie für Balkon-Solaranlagen wird angepasst",
+      "subtitle": "Die kommunale Förderung kleiner Photovoltaikanlagen wird mit aktualisierten Regeln fortgeführt.",
+      "sachinformation": "Der Gemeinderat aktualisierte am 15. Januar 2026 die kommunale Förderrichtlinie für Balkon-Solaranlagen. Der Beschluss fiel einstimmig.",
+      "sources": [
+        {
+          "name": "RIS Feldkirchen – Beschlussvorlage 5112/2025",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=71784&type=do",
+          "type": "primary_official",
+          "date": "2026-01-15",
+          "date_basis": "event_or_session_date",
+          "date_status": "migrated_fallback_needs_source_date_check"
+        },
+        {
+          "name": "RIS Feldkirchen – Sitzung 15.01.2026",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/do0040.asp?smcadat=2461027",
+          "type": "primary_official",
+          "date": "2026-01-15",
+          "date_basis": "event_or_session_date",
+          "date_status": "migrated_fallback_needs_source_date_check"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": {
+        "date": "2026-01-15",
+        "proposal_no": "5112/2025",
+        "session_id": "S007"
+      },
+      "research_refs": [
+        "R014"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen",
+        "related_places": [
+          "Feldkirchen"
+        ],
+        "scope": "feldkirchen_relevance_existing",
+        "verification_status": "verified_for_stage_E_from_research_basis",
+        "note": "Strukturell ergänzt; konkreter Ortskopf wird in Vollständigkeits-/Nachbarschaftsaudit verifiziert."
+      },
+      "established_topic_refs": [
+        {
+          "id": "T005",
+          "title": "Klimaanpassung und Hitzeschutz"
+        }
+      ]
+    },
+    {
+      "id": "R013",
+      "date": "2026-01-15",
+      "publication_date": null,
+      "category": "Klima & Energie",
+      "topic_candidates": [
+        "Klimaanpassung",
+        "Ortsentwicklung"
+      ],
+      "title": "Feldkirchen beschließt Klimaanpassungskonzept",
+      "subtitle": "Das Konzept bündelt Maßnahmen, mit denen sich die Gemeinde auf zunehmende Klimafolgen vorbereiten will.",
+      "sachinformation": "Der Gemeinderat beschloss am 15. Januar 2026 das integrierte Klimafolgenanpassungskonzept einstimmig. Der Maßnahmenkatalog bildet eine Grundlage für den weiteren Umgang mit Hitze, Starkregen und weiteren Folgen des Klimawandels in der Gemeinde.",
+      "sources": [
+        {
+          "name": "Gemeinde Feldkirchen – Klimafolgenanpassungskonzept",
+          "url": "https://www.feldkirchen.de/umwelt/klimaschutz/klimafolgenanpassungskonzept",
+          "type": "primary_official",
+          "date": "2026-01-15",
+          "date_basis": "event_or_session_date",
+          "date_status": "migrated_fallback_needs_source_date_check"
+        },
+        {
+          "name": "RIS Feldkirchen – Beschlussvorlage 5110/2025",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=71694&type=do",
+          "type": "primary_official",
+          "date": "2026-01-15",
+          "date_basis": "event_or_session_date",
+          "date_status": "migrated_fallback_needs_source_date_check"
+        },
+        {
+          "name": "RIS Feldkirchen – Dokumente/Sitzung 15.01.2026",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/do0040.asp?smcadat=2461027",
+          "type": "primary_official",
+          "date": "2026-01-15",
+          "date_basis": "event_or_session_date",
+          "date_status": "migrated_fallback_needs_source_date_check"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": {
+        "date": "2026-01-15",
+        "proposal_no": "5110/2025",
+        "session_id": "S007"
+      },
+      "research_refs": [
+        "R013"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen",
+        "related_places": [
+          "Feldkirchen"
+        ],
+        "scope": "feldkirchen_relevance_existing",
+        "verification_status": "verified_for_stage_E_from_research_basis",
+        "note": "Strukturell ergänzt; konkreter Ortskopf wird in Vollständigkeits-/Nachbarschaftsaudit verifiziert."
+      },
+      "established_topic_refs": [
+        {
+          "id": "T005",
+          "title": "Klimaanpassung und Hitzeschutz"
+        }
+      ]
+    },
+    {
+      "id": "R045",
+      "date": "2026-01-12",
+      "publication_date": "2026-01-12",
+      "category": "Natur & Umwelt",
+      "topic_candidates": [
+        "Heimstettener See",
+        "Parken"
+      ],
+      "title": "Höhenbegrenzer an Parkplätzen des Heimstettener Sees installiert",
+      "subtitle": "Die Maßnahme soll Wohnmobile und Lastkraftwagen von den Parkflächen fernhalten und Nutzungskonflikte verringern.",
+      "sachinformation": "Das Landratsamt München ließ an Parkplätzen in Aschheim und Kirchheim am Heimstettener See Höhenbegrenzer installieren. Damit sollen Wohnmobile und Lastkraftwagen von den Parkflächen ferngehalten und Nutzungskonflikte reduziert werden.",
+      "sources": [
+        {
+          "name": "Gemeinde Feldkirchen/Landratsamt – Höhenbegrenzer am Heimstettener See",
+          "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/nachrichten-archiv/hoehenbegrenzer-am-heimstettener-see",
+          "type": "primary_official",
+          "date": "2026-01-12",
+          "date_basis": "publication_date",
+          "date_status": "migrated_unique"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": null,
+      "research_refs": [
+        "R045"
+      ],
+      "ortsbezug": {
+        "display_place": null,
+        "related_places": [
+          "Feldkirchen",
+          "Aschheim",
+          "Kirchheim"
+        ],
+        "scope": "intermunicipal_or_neighbor_relation_needs_audit",
+        "verification_status": "verified_for_stage_E_from_research_basis",
+        "note": "Strukturell ergänzt; konkreter Ortskopf wird in Vollständigkeits-/Nachbarschaftsaudit verifiziert."
+      },
+      "established_topic_refs": [
+        {
+          "id": "T013",
+          "title": "Heimstettener See: Nutzung, Erholung und Gesundheit"
+        }
+      ]
+    },
+    {
+      "id": "R044",
+      "date": "2026-01-01",
+      "publication_date": "2026-01-13",
+      "category": "Infrastruktur & Versorgung",
+      "topic_candidates": [
+        "Friedhof"
+      ],
+      "title": "Neue Friedhofssatzungen treten in Kraft",
+      "subtitle": "Seit Jahresbeginn gelten neue Regeln für Friedhof und Bestattungen sowie neue Gebühren.",
+      "sachinformation": "Zum 1. Januar 2026 traten in Feldkirchen eine neue Friedhofs- und Bestattungssatzung sowie eine neue Friedhofsgebührensatzung in Kraft.",
+      "sources": [
+        {
+          "name": "Gemeinde Feldkirchen – Neue Friedhofssatzungen seit 01.01.2026",
+          "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/nachrichten-archiv/neue-friedhofsgebuehrensatzung-seit-1-1-2026-in-kraft",
+          "type": "primary_official",
+          "date": "2026-01-13",
+          "date_basis": "publication_date",
+          "date_status": "migrated_unique"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": {
+        "date": "2025-11-13",
+        "proposal_no": null,
+        "session_id": "S005"
+      },
+      "research_refs": [
+        "R044"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen",
+        "related_places": [
+          "Feldkirchen"
+        ],
+        "scope": "feldkirchen_relevance_existing",
+        "verification_status": "verified_for_stage_E_from_research_basis",
+        "note": "Strukturell ergänzt; konkreter Ortskopf wird in Vollständigkeits-/Nachbarschaftsaudit verifiziert."
+      },
+      "established_topic_refs": []
+    },
+    {
+      "id": "R043",
+      "date": "2025-12-18",
+      "publication_date": "2025-12-18",
+      "category": "Klima & Energie",
+      "topic_candidates": [
+        "Geothermie",
+        "Fernwärme"
+      ],
+      "title": "AFK veröffentlicht Fernwärmepreise für 2026",
+      "subtitle": "Die Preisregelung gilt für den Zeitraum vom 1. Januar bis 31. Dezember 2026.",
+      "sachinformation": "Die Gemeinde veröffentlichte im Dezember 2025 die Preisanpassung der AFK Geothermie GmbH für das Jahr 2026. Die neuen Konditionen gelten vom 1. Januar bis zum 31. Dezember 2026.",
+      "sources": [
+        {
+          "name": "Gemeinde Feldkirchen – Preisanpassung der AFK Geothermie",
+          "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/nachrichten-archiv/preisanpassung-der-afk-geothermie",
+          "type": "primary_official",
+          "date": "2025-12-18",
+          "date_basis": "publication_date",
+          "date_status": "migrated_unique"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": null,
+      "research_refs": [
+        "R043"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen",
+        "related_places": [
+          "Feldkirchen"
+        ],
+        "scope": "feldkirchen_relevance_existing",
+        "verification_status": "verified_for_stage_E_from_research_basis",
+        "note": "Strukturell ergänzt; konkreter Ortskopf wird in Vollständigkeits-/Nachbarschaftsaudit verifiziert."
+      },
+      "established_topic_refs": [
+        {
+          "id": "T001",
+          "title": "Kommunale Wärmeplanung und Geothermie"
+        }
+      ]
+    },
+    {
+      "id": "R053",
+      "date": "2025-12-04",
+      "publication_date": "2025-12-15",
+      "category": "Mobilität & Verkehr",
+      "topic_candidates": [
+        "MobilityHub München Ost",
+        "OstAllianz",
+        "Interkommunale Mobilität"
+      ],
+      "title": "MobilityHub-Studie konzentriert sich auf Feldkirchen und Aschheim",
+      "subtitle": "Die OstAllianz nimmt eine Förderzusage an und wählt beide Standorte für die vertiefte Untersuchung aus.",
+      "sachinformation": "Die Mitgliederversammlung der OstAllianz nahm eine Förderzusage des Freistaats über 75.000 Euro an und bereitete die Vergabe einer Konzeptstudie für einen MobilityHub München Ost vor. Für die vertiefte Untersuchung wurden die Standorte Feldkirchen und Aschheim ausgewählt.",
+      "sources": [
+        {
+          "name": "OstAllianz – Klare Projekte, klare nächste Schritte",
+          "url": "https://www.ostallianz.online/news/1/1173208/nachrichten/klare-projekte-klare-n%C3%A4chste-schritte.html",
+          "type": "intermunicipal_primary",
+          "date": "2025-12-15",
+          "date_basis": "source_publication_date",
+          "date_status": "verified"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": null,
+      "research_refs": [
+        "R053"
+      ],
+      "ortsbezug": {
+        "display_place": "Aschheim / Feldkirchen",
+        "related_places": [
+          "Aschheim",
+          "Feldkirchen"
+        ],
+        "scope": "intermunicipal_project_direct",
+        "verification_status": "verified_for_stage_E_from_research_basis",
+        "note": "Vertiefte Studie ausdrücklich für die beiden Standorte Aschheim und Feldkirchen."
+      },
+      "stage_E_meta": {
+        "editorial_action": "new_from_verified_research",
+        "created_at": "2026-08-28"
+      },
+      "established_topic_refs": [
+        {
+          "id": "T011",
+          "title": "Interkommunale Mobilität und MobilityHub München Ost"
+        }
+      ]
+    },
+    {
+      "id": "R012",
+      "date": "2025-12-04",
+      "publication_date": "2026-01-03",
+      "category": "Kommunalpolitik & Beteiligung",
+      "topic_candidates": [
+        "Bürgerbeteiligung",
+        "Tempo 30",
+        "Radverkehr",
+        "Klimaschutz"
+      ],
+      "title": "Gemeinderat greift mehrere Anträge aus der Bürgerversammlung auf",
+      "subtitle": "Tempo 30 auf Schulwegen, Radfahrstreifen und Klimaziele sollen weiterbearbeitet werden.",
+      "sachinformation": "Der Gemeinderat befasste sich am 4. Dezember 2025 mit Anträgen aus der Bürgerversammlung. Weiterbearbeitet werden unter anderem Radfahr- und Schutzstreifen an B471 und M18, Tempo 30 auf stark frequentierten Schulwegen sowie Fragen zu CO₂-Minderungszielen und Alternativen für Freiflächen-Photovoltaik. Der beantragte Austausch roter Gehwegplatten wurde abgelehnt.",
+      "sources": [
+        {
+          "name": "Münchner Merkur – Tempo 30 an Schulwegen kommt",
+          "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/tempo-30-an-schulwegen-kommt-streit-um-radwegplatten-und-schliessfaecher-94106444.html",
+          "type": "press",
+          "date": "2026-01-03",
+          "date_basis": "publication_date",
+          "date_status": "migrated_unique"
+        }
+      ],
+      "bisheriger_verlauf": [
+        {
+          "id": "R007",
+          "date": "2025-10-22",
+          "title": "Bürgerversammlung bringt Anträge zu Radwegen, Tempo 30 und Klimazielen"
+        }
+      ],
+      "unsere_einordnung": "Dass der Gemeinderat mehrere Anträge aus der Bürgerversammlung weiterverfolgt, ist ein guter Anfang. Beteiligung wird aber erst vollständig, wenn später auch verständlich zu sehen ist, was geprüft wurde, wie die Entscheidung ausfiel und was daraus folgt. Diesen Rückkanal sollte die Gemeinde bei Bürgeranträgen möglichst selbstverständlich mitdenken.",
+      "council": {
+        "date": "2025-12-04",
+        "proposal_no": null,
+        "session_id": "S006"
+      },
+      "einordnung_meta": {
+        "topic_ref": "T008",
+        "basis": "topic assessment/reference frame",
+        "editorial_status": "selected_contribution_assessment"
+      },
+      "research_refs": [
+        "R012"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen",
+        "related_places": [
+          "Feldkirchen"
+        ],
+        "scope": "feldkirchen_relevance_existing",
+        "verification_status": "verified_for_stage_E_from_research_basis",
+        "note": "Strukturell ergänzt; konkreter Ortskopf wird in Vollständigkeits-/Nachbarschaftsaudit verifiziert."
+      },
+      "established_topic_refs": [
+        {
+          "id": "T003",
+          "title": "Radverkehr und Verbindung über die A94"
+        },
+        {
+          "id": "T008",
+          "title": "Bürgerbeteiligung und kommunale Mitwirkung"
+        }
+      ]
+    },
+    {
+      "id": "R011",
+      "date": "2025-11-17",
+      "publication_date": "2025-11-17",
+      "category": "Bildung, Soziales & Gesundheit",
+      "topic_candidates": [
+        "Spielplätze"
+      ],
+      "title": "Neuer Piratenspielplatz an der Schwalbenstraße entsteht",
+      "subtitle": "Die Gemeinde baut das Spielangebot an der Schwalbenstraße unter dem Motto „Piraten Ahoi“ neu auf.",
+      "sachinformation": "Die Gemeinde meldete im November 2025 den Baufortschritt für einen neuen Spielplatz an der Schwalbenstraße. Die Anlage wird unter dem Motto „Piraten Ahoi“ gestaltet.",
+      "sources": [
+        {
+          "name": "Gemeinde Feldkirchen – Neuer Spielplatz",
+          "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/nachrichten-archiv/neue-spielplatz-schwalbenstrasse",
+          "type": "primary_official",
+          "date": "2025-11-17",
+          "date_basis": "publication_date",
+          "date_status": "migrated_unique"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": null,
+      "research_refs": [
+        "R011"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen",
+        "related_places": [
+          "Feldkirchen"
+        ],
+        "scope": "feldkirchen_relevance_existing",
+        "verification_status": "verified_for_stage_E_from_research_basis",
+        "note": "Strukturell ergänzt; konkreter Ortskopf wird in Vollständigkeits-/Nachbarschaftsaudit verifiziert."
+      },
+      "established_topic_refs": [
+        {
+          "id": "T007",
+          "title": "Spielplätze"
+        }
+      ]
+    },
+    {
+      "id": "R010",
+      "date": "2025-11-07",
+      "publication_date": "2025-11-07",
+      "category": "Bildung, Soziales & Gesundheit",
+      "topic_candidates": [
+        "Spielplätze",
+        "Ortsentwicklung"
+      ],
+      "title": "Spielplatz am Königsberger Weg entfällt",
+      "subtitle": "Der geplante Erwerb und die Modernisierung des Areals scheiterten an einer fehlenden Einigung mit den Eigentümern.",
+      "sachinformation": "Die Gemeinde konnte sich mit den Grundstückseigentümern des Spielplatzareals am Königsberger Weg nicht über einen Erwerb beziehungsweise eine Modernisierung einigen. Damit entfällt der bisherige Spielplatz in dem Wohngebiet.",
+      "sources": [
+        {
+          "name": "Münchner Merkur – Spielplatz verschwindet",
+          "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/modernisierung-gescheitert-spielplatz-in-feldkirchen-verschwindet-94025260.html",
+          "type": "press",
+          "date": "2025-11-07",
+          "date_basis": "publication_date",
+          "date_status": "migrated_unique"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": "Ein wohnungsnaher Spielplatz ist für Kinder ein Stück selbstständig erreichbarer Freiraum. Wenn er wegfällt, sollte deshalb nicht nur die Grundstücksfrage zählen, sondern auch die Frage: Gibt es in der Nähe weiterhin einen gut erreichbaren Platz zum Spielen? Wenn nicht, sollte die Gemeinde nach einer passenden Ersatzlösung suchen.",
+      "council": null,
+      "einordnung_meta": {
+        "topic_ref": "T007",
+        "basis": "topic assessment/reference frame",
+        "editorial_status": "selected_contribution_assessment"
+      },
+      "research_refs": [
+        "R010"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen",
+        "related_places": [
+          "Feldkirchen"
+        ],
+        "scope": "feldkirchen_relevance_existing",
+        "verification_status": "verified_for_stage_E_from_research_basis",
+        "note": "Strukturell ergänzt; konkreter Ortskopf wird in Vollständigkeits-/Nachbarschaftsaudit verifiziert."
+      },
+      "established_topic_refs": [
+        {
+          "id": "T007",
+          "title": "Spielplätze"
+        }
+      ]
+    },
+    {
+      "id": "R009",
+      "date": "2025-10-30",
+      "publication_date": null,
+      "category": "Ortsentwicklung & Bauen",
+      "topic_candidates": [
+        "Ortsentwicklung"
+      ],
+      "title": "Vierte Änderung des Bebauungsplans 32 als Satzung beschlossen",
+      "subtitle": "Das Verfahren für den Bereich südlich der Münchner Straße westlich der Jakob-Wagner-Straße ist damit kommunal abgeschlossen.",
+      "sachinformation": "Der Gemeinderat behandelte am 30. Oktober 2025 die eingegangenen Stellungnahmen zur 4. Änderung des Bebauungsplans Nr. 32. Anschließend fasste er einstimmig den Satzungsbeschluss.",
+      "sources": [
+        {
+          "name": "RIS Feldkirchen – Beschlussvorlage 5064/2025",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=71224&type=do",
+          "type": "primary_official",
+          "date": "2025-10-30",
+          "date_basis": "event_or_session_date",
+          "date_status": "migrated_fallback_needs_source_date_check"
+        },
+        {
+          "name": "RIS Feldkirchen – Sitzung 30.10.2025",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1000",
+          "type": "primary_official",
+          "date": "2025-10-30",
+          "date_basis": "event_or_session_date",
+          "date_status": "migrated_fallback_needs_source_date_check"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": {
+        "date": "2025-10-30",
+        "proposal_no": "5064/2025",
+        "session_id": "S004"
+      },
+      "research_refs": [
+        "R009"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen",
+        "related_places": [
+          "Feldkirchen"
+        ],
+        "scope": "feldkirchen_relevance_existing",
+        "verification_status": "verified_for_stage_E_from_research_basis",
+        "note": "Strukturell ergänzt; konkreter Ortskopf wird in Vollständigkeits-/Nachbarschaftsaudit verifiziert."
+      },
+      "established_topic_refs": [
+        {
+          "id": "T002",
+          "title": "Ortsentwicklung und Bauleitplanung"
+        }
+      ]
+    },
+    {
+      "id": "R008",
+      "date": "2025-10-30",
+      "publication_date": null,
+      "category": "Mobilität & Verkehr",
+      "topic_candidates": [
+        "A99/Kreuz München-Ost",
+        "M18/EBE4"
+      ],
+      "title": "Gemeinderat stimmt Variante 5 für die Verlegung von M18/EBE4 zu",
+      "subtitle": "Die Kreisstraßenplanung ist Teil der Neuordnung im Umfeld des geplanten A99-Ausbaus am Kreuz München-Ost.",
+      "sachinformation": "Im Zusammenhang mit dem geplanten Ausbau der A99 stimmte der Gemeinderat am 30. Oktober 2025 der Planvariante 5 für die Verlegung der Kreisstraße M18/EBE4 einstimmig zu.",
+      "sources": [
+        {
+          "name": "RIS Feldkirchen – Beschlussvorlage 5055/2025",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=71104&type=do",
+          "type": "primary_official",
+          "date": "2025-10-30",
+          "date_basis": "event_or_session_date",
+          "date_status": "migrated_fallback_needs_source_date_check"
+        },
+        {
+          "name": "RIS Feldkirchen – Sitzung 30.10.2025",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1000",
+          "type": "primary_official",
+          "date": "2025-10-30",
+          "date_basis": "event_or_session_date",
+          "date_status": "migrated_fallback_needs_source_date_check"
+        }
+      ],
+      "bisheriger_verlauf": [
+        {
+          "id": "R052",
+          "date": "2025-09-25",
+          "title": "Haar lehnt vorgestellte M18/EBE4-Verlegung beim A99-Ausbau ab"
+        }
+      ],
+      "unsere_einordnung": null,
+      "council": {
+        "date": "2025-10-30",
+        "proposal_no": "5055/2025",
+        "session_id": "S004"
+      },
+      "research_refs": [
+        "R008"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen",
+        "related_places": [
+          "Feldkirchen"
+        ],
+        "scope": "feldkirchen_relevance_existing",
+        "verification_status": "verified_for_stage_E_from_research_basis",
+        "note": "Strukturell ergänzt; konkreter Ortskopf wird in Vollständigkeits-/Nachbarschaftsaudit verifiziert."
+      },
+      "stage_E_meta": {
+        "editorial_action": "updated_history_from_stage_C",
+        "updated_at": "2026-08-28"
+      },
+      "established_topic_refs": [
+        {
+          "id": "T002",
+          "title": "Ortsentwicklung und Bauleitplanung"
+        },
+        {
+          "id": "T012",
+          "title": "A99-Ausbau und M18/EBE4"
+        }
+      ]
+    },
+    {
+      "id": "R007",
+      "date": "2025-10-22",
+      "publication_date": "2025-10-24",
+      "category": "Kommunalpolitik & Beteiligung",
+      "topic_candidates": [
+        "Bürgerbeteiligung",
+        "Radverkehr",
+        "Tempo 30",
+        "Klimaschutz"
+      ],
+      "title": "Bürgerversammlung bringt Anträge zu Radwegen, Tempo 30 und Klimazielen",
+      "subtitle": "Mehrere Bürgeranträge betreffen Verkehrssicherheit, Radverkehr und kommunalen Klimaschutz.",
+      "sachinformation": "Bei der Bürgerversammlung am 22. Oktober 2025 wurden mehrere Anträge eingebracht. Gefordert wurden unter anderem Radfahr- und Schutzstreifen, Tempo 30 auf stark frequentierten Schulwegen sowie mehr Transparenz über kommunale CO₂-Minderungsziele.",
+      "sources": [
+        {
+          "name": "Gemeinde Feldkirchen – Bürgerversammlung 2025",
+          "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/nachrichten-archiv/buergerversammlung-in-feldkirchen",
+          "type": "primary_official",
+          "date": "2025-10-24",
+          "date_basis": "publication_date",
+          "date_status": "migrated_unique"
+        },
+        {
+          "name": "Münchner Merkur – Bürger fordern bessere Radwege und Tempo 30",
+          "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/buerger-in-feldkirchen-fordern-bessere-radwege-und-tempo-30-94001566.html",
+          "type": "press",
+          "date": "2025-10-24",
+          "date_basis": "publication_date",
+          "date_status": "migrated_unique"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": null,
+      "research_refs": [
+        "R007"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen",
+        "related_places": [
+          "Feldkirchen"
+        ],
+        "scope": "feldkirchen_relevance_existing",
+        "verification_status": "verified_for_stage_E_from_research_basis",
+        "note": "Strukturell ergänzt; konkreter Ortskopf wird in Vollständigkeits-/Nachbarschaftsaudit verifiziert."
+      },
+      "established_topic_refs": [
+        {
+          "id": "T003",
+          "title": "Radverkehr und Verbindung über die A94"
+        },
+        {
+          "id": "T008",
+          "title": "Bürgerbeteiligung und kommunale Mitwirkung"
+        }
+      ]
+    },
+    {
+      "id": "R006",
+      "date": "2025-10-16",
+      "publication_date": null,
+      "category": "Bildung, Soziales & Gesundheit",
+      "topic_candidates": [
+        "Kinderhaus St. Jakob"
+      ],
+      "title": "Planungsstand für das Kinderhaus St. Jakob wird vorgestellt",
+      "subtitle": "Die Sanierung und Neuordnung des Standorts wird zu einem größeren kommunalen Bauprojekt.",
+      "sachinformation": "Der Gemeinderat befasste sich am 16. Oktober 2025 mit dem aktuellen Planungsstand für das Kinderhaus St. Jakob. Die Sanierung und Neuordnung des Standorts bildet die Grundlage für weitere Entscheidungen zu Gebäude, Betreuungskapazitäten und Ausweichquartier.",
+      "sources": [
+        {
+          "name": "RIS Feldkirchen – Beschlussvorlage 5056/2025",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=71109&type=do",
+          "type": "primary_official",
+          "date": "2025-10-16",
+          "date_basis": "event_or_session_date",
+          "date_status": "migrated_fallback_needs_source_date_check"
+        },
+        {
+          "name": "RIS Feldkirchen – Sitzung 16.10.2025",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=999",
+          "type": "primary_official",
+          "date": "2025-10-16",
+          "date_basis": "event_or_session_date",
+          "date_status": "migrated_fallback_needs_source_date_check"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": {
+        "date": "2025-10-16",
+        "proposal_no": "5056/2025",
+        "session_id": "S003"
+      },
+      "research_refs": [
+        "R006"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen",
+        "related_places": [
+          "Feldkirchen"
+        ],
+        "scope": "feldkirchen_relevance_existing",
+        "verification_status": "verified_for_stage_E_from_research_basis",
+        "note": "Strukturell ergänzt; konkreter Ortskopf wird in Vollständigkeits-/Nachbarschaftsaudit verifiziert."
+      },
+      "established_topic_refs": [
+        {
+          "id": "T004",
+          "title": "Kinderhaus St. Jakob"
+        }
+      ]
+    },
+    {
+      "id": "R064",
+      "date": "2025-10-02",
+      "publication_date": "2025-10-02",
+      "category": "Mobilität & Verkehr",
+      "topic_candidates": [
+        "ÖPNV",
+        "Barrierefreiheit"
+      ],
+      "title": "Gemeinderat unterstützt vier neue beziehungsweise barrierefreie Haltestellen",
+      "subtitle": "Die von der CSU-Fraktion beantragten Standorte Rathaus, Zeppelinstraße, Münchner Straße und Olympiastraße werden weiterverfolgt.",
+      "sachinformation": "Der Gemeinderat nahm am 2. Oktober 2025 zwei Anträge der CSU-Fraktion einstimmig an. Vorgesehen sind eine Haltestelle „Rathaus“ an der Hohenlindner Straße in Fahrtrichtung Ost sowie die vorrangige Errichtung von drei barrierefreien Haltestellen an Zeppelinstraße, Münchner Straße und Olympiastraße. Damit wurde ein konkreter Prüf- und Umsetzungsauftrag für die örtliche ÖPNV-Infrastruktur politisch unterstützt.",
+      "sources": [
+        {
+          "name": "RIS Feldkirchen – Gemeinderat 02.10.2025, TOP 7",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=998",
+          "type": "primary_official",
+          "date": "2025-10-02",
+          "date_basis": "session_and_decision_date",
+          "date_status": "verified"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": {
+        "date": "2025-10-02",
+        "proposal_no": "5046/2025",
+        "session_id": "S002"
+      },
+      "research_refs": [
+        "R064"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen",
+        "related_places": [
+          "Feldkirchen"
+        ],
+        "scope": "feldkirchen_direct",
+        "verification_status": "verified_stage_G",
+        "note": "Konkreter Fraktionsantrag; amtlicher Beschluss belegt."
+      },
+      "stage_G_meta": {
+        "editorial_action": "new_from_party_source_audit",
+        "created_at": "2026-08-29",
+        "fact_backcheck": "passed"
+      },
+      "established_topic_refs": []
+    },
+    {
+      "id": "R005",
+      "date": "2025-10-02",
+      "publication_date": "2025-10-16",
+      "category": "Mobilität & Verkehr",
+      "topic_candidates": [
+        "Radverkehr",
+        "Münchner Straße/A94"
+      ],
+      "title": "Gemeinderat beschließt Fortführung des Radwegs an der Münchner Straße",
+      "subtitle": "Der Weg soll nördlich der Münchner Straße westlich der Olympiastraße weitergeführt werden.",
+      "sachinformation": "Der Gemeinderat beschloss am 2. Oktober 2025 mehrheitlich, den Fuß- und Radweg nördlich der Münchner Straße westlich der Olympiastraße fortzuführen. Die Maßnahme gehört zur Verbindung in Richtung der neuen Querung über die A94.",
+      "sources": [
+        {
+          "name": "RIS Feldkirchen – Beschlussvorlage 5045/2025",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=71014&type=do",
+          "type": "primary_official",
+          "date": "2025-10-16",
+          "date_basis": "publication_date",
+          "date_status": "migrated_unique"
+        },
+        {
+          "name": "RIS Feldkirchen – Sitzung 02.10.2025",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=998",
+          "type": "primary_official",
+          "date": "2025-10-16",
+          "date_basis": "publication_date",
+          "date_status": "migrated_unique"
+        },
+        {
+          "name": "Münchner Merkur – Jetzt also doch: Gemeinderat beschließt Bau des Radwegs",
+          "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/feldkirchen-jetzt-also-doch-gemeinderat-beschliesst-bau-des-radwegs-ueber-die-a94-bei-feldkirchen-93987858.html",
+          "type": "press",
+          "date": "2025-10-16",
+          "date_basis": "publication_date",
+          "date_status": "migrated_unique"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": {
+        "date": "2025-10-02",
+        "proposal_no": "5045/2025",
+        "session_id": "S002"
+      },
+      "research_refs": [
+        "R005"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen",
+        "related_places": [
+          "Feldkirchen"
+        ],
+        "scope": "feldkirchen_relevance_existing",
+        "verification_status": "verified_for_stage_E_from_research_basis",
+        "note": "Strukturell ergänzt; konkreter Ortskopf wird in Vollständigkeits-/Nachbarschaftsaudit verifiziert."
+      },
+      "established_topic_refs": [
+        {
+          "id": "T003",
+          "title": "Radverkehr und Verbindung über die A94"
+        },
+        {
+          "id": "T009",
+          "title": "Wohnungsbau und kommunale Planung"
+        }
+      ]
+    },
+    {
+      "id": "R004",
+      "date": "2025-10-02",
+      "publication_date": null,
+      "category": "Ortsentwicklung & Bauen",
+      "topic_candidates": [
+        "Ortsentwicklung",
+        "Fußverkehr"
+      ],
+      "title": "Umgestaltung der Fußgängerunterführung am Rathaus wird weitergeplant",
+      "subtitle": "Der Gemeinderat sprach sich mehrheitlich dafür aus, die Neugestaltung der Unterführung weiterzuverfolgen.",
+      "sachinformation": "Der Gemeinderat stimmte am 2. Oktober 2025 mehrheitlich für die weitere Planung zur Umgestaltung der Fußgängerunterführung unter der Hohenlindner Straße im Bereich des Rathauses.",
+      "sources": [
+        {
+          "name": "RIS Feldkirchen – Beschlussvorlage 5044/2025",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=71007&type=do",
+          "type": "primary_official",
+          "date": "2025-10-02",
+          "date_basis": "event_or_session_date",
+          "date_status": "migrated_fallback_needs_source_date_check"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": {
+        "date": "2025-10-02",
+        "proposal_no": "5044/2025",
+        "session_id": "S002"
+      },
+      "research_refs": [
+        "R004"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen",
+        "related_places": [
+          "Feldkirchen"
+        ],
+        "scope": "feldkirchen_relevance_existing",
+        "verification_status": "verified_for_stage_E_from_research_basis",
+        "note": "Strukturell ergänzt; konkreter Ortskopf wird in Vollständigkeits-/Nachbarschaftsaudit verifiziert."
+      },
+      "established_topic_refs": [
+        {
+          "id": "T002",
+          "title": "Ortsentwicklung und Bauleitplanung"
+        }
+      ]
+    },
+    {
+      "id": "R003",
+      "date": "2025-10-02",
+      "publication_date": null,
+      "category": "Ortsentwicklung & Bauen",
+      "topic_candidates": [
+        "Ortsentwicklung",
+        "Wohnen"
+      ],
+      "title": "Bebauungsplan 113 südlich der Hohenlindner Straße wird weitergeführt",
+      "subtitle": "Der Gemeinderat hat die Stellungnahmen aus der frühen Beteiligung behandelt und das Verfahren fortgesetzt.",
+      "sachinformation": "Der Gemeinderat behandelte am 2. Oktober 2025 die Stellungnahmen zum Bebauungsplan Nr. 113 für das Gebiet südlich der Hohenlindner Straße bis zur Jahnstraße. Die Vorlage wurde mehrheitlich angenommen; damit wurde das Bauleitplanverfahren nach der frühen Beteiligung von Öffentlichkeit und Trägern öffentlicher Belange weitergeführt.",
+      "sources": [
+        {
+          "name": "RIS Feldkirchen – Beschlussvorlage 4999/2025",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=70456&type=do",
+          "type": "primary_official",
+          "date": "2025-10-02",
+          "date_basis": "event_or_session_date",
+          "date_status": "migrated_fallback_needs_source_date_check"
+        },
+        {
+          "name": "RIS Feldkirchen – Sitzung 02.10.2025",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=998",
+          "type": "primary_official",
+          "date": "2025-10-16",
+          "date_basis": "publication_date",
+          "date_status": "migrated_unique"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": {
+        "date": "2025-10-02",
+        "proposal_no": "4999/2025",
+        "session_id": "S002"
+      },
+      "research_refs": [
+        "R003"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen",
+        "related_places": [
+          "Feldkirchen"
+        ],
+        "scope": "feldkirchen_relevance_existing",
+        "verification_status": "verified_for_stage_E_from_research_basis",
+        "note": "Strukturell ergänzt; konkreter Ortskopf wird in Vollständigkeits-/Nachbarschaftsaudit verifiziert."
+      },
+      "established_topic_refs": [
+        {
+          "id": "T003",
+          "title": "Radverkehr und Verbindung über die A94"
+        },
+        {
+          "id": "T009",
+          "title": "Wohnungsbau und kommunale Planung"
+        }
+      ]
+    },
+    {
+      "id": "R002",
+      "date": "2025-09-30",
+      "publication_date": "2025-09-01",
+      "category": "Infrastruktur & Versorgung",
+      "topic_candidates": [
+        "Ortszentrum & Nahversorgung"
+      ],
+      "title": "Postfiliale zieht an den Wolfgangsplatz",
+      "subtitle": "Die Postversorgung wird nach der Schließung des Standorts in der Kirchenstraße an anderer Stelle fortgeführt.",
+      "sachinformation": "Die bisherige Poststelle in der Kirchenstraße schloss zum 30. September 2025. Die Postdienstleistungen werden seither im Schreibwarenladen am Wolfgangsplatz angeboten.",
+      "sources": [
+        {
+          "name": "Gemeindeblatt September 2025",
+          "url": "https://www.feldkirchen.de/_Resources/Persistent/9/1/2/1/9121ede363d1dc6273bbf6be0c8b91a76f7cb2c1/Gemeindeblatt%20September%202025.pdf",
+          "type": "primary_official",
+          "date": "2025-09-01",
+          "date_basis": "publication_date",
+          "date_status": "migrated_unique"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": null,
+      "research_refs": [
+        "R002"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen",
+        "related_places": [
+          "Feldkirchen"
+        ],
+        "scope": "feldkirchen_relevance_existing",
+        "verification_status": "verified_for_stage_E_from_research_basis",
+        "note": "Strukturell ergänzt; konkreter Ortskopf wird in Vollständigkeits-/Nachbarschaftsaudit verifiziert."
+      },
+      "established_topic_refs": [
+        {
+          "id": "T010",
+          "title": "Ortszentrum und Nahversorgung"
+        }
+      ]
+    },
+    {
+      "id": "R052",
+      "date": "2025-09-25",
+      "publication_date": "2025-09-25",
+      "category": "Mobilität & Verkehr",
+      "topic_candidates": [
+        "A99-Ausbau",
+        "M18/EBE4",
+        "Südumfahrung"
+      ],
+      "title": "Haar lehnt vorgestellte M18/EBE4-Verlegung beim A99-Ausbau ab",
+      "subtitle": "Die diskutierte Führung der Kreisstraße betrifft die Verbindung zwischen Weißenfeld und Feldkirchen.",
+      "sachinformation": "Im Zusammenhang mit dem geplanten achtstreifigen Ausbau der A99 bis Haar wurde eine neue Führung der Kreisstraße M18/EBE4 zwischen Weißenfeld und Feldkirchen vorgestellt. Der Haarer Bauausschuss lehnte die vorgestellte Variante ab. Der Vorgang ist unmittelbare Vorgeschichte der späteren Feldkirchner Entscheidung zur Variante 5 und betrifft die überörtliche Straßenverbindung nach Feldkirchen.",
+      "sources": [
+        {
+          "name": "Münchner Merkur – Wegen A99-Ausbau: Kreisstraße bei Feldkirchen wird verlegt",
+          "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/wegen-a99-ausbau-kreisstrasse-bei-feldkirchen-wird-verlegt-so-soll-sie-verlaufen-93953871.html",
+          "type": "press",
+          "date": "2025-09-25",
+          "date_basis": "source_publication_date",
+          "date_status": "verified"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": null,
+      "research_refs": [
+        "R052"
+      ],
+      "ortsbezug": {
+        "display_place": "Haar",
+        "related_places": [
+          "Haar",
+          "Feldkirchen"
+        ],
+        "scope": "neighbor_planning_direct_Feldkirchen_relation",
+        "verification_status": "verified_for_stage_E_from_research_basis",
+        "note": "Betroffen ist die Kreisstraße M18/EBE4 zwischen Weißenfeld und Feldkirchen im A99-Projektumgriff."
+      },
+      "stage_E_meta": {
+        "editorial_action": "new_from_verified_research",
+        "created_at": "2026-08-28"
+      },
+      "established_topic_refs": [
+        {
+          "id": "T012",
+          "title": "A99-Ausbau und M18/EBE4"
+        }
+      ]
+    },
+    {
+      "id": "R042",
+      "date": "2025-09-22",
+      "publication_date": "2025-10-08",
+      "category": "Mobilität & Verkehr",
+      "topic_candidates": [
+        "Öffentlicher Raum",
+        "Parken"
+      ],
+      "title": "18 Schrottfahrzeuge und Anhänger von öffentlichen Straßen entfernt",
+      "subtitle": "Gemeinde, Landratsamt und Polizei gingen gemeinsam gegen länger abgestellte Fahrzeuge vor.",
+      "sachinformation": "Bei einer gemeinsamen Aktion von Gemeinde, Landratsamt und Polizei wurden zwischen dem 22. und 26. September 2025 insgesamt 14 Pkw und vier Autoanhänger von öffentlichen Straßen entfernt. Anlass war unter anderem, dass abgestellte Fahrzeuge eine angekündigte Straßenreinigung behinderten.",
+      "sources": [
+        {
+          "name": "Gemeinde Feldkirchen – Abschleppaktion Feldkirchen",
+          "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/nachrichten-archiv/abschleppaktion-in-feldkirchen",
+          "type": "primary_official",
+          "date": "2025-10-08",
+          "date_basis": "publication_date",
+          "date_status": "migrated_unique"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": null,
+      "research_refs": [
+        "R042"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen",
+        "related_places": [
+          "Feldkirchen"
+        ],
+        "scope": "feldkirchen_relevance_existing",
+        "verification_status": "verified_for_stage_E_from_research_basis",
+        "note": "Strukturell ergänzt; konkreter Ortskopf wird in Vollständigkeits-/Nachbarschaftsaudit verifiziert."
+      },
+      "established_topic_refs": []
+    },
+    {
+      "id": "R051",
+      "date": "2025-09-19",
+      "publication_date": "2025-09-19",
+      "category": "Mobilität & Verkehr",
+      "topic_candidates": [
+        "Radverkehr",
+        "B471",
+        "Verkehrssicherheit"
+      ],
+      "title": "Kidical Mass führt von Aschheim über Feldkirchen zum Heimstettener See",
+      "subtitle": "Die regionale Fahrraddemonstration fordert sichere Wege, Tempo 30 und mehr Raum für den Radverkehr.",
+      "sachinformation": "ADFC und BUND Naturschutz organisierten eine Radverkehrsdemonstration von Aschheim über die B471 und Feldkirchen zum Heimstettener See. Beteiligt waren die ADFC-Ortsgruppen Aschheim, Feldkirchen, Kirchheim und Haar sowie BN-Ortsgruppen aus dem AFK-Raum. Gefordert wurden unter anderem Tempo 30 innerorts, mehr Platz für den Radverkehr und sichere Wege für Kinder und Jugendliche.",
+      "sources": [
+        {
+          "name": "ADFC München – Erste Kidical Mass von Aschheim nach Feldkirchen",
+          "url": "https://muenchen.adfc.de/artikel/veranstaltungen-des-adfc-muenchen-im-september-2025",
+          "type": "association_primary",
+          "date": "2025-09-19",
+          "date_basis": "event_date",
+          "date_status": "verified"
+        },
+        {
+          "name": "Süddeutsche Zeitung – Radldemo von Aschheim nach Feldkirchen",
+          "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/aschheim-feldkirchen-kirchheim-haar-adfc-demo-b471-tempo-30-li.3313729",
+          "type": "press",
+          "date": "2025-09-17",
+          "date_basis": "source_publication_date",
+          "date_status": "verified"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": null,
+      "research_refs": [
+        "R051"
+      ],
+      "ortsbezug": {
+        "display_place": "Aschheim",
+        "related_places": [
+          "Aschheim",
+          "Feldkirchen",
+          "Kirchheim",
+          "Haar"
+        ],
+        "scope": "neighbor_event_direct_Feldkirchen_relation",
+        "verification_status": "verified_for_stage_E_from_research_basis",
+        "note": "Route führte von Aschheim über Feldkirchen zum Heimstettener See; gemeinsame ADFC-Ortsgruppe der vier Kommunen."
+      },
+      "stage_E_meta": {
+        "editorial_action": "new_from_verified_research",
+        "created_at": "2026-08-28"
+      },
+      "established_topic_refs": [
+        {
+          "id": "T003",
+          "title": "Radverkehr und Verbindung über die A94"
+        }
+      ]
+    },
+    {
+      "id": "R001",
+      "date": "2025-09-18",
+      "publication_date": null,
+      "category": "Ortsentwicklung & Bauen",
+      "topic_candidates": [
+        "Ortsentwicklung",
+        "Gewerbeentwicklung"
+      ],
+      "title": "Flächennutzungsplan für Gewerbe, Bauhof und Wertstoffhof wird weiterentwickelt",
+      "subtitle": "Die Gemeinde treibt die Neuordnung von Flächen östlich der M1 und nördlich der M18 voran.",
+      "sachinformation": "Der Gemeinderat befasste sich am 18. September 2025 mit der 20. Änderung des Flächennutzungsplans. Betroffen sind Flächen östlich der M1 und nördlich der M18, die unter anderem für gewerbliche Nutzungen sowie für Bauhof und Wertstoffhof vorgesehen sind.",
+      "sources": [
+        {
+          "name": "RIS Feldkirchen – Beschlussvorlage 5021/2025",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=70759&type=do",
+          "type": "primary_official",
+          "date": "2025-09-18",
+          "date_basis": "event_or_session_date",
+          "date_status": "migrated_fallback_needs_source_date_check"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": {
+        "date": "2025-09-18",
+        "proposal_no": "5021/2025",
+        "session_id": "S001"
+      },
+      "research_refs": [
+        "R001"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen",
+        "related_places": [
+          "Feldkirchen"
+        ],
+        "scope": "feldkirchen_relevance_existing",
+        "verification_status": "verified_for_stage_E_from_research_basis",
+        "note": "Strukturell ergänzt; konkreter Ortskopf wird in Vollständigkeits-/Nachbarschaftsaudit verifiziert."
+      },
+      "established_topic_refs": [
+        {
+          "id": "T002",
+          "title": "Ortsentwicklung und Bauleitplanung"
+        }
+      ]
+    }
+  ],
+  "political_assessment_status": "not_added_by_default; requires separately substantiated green reference per contribution",
+  "assessment_count": 9,
+  "migration": {
+    "stage": "A",
+    "date": "2026-08-28",
+    "source_file": "presseschau_beitraege_mit_einordnung_2025-08-27_2026-08-27.json",
+    "source_sha256": "258337c34b334a557e5d1617db9b3eb0ffdb1f008c7220b34f0f977a97f2b5d3",
+    "canonical_replacement": "not_yet"
+  },
+  "stage_E": {
+    "date": "2026-08-28",
+    "research_record_count": 59,
+    "new_contribution_count": 11,
+    "new_research_refs_represented": 12,
+    "research_only_without_own_contribution": [
+      "R035",
+      "R038"
+    ],
+    "updated_existing_contributions": [
+      "R008",
+      "R024",
+      "R040",
+      "R048"
+    ],
+    "canonical_replacement": "not_yet; wait for Stage F"
+  },
+  "stage_F": {
+    "date": "2026-08-28",
+    "source": "stage_E_02_presseschau_beitraege_working.json",
+    "qa_status": "passed_with_controlled_session_gap_S019",
+    "category_cleanup_2026_08_29": {
+      "status": "completed",
+      "categories": [
+        "Mobilität & Verkehr",
+        "Klima & Energie",
+        "Natur & Umwelt",
+        "Ortsentwicklung & Bauen",
+        "Bildung, Soziales & Gesundheit",
+        "Kommunalpolitik & Beteiligung",
+        "Finanzen & Wirtschaft",
+        "Infrastruktur & Versorgung",
+        "Sicherheit & Bevölkerungsschutz"
+      ]
+    }
+  }
+}
