@@ -65,7 +65,10 @@ details{border-top:1px solid #d2d9d5;margin-top:14px;padding-top:11px}summary{cu
 .topic-link{margin-top:18px;padding-top:13px;border-top:1px solid #d2d9d5;font-weight:800}.topic-link a{color:#005437;text-decoration-thickness:2px}.topic-link a:hover{color:#007a4d}.topic-card{scroll-margin-top:110px}.section-intro p{color:#c4d1cb}.toolbar label{color:#d9e2dd}.archive-box .muted{color:#5c6d65}
 
 /* Link contrast on light content cards */
-.card a{color:#00613f;text-decoration-thickness:1.7px;text-underline-offset:3px}
+.card a{color:#003f2c;text-decoration-thickness:2px;text-underline-offset:3px;font-weight:650}
 .card a:hover,.card a:focus{color:#003f2a;text-decoration-thickness:2px}
-.sources a{color:#00613f;font-weight:600}
+.sources a{color:#003f2c;font-weight:700;text-decoration-thickness:2px}
 .document-unavailable{display:inline-block;color:#52655c;font-size:.95rem;font-style:italic;margin-top:.2rem}
+
+.card a:hover{color:#005f42}
+.sources a:hover{color:#005f42}
