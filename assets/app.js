@@ -150,3 +150,40 @@ if(location.hash) setTimeout(openHashTarget,80);
  }
  card.dataset.search=(card.textContent||'').toLowerCase();
 })();
+
+// Redaktionelle Ergänzung 2026-08-31: räumlicher Zusammenhang Kirchenstraße 4.
+(function updateKirchenstrasseContext(){
+ const postDirectory='https://www.kaufda.de/Filialen/Feldkirchen-Kr-Muenchen/Postfiliale-579-Kirchenstrasse-Deutsche-Post/v-f342416777';
+ const contribution=document.getElementById('R068');
+ if(contribution){
+   const body=contribution.querySelector('.body');
+   if(body) body.innerHTML='<p>Nach zwei früheren Ablehnungen stimmte der Ferienausschuss am 20. August 2026 der Nutzungsänderung des Kiosks in der Kirchenstraße 4 zu einer SB-Bäckerei zu. Nach dem Bericht des Münchner Merkur ist die Zustimmung daran geknüpft, dass der Betreiber der Verwaltung Verträge über fünf Stellplätze vorlegt.</p><p>Am selben Standort wird in aktuellen Verzeichnissen wieder eine Deutsche-Post-Filiale geführt. Damit treffen an der Kirchenstraße 4 zwei für die örtliche Versorgung relevante Nutzungen zusammen. Ob und wie Postfiliale und geplante SB-Bäckerei organisatorisch oder wirtschaftlich miteinander verbunden sind, ist in den bislang gefundenen öffentlichen Quellen nicht belastbar dokumentiert.</p>';
+   const ul=contribution.querySelector('ul.sources');
+   if(ul && !ul.querySelector('a[href*="f342416777"]')) ul.insertAdjacentHTML('beforeend','<li><a href="'+postDirectory+'" rel="noopener noreferrer" target="_blank">Aktuelles Filialverzeichnis – Deutsche Post, Kirchenstraße 4</a> · abgerufen 31. August 2026</li>');
+   contribution.dataset.search=(contribution.textContent||'').toLowerCase();
+ }
+ const topic=document.getElementById('T010');
+ if(topic){
+   const date=topic.querySelector('.date');
+   if(date) date.textContent='Aktualisiert: 31. August 2026';
+   const body=topic.querySelector('.body');
+   if(body) body.innerHTML='<p>Bei der Nahversorgung im Ortszentrum gab es im Untersuchungszeitraum mehrere Veränderungen. Die Gemeinde kündigte 2025 an, dass die Poststelle in der Kirchenstraße zum 30. September schließen und die Postabwicklung ab Oktober vollständig an den Wolfgangsplatz verlagert werden sollte. Aktuelle Filialverzeichnisse führen inzwischen wieder eine Deutsche-Post-Filiale in der Kirchenstraße 4.</p><p>Genau für diese Adresse wurde zugleich die Nutzungsänderung eines Kiosks zu einer SB-Bäckerei beantragt. Nach zwei Ablehnungen stimmte der Ferienausschuss dem Vorhaben am 20. August 2026 unter der Voraussetzung zu, dass fünf Stellplatzverträge nachgewiesen werden. Die gemeinsame Adresse verbindet damit zwei zunächst getrennt erscheinende Entwicklungen der örtlichen Versorgung. Öffentlich noch nicht belastbar geklärt ist, wann und unter welchen Bedingungen die Postfiliale an die Kirchenstraße zurückkehrte und ob zwischen Postfiliale und SB-Bäckerei eine organisatorische oder wirtschaftliche Verbindung besteht.</p>';
+   const assessment=topic.querySelector('.assessment');
+   if(assessment) assessment.innerHTML='<h4>Unsere Einordnung</h4><p>Für die Ortsmitte ist nicht nur die einzelne Genehmigung einer SB-Bäckerei relevant. Wenn am selben Standort zugleich wieder Postdienstleistungen angeboten werden, kann die Kirchenstraße 4 mehrere Funktionen der Nahversorgung bündeln. Gerade solche räumlichen Zusammenhänge sind für die Entwicklung eines lebendigen Ortszentrums wichtig.</p><p>Bevor aus der gemeinsamen Adresse weitergehende Schlüsse gezogen werden, muss jedoch geklärt werden, wie die beiden Angebote tatsächlich zusammenhängen. Für Feldkirchen bleibt darüber hinaus die Frage, wie Nahversorgung, Dienstleistungen, kurze Wege, Aufenthaltsqualität und gute Erreichbarkeit gemeinsam gestärkt werden können.</p>';
+   const details=[...topic.querySelectorAll('details')];
+   const questions=details.find(d=>d.querySelector('summary')?.textContent.includes('Offene Fragen'));
+   if(questions){
+     questions.querySelector('ul').innerHTML='<li>Wann und unter welchen Bedingungen ist die Postfiliale an die Kirchenstraße 4 zurückgekehrt?</li><li>Besteht zwischen Postfiliale und geplanter SB-Bäckerei eine organisatorische, wirtschaftliche oder betriebliche Verbindung?</li><li>Welche Nahversorgungs- und Dienstleistungsangebote sollen die Feldkirchner Ortsmitte langfristig stärken?</li><li>Wie lassen sich bei neuen Nutzungen gute Erreichbarkeit, kurze Wege, Stellplatzanforderungen sowie Fuß- und Radverkehr sinnvoll zusammenbringen?</li>';
+     questions.querySelector('summary').textContent='Offene Fragen (4)';
+   }
+   const sources=details.find(d=>d.querySelector('summary')?.textContent.includes('Quellen'));
+   if(sources){
+     const ul=sources.querySelector('ul');
+     if(ul && !ul.querySelector('a[href*="f342416777"]')) ul.insertAdjacentHTML('beforeend','<li><a href="'+postDirectory+'" rel="noopener noreferrer" target="_blank"><span class="source-date">31. August 2026</span> · Aktuelles Filialverzeichnis – Deutsche Post, Kirchenstraße 4</a></li>');
+     if(ul) sources.querySelector('summary').textContent='Quellen ('+ul.children.length+')';
+   }
+   topic.dataset.search=(topic.textContent||'').toLowerCase();
+ }
+ const note=document.querySelector('.demo-note');
+ if(note && note.textContent.includes('Stand ')) note.textContent='Stand 31. August 2026 · Öffentlicher Demonstrator';
+})();
