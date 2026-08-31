@@ -72,3 +72,27 @@ details{border-top:1px solid #d2d9d5;margin-top:14px;padding-top:11px}summary{cu
 
 .card a:hover{color:#005f42}
 .sources a:hover{color:#005f42}
+
+/* Prominent search fields across Presseschau, Sitzungen and Themen */
+.toolbar{margin:22px 0 18px}
+.search{
+ width:100%;
+ min-height:58px;
+ border:2px solid #87bfa5;
+ background:#f4f5f0;
+ color:#15362a;
+ padding:15px 18px;
+ font-size:1.08rem;
+ font-weight:650;
+ box-shadow:0 0 0 4px rgba(135,191,165,.08);
+}
+.search::placeholder{color:#526b60;opacity:1}
+.search:hover{border-color:#a7d1bd}
+.search:focus{
+ outline:3px solid #a7d1bd;
+ outline-offset:2px;
+ border-color:#005437;
+ background:#fff;
+ box-shadow:0 0 0 5px rgba(135,191,165,.12);
+}
+@media(max-width:560px){.search{min-height:54px;padding:13px 14px;font-size:1rem}}
