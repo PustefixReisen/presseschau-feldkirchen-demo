@@ -22,7 +22,7 @@
       modal: {
         heading: 'Heimstettener See – Warnhinweis zu Cyanobakterien',
         text: [
-          'Der Heimstettener See ist ein wichtiger Naherholungsort für Feldkirchen und die Nachbargemeinden. Er wird zum Baden und Grillen genutzt; vor Ort gibt es unter anderem einen Biergarten, eine Wasserwacht und Toilettenanlagen.',
+          'Der Heimstettener See ist ein wichtiger Naherholungsort für Feldkirchen und die Nachbargemeinden. Er wird zum Baden, Grillen und für weitere Freizeitaktivitäten genutzt. Alter Baumbestand sorgt in großen Teilen für Schatten; zum Erholungsgebiet gehören außerdem ein Biergarten, Toiletten und eine Wasserwacht.',
           'Im August 2026 wurden Cyanobakterien insbesondere am Südufer nachgewiesen. Das Gesundheitsamt riet vorsorglich vom Baden und Schwimmen im gesamten See ab. Der auf dem Foto sichtbare Warnhinweis dokumentiert diese Situation Anfang September.'
         ],
         sources: [
