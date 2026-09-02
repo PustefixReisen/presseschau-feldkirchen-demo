@@ -1,4 +1,12 @@
 (function enhanceR005WithImage(){
+  if (!document.querySelector('link[data-fib-image-layout]')) {
+    const stylesheet = document.createElement('link');
+    stylesheet.rel = 'stylesheet';
+    stylesheet.href = 'assets/image-layout.css';
+    stylesheet.dataset.fibImageLayout = 'true';
+    document.head.appendChild(stylesheet);
+  }
+
   const card = document.getElementById('R005');
   if (!card || card.querySelector('.teaser-with-image')) return;
 
