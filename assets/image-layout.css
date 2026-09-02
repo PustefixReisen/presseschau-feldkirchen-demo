@@ -1,0 +1,6 @@
+.teaser-with-image{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,2fr);gap:24px;align-items:start}
+.teaser-text{min-width:0}
+.contribution-image{margin:.35rem 0 0}
+.contribution-image img{display:block;width:100%;height:auto;border-radius:6px}
+.contribution-image figcaption{margin-top:.45rem;color:#52605a;font-size:.82rem;line-height:1.4}
+@media(max-width:760px){.teaser-with-image{grid-template-columns:1fr;gap:10px}.contribution-image{margin-top:0}}
