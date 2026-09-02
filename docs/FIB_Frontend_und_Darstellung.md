@@ -97,7 +97,9 @@ Nicht jedes Bild braucht ein Modal. Es wird nur angeboten, wenn ein inhaltlicher
 
 ### 6.2 Datenbasis
 
-Die in der Bildbibliothek gespeicherte **Faktenbasis** ist nicht zwingend der endgültige Veröffentlichungstext. Vor Ausgabe werden nur freigegebene, belegte und aktuelle Fakten ausgewählt und zu einem kurzen lesbaren Text formuliert. Interne Steuerungshinweise werden niemals veröffentlicht.
+Die Bildbibliothek enthält neben der Faktenbasis einen **bereits redaktionell geprüften öffentlichen Motivtext**. Dieser Standardtext wird grundsätzlich schon beim Einstellen des Bildes formuliert und später wiederverwendet.
+
+Bei der konkreten FIB-Nutzung wird der Text nicht routinemäßig neu erzeugt. Die KI prüft nur **zeitabhängige Fakten** (z. B. Bauzustand, Warnhinweise, Kontaktdaten, laufende Planungen) auf Aktualität und passt den öffentlichen Motivtext nur an, wenn dies sachlich erforderlich ist. Interne Steuerungshinweise werden niemals veröffentlicht.
 
 ## 7. Themen- und Sitzungskarten
 
