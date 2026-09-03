@@ -3,5 +3,7 @@
   await import('./update-20260901.js');
   await import('./update-20260901-tz.js');
   await import('./sort-topics.js');
-  await import('./image-r005.js');
+  await import('./update-20260903.js');
+  await import('./update-20260903b.js');
+  await import('./image-features.js');
 })();
