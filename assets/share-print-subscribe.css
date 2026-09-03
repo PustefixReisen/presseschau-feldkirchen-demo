@@ -1,0 +1,46 @@
+.fib-card-actions{display:flex;justify-content:flex-end;gap:8px;align-items:center;flex-wrap:wrap;margin:.55rem 0 .7rem;position:relative}
+.fib-action-button,.fib-watch-button{border:1px solid #7ca893;background:#edf3ef;color:#063c2b;padding:7px 11px;font:inherit;font-size:.88rem;font-weight:800;cursor:pointer;border-radius:4px}
+.fib-action-button:hover,.fib-action-button:focus,.fib-watch-button:hover,.fib-watch-button:focus{background:#dceae2;border-color:#005437;outline:2px solid transparent}
+.fib-share-wrap{position:relative}
+.fib-share-menu{display:none;position:absolute;right:0;top:calc(100% + 6px);z-index:30;min-width:260px;background:#f8faf7;border:1px solid #afc4b8;box-shadow:0 12px 30px rgba(0,0,0,.18);padding:8px;border-radius:6px}
+.fib-share-menu.open{display:grid;gap:3px}
+.fib-share-menu button,.fib-share-menu a{display:block;width:100%;border:0;background:transparent;color:#123a2d;text-align:left;text-decoration:none;padding:9px 10px;font:inherit;font-size:.92rem;font-weight:700;cursor:pointer;border-radius:3px}
+.fib-share-menu button:hover,.fib-share-menu a:hover,.fib-share-menu button:focus,.fib-share-menu a:focus{background:#e4eee8;color:#063c2b}
+.fib-share-note{font-size:.78rem;color:#586b62;line-height:1.35;margin:6px 8px 4px;padding-top:7px;border-top:1px solid #d8e1dc}
+.fib-topic-watch{margin-top:20px;padding-top:15px;border-top:1px solid #d2d9d5}
+.fib-watch-button{background:#e7efe9}
+.fib-subscription-box{margin-top:24px;background:#17372b;border-left:6px solid #6ea98d;padding:22px 24px;color:#f3f5ef;box-shadow:var(--shadow);display:grid;grid-template-columns:minmax(0,1fr) auto auto;gap:22px;align-items:center}
+.fib-subscription-box .kicker{margin-bottom:5px}
+.fib-subscription-box h3{margin:0 0 5px;font-family:Arial Black,Arial,sans-serif;font-size:1.45rem;line-height:1.15}
+.fib-subscription-box p{margin:0;color:#c4d1cb}
+.fib-frequency{border:0;padding:0;margin:0;display:grid;gap:4px;min-width:125px}
+.fib-frequency legend{font-weight:850;margin-bottom:4px}
+.fib-frequency label{white-space:nowrap;cursor:pointer}
+.fib-subscribe-button{background:#f3f5ef;color:#063c2b;border-color:#f3f5ef;white-space:nowrap}
+.fib-dialog{border:0;border-radius:8px;padding:0;max-width:560px;width:calc(100% - 32px);box-shadow:0 18px 55px rgba(0,0,0,.35)}
+.fib-dialog::backdrop{background:rgba(3,20,14,.66)}
+.fib-dialog-inner{padding:24px;color:#15231d;background:#f4f5f0}
+.fib-dialog-title{margin:0 0 9px;font-family:Arial Black,Arial,sans-serif;color:#063c2b}
+.fib-dialog-message{margin:0 0 18px}
+@media(max-width:760px){.fib-subscription-box{grid-template-columns:1fr}.fib-card-actions{justify-content:flex-start}.fib-share-menu{left:0;right:auto;max-width:calc(100vw - 50px)}}
+@media print{
+  @page{margin:16mm}
+  body.fib-printing-single{background:#fff!important;color:#111!important;font-size:11pt}
+  body.fib-printing-single>*{display:none!important}
+  body.fib-printing-single>main{display:block!important;max-width:none!important;margin:0!important;padding:0!important}
+  body.fib-printing-single>main>*{display:none!important}
+  body.fib-printing-single>main>.panel{display:block!important}
+  body.fib-printing-single>main>.panel>*{display:none!important}
+  body.fib-printing-single>main>.panel>.cards{display:block!important}
+  body.fib-printing-single>main>.panel>.cards>*{display:none!important}
+  body.fib-printing-single>main>.panel>.cards>.fib-print-target{display:block!important;background:#fff!important;color:#111!important;border:0!important;border-top:4px solid #005437!important;border-radius:0!important;box-shadow:none!important;padding:0!important;margin:0!important}
+  body.fib-printing-single .fib-print-target .fib-card-actions,
+  body.fib-printing-single .fib-print-target .fib-topic-watch{display:none!important}
+  body.fib-printing-single .fib-print-target a{color:#111!important;text-decoration:underline!important}
+  body.fib-printing-single .fib-print-target details{display:block!important}
+  body.fib-printing-single .fib-print-target details>*{display:block!important}
+  body.fib-printing-single .fib-print-target summary{display:none!important}
+  body.fib-printing-single .fib-print-target img{max-width:100%!important;height:auto!important;break-inside:avoid}
+  body.fib-printing-single .fib-print-target:before{content:'Feldkirchen im Blick · GRÜNE Feldkirchen';display:block;font-weight:800;color:#005437;margin:0 0 10mm;padding-top:3mm;border-top:1px solid #999}
+  body.fib-printing-single .fib-print-target:after{content:'Quelle: ' attr(data-print-url);display:block;margin-top:10mm;padding-top:4mm;border-top:1px solid #bbb;font-size:9pt;color:#555;overflow-wrap:anywhere}
+}
