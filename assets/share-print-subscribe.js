@@ -13,8 +13,10 @@
     url.hash = card.id || '';
     return {
       title,
+      teaser,
       text: teaser ? `${title}\n${teaser}` : title,
-      url: url.toString()
+      url: url.toString(),
+      kind: card.id && card.id.startsWith('T') ? 'Thema' : 'Beitrag'
     };
   }
 
@@ -74,7 +76,9 @@
     row.className = 'fib-card-actions';
     row.innerHTML = `
       <div class="fib-share-wrap">
-        <button type="button" class="fib-action-button fib-share-trigger" aria-expanded="false">Teilen</button>
+        <button type="button" class="fib-action-button fib-icon-button fib-share-trigger" aria-expanded="false" aria-label="Teilen" title="Teilen">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="18" cy="5" r="2.5"></circle><circle cx="6" cy="12" r="2.5"></circle><circle cx="18" cy="19" r="2.5"></circle><path d="M8.2 10.9 15.8 6.1M8.2 13.1l7.6 4.8"></path></svg>
+        </button>
         <div class="fib-share-menu" role="menu" aria-label="Beitrag teilen">
           <button type="button" class="fib-share-native" role="menuitem">Über Gerät teilen …</button>
           <a class="fib-share-email" role="menuitem">E-Mail</a>
@@ -83,11 +87,12 @@
           <p class="fib-share-note">Signal, Mastodon und Instagram können – sofern auf dem Gerät verfügbar – über „Über Gerät teilen …“ ausgewählt werden.</p>
         </div>
       </div>
-      <button type="button" class="fib-action-button fib-print-button">Drucken / PDF</button>`;
+      <button type="button" class="fib-action-button fib-icon-button fib-print-button" aria-label="Drucken oder als PDF speichern" title="Drucken / PDF">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 8V3h10v5M7 17H5a2 2 0 0 1-2-2v-4a3 3 0 0 1 3-3h12a3 3 0 0 1 3 3v4a2 2 0 0 1-2 2h-2"></path><path d="M7 14h10v7H7z"></path><path d="M17 11h.01"></path></svg>
+      </button>`;
 
     heading.parentNode.insertBefore(row, heading);
 
-    const wrap = row.querySelector('.fib-share-wrap');
     const trigger = row.querySelector('.fib-share-trigger');
     const menu = row.querySelector('.fib-share-menu');
     const nativeButton = row.querySelector('.fib-share-native');
@@ -97,7 +102,9 @@
 
     if(!navigator.share) nativeButton.hidden = true;
 
-    email.href = `mailto:?subject=${encodeURIComponent(data.title)}&body=${encodeURIComponent(`${data.text}\n\n${data.url}`)}`;
+    const articlePhrase = data.kind === 'Thema' ? 'dieses Thema' : 'diesen Beitrag';
+    const emailBody = `Hallo,\n\nauf Feldkirchen im Blick habe ich ${articlePhrase} gefunden:\n\n${data.text}\n\n${data.url}`;
+    email.href = `mailto:?subject=${encodeURIComponent(data.title)}&body=${encodeURIComponent(emailBody)}`;
     whatsapp.href = `https://wa.me/?text=${encodeURIComponent(`${data.text}\n\n${data.url}`)}`;
 
     trigger.addEventListener('click', (event) => {
@@ -110,7 +117,7 @@
 
     nativeButton.addEventListener('click', async () => {
       try{
-        await navigator.share(data);
+        await navigator.share({title:data.title,text:data.text,url:data.url});
         closeAllShareMenus();
       }catch(error){
         if(error && error.name !== 'AbortError') await copyShareText(data, copy);
