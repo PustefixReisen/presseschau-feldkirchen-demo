@@ -18,82 +18,62 @@
     .normalize('NFD').replace(/[\u0300-\u036f]/g, '')
     .replace(/ß/g, 'ss');
 
-  // Hohe Gewichtung nur für konkrete, redaktionell sinnvolle Motivbezüge.
-  // So wird nicht jeder Beitrag zwangsbebildert und generische Motive wiederholen sich nicht unnötig.
-  const rules = [
-    ['B008',  [/griecherl|geholz|gehölz/, /munchner strasse.*radweg|radweg.*munchner strasse/]],
-    ['B016',  [/glasfaser|breitband/, /eschenweg/]],
-    ['B017',  [/spielplatz.*theresien|theresien.*spielplatz|ottostrasse.*spielplatz/]],
-    ['B018',  [/fussgangerampel|fußgängerampel|schulweg/, /aschheimer strasse.*quer/]],
-    ['B019',  [/cyanobakter|blaualgen|badeverbot/]],
-    ['B020',  [/fahrradstrasse.*seestrasse|seestrasse.*fahrradstrasse/]],
-    ['B021',  [/heimstettener see.*wasserstand|wasserstand.*heimstettener see/]],
-    ['B022',  [/niedrigwasser|niedriger wasserstand|zuruckgewichene? wasser/]],
-    ['B023',  [/arche noah/, /burgersolar|bürgersolar|photovoltaik.*kindergarten/]],
-    ['B024',  [/friedhofssatz|kolumbarium|aussegnungshalle|bestattung/]],
-    ['B025',  [/friedhof.*erweiter|erweiterungswiese|friedhofsumfeld|grun.*parkanlage/]],
-    ['B026',  [/ludwig.?glockl|alte schule.*bahnhofstrasse/]],
-    ['B027',  [/st\.? jakob|sankt jakob|kinderhaus.*jakob/]],
-    ['B028',  [/grundschule feldkirchen|grundschule.*richthofen/]],
-    ['B029',  [/burgercafe|bürgercafé|multifunktionsraum/]],
-    ['B030',  [/seniorenwohnung|seniorenappartement|gemeinschaftliches wohnen/]],
-    ['B031',  [/bahnhof.*fahrradabstell|fahrradabstell.*bahnhof|fahrradparken.*bahnhof/]],
-    ['B032',  [/bahnhofsvorplatz|bahnhofsumfeld|rahmenplan.*bahnhof|s.?bahn.*bus.*feldkirchen/]],
-    ['B033',  [/villa lehrer|lehrervilla|bahnhofstrasse.*baum|baumbestand.*bahnhofstrasse/]],
-    ['B034',  [/maibaumplatz|ortsmitte.*platz|platz.*ortsmitte/]],
-    ['B035',  [/evangelische kirche|maibaum.*kirche|kirche.*maibaum/]],
-    ['B036',  [/rathaus feldkirchen|rathausplatz|gemeindebucherei|gemeindebücherei/]],
-    ['B037',  [/feuerwehr|katastrophenschutz|schadenslage|stromausfall.*vorsorge/]],
-    ['B038',  [/strassenbaum|straßenbaum|schattenspend.*baum|hitzeschutz.*strassenraum|hitzeschutz.*straßenraum/]],
-    ['B039',  [/sportpark.*fahrrad|sportanlage.*fahrrad|fahrrad.?abstellstation.*sport/]],
-    ['B040',  [/nachverdichtung|wohnungsbau|wohnraumentwicklung|bautatigkeit|bautätigkeit/]],
-    ['B041',  [/sportlerheim|tsv feldkirchen/]],
-    ['B042',  [/partnergemeinde|rietschen|bisignano|gemeindepartnerschaft/]],
-    ['B043',  [/radwegweisung|radwegweiser|regionale radverbindung/]],
-    ['B044',  [/einwohner.*feldkirchen|zahlen.*daten.*feldkirchen|wirtschaftsstandort.*feldkirchen|unternehmen.*feldkirchen/]],
-    ['B045',  [/brucke.*a94|brücke.*a94|fuss.*rad.*brucke|fuß.*rad.*brücke|m18.*brucke|m18.*brücke/]],
-    ['B046',  [/kreisverkehr.*olympia|kreisverkehr.*munchner|kreisel.*olympia|querung.*kreisverkehr/]]
+  // Explizite redaktionelle Präferenzen haben Vorrang vor jeder Textregel.
+  const preferredByCard = new Map([
+    ['R060','B022'],
+    ['T013','B022']
+  ]);
+
+  // Nur konkrete Orts-, Objekt- oder Sachverhaltsbezüge. Keine generischen Ersatzbilder.
+  const contributionRules = [
+    ['B008', /griecherl|geh[oö]lz.*m[uü]nchner stra[ßs]e|radweg.*m[uü]nchner stra[ßs]e.*geh[oö]lz/],
+    ['B016', /glasfaser.*eschenweg|eschenweg.*glasfaser/],
+    ['B017', /spielplatz.*theresien|theresien.*spielplatz|spielplatz.*ottostra[ßs]e/],
+    ['B018', /fu[ßs]g[aä]ngerampel.*aschheimer|aschheimer stra[ßs]e.*ampel/],
+    ['B019', /cyanobakter|blaualgen.*heimstettener see/],
+    ['B020', /fahrradstra[ßs]e.*seestra[ßs]e|seestra[ßs]e.*fahrradstra[ßs]e/],
+    ['B023', /arche noah.*solar|b[uü]rgersolar.*arche noah/],
+    ['B024', /friedhofssatz|kolumbarium|aussegnungshalle/],
+    ['B025', /friedhof.*erweiterungs|erweiterungswiese|friedhofsumfeld.*parkanlage/],
+    ['B026', /ludwig.?gl[oö]ckl|alte schule.*bahnhofstra[ßs]e/],
+    ['B027', /kinderhaus.*st\.? jakob|kinderhaus.*sankt jakob|st\.? jakob.*kinderhaus/],
+    ['B028', /grundschule.*richthofen|grundschule feldkirchen/],
+    ['B029', /b[uü]rgercaf[eé].*richthofen|multifunktionsraum.*richthofen/],
+    ['B030', /seniorenwohnung.*richthofen|seniorenappartement.*richthofen/],
+    ['B031', /bahnhof.*fahrradabstell|fahrradabstell.*bahnhof/],
+    ['B032', /bahnhofsvorplatz|rahmenplan.*bahnhofsvorplatz/],
+    ['B033', /villa lehrer|lehrervilla/],
+    ['B034', /maibaumplatz/],
+    ['B035', /evangelische kirche.*maibaum|maibaum.*evangelische kirche/],
+    ['B036', /rathaus feldkirchen|rathausplatz 1/],
+    ['B037', /freiwillige feuerwehr feldkirchen|feuerwehrger[aä]tehaus/],
+    ['B039', /sportpark.*fahrradabstell|fahrradabstell.*sportpark/],
+    ['B041', /sportlerheim|tsv feldkirchen.*olympiastra[ßs]e/],
+    ['B042', /partnergemeinde|rietschen|bisignano/],
+    ['B043', /radwegweisung|radwegweiser.*ortseingang/],
+    ['B044', /ortsschild feldkirchen|zahlen.*daten.*feldkirchen|einwohner.*feldkirchen/],
+    ['B045', /rad.*fu[ßs]g[aä]ngerbr[uü]cke.*a94|br[uü]cke.*a94.*rad/],
+    ['B046', /kreisverkehr.*olympiastra[ßs]e.*m[uü]nchner|kreisverkehr.*m[uü]nchner.*olympia/]
   ];
 
-  const ruleMap = new Map(rules);
-  const stopWords = new Set(['feldkirchen','gemeinde','stand','ort','ortsbild','infrastruktur','kommunale','kommunal','aktuell','entwicklung','verkehr','mobilitat','mobilität','strasse','straße','anlage','raum']);
-  const usage = new Map();
-
-  function tokenScore(image, text){
-    let score = 0;
-    for (const raw of [...(image.tags || []), image.title || '', image.location || '']) {
-      for (const token of normalize(raw).split(/[^a-z0-9]+/).filter(Boolean)) {
-        if (token.length < 5 || stopWords.has(token)) continue;
-        if (text.includes(token)) score += 0.45;
-      }
-    }
-    return Math.min(score, 2.5);
-  }
-
-  function scoreImage(image, text){
-    let score = tokenScore(image, text);
-    for (const rx of ruleMap.get(image.id) || []) {
-      if (rx.test(text)) score += 6;
-    }
-    score -= (usage.get(image.id) || 0) * 0.7;
-    return score;
-  }
+  // Themen dürfen etwas weiter gefasst sein, müssen aber einen zentralen Aspekt abbilden.
+  const topicRules = [
+    ['B022', /heimstettener see.*wasser|wasser.*heimstettener see/],
+    ['B025', /friedhof.*parkanlage|friedhofsumfeld/],
+    ['B032', /bahnhofsvorplatz|bahnhofsumfeld/],
+    ['B034', /ortsmitte.*(entwicklung|zentrum)|maibaumplatz/],
+    ['B045', /a94.*rad|rad.*a94/]
+  ];
 
   function chooseImage(card){
+    const preferred = preferredByCard.get(card.id);
+    if (preferred && byId.has(preferred)) return byId.get(preferred);
     const text = normalize(card.textContent);
-    let best = null;
-    let bestScore = 0;
-    for (const image of images) {
-      const score = scoreImage(image, text);
-      if (score > bestScore) {
-        best = image;
-        bestScore = score;
-      }
+    const rules = card.classList.contains('topic-card') ? topicRules : contributionRules;
+    for (const [id, rx] of rules) {
+      if (rx.test(text) && byId.has(id)) return byId.get(id);
     }
-    // Kein beliebiges Schmuckbild: mindestens ein konkreter Regelbezug muss greifen.
-    if (!best || bestScore < 5.5) return null;
-    usage.set(best.id, (usage.get(best.id) || 0) + 1);
-    return best;
+    return null;
   }
 
   let modalRoot;
@@ -115,26 +95,27 @@
     document.body.classList.remove('image-modal-open');
   }
 
+  function escapeHtml(value){
+    return String(value || '').replace(/[&<>'\"]/g, char => ({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','\"':'&quot;'}[char]));
+  }
+
+  function publicTitle(image){
+    return String(image.title || '').replace(/\s+(0?[12])$/,'').replace(/:\s*$/,'').trim();
+  }
+
   function openModal(image){
     const root = ensureModal();
     const content = root.querySelector('.image-modal-content');
     const source = image.sources ? `<h4>Quellen / Hintergrund</h4><p class="image-modal-source-note">${escapeHtml(image.sources)}</p>` : '';
-    const volatile = image.volatile_facts ? `<p class="image-modal-stand">Zeitabhängiger Hinweis: ${escapeHtml(image.volatile_facts)}</p>` : '';
     content.innerHTML = `
       <img class="image-modal-photo" src="assets/images/${encodeURIComponent(image.file)}" alt="${escapeHtml(image.alt)}">
-      <h3 id="image-modal-title">${escapeHtml(image.title)}</h3>
+      <h3 id="image-modal-title">${escapeHtml(publicTitle(image))}</h3>
       <p>${escapeHtml(image.public_text)}</p>
       ${source}
-      ${volatile}
-      <p class="image-modal-stand">Bildinformation: Stand ${escapeHtml(image.info_date || library.stand || '')}</p>
     `;
     root.hidden = false;
     document.body.classList.add('image-modal-open');
     root.querySelector('.image-modal-close').focus();
-  }
-
-  function escapeHtml(value){
-    return String(value || '').replace(/[&<>'"]/g, char => ({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[char]));
   }
 
   function enhanceCard(card, image){
@@ -147,39 +128,32 @@
     const teaser = document.createElement('div');
     teaser.className = 'teaser-with-image';
     teaser.dataset.fibImageId = image.id;
-
     const figure = document.createElement('figure');
     figure.className = 'contribution-image';
-
     const trigger = document.createElement('button');
     trigger.className = 'image-detail-trigger';
     trigger.type = 'button';
-    trigger.setAttribute('aria-label', `Mehr zum Bild: ${image.title}`);
+    trigger.setAttribute('aria-label', `Mehr zum Bild: ${publicTitle(image)}`);
     trigger.addEventListener('click', () => openModal(image));
-
     const photo = document.createElement('img');
     photo.src = `assets/images/${image.file}`;
     photo.alt = image.alt || '';
     photo.loading = 'lazy';
     trigger.appendChild(photo);
     figure.appendChild(trigger);
-
     const caption = document.createElement('figcaption');
     caption.textContent = image.caption || image.copyright || '';
     figure.appendChild(caption);
-
     const more = document.createElement('button');
     more.className = 'image-more-link';
     more.type = 'button';
     more.textContent = 'Mehr zum Bild';
     more.addEventListener('click', () => openModal(image));
     figure.appendChild(more);
-
     const text = document.createElement('div');
     text.className = 'teaser-text';
     if (subtitle) text.appendChild(subtitle);
     text.appendChild(body);
-
     teaser.append(figure, text);
     heading.insertAdjacentElement('afterend', teaser);
     card.dataset.fibImageId = image.id;
@@ -194,7 +168,6 @@
     assigned += 1;
   }
 
-  // Prüfdaten für den Demonstrator, ohne sichtbare Debug-Ausgabe.
   document.documentElement.dataset.fibImageLibrary = String(images.length);
   document.documentElement.dataset.fibImageAssignments = String(assigned);
 })();
