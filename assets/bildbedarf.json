@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "stand": "2026-09-03",
+  "purpose": "Interne redaktionelle Bedarfsliste für Beiträge ohne hinreichend passendes Bild. Nicht öffentlich ausspielen.",
+  "needs": [
+    {
+      "card_id": "R050",
+      "title": "Gemeinde erfasst Unterstützungsbedarf für Stromausfälle und Schadenslagen",
+      "image_need": "yes",
+      "reason": "Der eigentliche Gegenstand sind besonders unterstützungsbedürftige Menschen mit lebenswichtigen strombetriebenen medizinischen Hilfsmitteln. Das vorhandene Feuerwehrmotiv bildet diesen Sachverhalt nicht ab.",
+      "desired_motif": "Pflegebedürftige bzw. unterstützungsbedürftige Person mit erkennbarem technischem/elektrischem medizinischem Hilfsmittel, respektvoll und nicht stigmatisierend dargestellt.",
+      "procurement_hint": "Prüfen: eigenes geeignetes Motiv oder rechtssicher nutzbares kostenloses Stockfoto. Personen- und Gesundheitsbezug besonders sorgfältig hinsichtlich Einwilligung, Würde und Lizenz prüfen."
+    }
+  ],
+  "reviewed_no_need": [
+    {
+      "title": "B304-Sanierung leitet Verkehr über Feldkirchen um",
+      "reason": "Beitrag funktioniert ohne Bild; das vorhandene Straßenbaumfoto ist kein inhaltlich relevanter Ersatz."
+    },
+    {
+      "title": "Ferienausschuss stimmt SB-Bäckerei in der Kirchenstraße im dritten Anlauf zu",
+      "reason": "Konkreter Ortsbezug Kirchenstraße; Maibaumplatz ist zu unspezifisch. Ein Bild ist für diese Meldung nicht erforderlich."
+    },
+    {
+      "title": "SB-Bäckerei in der Kirchenstraße erhält im dritten Anlauf Zustimmung",
+      "reason": "Konkreter Ortsbezug Kirchenstraße; Maibaumplatz ist zu unspezifisch. Ein Bild ist für diese Meldung nicht erforderlich."
+    },
+    {
+      "title": "Ferienausschuss genehmigt 36 zusätzliche Mitarbeiterwohnungen am Ettenhuber-Betriebshof",
+      "reason": "Konkreter Standort Otto-Lilienthal-Ring; ein Baustellenfoto von der Philipp-Holly-Straße darf nicht ersatzweise verwendet werden. Kein zwingender Bildbedarf."
+    },
+    {
+      "title": "Landratsamt hält zehn Mietwohnungen in der Sonnenstraße für genehmigungsfähig",
+      "reason": "Konkreter Standort Sonnenstraße; ein Baustellenfoto von der Philipp-Holly-Straße darf nicht ersatzweise verwendet werden. Kein zwingender Bildbedarf."
+    }
+  ]
+}
