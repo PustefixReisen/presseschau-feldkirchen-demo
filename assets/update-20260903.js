@@ -1,9 +1,9 @@
 (function applyFibUpdate20260903(){
   const contributionList = document.querySelector('#contribution-list');
 
-  // Öffentliche Bezeichnung des Produkts vereinheitlichen.
+  // Feldkirchen im Blick ist der Produktname; diese Navigation bezeichnet den Bereich mit aktuellen Presse-/Recherchebeiträgen.
   document.querySelectorAll('.nav-btn').forEach(btn => {
-    if (btn.dataset.target === 'presseschau') btn.textContent = 'Feldkirchen im Blick';
+    if (btn.dataset.target === 'presseschau') btn.textContent = 'Presse';
   });
   const demoNote = document.querySelector('.demo-note');
   if (demoNote) demoNote.textContent = 'Stand 3. September 2026 · Öffentlicher Demonstrator';
