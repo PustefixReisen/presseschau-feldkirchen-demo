@@ -1,6 +1,8 @@
 .fib-card-actions{display:flex;justify-content:flex-end;gap:8px;align-items:center;flex-wrap:wrap;margin:.55rem 0 .7rem;position:relative}
 .fib-action-button,.fib-watch-button{border:1px solid #7ca893;background:#edf3ef;color:#063c2b;padding:7px 11px;font:inherit;font-size:.88rem;font-weight:800;cursor:pointer;border-radius:4px}
 .fib-action-button:hover,.fib-action-button:focus,.fib-watch-button:hover,.fib-watch-button:focus{background:#dceae2;border-color:#005437;outline:2px solid transparent}
+.fib-icon-button{width:38px;height:38px;padding:7px;display:inline-flex;align-items:center;justify-content:center;border-radius:50%}
+.fib-icon-button svg{width:21px;height:21px;fill:none;stroke:currentColor;stroke-width:1.9;stroke-linecap:round;stroke-linejoin:round;pointer-events:none}
 .fib-share-wrap{position:relative}
 .fib-share-menu{display:none;position:absolute;right:0;top:calc(100% + 6px);z-index:30;min-width:260px;background:#f8faf7;border:1px solid #afc4b8;box-shadow:0 12px 30px rgba(0,0,0,.18);padding:8px;border-radius:6px}
 .fib-share-menu.open{display:grid;gap:3px}
@@ -22,7 +24,7 @@
 .fib-dialog-inner{padding:24px;color:#15231d;background:#f4f5f0}
 .fib-dialog-title{margin:0 0 9px;font-family:Arial Black,Arial,sans-serif;color:#063c2b}
 .fib-dialog-message{margin:0 0 18px}
-@media(max-width:760px){.fib-subscription-box{grid-template-columns:1fr}.fib-card-actions{justify-content:flex-start}.fib-share-menu{left:0;right:auto;max-width:calc(100vw - 50px)}}
+@media(max-width:760px){.fib-subscription-box{grid-template-columns:1fr}.fib-card-actions{justify-content:flex-end}.fib-share-menu{right:0;left:auto;max-width:calc(100vw - 50px)}}
 @media print{
   @page{margin:16mm}
   body.fib-printing-single{background:#fff!important;color:#111!important;font-size:11pt}
