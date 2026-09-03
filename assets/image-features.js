@@ -12,7 +12,16 @@
       title: 'Gemeinderat beschließt Fortführung des Radwegs an der Münchner Straße',
       image: 'feldkirchen-baumreihe-01.jpg',
       alt: 'Gehölzstreifen mit großen Bäumen entlang der Olympiastraße in Feldkirchen',
-      caption: 'Das sogenannte Griecherl-Gehölz entlang der Olympiastraße. © Josef Walter'
+      caption: 'Das sogenannte Griecherl-Gehölz entlang der Olympiastraße. © Josef Walter',
+      modal: {
+        heading: 'Griecherl-Gehölz an der Münchner Straße',
+        text: [
+          'Das Griecherl-Gehölz erstreckt sich über rund 170 Meter entlang der Münchner Straße. Nach dem Antrag zum Schutz des Gehölzes wurde der Erdwall am Sportplatz 1965 angelegt; es wird davon ausgegangen, dass das Gehölz im selben Jahr gepflanzt wurde und damit heute rund 61 Jahre alt ist.',
+          'Bei einer Vor-Ort-Kartierung im August 2026 wurden 40 Griecherl-Bäume, 11 Bergahorne, 19 Hainbuchen und eine Esche erfasst.'
+        ],
+        sourceNote: 'Quelle: Antrag zum Schutz des Griecherl-Gehölzes an der Münchner Straße vom 16.08.2026; Kartierung vom 04.08.2026, Stand 05.08.2026.',
+        stand: 'Stand: 16.08.2026'
+      }
     },
     {
       title: 'Blaualgen im Heimstettener See nachgewiesen',
