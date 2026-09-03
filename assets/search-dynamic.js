@@ -14,12 +14,16 @@
     return [...document.querySelectorAll('#contribution-list .contribution')];
   }
 
+  function searchableText(card){
+    return `${card.dataset.search||''} ${card.textContent||''}`.toLowerCase();
+  }
+
   function applyContributionFilter(){
     const input=document.getElementById('search-press');
     const q=(input?.value||'').toLowerCase().trim();
     let shown=0;
     contributionCards().forEach(card=>{
-      const haystack=((card.dataset.search||card.textContent||'')+'').toLowerCase();
+      const haystack=searchableText(card);
       const okPlace=!currentPlace || card.dataset.place===currentPlace;
       const okQuery=!q || haystack.includes(q);
       const visible=okPlace && okQuery;
@@ -49,7 +53,7 @@
       const q=event.target.value.toLowerCase().trim();
       let shown=0;
       document.querySelectorAll(selector).forEach(card=>{
-        const haystack=((card.dataset.search||card.textContent||'')+'').toLowerCase();
+        const haystack=searchableText(card);
         const visible=!q || haystack.includes(q);
         card.style.display=visible?'':'none';
         if(visible) shown++;
