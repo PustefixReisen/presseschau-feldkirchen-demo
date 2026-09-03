@@ -8,4 +8,5 @@
   await import('./editorial-corrections-20260903.js');
   await import('./image-features.js');
   await import('./search-dynamic.js');
+  await import('./share-print-subscribe.js');
 })();
