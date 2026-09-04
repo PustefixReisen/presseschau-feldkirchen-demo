@@ -21,6 +21,7 @@
   await import('./update-20260903.js');
   await import('./update-20260903b.js');
   await import('./editorial-corrections-20260903.js');
+  await import('./update-20260904.js');
   await import('./image-features.js');
   await import('./search-dynamic.js');
   await import('./share-print-subscribe.js?v=20260903c');
