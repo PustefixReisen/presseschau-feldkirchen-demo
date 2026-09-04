@@ -20,7 +20,7 @@
 
   // Explizite redaktionelle Präferenzen haben Vorrang vor jeder Textregel.
   const preferredByCard = new Map([
-    ['R060','B022'],
+    ['R071','B022'],
     ['T013','B022']
   ]);
 
