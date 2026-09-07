@@ -24,6 +24,7 @@
   await import('./update-20260904.js');
   await import('./update-20260905.js');
   await import('./update-20260907.js');
+  await import('./update-20260907-adfc.js');
   await import('./image-features.js');
   await import('./search-dynamic.js');
   await import('./share-print-subscribe.js?v=20260903c');
