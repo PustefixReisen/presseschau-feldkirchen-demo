@@ -132,6 +132,7 @@ def main() -> int:
             links = parse_links(body, final_url) if "html" in ctype.lower() else []
             page_changed = old.get("page_sha256") not in {None, page_hash}
             first_seen = old.get("page_sha256") is None
+            emit_on_baseline = bool(source.get("emit_on_baseline", False))
 
             known_links = old.get("links", {})
             current_links = {}
@@ -165,7 +166,7 @@ def main() -> int:
                         safe = re.sub(r"[^A-Za-z0-9._-]+", "_", pathlib.PurePosixPath(urllib.parse.urlsplit(doc_final).path).name)
                         filename = f"{sid}-{idx:02d}-{safe or 'document.pdf'}"
                         (out_dir / "documents" / filename).write_bytes(data)
-                    if new or changed:
+                    if (new or changed) and (not first_seen or emit_on_baseline):
                         event_key = f"document:{sid}:{url}:{digest}"
                         event = {
                             "event_key": event_key,
@@ -185,21 +186,22 @@ def main() -> int:
                 except Exception as exc:
                     documents[url] = {**documents.get(url, {}), "error": f"{type(exc).__name__}: {exc}", "checked_at": now_iso()}
 
-            for link in candidates:
-                event_key = f"link:{sid}:{link['url']}"
-                event = {
-                    "event_key": event_key,
-                    "detected_at": now_iso(),
-                    "source_id": sid,
-                    "source_name": source.get("name"),
-                    "kind": "link_new",
-                    "url": link["url"],
-                    "link_text": link["text"],
-                    "status": "unprocessed",
-                }
-                if event_key not in previous_keys:
-                    inbox_items.append(event)
-                    run["new_events"].append(event)
+            if not first_seen or emit_on_baseline:
+                for link in candidates:
+                    event_key = f"link:{sid}:{link['url']}"
+                    event = {
+                        "event_key": event_key,
+                        "detected_at": now_iso(),
+                        "source_id": sid,
+                        "source_name": source.get("name"),
+                        "kind": "link_new",
+                        "url": link["url"],
+                        "link_text": link["text"],
+                        "status": "unprocessed",
+                    }
+                    if event_key not in previous_keys:
+                        inbox_items.append(event)
+                        run["new_events"].append(event)
 
             state["sources"][sid] = {
                 "name": source.get("name"),
@@ -215,7 +217,7 @@ def main() -> int:
                 "documents": documents,
                 "error": None,
             }
-            report.update({"status": "ok", "links": len(current_links), "documents": len(doc_links), "page_changed": page_changed})
+            report.update({"status": "ok", "links": len(current_links), "documents": len(doc_links), "page_changed": page_changed, "baseline": first_seen})
         except Exception as exc:
             state["sources"][sid] = {**old, "name": source.get("name"), "url": source["url"], "priority": source.get("priority"), "last_attempt_at": now_iso(), "error": f"{type(exc).__name__}: {exc}"}
             report.update({"status": "error", "error": f"{type(exc).__name__}: {exc}"})
