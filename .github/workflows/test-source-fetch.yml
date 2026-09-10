@@ -1,0 +1,27 @@
+name: Test FIB source fetch
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  feldkirchen-parkraum:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch municipality page and linked PDFs
+        run: |
+          python3 tools/source-fetch/fetch_feldkirchen.py \
+            'https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt/neues-parkraumkonzept-in-feldkirchen'
+      - name: Show result
+        if: always()
+        run: cat source-fetch-output/result.json || true
+      - name: Upload diagnostic output
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: feldkirchen-parkraum-source-fetch
+          path: source-fetch-output/
+          if-no-files-found: warn
