@@ -1,4 +1,965 @@
 {
   "version": 1,
-  "sources": {}
+  "sources": {
+    "feldkirchen-bauamt": {
+      "name": "Gemeinde Feldkirchen – Nachrichten aus dem Bauamt",
+      "url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt",
+      "priority": "mandatory",
+      "last_success_at": "2026-09-10T20:50:56+00:00",
+      "final_url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt",
+      "content_type": "text/html;charset=UTF-8",
+      "page_sha256": "bb5445e2e2bd6da6b6779699bdf45c82c56a193f70501cf343d71545a86994d6",
+      "page_changed": false,
+      "first_seen": true,
+      "links": {
+        "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt/neues-parkraumkonzept-in-feldkirchen": {
+          "text": ""
+        },
+        "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt/ebe-17-fahrbahnerneuerung-zwischen-weissenfeld-und-parsdorf": {
+          "text": "Staatliches Bauamt Rosenheim"
+        }
+      },
+      "documents": {},
+      "error": null
+    },
+    "feldkirchen-parkraum-2026": {
+      "name": "Gemeinde Feldkirchen – Neues Parkraumkonzept",
+      "url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt/neues-parkraumkonzept-in-feldkirchen",
+      "priority": "mandatory",
+      "last_success_at": "2026-09-10T20:50:59+00:00",
+      "final_url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt/neues-parkraumkonzept-in-feldkirchen",
+      "content_type": "text/html;charset=UTF-8",
+      "page_sha256": "63449d52ad5330ab4723611bc9c4d6688cc1c9ccf62ee8220e71161aac1038ef",
+      "page_changed": false,
+      "first_seen": true,
+      "links": {
+        "https://www.feldkirchen.de/": {
+          "text": "Zur Startseite springen"
+        },
+        "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt/neues-parkraumkonzept-in-feldkirchen": {
+          "text": "Zum Inhalt springen"
+        },
+        "https://www.feldkirchen.de/rathaus": {
+          "text": "Rathaus"
+        },
+        "https://www.feldkirchen.de/rathaus/verwaltung": {
+          "text": "Verwaltung"
+        },
+        "https://www.feldkirchen.de/rathaus/verwaltung/buergermeister": {
+          "text": "Bürgermeister"
+        },
+        "https://www.feldkirchen.de/rathaus/verwaltung/aufgaben": {
+          "text": "Aufgaben"
+        },
+        "https://www.feldkirchen.de/rathaus/verwaltung/ansprechpartner": {
+          "text": "Ansprechpartner"
+        },
+        "https://www.feldkirchen.de/rathaus/verwaltung/sachgebiete": {
+          "text": "Sachgebiete"
+        },
+        "https://www.feldkirchen.de/rathaus/verwaltung/ortsrecht-satzungen": {
+          "text": "Ortsrecht / Satzungen"
+        },
+        "https://www.feldkirchen.de/rathaus/verwaltung/behoerden-recht": {
+          "text": "Behörden & Recht"
+        },
+        "https://www.feldkirchen.de/rathaus/verwaltung/einrichtungen-der-gemeinde": {
+          "text": "Einrichtungen der Gemeinde"
+        },
+        "https://www.feldkirchen.de/rathaus/verwaltung/einrichtungen-der-gemeinde/bauhof": {
+          "text": "Bauhof"
+        },
+        "https://www.feldkirchen.de/rathaus/verwaltung/einrichtungen-der-gemeinde/friedhof": {
+          "text": "Friedhof"
+        },
+        "https://www.feldkirchen.de/rathaus/verwaltung/einrichtungen-der-gemeinde/feuerwehr": {
+          "text": "Feuerwehr"
+        },
+        "https://www.feldkirchen.de/rathaus/verwaltung/einrichtungen-der-gemeinde/gemeindebuecherei": {
+          "text": "Gemeindebücherei"
+        },
+        "https://www.feldkirchen.de/rathaus/verwaltung/einrichtungen-der-gemeinde/afk-geothermie": {
+          "text": "AFK-Geothermie"
+        },
+        "https://www.feldkirchen.de/rathaus/verwaltung/einrichtungen-der-gemeinde/vhs-olm": {
+          "text": "VHS Olm"
+        },
+        "https://www.feldkirchen.de/rathaus/verwaltung/einrichtungen-der-gemeinde/kooperationen-der-gemeinde": {
+          "text": "Kooperationen der Gemeinde"
+        },
+        "https://www.feldkirchen.de/rathaus/verwaltung/stellenportal": {
+          "text": "Stellenportal"
+        },
+        "https://www.feldkirchen.de/rathaus/gemeinderat-politik": {
+          "text": "Gemeinderat & Politik"
+        },
+        "https://www.feldkirchen.de/rathaus/gemeinderat-politik/sitzverteilung-gremien": {
+          "text": "Sitzverteilung & Gremien"
+        },
+        "https://www.feldkirchen.de/rathaus/gemeinderat-politik/gemeinderatsmitglieder": {
+          "text": "Gemeinderatsmitglieder"
+        },
+        "https://www.feldkirchen.de/rathaus/gemeinderat-politik/ausschuesse-gremien": {
+          "text": "Ausschüsse & Gremien"
+        },
+        "https://www.feldkirchen.de/rathaus/gemeinderat-politik/gemeinderatssitzungen": {
+          "text": "Gemeinderatssitzungen"
+        },
+        "https://www.feldkirchen.de/rathaus/gemeinderat-politik/fraktionen-im-gemeinderat": {
+          "text": "Fraktionen im Gemeinderat"
+        },
+        "https://www.feldkirchen.de/rathaus/gemeinderat-politik/wahlen": {
+          "text": "Wahlen"
+        },
+        "https://www.feldkirchen.de/rathaus/buergerservice": {
+          "text": "Bürgerservice"
+        },
+        "https://www.feldkirchen.de/rathaus/buergerservice/buergerservice-portal": {
+          "text": "Bürgerservice-Portal"
+        },
+        "https://www.feldkirchen.de/rathaus/buergerservice/online-terminvergabe-ewo": {
+          "text": "Online-Terminvergabe"
+        },
+        "https://www.feldkirchen.de/rathaus/buergerservice/einwohnermeldeamt": {
+          "text": "Einwohnermeldeamt"
+        },
+        "https://www.feldkirchen.de/rathaus/buergerservice/einwohnermeldeamt/datenschutz": {
+          "text": "Datenschutz"
+        },
+        "https://www.feldkirchen.de/rathaus/buergerservice/standesamt": {
+          "text": "Standesamt"
+        },
+        "https://www.feldkirchen.de/rathaus/buergerservice/gewerbeamt": {
+          "text": "Gewerbeamt"
+        },
+        "https://www.feldkirchen.de/rathaus/buergerservice/friedhofsverwaltung": {
+          "text": "Friedhofsverwaltung"
+        },
+        "https://www.feldkirchen.de/rathaus/buergerservice/rentenberatung": {
+          "text": "Rentenberatung"
+        },
+        "https://www.feldkirchen.de/rathaus/buergerservice/formulare": {
+          "text": "Formulare"
+        },
+        "https://www.feldkirchen.de/rathaus/buergerservice/ein-euro-ticket": {
+          "text": "Ein-Euro-Ticket"
+        },
+        "https://www.feldkirchen.de/rathaus/buergerservice/fundbuero": {
+          "text": "Fundbüro"
+        },
+        "https://www.feldkirchen.de/rathaus/unser-feldkirchen": {
+          "text": "Unser Feldkirchen"
+        },
+        "https://www.feldkirchen.de/rathaus/unser-feldkirchen/digitaler-ortsplan": {
+          "text": "Digitaler Ortsplan"
+        },
+        "https://www.feldkirchen.de/rathaus/unser-feldkirchen/ortschronik": {
+          "text": "Ortschronik"
+        },
+        "https://www.feldkirchen.de/rathaus/unser-feldkirchen/zahlen-daten-fakten": {
+          "text": "Zahlen, Daten, Fakten"
+        },
+        "https://www.feldkirchen.de/rathaus/unser-feldkirchen/anfahrt": {
+          "text": "Anfahrt"
+        },
+        "https://www.feldkirchen.de/rathaus/unser-feldkirchen/partnergemeinden": {
+          "text": "Partnergemeinden"
+        },
+        "https://www.feldkirchen.de/rathaus/unser-feldkirchen/gemeindewappen": {
+          "text": "Gemeindewappen"
+        },
+        "https://www.feldkirchen.de/rathaus/unser-feldkirchen/maibaum-in-feldkirchen": {
+          "text": "Maibaum in Feldkirchen"
+        },
+        "https://www.feldkirchen.de/rathaus/unser-feldkirchen/notruf": {
+          "text": "Notruf"
+        },
+        "https://www.feldkirchen.de/aktuelles": {
+          "text": "Aktuelles"
+        },
+        "https://www.feldkirchen.de/aktuelles/aktuelle-news": {
+          "text": "Aktuelle News"
+        },
+        "https://www.feldkirchen.de/aktuelles/aktuelle-news/grusswort": {
+          "text": "Grußwort"
+        },
+        "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen": {
+          "text": "Nachrichten"
+        },
+        "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/nachrichten-archiv": {
+          "text": "Nachrichten Archiv"
+        },
+        "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/aktuelle-meldungen-landratsamt": {
+          "text": "Pressemitteilungen extern"
+        },
+        "https://www.feldkirchen.de/aktuelles/aktuelle-news/ausschreibungen": {
+          "text": "Ausschreibungen"
+        },
+        "https://www.feldkirchen.de/aktuelles/aktuelle-news/bekanntmachungen": {
+          "text": "Bekanntmachungen"
+        },
+        "https://www.feldkirchen.de/aktuelles/veranstaltungskalender": {
+          "text": "Veranstaltungskalender"
+        },
+        "https://www.feldkirchen.de/aktuelles/stellenausschreibungen": {
+          "text": "Karriere"
+        },
+        "https://www.feldkirchen.de/aktuelles/stellenausschreibungen/stellenausschreibungen-1": {
+          "text": "Stellenausschreibungen"
+        },
+        "https://www.feldkirchen.de/aktuelles/stellenausschreibungen/ausbildung-in-der-gemeinde": {
+          "text": "Ausbildung in der Gemeinde"
+        },
+        "https://www.feldkirchen.de/aktuelles/stellenausschreibungen/arbeiten-in-unseren-kitas": {
+          "text": "Arbeiten in Feldkirchner Kitas"
+        },
+        "https://www.feldkirchen.de/aktuelles/stellenausschreibungen/arbeiten-bei-kooperationspartnern": {
+          "text": "Arbeiten bei Kooperationspartnern"
+        },
+        "https://www.feldkirchen.de/aktuelles/gemeindeblatt": {
+          "text": "Gemeindeblatt"
+        },
+        "https://www.feldkirchen.de/leben": {
+          "text": "Leben"
+        },
+        "https://www.feldkirchen.de/leben/kinder-jugend-bildung": {
+          "text": "Kinder & Jugend"
+        },
+        "https://www.feldkirchen.de/leben/kinder-jugend-bildung/kindereinrichtungen": {
+          "text": "Kindereinrichtungen"
+        },
+        "https://www.feldkirchen.de/leben/kinder-jugend-bildung/kita-gebuehren": {
+          "text": "Kita-Gebühren"
+        },
+        "https://www.feldkirchen.de/leben/kinder-jugend-bildung/jobangebote-kita": {
+          "text": "Jobangebote Kita"
+        },
+        "https://www.feldkirchen.de/leben/kinder-jugend-bildung/kinderspielplaetze": {
+          "text": "Kinderspielplätze"
+        },
+        "https://www.feldkirchen.de/leben/kinder-jugend-bildung/schulen": {
+          "text": "Schulen"
+        },
+        "https://www.feldkirchen.de/leben/kinder-jugend-bildung/jugendberatung-im-rathaus": {
+          "text": "Jugendberatung im Rathaus"
+        },
+        "https://www.feldkirchen.de/leben/kinder-jugend-bildung/jugendarbeit": {
+          "text": "Angebote für Kinder und Jugend"
+        },
+        "https://www.feldkirchen.de/leben/kinder-jugend-bildung/jugendarbeit/ferienprogramm": {
+          "text": "Ferienprogramm"
+        },
+        "https://www.feldkirchen.de/leben/kinder-jugend-bildung/jugendarbeit/jugendbefragung-2023": {
+          "text": "Jugendbefragung 2023"
+        },
+        "https://www.feldkirchen.de/leben/kinder-jugend-bildung/jugendarbeit/upstairs": {
+          "text": "Upstairs"
+        },
+        "https://www.feldkirchen.de/leben/kinder-jugend-bildung/familienberatung": {
+          "text": "Familienberatung"
+        },
+        "https://www.feldkirchen.de/leben/gesundheit-und-soziales": {
+          "text": "Gesundheit & Soziales"
+        },
+        "https://www.feldkirchen.de/leben/gesundheit-und-soziales/aerzte-und-heilpraxen": {
+          "text": "Ärzte und Heilpraxen"
+        },
+        "https://www.feldkirchen.de/leben/gesundheit-und-soziales/soziale-einrichtungen": {
+          "text": "Soziale Einrichtungen"
+        },
+        "https://www.feldkirchen.de/leben/gesundheit-und-soziales/kirchen": {
+          "text": "Kirchen"
+        },
+        "https://www.feldkirchen.de/leben/senioren": {
+          "text": "Angebote für Senioren"
+        },
+        "https://www.feldkirchen.de/leben/senioren/einkaufsbus-in-feldkirchen": {
+          "text": "Einkaufsbus in Feldkirchen"
+        },
+        "https://www.feldkirchen.de/leben/senioren/mittagstisch-fuer-senioren": {
+          "text": "Mittagstisch für Senioren"
+        },
+        "https://www.feldkirchen.de/leben/senioren/seniorenbefragung-in-feldkirchen": {
+          "text": "Seniorenbefragung in Feldkirchen"
+        },
+        "https://www.feldkirchen.de/leben/senioren/demenzsprechstunde": {
+          "text": "Demenzsprechstunde"
+        },
+        "https://www.feldkirchen.de/leben/senioren/rentenberatung": {
+          "text": "Rentenberatung"
+        },
+        "https://www.feldkirchen.de/leben/senioren/seniorenberatung-im-rathaus": {
+          "text": "Seniorenberatung im Rathaus"
+        },
+        "https://www.feldkirchen.de/leben/senioren/senioren-und-pflegeheime": {
+          "text": "Senioren- und Pflegeheime"
+        },
+        "https://www.feldkirchen.de/leben/senioren/broschueren-fuer-senioren": {
+          "text": "Broschüren für Senioren"
+        },
+        "https://www.feldkirchen.de/leben/freizeit-vereine": {
+          "text": "Freizeit & Vereine"
+        },
+        "https://www.feldkirchen.de/leben/freizeit-vereine/sporteinrichtungen": {
+          "text": "Sporteinrichtungen"
+        },
+        "https://www.feldkirchen.de/leben/freizeit-vereine/kulturelle-veranstaltungen": {
+          "text": "Kulturelle Veranstaltungen"
+        },
+        "https://www.feldkirchen.de/leben/freizeit-vereine/weihnachten-in-feldkirchen": {
+          "text": "Weihnachten in Feldkirchen"
+        },
+        "https://www.feldkirchen.de/leben/freizeit-vereine/buergerbus": {
+          "text": "Bürgerbus"
+        },
+        "https://www.feldkirchen.de/leben/wirtschaft-gewerbe": {
+          "text": "Wirtschaft & Gewerbe"
+        },
+        "https://www.feldkirchen.de/leben/wirtschaft-gewerbe/news-wirtschaftsfoerderung": {
+          "text": "News Wirtschaftsförderung"
+        },
+        "https://www.feldkirchen.de/leben/wirtschaft-gewerbe/gewerbe": {
+          "text": "Gewerbe"
+        },
+        "https://www.feldkirchen.de/leben/wirtschaft-gewerbe/existenzgruender": {
+          "text": "Existenzgründer"
+        },
+        "https://www.feldkirchen.de/leben/wirtschaft-gewerbe/gastronomie-hotels": {
+          "text": "Gastronomie & Hotels"
+        },
+        "https://www.feldkirchen.de/leben/wirtschaft-gewerbe/messe-muenchen-international": {
+          "text": "Messe München International"
+        },
+        "https://www.feldkirchen.de/leben/wohnen-in-feldkirchen": {
+          "text": "Wohnen in Feldkirchen"
+        },
+        "https://www.feldkirchen.de/leben/wohnen-in-feldkirchen/defekte-strassenbeleuchtung": {
+          "text": "Defekte Straßenbeleuchtung"
+        },
+        "https://www.feldkirchen.de/bauen": {
+          "text": "Bauen"
+        },
+        "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt": {
+          "text": "Nachrichten aus dem Bauamt"
+        },
+        "https://www.feldkirchen.de/bauen/bebauungsplaene": {
+          "text": "Bebauungspläne"
+        },
+        "https://www.feldkirchen.de/bauen/bebauungsplaene/oeffentliche-auslegung": {
+          "text": "Öffentliche Auslegung"
+        },
+        "https://www.feldkirchen.de/bauen/gemeindliche-wohnungen": {
+          "text": "Gemeindliche Wohnungen"
+        },
+        "https://www.feldkirchen.de/bauen/foerderprogramme": {
+          "text": "Förderprogramme"
+        },
+        "https://www.feldkirchen.de/bauen/bauprojekte": {
+          "text": "Projektideen vorgestellt"
+        },
+        "https://www.feldkirchen.de/bauen/bauprojekte/ortsentwicklungskonzept": {
+          "text": "Ortsentwicklungskonzept"
+        },
+        "https://www.feldkirchen.de/bauen/bauprojekte/umbau-sanierung-kindergarten-sankt-jakob": {
+          "text": "Umbau & Sanierung Kindergarten Sankt Jakob"
+        },
+        "https://www.feldkirchen.de/bauen/glasfaser": {
+          "text": "Glasfaser"
+        },
+        "https://www.feldkirchen.de/umwelt": {
+          "text": "Umwelt"
+        },
+        "https://www.feldkirchen.de/umwelt/abfallwirtschaft": {
+          "text": "Abfallwirtschaft"
+        },
+        "https://www.feldkirchen.de/umwelt/gruenordnung-umweltschutz": {
+          "text": "Grünordnung & Umweltschutz"
+        },
+        "https://www.feldkirchen.de/umwelt/gruenordnung-umweltschutz/baumschutzverordnung": {
+          "text": "Baumschutzverordnung"
+        },
+        "https://www.feldkirchen.de/umwelt/gruenordnung-umweltschutz/biotopkartierungen": {
+          "text": "Biotopkartierungen"
+        },
+        "https://www.feldkirchen.de/umwelt/gruenordnung-umweltschutz/bienenfreundliche-kommune": {
+          "text": "Bienenfreundliche Kommune"
+        },
+        "https://www.feldkirchen.de/umwelt/foerderprogramme-umwelt": {
+          "text": "Förderprogramme Umwelt"
+        },
+        "https://www.feldkirchen.de/umwelt/mobilitaet-verkehrswende": {
+          "text": "Mobilität & Verkehrswende"
+        },
+        "https://www.feldkirchen.de/umwelt/mobilitaet-verkehrswende/rund-ums-rad": {
+          "text": "Rund ums Rad"
+        },
+        "https://www.feldkirchen.de/umwelt/mobilitaet-verkehrswende/rund-ums-auto": {
+          "text": "Rund ums Auto"
+        },
+        "https://www.feldkirchen.de/umwelt/mobilitaet-verkehrswende/rund-um-den-oepnv": {
+          "text": "Rund um den ÖPNV"
+        },
+        "https://www.feldkirchen.de/umwelt/klimaschutz": {
+          "text": "Klimaschutz"
+        },
+        "https://www.feldkirchen.de/umwelt/klimaschutz/klimaschutzerklaerung-und-treibhausgasbericht": {
+          "text": "Klimaschutzerklärung und Treibhausgasbericht"
+        },
+        "https://www.feldkirchen.de/umwelt/klimaschutz/klimafolgenanpassungskonzept": {
+          "text": "Klimafolgenanpassungskonzept"
+        },
+        "https://www.feldkirchen.de/umwelt/klimaschutz/keen-kommunales-energieeffizienz-netzwerk-ebersberg-muenchen": {
+          "text": "Klimaschutznetzwerk Ebersberg-München"
+        },
+        "https://www.feldkirchen.de/umwelt/klimaschutz/kommunale-waermeplanung": {
+          "text": "Kommunale Wärmeplanung"
+        },
+        "https://www.feldkirchen.de/service/krise-katastrophe": {
+          "text": "Krise & Katastrophe"
+        },
+        "https://www.feldkirchen.de/account/login?uri=https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt/neues-parkraumkonzept-in-feldkirchen": {
+          "text": "Login"
+        },
+        "https://www.feldkirchen.de/_Resources/Persistent/d/3/d/e/d3dee38ce3c4a9ad01384ca6ed314a2a8f8bcc12/2026%20Parkraumkonzept%20gem%20GR-Beschluss.pdf": {
+          "text": "(1,40 MB) \n\t\t\t\t\t\t\t\t 2026 Parkraumkonzept gem GR-Beschluss.pdf"
+        },
+        "https://www.feldkirchen.de/service/inhaltsverzeichnis": {
+          "text": "Inhaltsverzeichnis"
+        },
+        "https://www.feldkirchen.de/service/impressum": {
+          "text": "Impressum"
+        },
+        "https://www.feldkirchen.de/service/datenschutzerklaerung": {
+          "text": "Datenschutzerklärung"
+        },
+        "https://www.feldkirchen.de/service/barrierefreiheit": {
+          "text": "Erklärung zur Barrierefreiheit"
+        },
+        "https://www.feldkirchen.de/service/kontakt": {
+          "text": "Alle Kontaktdaten"
+        }
+      },
+      "documents": {
+        "https://www.feldkirchen.de/_Resources/Persistent/d/3/d/e/d3dee38ce3c4a9ad01384ca6ed314a2a8f8bcc12/2026%20Parkraumkonzept%20gem%20GR-Beschluss.pdf": {
+          "final_url": "https://www.feldkirchen.de/_Resources/Persistent/d/3/d/e/d3dee38ce3c4a9ad01384ca6ed314a2a8f8bcc12/2026%20Parkraumkonzept%20gem%20GR-Beschluss.pdf",
+          "content_type": "application/pdf",
+          "bytes": 1472041,
+          "sha256": "4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
+          "checked_at": "2026-09-10T20:50:59+00:00"
+        }
+      },
+      "error": null
+    },
+    "landkreis-muenchen": {
+      "name": "Landkreis München",
+      "url": "https://www.landkreis-muenchen.de/",
+      "priority": "mandatory",
+      "last_success_at": "2026-09-10T20:51:00+00:00",
+      "final_url": "https://www.landkreis-muenchen.de/",
+      "content_type": "text/html; charset=utf-8",
+      "page_sha256": "e1a5f36750fd60d0705bf4d54767aeba71c84ae4760b89cc005aec4315cb6303",
+      "page_changed": false,
+      "first_seen": true,
+      "links": {
+        "https://www.landkreis-muenchen.de/": {
+          "text": ""
+        },
+        "https://www.landkreis-muenchen.de/leichte-sprache/": {
+          "text": "Leichte Sprache"
+        },
+        "https://www.landkreis-muenchen.de/kontakt/": {
+          "text": "Kontakt"
+        },
+        "https://www.landkreis-muenchen.de/buergerservice/": {
+          "text": "Bürgerservice"
+        },
+        "https://www.landkreis-muenchen.de/buergerservice/anmeldung-fuer-online-services/": {
+          "text": "Anmeldung für Online-Services"
+        },
+        "https://www.landkreis-muenchen.de/landratsamt/elektronische-kommunikation/daten-sicher-uebermitteln-mit-cryptshare/": {
+          "text": "Daten sicher übermitteln mit Cryptshare"
+        },
+        "https://www.landkreis-muenchen.de/buergerservice/dienstleistungen/": {
+          "text": "Dienstleistungen"
+        },
+        "https://www.landkreis-muenchen.de/buergerservice/online-terminvereinbarung/": {
+          "text": "Online-Terminvereinbarung"
+        },
+        "https://www.landkreis-muenchen.de/themen/": {
+          "text": "Themen"
+        },
+        "https://www.landkreis-muenchen.de/themen/arbeit-gewerbe-jobcenter/": {
+          "text": "Arbeit, Gewerbe & Jobcenter"
+        },
+        "https://www.landkreis-muenchen.de/themen/auslaenderrecht-integration/": {
+          "text": "Ausländerrecht & Integration"
+        },
+        "https://www.landkreis-muenchen.de/themen/bauen-wohnen/": {
+          "text": "Bauen & Wohnen"
+        },
+        "https://www.landkreis-muenchen.de/themen/buergerschaftliches-engagement/": {
+          "text": "Bürgerschaftliches Engagement"
+        },
+        "https://www.landkreis-muenchen.de/themen/energie-klimaschutz/": {
+          "text": "Energie & Klimaschutz"
+        },
+        "https://www.landkreis-muenchen.de/themen/familie-soziales/": {
+          "text": "Familie & Soziales"
+        },
+        "https://www.landkreis-muenchen.de/themen/freizeit-kultur-sport/": {
+          "text": "Freizeit, Kultur & Sport"
+        },
+        "https://www.landkreis-muenchen.de/themen/inklusion/": {
+          "text": "Inklusion"
+        },
+        "https://www.landkreis-muenchen.de/themen/mobilitaet/": {
+          "text": "Mobilität"
+        },
+        "https://www.landkreis-muenchen.de/themen/oeffentliche-sicherheit-ordnung/": {
+          "text": "Öffentliche Sicherheit & Ordnung"
+        },
+        "https://www.landkreis-muenchen.de/themen/schule-bildung-beruf/": {
+          "text": "Schule, Bildung & Beruf"
+        },
+        "https://www.landkreis-muenchen.de/themen/tiere-veterinaeramt/": {
+          "text": "Tiere & Veterinäramt"
+        },
+        "https://www.landkreis-muenchen.de/themen/umwelt/": {
+          "text": "Umwelt"
+        },
+        "https://www.landkreis-muenchen.de/themen/verbraucherschutz-gesundheit/": {
+          "text": "Verbraucherschutz & Gesundheit"
+        },
+        "https://www.landkreis-muenchen.de/themen/wirtschaft-wissenschaft/": {
+          "text": "Wirtschaft & Wissenschaft"
+        },
+        "https://www.landkreis-muenchen.de/landkreis/": {
+          "text": "Landkreis"
+        },
+        "https://www.landkreis-muenchen.de/landkreis/daten-und-fakten/": {
+          "text": "Daten und Fakten"
+        },
+        "https://www.landkreis-muenchen.de/landkreis/gemeinden-und-staedte/": {
+          "text": "Gemeinden und Städte"
+        },
+        "https://www.landkreis-muenchen.de/landkreis/kreistag-und-kreisorgane/": {
+          "text": "Kreistag und Kreisorgane"
+        },
+        "https://www.landkreis-muenchen.de/landkreis/partnerlandkreise/": {
+          "text": "Partnerlandkreise"
+        },
+        "https://www.landkreis-muenchen.de/landkreis/partnerschaften-in-den-landkreiskommunen/": {
+          "text": "Partnerschaften in den Landkreiskommunen"
+        },
+        "https://www.landkreis-muenchen.de/landkreis/wahlen/": {
+          "text": "Wahlen"
+        },
+        "https://www.landkreis-muenchen.de/landkreis/wappen/": {
+          "text": "Wappen"
+        },
+        "https://www.landkreis-muenchen.de/landkreis/wichtige-telefonnummern/": {
+          "text": "Wichtige Telefonnummern"
+        },
+        "https://www.landkreis-muenchen.de/zensus-2022/": {
+          "text": "Zensus 2022"
+        },
+        "https://www.landkreis-muenchen.de/landratsamt/": {
+          "text": "Landratsamt"
+        },
+        "https://www.landkreis-muenchen.de/landratsamt/audit-berufundfamilie/": {
+          "text": "Audit berufundfamilie"
+        },
+        "https://www.landkreis-muenchen.de/landratsamt/zukunftsfest-unser-arbeitgeberguetesiegel/": {
+          "text": "Zukunftsfest: Unser Arbeitgebergütesiegel"
+        },
+        "https://www.landkreis-muenchen.de/landratsamt/aufgaben-und-organisation/": {
+          "text": "Aufgaben und Organisation"
+        },
+        "https://www.landkreis-muenchen.de/landratsamt/ausschreibungen/": {
+          "text": "Ausschreibungen"
+        },
+        "https://www.landkreis-muenchen.de/landratsamt/bankverbindung/": {
+          "text": "Bankverbindung"
+        },
+        "https://www.landkreis-muenchen.de/landratsamt/elektronische-kommunikation/": {
+          "text": "Elektronische Kommunikation"
+        },
+        "https://www.landkreis-muenchen.de/landratsamt/ideen-kritik-und-beschwerden/": {
+          "text": "Ideen, Kritik und Beschwerden"
+        },
+        "https://www.landkreis-muenchen.de/landratsamt/landrat-christoph-goebel/": {
+          "text": "Landrat Christoph Göbel"
+        },
+        "https://www.landkreis-muenchen.de/landratsamt/leitbild/": {
+          "text": "Leitbild"
+        },
+        "https://www.landkreis-muenchen.de/landratsamt/organigramm/": {
+          "text": "Organigramm"
+        },
+        "https://www.landkreis-muenchen.de/landratsamt/pressestelle/": {
+          "text": "Pressestelle"
+        },
+        "https://www.landkreis-muenchen.de/landratsamt/standorte/": {
+          "text": "Standorte"
+        },
+        "https://www.landkreis-muenchen.de/landratsamt/veroeffentlichungen/": {
+          "text": "Veröffentlichungen"
+        },
+        "https://www.landkreis-muenchen.de/landratsamt/internes-umweltmanagement/umweltleitlinien/": {
+          "text": "Umweltleitlinien"
+        },
+        "https://www.landkreis-muenchen.de/landratsamt/mittagessen-im-landratsamt/": {
+          "text": "Mittagessen im Landratsamt"
+        },
+        "https://www.landkreis-muenchen.de/themen/mobilitaet/kfz-zulassung/": {
+          "text": "Kfz-Zulassung"
+        },
+        "https://www.landkreis-muenchen.de/themen/mobilitaet/fuehrerschein/": {
+          "text": "Führerschein"
+        },
+        "https://www.landkreis-muenchen.de/themen/arbeit-gewerbe-jobcenter/jobcenter/": {
+          "text": "Jobcenter"
+        },
+        "https://www.landkreis-muenchen.de/artikel/neue-inhalte-im-familienportal/": {
+          "text": "Leben mit Familie"
+        },
+        "https://www.landkreis-muenchen.de/buergerservice/dienstleistungen-a-z/dienstleistung/interventionsstelle-landkreis-muenchen-ilm/": {
+          "text": "Hilfe bei häuslicher Gewalt"
+        },
+        "https://www.landkreis-muenchen.de/themen/freizeit-kultur-sport/kultur/kulturvereinigung-im-landkreis-muenchen/": {
+          "text": "Kultur"
+        },
+        "https://www.landkreis-muenchen.de/artikel/eingeschraenkte-erreichbarkeit-des-landratsamts-1/": {
+          "text": ""
+        },
+        "https://www.landkreis-muenchen.de/artikel/amtsblatt-nr-29-2026/": {
+          "text": ""
+        },
+        "https://www.landkreis-muenchen.de/artikel/presseinformation-zum-schuljahresbeginn-2026-27/": {
+          "text": ""
+        },
+        "https://www.landkreis-muenchen.de/artikel/interventionsstelle-ist-umgezogen/": {
+          "text": ""
+        },
+        "https://www.landkreis-muenchen.de/artikel/aussensprechstunde-fuer-werdende-eltern/": {
+          "text": ""
+        },
+        "https://www.landkreis-muenchen.de/artikel/einladung-zur-ausstellung-licht-ins-moor-in-oberschleissheim/": {
+          "text": ""
+        },
+        "https://www.landkreis-muenchen.de/artikel/woche-der-klimaanpassung-laedt-zum-mitmachen-ein/": {
+          "text": ""
+        },
+        "https://www.landkreis-muenchen.de/artikel/unterschleissheim-sanierung-von-asylunterkunft-abgeschlossen/": {
+          "text": ""
+        },
+        "https://www.landkreis-muenchen.de/artikel/amtsblatt-28-2026/": {
+          "text": ""
+        },
+        "https://www.landkreis-muenchen.de/artikel/bundesweiter-warntag-am-10-september-2026/": {
+          "text": ""
+        },
+        "https://www.landkreis-muenchen.de/artikel/amtsblatt-27-2026/": {
+          "text": ""
+        },
+        "https://www.landkreis-muenchen.de/artikel/21-nachwuchskraefte-starten-ausbildung-oder-studium-beim-landkreis-muenchen/": {
+          "text": ""
+        },
+        "https://www.landkreis-muenchen.de/list/1/": {
+          "text": "1"
+        },
+        "https://www.landkreis-muenchen.de/list/2/": {
+          "text": "2"
+        },
+        "https://www.landkreis-muenchen.de/list/3/": {
+          "text": "3"
+        },
+        "https://www.landkreis-muenchen.de/nachrichten/": {
+          "text": "Alle Nachrichten"
+        },
+        "https://www.landkreis-muenchen.de/artikel/a9-muenchen-nuernberg-as-muenchen-freimann-as-garching-sued/": {
+          "text": "A9 München – Nürnberg, AS München-Freimann, AS Garching-Süd Fahrbahnsanierungen"
+        },
+        "https://www.landkreis-muenchen.de/artikel/bundesstrasse-304-fahrbahnsanierung-und-laermsanierung-in-der-ortsdurchfahrt-haar-zwischen-der-landkreisgrenze-und-der-b-471-unter-abschnittsweiser-vollsperrung/": {
+          "text": "Bundesstraße 304: Fahrbahnsanierung und Lärmsanierung in der Ortsdurchfahrt Haar zwischen der Landkreisgrenze und der B 471 unter abschnittsweiser Vollsperrung vrsl. bis Mitte November 2026"
+        },
+        "https://www.landkreis-muenchen.de/artikel/a995-muenchen-giesing-autobahnkreuz-muenchen-sued-erneuerung-des-fahrbahnbelags/": {
+          "text": "Autobahn A995 München Giesing – Autobahnkreuz München-Süd: Streckenöffnung ab 1. September Streckenarbeiten nahezu abgeschlossen"
+        },
+        "https://www.landkreis-muenchen.de/artikel/vollsperrung-st-2344-muenchner-strasse-zwischen-kettelerstrasse-und-fuerstenrieder-strasse-in-planegg/": {
+          "text": "Vollsperrung St 2344 (Münchner Straße) zwischen Kettelerstraße und Fürstenrieder Straße in Planegg"
+        },
+        "https://www.landkreis-muenchen.de/artikel/staatsstrasse-2079-fahrbahnerneuerung-zwischen-muenchen-und-putzbrunn-unter-abschnittsweiser-vollsperrung/": {
+          "text": "Staatsstraße 2079: Fahrbahnerneuerung zwischen München  und Putzbrunn unter abschnittsweiser Vollsperrung - Beginn des dritten Bauabschnitts"
+        },
+        "https://www.landkreis-muenchen.de/artikel/bauarbeiten-an-der-kreuzung-bahnhofstrasse-starten-am-3-august-bis-vrsl-14-september/": {
+          "text": "Bauarbeiten an der Kreuzung Bahnhofstraße starten am 3. August bis vrsl. 14. September"
+        },
+        "https://www.landkreis-muenchen.de/artikel/a99-autobahnring-b304-ersatzneubau-der-bruecke-an-der-anschlussstelle-haar-1/": {
+          "text": "A99 Autobahnring/B304: Ersatzneubau der Brücke an der Anschlussstelle Haar"
+        },
+        "https://www.landkreis-muenchen.de/artikel/st-2088-vierstreifiger-ausbau-des-foehringer-rings-verlaengerung-der-vollsperrung-bis-zum-12-august-2026/": {
+          "text": "St 2088: Vierstreifiger Ausbau des Föhringer Rings – Voll-sperrung wird vorzeitig am Wochenende aufgehoben"
+        },
+        "https://www.landkreis-muenchen.de/artikel/geaenderte-verkehrsfuehrung-am-foehringer-ring/": {
+          "text": "Geänderte Verkehrsführung am Föhringer Ring"
+        },
+        "https://www.landkreis-muenchen.de/artikel/vollsperrung-der-oberbiberger-strasse-in-altkirchen-gemeinde-sauerlach/": {
+          "text": "Vollsperrung der Oberbiberger Straße in Altkirchen (Gemeinde Sauerlach)"
+        },
+        "https://www.landkreis-muenchen.de/themen/oeffentliche-sicherheit-ordnung/katastrophenschutz-und-feuerwehr/bevoelkerungsschutztag/": {
+          "text": "Bevölkerungsschutztag 2026"
+        },
+        "https://www.landkreis-muenchen.de/themen/mobilitaet/kfz-zulassung/online-zulassungsbehoerde/": {
+          "text": "Auto einfach online an- oder ummelden"
+        },
+        "https://www.landkreis-muenchen.de/themen/wirtschaft-wissenschaft/fachkraeftesicherung/": {
+          "text": "Für Unternehmen: Quick-Check für den Aufenthalt ausländischer Fachkräfte"
+        },
+        "https://www.landkreis-muenchen.de/landkreis/wahlen/kommunalwahl/": {
+          "text": "Kommunalwahlen 2026"
+        },
+        "https://www.landkreis-muenchen.de/themen/familie-soziales/nothilfefonds-im-landkreis-muenchen/": {
+          "text": "Nothilfefonds im Landkreis München"
+        },
+        "https://www.landkreis-muenchen.de/themen/energie-und-klimaschutz/klimaanpassung-im-landkreis-muenchen/": {
+          "text": ""
+        },
+        "https://www.landkreis-muenchen.de/service/interner-bereich/": {
+          "text": "Extranet"
+        },
+        "https://www.landkreis-muenchen.de/weitere-informationen/fragen-antworten/": {
+          "text": "Fragen & Antworten"
+        },
+        "https://www.landkreis-muenchen.de/weitere-informationen/uebersicht/": {
+          "text": "Seiten-Übersicht"
+        },
+        "https://www.landkreis-muenchen.de/weitere-informationen/barrierefreiheit/": {
+          "text": "Barrierefreiheit"
+        },
+        "https://www.landkreis-muenchen.de/weitere-informationen/datenschutzerklaerung/": {
+          "text": "Datenschutzerklärung"
+        },
+        "https://www.landkreis-muenchen.de/impressum/": {
+          "text": "Impressum"
+        }
+      },
+      "documents": {},
+      "error": null
+    },
+    "autobahn-gmbh-suedbayern": {
+      "name": "Autobahn GmbH – Südbayern",
+      "url": "https://www.autobahn.de/die-autobahn/niederlassungen/suedbayern",
+      "priority": "topic",
+      "last_attempt_at": "2026-09-10T20:51:01+00:00",
+      "error": "HTTPError: HTTP Error 404: Not Found"
+    },
+    "adfc-muenchen": {
+      "name": "ADFC München",
+      "url": "https://muenchen.adfc.de/",
+      "priority": "topic",
+      "last_success_at": "2026-09-10T20:51:02+00:00",
+      "final_url": "https://muenchen.adfc.de/",
+      "content_type": "text/html; charset=utf-8",
+      "page_sha256": "2524700e9c14be8e92cd1a70d80d57020b14053385427393484e5d1756c12cb1",
+      "page_changed": false,
+      "first_seen": true,
+      "links": {
+        "https://muenchen.adfc.de/sei-dabei": {
+          "text": "Spenden"
+        },
+        "https://muenchen.adfc.de/": {
+          "text": ""
+        },
+        "https://muenchen.adfc.de/aktuelles": {
+          "text": "Aktuelles"
+        },
+        "https://muenchen.adfc.de/fahr-rad": {
+          "text": "Fahr Rad"
+        },
+        "https://muenchen.adfc.de/politik": {
+          "text": "Politik"
+        },
+        "https://muenchen.adfc.de/service-angebote": {
+          "text": "Service-Angebote"
+        },
+        "https://muenchen.adfc.de/sternfahrt": {
+          "text": "Sternfahrt"
+        },
+        "https://muenchen.adfc.de/ueber-uns": {
+          "text": "ADFC München"
+        },
+        "https://muenchen.adfc.de/spenden": {
+          "text": "Spenden"
+        },
+        "https://muenchen.adfc.de/presse": {
+          "text": "Presse"
+        },
+        "https://muenchen.adfc.de/suche": {
+          "text": "Suche"
+        },
+        "https://muenchen.adfc.de/artikel/bikepacking-23": {
+          "text": ""
+        },
+        "https://muenchen.adfc.de/pressemitteilung/veranstaltungen-des-adfc-muenchen-im-september-2026": {
+          "text": ""
+        },
+        "https://muenchen.adfc.de/pressemitteilung/der-grosse-adfc-fahrradklima-test-2026-startet-heute-2": {
+          "text": ""
+        },
+        "https://muenchen.adfc.de/pressemitteilung/die-wuermtal-stahl-des-adfc-neuried-startet-in-die-zweite-runde": {
+          "text": ""
+        },
+        "https://muenchen.adfc.de/neuigkeit/radfahren-in-den-medien-anfang-september-2026": {
+          "text": ""
+        },
+        "https://muenchen.adfc.de/neuigkeit/so-schoen-war-der-fancy-cyclista-ride-2026": {
+          "text": ""
+        },
+        "https://muenchen.adfc.de/neuigkeit/wuermtal-stahl-2026": {
+          "text": ""
+        },
+        "https://muenchen.adfc.de/pressemitteilung/adfc-muenchen-gruendet-ortsgruppe-grasbrunn": {
+          "text": ""
+        },
+        "https://muenchen.adfc.de/neuigkeit/radfahren-in-den-medien-mitte-august-2026": {
+          "text": ""
+        },
+        "https://muenchen.adfc.de/pressemitteilung/veranstaltungen-des-adfc-muenchen-im-august-2026": {
+          "text": ""
+        },
+        "https://muenchen.adfc.de/aktuelles/neuigkeiten": {
+          "text": "zur Seite Neuigkeiten"
+        },
+        "https://muenchen.adfc.de/themen-a-z": {
+          "text": "Themen A-Z"
+        },
+        "https://muenchen.adfc.de/impressum": {
+          "text": "Impressum"
+        },
+        "https://muenchen.adfc.de/datenschutz": {
+          "text": "Datenschutz"
+        }
+      },
+      "documents": {},
+      "error": null
+    },
+    "bn-kreisgruppe-muenchen": {
+      "name": "BUND Naturschutz – Kreisgruppe München",
+      "url": "https://bn-muenchen.de/",
+      "priority": "topic",
+      "last_success_at": "2026-09-10T20:51:04+00:00",
+      "final_url": "https://bn-muenchen.de/",
+      "content_type": "text/html",
+      "page_sha256": "c9c228fa3294734a8b11eb9e7cfac3316ccb2db84afb1c80c6f0098e713d2e2e",
+      "page_changed": false,
+      "first_seen": true,
+      "links": {
+        "https://bn-muenchen.de/impressum.html": {
+          "text": "Impressum"
+        },
+        "https://bn-muenchen.de/datenschutzerklaerung.html": {
+          "text": "Datenschutzerklärung"
+        }
+      },
+      "documents": {},
+      "error": null
+    },
+    "bi-afk": {
+      "name": "BI-AFK",
+      "url": "https://www.bi-afk.de/",
+      "priority": "topic",
+      "last_success_at": "2026-09-10T20:51:07+00:00",
+      "final_url": "https://bi-afk.de/",
+      "content_type": "text/html; charset=UTF-8",
+      "page_sha256": "9bb75430e338b6f892a5bcc5780807481141ab974a0d1e45035b89bd139b1cf0",
+      "page_changed": false,
+      "first_seen": true,
+      "links": {
+        "https://bi-afk.de/": {
+          "text": ""
+        },
+        "https://bi-afk.de/aktuelles/": {
+          "text": "Aktuelles"
+        },
+        "https://bi-afk.de/fakten/": {
+          "text": "Fakten"
+        },
+        "https://bi-afk.de/preisvergleich/": {
+          "text": "Preisvergleich"
+        },
+        "https://bi-afk.de/chronologie/": {
+          "text": "Chronologie"
+        },
+        "https://bi-afk.de/presse-medien/": {
+          "text": "Presse / Medien"
+        },
+        "https://bi-afk.de/uber-uns/": {
+          "text": "Über uns"
+        },
+        "https://bi-afk.de/mitglied-werden/": {
+          "text": "Mitglied werden"
+        },
+        "https://bi-afk.de/jetzt-mitmachen/": {
+          "text": "Jetzt mitmachen"
+        },
+        "https://bi-afk.de/downloads/": {
+          "text": "Downloads"
+        },
+        "https://bi-afk.de/impressum/": {
+          "text": "Impressum"
+        },
+        "https://bi-afk.de/datenschutzerklarung/": {
+          "text": "Datenschutzerklärung"
+        },
+        "https://bi-afk.de/sz-2025-03-16/": {
+          "text": "SZ-2025-03-16"
+        },
+        "https://bi-afk.de/aktuelles/juli-2026-brief-an-die-sz/": {
+          "text": "Juli 2026 Brief an die SZ"
+        },
+        "https://bi-afk.de/aktuelles/juli-2026-regelmeeting/": {
+          "text": "Juli 2026 Regelmeeting"
+        },
+        "https://bi-afk.de/aktuelles/mai-2026-offener-brief/": {
+          "text": "Mai 2026 Offener Brief"
+        },
+        "https://bi-afk.de/aktuelles/mai-2026-flyer/": {
+          "text": "Mai 2026 Flyer"
+        },
+        "https://bi-afk.de/aktuelles/april-2026-verbraucherschutz/": {
+          "text": "April 2026 Verbraucherschutz"
+        },
+        "https://bi-afk.de/aktuelles/feb-2026-kartellamt/": {
+          "text": "Feb 2026 Kartellamt"
+        },
+        "https://bi-afk.de/aktuelles/feb-2026-widerspruch/": {
+          "text": "Feb 2026 Widerspruch"
+        },
+        "https://bi-afk.de/aktuelles/feb-2026-bilanz-2024/": {
+          "text": "Feb 2026 Bilanz 2024"
+        },
+        "https://bi-afk.de/aktuelles/jan-2026-die-g-wahrheit/": {
+          "text": "Jan 2026 Die g. Wahrheit"
+        },
+        "https://bi-afk.de/aktuelles/mai-2025-offener-brief/": {
+          "text": "Mai 2025 Offener Brief"
+        },
+        "https://spd-kirchheim-heimstetten.de/workspace/media/static/2024-10-21_antrag-geothermie-6717b0029ab9a.pdf": {
+          "text": "SPD Antrag in den Gemeinderäten AFK"
+        }
+      },
+      "documents": {
+        "https://spd-kirchheim-heimstetten.de/workspace/media/static/2024-10-21_antrag-geothermie-6717b0029ab9a.pdf": {
+          "final_url": "https://spd-kirchheim-heimstetten.de/workspace/media/static/2024-10-21_antrag-geothermie-6717b0029ab9a.pdf",
+          "content_type": "application/pdf",
+          "bytes": 149466,
+          "sha256": "f0ce9eb0a26c6e4bafbce93352128b32ede6a1a841c241d07be53c69c0f4b695",
+          "checked_at": "2026-09-10T20:51:07+00:00"
+        }
+      },
+      "error": null
+    }
+  },
+  "last_run_at": "2026-09-10T20:51:07+00:00"
 }
