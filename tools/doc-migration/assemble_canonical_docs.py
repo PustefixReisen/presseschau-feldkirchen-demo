@@ -11,7 +11,7 @@ DOCS = {
     "KI-Leitfaden_Homepage-Presseschau.md": [f"ki.{i:02d}.b64" for i in range(1, 10)],
     "Fachliche_Beschreibung_Homepage-Presseschau.md": [f"fach.{i:02d}.b64" for i in range(1, 3)],
     "Gruene_Werte_und_politische_Ziele.md": [f"werte.{i:02d}.b64" for i in range(1, 4)],
-    "Merkblatt_Wissenschaftlich-Politische_Sprache.md": [f"sprache.{i:02d}.b64" for i in range(1, 3)],
+    "Merkblatt_Wissenschaftlich-Politische_Sprache.md": [f"sprache.{i:02d}.b64" for i in range(1, 4)],
 }
 
 for name, parts in DOCS.items():
