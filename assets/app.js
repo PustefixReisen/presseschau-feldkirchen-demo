@@ -28,6 +28,7 @@
   await import('./source-basis-correction-20260907.js');
   await import('./update-20260908.js');
   await import('./update-20260910.js');
+  await import('./quality-revision-20260910.js');
   await import('./image-features.js');
   await import('./source-image-correction-20260907.js');
   await import('./search-dynamic.js');
