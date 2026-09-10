@@ -2,6 +2,12 @@ name: FIB source monitor
 
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/source-monitor.yml'
+      - 'config/source-monitor.json'
+      - 'tools/source-monitor/**'
   schedule:
     - cron: '17 4 * * *'
 
