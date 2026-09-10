@@ -19,7 +19,8 @@
       "priority": "mandatory",
       "follow_same_host": true,
       "match": [],
-      "document_extensions": [".pdf"]
+      "document_extensions": [".pdf"],
+      "emit_on_baseline": true
     },
     {
       "id": "landkreis-muenchen",
