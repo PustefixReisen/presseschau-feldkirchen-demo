@@ -1,0 +1,41 @@
+name: Assemble canonical FIB documentation
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '_migration_docs/READY'
+
+permissions:
+  contents: write
+
+jobs:
+  assemble:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Assemble canonical Markdown documents
+        run: python3 tools/doc-migration/assemble_canonical_docs.py
+
+      - name: Verify required documents
+        run: |
+          test -s docs/projektgrundlagen/KI-Leitfaden_Homepage-Presseschau.md
+          test -s docs/projektgrundlagen/Fachliche_Beschreibung_Homepage-Presseschau.md
+          test -s docs/projektgrundlagen/Gruene_Werte_und_politische_Ziele.md
+          test -s docs/projektgrundlagen/Merkblatt_Wissenschaftlich-Politische_Sprache.md
+          grep -q 'Version 1.6' docs/projektgrundlagen/KI-Leitfaden_Homepage-Presseschau.md
+          grep -q 'Version 0.5' docs/projektgrundlagen/Fachliche_Beschreibung_Homepage-Presseschau.md
+          grep -q 'Version.*0.3' docs/projektgrundlagen/Gruene_Werte_und_politische_Ziele.md
+          grep -q 'Version 1.0' docs/projektgrundlagen/Merkblatt_Wissenschaftlich-Politische_Sprache.md
+
+      - name: Commit canonical documentation and remove migration payload
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add docs/projektgrundlagen
+          git rm -r _migration_docs tools/doc-migration/assemble_canonical_docs.py .github/workflows/assemble-canonical-docs.yml
+          git commit -m 'Establish canonical FIB documentation in Markdown'
+          git push
