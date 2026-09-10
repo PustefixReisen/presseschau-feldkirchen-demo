@@ -1,0 +1,76 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": "feldkirchen-bauamt",
+      "name": "Gemeinde Feldkirchen – Nachrichten aus dem Bauamt",
+      "url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt",
+      "mode": "overview",
+      "priority": "mandatory",
+      "follow_same_host": true,
+      "match": ["/bauen/nachrichten-aus-dem-bauamt/"],
+      "document_extensions": [".pdf"]
+    },
+    {
+      "id": "feldkirchen-parkraum-2026",
+      "name": "Gemeinde Feldkirchen – Neues Parkraumkonzept",
+      "url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt/neues-parkraumkonzept-in-feldkirchen",
+      "mode": "page",
+      "priority": "mandatory",
+      "follow_same_host": true,
+      "match": [],
+      "document_extensions": [".pdf"],
+      "emit_on_baseline": true
+    },
+    {
+      "id": "landkreis-muenchen",
+      "name": "Landkreis München",
+      "url": "https://www.landkreis-muenchen.de/",
+      "mode": "overview",
+      "priority": "mandatory",
+      "follow_same_host": true,
+      "match": [],
+      "document_extensions": [".pdf"]
+    },
+    {
+      "id": "autobahn-gmbh-suedbayern",
+      "name": "Autobahn GmbH – Südbayern",
+      "url": "https://www.autobahn.de/die-autobahn/niederlassungen/suedbayern",
+      "mode": "overview",
+      "priority": "topic",
+      "follow_same_host": true,
+      "match": [],
+      "document_extensions": [".pdf"]
+    },
+    {
+      "id": "adfc-muenchen",
+      "name": "ADFC München",
+      "url": "https://muenchen.adfc.de/",
+      "mode": "overview",
+      "priority": "topic",
+      "follow_same_host": true,
+      "match": [],
+      "document_extensions": [".pdf"]
+    },
+    {
+      "id": "bn-kreisgruppe-muenchen",
+      "name": "BUND Naturschutz – Kreisgruppe München",
+      "url": "https://bn-muenchen.de/",
+      "mode": "overview",
+      "priority": "topic",
+      "follow_same_host": true,
+      "match": [],
+      "document_extensions": [".pdf"]
+    },
+    {
+      "id": "bi-afk",
+      "name": "BI-AFK",
+      "url": "https://www.bi-afk.de/",
+      "mode": "overview",
+      "priority": "topic",
+      "follow_same_host": true,
+      "match": [],
+      "document_extensions": [".pdf"]
+    }
+  ]
+}
