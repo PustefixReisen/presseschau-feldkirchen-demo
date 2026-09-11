@@ -4,13 +4,14 @@
 
 | Version | Stand | Verantwortlich |
 |---|---|---|
-| 0.1 | 10.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
+| 0.2 | 11.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
 
 ## Änderungshistorie
 
 | Version | Datum | Änderung |
 |---|---|---|
 | 0.1 | 10.09.2026 | Audit begonnen; Sicherungs- und Konsolidierungsverfahren sowie erste Entscheidungsbereiche festgelegt |
+| 0.2 | 11.09.2026 | Projektübergreifenden Dokumentationsstandard als verbindliche Auditregel präzisiert; D023 und D024 fortgeschrieben |
 
 ## 1. Zweck
 
@@ -31,6 +32,8 @@ Eine Festlegung gilt im Audit erst als gesichert, wenn mindestens eines der folg
 3. Datenstruktur in reproduzierbarer Datenbankmigration plus Datenmodelldokumentation,
 4. Betriebsentscheidung in Installations-/Betriebs-/Administrationsdokumentation,
 5. bewusste offene Entscheidung mit Status, Kontext und nächstem Entscheidungspunkt.
+
+**Projektübergreifende Definition of Done:** Eine fachliche oder technische Entscheidung gilt erst als abgeschlossen, wenn Umsetzung und persistente Dokumentation nachgeführt sind. Chat-/KI-Gedächtnis ist keine kanonische Projektquelle. Bei jeder Änderung sind die betroffenen Bereiche Fachkonzept, Architektur, Datenmodell/Migrationen, Konfiguration/Secrets, Installation, Tests, Deployment, Backup/Restore und Administration mitzudenken; betroffene Lücken werden nachgeführt oder ausdrücklich als offen dokumentiert.
 
 ## 3. Zu prüfende Quellen
 
@@ -72,8 +75,8 @@ Statuswerte: `gesichert`, `teilweise`, `fehlt`, `offen`, `zu prüfen`.
 | D020 | Teilen/Drucken-PDF/Benachrichtigungen und Social-Media-Metadaten | Demonstrator/Projektentscheidungen | Frontend + Betrieb | zu prüfen |
 | D021 | Sunflower/WordPress-Integration bei Erhalt FIB-spezifischer Funktionen | Frontend | Architektur + Frontend | gesichert |
 | D022 | Echtbetriebsarchitektur mit Supabase, Redaktions-Web-App, GitHub Actions, austauschbaren KI-/RAG-Diensten | Architektur | Architektur | gesichert |
-| D023 | Dokumentlenkung mit Dokumentstand und Änderungshistorie | projektübergreifende Vereinbarung | alle kanonischen Dokumente | fehlt/umzusetzen |
-| D024 | GitHub als künftig führende Projektdokumentation; Chat/Projektbibliothek nicht als alleinige Wahrheit | Entscheidung 10.09.2026 | Dokumentationsstandard + README | offen bis Audit abgeschlossen |
+| D023 | Dokumentlenkung mit Dokumentstand und Änderungshistorie | Audit selbst nach Standard geführt; übrige kanonische Dokumente noch zu prüfen | alle kanonischen Dokumente | teilweise |
+| D024 | GitHub als künftig führende Projektdokumentation; Chat/Projektbibliothek nicht als alleinige Wahrheit | Auditregel und Definition of Done auf Arbeitsbranch persistent festgelegt | Dokumentationsstandard + README | teilweise; endgültige Kanonisierung erst nach Audit |
 | D025 | Reproduzierbarkeit: Installation, Konfiguration, DB-Migrationen, Backup/Restore, Administration, Deployment | Übergang Echtbetrieb | Betriebs-/Entwicklerdokumentation | fehlt/aufzubauen |
 
 ## 5. Prüfschritte
