@@ -1,6 +1,6 @@
 # FIB – Frontend und Darstellung
 
-**Stand:** 02.09.2026  
+**Stand:** 11.09.2026  
 **Status:** verbindlicher Arbeitsstand für Demonstrator; Zielbild für öffentliche FIB-Darstellung
 
 ## 1. Zweck
@@ -129,16 +129,36 @@ Aktueller Demonstrator:
 
 Neue Funktionen sollen möglichst modular ergänzt werden, damit die große statische `index.html` nicht für jede Darstellungsänderung neu geschrieben werden muss.
 
-## 10. Bildzuordnung
+## 10. Bildimport und Bildzuordnung
 
-Die Bildbibliothek ist die fachliche Quelle für verfügbare Motive. Bei jedem FIB-Update wird geprüft:
+Die Bildbibliothek ist die fachliche Quelle für verfügbare Motive. Die Zuordnung eines Bildes zu einem FIB-Beitrag oder Thema wird bereits beim Bildimport soweit wie möglich vorbereitet und später bei jeder konkreten Verwendung erneut geprüft.
 
-1. konkretes Bild des behandelten Orts/Gegenstands,
-2. direkter örtlicher Zusammenhang,
-3. passendes lokales Themenmotiv,
-4. andernfalls kein Bild.
+Für die Zuordnung gilt verbindlich:
 
-Die konkrete Zuordnung im Demonstrator erfolgt derzeit über JavaScript-Konfiguration. Im Echtbetrieb soll sie aus dem strukturierten FIB-Datenbestand erzeugt werden.
+1. **Explizite Zuordnung hat Vorrang.** Wenn bekannt ist, dass ein Bild genau einen bestimmten Vorgang, Ort oder ein bestimmtes Projekt zeigt, wird diese konkrete Zuordnung als primäre Verwendung gespeichert.
+2. **Projekt-/Objektidentität vor allgemeinem Themenbezug.** Ein Bild eines konkreten Projekts wird zuerst dem Beitrag zu diesem Projekt zugeordnet und nicht nur einem allgemeineren Thema derselben Kategorie.
+3. **Beiträge werden strenger bebildert als Themen.** Bei Beiträgen muss das Bild den konkreten Vorgang, Ort oder Gegenstand zeigen. Bei längerfristigen Themen darf ein Bild einen zentralen Aspekt des Themas abbilden.
+4. **Konkreter Orts-/Sachbezug vor generischem Motiv.** Ein nur ungefähr passendes oder rein symbolisches Bild wird nicht verwendet. Kein Bild ist besser als ein sachlich falsches oder missverständliches Bild.
+5. **Mehrfachverwendung ist möglich**, wenn jede einzelne Zuordnung fachlich belastbar ist. Eine primäre Zuordnung bleibt davon unberührt.
+6. **Ausschlüsse werden berücksichtigt.** Wenn ein Bild leicht mit einem anderen Projekt oder Vorgang verwechselt werden kann, kann ausdrücklich festgelegt werden, wofür es nicht verwendet werden soll.
+7. **Veröffentlichungsvoraussetzungen bleiben zwingend:** geklärte Rechte, geeigneter Alt-Text, sachliche Bildunterschrift, Datenschutz sowie Prüfung zeitabhängiger Angaben.
+
+### 10.1 Angaben beim Bildimport
+
+Beim Bildimport werden nach Möglichkeit zusätzlich zu den technischen und rechtlichen Angaben folgende Felder erfasst:
+
+- **Primärzuordnung:** konkreter Beitrag, Vorgang, Ort oder Projekt; vorhandene FIB-ID wird ergänzt, wenn sie ermittelt werden kann.
+- **Weitere geeignete Verwendung:** zusätzliche Themen oder Beiträge, für die das Motiv ebenfalls sachlich passt.
+- **Nicht verwenden für:** Ausschlüsse bei Verwechslungsgefahr oder unpassenden nahe liegenden Zuordnungen.
+- **Schlagworte:** allgemeine Such- und Vorschlagshilfen für spätere FIB-Updates.
+
+Der Nutzer muss dabei keine internen FIB-IDs kennen. Hinweise in normaler Sprache wie „Das Bild zeigt genau das Projekt aus dem Beitrag über die 166 Eigentumswohnungen“ oder „nicht für das betreute Wohnen verwenden“ reichen aus. Die KI ermittelt daraus, soweit eindeutig möglich, die passende bestehende Beitrags- oder Themen-ID und übernimmt sie in die strukturierte Zuordnung.
+
+Wenn aus Bild und Kontext bereits eindeutig hervorgeht, welcher konkrete FIB-Beitrag oder welches Projekt gemeint ist, soll die KI die Primärzuordnung selbst vorschlagen beziehungsweise festlegen. Nur bei verbleibender Mehrdeutigkeit wird gezielt nachgefragt.
+
+### 10.2 Technische Umsetzung
+
+Die konkrete Zuordnung im Demonstrator erfolgt derzeit über JavaScript-Konfiguration. Im Echtbetrieb soll sie aus dem strukturierten FIB-Datenbestand erzeugt werden. Explizite redaktionelle Zuordnungen müssen dabei Vorrang vor automatischen Text- oder Schlagwortregeln haben.
 
 ## 11. Sunflower und Echtbetrieb
 
