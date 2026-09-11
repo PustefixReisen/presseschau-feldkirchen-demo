@@ -1,5 +1,5 @@
-(function enhanceGreenVillageTopic(){
-  const card=document.getElementById('T009');
+(function enhanceGreenVillageContribution(){
+  const card=document.getElementById('R047');
   if(!card || card.querySelector('.teaser-with-image')) return;
 
   const image={
