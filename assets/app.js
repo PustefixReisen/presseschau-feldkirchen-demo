@@ -30,6 +30,7 @@
   await import('./update-20260910.js');
   await import('./quality-revision-20260910.js');
   await import('./update-20260910-parkraum.js');
+  await import('./update-20260912.js');
   await import('./image-features.js');
   await import('./image-b047-green-village.js');
   await import('./source-image-correction-20260907.js');
