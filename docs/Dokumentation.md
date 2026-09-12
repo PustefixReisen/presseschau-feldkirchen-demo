@@ -4,7 +4,7 @@
 
 | Version | Stand | Verantwortlich |
 |---|---|---|
-| 1.0 | 12.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
+| 1.1 | 12.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
 
 ## Zweck
 
@@ -24,23 +24,27 @@ Diese Regeln gelten unabhängig davon, dass FIB nicht zwingend auf der pustivo-P
 | Frontend und Darstellung | `docs/FIB_Frontend_und_Darstellung.md` | UI-/Darstellungsregeln des Demonstrators |
 | Quellenmonitor – Fachfunktion | `docs/FIB-Quellenmonitor.md` | fachliche Funktionsbeschreibung |
 | Quellenmonitor – Architektur | `docs/FIB-Quellenmonitor-Architektur.md` | technische Architektur des Quellenmonitors |
-| Projektfortschritt / nächster Schritt | `docs/Roadmap.md` | neu als aktives Steuerungsdokument |
+| Projektfortschritt / nächster Schritt | `docs/Roadmap.md` | aktives Steuerungsdokument |
+| Auditstatus | `docs/audits/2026-09-12-bestandsaudit.md` | dokumentiert Lücken und Folgearbeiten |
 | Arbeitsregeln für KI-/Entwicklungsarbeit | `AGENTS.md` | lokale Ergänzung zur zentralen Governance |
 
-## Erkannte Dokumentationslücken
+## Noch nicht vollständig belegte Primärquellen
 
-Im aktuellen Repository fehlen beziehungsweise sind nicht eindeutig als primäre GitHub-Quellen vorhanden:
+Der Bestandsaudit hat bestätigt, dass folgende Bereiche noch keine vollständige kanonische Quelle im Repository besitzen:
 
-- ein vollständiges fachliches Gesamt-/Produktkonzept des FIB,
-- eine eindeutige Architektur- und Betriebsbeschreibung für einen späteren Echtbetrieb,
-- eine zusammengeführte Beschreibung von Referenzwissen, politischer Einordnung und Sprachregeln, soweit diese für die redaktionelle Produktion verbindlich sind,
-- Backup-/Restore-, Deployment- und Administrationsregeln für den späteren Echtbetrieb.
+- fachliche Gesamt-/Produktbeschreibung des FIB,
+- vollständige Zuordnung von Referenzwissen, politischer Einordnung und Sprachregeln,
+- Echtbetriebsarchitektur einschließlich Datenhaltung, Workflow, Sicherheit, Deployment, Backup/Restore und Administration.
 
-Diese Punkte sind **Dokumentationsschuld** und werden im Bestandsaudit konkretisiert. Externe oder lokal vorhandene Dokumente müssen vor einem produktiven Echtbetrieb entweder als verbindliche GitHub-Quelle übernommen oder eindeutig referenziert werden.
+Diese Lücken werden über **Issue #11** und **Issue #12** geschlossen.
+
+Bis dahin darf weder der KI-Leitfaden noch ein Demonstrator-Dokument stillschweigend als vollständiger Ersatz für diese noch fehlenden Primärquellen behandelt werden.
 
 ## Repository-Rolle
 
-Dieses Repository ist derzeit der **Demonstrator**. Entscheidungen für einen späteren Echtbetrieb dürfen nicht stillschweigend als bereits implementierter Demonstrator-Stand dargestellt werden. Falls der Echtbetrieb ein eigenes Repository erhält, bekommt dieses eine eigene Dokumentationslandkarte und verweist auf gemeinsam genutzte zentrale Standards.
+Dieses Repository ist derzeit der **Demonstrator**. Entscheidungen für einen späteren Echtbetrieb dürfen nicht stillschweigend als bereits implementierter Demonstrator-Stand dargestellt werden.
+
+Im Rahmen von Issue #12 wird verbindlich entschieden, ob dieses Repository in den Echtbetrieb überführt wird oder ein separates Produktivrepository entsteht. Ein separates Repository erhält eine eigene Dokumentationslandkarte und referenziert gemeinsame Primärquellen ohne konkurrierende Kopien.
 
 ## Konfliktregel
 
@@ -50,4 +54,5 @@ Ein Sachverhalt wird nur in seiner Primärquelle verbindlich festgelegt. Andere 
 
 | Version | Datum | Änderung |
 |---|---|---|
+| 1.1 | 12.09.2026 | Auditstatus, offene Primärquellen und Folge-Issues #11/#12 verankert; Repository-Grenze zum Echtbetrieb präzisiert |
 | 1.0 | 12.09.2026 | Dokumentationslandkarte, Governance-Verknüpfung, Primärquellen und Dokumentationsschuld eingeführt |
