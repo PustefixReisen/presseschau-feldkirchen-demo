@@ -5,7 +5,7 @@
       "name": "Gemeinde Feldkirchen – Nachrichten aus dem Bauamt",
       "url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt",
       "priority": "mandatory",
-      "last_success_at": "2026-09-11T08:56:29+00:00",
+      "last_success_at": "2026-09-12T08:39:24+00:00",
       "final_url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt",
       "content_type": "text/html;charset=UTF-8",
       "page_sha256": "bb5445e2e2bd6da6b6779699bdf45c82c56a193f70501cf343d71545a86994d6",
@@ -26,7 +26,7 @@
       "name": "Gemeinde Feldkirchen – Neues Parkraumkonzept",
       "url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt/neues-parkraumkonzept-in-feldkirchen",
       "priority": "mandatory",
-      "last_success_at": "2026-09-11T08:56:33+00:00",
+      "last_success_at": "2026-09-12T08:39:28+00:00",
       "final_url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt/neues-parkraumkonzept-in-feldkirchen",
       "content_type": "text/html;charset=UTF-8",
       "page_sha256": "63449d52ad5330ab4723611bc9c4d6688cc1c9ccf62ee8220e71161aac1038ef",
@@ -445,7 +445,7 @@
           "content_type": "application/pdf",
           "bytes": 1472041,
           "sha256": "4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
-          "checked_at": "2026-09-11T08:56:33+00:00"
+          "checked_at": "2026-09-12T08:39:28+00:00"
         }
       },
       "error": null
@@ -454,10 +454,10 @@
       "name": "Landkreis München",
       "url": "https://www.landkreis-muenchen.de/",
       "priority": "mandatory",
-      "last_success_at": "2026-09-11T08:56:34+00:00",
+      "last_success_at": "2026-09-12T08:39:29+00:00",
       "final_url": "https://www.landkreis-muenchen.de/",
       "content_type": "text/html; charset=utf-8",
-      "page_sha256": "e771eff7e77c8efab54b6cae974319f500a145f0d5dac53637c6b2944a64bf48",
+      "page_sha256": "88b9a3ef17a3bfe3d03bc5c5fdf03c23aa2b5d12964c82d3358a73fc6ab5b53c",
       "page_changed": true,
       "first_seen": false,
       "links": {
@@ -686,9 +686,6 @@
         "https://www.landkreis-muenchen.de/artikel/a995-muenchen-giesing-autobahnkreuz-muenchen-sued-erneuerung-des-fahrbahnbelags/": {
           "text": "Autobahn A995 München Giesing – Autobahnkreuz München-Süd: Streckenöffnung ab 1. September Streckenarbeiten nahezu abgeschlossen"
         },
-        "https://www.landkreis-muenchen.de/artikel/vollsperrung-st-2344-muenchner-strasse-zwischen-kettelerstrasse-und-fuerstenrieder-strasse-in-planegg/": {
-          "text": "Vollsperrung St 2344 (Münchner Straße) zwischen Kettelerstraße und Fürstenrieder Straße in Planegg"
-        },
         "https://www.landkreis-muenchen.de/artikel/staatsstrasse-2079-fahrbahnerneuerung-zwischen-muenchen-und-putzbrunn-unter-abschnittsweiser-vollsperrung/": {
           "text": "Staatsstraße 2079: Fahrbahnerneuerung zwischen München  und Putzbrunn unter abschnittsweiser Vollsperrung - Beginn des dritten Bauabschnitts"
         },
@@ -702,10 +699,13 @@
           "text": "St 2088: Vierstreifiger Ausbau des Föhringer Rings – Voll-sperrung wird vorzeitig am Wochenende aufgehoben"
         },
         "https://www.landkreis-muenchen.de/artikel/geaenderte-verkehrsfuehrung-am-foehringer-ring/": {
-          "text": "Geänderte Verkehrsführung am Föhringer Ring"
+          "text": "Geänderte Verkehrsführung am Föhringer Ring vom 24. Juli 2026 bis vrsl. 28. April 2028"
         },
-        "https://www.landkreis-muenchen.de/artikel/vollsperrung-der-oberbiberger-strasse-in-altkirchen-gemeinde-sauerlach/": {
-          "text": "Vollsperrung der Oberbiberger Straße in Altkirchen (Gemeinde Sauerlach)"
+        "https://www.landkreis-muenchen.de/artikel/vollsperrung-der-putzbrunner-strasse-im-bereich-des-s-bahnhofs-ottobrunn/": {
+          "text": "Absage / Vollsperrung der Putzbrunner Straße im Bereich des  S-Bahnhofs Ottobrunn"
+        },
+        "https://www.landkreis-muenchen.de/artikel/asphalterneuerung-auf-der-a-995-zwischen-muenchen-giesing-und-muenchen-sued/": {
+          "text": "Asphalterneuerung auf der A 995 zwischen München-Giesing und München-Süd"
         },
         "https://www.landkreis-muenchen.de/themen/oeffentliche-sicherheit-ordnung/katastrophenschutz-und-feuerwehr/bevoelkerungsschutztag/": {
           "text": "Bevölkerungsschutztag 2026"
@@ -751,18 +751,18 @@
       "name": "Autobahn GmbH – Südbayern",
       "url": "https://www.autobahn.de/die-autobahn/niederlassungen/suedbayern",
       "priority": "topic",
-      "last_attempt_at": "2026-09-11T08:56:34+00:00",
+      "last_attempt_at": "2026-09-12T08:39:30+00:00",
       "error": "HTTPError: HTTP Error 404: Not Found"
     },
     "adfc-muenchen": {
       "name": "ADFC München",
       "url": "https://muenchen.adfc.de/",
       "priority": "topic",
-      "last_success_at": "2026-09-11T08:56:35+00:00",
+      "last_success_at": "2026-09-12T08:39:31+00:00",
       "final_url": "https://muenchen.adfc.de/",
       "content_type": "text/html; charset=utf-8",
-      "page_sha256": "2524700e9c14be8e92cd1a70d80d57020b14053385427393484e5d1756c12cb1",
-      "page_changed": false,
+      "page_sha256": "031d79942aa308f849f401b18293ae8534680a045f455242e68e883238cf95ad",
+      "page_changed": true,
       "first_seen": false,
       "links": {
         "https://muenchen.adfc.de/sei-dabei": {
@@ -804,6 +804,9 @@
         "https://muenchen.adfc.de/pressemitteilung/veranstaltungen-des-adfc-muenchen-im-september-2026": {
           "text": ""
         },
+        "https://muenchen.adfc.de/neuigkeit/radfahren-in-den-medien-mitte-september-2026": {
+          "text": ""
+        },
         "https://muenchen.adfc.de/pressemitteilung/der-grosse-adfc-fahrradklima-test-2026-startet-heute-2": {
           "text": ""
         },
@@ -823,9 +826,6 @@
           "text": ""
         },
         "https://muenchen.adfc.de/neuigkeit/radfahren-in-den-medien-mitte-august-2026": {
-          "text": ""
-        },
-        "https://muenchen.adfc.de/pressemitteilung/veranstaltungen-des-adfc-muenchen-im-august-2026": {
           "text": ""
         },
         "https://muenchen.adfc.de/aktuelles/neuigkeiten": {
@@ -848,7 +848,7 @@
       "name": "BUND Naturschutz – Kreisgruppe München",
       "url": "https://bn-muenchen.de/",
       "priority": "topic",
-      "last_success_at": "2026-09-11T08:56:36+00:00",
+      "last_success_at": "2026-09-12T08:39:33+00:00",
       "final_url": "https://bn-muenchen.de/",
       "content_type": "text/html",
       "page_sha256": "c9c228fa3294734a8b11eb9e7cfac3316ccb2db84afb1c80c6f0098e713d2e2e",
@@ -869,7 +869,7 @@
       "name": "BI-AFK",
       "url": "https://www.bi-afk.de/",
       "priority": "topic",
-      "last_success_at": "2026-09-11T08:56:39+00:00",
+      "last_success_at": "2026-09-12T08:39:36+00:00",
       "final_url": "https://bi-afk.de/",
       "content_type": "text/html; charset=UTF-8",
       "page_sha256": "9bb75430e338b6f892a5bcc5780807481141ab974a0d1e45035b89bd139b1cf0",
@@ -955,11 +955,11 @@
           "content_type": "application/pdf",
           "bytes": 149466,
           "sha256": "f0ce9eb0a26c6e4bafbce93352128b32ede6a1a841c241d07be53c69c0f4b695",
-          "checked_at": "2026-09-11T08:56:39+00:00"
+          "checked_at": "2026-09-12T08:39:36+00:00"
         }
       },
       "error": null
     }
   },
-  "last_run_at": "2026-09-11T08:56:39+00:00"
+  "last_run_at": "2026-09-12T08:39:36+00:00"
 }
