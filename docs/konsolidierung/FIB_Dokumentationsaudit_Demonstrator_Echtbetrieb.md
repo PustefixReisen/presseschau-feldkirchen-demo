@@ -4,7 +4,7 @@
 
 | Version | Stand | Verantwortlich |
 |---|---|---|
-| 0.3 | 12.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
+| 0.4 | 13.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
 
 ## Änderungshistorie
 
@@ -13,6 +13,7 @@
 | 0.1 | 10.09.2026 | Audit begonnen; Sicherungs- und Konsolidierungsverfahren sowie erste Entscheidungsbereiche festgelegt |
 | 0.2 | 11.09.2026 | Projektübergreifenden Dokumentationsstandard als verbindliche Auditregel präzisiert; D023 und D024 fortgeschrieben |
 | 0.3 | 12.09.2026 | D025 mit erstem Betriebs- und Reproduzierbarkeitsdokument vom Status `fehlt/aufzubauen` auf `teilweise` gehoben; Demonstrator-Iststand von offenen Echtbetriebsanforderungen getrennt |
+| 0.4 | 13.09.2026 | Frontend-Dokument auf einheitliche Dokumentlenkung umgestellt und die am Demonstrator erprobte Bildimport-/Zuordnungsregel persistent nachgeführt; D016 und D023 weiter abgesichert |
 
 ## 1. Zweck
 
@@ -69,14 +70,14 @@ Statuswerte: `gesichert`, `teilweise`, `fehlt`, `offen`, `zu prüfen`.
 | D013 | GitHub für Code/Automatisierung; PostgreSQL/Supabase für fachliche Daten | Architektur | Architektur + Betrieb | gesichert |
 | D014 | Geschäftsregeln fachlich dokumentieren und soweit sinnvoll deterministisch als Code/Konfiguration umsetzen | Architektur | Architektur + Entwicklerdoku | gesichert |
 | D015 | Redaktionelle Prüfung/Freigabe vor Veröffentlichung | Architektur/Redaktionsdoku | Fachkonzept + Betrieb | gesichert |
-| D016 | Bildauswahl: Sach-/Objekt-/Ortsbezug; kein Bild besser als unpassendes Bild | Bildkonzept/Frontend | Bildkonzept | gesichert |
+| D016 | Bildauswahl und Bildimport: Sach-/Objekt-/Ortsbezug; kein Bild besser als unpassendes Bild; explizite Primärzuordnung, weitere Verwendungen, Ausschlüsse und Schlagworte | Bildkonzept/Frontend; `FIB_Frontend_und_Darstellung.md` V0.2 | Bildkonzept + Frontend | gesichert |
 | D017 | Bildbedarf `yes|optional|no` und Bedarfsliste | Bildkonzept/Frontend/Arbeitsdaten | Bildkonzept + Redaktion | gesichert |
 | D018 | „Mehr zum Bild“ als getrennte, geprüfte ortsbezogene Erzählebene; FIB bleibt kommunalpolitisch fokussiert | Bildkonzept/Frontend + Projektentscheidungen | Bildkonzept + Frontend | gesichert |
 | D019 | Bildmetadaten/Rechte/Kennzeichen/EXIF/Alt-Texte | Bildkonzept | Bildkonzept + Betrieb | gesichert |
 | D020 | Teilen/Drucken-PDF/Benachrichtigungen und Social-Media-Metadaten | Demonstrator/Projektentscheidungen | Frontend + Betrieb | zu prüfen |
 | D021 | Sunflower/WordPress-Integration bei Erhalt FIB-spezifischer Funktionen | Frontend | Architektur + Frontend | gesichert |
 | D022 | Echtbetriebsarchitektur mit Supabase, Redaktions-Web-App, GitHub Actions, austauschbaren KI-/RAG-Diensten | Architektur | Architektur | gesichert |
-| D023 | Dokumentlenkung mit Dokumentstand und Änderungshistorie | Audit selbst nach Standard geführt; übrige kanonische Dokumente noch zu prüfen | alle kanonischen Dokumente | teilweise |
+| D023 | Dokumentlenkung mit Dokumentstand und Änderungshistorie | Audit und Frontend-Dokument nach Standard geführt; übrige kanonische Dokumente noch zu prüfen | alle kanonischen Dokumente | teilweise |
 | D024 | GitHub als künftig führende Projektdokumentation; Chat/Projektbibliothek nicht als alleinige Wahrheit | Auditregel und Definition of Done auf Arbeitsbranch persistent festgelegt | Dokumentationsstandard + README | teilweise; endgültige Kanonisierung erst nach Audit |
 | D025 | Reproduzierbarkeit: Installation, Konfiguration, DB-Migrationen, Backup/Restore, Administration, Deployment | `docs/konsolidierung/FIB_Betrieb_und_Reproduzierbarkeit.md` dokumentiert den reproduzierbaren Demonstrator-Iststand und markiert fehlende Echtbetriebsbausteine ausdrücklich | Betriebs-/Entwicklerdokumentation + praktische Restore-/Deployment-Nachweise | teilweise |
 
