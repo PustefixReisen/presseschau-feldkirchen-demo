@@ -1,6 +1,11 @@
 # FIB – Frontend und Darstellung
 
-**Stand:** 02.09.2026  
+## Dokumentstand
+
+| Version | Stand | Verantwortlich |
+|---|---|---|
+| 0.2 | 13.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
+
 **Status:** verbindlicher Arbeitsstand für Demonstrator; Zielbild für öffentliche FIB-Darstellung
 
 ## 1. Zweck
@@ -138,6 +143,17 @@ Die Bildbibliothek ist die fachliche Quelle für verfügbare Motive. Bei jedem F
 3. passendes lokales Themenmotiv,
 4. andernfalls kein Bild.
 
+Für die Erfassung und persistente Zuordnung gelten zusätzlich:
+
+- eine explizite Primärzuordnung hat Vorrang vor automatischen Vorschlägen,
+- Projekt-/Objektidentität geht vor allgemeinem Themenbezug,
+- Beiträge werden strenger bebildert als länger laufende Themen,
+- ein fehlendes Bild ist besser als ein nur ungefähr passendes Bild,
+- Mehrfachverwendung ist zulässig, wenn jede einzelne Verwendung sachlich passt,
+- Ausschlüsse werden ausdrücklich festgehalten, wenn Verwechslungsgefahr besteht.
+
+Beim Bildimport werden – soweit fachlich bestimmbar – **Primärzuordnung**, **weitere geeignete Verwendung**, **nicht verwenden für** und **Schlagworte** erfasst. Nutzer müssen interne FIB-IDs nicht kennen; eine eindeutige natürliche Beschreibung des Beitrags, Projekts oder Themas genügt und wird bei der strukturierten Ablage auf die persistente ID aufgelöst.
+
 Die konkrete Zuordnung im Demonstrator erfolgt derzeit über JavaScript-Konfiguration. Im Echtbetrieb soll sie aus dem strukturierten FIB-Datenbestand erzeugt werden.
 
 ## 11. Sunflower und Echtbetrieb
@@ -149,3 +165,10 @@ Wo Sunflower vorhandene Standardkomponenten bereitstellt, sollen diese bevorzugt
 ## 12. Pflege der Frontend-Dokumentation
 
 Änderungen, die im Demonstrator als verbindliche Darstellungsentscheidung getestet und übernommen werden, werden in diesem Dokument nachgeführt. Fachliche Bildregeln bleiben zusätzlich im `Bildkonzept_FIB.md`; konkrete Bilddaten und Motivwissen in `FIB_Bildbibliothek.md`.
+
+## Änderungshistorie
+
+| Version | Datum | Änderung |
+|---|---|---|
+| 0.2 | 13.09.2026 | Dokumentlenkung ergänzt; verbindlichen Bildimport-/Zuordnungsprozess mit Primärzuordnung, weiteren Verwendungen, Ausschlüssen und Schlagworten persistent nachgeführt |
+| 0.1 | 02.09.2026 | Frontend- und Darstellungsregeln als verbindlicher Arbeitsstand des Demonstrators dokumentiert |
