@@ -4,7 +4,7 @@
 
 | Version | Stand | Verantwortlich |
 |---|---|---|
-| 0.2 | 13.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
+| 0.3 | 14.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
 
 **Status:** verbindlicher Arbeitsstand für Demonstrator; Zielbild für öffentliche FIB-Darstellung
 
@@ -156,13 +156,40 @@ Beim Bildimport werden – soweit fachlich bestimmbar – **Primärzuordnung**, 
 
 Die konkrete Zuordnung im Demonstrator erfolgt derzeit über JavaScript-Konfiguration. Im Echtbetrieb soll sie aus dem strukturierten FIB-Datenbestand erzeugt werden.
 
-## 11. Sunflower und Echtbetrieb
+## 11. Teilen, Drucken/PDF und Benachrichtigungen
+
+### 11.1 Teilen
+
+Der Demonstrator ergänzt Beiträge und Themen um eine kompakte Teilen-Schaltfläche. Wenn der Browser die Web-Share-API unterstützt, wird bevorzugt die native Teilen-Funktion des Geräts angeboten. Zusätzlich stehen E-Mail, WhatsApp sowie „Link und Teaser kopieren“ zur Verfügung. Signal, Mastodon, Instagram und weitere installierte Ziele werden nicht separat nachgebaut, sondern können über die native Teilen-Funktion des Geräts gewählt werden.
+
+Der geteilte Inhalt besteht aus Überschrift, Teaser und einem direkten URL-Fragment auf die jeweilige Karte. Bei E-Mail wird ein kurzer persönlicher Einleitungssatz vorangestellt. Die Teilen-Funktion erzeugt keine eigenständige redaktionelle Fassung; sie verwendet den bereits veröffentlichten Inhalt.
+
+Social-Media-Vorschaubilder/Metadaten sind als Zielbild vorgesehen, aber durch diese Client-Funktion allein nicht zuverlässig erzeugbar. Sie müssen im Echtbetrieb server-/seitengeneriert bzw. über die veröffentlichte HTML-Metadatenstruktur umgesetzt und getestet werden.
+
+### 11.2 Drucken und PDF
+
+Die Druckfunktion druckt gezielt die gewählte Beitrags- oder Themenkarte und nutzt die Druckfunktion des Browsers; PDF-Speicherung erfolgt über die dort angebotene Funktion. Auf mobilen Geräten hängt die tatsächliche Druck-/PDF-Unterstützung von Browser, Betriebssystem und verfügbaren Druckdiensten ab. Der Demonstrator darf deshalb keine erfolgreiche Druckausgabe auf jedem Mobilgerät behaupten; ein Mobile-Guard weist auf diese technische Grenze hin.
+
+### 11.3 Benachrichtigungen
+
+Die im Demonstrator sichtbaren Funktionen „Dieses Thema beobachten“ und „Feldkirchen im Blick abonnieren“ sind **ausschließlich Funktionsprototypen**. Es werden derzeit keine E-Mail-Adressen gespeichert und keine Benachrichtigungen versendet.
+
+Für den Echtbetrieb ist als fachliches Ziel vorgesehen:
+
+- Abonnement neuer FIB-Beiträge per E-Mail,
+- Beobachtung einzelner Themen,
+- auswählbare Versandfrequenz (sofort, täglich, wöchentlich),
+- Anmeldung per Double-Opt-in.
+
+Vor Aktivierung sind Datenmodell, Einwilligungs-/Abmeldeprozess, Datenschutz/Löschregeln, Maildienst, Fehlerbehandlung und Administration persistent zu dokumentieren und technisch zu testen. Die Demonstrator-Oberfläche ist kein Nachweis, dass diese Betriebsfunktion bereits umgesetzt ist.
+
+## 12. Sunflower und Echtbetrieb
 
 Der Demonstrator bildet die fachlich gewünschte FIB-Darstellung unabhängig vom späteren Veröffentlichungsweg ab. Für den Echtbetrieb soll die Oberfläche so weit wie möglich in die bestehende **Sunflower-/WordPress-Umgebung der GRÜNEN Feldkirchen** integriert werden. FIB-spezifische Komponenten – insbesondere Beitragsteaser, Quellenbereiche, Einordnung und „Mehr zum Bild“ – müssen dort funktional und responsiv erhalten bleiben.
 
 Wo Sunflower vorhandene Standardkomponenten bereitstellt, sollen diese bevorzugt genutzt werden. Eigene CSS-/JavaScript-Erweiterungen werden auf FIB-spezifische Funktionen begrenzt.
 
-## 12. Pflege der Frontend-Dokumentation
+## 13. Pflege der Frontend-Dokumentation
 
 Änderungen, die im Demonstrator als verbindliche Darstellungsentscheidung getestet und übernommen werden, werden in diesem Dokument nachgeführt. Fachliche Bildregeln bleiben zusätzlich im `Bildkonzept_FIB.md`; konkrete Bilddaten und Motivwissen in `FIB_Bildbibliothek.md`.
 
@@ -170,5 +197,6 @@ Wo Sunflower vorhandene Standardkomponenten bereitstellt, sollen diese bevorzugt
 
 | Version | Datum | Änderung |
 |---|---|---|
+| 0.3 | 14.09.2026 | Implementierten Stand von Teilen und Drucken/PDF dokumentiert; Benachrichtigungen ausdrücklich als Demonstrator-Prototyp abgegrenzt und Anforderungen für produktive Aktivierung festgehalten |
 | 0.2 | 13.09.2026 | Dokumentlenkung ergänzt; verbindlichen Bildimport-/Zuordnungsprozess mit Primärzuordnung, weiteren Verwendungen, Ausschlüssen und Schlagworten persistent nachgeführt |
 | 0.1 | 02.09.2026 | Frontend- und Darstellungsregeln als verbindlicher Arbeitsstand des Demonstrators dokumentiert |
