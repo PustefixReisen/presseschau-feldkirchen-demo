@@ -4,7 +4,7 @@
 
 | Version | Stand | Verantwortlich |
 |---|---|---|
-| 0.4 | 13.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
+| 0.5 | 14.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
 
 ## Änderungshistorie
 
@@ -14,6 +14,7 @@
 | 0.2 | 11.09.2026 | Projektübergreifenden Dokumentationsstandard als verbindliche Auditregel präzisiert; D023 und D024 fortgeschrieben |
 | 0.3 | 12.09.2026 | D025 mit erstem Betriebs- und Reproduzierbarkeitsdokument vom Status `fehlt/aufzubauen` auf `teilweise` gehoben; Demonstrator-Iststand von offenen Echtbetriebsanforderungen getrennt |
 | 0.4 | 13.09.2026 | Frontend-Dokument auf einheitliche Dokumentlenkung umgestellt und die am Demonstrator erprobte Bildimport-/Zuordnungsregel persistent nachgeführt; D016 und D023 weiter abgesichert |
+| 0.5 | 14.09.2026 | Implementierung von Teilen, Einzelkarten-Druck/PDF und Benachrichtigungs-Prototyp gegen Code geprüft; produktive und nur prototypische Funktionen in der Frontend-Dokumentation getrennt; D020 von `zu prüfen` auf `teilweise` gehoben |
 
 ## 1. Zweck
 
@@ -74,7 +75,7 @@ Statuswerte: `gesichert`, `teilweise`, `fehlt`, `offen`, `zu prüfen`.
 | D017 | Bildbedarf `yes|optional|no` und Bedarfsliste | Bildkonzept/Frontend/Arbeitsdaten | Bildkonzept + Redaktion | gesichert |
 | D018 | „Mehr zum Bild“ als getrennte, geprüfte ortsbezogene Erzählebene; FIB bleibt kommunalpolitisch fokussiert | Bildkonzept/Frontend + Projektentscheidungen | Bildkonzept + Frontend | gesichert |
 | D019 | Bildmetadaten/Rechte/Kennzeichen/EXIF/Alt-Texte | Bildkonzept | Bildkonzept + Betrieb | gesichert |
-| D020 | Teilen/Drucken-PDF/Benachrichtigungen und Social-Media-Metadaten | Demonstrator/Projektentscheidungen | Frontend + Betrieb | zu prüfen |
+| D020 | Teilen/Drucken-PDF/Benachrichtigungen und Social-Media-Metadaten | `assets/share-print-subscribe.js`, `assets/mobile-print-guard.js`; `FIB_Frontend_und_Darstellung.md` V0.3 trennt implementierte Teilen-/Druckfunktion von Benachrichtigungs-Mockup | Frontend + Betrieb; produktive Benachrichtigungen inkl. Datenmodell/Double-Opt-in/Datenschutz/Mailbetrieb sowie Social-Media-Metadaten noch umzusetzen | teilweise |
 | D021 | Sunflower/WordPress-Integration bei Erhalt FIB-spezifischer Funktionen | Frontend | Architektur + Frontend | gesichert |
 | D022 | Echtbetriebsarchitektur mit Supabase, Redaktions-Web-App, GitHub Actions, austauschbaren KI-/RAG-Diensten | Architektur | Architektur | gesichert |
 | D023 | Dokumentlenkung mit Dokumentstand und Änderungshistorie | Audit und Frontend-Dokument nach Standard geführt; übrige kanonische Dokumente noch zu prüfen | alle kanonischen Dokumente | teilweise |
