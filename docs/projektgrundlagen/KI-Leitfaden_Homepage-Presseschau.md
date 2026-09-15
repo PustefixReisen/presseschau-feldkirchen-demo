@@ -1,8 +1,19 @@
 # KI-Leitfaden Homepage-Presseschau Feldkirchen
 
-**Version 1.6 · Stand 10.09.2026**
+## Dokumentstand
 
-> Kanonische Markdown-Fassung für GitHub. Inhaltlich übernommen aus der bisherigen Projektbibliothek.
+| Version | Stand | Verantwortlich |
+|---|---|---|
+| 1.7 | 15.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
+
+## Änderungshistorie
+
+| Version | Datum | Änderung |
+|---|---|---|
+| 1.6 | 10.09.2026 | Kanonische Markdown-Fassung aus der bisherigen Projektbibliothek übernommen; Direktquellen-/Dokumentencheck und manuellen FIB-Update-Lauf konsolidiert |
+| 1.7 | 15.09.2026 | Einheitliche Dokumentlenkung ergänzt; bestehende Regeln zu grüner Positionshierarchie, lokaler Ableitung, Quellenprüfung und manuellem Update-Lauf im Dokumentationsaudit als persistent nachgewiesen |
+
+> Kanonische Markdown-Fassung für GitHub. Inhaltlich übernommen aus der bisherigen Projektbibliothek und im Arbeitsbranch `docs/canonical-markdown` konsolidiert.
 
 ## 1. Zweck und Verbindlichkeit
 
