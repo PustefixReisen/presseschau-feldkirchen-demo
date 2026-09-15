@@ -4,7 +4,7 @@
 
 | Version | Stand | Verantwortlich |
 |---|---|---|
-| 0.5 | 14.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
+| 0.6 | 15.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
 
 ## Änderungshistorie
 
@@ -15,6 +15,7 @@
 | 0.3 | 12.09.2026 | D025 mit erstem Betriebs- und Reproduzierbarkeitsdokument vom Status `fehlt/aufzubauen` auf `teilweise` gehoben; Demonstrator-Iststand von offenen Echtbetriebsanforderungen getrennt |
 | 0.4 | 13.09.2026 | Frontend-Dokument auf einheitliche Dokumentlenkung umgestellt und die am Demonstrator erprobte Bildimport-/Zuordnungsregel persistent nachgeführt; D016 und D023 weiter abgesichert |
 | 0.5 | 14.09.2026 | Implementierung von Teilen, Einzelkarten-Druck/PDF und Benachrichtigungs-Prototyp gegen Code geprüft; produktive und nur prototypische Funktionen in der Frontend-Dokumentation getrennt; D020 von `zu prüfen` auf `teilweise` gehoben |
+| 0.6 | 15.09.2026 | KI-Leitfaden auf einheitliche Dokumentlenkung umgestellt; Regeln zu grüner Positionshierarchie, Verbot der mechanischen Übertragung übergeordneter Positionen, Bürgerinitiativen/Resonanzprüfung, Beleg-/Direktlinkprüfung und manuellem FIB-Update persistent verifiziert; D007, D008, D010 und D011 gesichert, D023 fortgeschrieben |
 
 ## 1. Zweck
 
@@ -62,11 +63,11 @@ Statuswerte: `gesichert`, `teilweise`, `fehlt`, `offen`, `zu prüfen`.
 | D004 | Sprachliche Neuausrichtung: bürgerverständlich, konkret, keine interne Prozess-/KI-Sprache | Projektentscheidungen und KI-Leitfaden-Zwischenstände | KI-Leitfaden + Sprachleitlinie | teilweise |
 | D005 | Einordnung darf Profil zeigen und angemessen zuspitzen; Chancen/Zielkonflikte/kommunale Handlungsoptionen konkretisieren | Redaktionelle Betreuung + Projektentscheidungen | KI-Leitfaden | teilweise |
 | D006 | Referenzwissen für grüne Einordnung: festgelegte grüne Programme/Leitlinien/lokale Ziele | Projektgrundlagen | KI-Leitfaden + Referenzwissen | zu prüfen |
-| D007 | Keine mechanische Übertragung übergeordneter grüner Positionen auf lokale Fälle | Projektentscheidungen | KI-Leitfaden | zu prüfen |
-| D008 | Belegepflicht; Primärquellen und direkte Vorlagenlinks bevorzugen | KI-/Redaktionsregeln | KI-Leitfaden + Quellenregeln | teilweise |
-| D009 | Regelmäßige direkte Quellenbeobachtung statt allein Suchmaschinen; Pflicht- und Themenquellen | KI-Leitfaden 1.6 + Quellenmonitor | KI-Leitfaden + Quellenmonitor | teilweise |
-| D010 | Bürgerinitiativen/Verbände/NGOs als relevante Quellen mit Resonanz-/Gegenprüfung | Projektentscheidungen | Quellenregeln | zu prüfen |
-| D011 | Manueller Trigger „Bitte FIB-Update ausführen“ und Update-Parameter/Standardlauf | Arbeitsdaten + Projektentscheidungen | Betriebsdokumentation | teilweise |
+| D007 | Keine mechanische Übertragung übergeordneter grüner Positionen auf lokale Fälle | `KI-Leitfaden_Homepage-Presseschau.md` 9.4–9.5: Herkunftshierarchie, lokale Kennzeichnung und eigenständige Ableitung ausdrücklich geregelt | KI-Leitfaden | gesichert |
+| D008 | Belegepflicht; Primärquellen und direkte Vorlagenlinks bevorzugen | KI-Leitfaden 4, 7, 11.3 und 11.5: quellengebundene Sachinformation, Fakten-Rückprüfung und konkrete RIS-/Vorlagenlinkprüfung | KI-Leitfaden + Quellenregeln | gesichert |
+| D009 | Regelmäßige direkte Quellenbeobachtung statt allein Suchmaschinen; Pflicht- und Themenquellen | KI-Leitfaden 4.1.1 + Quellenmonitor | KI-Leitfaden + Quellenmonitor | teilweise |
+| D010 | Bürgerinitiativen/Verbände/NGOs als relevante Quellen mit Resonanz-/Gegenprüfung | KI-Leitfaden 4.3: systematische Berücksichtigung, BI als besonders relevante Quellenklasse, gezielte Resonanz-/Gegenpositionssuche | Quellenregeln | gesichert |
+| D011 | Manueller Trigger „Bitte FIB-Update ausführen“ und Update-Parameter/Standardlauf | KI-Leitfaden 11.9: Trigger, Standardzeitraum, Vollumfang, Prüftiefe, Pflichtchecks, Update-Bilanz und redaktionelle Freigabe | Betriebsdokumentation | gesichert |
 | D012 | Persistenter FIB-Datenbestand ist Gedächtnis, nicht KI-Modell | Architektur | Architektur | gesichert |
 | D013 | GitHub für Code/Automatisierung; PostgreSQL/Supabase für fachliche Daten | Architektur | Architektur + Betrieb | gesichert |
 | D014 | Geschäftsregeln fachlich dokumentieren und soweit sinnvoll deterministisch als Code/Konfiguration umsetzen | Architektur | Architektur + Entwicklerdoku | gesichert |
@@ -78,7 +79,7 @@ Statuswerte: `gesichert`, `teilweise`, `fehlt`, `offen`, `zu prüfen`.
 | D020 | Teilen/Drucken-PDF/Benachrichtigungen und Social-Media-Metadaten | `assets/share-print-subscribe.js`, `assets/mobile-print-guard.js`; `FIB_Frontend_und_Darstellung.md` V0.3 trennt implementierte Teilen-/Druckfunktion von Benachrichtigungs-Mockup | Frontend + Betrieb; produktive Benachrichtigungen inkl. Datenmodell/Double-Opt-in/Datenschutz/Mailbetrieb sowie Social-Media-Metadaten noch umzusetzen | teilweise |
 | D021 | Sunflower/WordPress-Integration bei Erhalt FIB-spezifischer Funktionen | Frontend | Architektur + Frontend | gesichert |
 | D022 | Echtbetriebsarchitektur mit Supabase, Redaktions-Web-App, GitHub Actions, austauschbaren KI-/RAG-Diensten | Architektur | Architektur | gesichert |
-| D023 | Dokumentlenkung mit Dokumentstand und Änderungshistorie | Audit und Frontend-Dokument nach Standard geführt; übrige kanonische Dokumente noch zu prüfen | alle kanonischen Dokumente | teilweise |
+| D023 | Dokumentlenkung mit Dokumentstand und Änderungshistorie | Audit, Frontend-Dokument und KI-Leitfaden nach Standard geführt; übrige kanonische Dokumente noch zu prüfen | alle kanonischen Dokumente | teilweise |
 | D024 | GitHub als künftig führende Projektdokumentation; Chat/Projektbibliothek nicht als alleinige Wahrheit | Auditregel und Definition of Done auf Arbeitsbranch persistent festgelegt | Dokumentationsstandard + README | teilweise; endgültige Kanonisierung erst nach Audit |
 | D025 | Reproduzierbarkeit: Installation, Konfiguration, DB-Migrationen, Backup/Restore, Administration, Deployment | `docs/konsolidierung/FIB_Betrieb_und_Reproduzierbarkeit.md` dokumentiert den reproduzierbaren Demonstrator-Iststand und markiert fehlende Echtbetriebsbausteine ausdrücklich | Betriebs-/Entwicklerdokumentation + praktische Restore-/Deployment-Nachweise | teilweise |
 
