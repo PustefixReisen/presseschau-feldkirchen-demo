@@ -1,6 +1,31 @@
 # FIB-Quellenmonitor
 
+## Dokumentstand
+
+| Version | Stand | Verantwortlich |
+|---|---|---|
+| 0.2 | 16.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
+
+## Änderungshistorie
+
+| Version | Datum | Änderung |
+|---|---|---|
+| 0.1 | 10.09.2026 | Technischen Quellenmonitor, Ablauf, Automatik, Baseline und Fehlerbehandlung dokumentiert |
+| 0.2 | 16.09.2026 | Dokumentlenkung ergänzt; Verhältnis von Pflicht-/Themenquellen, Direktbeobachtung und redaktioneller Recherche verbindlich präzisiert |
+
 Der FIB-Quellenmonitor ergänzt die redaktionelle Recherche um einen technischen Direktabruf bekannter Quellen. Ziel ist, neue Seiten und Dokumente unabhängig von Suchmaschinen-Indexierung oder dem Webzugriff eines KI-Systems zu erkennen.
+
+## Verbindliche Rolle im Rechercheprozess
+
+Der Quellenmonitor ist ein zusätzlicher technischer Eingangskanal und ersetzt weder die redaktionelle Recherche noch die im KI-Leitfaden festgelegten Pflichtprüfungen. Für jeden vollständigen FIB-Update-Lauf gilt:
+
+- bekannte, technisch geeignete Quellen werden soweit konfiguriert direkt beobachtet; Suchmaschinen sind dafür nicht die alleinige Quelle,
+- Quellen mit `priority: mandatory` sind technische Pflichtquellen des Monitors; ihr Abruffehler macht den Monitorlauf sichtbar fehlerhaft,
+- Quellen mit `priority: topic` werden als themenabhängige Ergänzung beobachtet; ihre Aufnahme in die Konfiguration bedeutet nicht, dass sie bei jedem Beitrag fachlich einschlägig sind,
+- die Monitor-Inbox ist eine Fundstellenliste, keine Veröffentlichungsfreigabe; jede Fundstelle muss im FIB-Update redaktionell geprüft, eingeordnet und gegebenenfalls durch weitere Primär-, Presse-, Verbands- oder Resonanzquellen ergänzt werden,
+- die Quellenkonfiguration ist ausdrücklich erweiterbar. Eine fachlich verbindliche Pflichtquelle darf nicht allein deshalb entfallen, weil sie technisch noch nicht im Monitor abgebildet ist.
+
+Damit bleibt die fachliche Quellenregel im KI-Leitfaden maßgeblich; `config/source-monitor.json` bildet den jeweils technisch automatisierten Teil davon ab.
 
 ## Ablauf
 
