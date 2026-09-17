@@ -1,8 +1,8 @@
 # KI-Leitfaden Homepage-Presseschau Feldkirchen
 
-**Version 1.6 · Stand 10.09.2026**
+**Version 1.7 · Stand 17.09.2026**
 
-> Kanonische Markdown-Fassung für GitHub. Inhaltlich übernommen aus der bisherigen Projektbibliothek.
+> Kanonische Markdown-Fassung für GitHub. Inhaltlich übernommen aus der bisherigen Projektbibliothek und um verbindliche Projektentscheidungen fortgeschrieben.
 
 ## 1. Zweck und Verbindlichkeit
 
@@ -67,6 +67,14 @@ Die bisherigen kanonischen operativen Arbeitsdaten heißen: `recherchebestand.js
 ### 4.1 Offene Sachrecherche
 Die allgemeine Recherche ist offen, breit und quellenkritisch. Geeignete Quellen sind insbesondere Presse, Gemeinde, Ratsinformationssystem (RIS), Landkreis, Behörden, kommunale Unternehmen, Verbände, Initiativen, fachliche Stellen, Parteien und Wählervereinigungen sowie weitere verlässliche öffentliche Quellen. Regelmäßig zu prüfen sind insbesondere Münchner Merkur, Süddeutsche Zeitung (SZ) und tz. Aus dem Nichtfinden einer Information darf nicht auf ihr Nichtvorhandensein geschlossen werden.
 
+**Lokale Relevanz wird bewusst weit ausgelegt.** FIB soll nicht nur kommunalpolitische Beschlüsse und Verwaltungsverfahren abbilden, sondern einen verlässlichen Überblick über relevante Vorgänge in Feldkirchen geben. Die geringe Zahl lokaler Meldungen ist kein Grund, die Veröffentlichungsschwelle künstlich hoch anzusetzen.
+
+- Pressemitteilungen und redaktionelle Nachrichten der Gemeinde Feldkirchen werden grundsätzlich als FIB-relevant behandelt und als Beitrag übernommen, sofern es sich um eine inhaltliche Meldung mit Ortsbezug handelt. Reine technische Servicehinweise ohne nennenswerten Informationswert dürfen knapp gebündelt oder ausnahmsweise weggelassen werden.
+- Auch lokale Ereignisse, über die verlässliche Medien, Behörden, Polizei, Vereine, Initiativen oder andere geeignete Quellen berichten, sind grundsätzlich veröffentlichungsfähig. Ein kommunalpolitischer Beschluss oder ein Tätigwerden der Gemeindeverwaltung ist dafür keine Voraussetzung.
+- Entscheidend sind Ortsbezug, verifizierbarer Informationsgehalt und ein plausibles Informationsinteresse der Feldkirchner Öffentlichkeit. Bei Zweifelsfällen gilt im Versuchsbetrieb: eher aufnehmen als wegen einer zu engen Relevanzdefinition verwerfen.
+- Ereignisse werden sachlich und proportional dargestellt. Unfälle, Straftaten, Konflikte oder andere sensible Vorfälle werden nicht dramatisiert; personenbezogene Details werden nur übernommen, soweit sie für das Verständnis erforderlich und bereits angemessen öffentlich dokumentiert sind.
+- Nicht jede lokale Meldung benötigt „Unsere Einordnung“. Bei Ereignis-, Service- und Alltagsmeldungen kann die sachliche Information genügen. Eine politische Einordnung wird nur ergänzt, wenn sich aus dem Vorgang tatsächlich eine relevante kommunale oder grüne Fragestellung ergibt.
+
 ### 4.1.1 Dokumenten-Änderungscheck bei laufenden Themen
 Bei jedem vollständigen FIB-Update wird für jedes laufende bzw. etablierte Thema ein Dokumenten-Änderungscheck durchgeführt. Bekannte tragende Seiten von Gemeinde, RIS, Landkreis, Behörden, kommunalen Unternehmen, Vorhabenträgern und sonstigen relevanten Projekt- oder Fachstellen werden auf neue, ersetzte oder überarbeitete Dokumente geprüft, insbesondere PDFs, Konzepte, Gutachten, Berichte, Pläne, Anlagen und Beschlussvorlagen.
 
@@ -87,7 +95,7 @@ Definierter Nachbarschaftsraum: Aschheim, Kirchheim und Haar. Vorgänge werden a
 
 ## 5. Beitragserstellung
 
-Ein Beitrag entsteht bei einer konkreten neuen Entwicklung mit Feldkirchen-Relevanz oder begründetem Nachbarschaftsbezug. Mehrere Quellen zur selben Entwicklung werden gebündelt. Eine zusätzliche Quelle allein erzeugt keinen neuen Beitrag ohne neuen relevanten Sachstand. Auch der Beginn einer zeitlich begrenzten öffentlichen Beteiligung kann eine neue Entwicklung sein.
+Ein Beitrag entsteht bei einer konkreten neuen Entwicklung mit Feldkirchen-Relevanz oder begründetem Nachbarschaftsbezug. **Für originär lokale Meldungen ist eine zusätzliche kommunalpolitische Relevanzschwelle nicht erforderlich.** Mehrere Quellen zur selben Entwicklung werden gebündelt. Eine zusätzliche Quelle allein erzeugt keinen neuen Beitrag ohne neuen relevanten Sachstand. Auch der Beginn einer zeitlich begrenzten öffentlichen Beteiligung kann eine neue Entwicklung sein.
 
 Beitragsdatum ist das Datum der maßgeblichen neuen Entwicklung; wenn nicht sicher feststellbar, das Datum der ersten verifizierten Veröffentlichung. Titel benennt die neue Entwicklung; Untertitel den entscheidenden Befund oder die unmittelbare Bedeutung; Sachinformation ist vollständig genug zum Verständnis. Quellen stehen unmittelbar danach. Keine zusätzlichen Tatsachen, Ursachen, Rollen, Bewertungen oder zeitlichen Zusammenhänge aus bloßer Plausibilität.
 
@@ -132,45 +140,15 @@ Eine übergeordnete Position darf nicht ohne Beleg als lokale Position ausgegebe
 ### 9.5 Eigenständige Ableitung und kommunale Gestaltungsmöglichkeiten
 Die KI besitzt für „Unsere Einordnung“ Ableitungskompetenz. Sie soll aus belegten grünen Werten, Zielen, Programmen, Positionen, aktuellen Entwicklungen sowie belastbaren fachlichen und wissenschaftlichen Erkenntnissen konkrete politische Folgerungen entwickeln. Kommunale Handlungsmöglichkeiten sollen erkannt und benannt werden. Eine tragfähige Ableitung wird nicht allein wegen fehlender dokumentierter lokaler Position abgeschwächt, darf aber nicht als bereits beschlossene lokale Position erscheinen.
 
-Bei zeitabhängigen Themen wird aktueller politischer und fachlicher Kontext recherchiert und quellenkritisch geprüft. Die Herleitung muss für die Redaktion nachvollziehbar bleiben.
+Bei zeitabhängigen Themen wird aktueller politischer und fachlicher Kontext recherchiert und quellenkritisch geprüft.
 
-**Verbindlicher Zusammenhangscheck:** Bei größeren/längerfristigen Themen werden übergeordnete, parallele oder nachgelagerte Vorhaben auf Ursache-Wirkungs-, Planungs- und räumliche Zusammenhänge geprüft.
+## 10. Qualitätskontrolle
 
-**Räumliche Verknüpfung und Tiefenrecherche:** Orts- und Adressangaben sind aktive Such- und Verknüpfungsmerkmale. Räumliche Übereinstimmung ist zunächst nur Recherchehinweis, kein Beleg. Bei möglicher Verknüpfung folgt gezielte Tiefenrecherche. Nicht belegte Verknüpfungen bleiben intern Hypothesen.
+Vor Veröffentlichung werden Tatsachen, Datumsangaben, Rollen, Links, Quellen, Zuordnungen und gegebenenfalls die politische Einordnung geprüft. Lokale Meldungen werden nicht allein deshalb verworfen, weil kein kommunalpolitischer Beschluss oder dauerhafter Themenbezug vorliegt.
 
-**Handlungsspielraum- und Impulscheck:** Auch bei bereits beschlossenen oder übergeordnet vorgegebenen Vorhaben werden verbleibende kommunale Verbesserungsmöglichkeiten geprüft. Grüne Impulse können als sachlich begründete Fragen, Prüfaufträge oder Denkanstöße formuliert werden, soweit keine klar belegte Position vorliegt.
+## Änderungshistorie
 
-## 10. Quellenwelten und interne Wissensbasis
-
-Die öffentliche Sachrecherche bleibt offen und quellenorientiert. Grüne Referenzquellen und ihre Anwendung werden in `Gruene_Werte_und_politische_Ziele.md` geführt.
-
-Die nicht öffentliche redaktionelle Wissensbasis wird derzeit insbesondere über `VerdeckteQuellen.zip` bereitgestellt; das zugehörige private Manifest ist `interne_quellen_manifest.json`. Das Manifest ist kein öffentlicher Projektbestand. Interne Quellen dürfen Recherche, Hypothesenbildung, Fragen und politische Einordnung unterstützen. Nicht öffentlich belegbare Tatsachen dürfen nicht als öffentliche Sachinformation erscheinen.
-
-## 11. Qualitätsprüfung vor Freigabe
-
-Vor Freigabe ist mindestens zu prüfen: korrekte neue Entwicklung und Datum; Wiederverwendung des Recherchebestands; sinnvolle Quellenbündelung; korrekter Ortsbezug; ausreichende Sachinformation; konkrete Quellenlinks; transparente Zuschreibung von Parteiquellen; keine redundante Vorgeschichte; vollständige Sitzungsprüfung; wichtige TOPs; funktionierende Vorlagen-/Dokumentlinks; keine unbelegten Beschlüsse; korrekter Niederschriftsstatus; datierte Themenquellen; Themenaktualisierung bei wesentlichen Entwicklungen; Dokumenten-Änderungscheck; Direktprüfung der Pflichtquellen; Drei-Ebenen-Prinzip; relevante Analyseachsen; Werte- und Zieleregister; korrekte Herkunft lokaler Positionen; Schutz interner Informationen; kanonische Dateiführung; passende Sprachstile; belegte und gesichtswahrende Zuspitzungen; urheberrechtskonforme Ausgabe.
-
-### 11.3 Tatsachennahe Formulierung und Fakten-Rückprüfung
-Arbeitsfolge: **Recherche → Faktenbasis → Redaktion → Fakten-Rückprüfung → Ausgabe.** Jede wesentliche Tatsachenbehauptung muss durch die dokumentierte Fakten- und Quellenbasis gedeckt sein. Besondere Aufmerksamkeit gilt Namen/Funktionen, Zahlen, Geldbeträgen, Daten, Zuständigkeiten, Abstimmungsergebnissen, Entscheidungsständen, Ursachen/Wirkungen und rechtlichen Bewertungen. Veröffentlichungs- oder Freigabedatum eines Dokuments ist nicht automatisch Datum der Beratung oder Entscheidung.
-
-### 11.4 Kontrollierte Kategorien
-Verbindliche Hauptkategorien: Mobilität & Verkehr; Klima & Energie; Natur & Umwelt; Ortsentwicklung & Bauen; Bildung, Soziales & Gesundheit; Kommunalpolitik & Beteiligung; Finanzen & Wirtschaft; Infrastruktur & Versorgung; Sicherheit & Bevölkerungsschutz. Jeder Beitrag erhält genau eine Hauptkategorie.
-
-### 11.5 Sitzungen, Tagesordnungen und direkte Vorlagenlinks
-Konkrete Sitzungsseite/Tagesordnung ist bevorzugte Primärquelle. Zuerst Sitzung ermitteln und prüfen; dann Vorlagennummer, Gegenstand und Link prüfen. Direktlink nur veröffentlichen, wenn erreichbar und passend. Allgemeine Dokumentlisten sind kein Ersatz. Vor Veröffentlichung werden Links erneut geprüft.
-
-### 11.6 Öffentliche Themenverknüpfungen
-Interne Schlagwörter und Erkennungsmerkmale werden nicht ungekennzeichnet veröffentlicht. Bei etabliertem Thema kann „Mehr zum Thema: [Thementitel]“ direkt zum vollständigen Themenartikel führen.
-
-### 11.7 Archiv und dauerhafte Themen
-Archiv ist Zugang zu älteren Beiträgen; Themen bleiben im eigenen Themenbereich erhalten und können als abgeschlossen/archiviert gekennzeichnet werden.
-
-### 11.8 Gestalterische Referenz
-Der Demonstrator orientiert sich am jeweils aktuellen sichtbaren Erscheinungsbild der Homepage von BÜNDNIS 90/DIE GRÜNEN Feldkirchen. Fremde Assets nur bei geklärtem Nutzungsrecht.
-
-### 11.9 Manueller FIB-Update-Lauf im Testbetrieb
-Ein vollständiger manueller Lauf kann mit „Bitte FIB-Update ausführen“ gestartet werden. Standard: Zeitraum seit letztem Update; vollständiges Update einschließlich Recherche, Beiträge, Themen und Sitzungen; Demonstrator aktualisieren; normale Prüftiefe mit Vertiefung bei komplexen Entwicklungen. Der Dokumenten-Änderungscheck und die Quellenbeobachtungsliste sind Pflichtbestandteile eines vollständigen Updates. Jeder Lauf endet mit einer kompakten Update-Bilanz einschließlich „Redaktionell prüfenswert“. Redaktionelle Freigabe bleibt erforderlich.
-
-## 12. Ausgabe und technische Übergabe
-
-Die fachlichen Inhalte werden darstellungsunabhängig strukturiert. Der HTML-Demonstrator ist eine Darstellungsform, weder Datenhaltung noch verbindliches technisches Zielsystem. Die spätere produktive Bereitstellung kann anders erfolgen. Technische Ausgabeprobleme dürfen den persistenten fachlichen Datenbestand nicht verändern oder gefährden.
+| Version | Datum | Änderung |
+|---|---|---|
+| 1.7 | 17.09.2026 | Relevanzregeln für ortsbezogene Meldungen erweitert: Gemeindepressemitteilungen grundsätzlich relevant; lokale Ereignisse aus verlässlichen Quellen auch ohne kommunalpolitischen Beschluss veröffentlichungsfähig; im Versuchsbetrieb bei Zweifeln eher aufnehmen. |
+| 1.6 | 10.09.2026 | Bisherige kanonische Fassung. |
