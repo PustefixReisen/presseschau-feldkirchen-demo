@@ -4,7 +4,7 @@
 
 | Version | Stand | Verantwortlich |
 |---|---|---|
-| 0.6 | 15.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
+| 0.7 | 17.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
 
 ## Änderungshistorie
 
@@ -16,6 +16,7 @@
 | 0.4 | 13.09.2026 | Frontend-Dokument auf einheitliche Dokumentlenkung umgestellt und die am Demonstrator erprobte Bildimport-/Zuordnungsregel persistent nachgeführt; D016 und D023 weiter abgesichert |
 | 0.5 | 14.09.2026 | Implementierung von Teilen, Einzelkarten-Druck/PDF und Benachrichtigungs-Prototyp gegen Code geprüft; produktive und nur prototypische Funktionen in der Frontend-Dokumentation getrennt; D020 von `zu prüfen` auf `teilweise` gehoben |
 | 0.6 | 15.09.2026 | KI-Leitfaden auf einheitliche Dokumentlenkung umgestellt; Regeln zu grüner Positionshierarchie, Verbot der mechanischen Übertragung übergeordneter Positionen, Bürgerinitiativen/Resonanzprüfung, Beleg-/Direktlinkprüfung und manuellem FIB-Update persistent verifiziert; D007, D008, D010 und D011 gesichert, D023 fortgeschrieben |
+| 0.7 | 17.09.2026 | README als Projekteintritt konsolidiert; Produktname/Zweck, drei Inhaltsebenen, Definition of Done und Arbeitsbranch-/Kanonisierungsstatus persistent verankert; D001 und D002 gesichert, D024 fortgeschrieben |
 
 ## 1. Zweck
 
@@ -57,15 +58,15 @@ Statuswerte: `gesichert`, `teilweise`, `fehlt`, `offen`, `zu prüfen`.
 
 | ID | Entscheidungsbereich | Nachweis/derzeitige Ablage | Ziel der Echtbetriebsdokumentation | Status |
 |---|---|---|---|---|
-| D001 | Produktname und Zweck „Feldkirchen im Blick“ | Fach-/Frontend-Dokumentation, Demonstrator | Fachkonzept + README | zu prüfen |
-| D002 | Beiträge, Sitzungsübersichten und Themen als drei Inhaltsebenen | Fach-/Frontend-Dokumentation | Fachkonzept | zu prüfen |
+| D001 | Produktname und Zweck „Feldkirchen im Blick“ | `README.md` V0.2: Produktname, öffentliches Informationsangebot, Quellenrahmen und redaktionelle Freigabe beschrieben | Fachkonzept + README | gesichert |
+| D002 | Beiträge, Sitzungsübersichten und Themen als drei Inhaltsebenen | `README.md` V0.2: drei Ebenen und ihr Verhältnis ausdrücklich definiert | Fachkonzept + README | gesichert |
 | D003 | „Unsere Einordnung“: grüne Perspektive, keine erfundene lokale Position | KI-/Redaktionsregeln, Projektentscheidungen | KI-/Geschäftsregeln | teilweise |
 | D004 | Sprachliche Neuausrichtung: bürgerverständlich, konkret, keine interne Prozess-/KI-Sprache | Projektentscheidungen und KI-Leitfaden-Zwischenstände | KI-Leitfaden + Sprachleitlinie | teilweise |
 | D005 | Einordnung darf Profil zeigen und angemessen zuspitzen; Chancen/Zielkonflikte/kommunale Handlungsoptionen konkretisieren | Redaktionelle Betreuung + Projektentscheidungen | KI-Leitfaden | teilweise |
 | D006 | Referenzwissen für grüne Einordnung: festgelegte grüne Programme/Leitlinien/lokale Ziele | Projektgrundlagen | KI-Leitfaden + Referenzwissen | zu prüfen |
 | D007 | Keine mechanische Übertragung übergeordneter grüner Positionen auf lokale Fälle | `KI-Leitfaden_Homepage-Presseschau.md` 9.4–9.5: Herkunftshierarchie, lokale Kennzeichnung und eigenständige Ableitung ausdrücklich geregelt | KI-Leitfaden | gesichert |
 | D008 | Belegepflicht; Primärquellen und direkte Vorlagenlinks bevorzugen | KI-Leitfaden 4, 7, 11.3 und 11.5: quellengebundene Sachinformation, Fakten-Rückprüfung und konkrete RIS-/Vorlagenlinkprüfung | KI-Leitfaden + Quellenregeln | gesichert |
-| D009 | Regelmäßige direkte Quellenbeobachtung statt allein Suchmaschinen; Pflicht- und Themenquellen | KI-Leitfaden 4.1.1 + Quellenmonitor | KI-Leitfaden + Quellenmonitor | teilweise |
+| D009 | Regelmäßige direkte Quellenbeobachtung statt allein Suchmaschinen; Pflicht- und Themenquellen | KI-Leitfaden 4.1.1 + `FIB-Quellenmonitor.md` V0.2 + `FIB-Quellenmonitor-Architektur.md` V0.2; fachliche Quellenpflicht und technischer Monitor getrennt | KI-Leitfaden + Quellenmonitor | gesichert |
 | D010 | Bürgerinitiativen/Verbände/NGOs als relevante Quellen mit Resonanz-/Gegenprüfung | KI-Leitfaden 4.3: systematische Berücksichtigung, BI als besonders relevante Quellenklasse, gezielte Resonanz-/Gegenpositionssuche | Quellenregeln | gesichert |
 | D011 | Manueller Trigger „Bitte FIB-Update ausführen“ und Update-Parameter/Standardlauf | KI-Leitfaden 11.9: Trigger, Standardzeitraum, Vollumfang, Prüftiefe, Pflichtchecks, Update-Bilanz und redaktionelle Freigabe | Betriebsdokumentation | gesichert |
 | D012 | Persistenter FIB-Datenbestand ist Gedächtnis, nicht KI-Modell | Architektur | Architektur | gesichert |
@@ -79,8 +80,8 @@ Statuswerte: `gesichert`, `teilweise`, `fehlt`, `offen`, `zu prüfen`.
 | D020 | Teilen/Drucken-PDF/Benachrichtigungen und Social-Media-Metadaten | `assets/share-print-subscribe.js`, `assets/mobile-print-guard.js`; `FIB_Frontend_und_Darstellung.md` V0.3 trennt implementierte Teilen-/Druckfunktion von Benachrichtigungs-Mockup | Frontend + Betrieb; produktive Benachrichtigungen inkl. Datenmodell/Double-Opt-in/Datenschutz/Mailbetrieb sowie Social-Media-Metadaten noch umzusetzen | teilweise |
 | D021 | Sunflower/WordPress-Integration bei Erhalt FIB-spezifischer Funktionen | Frontend | Architektur + Frontend | gesichert |
 | D022 | Echtbetriebsarchitektur mit Supabase, Redaktions-Web-App, GitHub Actions, austauschbaren KI-/RAG-Diensten | Architektur | Architektur | gesichert |
-| D023 | Dokumentlenkung mit Dokumentstand und Änderungshistorie | Audit, Frontend-Dokument und KI-Leitfaden nach Standard geführt; übrige kanonische Dokumente noch zu prüfen | alle kanonischen Dokumente | teilweise |
-| D024 | GitHub als künftig führende Projektdokumentation; Chat/Projektbibliothek nicht als alleinige Wahrheit | Auditregel und Definition of Done auf Arbeitsbranch persistent festgelegt | Dokumentationsstandard + README | teilweise; endgültige Kanonisierung erst nach Audit |
+| D023 | Dokumentlenkung mit Dokumentstand und Änderungshistorie | Audit, README, Frontend-, Quellenmonitor- und KI-Leitfaden-Dokumente nach Standard geführt; übrige kanonische Dokumente noch zu prüfen | alle kanonischen Dokumente | teilweise |
+| D024 | GitHub als künftig führende Projektdokumentation; Chat/Projektbibliothek nicht als alleinige Wahrheit | Auditregel, Definition of Done und `README.md` V0.2 auf Arbeitsbranch persistent festgelegt | Dokumentationsstandard + README | teilweise; endgültige Kanonisierung erst nach Audit |
 | D025 | Reproduzierbarkeit: Installation, Konfiguration, DB-Migrationen, Backup/Restore, Administration, Deployment | `docs/konsolidierung/FIB_Betrieb_und_Reproduzierbarkeit.md` dokumentiert den reproduzierbaren Demonstrator-Iststand und markiert fehlende Echtbetriebsbausteine ausdrücklich | Betriebs-/Entwicklerdokumentation + praktische Restore-/Deployment-Nachweise | teilweise |
 
 ## 5. Prüfschritte
