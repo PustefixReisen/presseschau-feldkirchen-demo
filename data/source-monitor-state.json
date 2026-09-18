@@ -5,7 +5,7 @@
       "name": "Gemeinde Feldkirchen – Nachrichten aus dem Bauamt",
       "url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt",
       "priority": "mandatory",
-      "last_success_at": "2026-09-17T09:28:10+00:00",
+      "last_success_at": "2026-09-18T09:01:46+00:00",
       "final_url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt",
       "content_type": "text/html;charset=UTF-8",
       "page_sha256": "bb5445e2e2bd6da6b6779699bdf45c82c56a193f70501cf343d71545a86994d6",
@@ -26,7 +26,7 @@
       "name": "Gemeinde Feldkirchen – Neues Parkraumkonzept",
       "url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt/neues-parkraumkonzept-in-feldkirchen",
       "priority": "mandatory",
-      "last_success_at": "2026-09-17T09:28:12+00:00",
+      "last_success_at": "2026-09-18T09:01:49+00:00",
       "final_url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt/neues-parkraumkonzept-in-feldkirchen",
       "content_type": "text/html;charset=UTF-8",
       "page_sha256": "63449d52ad5330ab4723611bc9c4d6688cc1c9ccf62ee8220e71161aac1038ef",
@@ -445,7 +445,7 @@
           "content_type": "application/pdf",
           "bytes": 1472041,
           "sha256": "4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
-          "checked_at": "2026-09-17T09:28:12+00:00"
+          "checked_at": "2026-09-18T09:01:49+00:00"
         }
       },
       "error": null
@@ -454,11 +454,11 @@
       "name": "Landkreis München",
       "url": "https://www.landkreis-muenchen.de/",
       "priority": "mandatory",
-      "last_success_at": "2026-09-17T09:28:14+00:00",
+      "last_success_at": "2026-09-18T09:01:50+00:00",
       "final_url": "https://www.landkreis-muenchen.de/",
       "content_type": "text/html; charset=utf-8",
       "page_sha256": "ff6c478dbe8d28a7ac9d87a729ffabcf2b0b2d1bf9d22a512101bdec85cb8e40",
-      "page_changed": true,
+      "page_changed": false,
       "first_seen": false,
       "links": {
         "https://www.landkreis-muenchen.de/": {
@@ -748,18 +748,18 @@
       "name": "Autobahn GmbH – Südbayern",
       "url": "https://www.autobahn.de/die-autobahn/niederlassungen/suedbayern",
       "priority": "topic",
-      "last_attempt_at": "2026-09-17T09:28:14+00:00",
+      "last_attempt_at": "2026-09-18T09:01:50+00:00",
       "error": "HTTPError: HTTP Error 404: Not Found"
     },
     "adfc-muenchen": {
       "name": "ADFC München",
       "url": "https://muenchen.adfc.de/",
       "priority": "topic",
-      "last_success_at": "2026-09-17T09:28:15+00:00",
+      "last_success_at": "2026-09-18T09:01:51+00:00",
       "final_url": "https://muenchen.adfc.de/",
       "content_type": "text/html; charset=utf-8",
-      "page_sha256": "fc399c80f7454222dbc4673ebd32d3177b530e9fc7a5bde680ac5bccc0c1c922",
-      "page_changed": false,
+      "page_sha256": "265fab67448f99a7de7ddd00246ba53e25e57a60663220b0e5905a6fbb9368a7",
+      "page_changed": true,
       "first_seen": false,
       "links": {
         "https://muenchen.adfc.de/sei-dabei": {
@@ -845,7 +845,7 @@
       "name": "BUND Naturschutz – Kreisgruppe München",
       "url": "https://bn-muenchen.de/",
       "priority": "topic",
-      "last_success_at": "2026-09-16T09:19:28+00:00",
+      "last_success_at": "2026-09-18T09:01:52+00:00",
       "final_url": "https://bn-muenchen.de/",
       "content_type": "text/html",
       "page_sha256": "c9c228fa3294734a8b11eb9e7cfac3316ccb2db84afb1c80c6f0098e713d2e2e",
@@ -860,17 +860,16 @@
         }
       },
       "documents": {},
-      "error": "URLError: <urlopen error timed out>",
-      "last_attempt_at": "2026-09-17T09:28:51+00:00"
+      "error": null
     },
     "bi-afk": {
       "name": "BI-AFK",
       "url": "https://www.bi-afk.de/",
       "priority": "topic",
-      "last_success_at": "2026-09-17T09:28:53+00:00",
+      "last_success_at": "2026-09-18T09:01:55+00:00",
       "final_url": "https://bi-afk.de/",
       "content_type": "text/html; charset=UTF-8",
-      "page_sha256": "80fd04766c697e93df9fb5be0ace2b91cd712ffc6ed088ec5c01460bd3e04dab",
+      "page_sha256": "e11454e9f7700b217c8305d2a9bde73f672067aee420e049e10c3bcbebff6aa3",
       "page_changed": true,
       "first_seen": false,
       "links": {
@@ -953,11 +952,11 @@
           "content_type": "application/pdf",
           "bytes": 149466,
           "sha256": "f0ce9eb0a26c6e4bafbce93352128b32ede6a1a841c241d07be53c69c0f4b695",
-          "checked_at": "2026-09-17T09:28:53+00:00"
+          "checked_at": "2026-09-18T09:01:55+00:00"
         }
       },
       "error": null
     }
   },
-  "last_run_at": "2026-09-17T09:28:53+00:00"
+  "last_run_at": "2026-09-18T09:01:55+00:00"
 }
