@@ -5,7 +5,7 @@
       "name": "Gemeinde Feldkirchen – Nachrichten aus dem Bauamt",
       "url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt",
       "priority": "mandatory",
-      "last_success_at": "2026-09-18T09:01:46+00:00",
+      "last_success_at": "2026-09-19T08:49:38+00:00",
       "final_url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt",
       "content_type": "text/html;charset=UTF-8",
       "page_sha256": "bb5445e2e2bd6da6b6779699bdf45c82c56a193f70501cf343d71545a86994d6",
@@ -26,7 +26,7 @@
       "name": "Gemeinde Feldkirchen – Neues Parkraumkonzept",
       "url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt/neues-parkraumkonzept-in-feldkirchen",
       "priority": "mandatory",
-      "last_success_at": "2026-09-18T09:01:49+00:00",
+      "last_success_at": "2026-09-19T08:49:41+00:00",
       "final_url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt/neues-parkraumkonzept-in-feldkirchen",
       "content_type": "text/html;charset=UTF-8",
       "page_sha256": "63449d52ad5330ab4723611bc9c4d6688cc1c9ccf62ee8220e71161aac1038ef",
@@ -445,7 +445,7 @@
           "content_type": "application/pdf",
           "bytes": 1472041,
           "sha256": "4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
-          "checked_at": "2026-09-18T09:01:49+00:00"
+          "checked_at": "2026-09-19T08:49:41+00:00"
         }
       },
       "error": null
@@ -454,11 +454,11 @@
       "name": "Landkreis München",
       "url": "https://www.landkreis-muenchen.de/",
       "priority": "mandatory",
-      "last_success_at": "2026-09-18T09:01:50+00:00",
+      "last_success_at": "2026-09-19T08:49:42+00:00",
       "final_url": "https://www.landkreis-muenchen.de/",
       "content_type": "text/html; charset=utf-8",
-      "page_sha256": "ff6c478dbe8d28a7ac9d87a729ffabcf2b0b2d1bf9d22a512101bdec85cb8e40",
-      "page_changed": false,
+      "page_sha256": "90f82c12f86f299079d9a65dcbaf3c6c5c202d4c93029304da35875f533aeb16",
+      "page_changed": true,
       "first_seen": false,
       "links": {
         "https://www.landkreis-muenchen.de/": {
@@ -629,6 +629,15 @@
         "https://www.landkreis-muenchen.de/themen/freizeit-kultur-sport/kultur/kulturvereinigung-im-landkreis-muenchen/": {
           "text": "Kultur"
         },
+        "https://www.landkreis-muenchen.de/artikel/impulsvortrag-zum-thema-gluecksspielsucht/": {
+          "text": ""
+        },
+        "https://www.landkreis-muenchen.de/artikel/aktion-zukunft-unterstuetzt-bachrenaturierung/": {
+          "text": ""
+        },
+        "https://www.landkreis-muenchen.de/artikel/eingeschraenkte-erreichbarkeit-des-landratsamts-1/": {
+          "text": ""
+        },
         "https://www.landkreis-muenchen.de/artikel/so-viele-wie-noch-nie-soziales-engagement-ausgezeichnet/": {
           "text": ""
         },
@@ -636,9 +645,6 @@
           "text": ""
         },
         "https://www.landkreis-muenchen.de/artikel/gemeinsam-fuer-den-ernstfall-geruestet/": {
-          "text": ""
-        },
-        "https://www.landkreis-muenchen.de/artikel/eingeschraenkte-erreichbarkeit-des-landratsamts-1/": {
           "text": ""
         },
         "https://www.landkreis-muenchen.de/artikel/amtsblatt-nr-29-2026/": {
@@ -657,12 +663,6 @@
           "text": ""
         },
         "https://www.landkreis-muenchen.de/artikel/woche-der-klimaanpassung-laedt-zum-mitmachen-ein/": {
-          "text": ""
-        },
-        "https://www.landkreis-muenchen.de/artikel/unterschleissheim-sanierung-von-asylunterkunft-abgeschlossen/": {
-          "text": ""
-        },
-        "https://www.landkreis-muenchen.de/artikel/amtsblatt-28-2026/": {
           "text": ""
         },
         "https://www.landkreis-muenchen.de/list/1/": {
@@ -748,18 +748,18 @@
       "name": "Autobahn GmbH – Südbayern",
       "url": "https://www.autobahn.de/die-autobahn/niederlassungen/suedbayern",
       "priority": "topic",
-      "last_attempt_at": "2026-09-18T09:01:50+00:00",
+      "last_attempt_at": "2026-09-19T08:49:43+00:00",
       "error": "HTTPError: HTTP Error 404: Not Found"
     },
     "adfc-muenchen": {
       "name": "ADFC München",
       "url": "https://muenchen.adfc.de/",
       "priority": "topic",
-      "last_success_at": "2026-09-18T09:01:51+00:00",
+      "last_success_at": "2026-09-19T08:49:44+00:00",
       "final_url": "https://muenchen.adfc.de/",
       "content_type": "text/html; charset=utf-8",
       "page_sha256": "265fab67448f99a7de7ddd00246ba53e25e57a60663220b0e5905a6fbb9368a7",
-      "page_changed": true,
+      "page_changed": false,
       "first_seen": false,
       "links": {
         "https://muenchen.adfc.de/sei-dabei": {
@@ -845,7 +845,7 @@
       "name": "BUND Naturschutz – Kreisgruppe München",
       "url": "https://bn-muenchen.de/",
       "priority": "topic",
-      "last_success_at": "2026-09-18T09:01:52+00:00",
+      "last_success_at": "2026-09-19T08:49:46+00:00",
       "final_url": "https://bn-muenchen.de/",
       "content_type": "text/html",
       "page_sha256": "c9c228fa3294734a8b11eb9e7cfac3316ccb2db84afb1c80c6f0098e713d2e2e",
@@ -866,11 +866,11 @@
       "name": "BI-AFK",
       "url": "https://www.bi-afk.de/",
       "priority": "topic",
-      "last_success_at": "2026-09-18T09:01:55+00:00",
+      "last_success_at": "2026-09-19T08:49:48+00:00",
       "final_url": "https://bi-afk.de/",
       "content_type": "text/html; charset=UTF-8",
       "page_sha256": "e11454e9f7700b217c8305d2a9bde73f672067aee420e049e10c3bcbebff6aa3",
-      "page_changed": true,
+      "page_changed": false,
       "first_seen": false,
       "links": {
         "https://bi-afk.de/": {
@@ -952,11 +952,11 @@
           "content_type": "application/pdf",
           "bytes": 149466,
           "sha256": "f0ce9eb0a26c6e4bafbce93352128b32ede6a1a841c241d07be53c69c0f4b695",
-          "checked_at": "2026-09-18T09:01:55+00:00"
+          "checked_at": "2026-09-19T08:49:48+00:00"
         }
       },
       "error": null
     }
   },
-  "last_run_at": "2026-09-18T09:01:55+00:00"
+  "last_run_at": "2026-09-19T08:49:48+00:00"
 }
