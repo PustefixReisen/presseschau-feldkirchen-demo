@@ -21,12 +21,13 @@
     const topbarHeight=topbar ? Math.ceil(topbar.getBoundingClientRect().height) : 0;
     target.style.scrollMarginTop=`${topbarHeight + 16}px`;
 
-    // Zwei Frames abwarten, damit Sortierung und DOM-Aenderungen abgeschlossen sind.
-    requestAnimationFrame(()=>{
-      requestAnimationFrame(()=>{
-        target.scrollIntoView({block:'start'});
-      });
-    });
+    const placeTarget=()=>target.scrollIntoView({behavior:'auto',block:'start'});
+
+    // Browser koennen beim Wiederaufruf eine alte Scrollposition restaurieren.
+    // Mehrere kurze Nachkorrekturen halten den Hash-Zielpunkt waehrend spaeter
+    // Layout-Aenderungen (z. B. Bilder/Schriften) stabil.
+    requestAnimationFrame(()=>requestAnimationFrame(placeTarget));
+    [120,350,800].forEach(delay=>setTimeout(placeTarget,delay));
   }
 
   document.addEventListener('click',event=>{
@@ -75,7 +76,9 @@
 
   // Direkte Beitrags-/Themenlinks (z. B. #R069) nach allen dynamischen
   // Aenderungen erneut exakt ansteuern.
+  if('scrollRestoration' in history) history.scrollRestoration='manual';
   scrollToCurrentHash();
   window.addEventListener('load',scrollToCurrentHash,{once:true});
+  window.addEventListener('pageshow',scrollToCurrentHash);
   window.addEventListener('hashchange',scrollToCurrentHash);
 })();
