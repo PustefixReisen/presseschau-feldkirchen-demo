@@ -1,6 +1,6 @@
 # KI-Leitfaden Homepage-Presseschau Feldkirchen
 
-**Version 1.8 · Stand 20.09.2026**
+**Version 1.9 · Stand 20.09.2026**
 
 > Kanonische Markdown-Fassung für GitHub. Inhaltlich übernommen aus der bisherigen Projektbibliothek und um verbindliche Projektentscheidungen fortgeschrieben.
 
@@ -86,7 +86,9 @@ Die Direktprüfung wird risikobasiert organisiert: Pflichtquellen bei jedem voll
 
 ### 4.1.2 Auswertung kommunaler Beschlussvorlagen
 
-Bei jedem relevanten öffentlichen Tagesordnungspunkt wird – sofern öffentlich verfügbar – nicht nur die Tagesordnung, sondern auch die vollständige Beschlussvorlage einschließlich fachlich einschlägiger Anlagen ausgewertet. Beschlussvorlagen sind regelmäßig zentrale Primärquellen für Anlass, Vorgeschichte, Zahlen, Kosten, technische Randbedingungen, Handlungsalternativen, offene Umsetzungsfragen sowie Stellungnahmen von Verwaltung, Gutachtern und Beteiligten.
+Öffentlich freigegebene kommunale Beschlussvorlagen und fachlich einschlägige Anlagen werden unabhängig davon geprüft, ob sie bereits eindeutig einem veröffentlichten Tagesordnungspunkt zugeordnet sind. Beschlussvorlagen sind regelmäßig zentrale Primärquellen für Anlass, Vorgeschichte, Zahlen, Kosten, technische Randbedingungen, Handlungsalternativen, offene Umsetzungsfragen sowie Stellungnahmen von Verwaltung, Gutachtern und Beteiligten.
+
+Neu veröffentlichte bzw. neu freigegebene RIS-Dokumente können deshalb bereits einen eigenständigen neuen Sachstand darstellen, auch wenn ein zugehöriger Tagesordnungspunkt noch nicht veröffentlicht ist oder noch kein bestätigter Sitzungstermin feststeht. Solche Dokumente werden als mögliche FIB-Beiträge geprüft und nicht erst dann berücksichtigt, wenn sie in einer konkreten Tagesordnung erscheinen.
 
 Für die öffentliche Sachinformation gilt:
 
@@ -96,7 +98,9 @@ Für die öffentliche Sachinformation gilt:
 - noch nicht beschlossene Varianten, Prüfaufträge und Alternativen werden ausdrücklich als offen bzw. vorgeschlagen gekennzeichnet;
 - eine Beschlussvorlage darf nicht als tatsächlicher Beschluss ausgegeben werden;
 - bei umfangreichen Vorlagen werden insbesondere Vorgeschichte, Kosten, technische Einschränkungen, Alternativen, Vollzugsfragen und für das Verständnis wesentliche Kontroversen geprüft;
-- die Sachinformation soll die wichtigsten Erkenntnisse der Vorlage nutzen, statt sich auf Tagesordnungstitel oder Kurzbeschreibung zu beschränken.
+- die Sachinformation soll die wichtigsten Erkenntnisse der Vorlage nutzen, statt sich auf Tagesordnungstitel oder Kurzbeschreibung zu beschränken;
+- wenn eine Vorlage öffentlich freigegeben ist, aber noch kein zugehöriger TOP in einer veröffentlichten Tagesordnung nachgewiesen werden kann, muss dies im Beitrag ausdrücklich sichtbar sein, z. B. mit dem Hinweis „Die Vorlage ist im RIS veröffentlicht; ein zugehöriger Tagesordnungspunkt bzw. Sitzungstermin ist derzeit noch nicht veröffentlicht/bestätigt.“;
+- eine in der Vorlage genannte Beratungsfolge oder ein dort genanntes Sitzungsdatum gilt nicht allein dadurch als bestätigter Tagesordnungspunkt. Maßgeblich für die Zuordnung zu einer konkreten Sitzung ist die veröffentlichte Tagesordnung bzw. eine sonstige belastbare öffentliche Sitzungsinformation.
 
 ### 4.2 Parteien und Wählervereinigungen
 Öffentliche Auftritte politisch aktiver Parteien und Wählervereinigungen werden berücksichtigt, mit erhöhter Relevanzschwelle. Konkrete kommunalpolitische Anträge, Initiativen, Änderungsvorschläge und Reaktionen auf Entscheidungen sind relevant. Parteiquellen sind grundsätzlich Positionsquellen; überprüfbare Sachbehauptungen werden möglichst unabhängig verifiziert und politische Positionen klar zugeschrieben.
@@ -164,6 +168,7 @@ Vor Veröffentlichung werden Tatsachen, Datumsangaben, Rollen, Links, Quellen, Z
 
 | Version | Datum | Änderung |
 |---|---|---|
+| 1.9 | 20.09.2026 | RIS-Freigaben ohne bereits veröffentlichten TOP als möglichen eigenständigen neuen Sachstand aufgenommen; Beiträge müssen fehlende TOP-/Sitzungszuordnung ausdrücklich sichtbar machen; Beratungsfolge in Vorlagen allein bestätigt keinen Sitzungstermin. |
 | 1.8 | 20.09.2026 | Vollständige Auswertung kommunaler Beschlussvorlagen und relevanter Anlagen als verbindliche Recherche- und Beitragsregel ergänzt; klare Trennung von Tatsachen, Verwaltungsbewertung, Bürgerargumenten und offenen Varianten. |
 | 1.7 | 17.09.2026 | Relevanzregeln für ortsbezogene Meldungen erweitert: Gemeindepressemitteilungen grundsätzlich relevant; lokale Ereignisse aus verlässlichen Quellen auch ohne kommunalpolitischen Beschluss veröffentlichungsfähig; im Versuchsbetrieb bei Zweifeln eher aufnehmen. |
 | 1.6 | 10.09.2026 | Bisherige kanonische Fassung. |
