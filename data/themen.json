@@ -559,13 +559,14 @@
       "id": "T004",
       "title": "Kinderhaus St. Jakob",
       "first_created": "2026-04-30",
-      "last_substantive_update": "2026-06-01",
+      "last_substantive_update": "2026-09-17",
       "contribution_refs": [
         "R006",
         "C027",
-        "R030"
+        "R030",
+        "R071"
       ],
-      "summary": "Die Sanierung und Neuordnung des Kinderhauses St. Jakob entwickelte sich im Untersuchungszeitraum von der Planungsphase zu konkreten Übergangsmaßnahmen. Im Oktober 2025 stellte die Gemeinde dem Gemeinderat den damaligen Planungsstand vor. Am 30. April 2026 beschloss der Gemeinderat eine zusätzliche Hortgruppe ab September und genehmigte eine temporäre Containeranlage an der Clara-Schumann-Straße als Ausweichquartier.\n\nNach dem im Juni veröffentlichten Stand sollen dort rund 100 Kinder für mehrere Jahre betreut werden. Dadurch wird die Baumaßnahme zugleich zu einer Frage der Verkehrsorganisation im Umfeld des Ausweichstandorts, insbesondere für Bring- und Holverkehr sowie sichere Wege. Die Entwicklung des Kinderhauses betrifft damit sowohl Betreuungskapazitäten und Gebäudesanierung als auch die zeitweise Nutzung des Standorts an der Clara-Schumann-Straße.",
+      "summary": "Die Sanierung und Neuordnung des Kinderhauses St. Jakob entwickelte sich im Untersuchungszeitraum von der Planungsphase zu konkreten Übergangsmaßnahmen. Im April 2026 beschloss der Gemeinderat eine zusätzliche Hortgruppe und eine temporäre Containeranlage an der Clara-Schumann-Straße als Ausweichquartier; im Juni wurde für den Übergangsstandort von rund 100 Kindern ausgegangen.\n\nFür den 17. September war eine weitere Beratung zu Bau- und Planungskosten, möglichen Einsparpotenzialen und dem weiteren Vorgehen angekündigt. Die Gemeinde nahm den Tagesordnungspunkt jedoch am Sitzungstag aus der öffentlichen Sitzung. Die angekündigte Entscheidung zum weiteren Vorgehen blieb damit zunächst offen.",
       "open_questions": [
         "Wie lange wird das Ausweichquartier tatsächlich benötigt?",
         "Wie werden Bring- und Holverkehr sowie sichere Fuß- und Radwege am Ausweichstandort organisiert?",
@@ -663,6 +664,28 @@
           "date": "2026-06-01",
           "date_basis": "publication_date",
           "date_status": "migrated_unique"
+        },
+        {
+          "name": "Gemeinde Feldkirchen – Eilmeldung: TOP 2 Kinderhaus St. Jakob verschoben",
+          "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/eilmeldung-gemeinderatssitzung-top-2-kinderhaus-sankt-jakob-verschoben",
+          "type": "primary_official",
+          "source_refs": [
+            "R071"
+          ],
+          "date": "2026-09-17",
+          "date_basis": "publication_date",
+          "date_status": "verified"
+        },
+        {
+          "name": "RIS Feldkirchen – Gemeinderat 17.09.2026",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1029",
+          "type": "primary_official",
+          "source_refs": [
+            "R071"
+          ],
+          "date": "2026-09-17",
+          "date_basis": "session_date",
+          "date_status": "verified"
         }
       ],
       "unsere_einordnung": "Bei St. Jakob geht es nicht nur um ein Bauprojekt, sondern um verlässliche Betreuung über mehrere Jahre. Die Übergangslösung muss deshalb aus Sicht der Familien funktionieren: ausreichende Plätze, ein belastbarer Zeitplan und sichere Wege zum Ausweichstandort gehören zusammen.\n\nAus grüner Sicht sind gute, wohnortnahe Kinderbetreuung und eine sichere Alltagsmobilität zentrale kommunale Aufgaben. Für die Zeit an der Clara-Schumann-Straße sollte die Gemeinde den Bring- und Holverkehr deshalb nicht nur beobachten, sondern sichere Fuß- und Radwege sowie praktikable Verkehrsregeln von Beginn an mitplanen.",
@@ -688,12 +711,13 @@
       "id": "T005",
       "title": "Klimaanpassung und Hitzeschutz",
       "first_created": "2026-06-11",
-      "last_substantive_update": "2026-06-11",
+      "last_substantive_update": "2026-09-17",
       "contribution_refs": [
         "R013",
-        "R032"
+        "R032",
+        "R070"
       ],
-      "summary": "Feldkirchen hat 2026 zwei aufeinander aufbauende Grundlagen für den Umgang mit Klimafolgen beschlossen. Am 15. Januar verabschiedete der Gemeinderat das integrierte Klimafolgenanpassungskonzept einstimmig. Sein Maßnahmenkatalog behandelt unter anderem den Umgang mit zunehmender Hitze, Starkregen und weiteren Klimafolgen.\n\nAm 11. Juni folgte der ebenfalls einstimmig beschlossene Hitzeaktionsplan. Damit wurde ein Teilbereich der Klimaanpassung weiter konkretisiert und auf den Schutz der Bevölkerung bei Hitzeereignissen ausgerichtet. Der Schwerpunkt verlagert sich damit von der Konzepterstellung auf die Umsetzung und Priorisierung konkreter Maßnahmen.",
+      "summary": "Feldkirchen hat 2026 zwei aufeinander aufbauende Grundlagen für den Umgang mit Klimafolgen geschaffen. Am 15. Januar beschloss der Gemeinderat das integrierte Klimafolgenanpassungskonzept; am 11. Juni folgte der Hitzeaktionsplan. Damit verlagerte sich der Schwerpunkt von der Konzepterstellung auf die Umsetzung.\n\nFür die Sitzung am 17. September lag eine konkrete Umsetzungs-Vorlage vor: mindestens zwei öffentliche Trinkwasserbrunnen an zentralen Standorten sowie eine mobile Sprühnebelanlage. Für die Brunnen wird ein Förderprogramm mit bis zu 90 Prozent der zuwendungsfähigen Kosten und höchstens 10.000 Euro je Brunnen genannt. Ein öffentlich dokumentiertes Abstimmungsergebnis war bei der Prüfung noch nicht verfügbar.",
       "open_questions": [
         "Welche Maßnahmen des Klimaanpassungskonzepts werden zuerst umgesetzt und finanziert?",
         "Wie wird die Wirksamkeit des Hitzeaktionsplans überprüft?",
@@ -778,6 +802,28 @@
           "date": "2026-06-11",
           "date_basis": "event_or_session_date",
           "date_status": "migrated_fallback_needs_source_date_check"
+        },
+        {
+          "name": "RIS Feldkirchen – Beschlussvorlage 5342/2026: Hitzeschutzmaßnahmen",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75232&type=do",
+          "type": "primary_official",
+          "source_refs": [
+            "R070"
+          ],
+          "date": "2026-08-25",
+          "date_basis": "document_creation_date",
+          "date_status": "verified"
+        },
+        {
+          "name": "RIS Feldkirchen – Gemeinderat 17.09.2026",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1029",
+          "type": "primary_official",
+          "source_refs": [
+            "R070"
+          ],
+          "date": "2026-09-17",
+          "date_basis": "session_date",
+          "date_status": "verified"
         }
       ],
       "unsere_einordnung": "Mit Klimaanpassungskonzept und Hitzeaktionsplan sind die Grundlagen geschaffen. Entscheidend wird jetzt die Umsetzung. Klimaanpassung sollte deshalb nicht als eigenes Spezialthema neben anderen Planungen stehen, sondern bei Straßen, Plätzen, Gebäuden und Grünflächen regelmäßig mitentscheiden.\n\nAus grüner Sicht gehören Entsiegelung, Schatten, Bäume, zusammenhängende Grünstrukturen und ein guter Umgang mit Regenwasser zu einer klimaresilienten Ortsentwicklung. Feldkirchen sollte die Maßnahmen deshalb priorisieren, mit Zuständigkeiten und Finanzierung hinterlegen und regelmäßig öffentlich zeigen, was bereits umgesetzt wurde und welche Wirkung erreicht wird.",
@@ -809,12 +855,13 @@
       "id": "T006",
       "title": "Parkraumkonzept",
       "first_created": "2026-08-18",
-      "last_substantive_update": "2026-08-18",
+      "last_substantive_update": "2026-09-09",
       "contribution_refs": [
         "R026",
-        "R039"
+        "R039",
+        "R068"
       ],
-      "summary": "Das Parkraumkonzept entwickelte sich 2026 von einer Bestands- und Planungsgrundlage zu konkreten Regelungen und Nutzungskonflikten. Im März stellte das beauftragte Planungsbüro den Entwurf im Gemeinderat vor. In der Diskussion wurden fehlende konkrete Maßnahmen kritisiert; der Gemeinderat verlangte Ergänzungen für weitere Straßen und Bereiche und sah eine erneute Befassung vor.\n\nIm August zeigte sich am Friedhof ein konkreter Konflikt um die Umsetzung. 34 Anwohner wandten sich gegen eine Zwei-Stunden-Parkregelung. Der Gemeinderat hielt grundsätzlich am Konzept fest, für diesen Bereich sollte die zulässige Parkdauer jedoch auf drei Stunden verlängert werden. Damit wird sichtbar, dass die Umsetzung des Konzepts laufende Abwägungen zwischen Verfügbarkeit öffentlicher Stellplätze, unterschiedlichen Nutzergruppen und Anwohnerinteressen erfordert.",
+      "summary": "Das Parkraumkonzept entwickelte sich 2026 von einer Bestands- und Planungsgrundlage zu konkreten Regelungen und Nutzungskonflikten. Im März stellte das beauftragte Planungsbüro den Entwurf im Gemeinderat vor; im Juli fasste der Gemeinderat den Beschluss zum Konzept. Im August zeigte sich am Friedhof ein konkreter Konflikt um eine Zwei-Stunden-Parkregelung, die für diesen Bereich auf drei Stunden verlängert werden sollte.\n\nAm 9. September veröffentlichte die Gemeinde das beschlossene Parkraumkonzept einschließlich PDF. Nach ihrer Darstellung soll es insbesondere Probleme des ruhenden Kfz-Verkehrs an klassifizierten Straßen und in Teilen des Gewerbegebiets adressieren. Damit liegt nun eine öffentlich abrufbare Grundlage vor, an der die weitere Umsetzung und spätere Wirkungskontrolle nachvollzogen werden können.",
       "open_questions": [
         "Welche weiteren Regelungen aus dem Parkraumkonzept werden umgesetzt?",
         "Wie werden die Wirkungen neuer Parkzeitbegrenzungen ausgewertet?",
@@ -864,6 +911,28 @@
           "date": "2026-08-18",
           "date_basis": "publication_date",
           "date_status": "migrated_unique"
+        },
+        {
+          "name": "Gemeinde Feldkirchen – Neues Parkraumkonzept in Feldkirchen",
+          "url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt/neues-parkraumkonzept-in-feldkirchen",
+          "type": "primary_official",
+          "source_refs": [
+            "R068"
+          ],
+          "date": "2026-09-09",
+          "date_basis": "publication_date",
+          "date_status": "verified"
+        },
+        {
+          "name": "Gemeinde Feldkirchen – Parkraumkonzept 2026 (PDF)",
+          "url": "https://www.feldkirchen.de/_Resources/Persistent/d/3/d/e/d3dee38ce3c4a9ad01384ca6ed314a2a8f8bcc12/2026%20Parkraumkonzept%20gem%20GR-Beschluss.pdf",
+          "type": "primary_official_document",
+          "source_refs": [
+            "R068"
+          ],
+          "date": "2026-09-09",
+          "date_basis": "publication_context",
+          "date_status": "verified"
         }
       ],
       "unsere_einordnung": "Parkraummanagement sollte mehr leisten als Parkplätze zu zählen und Höchstparkzeiten festzulegen. Öffentlicher Straßenraum ist begrenzt und muss zwischen Anwohnern, Besuchern, Gewerbe, Fuß- und Radverkehr, Grün und anderen Nutzungen fair verteilt werden.\n\nAus grüner Sicht sollte Feldkirchen deshalb für einzelne Bereiche klare Ziele formulieren und anschließend prüfen, ob die Regeln diese Ziele tatsächlich erreichen. Die Auseinandersetzung am Friedhof zeigt, dass Wirkungskontrolle wichtig ist: Anpassungen können sinnvoll sein, sollten aber auf nachvollziehbaren Kriterien beruhen und nicht nur auf dem lautesten Einzelkonflikt.",
@@ -1032,14 +1101,15 @@
       "id": "T009",
       "title": "Wohnungsbau und kommunale Planung",
       "first_created": "2026-07-09",
-      "last_substantive_update": "2026-08-20",
+      "last_substantive_update": "2026-09-11",
       "contribution_refs": [
         "R003",
         "R047",
         "R037",
-        "R049"
+        "R049",
+        "R072"
       ],
-      "summary": "Wohnungsbau wurde im Untersuchungszeitraum sowohl über größere Bauleitplanungen als auch über einzelne Genehmigungsverfahren zum kommunalpolitischen Thema. Im Oktober 2025 führte der Gemeinderat das Verfahren für den Bebauungsplan Nr. 113 südlich der Hohenlindner Straße bis zur Jahnstraße weiter. Im Juli 2026 lag für Grundstücke in diesem Bereich ein Bauantrag für acht Wohngebäude mit insgesamt 166 Eigentumswohnungen und einer Tiefgarage mit 243 Kfz-Stellplätzen vor.\n\nParallel entstand in der Sonnenstraße ein Konflikt um zehn Mietwohnungen, bei dem das Landratsamt das Vorhaben nach wiederholter Ablehnung durch den Gemeinderat als genehmigungsfähig bewertete. Im August genehmigte der Ferienausschuss außerdem 36 zusätzliche Mitarbeiterwohnungen am Betriebshof des Busunternehmens Ettenhuber im Otto-Lilienthal-Ring. Die Fälle zeigen unterschiedliche Ebenen kommunaler Steuerung und unterschiedliche Formen von Wohnraumschaffung – von Bauleitplanung über rechtlich gebundene Einzelgenehmigungen bis zu betriebsbezogenem Wohnen.",
+      "summary": "Wohnungsbau wurde im Untersuchungszeitraum sowohl über größere Bauleitplanungen als auch über einzelne Genehmigungsverfahren zum kommunalpolitischen Thema. Für das Gebiet des Bebauungsplans Nr. 113 liegt ein Bauantrag für acht Wohngebäude mit 166 Eigentumswohnungen und 243 Tiefgaragenstellplätzen vor. Das gemeindliche Einvernehmen war im Juli zunächst verweigert worden, weil mögliche Infrastrukturfolgekosten noch geklärt werden sollten.\n\nEine neue Vorlage für die Beratung am 29. September enthält nun eine Bedarfsprognose: In der Spitze werden dem Baugebiet 10 zusätzliche Krippenplätze und – nach Berücksichtigung vorhandener Kapazitäten – 11 zusätzliche Kindergartenplätze zugerechnet. Die berechneten Folgekosten für Betreuungsplätze betragen laut Vorlage 965.456 Euro. Daneben bleiben die Fälle in der Sonnenstraße und die zusätzlichen Mitarbeiterwohnungen am Ettenhuber-Betriebshof weitere Beispiele für unterschiedliche Ebenen kommunaler Steuerung des Wohnungsbaus.",
       "open_questions": [
         "Wie entwickelt sich das Vorhaben mit 166 Wohnungen im weiteren Planungs- und Genehmigungsverfahren?",
         "Welche Infrastruktur- und Verkehrsfolgen werden bei größeren Wohnbauvorhaben berücksichtigt?",
@@ -1113,6 +1183,28 @@
           "source_refs": [
             "R049"
           ]
+        },
+        {
+          "name": "RIS Feldkirchen – Beschlussvorlage 5362/2026",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75324&type=do",
+          "type": "primary_official",
+          "source_refs": [
+            "R072"
+          ],
+          "date": "2026-09-11",
+          "date_basis": "document_creation_date",
+          "date_status": "verified"
+        },
+        {
+          "name": "RIS Feldkirchen – Gemeinderat 29.09.2026",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1073",
+          "type": "primary_official",
+          "source_refs": [
+            "R072"
+          ],
+          "date": "2026-09-29",
+          "date_basis": "scheduled_session_date",
+          "date_status": "verified_upcoming"
         }
       ],
       "unsere_einordnung": "Neue Wohnungen sind in einer wachsenden Region notwendig. Die entscheidende Frage ist aber nicht nur, wie viele Wohnungen entstehen, sondern welche: bezahlbar oder hochpreisig, flächensparend oder flächenintensiv, gut an Alltagseinrichtungen und nachhaltige Mobilität angebunden oder mit zusätzlichem Autoverkehr verbunden.\n\nAus grüner Sicht sollte Feldkirchen seine Möglichkeiten in der Bauleitplanung nutzen, um Wohnungsbau mit Gemeinwohl, bezahlbaren Angeboten, sparsamer Flächennutzung und guter Infrastruktur zu verbinden. Bei rechtlich gebundenen Einzelgenehmigungen muss zugleich klar zwischen politischen Wünschen und dem tatsächlich bestehenden kommunalen Entscheidungsspielraum unterschieden werden.",
