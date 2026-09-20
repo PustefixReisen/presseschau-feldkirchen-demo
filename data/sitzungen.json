@@ -13,7 +13,7 @@
     "source_sha256": "6e35b4576c08a05b018b95e6a2d9839dee3a1d376e25b013f16db1b37272e3ec",
     "canonical_replacement": "not_yet"
   },
-  "session_count": 21,
+  "session_count": 23,
   "sessions": [
     {
       "id": "S001",
@@ -3928,6 +3928,352 @@
           "no": 12,
           "title": "Anfragen",
           "agenda_item_id": "S021-A12"
+        }
+      ],
+      "important_selection_status": "completed_after_full_agenda_review"
+    },
+    {
+      "id": "S022",
+      "date": "2026-09-17",
+      "body": "Gemeinderat",
+      "session_ref": "GR/437/2026",
+      "session_url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1029",
+      "legacy_important_items": null,
+      "important_items": [
+        {
+          "item_id": "S022-T02",
+          "proposal_no": "5353/2026",
+          "title": "Kinderhaus St. Jakob – Bau- und Planungskosten, Einsparpotenziale und weiteres Vorgehen",
+          "research_or_contribution_refs": [
+            "R071"
+          ],
+          "documents": [],
+          "decision_status": "withdrawn_from_agenda",
+          "decision_result": "Tagesordnungspunkt am Sitzungstag entfallen",
+          "decision_evidence": [
+            {
+              "type": "municipal_notice",
+              "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/eilmeldung-gemeinderatssitzung-top-2-kinderhaus-sankt-jakob-verschoben"
+            }
+          ],
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 2
+        },
+        {
+          "item_id": "S022-T04",
+          "proposal_no": "5333/2026",
+          "title": "Formlose Bauvoranfrage für betreutes Wohnen, Hohenlindner Straße 17",
+          "research_or_contribution_refs": [],
+          "documents": [],
+          "decision_status": "decision_not_publicly_documented_in_audit",
+          "decision_result": null,
+          "decision_evidence": [],
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 4
+        },
+        {
+          "item_id": "S022-T06",
+          "proposal_no": "5342/2026",
+          "title": "Hitzeschutz: Trinkwasserbrunnen und mobile Sprühnebelanlage",
+          "research_or_contribution_refs": [
+            "R070"
+          ],
+          "documents": [
+            {
+              "label": "Beschlussvorlage 5342/2026",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75232&type=do",
+              "type": "primary_official",
+              "verification_status": "verified_2026-09-20"
+            }
+          ],
+          "decision_status": "decision_not_publicly_documented_in_audit",
+          "decision_result": null,
+          "decision_evidence": [],
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 6
+        },
+        {
+          "item_id": "S022-T07",
+          "proposal_no": "5328/2026",
+          "title": "Unbefristete Dauernutzung Bürgercafé durch Familienstützpunkt Lotse",
+          "research_or_contribution_refs": [],
+          "documents": [],
+          "decision_status": "decision_not_publicly_documented_in_audit",
+          "decision_result": null,
+          "decision_evidence": [],
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 7
+        },
+        {
+          "item_id": "S022-T08",
+          "proposal_no": "5356/2026",
+          "title": "Antrag der Fraktion Bündnis 90/Die Grünen zur Bürgerversammlung 2026",
+          "research_or_contribution_refs": [],
+          "documents": [
+            {
+              "label": "Beschlussvorlage 5356/2026",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75294&type=do",
+              "type": "primary_official",
+              "verification_status": "verified_2026-09-20"
+            }
+          ],
+          "decision_status": "decision_not_publicly_documented_in_audit",
+          "decision_result": null,
+          "decision_evidence": [],
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 8
+        }
+      ],
+      "other_public_items_note": "Weitere öffentliche TOPs wurden geprüft und nicht einzeln als wichtig ausgewiesen.",
+      "agenda_audit_status": "full_public_agenda_verified_2026-09-20",
+      "decision_audit_status": "public_result_not_available_for_selected_items_except_withdrawal",
+      "minutes": {
+        "status": "not_yet_publicly_verified",
+        "approval_status": "pending_or_not_verified",
+        "approval_date": null,
+        "publication_status": "not_publicly_found",
+        "publication_date": null,
+        "direct_public_minutes_url": null,
+        "link_status": "no_link",
+        "evidence": []
+      },
+      "legacy_verification_status": "agenda verified; TOP 2 withdrawal verified; other results not asserted",
+      "full_public_agenda": [
+        {
+          "no": 1,
+          "title": "Genehmigung der Niederschrift der Ferienausschuss-Sitzung vom 20.08.2026",
+          "agenda_item_id": "S022-A01"
+        },
+        {
+          "no": 2,
+          "proposal": "5353/2026",
+          "title": "Kinderhaus St. Jakob – Bau- und Planungskosten, Einsparpotenziale und weiteres Vorgehen (am Sitzungstag entfallen)",
+          "agenda_item_id": "S022-A02"
+        },
+        {
+          "no": 3,
+          "proposal": "5325/2026",
+          "title": "Straßenbenennung im Neubauprojekt „Green Village“",
+          "agenda_item_id": "S022-A03"
+        },
+        {
+          "no": 4,
+          "proposal": "5333/2026",
+          "title": "Formlose Bauvoranfrage für betreutes Wohnen, Hohenlindner Straße 17",
+          "agenda_item_id": "S022-A04"
+        },
+        {
+          "no": 5,
+          "proposal": "5332/2026",
+          "title": "Neubau Mehrfamilienhaus mit 4 Wohneinheiten, Oberndorfer Str. 27",
+          "agenda_item_id": "S022-A05"
+        },
+        {
+          "no": 6,
+          "proposal": "5342/2026",
+          "title": "Hitzeschutz: Trinkwasserbrunnen und mobile Sprühnebelanlage",
+          "agenda_item_id": "S022-A06"
+        },
+        {
+          "no": 7,
+          "proposal": "5328/2026",
+          "title": "Dauernutzung Bürgercafé durch Familienstützpunkt Lotse",
+          "agenda_item_id": "S022-A07"
+        },
+        {
+          "no": 8,
+          "proposal": "5356/2026",
+          "title": "Antrag Bündnis 90/Die Grünen zur Bürgerversammlung 2026",
+          "agenda_item_id": "S022-A08"
+        },
+        {
+          "no": 9,
+          "proposal": "5354/2026",
+          "title": "Bekanntgaben und Berichte",
+          "agenda_item_id": "S022-A09"
+        },
+        {
+          "no": 10,
+          "title": "Anfragen",
+          "agenda_item_id": "S022-A10"
+        }
+      ],
+      "important_selection_status": "completed_after_full_agenda_review"
+    },
+    {
+      "id": "S023",
+      "date": "2026-09-29",
+      "body": "Gemeinderat",
+      "session_ref": "GR/471/2026",
+      "session_url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1073",
+      "upcoming": true,
+      "legacy_important_items": null,
+      "important_items": [
+        {
+          "item_id": "S023-T02",
+          "proposal_no": "5308/2026",
+          "title": "Bebauungsplan Nr. 113 – erneute Billigung",
+          "research_or_contribution_refs": [],
+          "documents": [],
+          "decision_status": "upcoming_not_decided",
+          "decision_result": null,
+          "decision_evidence": [],
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 2
+        },
+        {
+          "item_id": "S023-T03",
+          "proposal_no": "5344/2026",
+          "title": "Bebauungsplan Nr. 91 Ortsmitte Nordost – Billigungsbeschluss",
+          "research_or_contribution_refs": [],
+          "documents": [],
+          "decision_status": "upcoming_not_decided",
+          "decision_result": null,
+          "decision_evidence": [],
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 3
+        },
+        {
+          "item_id": "S023-T04",
+          "proposal_no": "5154/2026",
+          "title": "Bebauungsplan Nr. 102 Gewerbegebiet Weißenfelder Straße – Billigungsbeschluss",
+          "research_or_contribution_refs": [],
+          "documents": [],
+          "decision_status": "upcoming_not_decided",
+          "decision_result": null,
+          "decision_evidence": [],
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 4
+        },
+        {
+          "item_id": "S023-T05",
+          "proposal_no": "5329/2026",
+          "title": "Bebauungsplan Nr. 103 – Satzungsbeschluss",
+          "research_or_contribution_refs": [],
+          "documents": [],
+          "decision_status": "upcoming_not_decided",
+          "decision_result": null,
+          "decision_evidence": [],
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 5
+        },
+        {
+          "item_id": "S023-T06",
+          "proposal_no": "5279/2026",
+          "title": "17. Änderung Flächennutzungsplan – Einstellung des Verfahrens",
+          "research_or_contribution_refs": [],
+          "documents": [],
+          "decision_status": "upcoming_not_decided",
+          "decision_result": null,
+          "decision_evidence": [],
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 6
+        },
+        {
+          "item_id": "S023-T07",
+          "proposal_no": "5280/2026",
+          "title": "Bebauungsplan Nr. 110 Spielplatz – Einstellung des Verfahrens",
+          "research_or_contribution_refs": [],
+          "documents": [],
+          "decision_status": "upcoming_not_decided",
+          "decision_result": null,
+          "decision_evidence": [],
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 7
+        },
+        {
+          "item_id": "S023-T08",
+          "proposal_no": "5362/2026",
+          "title": "Acht Wohngebäude mit 166 Eigentumswohnungen und 243 Tiefgaragenstellplätzen – erneute Vorlage",
+          "research_or_contribution_refs": [
+            "R072"
+          ],
+          "documents": [
+            {
+              "label": "Beschlussvorlage 5362/2026",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75324&type=do",
+              "type": "primary_official",
+              "verification_status": "verified_2026-09-20"
+            }
+          ],
+          "decision_status": "upcoming_not_decided",
+          "decision_result": null,
+          "decision_evidence": [],
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 8
+        }
+      ],
+      "other_public_items_note": "Die Sitzung ist für den 29. September 2026 angekündigt; Ergebnisse liegen noch nicht vor.",
+      "agenda_audit_status": "full_public_agenda_verified_2026-09-20",
+      "decision_audit_status": "upcoming_session_no_decisions",
+      "minutes": {
+        "status": "upcoming",
+        "approval_status": "not_applicable_yet",
+        "approval_date": null,
+        "publication_status": "not_applicable_yet",
+        "publication_date": null,
+        "direct_public_minutes_url": null,
+        "link_status": "no_link",
+        "evidence": []
+      },
+      "legacy_verification_status": "upcoming agenda verified",
+      "full_public_agenda": [
+        {
+          "no": 1,
+          "title": "Genehmigung der Niederschrift vom 17.09.2026",
+          "agenda_item_id": "S023-A01"
+        },
+        {
+          "no": 2,
+          "proposal": "5308/2026",
+          "title": "Bebauungsplan Nr. 113 – erneute Billigung",
+          "agenda_item_id": "S023-A02"
+        },
+        {
+          "no": 3,
+          "proposal": "5344/2026",
+          "title": "Bebauungsplan Nr. 91 Ortsmitte Nordost – Billigungsbeschluss",
+          "agenda_item_id": "S023-A03"
+        },
+        {
+          "no": 4,
+          "proposal": "5154/2026",
+          "title": "Bebauungsplan Nr. 102 Gewerbegebiet Weißenfelder Straße – Billigungsbeschluss",
+          "agenda_item_id": "S023-A04"
+        },
+        {
+          "no": 5,
+          "proposal": "5329/2026",
+          "title": "Bebauungsplan Nr. 103 – Satzungsbeschluss",
+          "agenda_item_id": "S023-A05"
+        },
+        {
+          "no": 6,
+          "proposal": "5279/2026",
+          "title": "17. Änderung Flächennutzungsplan – Einstellung des Verfahrens",
+          "agenda_item_id": "S023-A06"
+        },
+        {
+          "no": 7,
+          "proposal": "5280/2026",
+          "title": "Bebauungsplan Nr. 110 Spielplatz – Einstellung des Verfahrens",
+          "agenda_item_id": "S023-A07"
+        },
+        {
+          "no": 8,
+          "proposal": "5362/2026",
+          "title": "Acht Wohngebäude mit 166 Eigentumswohnungen und 243 Tiefgaragenstellplätzen – erneute Vorlage",
+          "agenda_item_id": "S023-A08"
+        },
+        {
+          "no": 9,
+          "title": "Bekanntgaben und Berichte",
+          "agenda_item_id": "S023-A09"
+        },
+        {
+          "no": 10,
+          "title": "Anfragen",
+          "agenda_item_id": "S023-A10"
         }
       ],
       "important_selection_status": "completed_after_full_agenda_review"
