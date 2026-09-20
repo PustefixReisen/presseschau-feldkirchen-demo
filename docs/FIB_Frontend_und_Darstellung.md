@@ -44,6 +44,19 @@ Eine Beitragskarte enthält in dieser Reihenfolge:
 
 Quellen-, Sitzungs- und Themenbereiche bleiben auch bei Beiträgen mit Bild über die volle Kartenbreite erhalten.
 
+## 4.1 Sortierung der Beiträge
+
+Die Beitragsliste wird nach dem sichtbaren Beitragsdatum absteigend sortiert; neuere Meldungen stehen vor älteren.
+
+Bei gleichem Datum wird als zweiter Sortierschlüssel eine redaktionelle Relevanz verwendet. Diese Relevanz darf nicht nach politischer Richtung, Partei, Person oder gewünschter Aussage bestimmt werden. Für den Demonstrator gelten neutrale Strukturmerkmale:
+
+1. unmittelbarer Feldkirchen-Bezug,
+2. Einbindung in ein dauerhaftes FIB-Thema,
+3. Bezug zu einer konkreten öffentlichen Sitzung,
+4. kurzfristige reine Service-/Alltagshinweise werden bei gleichem Datum hinter dauerhaft relevanteren Sachentwicklungen einsortiert.
+
+Ein expliziter technischer Relevanzwert darf diese Kriterien abbilden, muss aber redaktionell nachvollziehbar bleiben. Bei weiterhin gleichem Rang erfolgt nur noch eine deterministische technische Sortierung ohne inhaltliche Wertung.
+
 ## 5. Bilder in Beiträgen
 
 ### 5.1 Desktop
