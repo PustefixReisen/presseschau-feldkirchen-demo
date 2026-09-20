@@ -1,4 +1,5 @@
 (async function loadFibScripts(){
+  const initialDemoNoteText=document.querySelector('.demo-note')?.textContent||'';
   const featureStyle=document.createElement('link');
   featureStyle.rel='stylesheet';
   featureStyle.href='assets/share-print-subscribe.css?v=20260903c';
@@ -39,4 +40,11 @@
   await import('./search-dynamic.js');
   await import('./share-print-subscribe.js?v=20260903c');
   await import('./mobile-print-guard.js?v=20260903c');
+
+  // Der statische HTML-Stand ist kanonisch. Ältere inkrementelle Update-Skripte
+  // dürfen den im index.html gesetzten Aktualisierungsstand nicht zurücksetzen.
+  if(initialDemoNoteText){
+    const note=document.querySelector('.demo-note');
+    if(note) note.textContent=initialDemoNoteText;
+  }
 })();
