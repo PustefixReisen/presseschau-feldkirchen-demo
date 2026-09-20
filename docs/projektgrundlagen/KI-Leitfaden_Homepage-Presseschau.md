@@ -1,6 +1,6 @@
 # KI-Leitfaden Homepage-Presseschau Feldkirchen
 
-**Version 1.7 · Stand 17.09.2026**
+**Version 1.8 · Stand 20.09.2026**
 
 > Kanonische Markdown-Fassung für GitHub. Inhaltlich übernommen aus der bisherigen Projektbibliothek und um verbindliche Projektentscheidungen fortgeschrieben.
 
@@ -84,6 +84,20 @@ Bei jedem vollständigen Update werden bekannte Bereichs-, Übersichts- und Nach
 
 Die Direktprüfung wird risikobasiert organisiert: Pflichtquellen bei jedem vollständigen Update; themenabhängige Quellen bei entsprechendem Bezug. Die Quellenbeobachtungsliste hält diese Einstufung fest. Soweit technisch ermittelbar, werden Dokumenttitel/Dateiname, Veröffentlichungs- oder Änderungsdatum, Versions-/Standangabe, Linkziel und fachlich relevanter Inhalt verglichen. Technisch nicht zuverlässig prüfbare Quellen werden als Recherche-/Dokumentationslücke protokolliert.
 
+### 4.1.2 Auswertung kommunaler Beschlussvorlagen
+
+Bei jedem relevanten öffentlichen Tagesordnungspunkt wird – sofern öffentlich verfügbar – nicht nur die Tagesordnung, sondern auch die vollständige Beschlussvorlage einschließlich fachlich einschlägiger Anlagen ausgewertet. Beschlussvorlagen sind regelmäßig zentrale Primärquellen für Anlass, Vorgeschichte, Zahlen, Kosten, technische Randbedingungen, Handlungsalternativen, offene Umsetzungsfragen sowie Stellungnahmen von Verwaltung, Gutachtern und Beteiligten.
+
+Für die öffentliche Sachinformation gilt:
+
+- belastbare Tatsachen und Zahlen dürfen aus der Beschlussvorlage übernommen und verständlich verdichtet werden;
+- Verwaltungsbewertungen werden als solche kenntlich gemacht;
+- Argumente und Fragen aus Bürger- oder Initiativschreiben werden den jeweiligen Urhebern zugeschrieben und nicht als feststehende Tatsachen formuliert;
+- noch nicht beschlossene Varianten, Prüfaufträge und Alternativen werden ausdrücklich als offen bzw. vorgeschlagen gekennzeichnet;
+- eine Beschlussvorlage darf nicht als tatsächlicher Beschluss ausgegeben werden;
+- bei umfangreichen Vorlagen werden insbesondere Vorgeschichte, Kosten, technische Einschränkungen, Alternativen, Vollzugsfragen und für das Verständnis wesentliche Kontroversen geprüft;
+- die Sachinformation soll die wichtigsten Erkenntnisse der Vorlage nutzen, statt sich auf Tagesordnungstitel oder Kurzbeschreibung zu beschränken.
+
 ### 4.2 Parteien und Wählervereinigungen
 Öffentliche Auftritte politisch aktiver Parteien und Wählervereinigungen werden berücksichtigt, mit erhöhter Relevanzschwelle. Konkrete kommunalpolitische Anträge, Initiativen, Änderungsvorschläge und Reaktionen auf Entscheidungen sind relevant. Parteiquellen sind grundsätzlich Positionsquellen; überprüfbare Sachbehauptungen werden möglichst unabhängig verifiziert und politische Positionen klar zugeschrieben.
 
@@ -150,5 +164,6 @@ Vor Veröffentlichung werden Tatsachen, Datumsangaben, Rollen, Links, Quellen, Z
 
 | Version | Datum | Änderung |
 |---|---|---|
+| 1.8 | 20.09.2026 | Vollständige Auswertung kommunaler Beschlussvorlagen und relevanter Anlagen als verbindliche Recherche- und Beitragsregel ergänzt; klare Trennung von Tatsachen, Verwaltungsbewertung, Bürgerargumenten und offenen Varianten. |
 | 1.7 | 17.09.2026 | Relevanzregeln für ortsbezogene Meldungen erweitert: Gemeindepressemitteilungen grundsätzlich relevant; lokale Ereignisse aus verlässlichen Quellen auch ohne kommunalpolitischen Beschluss veröffentlichungsfähig; im Versuchsbetrieb bei Zweifeln eher aufnehmen. |
 | 1.6 | 10.09.2026 | Bisherige kanonische Fassung. |
