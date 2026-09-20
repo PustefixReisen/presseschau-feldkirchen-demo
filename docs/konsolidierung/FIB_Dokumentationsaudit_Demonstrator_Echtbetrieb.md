@@ -4,7 +4,7 @@
 
 | Version | Stand | Verantwortlich |
 |---|---|---|
-| 0.7 | 17.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
+| 0.8 | 20.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
 
 ## Änderungshistorie
 
@@ -17,6 +17,7 @@
 | 0.5 | 14.09.2026 | Implementierung von Teilen, Einzelkarten-Druck/PDF und Benachrichtigungs-Prototyp gegen Code geprüft; produktive und nur prototypische Funktionen in der Frontend-Dokumentation getrennt; D020 von `zu prüfen` auf `teilweise` gehoben |
 | 0.6 | 15.09.2026 | KI-Leitfaden auf einheitliche Dokumentlenkung umgestellt; Regeln zu grüner Positionshierarchie, Verbot der mechanischen Übertragung übergeordneter Positionen, Bürgerinitiativen/Resonanzprüfung, Beleg-/Direktlinkprüfung und manuellem FIB-Update persistent verifiziert; D007, D008, D010 und D011 gesichert, D023 fortgeschrieben |
 | 0.7 | 17.09.2026 | README als Projekteintritt konsolidiert; Produktname/Zweck, drei Inhaltsebenen, Definition of Done und Arbeitsbranch-/Kanonisierungsstatus persistent verankert; D001 und D002 gesichert, D024 fortgeschrieben |
+| 0.8 | 20.09.2026 | Neuere Fachregeln aus `main` kontrolliert im Konsolidierungsbranch gesichert: breite lokale Relevanz sowie systematische Auswertung kommunaler Beschlussvorlagen; D026 und D027 ergänzt. |
 
 ## 1. Zweck
 
@@ -83,6 +84,8 @@ Statuswerte: `gesichert`, `teilweise`, `fehlt`, `offen`, `zu prüfen`.
 | D023 | Dokumentlenkung mit Dokumentstand und Änderungshistorie | Audit, README, Frontend-, Quellenmonitor- und KI-Leitfaden-Dokumente nach Standard geführt; übrige kanonische Dokumente noch zu prüfen | alle kanonischen Dokumente | teilweise |
 | D024 | GitHub als künftig führende Projektdokumentation; Chat/Projektbibliothek nicht als alleinige Wahrheit | Auditregel, Definition of Done und `README.md` V0.2 auf Arbeitsbranch persistent festgelegt | Dokumentationsstandard + README | teilweise; endgültige Kanonisierung erst nach Audit |
 | D025 | Reproduzierbarkeit: Installation, Konfiguration, DB-Migrationen, Backup/Restore, Administration, Deployment | `docs/konsolidierung/FIB_Betrieb_und_Reproduzierbarkeit.md` dokumentiert den reproduzierbaren Demonstrator-Iststand und markiert fehlende Echtbetriebsbausteine ausdrücklich | Betriebs-/Entwicklerdokumentation + praktische Restore-/Deployment-Nachweise | teilweise |
+| D026 | Breite lokale Relevanz: Gemeindemeldungen grundsätzlich relevant; sonstige lokale Ereignisse veröffentlichungsfähig; keine zusätzliche kommunalpolitische Schwelle; Einordnung nur bei sachlichem Bedarf | Neuere verbindliche Fassung auf `main`; im Arbeitsbranch zusätzlich `docs/konsolidierung/FIB_Fachregeln_Nachtrag_2026-09-20.md` gesichert | KI-Leitfaden + Fachkonzept | teilweise; kontrollierte Übernahme in kanonischen KI-Leitfaden noch ausstehend |
+| D027 | Beschlussvorlagen und einschlägige Anlagen systematisch in Sachbeiträge einbeziehen; Vorlage/Verwaltungsbewertung/offene Variante klar vom tatsächlichen Beschluss trennen | Neuere verbindliche Fassung auf `main`; im Arbeitsbranch zusätzlich `docs/konsolidierung/FIB_Fachregeln_Nachtrag_2026-09-20.md` gesichert | KI-Leitfaden + Sitzungs-/Quellenregeln | teilweise; kontrollierte Übernahme in kanonischen KI-Leitfaden noch ausstehend |
 
 ## 5. Prüfschritte
 
