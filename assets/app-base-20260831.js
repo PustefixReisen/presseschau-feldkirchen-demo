@@ -121,10 +121,9 @@ function openHashTarget(){
  if(id.startsWith('T')) showPanel('themen',false);
  else if(id.startsWith('S')) showPanel('sitzungen',false);
  else if(id.startsWith('R')||id.startsWith('C')) showPanel('presseschau',false);
- setTimeout(()=>el.scrollIntoView({behavior:'auto',block:'start'}),60);
 }
 window.addEventListener('hashchange',openHashTarget);
-if(location.hash) setTimeout(openHashTarget,80);
+if(location.hash) openHashTarget();
 
 // Testfall T012: neue Zusammenhangs-, Handlungsspielraum- und Impulsregel.
 (function updateA99TestTopic(){
