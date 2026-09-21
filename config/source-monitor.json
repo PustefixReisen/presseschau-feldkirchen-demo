@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "sources": [
     {
       "id": "ris-feldkirchen-freigaben",
@@ -103,6 +103,66 @@
       "document_extensions": [
         ".pdf"
       ]
+    },
+    {
+      "id": "merkur-landkreis-muenchen",
+      "name": "Münchner Merkur – Landkreis München",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/",
+      "mode": "overview",
+      "priority": "mandatory",
+      "follow_same_host": true,
+      "match": [
+        "/lokales/muenchen-lk/"
+      ],
+      "document_extensions": []
+    },
+    {
+      "id": "merkur-feldkirchen",
+      "name": "Münchner Merkur – Feldkirchen",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/",
+      "mode": "overview",
+      "priority": "mandatory",
+      "follow_same_host": true,
+      "match": [
+        "/lokales/muenchen-lk/"
+      ],
+      "document_extensions": []
+    },
+    {
+      "id": "merkur-aschheim",
+      "name": "Münchner Merkur – Aschheim",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/",
+      "mode": "overview",
+      "priority": "mandatory",
+      "follow_same_host": true,
+      "match": [
+        "/lokales/muenchen-lk/"
+      ],
+      "document_extensions": []
+    },
+    {
+      "id": "merkur-kirchheim",
+      "name": "Münchner Merkur – Kirchheim",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/",
+      "mode": "overview",
+      "priority": "mandatory",
+      "follow_same_host": true,
+      "match": [
+        "/lokales/muenchen-lk/"
+      ],
+      "document_extensions": []
+    },
+    {
+      "id": "merkur-haar",
+      "name": "Münchner Merkur – Haar",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/",
+      "mode": "overview",
+      "priority": "mandatory",
+      "follow_same_host": true,
+      "match": [
+        "/lokales/muenchen-lk/"
+      ],
+      "document_extensions": []
     }
   ]
 }
