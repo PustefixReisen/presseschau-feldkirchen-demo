@@ -12,6 +12,10 @@ Der FIB-Quellenmonitor ergänzt die redaktionelle Recherche um einen technischen
 6. Neue oder geänderte Fundstellen werden in `data/source-monitor-inbox.json` mit Status `unprocessed` abgelegt. Diese Inbox ist die Übergabestelle für den späteren FIB-Updateprozess.
 7. Laufbericht und heruntergeladene Dokumente werden für 14 Tage als GitHub-Actions-Artefakt gespeichert.
 
+## Pflichtquelle RIS-Dokumentfreigaben
+
+Die öffentliche SessionNet-Seite **„RIS Feldkirchen – Dokumente mit Freigabe“** ist eine Pflichtquelle des Monitors. Sie kann neue Beschlussvorlagen und andere öffentliche Dokumente sichtbar machen, bevor oder auch ohne dass sie in einer veröffentlichten Tagesordnung auffallen. Neue Freigaben werden deshalb unabhängig von der Sitzungsübersicht als möglicher neuer FIB-Sachstand geprüft. Eine Dokumentfreigabe bestätigt für sich allein noch keinen konkreten Tagesordnungspunkt oder Sitzungstermin.
+
 ## Automatik
 
 Der Workflow `.github/workflows/source-monitor.yml` läuft täglich automatisch und kann zusätzlich manuell gestartet werden. Änderungen an Workflow, Quellenkonfiguration oder Monitor-Code lösen ebenfalls einen Lauf aus.
