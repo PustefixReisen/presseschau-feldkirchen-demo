@@ -272,7 +272,7 @@
       "id": "T002",
       "title": "Ortsentwicklung und Bauleitplanung",
       "first_created": "2025-10-02",
-      "last_substantive_update": "2026-07-23",
+      "last_substantive_update": "2026-08-23",
       "contribution_refs": [
         "R001",
         "R004",
@@ -283,7 +283,8 @@
       "summary": "Im Untersuchungszeitraum wurden mehrere Bausteine der räumlichen Entwicklung Feldkirchens parallel weitergeführt. Im September 2025 befasste sich der Gemeinderat mit der 20. Änderung des Flächennutzungsplans für Flächen östlich der M1 und nördlich der M18, unter anderem für Gewerbe, Bauhof und Wertstoffhof. Anfang Oktober folgte die weitere Planung zur Umgestaltung der Fußgängerunterführung im Rathausbereich; Ende Oktober wurde die vierte Änderung des Bebauungsplans Nr. 32 als Satzung beschlossen.\n\n2026 setzte sich diese Entwicklung fort. Im März wurde die vierte Änderung des Bebauungsplans Nr. 91 „Ortsmitte Nordost – Fl.Nr. 64 T“ eingeleitet. Im Juli befasste sich der Gemeinderat mit weiteren Anstoßbeschlüssen aus dem Ortsentwicklungskonzept, insbesondere für den Bahnhofsbereich sowie den Kirchenvorplatz. Die einzelnen Verfahren unterscheiden sich in Gegenstand und Rechtsform, stehen aber gemeinsam für eine schrittweise Weiterentwicklung von Siedlungsstruktur, öffentlichen Räumen und kommunalen Nutzungen.",
       "open_questions": [
         "Welche der angestoßenen Maßnahmen aus dem Ortsentwicklungskonzept werden als nächste in konkrete Planungen und Haushaltsentscheidungen überführt?",
-        "Wie werden Verkehrsflächen, Aufenthaltsqualität und Nutzungsansprüche in Bahnhofsumfeld und Ortsmitte aufeinander abgestimmt?",
+        "Wie werden Verkehrsflächen, Aufenthaltsqualität, Klimaanpassung, Grünstrukturen und Nutzungsansprüche in Bahnhofsumfeld und Ortsmitte aufeinander abgestimmt?",
+        "Wird ein dauerhaftes oder befristetes Beteiligungsformat geschaffen, das die vorhandenen Planungen frühzeitig miteinander verknüpft?",
         "Welche zeitliche Reihenfolge ergibt sich für die parallel laufenden Bauleitplanverfahren?"
       ],
       "sources": [
@@ -367,18 +368,14 @@
           "date_status": "migrated_fallback_needs_source_date_check"
         }
       ],
-      "unsere_einordnung": "Feldkirchen hat inzwischen viele Planungsgrundlagen. Die zentrale Aufgabe ist deshalb, aus einzelnen Verfahren ein erkennbares Gesamtbild der Ortsentwicklung zu machen. Bahnhofsumfeld, Kirchenvorplatz, Ortsmitte, neue Wohn- und Gewerbeflächen, Verkehr und Klimaanpassung beeinflussen sich gegenseitig. Werden sie isoliert behandelt, entstehen leicht neue Zielkonflikte.\n\nAus grüner Sicht sollten Innenentwicklung, kurze Wege, Aufenthaltsqualität, Barrierefreiheit und der Erhalt wertvoller Grünstrukturen gemeinsam betrachtet werden. Sinnvoll wäre außerdem ein kontinuierliches Beteiligungsformat, in dem Verwaltung, Gemeinderat und organisierte Zivilgesellschaft größere Entwicklungsschritte frühzeitig miteinander beraten.",
+      "unsere_einordnung": "Feldkirchen hat inzwischen viele Planungsgrundlagen. Die zentrale Aufgabe ist deshalb, aus einzelnen Verfahren ein erkennbares Gesamtbild der Ortsentwicklung zu machen. Bahnhofsumfeld, Kirchenvorplatz, Ortsmitte, neue Wohn- und Gewerbeflächen, Verkehr und Klimaanpassung beeinflussen sich gegenseitig. Werden sie isoliert behandelt, entstehen leicht neue Zielkonflikte.\n\nAus grüner Sicht sollten Innenentwicklung, kurze Wege, Aufenthaltsqualität, Barrierefreiheit, Klimaanpassung, Mobilität und der Erhalt wertvoller Grünstrukturen gemeinsam betrachtet werden. Die Grünen Feldkirchen haben dafür als lokalen Ansatz einen beratenden Arbeitskreis Grünplanung & Mobilität vorgeschlagen, der vorhandene Planungen zusammenführt, Zielkonflikte früh sichtbar macht und Politik, Verwaltung sowie engagierte örtliche Organisationen einbindet. Der Gemeinderat behält dabei die politische Entscheidung.",
       "status": "topic_established",
       "einordnung_meta": {
-        "local_basis_status": "local_green_drafts_exist_but_are_not_presented_as_adopted_position",
+        "local_basis_status": "local_green_application_used_as_internal_background_not_publicly_linkable",
         "internal_reference_ids": [
-          "VQ026",
-          "VQ027",
-          "VQ028",
-          "VQ035",
-          "VQ037"
+          "Antrag Arbeitskreis Grünplanung & Mobilität, Stand 23.08.2026"
         ],
-        "editorial_status": "redaktioneller_vorschlag_mit_lokalem_entwurfsbezug",
+        "editorial_status": "redaktioneller_vorschlag_mit_lokalem_antragswissen",
         "reference_basis": [
           {
             "name": "GRÜNE Bayern – Kommunalpolitische Leitlinien",
@@ -392,7 +389,7 @@
       "id": "T003",
       "title": "Radverkehr und Verbindung über die A94",
       "first_created": "2025-10-22",
-      "last_substantive_update": "2026-07-02",
+      "last_substantive_update": "2026-08-24",
       "contribution_refs": [
         "R051",
         "R005",
@@ -404,6 +401,7 @@
       "summary": "Der Radverkehr wurde im Jahresverlauf sowohl durch regionale Forderungen als auch durch konkrete Infrastrukturmaßnahmen geprägt. Im September 2025 führte eine Kidical Mass von Aschheim über Feldkirchen zum Heimstettener See und machte sichere Radverbindungen auf der B471 sowie kindgerechte Verkehrsbedingungen zum Thema. Im Oktober beschloss Feldkirchen die Fortführung des Fuß- und Radwegs nördlich der Münchner Straße Richtung A94-Querung; aus der Bürgerversammlung kamen weitere Forderungen zu Radfahr- und Schutzstreifen sowie Schulwegen.\n\nEnde Februar 2026 begann die Bauphase für die neue Fuß- und Radwegbrücke über die A94. Im Juli meldete die Gemeinde drei neue überdachte Fahrrad-Abstellstationen als Umsetzung des kommunalen Radverkehrskonzepts. Damit reicht das Thema von regionalen Verbindungen über die A94 und B471 bis zu innerörtlichen Maßnahmen.",
       "open_questions": [
         "Wie wird die Radverkehrsführung zwischen Münchner Straße, Olympiastraße und der neuen A94-Brücke im Endzustand gestaltet?",
+        "Wie kann der Rad- und Fußweg an der Münchner Straße gebaut werden, ohne den gewachsenen Gehölzstreifen unnötig zu beeinträchtigen?",
         "Welche Ergebnisse bringt die weitere Prüfung von Radfahr- und Schutzstreifen an B471 und M18?",
         "Welche weiteren Maßnahmen aus dem Radverkehrskonzept folgen nach den neuen Abstellstationen?"
       ],
@@ -531,15 +529,14 @@
           ]
         }
       ],
-      "unsere_einordnung": "Die neue A94-Querung ist ein wichtiger Baustein, aber eine gute Radverbindung endet nicht an der Brücke. Entscheidend ist, ob die gesamte Strecke sicher, verständlich und ohne unnötige Umwege befahrbar wird – einschließlich der Anschlüsse an Münchner Straße, Olympiastraße und das innerörtliche Netz.\n\nGrüne Verkehrspolitik setzt auf sichere und komfortable Infrastruktur für Rad- und Fußverkehr. Für Feldkirchen heißt das: Die offenen Prüfungen zu Schutz- und Radfahrstreifen sowie zu Schulwegen sollten mit klaren Ergebnissen abgeschlossen und die nächsten Maßnahmen des Radverkehrskonzepts priorisiert werden. Neue Infrastruktur sollte dabei möglichst flächensparend geplant und vorhandenes Grün geschont werden.",
+      "unsere_einordnung": "Die neue A94-Querung ist ein wichtiger Baustein, aber eine gute Radverbindung endet nicht an der Brücke. Entscheidend ist, ob die gesamte Strecke sicher, verständlich und ohne unnötige Umwege befahrbar wird – einschließlich der Anschlüsse an Münchner Straße, Olympiastraße und das innerörtliche Netz.\n\nFür den Abschnitt an der Münchner Straße kommt ein zweites Ziel hinzu: Die Grünen Feldkirchen wollen den neuen Rad- und Fußweg so umsetzen, dass der gewachsene Gehölzstreifen möglichst erhalten bleibt. Bei weiterer Planung, Ausschreibung und Bauausführung sollen insbesondere Wurzelbereiche, Unterwuchs und Gehölzstruktur geschützt und Trassenführung, Breite oder Bauweise bei Bedarf angepasst werden. Sichere Radinfrastruktur und Schutz vorhandener Grünstrukturen müssen hier zusammen gedacht werden.",
       "status": "topic_established",
       "einordnung_meta": {
-        "local_basis_status": "local_green_formal_candidate_on_griecherl_exists_but_submission_not_proven",
+        "local_basis_status": "local_green_formal_application_used_as_internal_background_not_publicly_linkable",
         "internal_reference_ids": [
-          "VQ066",
-          "VQ067"
+          "Antrag Schutz des Griecherl-Gehölzes an der Münchner Straße, 24.08.2026"
         ],
-        "editorial_status": "redaktioneller_vorschlag_mit_lokalem_formalkandidaten_als_hintergrund",
+        "editorial_status": "redaktioneller_vorschlag_mit_lokalem_antragswissen",
         "reference_basis": [
           {
             "name": "GRÜNE Bayern – Kommunalpolitische Leitlinien",
@@ -721,7 +718,8 @@
       "open_questions": [
         "Welche Maßnahmen des Klimaanpassungskonzepts werden zuerst umgesetzt und finanziert?",
         "Wie wird die Wirksamkeit des Hitzeaktionsplans überprüft?",
-        "Wie werden Klimaanpassungsmaßnahmen mit laufenden Planungen für Straßen, Plätze, Grünflächen und Gebäude verbunden?"
+        "Wie werden Klimaanpassungsmaßnahmen systematisch mit laufenden Planungen für Straßen, Plätze, Grünflächen, Gebäude und Mobilität verbunden?",
+        "Welche Form eignet sich, um Zielkonflikte zwischen Grünplanung, Klimaanpassung und Mobilität frühzeitig zu beraten?"
       ],
       "sources": [
         {
@@ -826,17 +824,14 @@
           "date_status": "verified"
         }
       ],
-      "unsere_einordnung": "Mit Klimaanpassungskonzept und Hitzeaktionsplan sind die Grundlagen geschaffen. Entscheidend wird jetzt die Umsetzung. Klimaanpassung sollte deshalb nicht als eigenes Spezialthema neben anderen Planungen stehen, sondern bei Straßen, Plätzen, Gebäuden und Grünflächen regelmäßig mitentscheiden.\n\nAus grüner Sicht gehören Entsiegelung, Schatten, Bäume, zusammenhängende Grünstrukturen und ein guter Umgang mit Regenwasser zu einer klimaresilienten Ortsentwicklung. Feldkirchen sollte die Maßnahmen deshalb priorisieren, mit Zuständigkeiten und Finanzierung hinterlegen und regelmäßig öffentlich zeigen, was bereits umgesetzt wurde und welche Wirkung erreicht wird.",
+      "unsere_einordnung": "Mit Klimaanpassungskonzept und Hitzeaktionsplan sind die Grundlagen geschaffen. Entscheidend wird jetzt die Umsetzung. Klimaanpassung sollte deshalb nicht als eigenes Spezialthema neben anderen Planungen stehen, sondern bei Straßen, Plätzen, Gebäuden, Grünflächen und Mobilitätsprojekten regelmäßig mitentscheiden.\n\nAus grüner Sicht gehören Entsiegelung, Schatten, Bäume, zusammenhängende Grünstrukturen und ein guter Umgang mit Regenwasser zu einer klimaresilienten Ortsentwicklung. Der von den Grünen Feldkirchen vorgeschlagene Arbeitskreis Grünplanung & Mobilität greift genau diese Verknüpfung auf: vorhandene Planungen sollen gemeinsam betrachtet, Zielkonflikte früh erkannt und örtliche Erfahrungen einbezogen werden. Unabhängig von der konkreten Organisationsform sollte Feldkirchen die Maßnahmen priorisieren, mit Zuständigkeiten und Finanzierung hinterlegen und regelmäßig öffentlich zeigen, was umgesetzt wurde und welche Wirkung erreicht wird.",
       "status": "topic_established",
       "einordnung_meta": {
-        "local_basis_status": "local_green_drafts_link_climate_adaptation_with_local_planning_but_not_adopted",
+        "local_basis_status": "local_green_application_used_as_internal_background_not_publicly_linkable",
         "internal_reference_ids": [
-          "VQ029",
-          "VQ030",
-          "VQ035",
-          "VQ037"
+          "Antrag Arbeitskreis Grünplanung & Mobilität, Stand 23.08.2026"
         ],
-        "editorial_status": "redaktioneller_vorschlag_mit_lokalem_entwurfsbezug",
+        "editorial_status": "redaktioneller_vorschlag_mit_lokalem_antragswissen",
         "reference_basis": [
           {
             "name": "GRÜNE Bayern – Kommunalpolitische Leitlinien",
@@ -1016,16 +1011,17 @@
       "id": "T008",
       "title": "Bürgerbeteiligung und kommunale Mitwirkung",
       "first_created": "2025-12-04",
-      "last_substantive_update": "2026-05-11",
+      "last_substantive_update": "2026-09-17",
       "contribution_refs": [
         "R007",
         "R012",
         "R029"
       ],
-      "summary": "Die Bürgerversammlung vom 22. Oktober 2025 führte zu mehreren konkreten Anträgen, unter anderem zu Radverkehr, Tempo 30 auf Schulwegen und kommunalen Klimazielen. Der Gemeinderat befasste sich am 4. Dezember mit diesen Anliegen und nahm mehrere davon zur weiteren Bearbeitung auf; andere Forderungen wurden abgelehnt.\n\nMit der Konstituierung des neuen Gemeinderats im Mai 2026 wurde auch die Ausgestaltung direkter Mitwirkung erneut sichtbar. Ein Antrag, das Rederecht in der Bürgerfragestunde einzuschränken, fand keine Mehrheit. Der Jahresverlauf zeigt damit zwei unterschiedliche Beteiligungswege: formelle Bürgeranträge über die Bürgerversammlung und die laufende Bürgerfragestunde im Gemeinderat.",
+      "summary": "Die Bürgerversammlung vom 22. Oktober 2025 führte zu mehreren konkreten Anträgen, unter anderem zu Radverkehr, Tempo 30 auf Schulwegen und kommunalen Klimazielen. Der Gemeinderat befasste sich am 4. Dezember mit diesen Anliegen und nahm mehrere davon zur weiteren Bearbeitung auf; andere Forderungen wurden abgelehnt.\n\nMit der Konstituierung des neuen Gemeinderats im Mai 2026 wurde auch die Ausgestaltung direkter Mitwirkung erneut sichtbar. Ein Antrag, das Rederecht in der Bürgerfragestunde einzuschränken, fand keine Mehrheit. Am 17. September 2026 stand außerdem ein Antrag der Fraktion Bündnis 90/Die Grünen zur Bürgerversammlung 2026 auf der öffentlichen Tagesordnung. Ein öffentlich dokumentiertes Beratungsergebnis liegt im geprüften Ratsinformationssystem bislang nicht vor.",
       "open_questions": [
         "Welche Ergebnisse haben die weiterbearbeiteten Anträge aus der Bürgerversammlung 2025?",
-        "Wie wird die Bürgerfragestunde in der neuen Wahlperiode praktisch ausgestaltet?",
+        "Welches Ergebnis hatte die Beratung des Grünen-Antrags zur Bürgerversammlung 2026 am 17. September, sobald dies öffentlich dokumentiert ist?",
+        "Wie werden die Hinweise auf Antragsrecht und Ablauf in der Einladung zur Bürgerversammlung 2026 praktisch umgesetzt?",
         "Wie transparent lässt sich künftig nachvollziehen, welchen Bearbeitungsstand angenommene Bürgeranträge erreichen?"
       ],
       "sources": [
@@ -1072,17 +1068,34 @@
           "date": "2026-05-13",
           "date_basis": "publication_date",
           "date_status": "migrated_unique"
+        },
+        {
+          "name": "RIS Feldkirchen – Beschlussvorlage 5356/2026: Antrag der Fraktion Bündnis 90/Die Grünen zur Bürgerversammlung 2026",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75294&type=do",
+          "type": "primary_official",
+          "date": "2026-09-08",
+          "date_basis": "document_creation_date",
+          "date_status": "verified_2026-09-21",
+          "source_refs": []
+        },
+        {
+          "name": "RIS Feldkirchen – Gemeinderat 17.09.2026",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1029",
+          "type": "primary_official",
+          "date": "2026-09-17",
+          "date_basis": "session_date",
+          "date_status": "verified_2026-09-21",
+          "source_refs": []
         }
       ],
-      "unsere_einordnung": "Beteiligung ist erst dann wirksam, wenn Menschen nicht nur sprechen können, sondern auch nachvollziehen können, was aus ihren Anliegen wird. Die Bürgerversammlung 2025 hat mehrere konkrete Anträge hervorgebracht; für ihre Glaubwürdigkeit ist deshalb entscheidend, dass Bearbeitungsstand und Ergebnis später leicht auffindbar sind.\n\nWir halten außerdem verständliche Informationen über die Beteiligungsrechte selbst für wichtig: Wie kann in der Bürgerversammlung ein Antrag gestellt werden, wie wird darüber entschieden und wie geht es anschließend weiter? Eine offene Bürgerfragestunde und transparente Rückmeldungen stärken die kommunale Demokratie.",
+      "unsere_einordnung": "Beteiligung ist erst dann wirksam, wenn Menschen nicht nur sprechen können, sondern auch wissen, welche Rechte sie haben und nachvollziehen können, was aus ihren Anliegen wird. Die Bürgerversammlung 2025 hat mehrere konkrete Anträge hervorgebracht; für ihre Glaubwürdigkeit ist deshalb entscheidend, dass Bearbeitungsstand und Ergebnis später leicht auffindbar sind.\n\nDie Grünen Feldkirchen haben für die Bürgerversammlung 2026 vorgeschlagen, in den Einladungen verständlich zu erklären, wie Bürgerinnen und Bürger Anträge stellen können, wie diese in der Versammlung behandelt werden und wie es anschließend weitergeht. Der Antrag war am 17. September öffentlich Gegenstand des Gemeinderats. Eine offene Bürgerfragestunde, gut erklärte Beteiligungsrechte und transparente Rückmeldungen sind konkrete Bausteine kommunaler Mitwirkung.",
       "status": "topic_established",
       "einordnung_meta": {
-        "local_basis_status": "local_green_formal_candidate_exists_submission_or_publication_not_proven",
+        "local_basis_status": "local_green_application_publicly_confirmed_in_RIS; application_text_used_as_internal_background",
         "internal_reference_ids": [
-          "VQ002",
-          "VQ003"
+          "Eil-Antrag Einladung zur Bürgerversammlung 2026, 18.08.2026"
         ],
-        "editorial_status": "redaktioneller_vorschlag_mit_lokalem_formalkandidaten_als_hintergrund",
+        "editorial_status": "redaktioneller_vorschlag_mit_lokalem_antragswissen_und_oeffentlichem_RIS_nachweis",
         "reference_basis": [
           {
             "name": "GRÜNE Bayern – Mehr Demokratie durch Bürgerbeteiligung",
