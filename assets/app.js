@@ -59,6 +59,7 @@
   await import('./update-20260912.js');
   await import('./update-20260917.js');
   await import('./update-20260918.js');
+  await import('./update-20260921.js');
   await import('./sort-contributions.js');
   await import('./image-features.js');
   await import('./image-b047-green-village.js');
