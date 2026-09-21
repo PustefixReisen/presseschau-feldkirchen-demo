@@ -1,7 +1,7 @@
 {
   "schema_version": "2.0",
   "work_package": "canonical",
-  "status": "canonical_after_standard_update_2026-09-21",
+  "status": "canonical_after_correction_2026-09-21",
   "research_window": {
     "from": "2025-08-27",
     "to": "2026-09-21"
@@ -10,7 +10,7 @@
     "recherchebestand.json",
     "sitzungsbestand.json"
   ],
-  "contribution_count": 65,
+  "contribution_count": 66,
   "editorial_rules": [
     "No methodological or demonstrator text inside public contribution content.",
     "Sachinformation is neutral; political assessment is a separate optional field.",
@@ -21,6 +21,52 @@
     "Unsere Einordnung was audited on 2026-08-29 for citizen-oriented political language per KI-Leitfaden 0.8."
   ],
   "contributions": [
+    {
+      "id": "R074",
+      "date": "2026-09-19",
+      "publication_date": "2026-09-19",
+      "category": "Mobilität & Verkehr",
+      "topic_candidates": [
+        "B471",
+        "B471 neu",
+        "Ortsumfahrung Feldkirchen",
+        "regionale Verkehrsplanung"
+      ],
+      "title": "„B471 neu“ endgültig verworfen – lokale Entlastungsmaßnahmen rücken in den Mittelpunkt",
+      "subtitle": "Die Machbarkeitsstudie empfiehlt keine der beiden untersuchten durchgehenden Entlastungstrassen zwischen Aschheim und Hohenbrunn.",
+      "sachinformation": "Die über Jahre untersuchte „B471 neu“ als durchgehende Autobahnparallele zwischen Aschheim und Hohenbrunn wird nicht weiterverfolgt. Nach dem Bericht des Münchner Merkur kommt die abgeschlossene Machbarkeitsstudie zu dem Ergebnis, dass keine der beiden untersuchten Varianten als durchgehende Entlastungsstraße empfohlen wird. Die Varianten wurden mit rund 50 beziehungsweise 90 Millionen Euro veranschlagt; dem hohen Aufwand stünde nur eine begrenzte Entlastungswirkung gegenüber.\\n\\nStattdessen sollen kleinere, lokal umsetzbare Maßnahmen entlang der B471 geprüft werden. Für Feldkirchen ist dabei besonders relevant, dass die Gutachter den Ausbau der A99 und die Ortsumfahrung Feldkirchen als weiterzuverfolgende Ansätze nennen. Außerdem werden für Ortsdurchfahrten – soweit rechtlich möglich – niedrigere Geschwindigkeiten, bessere Radverkehrsführungen, sichere Querungen und Bushaltestellen auf der Fahrbahn empfohlen. Der Mobilitätsausschuss des Landkreises beschloss laut Bericht einstimmig, das Gutachten an die beteiligten Kommunen weiterzugeben.",
+      "sources": [
+        {
+          "name": "Münchner Merkur – Autobahnparallele „B471 neu“ ist endgültig vom Tisch",
+          "url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/90-millionen-euro-kaum-nutzen-471-neu-wird-nicht-gebaut-94499321.html",
+          "type": "press",
+          "date": "2026-09-19",
+          "date_basis": "publication_date",
+          "date_status": "verified"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": null,
+      "research_refs": [
+        "R074"
+      ],
+      "ortsbezug": {
+        "display_place": "Region München Ost / Feldkirchen",
+        "related_places": [
+          "Feldkirchen",
+          "Aschheim",
+          "Hohenbrunn"
+        ],
+        "scope": "regional_with_direct_feldkirchen_relevance",
+        "verification_status": "verified_2026-09-21"
+      },
+      "established_topic_refs": [],
+      "stage_update_meta": {
+        "created_at": "2026-09-21",
+        "source_status": "verified_press_report"
+      }
+    },
     {
       "id": "R073",
       "date": "2026-09-21",
