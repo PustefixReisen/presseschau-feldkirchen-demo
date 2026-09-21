@@ -1,16 +1,16 @@
 {
   "schema_version": "2.0",
   "work_package": "canonical",
-  "status": "canonical_after_standard_update_2026-09-20",
+  "status": "canonical_after_standard_update_2026-09-21",
   "research_window": {
     "from": "2025-08-27",
-    "to": "2026-09-20"
+    "to": "2026-09-21"
   },
   "source_basis": [
     "recherchebestand.json",
     "sitzungsbestand.json"
   ],
-  "contribution_count": 64,
+  "contribution_count": 65,
   "editorial_rules": [
     "No methodological or demonstrator text inside public contribution content.",
     "Sachinformation is neutral; political assessment is a separate optional field.",
@@ -21,6 +21,70 @@
     "Unsere Einordnung was audited on 2026-08-29 for citizen-oriented political language per KI-Leitfaden 0.8."
   ],
   "contributions": [
+    {
+      "id": "R073",
+      "date": "2026-09-21",
+      "publication_date": "2026-09-21",
+      "category": "Ortsentwicklung & Bauen",
+      "topic_candidates": [
+        "Betreutes Wohnen",
+        "Seniorenwohnen",
+        "Wohnungsbau"
+      ],
+      "title": "Betreutes Wohnen: Gemeinderat unterstützt Konzept an der Hohenlindner Straße",
+      "subtitle": "Ein Pressebericht dokumentiert erstmals das Beratungsergebnis: Rund 140 Seniorenwohnungen plus Personalwohnen sollen über den „Bauturbo“ und eine Bebauungsplanänderung ermöglicht werden.",
+      "sachinformation": "Für das Grundstück Hohenlindner Straße 17 liegt ein Konzept für betreutes Wohnen mit rund 140 Wohnungen für Seniorinnen und Senioren sowie ergänzendem Personalwohnen vor. Die Beschlussvorlage beschreibt zwei Baukörper, eine gegenüber dem Bebauungsplan von 1973 erhöhte bauliche Dichte und eine Tiefgarage. Zugleich sollen der prägende randliche Baumbestand und insbesondere eine schützenswerte Buche erhalten werden. Die planerische Absicherung soll über den sogenannten „Bauturbo“ nach § 31 Abs. 3 BauGB und anschließend über eine Änderung des Bebauungsplans Nr. 54 erfolgen.\\n\\nDer Münchner Merkur berichtet am 21. September über das Ergebnis der Gemeinderatssitzung vom 17. September: Der Gemeinderat habe das vorgestellte Konzept mit einer Gegenstimme unterstützt. Vorgesehen seien unter anderem „Betreutes Wohnen Plus“, Personalwohnungen, Dachbegrünung und Photovoltaik. Nach der Vorlage sollen außerdem der gesamte ruhende Verkehr in einer Tiefgarage untergebracht und in einem städtebaulichen Vertrag eine teilweise Bevorzugung Feldkirchner Bürgerinnen und Bürger bei der Belegung geregelt werden. Eine veröffentlichte Niederschrift der Sitzung liegt derzeit noch nicht vor; das Abstimmungsergebnis ist daher als presseöffentlich dokumentierter, noch nicht amtlich protokollierter Stand gekennzeichnet.",
+      "sources": [
+        {
+          "name": "RIS Feldkirchen – Beschlussvorlage 5333/2026",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75163&type=do",
+          "type": "primary_official",
+          "date": "2026-09-09",
+          "date_basis": "RIS_public_release",
+          "date_status": "verified"
+        },
+        {
+          "name": "RIS Feldkirchen – Gemeinderat 17.09.2026",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1029",
+          "type": "primary_official",
+          "date": "2026-09-17",
+          "date_basis": "session_date",
+          "date_status": "verified"
+        },
+        {
+          "name": "Münchner Merkur – 140 Seniorenwohnungen in Feldkirchen: Gemeinde greift zum Bauturbo",
+          "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/140-seniorenwohnungen-in-feldkirchen-gemeinde-greift-zum-bauturbo-94501119.html",
+          "type": "press",
+          "date": "2026-09-21",
+          "date_basis": "publication_date",
+          "date_status": "verified"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": "S022",
+      "research_refs": [
+        "R073"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen",
+        "related_places": [
+          "Feldkirchen"
+        ],
+        "scope": "feldkirchen_direct",
+        "verification_status": "verified_2026-09-21"
+      },
+      "established_topic_refs": [
+        {
+          "id": "T009",
+          "title": "Wohnungsbau und kommunale Planung"
+        }
+      ],
+      "stage_update_meta": {
+        "created_at": "2026-09-21",
+        "source_status": "verified_primary_plus_press_result"
+      }
+    },
     {
       "id": "R069",
       "date": "2026-09-15",
