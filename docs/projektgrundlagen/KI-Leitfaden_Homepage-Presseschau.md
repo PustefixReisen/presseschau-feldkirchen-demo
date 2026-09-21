@@ -1,6 +1,6 @@
 # KI-Leitfaden Homepage-Presseschau Feldkirchen
 
-**Version 2.1 · Stand 21.09.2026**
+**Version 2.2 · Stand 21.09.2026**
 
 > Kanonische Markdown-Fassung für GitHub. Inhaltlich übernommen aus der bisherigen Projektbibliothek und um verbindliche Projektentscheidungen fortgeschrieben.
 
@@ -133,6 +133,17 @@ Sie werden systematisch berücksichtigt, wenn Meldungen über internes Vereinsle
 ### 4.4 Nachbargemeinden
 Definierter Nachbarschaftsraum: Aschheim, Kirchheim und Haar. Vorgänge werden aufgenommen, wenn ein sachlicher Bezug zu einem für Feldkirchen relevanten Thema besteht.
 
+### 4.5 Lokale grüne Anträge und interne Hintergrundquellen
+Für den Demonstrator gilt der Bibliotheksordner `Arbeitsdaten/Anträge-Gruene-Feldkirchen` als feste lokale grüne Hintergrundquelle. Dort abgelegte Anträge, Anfragen und Stellungnahmen dürfen für Themenpflege, Recherchelenkung und „Unsere Einordnung“ verwendet werden, auch wenn die Dokumente selbst nicht öffentlich im Internet zugänglich sind.
+
+Dabei gelten folgende Regeln:
+- Nicht öffentlich zugängliche Dokumente werden **nicht** als öffentliche Quelle verlinkt oder so dargestellt, als könnten Leserinnen und Leser sie selbst aufrufen.
+- Ihr Inhalt darf zur Einordnung dokumentierter lokaler grüner Positionen und zur Erkennung von Zusammenhängen genutzt werden. Die öffentliche Sachinformation darf daraus keine unbelegten Tatsachen über Verwaltung, Gemeinderat oder Dritte ableiten.
+- Wenn ein solcher Antrag später öffentlich im Ratsinformationssystem, in einer Tagesordnung, Beschlussvorlage, Niederschrift oder anderen belastbaren Quelle erscheint, wird dieser öffentliche Vorgang verknüpft und als Quelle angegeben.
+- Interne Antragskenntnis kann die Recherche steuern: Bei Updates wird gezielt geprüft, ob zu dem Anliegen inzwischen ein öffentlicher Folgevorgang, eine Reaktion, eine Beschlussvorlage, eine Entscheidung oder Presseberichterstattung vorliegt.
+- Für Themen können mehrere lokale Anträge als Hintergrundwissen zusammengeführt werden, um Querverbindungen zwischen z. B. Ortsentwicklung, Grünplanung, Klimaanpassung, Mobilität und Bürgerbeteiligung sichtbar zu machen.
+- In Metadaten wird kenntlich gemacht, ob eine lokale Position nur intern als Antragswissen vorliegt oder durch eine öffentliche Quelle bestätigt ist.
+
 ## 5. Beitragserstellung
 
 Ein Beitrag entsteht bei einer konkreten neuen Entwicklung mit Feldkirchen-Relevanz oder begründetem Nachbarschaftsbezug. **Für originär lokale Meldungen ist eine zusätzliche kommunalpolitische Relevanzschwelle nicht erforderlich.** Mehrere Quellen zur selben Entwicklung werden gebündelt. Eine zusätzliche Quelle allein erzeugt keinen neuen Beitrag ohne neuen relevanten Sachstand. Auch der Beginn einer zeitlich begrenzten öffentlichen Beteiligung kann eine neue Entwicklung sein.
@@ -190,6 +201,7 @@ Vor Veröffentlichung werden Tatsachen, Datumsangaben, Rollen, Links, Quellen, Z
 
 | Version | Datum | Änderung |
 |---|---|---|
+| 2.2 | 21.09.2026 | Lokale grüne Anträge im Bibliotheksordner `Arbeitsdaten/Anträge-Gruene-Feldkirchen` als feste interne Hintergrundquelle verankert; Regeln für Themenpflege, Einordnung, Recherchelenkung und spätere Verknüpfung mit öffentlichen RIS-/Pressequellen ergänzt. |
 | 2.1 | 21.09.2026 | Datumslogik für RIS-Dokumente präzisiert: Erstellungsdatum, Freigabe, geplante Beratungsfolge, veröffentlichte Tagesordnung und tatsächliche Entscheidung werden getrennt; bei nicht bestätigtem Sitzungstermin bleibt die öffentliche Freigabe maßgeblicher neuer Sachstand und der Datumswiderspruch wird transparent dargestellt. |
 | 2.0 | 21.09.2026 | Zwei-Achsen-Presserecherche verbindlich eingeführt: Ortsabdeckung plus themenbasierte Suche; direkte Prüfung relevanter Presseübersichten einschließlich Merkur Landkreis/Feldkirchen/Aschheim/Kirchheim/Haar; vollständiger Lauf erst nach beiden Suchachsen. |
 | 1.9 | 20.09.2026 | RIS-Freigaben ohne bereits veröffentlichten TOP als möglichen eigenständigen neuen Sachstand aufgenommen; Beiträge müssen fehlende TOP-/Sitzungszuordnung ausdrücklich sichtbar machen; Beratungsfolge in Vorlagen allein bestätigt keinen Sitzungstermin. |
