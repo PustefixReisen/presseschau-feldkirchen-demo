@@ -3963,11 +3963,26 @@
           "item_id": "S022-T04",
           "proposal_no": "5333/2026",
           "title": "Formlose Bauvoranfrage für betreutes Wohnen, Hohenlindner Straße 17",
-          "research_or_contribution_refs": [],
-          "documents": [],
-          "decision_status": "decision_not_publicly_documented_in_audit",
-          "decision_result": null,
-          "decision_evidence": [],
+          "research_or_contribution_refs": [
+            "R073"
+          ],
+          "documents": [
+            {
+              "label": "Beschlussvorlage 5333/2026",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75163&type=do",
+              "type": "primary_official",
+              "verification_status": "verified_2026-09-21"
+            }
+          ],
+          "decision_status": "press_reported_decision_pending_official_minutes",
+          "decision_result": "Konzept nach Pressebericht mit einer Gegenstimme unterstützt; Zustimmung nach § 31 Abs. 3 BauGB und Bebauungsplanänderung vorgesehen",
+          "decision_evidence": [
+            {
+              "type": "press",
+              "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/140-seniorenwohnungen-in-feldkirchen-gemeinde-greift-zum-bauturbo-94501119.html",
+              "date": "2026-09-21"
+            }
+          ],
           "selected_after_full_agenda_review": true,
           "agenda_no": 4
         },
@@ -4026,7 +4041,7 @@
       ],
       "other_public_items_note": "Weitere öffentliche TOPs wurden geprüft und nicht einzeln als wichtig ausgewiesen.",
       "agenda_audit_status": "full_public_agenda_verified_2026-09-20",
-      "decision_audit_status": "public_result_not_available_for_selected_items_except_withdrawal",
+      "decision_audit_status": "TOP 4 press-reported result added 2026-09-21; official minutes still unavailable",
       "minutes": {
         "status": "not_yet_publicly_verified",
         "approval_status": "pending_or_not_verified",
