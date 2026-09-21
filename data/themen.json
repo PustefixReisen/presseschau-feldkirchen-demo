@@ -1101,20 +1101,22 @@
       "id": "T009",
       "title": "Wohnungsbau und kommunale Planung",
       "first_created": "2026-07-09",
-      "last_substantive_update": "2026-09-11",
+      "last_substantive_update": "2026-09-21",
       "contribution_refs": [
         "R003",
         "R047",
         "R037",
         "R049",
-        "R072"
+        "R072",
+        "R073"
       ],
-      "summary": "Wohnungsbau wurde im Untersuchungszeitraum sowohl über größere Bauleitplanungen als auch über einzelne Genehmigungsverfahren zum kommunalpolitischen Thema. Für das Gebiet des Bebauungsplans Nr. 113 liegt ein Bauantrag für acht Wohngebäude mit 166 Eigentumswohnungen und 243 Tiefgaragenstellplätzen vor. Das gemeindliche Einvernehmen war im Juli zunächst verweigert worden, weil mögliche Infrastrukturfolgekosten noch geklärt werden sollten.\n\nEine neue Vorlage für die Beratung am 29. September enthält nun eine Bedarfsprognose: In der Spitze werden dem Baugebiet 10 zusätzliche Krippenplätze und – nach Berücksichtigung vorhandener Kapazitäten – 11 zusätzliche Kindergartenplätze zugerechnet. Die berechneten Folgekosten für Betreuungsplätze betragen laut Vorlage 965.456 Euro. Daneben bleiben die Fälle in der Sonnenstraße und die zusätzlichen Mitarbeiterwohnungen am Ettenhuber-Betriebshof weitere Beispiele für unterschiedliche Ebenen kommunaler Steuerung des Wohnungsbaus.",
+      "summary": "Wohnungsbau wurde im Untersuchungszeitraum sowohl über größere Bauleitplanungen als auch über einzelne Genehmigungsverfahren zum kommunalpolitischen Thema. Für das Gebiet des Bebauungsplans Nr. 113 liegt ein Bauantrag für acht Wohngebäude mit 166 Eigentumswohnungen und 243 Tiefgaragenstellplätzen vor. Das gemeindliche Einvernehmen war im Juli zunächst verweigert worden, weil mögliche Infrastrukturfolgekosten noch geklärt werden sollten; eine neue Vorlage für die Beratung am 29. September enthält nun eine Bedarfsprognose und Folgekostenberechnung.\\n\\nNeu hinzugekommen ist das Vorhaben für betreutes Wohnen an der Hohenlindner Straße 17. Geplant sind rund 140 Seniorenwohnungen sowie ergänzendes Personalwohnen. Die Beschlussvorlage verbindet eine stärkere bauliche Ausnutzung mit Innenentwicklung, Tiefgarage und dem Erhalt des prägenden Baumbestands. Nach einem Pressebericht vom 21. September unterstützte der Gemeinderat das Konzept in seiner Sitzung vom 17. September mit einer Gegenstimme. Eine amtlich veröffentlichte Niederschrift liegt dazu noch nicht vor.",
       "open_questions": [
         "Wie entwickelt sich das Vorhaben mit 166 Wohnungen im weiteren Planungs- und Genehmigungsverfahren?",
         "Welche Infrastruktur- und Verkehrsfolgen werden bei größeren Wohnbauvorhaben berücksichtigt?",
         "Wie endet der Konflikt um das gemeindliche Einvernehmen für die zehn Mietwohnungen in der Sonnenstraße?",
-        "Welche Rolle kann Mitarbeiterwohnen in Gewerbegebieten bei künftigen Planungen spielen und welche städtebaulichen Grenzen gelten dabei?"
+        "Welche Rolle kann Mitarbeiterwohnen in Gewerbegebieten bei künftigen Planungen spielen und welche städtebaulichen Grenzen gelten dabei?",
+        "Wie werden die Bedingungen für das betreute Wohnen an der Hohenlindner Straße 17 – insbesondere Belegungspräferenz, Pflegekonzept, Baumerhalt und Bebauungsplanänderung – im weiteren Verfahren konkretisiert?"
       ],
       "sources": [
         {
@@ -1205,6 +1207,28 @@
           "date": "2026-09-29",
           "date_basis": "scheduled_session_date",
           "date_status": "verified_upcoming"
+        },
+        {
+          "name": "RIS Feldkirchen – Beschlussvorlage 5333/2026",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75163&type=do",
+          "type": "primary_official",
+          "source_refs": [
+            "R073"
+          ],
+          "date": "2026-09-09",
+          "date_basis": "RIS_public_release",
+          "date_status": "verified"
+        },
+        {
+          "name": "Münchner Merkur – 140 Seniorenwohnungen in Feldkirchen: Gemeinde greift zum Bauturbo",
+          "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/140-seniorenwohnungen-in-feldkirchen-gemeinde-greift-zum-bauturbo-94501119.html",
+          "type": "press",
+          "source_refs": [
+            "R073"
+          ],
+          "date": "2026-09-21",
+          "date_basis": "publication_date",
+          "date_status": "verified"
         }
       ],
       "unsere_einordnung": "Neue Wohnungen sind in einer wachsenden Region notwendig. Die entscheidende Frage ist aber nicht nur, wie viele Wohnungen entstehen, sondern welche: bezahlbar oder hochpreisig, flächensparend oder flächenintensiv, gut an Alltagseinrichtungen und nachhaltige Mobilität angebunden oder mit zusätzlichem Autoverkehr verbunden.\n\nAus grüner Sicht sollte Feldkirchen seine Möglichkeiten in der Bauleitplanung nutzen, um Wohnungsbau mit Gemeinwohl, bezahlbaren Angeboten, sparsamer Flächennutzung und guter Infrastruktur zu verbinden. Bei rechtlich gebundenen Einzelgenehmigungen muss zugleich klar zwischen politischen Wünschen und dem tatsächlich bestehenden kommunalen Entscheidungsspielraum unterschieden werden.",
