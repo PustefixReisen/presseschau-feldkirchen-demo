@@ -1,6 +1,6 @@
 # KI-Leitfaden Homepage-Presseschau Feldkirchen
 
-**Version 1.9 · Stand 20.09.2026**
+**Version 2.0 · Stand 21.09.2026**
 
 > Kanonische Markdown-Fassung für GitHub. Inhaltlich übernommen aus der bisherigen Projektbibliothek und um verbindliche Projektentscheidungen fortgeschrieben.
 
@@ -102,6 +102,19 @@ Für die öffentliche Sachinformation gilt:
 - wenn eine Vorlage öffentlich freigegeben ist, aber noch kein zugehöriger TOP in einer veröffentlichten Tagesordnung nachgewiesen werden kann, muss dies im Beitrag ausdrücklich sichtbar sein, z. B. mit dem Hinweis „Die Vorlage ist im RIS veröffentlicht; ein zugehöriger Tagesordnungspunkt bzw. Sitzungstermin ist derzeit noch nicht veröffentlicht/bestätigt.“;
 - eine in der Vorlage genannte Beratungsfolge oder ein dort genanntes Sitzungsdatum gilt nicht allein dadurch als bestätigter Tagesordnungspunkt. Maßgeblich für die Zuordnung zu einer konkreten Sitzung ist die veröffentlichte Tagesordnung bzw. eine sonstige belastbare öffentliche Sitzungsinformation.
 
+### 4.1.3 Zwei-Achsen-Presserecherche
+
+Bei jedem vollständigen FIB-Update wird die Presserecherche verbindlich über zwei voneinander unabhängige Suchachsen durchgeführt:
+
+1. **Ortsbasierte Recherche:** Feldkirchen sowie der definierte Nachbarschaftsraum Aschheim, Kirchheim und Haar; bei regionalen Medien zusätzlich relevante Landkreis- und Regionsübersichten.
+2. **Themenbasierte Recherche:** alle etablierten bzw. laufenden FIB-Themen werden unabhängig vom Veröffentlichungsort mit ihren maßgeblichen Suchbegriffen geprüft. Die Suchbegriffe werden aus Themenbestand, bekannten Projektnamen, Straßen-/Trassenbezeichnungen, Institutionen und gebräuchlichen Varianten abgeleitet und fortgeschrieben.
+
+Ein vollständiger Recherchelauf gilt erst dann als fachlich abgeschlossen, wenn beide Achsen durchgeführt wurden. Ein Pressebeitrag darf nicht allein deshalb unentdeckt bleiben, weil er von einem Medium unter einer Nachbargemeinde einsortiert wurde oder der Ortsname Feldkirchen weder in Überschrift noch URL vorkommt.
+
+Für regelmäßig relevante Pressequellen werden daher zusätzlich zu Suchmaschinenabfragen geeignete Übersichts- bzw. Lokalseiten direkt geprüft. Für den Münchner Merkur gehören dazu mindestens die Landkreis-München-Übersicht sowie die Lokalseiten Feldkirchen, Aschheim, Kirchheim und Haar.
+
+Beispielhafte thematische Suchbegriffe im Bereich Mobilität sind unter anderem B471, B471 neu, A99, A94, Autobahnkreuz München-Ost, M18, EBE4, Ortsumfahrung Feldkirchen und MobilityHub. Diese Liste ist nicht abschließend; sie wird aus dem aktuellen Themenbestand abgeleitet.
+
 ### 4.2 Parteien und Wählervereinigungen
 Öffentliche Auftritte politisch aktiver Parteien und Wählervereinigungen werden berücksichtigt, mit erhöhter Relevanzschwelle. Konkrete kommunalpolitische Anträge, Initiativen, Änderungsvorschläge und Reaktionen auf Entscheidungen sind relevant. Parteiquellen sind grundsätzlich Positionsquellen; überprüfbare Sachbehauptungen werden möglichst unabhängig verifiziert und politische Positionen klar zugeschrieben.
 
@@ -168,6 +181,7 @@ Vor Veröffentlichung werden Tatsachen, Datumsangaben, Rollen, Links, Quellen, Z
 
 | Version | Datum | Änderung |
 |---|---|---|
+| 2.0 | 21.09.2026 | Zwei-Achsen-Presserecherche verbindlich eingeführt: Ortsabdeckung plus themenbasierte Suche; direkte Prüfung relevanter Presseübersichten einschließlich Merkur Landkreis/Feldkirchen/Aschheim/Kirchheim/Haar; vollständiger Lauf erst nach beiden Suchachsen. |
 | 1.9 | 20.09.2026 | RIS-Freigaben ohne bereits veröffentlichten TOP als möglichen eigenständigen neuen Sachstand aufgenommen; Beiträge müssen fehlende TOP-/Sitzungszuordnung ausdrücklich sichtbar machen; Beratungsfolge in Vorlagen allein bestätigt keinen Sitzungstermin. |
 | 1.8 | 20.09.2026 | Vollständige Auswertung kommunaler Beschlussvorlagen und relevanter Anlagen als verbindliche Recherche- und Beitragsregel ergänzt; klare Trennung von Tatsachen, Verwaltungsbewertung, Bürgerargumenten und offenen Varianten. |
 | 1.7 | 17.09.2026 | Relevanzregeln für ortsbezogene Meldungen erweitert: Gemeindepressemitteilungen grundsätzlich relevant; lokale Ereignisse aus verlässlichen Quellen auch ohne kommunalpolitischen Beschluss veröffentlichungsfähig; im Versuchsbetrieb bei Zweifeln eher aufnehmen. |
