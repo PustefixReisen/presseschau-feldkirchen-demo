@@ -5,7 +5,7 @@
       "name": "Gemeinde Feldkirchen – Nachrichten aus dem Bauamt",
       "url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt",
       "priority": "mandatory",
-      "last_success_at": "2026-09-20T09:18:38+00:00",
+      "last_success_at": "2026-09-21T06:39:50+00:00",
       "final_url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt",
       "content_type": "text/html;charset=UTF-8",
       "page_sha256": "bb5445e2e2bd6da6b6779699bdf45c82c56a193f70501cf343d71545a86994d6",
@@ -26,7 +26,7 @@
       "name": "Gemeinde Feldkirchen – Neues Parkraumkonzept",
       "url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt/neues-parkraumkonzept-in-feldkirchen",
       "priority": "mandatory",
-      "last_success_at": "2026-09-20T09:18:41+00:00",
+      "last_success_at": "2026-09-21T06:39:54+00:00",
       "final_url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt/neues-parkraumkonzept-in-feldkirchen",
       "content_type": "text/html;charset=UTF-8",
       "page_sha256": "63449d52ad5330ab4723611bc9c4d6688cc1c9ccf62ee8220e71161aac1038ef",
@@ -445,7 +445,7 @@
           "content_type": "application/pdf",
           "bytes": 1472041,
           "sha256": "4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
-          "checked_at": "2026-09-20T09:18:41+00:00"
+          "checked_at": "2026-09-21T06:39:54+00:00"
         }
       },
       "error": null
@@ -454,7 +454,7 @@
       "name": "Landkreis München",
       "url": "https://www.landkreis-muenchen.de/",
       "priority": "mandatory",
-      "last_success_at": "2026-09-20T09:18:42+00:00",
+      "last_success_at": "2026-09-21T06:39:55+00:00",
       "final_url": "https://www.landkreis-muenchen.de/",
       "content_type": "text/html; charset=utf-8",
       "page_sha256": "90f82c12f86f299079d9a65dcbaf3c6c5c202d4c93029304da35875f533aeb16",
@@ -748,14 +748,14 @@
       "name": "Autobahn GmbH – Südbayern",
       "url": "https://www.autobahn.de/die-autobahn/niederlassungen/suedbayern",
       "priority": "topic",
-      "last_attempt_at": "2026-09-20T09:18:43+00:00",
+      "last_attempt_at": "2026-09-21T06:39:56+00:00",
       "error": "HTTPError: HTTP Error 404: Not Found"
     },
     "adfc-muenchen": {
       "name": "ADFC München",
       "url": "https://muenchen.adfc.de/",
       "priority": "topic",
-      "last_success_at": "2026-09-20T09:18:44+00:00",
+      "last_success_at": "2026-09-21T06:39:57+00:00",
       "final_url": "https://muenchen.adfc.de/",
       "content_type": "text/html; charset=utf-8",
       "page_sha256": "265fab67448f99a7de7ddd00246ba53e25e57a60663220b0e5905a6fbb9368a7",
@@ -861,13 +861,13 @@
       },
       "documents": {},
       "error": "URLError: <urlopen error timed out>",
-      "last_attempt_at": "2026-09-20T09:19:19+00:00"
+      "last_attempt_at": "2026-09-21T06:40:33+00:00"
     },
     "bi-afk": {
       "name": "BI-AFK",
       "url": "https://www.bi-afk.de/",
       "priority": "topic",
-      "last_success_at": "2026-09-20T09:19:21+00:00",
+      "last_success_at": "2026-09-21T06:40:35+00:00",
       "final_url": "https://bi-afk.de/",
       "content_type": "text/html; charset=UTF-8",
       "page_sha256": "e11454e9f7700b217c8305d2a9bde73f672067aee420e049e10c3bcbebff6aa3",
@@ -953,11 +953,80 @@
           "content_type": "application/pdf",
           "bytes": 149466,
           "sha256": "f0ce9eb0a26c6e4bafbce93352128b32ede6a1a841c241d07be53c69c0f4b695",
-          "checked_at": "2026-09-20T09:19:21+00:00"
+          "checked_at": "2026-09-21T06:40:35+00:00"
         }
       },
       "error": null
+    },
+    "ris-feldkirchen-freigaben": {
+      "name": "RIS Feldkirchen – Dokumente mit Freigabe",
+      "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/do0040.asp",
+      "priority": "mandatory",
+      "last_success_at": "2026-09-21T06:39:48+00:00",
+      "final_url": "https://buergerinfo-feldkirchen.digitalfabrix.de/do0040.asp",
+      "content_type": "text/html; Charset=utf-8",
+      "page_sha256": "1995797bd22084219cb51cc4c6d723673050e281c160f76adea9e2ad0fc29270",
+      "page_changed": false,
+      "first_seen": true,
+      "links": {
+        "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1073": {
+          "text": "29.09.2026"
+        },
+        "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75434&type=do": {
+          "text": ""
+        },
+        "https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8607": {
+          "text": "Bauantrag: Neubau von acht Wohngebäuden mit 166 Eigentumswohnungen und einer Tiefgarage mit 243 Kfz Stellplätzen auf den Grundstücken Fl.Nr. 69/9, 69/10, 69/11, 69/12, 69/13 Gemarkung Feldkirchen, gelegen zwischen Hohenlindner Straße und Jahnstraße –"
+        },
+        "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75324&type=do": {
+          "text": ""
+        },
+        "https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8524": {
+          "text": "Bauleitplanung - 17. Änderung des Flächennutzungsplanes der Gemeinde Feldkirchen für das Grundstück Fl.Nr. 302/2, 291/Teilfläche und 307/Teilfläche Gemarkung Feldkirchen zur Änderung der Darstellung in Grünfläche mit Zweckbestimmung Spielanlagen - Ei"
+        },
+        "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74598&type=do": {
+          "text": ""
+        },
+        "https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8525": {
+          "text": "Bauleitplanung - Bebauungsplan Nr. 110 der Gemeinde Feldkirchen zur Ausweisung einer Grünfläche mit Zweckbestimmung \"Spielplatz\" auf dem Grundstück Fl.Nr. 302/2 Gemarkung Feldkirchen, im Dornacher Feld - Einstellung des Verfahrens"
+        },
+        "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74602&type=do": {
+          "text": ""
+        },
+        "https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8398": {
+          "text": "Bauleitplanung - Bebauungsplan Nr. 102, 1. Änderung, „ Gewerbegebiet an der Weißenfelder Straße“ frühzeitige Beteiligung der Öffentlichkeit und der Träger öffentlicher Belange nach § 3 Abs. 1 und § 4 Abs. 1 BauGB - Behandlung der Stellungnahmen zu de"
+        },
+        "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=72299&type=do": {
+          "text": ""
+        },
+        "https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8553": {
+          "text": "Bauleitplanung - Bebauungsplan Nr. 113   Gebiet „Südlich der Hohenlindner Straße bis zur Jahnstraße“- frühzeitige Beteiligung der Öffentlichkeit und der Träger öffentlicher Belange nach § 3 Abs. 2 und § 4 Abs. 2 Baugesetzbuch – Behandlung der Stellun"
+        },
+        "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74838&type=do": {
+          "text": ""
+        },
+        "https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8574": {
+          "text": "Bauleitplanung - Bebauungsplan Nr. 103, 2. Änderung, für das \"Gebiet zwischen der Ludwigstraße, Westendstraße, Brunnenstraße und Münchnerstraße, frühzeitige Beteiligung der Öffentlichkeit und der Träger öffentlicher Belange nach § 3 Abs. 2 und § 4 Ab"
+        },
+        "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75105&type=do": {
+          "text": ""
+        },
+        "https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8589": {
+          "text": "Bauleitplanung - Bebauungsplan Nr. 91 „Ortsmitte Nordost, 4. Änderung für die Fl.Nr. 64 Gemarkung Feldkirchen/Teilfläche; Beteiligung der Öffentlichkeit und der Träger öffentlicher Belange nach § 3 Abs. 2 und § 4 Abs. 2, i.V.m. § 13 Baugesetz-buch ge"
+        },
+        "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75204&type=do": {
+          "text": ""
+        },
+        "https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8528": {
+          "text": "Errichtung einer Hundewiese auf dem Grundstück Fl.Nr. 630/Teilfläche Gemarkung Feldkirchen, östlich des Friedhofs - Entscheidung über das weitere Vorgehen nach Vorlage der schalltechnischen Stellungnahme"
+        },
+        "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74647&type=do": {
+          "text": ""
+        }
+      },
+      "documents": {},
+      "error": null
     }
   },
-  "last_run_at": "2026-09-20T09:19:21+00:00"
+  "last_run_at": "2026-09-21T06:40:35+00:00"
 }
