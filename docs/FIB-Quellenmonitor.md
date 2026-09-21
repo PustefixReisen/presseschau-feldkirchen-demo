@@ -16,6 +16,16 @@ Der FIB-Quellenmonitor ergänzt die redaktionelle Recherche um einen technischen
 
 Die öffentliche SessionNet-Seite **„RIS Feldkirchen – Dokumente mit Freigabe“** ist eine Pflichtquelle des Monitors. Sie kann neue Beschlussvorlagen und andere öffentliche Dokumente sichtbar machen, bevor oder auch ohne dass sie in einer veröffentlichten Tagesordnung auffallen. Neue Freigaben werden deshalb unabhängig von der Sitzungsübersicht als möglicher neuer FIB-Sachstand geprüft. Eine Dokumentfreigabe bestätigt für sich allein noch keinen konkreten Tagesordnungspunkt oder Sitzungstermin.
 
+## Presseübersichten und Zwei-Achsen-Recherche
+
+Der technische Monitor beobachtet ergänzend ausgewählte Presseübersichten. Für den Münchner Merkur sind die Landkreis-München-Übersicht sowie die Lokalseiten Feldkirchen, Aschheim, Kirchheim und Haar als Pflichtquellen hinterlegt. Ziel ist nicht die automatische Veröffentlichung von Presseartikeln, sondern die zuverlässige Erkennung neuer Kandidaten – auch dann, wenn ein Artikel unter einer Nachbargemeinde einsortiert ist.
+
+Der Quellenmonitor ersetzt die redaktionelle Themenrecherche nicht. Ein vollständiger FIB-Update-Lauf kombiniert:
+- **Ortsabdeckung** über Feldkirchen, Nachbargemeinden und relevante Regions-/Landkreisübersichten,
+- **Themenabdeckung** über Suchbegriffe aller laufenden und etablierten FIB-Themen.
+
+Die Themenbegriffe werden aus dem aktuellen Themenbestand abgeleitet und im Updateprozess fortgeschrieben. Neue oder geänderte Pressefundstellen werden wie andere Monitorereignisse zunächst nur als Recherchekandidaten in die Inbox übergeben.
+
 ## Automatik
 
 Der Workflow `.github/workflows/source-monitor.yml` läuft täglich automatisch und kann zusätzlich manuell gestartet werden. Änderungen an Workflow, Quellenkonfiguration oder Monitor-Code lösen ebenfalls einen Lauf aus.
