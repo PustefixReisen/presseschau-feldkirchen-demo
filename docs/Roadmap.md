@@ -4,7 +4,7 @@
 
 | Version | Stand | Verantwortlich |
 |---|---|---|
-| 1.1 | 12.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
+| 1.2 | 21.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
 
 ## Statusmodell
 
@@ -33,6 +33,26 @@ Wesentliche offene Punkte:
 
 Der Demonstrator bleibt bis dahin klar vom späteren Echtbetrieb getrennt.
 
+## Übernahme der Demonstrator-Erkenntnisse in den Echtbetrieb
+
+Die im Demonstrator verbindlich dokumentierten fachlichen und redaktionellen Regeln sind **Anforderungen an das Echtsystem** und dürfen beim technischen Neubau nicht verloren gehen. Der Demonstrator ist keine wegwerfbare Fachlogik.
+
+Vor Beginn der Programmierung des Echtsystems wird deshalb ein verbindlicher Übernahmecheck durchgeführt. Mindestens zu übernehmen sind:
+
+- Zwei-Achsen-Recherche aus Orts- und Themenabdeckung,
+- direkte Quellenbeobachtung einschließlich RIS-Dokumentfreigaben und relevanter Presseübersichten,
+- vollständige Auswertung öffentlicher Beschlussvorlagen und relevanter Anlagen,
+- Trennung von Dokumentfreigabe, Tagesordnung, Beratung und tatsächlichem Beschluss,
+- persistente Recherchehistorie und Erkennung bereits geprüfter Fundstellen,
+- Quellen- und Verifikationsstatus je Aussage bzw. Beitrag,
+- Themenfortschreibung und Verknüpfung neuer Beiträge mit bestehenden Vorgängen,
+- getrennte Sachinformation und „Unsere Einordnung“,
+- redaktioneller Prüf-/Freigabestatus,
+- robuste statische bzw. generierte Ausgabe ohne Abhängigkeit von historisch gewachsenen Update-Skripten,
+- nachvollziehbare Updateprotokolle mit „neu / geändert / geprüft ohne Änderung“.
+
+Für die Echtbetriebsarchitektur ist fachliche Parität mit dem aktuellen dokumentierten Demonstratorstand ein Abnahmekriterium. Verbesserungen, die bis zum Entwicklungsstart hinzukommen, werden über die kanonischen Projektdokumente automatisch Bestandteil dieses Sollstands.
+
 ## Nächster konkreter Schritt
 
 **Issue #11** ist der nächste Dokumentationsschritt: Zuerst werden Produkt-/Fachbeschreibung, Referenzwissen, politische Einordnung und Sprachregeln eindeutig als Primärquellen verankert.
@@ -43,5 +63,6 @@ Danach folgt **#12** zur konsolidierten Echtbetriebsarchitektur. Erst auf dieser
 
 | Version | Datum | Änderung |
 |---|---|---|
+| 1.2 | 21.09.2026 | Verbindlichen Übernahmecheck Demonstrator → Echtsystem ergänzt; fachliche Parität mit dem dokumentierten Demonstratorstand als Abnahmekriterium festgelegt. |
 | 1.1 | 12.09.2026 | Bestandsaudit abgeschlossen; Folgearbeiten #11 und #12 als verbindliche nächste Schritte verankert |
 | 1.0 | 12.09.2026 | Roadmap als aktives Steuerungsdokument eingeführt |
