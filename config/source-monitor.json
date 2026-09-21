@@ -2,14 +2,34 @@
   "version": 1,
   "sources": [
     {
+      "id": "ris-feldkirchen-freigaben",
+      "name": "RIS Feldkirchen – Dokumente mit Freigabe",
+      "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/do0040.asp",
+      "mode": "overview",
+      "priority": "mandatory",
+      "follow_same_host": true,
+      "match": [
+        "/vo0050.asp",
+        "/getfile.asp",
+        "/si0057.asp"
+      ],
+      "document_extensions": [
+        ".pdf"
+      ]
+    },
+    {
       "id": "feldkirchen-bauamt",
       "name": "Gemeinde Feldkirchen – Nachrichten aus dem Bauamt",
       "url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt",
       "mode": "overview",
       "priority": "mandatory",
       "follow_same_host": true,
-      "match": ["/bauen/nachrichten-aus-dem-bauamt/"],
-      "document_extensions": [".pdf"]
+      "match": [
+        "/bauen/nachrichten-aus-dem-bauamt/"
+      ],
+      "document_extensions": [
+        ".pdf"
+      ]
     },
     {
       "id": "feldkirchen-parkraum-2026",
@@ -19,7 +39,9 @@
       "priority": "mandatory",
       "follow_same_host": true,
       "match": [],
-      "document_extensions": [".pdf"],
+      "document_extensions": [
+        ".pdf"
+      ],
       "emit_on_baseline": true
     },
     {
@@ -30,7 +52,9 @@
       "priority": "mandatory",
       "follow_same_host": true,
       "match": [],
-      "document_extensions": [".pdf"]
+      "document_extensions": [
+        ".pdf"
+      ]
     },
     {
       "id": "autobahn-gmbh-suedbayern",
@@ -40,7 +64,9 @@
       "priority": "topic",
       "follow_same_host": true,
       "match": [],
-      "document_extensions": [".pdf"]
+      "document_extensions": [
+        ".pdf"
+      ]
     },
     {
       "id": "adfc-muenchen",
@@ -50,7 +76,9 @@
       "priority": "topic",
       "follow_same_host": true,
       "match": [],
-      "document_extensions": [".pdf"]
+      "document_extensions": [
+        ".pdf"
+      ]
     },
     {
       "id": "bn-kreisgruppe-muenchen",
@@ -60,7 +88,9 @@
       "priority": "topic",
       "follow_same_host": true,
       "match": [],
-      "document_extensions": [".pdf"]
+      "document_extensions": [
+        ".pdf"
+      ]
     },
     {
       "id": "bi-afk",
@@ -70,7 +100,9 @@
       "priority": "topic",
       "follow_same_host": true,
       "match": [],
-      "document_extensions": [".pdf"]
+      "document_extensions": [
+        ".pdf"
+      ]
     }
   ]
 }
