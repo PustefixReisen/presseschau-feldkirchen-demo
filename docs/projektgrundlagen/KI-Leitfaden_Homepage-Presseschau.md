@@ -1,6 +1,6 @@
 # KI-Leitfaden Homepage-Presseschau Feldkirchen
 
-**Version 2.0 · Stand 21.09.2026**
+**Version 2.1 · Stand 21.09.2026**
 
 > Kanonische Markdown-Fassung für GitHub. Inhaltlich übernommen aus der bisherigen Projektbibliothek und um verbindliche Projektentscheidungen fortgeschrieben.
 
@@ -102,6 +102,15 @@ Für die öffentliche Sachinformation gilt:
 - wenn eine Vorlage öffentlich freigegeben ist, aber noch kein zugehöriger TOP in einer veröffentlichten Tagesordnung nachgewiesen werden kann, muss dies im Beitrag ausdrücklich sichtbar sein, z. B. mit dem Hinweis „Die Vorlage ist im RIS veröffentlicht; ein zugehöriger Tagesordnungspunkt bzw. Sitzungstermin ist derzeit noch nicht veröffentlicht/bestätigt.“;
 - eine in der Vorlage genannte Beratungsfolge oder ein dort genanntes Sitzungsdatum gilt nicht allein dadurch als bestätigter Tagesordnungspunkt. Maßgeblich für die Zuordnung zu einer konkreten Sitzung ist die veröffentlichte Tagesordnung bzw. eine sonstige belastbare öffentliche Sitzungsinformation.
 
+**Datumslogik bei RIS-Dokumenten:** Bei Beschlussvorlagen werden unterschiedliche Datumsarten getrennt geführt und dürfen nicht miteinander gleichgesetzt werden:
+- Erstellungs-/Dokumentdatum,
+- Datum der öffentlichen Freigabe bzw. erstmaligen öffentlichen Auffindbarkeit,
+- in der Vorlage genannter geplanter Sitzungstermin bzw. Beratungsfolge,
+- Datum einer veröffentlichten Tagesordnung,
+- Datum einer tatsächlich dokumentierten Beratung oder Entscheidung.
+
+Für das Beitragsdatum ist die **maßgebliche neue öffentlich belegte Entwicklung** ausschlaggebend. Wird eine Vorlage öffentlich freigegeben, ohne dass der darin genannte Sitzungstermin durch eine veröffentlichte Tagesordnung bestätigt ist, wird grundsätzlich das Freigabe-/Veröffentlichungsdatum als Beitragsdatum verwendet. Der in der Vorlage genannte Sitzungstermin wird im Beitrag zusätzlich erläutert, wenn er für das Verständnis relevant ist. Fehlt der Vorgang in der veröffentlichten Tagesordnung, muss dieser Widerspruch ausdrücklich sichtbar gemacht werden. Erst eine belastbare öffentliche Dokumentation der tatsächlichen Beratung oder Entscheidung begründet einen neuen Sachstand zum Sitzungstermin.
+
 ### 4.1.3 Zwei-Achsen-Presserecherche
 
 Bei jedem vollständigen FIB-Update wird die Presserecherche verbindlich über zwei voneinander unabhängige Suchachsen durchgeführt:
@@ -181,6 +190,7 @@ Vor Veröffentlichung werden Tatsachen, Datumsangaben, Rollen, Links, Quellen, Z
 
 | Version | Datum | Änderung |
 |---|---|---|
+| 2.1 | 21.09.2026 | Datumslogik für RIS-Dokumente präzisiert: Erstellungsdatum, Freigabe, geplante Beratungsfolge, veröffentlichte Tagesordnung und tatsächliche Entscheidung werden getrennt; bei nicht bestätigtem Sitzungstermin bleibt die öffentliche Freigabe maßgeblicher neuer Sachstand und der Datumswiderspruch wird transparent dargestellt. |
 | 2.0 | 21.09.2026 | Zwei-Achsen-Presserecherche verbindlich eingeführt: Ortsabdeckung plus themenbasierte Suche; direkte Prüfung relevanter Presseübersichten einschließlich Merkur Landkreis/Feldkirchen/Aschheim/Kirchheim/Haar; vollständiger Lauf erst nach beiden Suchachsen. |
 | 1.9 | 20.09.2026 | RIS-Freigaben ohne bereits veröffentlichten TOP als möglichen eigenständigen neuen Sachstand aufgenommen; Beiträge müssen fehlende TOP-/Sitzungszuordnung ausdrücklich sichtbar machen; Beratungsfolge in Vorlagen allein bestätigt keinen Sitzungstermin. |
 | 1.8 | 20.09.2026 | Vollständige Auswertung kommunaler Beschlussvorlagen und relevanter Anlagen als verbindliche Recherche- und Beitragsregel ergänzt; klare Trennung von Tatsachen, Verwaltungsbewertung, Bürgerargumenten und offenen Varianten. |
