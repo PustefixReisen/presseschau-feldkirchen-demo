@@ -1,10 +1,10 @@
 {
   "schema_version": "2.0",
   "work_package": "canonical",
-  "status": "canonical_after_correction_2026-09-21",
+  "status": "canonical_after_standard_update_2026-09-22",
   "research_window": {
     "from": "2025-08-27",
-    "to": "2026-09-21"
+    "to": "2026-09-22"
   },
   "source_basis": [
     "recherchebestand.json",
