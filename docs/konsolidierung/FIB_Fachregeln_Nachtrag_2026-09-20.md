@@ -4,7 +4,7 @@
 
 | Version | Stand | Verantwortlich |
 |---|---|---|
-| 0.2 | 21.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
+| 0.3 | 22.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
 
 ## Zweck
 
@@ -55,9 +55,25 @@ Jeder vollständige FIB-Update-Lauf führt die Presserecherche über zwei vonein
 
 Ein vollständiger Recherchelauf gilt erst als fachlich abgeschlossen, wenn beide Achsen durchgeführt wurden. Damit soll insbesondere verhindert werden, dass relevante Beiträge unentdeckt bleiben, weil ein Medium sie einer Nachbargemeinde zuordnet oder der Ortsname Feldkirchen weder in Überschrift noch URL vorkommt.
 
+## 4. Lokale grüne Anträge und interne Hintergrundquellen
+
+Für den Demonstrator gilt der Bibliotheksordner `Arbeitsdaten/Anträge-Gruene-Feldkirchen` als feste lokale grüne Hintergrundquelle. Dort abgelegte Anträge, Anfragen und Stellungnahmen dürfen für Themenpflege, Recherchelenkung und „Unsere Einordnung“ verwendet werden, auch wenn die Dokumente selbst nicht öffentlich im Internet zugänglich sind.
+
+Dabei gilt verbindlich:
+
+- Nicht öffentlich zugängliche Dokumente werden nicht als öffentliche Quelle verlinkt oder so dargestellt, als könnten Leserinnen und Leser sie selbst aufrufen.
+- Ihr Inhalt darf zur Einordnung dokumentierter lokaler grüner Positionen und zur Erkennung von Zusammenhängen genutzt werden. Die öffentliche Sachinformation darf daraus keine unbelegten Tatsachen über Verwaltung, Gemeinderat oder Dritte ableiten.
+- Wird ein solcher Antrag später öffentlich im RIS, in Tagesordnung, Beschlussvorlage, Niederschrift oder einer anderen belastbaren Quelle sichtbar, wird der öffentliche Vorgang verknüpft und als Quelle angegeben.
+- Interne Antragskenntnis steuert die Recherche: Bei Updates wird gezielt auf öffentliche Folgevorgänge, Reaktionen, Beschlussvorlagen, Entscheidungen und Presseberichterstattung geprüft.
+- Mehrere lokale Anträge dürfen für die Themenpflege als Hintergrundwissen zusammengeführt werden, um fachliche Querverbindungen sichtbar zu machen.
+- In Metadaten ist zu unterscheiden, ob eine lokale Position nur intern als Antragswissen vorliegt oder durch eine öffentliche Quelle bestätigt ist.
+
+Diese Regel betrifft die Quellen- und Vertrauensebene des Echtbetriebs unmittelbar: Nicht öffentliche Hintergrundquellen dürfen nicht versehentlich in öffentliche Ausgabe, Repository oder öffentlich zugängliche Logs/Artefakte gelangen. Die spätere Echtbetriebsarchitektur muss deshalb Herkunft, Sichtbarkeit und Freigabestatus solcher Quellen persistent unterscheiden.
+
 ## Änderungshistorie
 
 | Version | Datum | Änderung |
 |---|---|---|
 | 0.1 | 20.09.2026 | Neuere verbindliche Fachregeln aus `main` für den kontrollierten Konsolidierungsprozess gesichert: breite lokale Relevanz und systematische Auswertung kommunaler Beschlussvorlagen. |
 | 0.2 | 21.09.2026 | Branchabgleich mit KI-Leitfaden V2.1 auf `main`: Beschlussvorlagen-Regel um Freigabe-vor-TOP und Datumslogik ergänzt; Zwei-Achsen-Presserecherche als verbindliche Regel gesichert. |
+| 0.3 | 22.09.2026 | Branchabgleich mit KI-Leitfaden V2.2 auf `main`: lokale grüne Anträge/interne Hintergrundquellen als feste Recherche- und Einordnungsquelle mit strikter Trennung von öffentlicher Quelle, Folgevorgangssuche und Herkunfts-/Sichtbarkeitsmetadaten gesichert. |
