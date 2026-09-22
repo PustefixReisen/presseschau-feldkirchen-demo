@@ -5,11 +5,11 @@
       "name": "Gemeinde Feldkirchen – Nachrichten aus dem Bauamt",
       "url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt",
       "priority": "mandatory",
-      "last_success_at": "2026-09-21T09:58:31+00:00",
+      "last_success_at": "2026-09-22T09:19:31+00:00",
       "final_url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt",
       "content_type": "text/html;charset=UTF-8",
-      "page_sha256": "bb5445e2e2bd6da6b6779699bdf45c82c56a193f70501cf343d71545a86994d6",
-      "page_changed": false,
+      "page_sha256": "a88715e55e5b595f7b9dea29eee696dd7b6ea0063fbcc5e3109ec75d8b2b5174",
+      "page_changed": true,
       "first_seen": false,
       "links": {
         "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt/neues-parkraumkonzept-in-feldkirchen": {
@@ -26,11 +26,11 @@
       "name": "Gemeinde Feldkirchen – Neues Parkraumkonzept",
       "url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt/neues-parkraumkonzept-in-feldkirchen",
       "priority": "mandatory",
-      "last_success_at": "2026-09-21T09:58:35+00:00",
+      "last_success_at": "2026-09-22T09:19:36+00:00",
       "final_url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt/neues-parkraumkonzept-in-feldkirchen",
       "content_type": "text/html;charset=UTF-8",
-      "page_sha256": "63449d52ad5330ab4723611bc9c4d6688cc1c9ccf62ee8220e71161aac1038ef",
-      "page_changed": false,
+      "page_sha256": "2af157d5f68e3d0e022b69464bf313c69aba26c612eea624090a1d30f1e3d3e8",
+      "page_changed": true,
       "first_seen": false,
       "links": {
         "https://www.feldkirchen.de/": {
@@ -294,6 +294,9 @@
         "https://www.feldkirchen.de/leben/senioren/senioren-und-pflegeheime": {
           "text": "Senioren- und Pflegeheime"
         },
+        "https://www.feldkirchen.de/leben/senioren/betreutes-wohnen": {
+          "text": "Betreutes Wohnen"
+        },
         "https://www.feldkirchen.de/leben/senioren/broschueren-fuer-senioren": {
           "text": "Broschüren für Senioren"
         },
@@ -445,7 +448,7 @@
           "content_type": "application/pdf",
           "bytes": 1472041,
           "sha256": "4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
-          "checked_at": "2026-09-21T09:58:35+00:00"
+          "checked_at": "2026-09-22T09:19:36+00:00"
         }
       },
       "error": null
@@ -454,10 +457,10 @@
       "name": "Landkreis München",
       "url": "https://www.landkreis-muenchen.de/",
       "priority": "mandatory",
-      "last_success_at": "2026-09-21T09:58:36+00:00",
+      "last_success_at": "2026-09-22T09:19:37+00:00",
       "final_url": "https://www.landkreis-muenchen.de/",
       "content_type": "text/html; charset=utf-8",
-      "page_sha256": "b5ea75c8a04ad39df79826c3e76ca440b79837fc0c231c508a6af748fb26139d",
+      "page_sha256": "8a3e900a5e1f29c974e6e68d1d93b342b061ad2124a82773e3ef9cee8291e5e4",
       "page_changed": true,
       "first_seen": false,
       "links": {
@@ -677,6 +680,9 @@
         "https://www.landkreis-muenchen.de/nachrichten/": {
           "text": "Alle Nachrichten"
         },
+        "https://www.landkreis-muenchen.de/artikel/halbseitige-sperrung-der-haarer-strasse-b-471-in-putzbrunn/": {
+          "text": "Halbseitige Sperrung der Haarer Straße (B 471) in Putzbrunn"
+        },
         "https://www.landkreis-muenchen.de/artikel/halbseitige-sperrung-der-pasinger-strasse-in-graefelfing/": {
           "text": "Halbseitige Sperrung der Pasinger Straße in Gräfelfing"
         },
@@ -703,9 +709,6 @@
         },
         "https://www.landkreis-muenchen.de/artikel/geaenderte-verkehrsfuehrung-am-foehringer-ring/": {
           "text": "Geänderte Verkehrsführung am Föhringer Ring vom 24. Juli 2026 bis vrsl. 28. April 2028"
-        },
-        "https://www.landkreis-muenchen.de/artikel/vollsperrung-der-putzbrunner-strasse-im-bereich-des-s-bahnhofs-ottobrunn/": {
-          "text": "Absage / Vollsperrung der Putzbrunner Straße im Bereich des  S-Bahnhofs Ottobrunn"
         },
         "https://www.landkreis-muenchen.de/themen/mobilitaet/kfz-zulassung/online-zulassungsbehoerde/": {
           "text": "Auto einfach online an- oder ummelden"
@@ -748,18 +751,18 @@
       "name": "Autobahn GmbH – Südbayern",
       "url": "https://www.autobahn.de/die-autobahn/niederlassungen/suedbayern",
       "priority": "topic",
-      "last_attempt_at": "2026-09-21T09:58:37+00:00",
+      "last_attempt_at": "2026-09-22T09:19:38+00:00",
       "error": "HTTPError: HTTP Error 404: Not Found"
     },
     "adfc-muenchen": {
       "name": "ADFC München",
       "url": "https://muenchen.adfc.de/",
       "priority": "topic",
-      "last_success_at": "2026-09-21T09:58:38+00:00",
+      "last_success_at": "2026-09-22T09:19:39+00:00",
       "final_url": "https://muenchen.adfc.de/",
       "content_type": "text/html; charset=utf-8",
-      "page_sha256": "265fab67448f99a7de7ddd00246ba53e25e57a60663220b0e5905a6fbb9368a7",
-      "page_changed": false,
+      "page_sha256": "159a6aba4b19a4d93de8bd26f8da298406ffc2dd45ae66648b3e624bd052e372",
+      "page_changed": true,
       "first_seen": false,
       "links": {
         "https://muenchen.adfc.de/sei-dabei": {
@@ -798,10 +801,13 @@
         "https://muenchen.adfc.de/artikel/bikepacking-23": {
           "text": ""
         },
-        "https://muenchen.adfc.de/pressemitteilung/veranstaltungen-des-adfc-muenchen-im-september-2026": {
+        "https://muenchen.adfc.de/pressemitteilung/veranstaltungen-des-adfc-muenchen-im-oktober-2026": {
           "text": ""
         },
         "https://muenchen.adfc.de/neuigkeit/kidical-mass-am-sonntag-11102026": {
+          "text": ""
+        },
+        "https://muenchen.adfc.de/pressemitteilung/veranstaltungen-des-adfc-muenchen-im-september-2026": {
           "text": ""
         },
         "https://muenchen.adfc.de/neuigkeit/radfahren-in-den-medien-mitte-september-2026": {
@@ -820,9 +826,6 @@
           "text": ""
         },
         "https://muenchen.adfc.de/neuigkeit/wuermtal-stahl-2026": {
-          "text": ""
-        },
-        "https://muenchen.adfc.de/pressemitteilung/adfc-muenchen-gruendet-ortsgruppe-grasbrunn": {
           "text": ""
         },
         "https://muenchen.adfc.de/aktuelles/neuigkeiten": {
@@ -845,7 +848,7 @@
       "name": "BUND Naturschutz – Kreisgruppe München",
       "url": "https://bn-muenchen.de/",
       "priority": "topic",
-      "last_success_at": "2026-09-21T09:58:40+00:00",
+      "last_success_at": "2026-09-22T09:19:41+00:00",
       "final_url": "https://bn-muenchen.de/",
       "content_type": "text/html",
       "page_sha256": "c9c228fa3294734a8b11eb9e7cfac3316ccb2db84afb1c80c6f0098e713d2e2e",
@@ -866,11 +869,11 @@
       "name": "BI-AFK",
       "url": "https://www.bi-afk.de/",
       "priority": "topic",
-      "last_success_at": "2026-09-21T09:58:42+00:00",
+      "last_success_at": "2026-09-22T09:19:44+00:00",
       "final_url": "https://bi-afk.de/",
       "content_type": "text/html; charset=UTF-8",
       "page_sha256": "df9739daf2709e292b11214e9bcafc6731b7683ad1c266174e5df607c77d16a8",
-      "page_changed": true,
+      "page_changed": false,
       "first_seen": false,
       "links": {
         "https://bi-afk.de/": {
@@ -952,7 +955,7 @@
           "content_type": "application/pdf",
           "bytes": 149466,
           "sha256": "f0ce9eb0a26c6e4bafbce93352128b32ede6a1a841c241d07be53c69c0f4b695",
-          "checked_at": "2026-09-21T09:58:42+00:00"
+          "checked_at": "2026-09-22T09:19:44+00:00"
         }
       },
       "error": null
@@ -961,10 +964,10 @@
       "name": "RIS Feldkirchen – Dokumente mit Freigabe",
       "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/do0040.asp",
       "priority": "mandatory",
-      "last_success_at": "2026-09-21T09:58:30+00:00",
+      "last_success_at": "2026-09-22T09:19:29+00:00",
       "final_url": "https://buergerinfo-feldkirchen.digitalfabrix.de/do0040.asp",
       "content_type": "text/html; Charset=utf-8",
-      "page_sha256": "0e132cdf8c5ff2fe99d098587d734b165454cd8044a9c43823a2b46370ba7baa",
+      "page_sha256": "804358b05187307cee2a07b8e6e8df804a5d7b4913d99477d80a3365cdfd492d",
       "page_changed": true,
       "first_seen": false,
       "links": {
@@ -980,6 +983,12 @@
         "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75324&type=do": {
           "text": ""
         },
+        "https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8398": {
+          "text": "Bauleitplanung - Bebauungsplan Nr. 102, 1. Änderung, „ Gewerbegebiet an der Weißenfelder Straße“ frühzeitige Beteiligung der Öffentlichkeit und der Träger öffentlicher Belange nach § 3 Abs. 1 und § 4 Abs. 1 BauGB - Behandlung der Stellungnahmen zu de"
+        },
+        "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=72299&type=do": {
+          "text": ""
+        },
         "https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8524": {
           "text": "Bauleitplanung - 17. Änderung des Flächennutzungsplanes der Gemeinde Feldkirchen für das Grundstück Fl.Nr. 302/2, 291/Teilfläche und 307/Teilfläche Gemarkung Feldkirchen zur Änderung der Darstellung in Grünfläche mit Zweckbestimmung Spielanlagen - Ei"
         },
@@ -992,10 +1001,10 @@
         "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74602&type=do": {
           "text": ""
         },
-        "https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8398": {
-          "text": "Bauleitplanung - Bebauungsplan Nr. 102, 1. Änderung, „ Gewerbegebiet an der Weißenfelder Straße“ frühzeitige Beteiligung der Öffentlichkeit und der Träger öffentlicher Belange nach § 3 Abs. 1 und § 4 Abs. 1 BauGB - Behandlung der Stellungnahmen zu de"
+        "https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8589": {
+          "text": "Bauleitplanung - Bebauungsplan Nr. 91 „Ortsmitte Nordost, 4. Änderung für die Fl.Nr. 64 Gemarkung Feldkirchen/Teilfläche; Beteiligung der Öffentlichkeit und der Träger öffentlicher Belange nach § 3 Abs. 2 und § 4 Abs. 2, i.V.m. § 13 Baugesetz-buch ge"
         },
-        "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=72299&type=do": {
+        "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75204&type=do": {
           "text": ""
         },
         "https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8553": {
@@ -1009,18 +1018,6 @@
         },
         "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75105&type=do": {
           "text": ""
-        },
-        "https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8589": {
-          "text": "Bauleitplanung - Bebauungsplan Nr. 91 „Ortsmitte Nordost, 4. Änderung für die Fl.Nr. 64 Gemarkung Feldkirchen/Teilfläche; Beteiligung der Öffentlichkeit und der Träger öffentlicher Belange nach § 3 Abs. 2 und § 4 Abs. 2, i.V.m. § 13 Baugesetz-buch ge"
-        },
-        "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75204&type=do": {
-          "text": ""
-        },
-        "https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8528": {
-          "text": "Errichtung einer Hundewiese auf dem Grundstück Fl.Nr. 630/Teilfläche Gemarkung Feldkirchen, östlich des Friedhofs - Entscheidung über das weitere Vorgehen nach Vorlage der schalltechnischen Stellungnahme"
-        },
-        "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74647&type=do": {
-          "text": ""
         }
       },
       "documents": {},
@@ -1030,24 +1027,54 @@
       "name": "Münchner Merkur – Landkreis München",
       "url": "https://www.merkur.de/lokales/muenchen-lk/",
       "priority": "mandatory",
-      "last_success_at": "2026-09-21T09:58:44+00:00",
+      "last_success_at": "2026-09-22T09:19:45+00:00",
       "final_url": "https://www.merkur.de/lokales/muenchen-lk/",
       "content_type": "text/html;charset=utf-8",
-      "page_sha256": "35f927e9d975078dc4c016470225c1fa7d819aee364102d19a47c58ffaadfe64",
-      "page_changed": false,
-      "first_seen": true,
+      "page_sha256": "f16ec297d80d166092d48e5c50d311724c45e328c2dd716dd717fba43c352c3c",
+      "page_changed": true,
+      "first_seen": false,
       "links": {
         "https://www.merkur.de/lokales/muenchen-lk/": {
           "text": "Menü"
         },
-        "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/140-seniorenwohnungen-in-feldkirchen-gemeinde-greift-zum-bauturbo-94501119.html": {
-          "text": "140 Seniorenwohnungen in Feldkirchen: Gemeinde greift zum Bauturbo"
+        "https://www.merkur.de/lokales/muenchen-lk/oberhaching-ort29194/oberhaching-pure-flavour-von-3000-euro-oma-kredit-zum-16-millionen-neubau-94502891.html": {
+          "text": "Pure Flavour: Von 3000 Euro Oma-Kredit zum 16-Millionen-Neubau"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/oberschleissheim-ort29202/barockfest-in-schloss-lustheim-eine-violine-ist-160-jahre-alt-94502897.html": {
+          "text": "Barockfest in Schloss Lustheim: Eine Violine ist 160 Jahre alt"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/muenchner-33-missachtet-rote-ampel-25-jaehrige-schwer-verletzt-94504295.html": {
+          "text": "Münchner (33) missachtet rote Ampel: 25-Jährige schwer verletzt"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/neubiberg-ort29121/39-leutnants-auf-einen-schlag-bundeswehruni-befoerdert-offiziere-94502944.html": {
+          "text": "39 Leutnants auf einen Schlag: Bundeswehruni befördert Offiziere"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/sauerlach-ort117101/sauerlachs-neuer-buergermeister-das-muss-mir-erstmal-jemand-nachmachen-94502906.html": {
+          "text": "Sauerlachs neuer Bürgermeister: „Das muss mir erstmal jemand nachmachen\""
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/putzbrunn-ort29323/b471-wird-zur-einbahnstrasse-umleitung-gilt-bis-17-november-94503422.html": {
+          "text": "B471 wird zur Einbahnstraße: Umleitung gilt bis 17. November"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/schaeftlarn-ort73337/doppelter-beinbruch-zwei-16-jaehrige-in-motorradunfall-verwickelt-94502936.html": {
+          "text": "Doppelter Beinbruch: Zwei 16-Jährige in Motorradunfall verwickelt"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/grundwasser-sinkt-auf-27-meter-haar-plant-dritten-vorratsbehaelter-94501117.html": {
+          "text": "Grundwasser sinkt auf 27 Meter: Haar plant dritten Vorratsbehälter"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/sprachpaedagoginnen-erklaeren-pisa-paradox-eltern-sollen-deutsch-meiden-94500275.html": {
+          "text": "Eltern müssen mit Kindern nicht Deutsch sprechen: Sprachpädagoginnen erklären Pisa-Paradoxon"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/oberhaching-ort29194/alpenverein-gleissental-waechst-auf-1700-mitglieder-eine-gruppe-ist-der-grund-94501124.html": {
+          "text": "Alpenverein Gleißental wächst auf 1700 Mitglieder"
         },
         "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/1070-schueler-draengen-auf-die-strasse-aschheim-macht-zwei-wege-zur-fahrradstrasse-94501122.html": {
           "text": "1070 Schüler drängen auf die Straße: Aschheim macht zwei Wege zur Fahrradstraße"
         },
         "https://www.merkur.de/lokales/muenchen-lk/taufkirchen-bei-muenchen-ort486320/seniorenquartier-am-hachinger-bach-genehmigt-aber-streit-um-parkplaetze-bleibt-94501097.html": {
           "text": "Seniorenquartier am Hachinger Bach genehmigt – aber Streit um Parkplätze bleibt"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/140-seniorenwohnungen-in-feldkirchen-gemeinde-greift-zum-bauturbo-94501119.html": {
+          "text": "140 Seniorenwohnungen in Feldkirchen: Gemeinde greift zum Bauturbo"
         },
         "https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/mitarbeiter-verletzt-kollegen-in-restaurant-und-landet-in-der-psychiatrie-94500974.html": {
           "text": "Mitarbeiter verletzt Kollegen in Restaurant und muss zur Psychiatrie"
@@ -1058,41 +1085,11 @@
         "https://www.merkur.de/lokales/muenchen-lk/ottobrunn-ort29241/einst-weltberuehmter-komponist-hier-nicht-vergessen-ottobrunn-ehrt-ermanno-wolf-ferrari-94499324.html": {
           "text": "Einst weltberühmter Komponist hier nicht vergessen: Ottobrunn ehrt Ermanno Wolf-Ferrari"
         },
-        "https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/erklaeren-pisa-paradox-eltern-sollen-deutsch-meiden-sprachpaedagoginnen-94500275.html": {
-          "text": "Eltern müssen mit Kindern nicht Deutsch sprechen: Sprachpädagoginnen erklären Pisa-Paradoxon"
-        },
         "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/bajuwarenhof-kirchheim-freiwillige-decken-schilfdach-wie-im-mittelalter-94499569.html": {
           "text": "Bajuwarenhof Kirchheim: Freiwillige decken Schilfdach wie im Mittelalter"
         },
         "https://www.merkur.de/lokales/muenchen-lk/taufkirchen-bei-muenchen-ort486320/25-jahres-vertrag-unterschrieben-seniorenheim-am-hachinger-bach-gesichert-94500273.html": {
           "text": "25-Jahres-Vertrag unterschrieben: Seniorenheim zieht um und sichert sich seine Zukunft"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/ismaning-ort28863/flugsicherung-stoppt-sieben-windraeder-projekt-dreier-gemeinden-gescheitert-94499565.html": {
-          "text": "Flugsicherung stoppt sieben Windräder: Projekt dreier Gemeinden gescheitert"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/cantate-kirche-kirchheim-ehepaar-teilt-sich-eine-pfarrerstelle-94499333.html": {
-          "text": "Cantate-Kirche Kirchheim: Ehepaar teilt sich eine Pfarrerstelle"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/90-millionen-euro-kaum-nutzen-471-neu-wird-nicht-gebaut-94499321.html": {
-          "text": "Autobahnparallele „B471 neu“ ist endgültig vom Tisch"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/unterhaching-muenchen-a995-wird-ab-montag-nachts-gesperrt-was-autofahrer-jetzt-wissen-muessen-94498563.html": {
-          "text": "Baustelle auf A995: Sperrungen auf Autobahn bei München – ein Tag wird besonders eng"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/unterhaching-hotel-beckenlehner-wird-zum-mehrfamilienhaus-15-wohnungen-genehmigt-94497202.html": {
-          "text": "Hotel Beckenlehner wird zum Mehrfamilienhaus: 15 Wohnungen genehmigt"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/taufkirchen-bei-muenchen-ort486320/falscher-arzt-ergaunert-schmuck-und-bargeld-von-seniorin-in-taufkirchen-94498866.html": {
-          "text": "Falscher Arzt ergaunert Schmuck und Bargeld von Seniorin in Taufkirchen"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/aying-ort28266/bahnlinie-s5-bei-grosshelfendorf-drei-wochen-laenger-gesperrt-94498863.html": {
-          "text": "Bahnlinie S5 bei Großhelfendorf drei Wochen länger gesperrt"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/hoehenkirchen-siegertsbrunn-ort100556/mann-verfolgt-und-kuesst-15-jaehrige-in-hoehenkirchen-siegertsbrunn-zwangsweise-94498794.html": {
-          "text": "Mann verfolgt und küsst 15-Jährige in Höhenkirchen-Siegertsbrunn – Polizei fasst Täter"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/ottobrunn-ort29241/ottobrunns-buergermeister-schardt-erst-einmal-kleinste-broetchen-gebacken-94498394.html": {
-          "text": "Ottobrunns Bürgermeister Schardt: „Erst einmal kleinste Brötchen gebacken\""
         }
       },
       "documents": {},
@@ -1102,12 +1099,12 @@
       "name": "Münchner Merkur – Feldkirchen",
       "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/",
       "priority": "mandatory",
-      "last_success_at": "2026-09-21T09:58:45+00:00",
+      "last_success_at": "2026-09-22T09:19:47+00:00",
       "final_url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/",
       "content_type": "text/html;charset=utf-8",
-      "page_sha256": "507e06818cf5a2dd1f4ce770c0f5d24bec0b7813dcd9002f4d74742d9d6fd278",
-      "page_changed": false,
-      "first_seen": true,
+      "page_sha256": "45b73fb07458523546007677318ece3bda65f4ada1be7c693e0daa102e159e95",
+      "page_changed": true,
+      "first_seen": false,
       "links": {
         "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/": {
           "text": "Menü"
@@ -1174,12 +1171,12 @@
       "name": "Münchner Merkur – Aschheim",
       "url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/",
       "priority": "mandatory",
-      "last_success_at": "2026-09-21T09:58:46+00:00",
+      "last_success_at": "2026-09-22T09:19:48+00:00",
       "final_url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/",
       "content_type": "text/html;charset=utf-8",
-      "page_sha256": "cb7e71a580a6b7e58178ec4b6142cf3b554932058a0cdc97e855494c8c9d259c",
-      "page_changed": false,
-      "first_seen": true,
+      "page_sha256": "4cd1558ca1b7ff50ea68ef46155a6de1ddbb9114abecafa1a041f51d5982e46e",
+      "page_changed": true,
+      "first_seen": false,
       "links": {
         "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/": {
           "text": "Menü"
@@ -1246,12 +1243,12 @@
       "name": "Münchner Merkur – Kirchheim",
       "url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/",
       "priority": "mandatory",
-      "last_success_at": "2026-09-21T09:58:47+00:00",
+      "last_success_at": "2026-09-22T09:19:49+00:00",
       "final_url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/",
       "content_type": "text/html;charset=utf-8",
-      "page_sha256": "15f5c02ea9850bb9da43d0026264a915a36df8f1f3a54428f1e1838c4a9d5860",
-      "page_changed": false,
-      "first_seen": true,
+      "page_sha256": "0277060470ad32dbc5fc2d8d4e763564890f01a18640b91b5459928f8513fe8f",
+      "page_changed": true,
+      "first_seen": false,
       "links": {
         "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/": {
           "text": "Menü"
@@ -1318,18 +1315,21 @@
       "name": "Münchner Merkur – Haar",
       "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/",
       "priority": "mandatory",
-      "last_success_at": "2026-09-21T09:58:48+00:00",
+      "last_success_at": "2026-09-22T09:19:50+00:00",
       "final_url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/",
       "content_type": "text/html;charset=utf-8",
-      "page_sha256": "8a0757e6a46b36cb9a5ded8d20ba4417b73d01c4156e988f1f18c5ddd8d99a4f",
-      "page_changed": false,
-      "first_seen": true,
+      "page_sha256": "2a0930089402be259b607a97ee0bf2e9563d077f9d7ddc8dda29b96395b9c927",
+      "page_changed": true,
+      "first_seen": false,
       "links": {
         "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/": {
           "text": "Menü"
         },
         "https://www.merkur.de/lokales/muenchen-lk/": {
           "text": "München Landkreis"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/grundwasser-sinkt-auf-27-meter-haar-plant-dritten-vorratsbehaelter-94501117.html": {
+          "text": "Grundwasser sinkt auf 27 Meter: Haar plant dritten Vorratsbehälter"
         },
         "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/kleines-theater-haar-bringt-die-zauberfloete-auf-die-buehne-94497200.html": {
           "text": "Kleines Theater Haar bringt die Zauberflöte auf die Bühne"
@@ -1378,14 +1378,11 @@
         },
         "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/schockanruf-in-haar-94-jaehrige-haendigt-betruegern-alle-ersparnisse-aus-94457045.html": {
           "text": "Sie glaubte, ihr Sohn stirbt: „Besonders perfider“ Schockanruf – Seniorin händigt alle Ersparnisse aus"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/fdp-haar-wird-opfer-von-cyberangriff-ortschef-warnt-alle-vereine-94455830.html": {
-          "text": "FDP Haar wird Opfer von Cyberangriff – Ortschef warnt alle Vereine und Parteien"
         }
       },
       "documents": {},
       "error": null
     }
   },
-  "last_run_at": "2026-09-21T09:58:48+00:00"
+  "last_run_at": "2026-09-22T09:19:50+00:00"
 }

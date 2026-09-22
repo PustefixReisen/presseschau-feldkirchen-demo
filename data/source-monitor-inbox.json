@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-21T09:58:48+00:00",
+  "updated_at": "2026-09-22T09:19:50+00:00",
   "items": [
     {
       "event_key": "document:feldkirchen-parkraum-2026:https://www.feldkirchen.de/_Resources/Persistent/d/3/d/e/d3dee38ce3c4a9ad01384ca6ed314a2a8f8bcc12/2026%20Parkraumkonzept%20gem%20GR-Beschluss.pdf:4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
@@ -1464,6 +1464,146 @@
       "kind": "link_new",
       "url": "https://www.landkreis-muenchen.de/artikel/aktion-zukunft-unterstuetzt-bachrenaturierung/",
       "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/leben/senioren/betreutes-wohnen",
+      "detected_at": "2026-09-22T09:19:36+00:00",
+      "source_id": "feldkirchen-parkraum-2026",
+      "source_name": "Gemeinde Feldkirchen – Neues Parkraumkonzept",
+      "kind": "link_new",
+      "url": "https://www.feldkirchen.de/leben/senioren/betreutes-wohnen",
+      "link_text": "Betreutes Wohnen",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:landkreis-muenchen:https://www.landkreis-muenchen.de/artikel/halbseitige-sperrung-der-haarer-strasse-b-471-in-putzbrunn/",
+      "detected_at": "2026-09-22T09:19:37+00:00",
+      "source_id": "landkreis-muenchen",
+      "source_name": "Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.landkreis-muenchen.de/artikel/halbseitige-sperrung-der-haarer-strasse-b-471-in-putzbrunn/",
+      "link_text": "Halbseitige Sperrung der Haarer Straße (B 471) in Putzbrunn",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:adfc-muenchen:https://muenchen.adfc.de/pressemitteilung/veranstaltungen-des-adfc-muenchen-im-oktober-2026",
+      "detected_at": "2026-09-22T09:19:39+00:00",
+      "source_id": "adfc-muenchen",
+      "source_name": "ADFC München",
+      "kind": "link_new",
+      "url": "https://muenchen.adfc.de/pressemitteilung/veranstaltungen-des-adfc-muenchen-im-oktober-2026",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/oberhaching-ort29194/oberhaching-pure-flavour-von-3000-euro-oma-kredit-zum-16-millionen-neubau-94502891.html",
+      "detected_at": "2026-09-22T09:19:45+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/oberhaching-ort29194/oberhaching-pure-flavour-von-3000-euro-oma-kredit-zum-16-millionen-neubau-94502891.html",
+      "link_text": "Pure Flavour: Von 3000 Euro Oma-Kredit zum 16-Millionen-Neubau",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/oberschleissheim-ort29202/barockfest-in-schloss-lustheim-eine-violine-ist-160-jahre-alt-94502897.html",
+      "detected_at": "2026-09-22T09:19:45+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/oberschleissheim-ort29202/barockfest-in-schloss-lustheim-eine-violine-ist-160-jahre-alt-94502897.html",
+      "link_text": "Barockfest in Schloss Lustheim: Eine Violine ist 160 Jahre alt",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/muenchner-33-missachtet-rote-ampel-25-jaehrige-schwer-verletzt-94504295.html",
+      "detected_at": "2026-09-22T09:19:45+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/muenchner-33-missachtet-rote-ampel-25-jaehrige-schwer-verletzt-94504295.html",
+      "link_text": "Münchner (33) missachtet rote Ampel: 25-Jährige schwer verletzt",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/neubiberg-ort29121/39-leutnants-auf-einen-schlag-bundeswehruni-befoerdert-offiziere-94502944.html",
+      "detected_at": "2026-09-22T09:19:45+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/neubiberg-ort29121/39-leutnants-auf-einen-schlag-bundeswehruni-befoerdert-offiziere-94502944.html",
+      "link_text": "39 Leutnants auf einen Schlag: Bundeswehruni befördert Offiziere",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/sauerlach-ort117101/sauerlachs-neuer-buergermeister-das-muss-mir-erstmal-jemand-nachmachen-94502906.html",
+      "detected_at": "2026-09-22T09:19:45+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/sauerlach-ort117101/sauerlachs-neuer-buergermeister-das-muss-mir-erstmal-jemand-nachmachen-94502906.html",
+      "link_text": "Sauerlachs neuer Bürgermeister: „Das muss mir erstmal jemand nachmachen\"",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/putzbrunn-ort29323/b471-wird-zur-einbahnstrasse-umleitung-gilt-bis-17-november-94503422.html",
+      "detected_at": "2026-09-22T09:19:45+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/putzbrunn-ort29323/b471-wird-zur-einbahnstrasse-umleitung-gilt-bis-17-november-94503422.html",
+      "link_text": "B471 wird zur Einbahnstraße: Umleitung gilt bis 17. November",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/schaeftlarn-ort73337/doppelter-beinbruch-zwei-16-jaehrige-in-motorradunfall-verwickelt-94502936.html",
+      "detected_at": "2026-09-22T09:19:45+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/schaeftlarn-ort73337/doppelter-beinbruch-zwei-16-jaehrige-in-motorradunfall-verwickelt-94502936.html",
+      "link_text": "Doppelter Beinbruch: Zwei 16-Jährige in Motorradunfall verwickelt",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/grundwasser-sinkt-auf-27-meter-haar-plant-dritten-vorratsbehaelter-94501117.html",
+      "detected_at": "2026-09-22T09:19:45+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/grundwasser-sinkt-auf-27-meter-haar-plant-dritten-vorratsbehaelter-94501117.html",
+      "link_text": "Grundwasser sinkt auf 27 Meter: Haar plant dritten Vorratsbehälter",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/sprachpaedagoginnen-erklaeren-pisa-paradox-eltern-sollen-deutsch-meiden-94500275.html",
+      "detected_at": "2026-09-22T09:19:45+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/sprachpaedagoginnen-erklaeren-pisa-paradox-eltern-sollen-deutsch-meiden-94500275.html",
+      "link_text": "Eltern müssen mit Kindern nicht Deutsch sprechen: Sprachpädagoginnen erklären Pisa-Paradoxon",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/oberhaching-ort29194/alpenverein-gleissental-waechst-auf-1700-mitglieder-eine-gruppe-ist-der-grund-94501124.html",
+      "detected_at": "2026-09-22T09:19:45+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/oberhaching-ort29194/alpenverein-gleissental-waechst-auf-1700-mitglieder-eine-gruppe-ist-der-grund-94501124.html",
+      "link_text": "Alpenverein Gleißental wächst auf 1700 Mitglieder",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-haar:https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/grundwasser-sinkt-auf-27-meter-haar-plant-dritten-vorratsbehaelter-94501117.html",
+      "detected_at": "2026-09-22T09:19:50+00:00",
+      "source_id": "merkur-haar",
+      "source_name": "Münchner Merkur – Haar",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/grundwasser-sinkt-auf-27-meter-haar-plant-dritten-vorratsbehaelter-94501117.html",
+      "link_text": "Grundwasser sinkt auf 27 Meter: Haar plant dritten Vorratsbehälter",
       "status": "unprocessed"
     }
   ]
