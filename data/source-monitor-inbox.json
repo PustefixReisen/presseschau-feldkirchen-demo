@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-22T17:05:00Z",
+  "updated_at": "2026-09-23T06:10:42+00:00",
   "items": [
     {
       "event_key": "document:feldkirchen-parkraum-2026:https://www.feldkirchen.de/_Resources/Persistent/d/3/d/e/d3dee38ce3c4a9ad01384ca6ed314a2a8f8bcc12/2026%20Parkraumkonzept%20gem%20GR-Beschluss.pdf:4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
@@ -1633,6 +1633,146 @@
       "status": "processed",
       "processed_at": "2026-09-22T17:05:00Z",
       "processed_ref": "checked_no_fib_change_2026-09-22_haar_water_no_direct_feldkirchen_relation"
+    },
+    {
+      "event_key": "link:ris-feldkirchen-freigaben:https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1027",
+      "detected_at": "2026-09-23T06:10:22+00:00",
+      "source_id": "ris-feldkirchen-freigaben",
+      "source_name": "RIS Feldkirchen – Dokumente mit Freigabe",
+      "kind": "link_new",
+      "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1027",
+      "link_text": "20.08.2026",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:ris-feldkirchen-freigaben:https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75120&type=do",
+      "detected_at": "2026-09-23T06:10:22+00:00",
+      "source_id": "ris-feldkirchen-freigaben",
+      "source_name": "RIS Feldkirchen – Dokumente mit Freigabe",
+      "kind": "link_new",
+      "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75120&type=do",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:ris-feldkirchen-freigaben:https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1025",
+      "detected_at": "2026-09-23T06:10:22+00:00",
+      "source_id": "ris-feldkirchen-freigaben",
+      "source_name": "RIS Feldkirchen – Dokumente mit Freigabe",
+      "kind": "link_new",
+      "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1025",
+      "link_text": "09.07.2026",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:ris-feldkirchen-freigaben:https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74766&type=do",
+      "detected_at": "2026-09-23T06:10:22+00:00",
+      "source_id": "ris-feldkirchen-freigaben",
+      "source_name": "RIS Feldkirchen – Dokumente mit Freigabe",
+      "kind": "link_new",
+      "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74766&type=do",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:ris-feldkirchen-freigaben:https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1026",
+      "detected_at": "2026-09-23T06:10:22+00:00",
+      "source_id": "ris-feldkirchen-freigaben",
+      "source_name": "RIS Feldkirchen – Dokumente mit Freigabe",
+      "kind": "link_new",
+      "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1026",
+      "link_text": "23.07.2026",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:ris-feldkirchen-freigaben:https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74927&type=do",
+      "detected_at": "2026-09-23T06:10:22+00:00",
+      "source_id": "ris-feldkirchen-freigaben",
+      "source_name": "RIS Feldkirchen – Dokumente mit Freigabe",
+      "kind": "link_new",
+      "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74927&type=do",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/adfc-beantragt-mehr-geld-landkreis-muenchen-streicht-foerderung-ab-2028-94505287.html",
+      "detected_at": "2026-09-23T06:10:37+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/adfc-beantragt-mehr-geld-landkreis-muenchen-streicht-foerderung-ab-2028-94505287.html",
+      "link_text": "Bitte um mehr Geld wird zum Bumerang: Landkreis streicht ADFC-Zuschuss ab 2028",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/strasslach-dingharting-ort377277/blaualgen-im-landkreis-muenchen-so-gefaehrlich-sind-sie-fuer-hunde-94505112.html",
+      "detected_at": "2026-09-23T06:10:37+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/strasslach-dingharting-ort377277/blaualgen-im-landkreis-muenchen-so-gefaehrlich-sind-sie-fuer-hunde-94505112.html",
+      "link_text": "Blaualgen im Landkreis München: So gefährlich sind sie für Menschen und Hunde",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/unterschleissheim-ort29622/wandbild-am-bahnhof-lohhof-erinnert-an-350-ns-zwangsarbeiter-94505115.html",
+      "detected_at": "2026-09-23T06:10:37+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/unterschleissheim-ort29622/wandbild-am-bahnhof-lohhof-erinnert-an-350-ns-zwangsarbeiter-94505115.html",
+      "link_text": "Wandbild am Bahnhof Lohhof erinnert an 350 NS-Zwangsarbeiter",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/isarauen-im-herbst-muenchens-hausfluss-wird-zum-goldenen-strom-94503310.html",
+      "detected_at": "2026-09-23T06:10:37+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/isarauen-im-herbst-muenchens-hausfluss-wird-zum-goldenen-strom-94503310.html",
+      "link_text": "Wo die Isarauen im Herbst besonders magisch wirken – Ausflugstipps ab München",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/aying-ort28266/unfall-mit-fuenf-fahrzeugen-verletzter-mit-hubschrauber-ins-krankenhaus-94504866.html",
+      "detected_at": "2026-09-23T06:10:37+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/aying-ort28266/unfall-mit-fuenf-fahrzeugen-verletzter-mit-hubschrauber-ins-krankenhaus-94504866.html",
+      "link_text": "Schwerer Unfall mit fünf Fahrzeugen – Verletzter kommt mit Hubschrauber ins Krankenhaus",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/unterfoehring-ort29618/bergretter-aus-br-millionenhit-kommt-live-in-die-vhs-unterfoehring-94502882.html",
+      "detected_at": "2026-09-23T06:10:37+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/unterfoehring-ort29618/bergretter-aus-br-millionenhit-kommt-live-in-die-vhs-unterfoehring-94502882.html",
+      "link_text": "Bergretter aus BR-Millionenhit kommt live in die VHS Unterföhring",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/unterschleissheim-ort29622/lkw-durchbricht-mittelleitplanke-auf-der-a92-100-000-euro-schaden-94504521.html",
+      "detected_at": "2026-09-23T06:10:37+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/unterschleissheim-ort29622/lkw-durchbricht-mittelleitplanke-auf-der-a92-100-000-euro-schaden-94504521.html",
+      "link_text": "Lkw durchbricht Mittelleitplanke auf der A92 – 100.000 Euro Schaden",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/neubiberg-ort29121/offiziere-39-leutnants-auf-einen-schlag-bundeswehruni-befoerdert-94502944.html",
+      "detected_at": "2026-09-23T06:10:37+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/neubiberg-ort29121/offiziere-39-leutnants-auf-einen-schlag-bundeswehruni-befoerdert-94502944.html",
+      "link_text": "39 Leutnants auf einen Schlag: Bundeswehruni befördert Offiziere",
+      "status": "unprocessed"
     }
   ]
 }
