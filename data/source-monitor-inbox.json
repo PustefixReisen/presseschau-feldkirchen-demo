@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-23T06:15:00Z",
+  "updated_at": "2026-09-23T09:20:59+00:00",
   "items": [
     {
       "event_key": "document:feldkirchen-parkraum-2026:https://www.feldkirchen.de/_Resources/Persistent/d/3/d/e/d3dee38ce3c4a9ad01384ca6ed314a2a8f8bcc12/2026%20Parkraumkonzept%20gem%20GR-Beschluss.pdf:4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
@@ -1801,6 +1801,26 @@
       "status": "processed",
       "processed_at": "2026-09-23T06:15:00Z",
       "processed_ref": "checked_2026-09-23_no_additional_fib_change"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/garching-aiwanger-beglueckwuenscht-neue-buechsenmacherinnung-mit-120-betrieben-94505127.html",
+      "detected_at": "2026-09-23T09:20:56+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/garching-aiwanger-beglueckwuenscht-neue-buechsenmacherinnung-mit-120-betrieben-94505127.html",
+      "link_text": "Aiwanger beglückwünscht neue Büchsenmacherinnung in Garching",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/hoehenkirchen-siegertsbrunn-ort100556/hoehenkirchen-hoagascht-kehrt-zurueck-100-gaeste-feiern-traditionsabend-nach-ueber-20-jahren-pause-94505095.html",
+      "detected_at": "2026-09-23T09:20:56+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/hoehenkirchen-siegertsbrunn-ort100556/hoehenkirchen-hoagascht-kehrt-zurueck-100-gaeste-feiern-traditionsabend-nach-ueber-20-jahren-pause-94505095.html",
+      "link_text": "Hoagascht kehrt zurück: 100 Gäste feiern Traditionsabend nach über 20 Jahren Pause",
+      "status": "unprocessed"
     }
   ]
 }

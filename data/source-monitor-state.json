@@ -5,7 +5,7 @@
       "name": "Gemeinde Feldkirchen – Nachrichten aus dem Bauamt",
       "url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt",
       "priority": "mandatory",
-      "last_success_at": "2026-09-23T06:10:25+00:00",
+      "last_success_at": "2026-09-23T09:20:11+00:00",
       "final_url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt",
       "content_type": "text/html;charset=UTF-8",
       "page_sha256": "a88715e55e5b595f7b9dea29eee696dd7b6ea0063fbcc5e3109ec75d8b2b5174",
@@ -26,7 +26,7 @@
       "name": "Gemeinde Feldkirchen – Neues Parkraumkonzept",
       "url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt/neues-parkraumkonzept-in-feldkirchen",
       "priority": "mandatory",
-      "last_success_at": "2026-09-23T06:10:28+00:00",
+      "last_success_at": "2026-09-23T09:20:14+00:00",
       "final_url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt/neues-parkraumkonzept-in-feldkirchen",
       "content_type": "text/html;charset=UTF-8",
       "page_sha256": "2af157d5f68e3d0e022b69464bf313c69aba26c612eea624090a1d30f1e3d3e8",
@@ -448,7 +448,7 @@
           "content_type": "application/pdf",
           "bytes": 1472041,
           "sha256": "4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
-          "checked_at": "2026-09-23T06:10:28+00:00"
+          "checked_at": "2026-09-23T09:20:14+00:00"
         }
       },
       "error": null
@@ -457,11 +457,11 @@
       "name": "Landkreis München",
       "url": "https://www.landkreis-muenchen.de/",
       "priority": "mandatory",
-      "last_success_at": "2026-09-23T06:10:30+00:00",
+      "last_success_at": "2026-09-23T09:20:15+00:00",
       "final_url": "https://www.landkreis-muenchen.de/",
       "content_type": "text/html; charset=utf-8",
-      "page_sha256": "8a3e900a5e1f29c974e6e68d1d93b342b061ad2124a82773e3ef9cee8291e5e4",
-      "page_changed": false,
+      "page_sha256": "c1ede498a95a3b0a1c7653ac7cc9b5098e7fac2dd651d2b1efffee92fa6a6d88",
+      "page_changed": true,
       "first_seen": false,
       "links": {
         "https://www.landkreis-muenchen.de/": {
@@ -751,14 +751,14 @@
       "name": "Autobahn GmbH – Südbayern",
       "url": "https://www.autobahn.de/die-autobahn/niederlassungen/suedbayern",
       "priority": "topic",
-      "last_attempt_at": "2026-09-23T06:10:31+00:00",
+      "last_attempt_at": "2026-09-23T09:20:15+00:00",
       "error": "HTTPError: HTTP Error 404: Not Found"
     },
     "adfc-muenchen": {
       "name": "ADFC München",
       "url": "https://muenchen.adfc.de/",
       "priority": "topic",
-      "last_success_at": "2026-09-23T06:10:32+00:00",
+      "last_success_at": "2026-09-23T09:20:17+00:00",
       "final_url": "https://muenchen.adfc.de/",
       "content_type": "text/html; charset=utf-8",
       "page_sha256": "159a6aba4b19a4d93de8bd26f8da298406ffc2dd45ae66648b3e624bd052e372",
@@ -863,16 +863,17 @@
         }
       },
       "documents": {},
-      "error": null
+      "error": "URLError: <urlopen error timed out>",
+      "last_attempt_at": "2026-09-23T09:20:52+00:00"
     },
     "bi-afk": {
       "name": "BI-AFK",
       "url": "https://www.bi-afk.de/",
       "priority": "topic",
-      "last_success_at": "2026-09-23T06:10:36+00:00",
+      "last_success_at": "2026-09-23T09:20:54+00:00",
       "final_url": "https://bi-afk.de/",
       "content_type": "text/html; charset=UTF-8",
-      "page_sha256": "c9b4271f311dad241cff50da93debba2696346810dc39f73eed48ee80178b665",
+      "page_sha256": "c2d9f62be2cc6af4e9684f9c3201e5dccb64eab043ef534f73fb4dc0d96817ba",
       "page_changed": true,
       "first_seen": false,
       "links": {
@@ -955,7 +956,7 @@
           "content_type": "application/pdf",
           "bytes": 149466,
           "sha256": "f0ce9eb0a26c6e4bafbce93352128b32ede6a1a841c241d07be53c69c0f4b695",
-          "checked_at": "2026-09-23T06:10:36+00:00"
+          "checked_at": "2026-09-23T09:20:54+00:00"
         }
       },
       "error": null
@@ -964,19 +965,13 @@
       "name": "RIS Feldkirchen – Dokumente mit Freigabe",
       "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/do0040.asp",
       "priority": "mandatory",
-      "last_success_at": "2026-09-23T06:10:22+00:00",
+      "last_success_at": "2026-09-23T09:20:08+00:00",
       "final_url": "https://buergerinfo-feldkirchen.digitalfabrix.de/do0040.asp",
       "content_type": "text/html; Charset=utf-8",
-      "page_sha256": "d6d4364d486b6ef4b6cc4527473a0408a96f6f35e706c52bbe183b29c2b84b12",
+      "page_sha256": "93667441b6ec2e9c9cbac34b55dcea6f6d437aaafac33167afb00102ec814eb2",
       "page_changed": true,
       "first_seen": false,
       "links": {
-        "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1027": {
-          "text": "20.08.2026"
-        },
-        "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75120&type=do": {
-          "text": ""
-        },
         "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1025": {
           "text": "09.07.2026"
         },
@@ -987,6 +982,12 @@
           "text": "23.07.2026"
         },
         "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74927&type=do": {
+          "text": ""
+        },
+        "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1027": {
+          "text": "20.08.2026"
+        },
+        "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75120&type=do": {
           "text": ""
         },
         "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1073": {
@@ -1027,24 +1028,30 @@
       "name": "Münchner Merkur – Landkreis München",
       "url": "https://www.merkur.de/lokales/muenchen-lk/",
       "priority": "mandatory",
-      "last_success_at": "2026-09-23T06:10:37+00:00",
+      "last_success_at": "2026-09-23T09:20:56+00:00",
       "final_url": "https://www.merkur.de/lokales/muenchen-lk/",
       "content_type": "text/html;charset=utf-8",
-      "page_sha256": "211ed3d52986af291ef47ccacfdc979af7b872b593a6614ed8970280d83628cb",
+      "page_sha256": "6e179338cff81ef935416ec08c43bfee1961420a2747421631812930f0b23a49",
       "page_changed": true,
       "first_seen": false,
       "links": {
         "https://www.merkur.de/lokales/muenchen-lk/": {
           "text": "Menü"
         },
+        "https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/garching-aiwanger-beglueckwuenscht-neue-buechsenmacherinnung-mit-120-betrieben-94505127.html": {
+          "text": "Aiwanger beglückwünscht neue Büchsenmacherinnung in Garching"
+        },
         "https://www.merkur.de/lokales/muenchen-lk/adfc-beantragt-mehr-geld-landkreis-muenchen-streicht-foerderung-ab-2028-94505287.html": {
           "text": "Bitte um mehr Geld wird zum Bumerang: Landkreis streicht ADFC-Zuschuss ab 2028"
         },
-        "https://www.merkur.de/lokales/muenchen-lk/strasslach-dingharting-ort377277/blaualgen-im-landkreis-muenchen-so-gefaehrlich-sind-sie-fuer-hunde-94505112.html": {
-          "text": "Blaualgen im Landkreis München: So gefährlich sind sie für Menschen und Hunde"
-        },
         "https://www.merkur.de/lokales/muenchen-lk/unterschleissheim-ort29622/wandbild-am-bahnhof-lohhof-erinnert-an-350-ns-zwangsarbeiter-94505115.html": {
           "text": "Wandbild am Bahnhof Lohhof erinnert an 350 NS-Zwangsarbeiter"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/hoehenkirchen-siegertsbrunn-ort100556/hoehenkirchen-hoagascht-kehrt-zurueck-100-gaeste-feiern-traditionsabend-nach-ueber-20-jahren-pause-94505095.html": {
+          "text": "Hoagascht kehrt zurück: 100 Gäste feiern Traditionsabend nach über 20 Jahren Pause"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/strasslach-dingharting-ort377277/blaualgen-im-landkreis-muenchen-so-gefaehrlich-sind-sie-fuer-hunde-94505112.html": {
+          "text": "Blaualgen im Landkreis München: So gefährlich sind sie für Menschen und Hunde"
         },
         "https://www.merkur.de/lokales/muenchen-lk/isarauen-im-herbst-muenchens-hausfluss-wird-zum-goldenen-strom-94503310.html": {
           "text": "Wo die Isarauen im Herbst besonders magisch wirken – Ausflugstipps ab München"
@@ -1087,9 +1094,6 @@
         },
         "https://www.merkur.de/lokales/muenchen-lk/oberhaching-ort29194/alpenverein-gleissental-waechst-auf-1700-mitglieder-eine-gruppe-ist-der-grund-94501124.html": {
           "text": "Alpenverein Gleißental wächst auf 1700 Mitglieder"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/1070-schueler-draengen-auf-die-strasse-aschheim-macht-zwei-wege-zur-fahrradstrasse-94501122.html": {
-          "text": "1070 Schüler drängen auf die Straße: Aschheim macht zwei Wege zur Fahrradstraße"
         }
       },
       "documents": {},
@@ -1099,10 +1103,10 @@
       "name": "Münchner Merkur – Feldkirchen",
       "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/",
       "priority": "mandatory",
-      "last_success_at": "2026-09-23T06:10:38+00:00",
+      "last_success_at": "2026-09-23T09:20:56+00:00",
       "final_url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/",
       "content_type": "text/html;charset=utf-8",
-      "page_sha256": "53de1ad80d2f08a7b75a9ee6658819ca51ccad8c9841d6676b53ef36d89bb834",
+      "page_sha256": "055ff441993919a40500f5238e92bac8f7f0abb3bc7f598291f116428e5728f9",
       "page_changed": true,
       "first_seen": false,
       "links": {
@@ -1171,10 +1175,10 @@
       "name": "Münchner Merkur – Aschheim",
       "url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/",
       "priority": "mandatory",
-      "last_success_at": "2026-09-23T06:10:40+00:00",
+      "last_success_at": "2026-09-23T09:20:57+00:00",
       "final_url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/",
       "content_type": "text/html;charset=utf-8",
-      "page_sha256": "d6372324392f85b57a667dde93d0748c51e08b70a58602c9f9e28304e093097d",
+      "page_sha256": "5b69b67ef7ba5ad4664ceb677c0798ff920c6054a0345d7ddc1fc89e81d3cafd",
       "page_changed": true,
       "first_seen": false,
       "links": {
@@ -1243,10 +1247,10 @@
       "name": "Münchner Merkur – Kirchheim",
       "url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/",
       "priority": "mandatory",
-      "last_success_at": "2026-09-23T06:10:41+00:00",
+      "last_success_at": "2026-09-23T09:20:58+00:00",
       "final_url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/",
       "content_type": "text/html;charset=utf-8",
-      "page_sha256": "7a5c7862fc143caf67b2961d71a97533e6466ccf87d46904d549d035b02aeec8",
+      "page_sha256": "e78404783c5bb49c642892902c5ac7883662fc598bc1e324be706b76f02cf3d5",
       "page_changed": true,
       "first_seen": false,
       "links": {
@@ -1315,10 +1319,10 @@
       "name": "Münchner Merkur – Haar",
       "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/",
       "priority": "mandatory",
-      "last_success_at": "2026-09-23T06:10:42+00:00",
+      "last_success_at": "2026-09-23T09:20:59+00:00",
       "final_url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/",
       "content_type": "text/html;charset=utf-8",
-      "page_sha256": "475772aa166ebb2098fbb9adfa09f674227de10b05c4f5d9a2b748515dbe78f8",
+      "page_sha256": "c3dc63fa1cc425076c9d64fecb827bac6e9dcd22e5c74a9db396890d3451e813",
       "page_changed": true,
       "first_seen": false,
       "links": {
@@ -1387,12 +1391,12 @@
       "name": "Gemeinde Feldkirchen – Aktuelle Meldungen",
       "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen",
       "priority": "mandatory",
-      "last_success_at": "2026-09-23T06:10:23+00:00",
+      "last_success_at": "2026-09-23T09:20:09+00:00",
       "final_url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen",
       "content_type": "text/html;charset=UTF-8",
       "page_sha256": "5f96f1725fc7a867cf6dfb30720dc069e6faaf4a358f65aa8b3e2ac5ae0f43d7",
       "page_changed": false,
-      "first_seen": true,
+      "first_seen": false,
       "links": {
         "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/nachrichten-archiv": {
           "text": "Nachrichten Archiv"
@@ -1444,5 +1448,5 @@
       "error": null
     }
   },
-  "last_run_at": "2026-09-23T06:10:42+00:00"
+  "last_run_at": "2026-09-23T09:20:59+00:00"
 }
