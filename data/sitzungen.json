@@ -3387,13 +3387,13 @@
       "id": "S019",
       "date": "2026-07-09",
       "body": "Gemeinderat",
-      "session_ref": null,
+      "session_ref": "GR/433/2026",
       "session_url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1025",
       "legacy_important_items": "166 Eigentumswohnungen | Kinderhaus St. Jakob",
       "important_items": [
         {
           "item_id": "S019-U01",
-          "proposal_no": null,
+          "proposal_no": "5273/2026",
           "title": "Neubau von acht Wohngebäuden mit 166 Eigentumswohnungen und 243 Tiefgaragenstellplätzen",
           "research_or_contribution_refs": [
             "R047"
@@ -3406,14 +3406,19 @@
               "verification_status": "direct_link_verified_2026-08-29"
             }
           ],
-          "decision_status": "decision_not_publicly_documented_in_audit",
-          "decision_result": null,
-          "decision_evidence": [],
+          "decision_status": "official_decision",
+          "decision_result": "Befreiung und gemeindliches Einvernehmen jeweils abgelehnt (0:17)",
+          "decision_evidence": [
+            {
+              "type": "public_minutes",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74766&type=do"
+            }
+          ],
           "selected_after_full_agenda_review": false
         },
         {
           "item_id": "S019-U02",
-          "proposal_no": null,
+          "proposal_no": "5288/2026",
           "title": "FDP-Antrag: mobiler Toilettenwagen",
           "research_or_contribution_refs": [],
           "documents": [
@@ -3424,29 +3429,32 @@
               "verification_status": "direct_link_verified_2026-08-29"
             }
           ],
-          "decision_status": "decision_not_publicly_documented_in_audit",
-          "decision_result": null,
-          "decision_evidence": [],
+          "decision_status": "official_decision",
+          "decision_result": "Antrag angenommen; Prüfung von Beschaffung, Bedarf, Stellplatz sowie Miete/Kauf beauftragt (13:4)",
+          "decision_evidence": [
+            {
+              "type": "public_minutes",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74766&type=do"
+            }
+          ],
           "selected_after_full_agenda_review": false
         }
       ],
       "other_public_items_note": "Weitere öffentliche Tagesordnungspunkte werden in der öffentlichen Auswahl nicht zusätzlich angezeigt.",
       "agenda_audit_status": "direct_session_page_verified_for_displayed_items",
-      "decision_audit_status": "completed_as_far_as_publicly_retrievable_agenda_partial",
+      "decision_audit_status": "official_public_minutes_verified_2026-09-23",
       "minutes": {
-        "status": "approved_not_published",
+        "status": "approved_and_published",
         "approval_status": "approved",
         "approval_date": "2026-08-20",
-        "approval_evidence_session_id": "S021",
-        "publication_status": "not_publicly_found",
-        "publication_date": null,
-        "direct_public_minutes_url": null,
-        "link_status": "no_link",
+        "publication_status": "published",
+        "publication_date": "2026-09-22",
+        "direct_public_minutes_url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74766&type=do",
+        "link_status": "direct_link_verified",
         "evidence": [
           {
-            "type": "later_public_agenda_approval_item",
-            "session_id": "S021",
-            "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1027"
+            "type": "public_minutes",
+            "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74766&type=do"
           }
         ]
       },
@@ -3454,16 +3462,16 @@
       "full_public_agenda": [
         {
           "no": null,
-          "proposal": null,
+          "proposal": "5273/2026",
           "title": "Bauantrag: Neubau von acht Wohngebäuden mit 166 Eigentumswohnungen und einer Tiefgarage mit 243 Kfz-Stellplätzen zwischen Hohenlindner Straße und Jahnstraße",
-          "result": null,
+          "result": "abgelehnt (0:17)",
           "agenda_item_id": "S019-A01"
         },
         {
           "no": null,
-          "proposal": null,
+          "proposal": "5288/2026",
           "title": "Antrag der FDP-Fraktion auf Beschaffung eines mobilen Toilettenwagens für Vereine und Veranstaltungen",
-          "result": null,
+          "result": "mehrheitlich angenommen (13:4)",
           "agenda_item_id": "S019-A02"
         }
       ],
@@ -3494,10 +3502,15 @@
               "verification_status": "direct_link_verified_2026-08-29"
             }
           ],
-          "decision_status": "decision_not_publicly_documented_in_audit",
-          "decision_evidence": [],
+          "decision_status": "official_decision",
+          "decision_evidence": [
+            {
+              "type": "public_minutes",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74927&type=do"
+            }
+          ],
           "needs_full_agenda_audit": true,
-          "decision_result": null,
+          "decision_result": "Drei Generationenbeauftragte benannt; einstimmig angenommen (20:0)",
           "selected_after_full_agenda_review": true,
           "agenda_no": 2,
           "document_audit_note": "Fehlzuordnung der Parkraumkonzept-Vorlage 5285/2026 am 28.08.2026 entfernt; kein Ersatzlink, solange kein direkter öffentlicher Vorlagenlink verifiziert ist."
@@ -3519,10 +3532,15 @@
               "verification_status": "verified_from_research_basis"
             }
           ],
-          "decision_status": "decision_not_publicly_documented_in_audit",
-          "decision_evidence": [],
+          "decision_status": "official_decision",
+          "decision_evidence": [
+            {
+              "type": "public_minutes",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74927&type=do"
+            }
+          ],
           "needs_full_agenda_audit": true,
-          "decision_result": null,
+          "decision_result": "Parkraumkonzept beschlossen; Umsetzung und Beginn der Parkraumüberwachung ab 01.01.2027 beauftragt (20:0)",
           "selected_after_full_agenda_review": true,
           "agenda_no": 3
         },
@@ -3542,10 +3560,15 @@
               "verification_status": "direct_link_verified_2026-08-29"
             }
           ],
-          "decision_status": "decision_not_publicly_documented_in_audit",
-          "decision_evidence": [],
+          "decision_status": "official_decision",
+          "decision_evidence": [
+            {
+              "type": "public_minutes",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74927&type=do"
+            }
+          ],
           "needs_full_agenda_audit": true,
-          "decision_result": null,
+          "decision_result": "Sanierung des Feuerwehrgerätehauses bis auf weiteres zurückgestellt (20:0)",
           "selected_after_full_agenda_review": true,
           "agenda_no": 4,
           "document_audit_note": "Fehlzuordnung der Parkraumkonzept-Vorlage 5285/2026 am 28.08.2026 entfernt; kein Ersatzlink, solange kein direkter öffentlicher Vorlagenlink verifiziert ist."
@@ -3559,10 +3582,15 @@
             "R035"
           ],
           "documents": [],
-          "decision_status": "decision_not_publicly_documented_in_audit",
-          "decision_evidence": [],
+          "decision_status": "official_no_decision",
+          "decision_evidence": [
+            {
+              "type": "public_minutes",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74927&type=do"
+            }
+          ],
           "needs_full_agenda_audit": true,
-          "decision_result": null,
+          "decision_result": "Beratung bis zur Ermittlung der Schallschutzkosten zurückgestellt; keine Abstimmung",
           "selected_after_full_agenda_review": true,
           "agenda_no": 5,
           "document_audit_note": "Die konkrete RIS-Sitzungsseite weist TOP 5 und Vorlage 5283/2026 aus. Der dort hinterlegte Direktlink getfile.asp?id=74647&type=do war bei der abschließenden Erreichbarkeitsprüfung nicht funktionsfähig und wird deshalb öffentlich nicht als „Vorlage“ verlinkt. Die Sitzungsseite bleibt als belastbare RIS-Quelle verfügbar.",
@@ -3582,10 +3610,15 @@
               "verification_status": "direct_link_verified_2026-08-29"
             }
           ],
-          "decision_status": "decision_not_publicly_documented_in_audit",
-          "decision_evidence": [],
+          "decision_status": "official_no_decision",
+          "decision_evidence": [
+            {
+              "type": "public_minutes",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74927&type=do"
+            }
+          ],
           "needs_full_agenda_audit": true,
-          "decision_result": null,
+          "decision_result": "Sachvortrag ohne Beschluss zur Kenntnis genommen; Gemeinde nicht zuständig",
           "selected_after_full_agenda_review": true,
           "agenda_no": 6
         },
@@ -3603,10 +3636,15 @@
               "verification_status": "direct_link_verified_2026-08-29"
             }
           ],
-          "decision_status": "decision_not_publicly_documented_in_audit",
-          "decision_evidence": [],
+          "decision_status": "official_no_decision",
+          "decision_evidence": [
+            {
+              "type": "public_minutes",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74927&type=do"
+            }
+          ],
           "needs_full_agenda_audit": true,
-          "decision_result": null,
+          "decision_result": "Sachvortrag ohne Beschluss zur Kenntnis genommen; Gemeinde nicht zuständig",
           "selected_after_full_agenda_review": true,
           "agenda_no": 7
         },
@@ -3624,10 +3662,15 @@
               "verification_status": "direct_link_verified_2026-08-29"
             }
           ],
-          "decision_status": "decision_not_publicly_documented_in_audit",
-          "decision_evidence": [],
+          "decision_status": "official_implemented",
+          "decision_evidence": [
+            {
+              "type": "public_minutes",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74927&type=do"
+            }
+          ],
           "needs_full_agenda_audit": true,
-          "decision_result": null,
+          "decision_result": "Schließfach-Antrag bereits umgesetzt: 34 Fächer, 4.757,98 Euro; kein weiterer Beschluss erforderlich",
           "selected_after_full_agenda_review": true,
           "agenda_no": 8
         },
@@ -3653,31 +3696,34 @@
               "verification_status": "legacy_link_preserved"
             }
           ],
-          "decision_status": "decision_not_publicly_documented_in_audit",
-          "decision_evidence": [],
+          "decision_status": "official_decision",
+          "decision_evidence": [
+            {
+              "type": "public_minutes",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74927&type=do"
+            }
+          ],
           "needs_full_agenda_audit": true,
-          "decision_result": null,
+          "decision_result": "Rahmenplan Bahnhofsumfeld und Umgestaltung Kirchenvorplatz zunächst nicht umgesetzt; wirtschaftliche Entwicklung abwarten (20:0)",
           "selected_after_full_agenda_review": true,
           "agenda_no": 9
         }
       ],
       "other_public_items_note": "Weitere öffentliche TOPs wurden vollständig geprüft und nicht einzeln als wichtig ausgewiesen.",
       "agenda_audit_status": "full_public_agenda_verified",
-      "decision_audit_status": "completed_for_selected_items_public_evidence_only",
+      "decision_audit_status": "official_public_minutes_verified_2026-09-23",
       "minutes": {
-        "status": "approved_not_published",
+        "status": "approved_and_published",
         "approval_status": "approved",
         "approval_date": "2026-08-20",
-        "approval_evidence_session_id": "S021",
-        "publication_status": "not_publicly_found",
-        "publication_date": null,
-        "direct_public_minutes_url": null,
-        "link_status": "no_link",
+        "publication_status": "published",
+        "publication_date": "2026-09-22",
+        "direct_public_minutes_url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74927&type=do",
+        "link_status": "direct_link_verified",
         "evidence": [
           {
-            "type": "later_public_agenda_approval_item",
-            "session_id": "S021",
-            "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1027"
+            "type": "public_minutes",
+            "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74927&type=do"
           }
         ]
       },
@@ -3782,10 +3828,15 @@
           "title": "Auftrag zur Aufstellung eines Nachtragshaushalts 2026",
           "research_or_contribution_refs": [],
           "documents": [],
-          "decision_status": "decision_not_publicly_documented_in_audit",
-          "decision_evidence": [],
+          "decision_status": "official_decision",
+          "decision_evidence": [
+            {
+              "type": "public_minutes",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75120&type=do"
+            }
+          ],
           "needs_full_agenda_audit": true,
-          "decision_result": null,
+          "decision_result": "Kämmerei mit Aufstellung des Nachtragshaushalts 2026 beauftragt (11:0)",
           "selected_after_full_agenda_review": true,
           "agenda_no": 2
         },
@@ -3796,10 +3847,15 @@
           "title": "Unbefristete Dauernutzung Bürgercafé Richthofenstr. 16 durch Familienstützpunkt Lotse",
           "research_or_contribution_refs": [],
           "documents": [],
-          "decision_status": "decision_not_publicly_documented_in_audit",
-          "decision_evidence": [],
+          "decision_status": "official_no_decision",
+          "decision_evidence": [
+            {
+              "type": "public_minutes",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75120&type=do"
+            }
+          ],
           "needs_full_agenda_audit": true,
-          "decision_result": null,
+          "decision_result": "TOP zurückgestellt/abgesetzt; Nutzungskonflikt mit Mittagsbetreuung zunächst klären",
           "selected_after_full_agenda_review": true,
           "agenda_no": 3
         },
@@ -3810,10 +3866,15 @@
           "title": "Nutzungsänderung Kiosk in SB-Bäckerei Kirchenstr. 4 – erneute Vorlage",
           "research_or_contribution_refs": [],
           "documents": [],
-          "decision_status": "decision_not_publicly_documented_in_audit",
-          "decision_evidence": [],
+          "decision_status": "official_decision",
+          "decision_evidence": [
+            {
+              "type": "public_minutes",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75120&type=do"
+            }
+          ],
           "needs_full_agenda_audit": true,
-          "decision_result": null,
+          "decision_result": "Einvernehmen zur SB-Bäckerei mit fünf Stellplätzen unter Nachweis per Miet-/Pachtvertrag erteilt (11:0)",
           "selected_after_full_agenda_review": true,
           "agenda_no": 4
         },
@@ -3823,9 +3884,14 @@
           "title": "Vorbescheid zwei Wohngebäude mit Teilgewerbefläche und Tiefgarage Bahnhofstr. 19",
           "research_or_contribution_refs": [],
           "documents": [],
-          "decision_status": "decision_not_publicly_documented_in_audit",
-          "decision_result": null,
-          "decision_evidence": [],
+          "decision_status": "official_decision",
+          "decision_result": "Gemeindliches Einvernehmen für Vorbescheid Bahnhofstraße 19 erteilt (10:1)",
+          "decision_evidence": [
+            {
+              "type": "public_minutes",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75120&type=do"
+            }
+          ],
           "selected_after_full_agenda_review": true,
           "agenda_no": 5
         },
@@ -3837,26 +3903,35 @@
             "R049"
           ],
           "documents": [],
-          "decision_status": "decision_not_publicly_documented_in_audit",
-          "decision_result": null,
-          "decision_evidence": [],
+          "decision_status": "official_decision",
+          "decision_result": "Zustimmung zu weiteren Mitarbeiterwohnungen unter Zweckbindung, Stellplatz- und Immissionsschutzauflagen in Aussicht gestellt (9:2)",
+          "decision_evidence": [
+            {
+              "type": "public_minutes",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75120&type=do"
+            }
+          ],
           "selected_after_full_agenda_review": true,
           "agenda_no": 6
         }
       ],
       "other_public_items_note": "Weitere öffentliche TOPs wurden vollständig geprüft und nicht einzeln als wichtig ausgewiesen.",
       "agenda_audit_status": "full_public_agenda_verified",
-      "decision_audit_status": "completed_for_selected_items_public_evidence_only",
+      "decision_audit_status": "official_public_minutes_verified_2026-09-23",
       "minutes": {
-        "status": "approval_and_publication_not_documented_within_cutoff",
-        "approval_status": "approval_not_publicly_documented_within_cutoff",
+        "status": "approved_and_published",
+        "approval_status": "approval_not_yet_verified",
         "approval_date": null,
-        "approval_evidence_session_id": null,
-        "publication_status": "not_publicly_found",
-        "publication_date": null,
-        "direct_public_minutes_url": null,
-        "link_status": "no_link",
-        "evidence": []
+        "publication_status": "published",
+        "publication_date": "2026-09-22",
+        "direct_public_minutes_url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75120&type=do",
+        "link_status": "direct_link_verified",
+        "evidence": [
+          {
+            "type": "public_minutes",
+            "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75120&type=do"
+          }
+        ]
       },
       "legacy_verification_status": "agenda verified; no result status asserted",
       "full_public_agenda": [
