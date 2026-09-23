@@ -389,21 +389,23 @@
       "id": "T003",
       "title": "Radverkehr und Verbindung über die A94",
       "first_created": "2025-10-22",
-      "last_substantive_update": "2026-08-24",
+      "last_substantive_update": "2026-09-07",
       "contribution_refs": [
         "R051",
         "R005",
         "R007",
         "R012",
         "R021",
-        "R033"
+        "R033",
+        "R075"
       ],
-      "summary": "Der Radverkehr wurde im Jahresverlauf sowohl durch regionale Forderungen als auch durch konkrete Infrastrukturmaßnahmen geprägt. Im September 2025 führte eine Kidical Mass von Aschheim über Feldkirchen zum Heimstettener See und machte sichere Radverbindungen auf der B471 sowie kindgerechte Verkehrsbedingungen zum Thema. Im Oktober beschloss Feldkirchen die Fortführung des Fuß- und Radwegs nördlich der Münchner Straße Richtung A94-Querung; aus der Bürgerversammlung kamen weitere Forderungen zu Radfahr- und Schutzstreifen sowie Schulwegen.\n\nEnde Februar 2026 begann die Bauphase für die neue Fuß- und Radwegbrücke über die A94. Im Juli meldete die Gemeinde drei neue überdachte Fahrrad-Abstellstationen als Umsetzung des kommunalen Radverkehrskonzepts. Damit reicht das Thema von regionalen Verbindungen über die A94 und B471 bis zu innerörtlichen Maßnahmen.",
+      "summary": "Der Radverkehr wurde im Jahresverlauf sowohl durch regionale Forderungen als auch durch konkrete Infrastrukturmaßnahmen geprägt. Im September 2025 führte eine Kidical Mass von Aschheim über Feldkirchen zum Heimstettener See und machte sichere Radverbindungen auf der B471 sowie kindgerechte Verkehrsbedingungen zum Thema. Im Oktober beschloss Feldkirchen die Fortführung des Fuß- und Radwegs nördlich der Münchner Straße Richtung A94-Querung; aus der Bürgerversammlung kamen weitere Forderungen zu Radfahr- und Schutzstreifen sowie Schulwegen.\n\nEnde Februar 2026 begann die Bauphase für die neue Fuß- und Radwegbrücke über die A94. Im Juli meldete die Gemeinde drei neue überdachte Fahrrad-Abstellstationen als Umsetzung des kommunalen Radverkehrskonzepts. Damit reicht das Thema von regionalen Verbindungen über die A94 und B471 bis zu innerörtlichen Maßnahmen.\n\nSeit Anfang September läuft außerdem der ADFC-Fahrradklima-Test 2026. Feldkirchner Radfahrende können bis Ende November ihre Erfahrungen mit Sicherheit, Komfort und Infrastruktur im Ort bewerten; erstmals gibt es zusätzlich eine eigene Befragung für Kinder und Jugendliche. Die Ergebnisse sollen im Frühjahr 2027 veröffentlicht werden.",
       "open_questions": [
         "Wie wird die Radverkehrsführung zwischen Münchner Straße, Olympiastraße und der neuen A94-Brücke im Endzustand gestaltet?",
         "Wie kann der Rad- und Fußweg an der Münchner Straße gebaut werden, ohne den gewachsenen Gehölzstreifen unnötig zu beeinträchtigen?",
         "Welche Ergebnisse bringt die weitere Prüfung von Radfahr- und Schutzstreifen an B471 und M18?",
-        "Welche weiteren Maßnahmen aus dem Radverkehrskonzept folgen nach den neuen Abstellstationen?"
+        "Welche weiteren Maßnahmen aus dem Radverkehrskonzept folgen nach den neuen Abstellstationen?",
+        "Welche Hinweise ergeben sich aus dem Fahrradklima-Test 2026 für die weitere Priorisierung von Maßnahmen im Feldkirchner Radverkehr?"
       ],
       "sources": [
         {
@@ -527,6 +529,28 @@
           "source_refs": [
             "R051"
           ]
+        },
+        {
+          "name": "Gemeinde Feldkirchen – Wie fahrradfreundlich ist Feldkirchen?",
+          "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/wie-fahrradfreundlich-ist-feldkirchen",
+          "type": "primary_official",
+          "source_refs": [
+            "R075"
+          ],
+          "date": "2026-09-07",
+          "date_basis": "publication_date",
+          "date_status": "verified"
+        },
+        {
+          "name": "ADFC München – Der große ADFC-Fahrradklima-Test 2026 startet heute",
+          "url": "https://muenchen.adfc.de/pressemitteilung/der-grosse-adfc-fahrradklima-test-2026-startet-heute-2",
+          "type": "association_primary",
+          "source_refs": [
+            "R075"
+          ],
+          "date": "2026-09-01",
+          "date_basis": "publication_date",
+          "date_status": "verified"
         }
       ],
       "unsere_einordnung": "Die neue A94-Querung ist ein wichtiger Baustein, aber eine gute Radverbindung endet nicht an der Brücke. Entscheidend ist, ob die gesamte Strecke sicher, verständlich und ohne unnötige Umwege befahrbar wird – einschließlich der Anschlüsse an Münchner Straße, Olympiastraße und das innerörtliche Netz.\n\nFür den Abschnitt an der Münchner Straße kommt ein zweites Ziel hinzu: Die Grünen Feldkirchen wollen den neuen Rad- und Fußweg so umsetzen, dass der gewachsene Gehölzstreifen möglichst erhalten bleibt. Bei weiterer Planung, Ausschreibung und Bauausführung sollen insbesondere Wurzelbereiche, Unterwuchs und Gehölzstruktur geschützt und Trassenführung, Breite oder Bauweise bei Bedarf angepasst werden. Sichere Radinfrastruktur und Schutz vorhandener Grünstrukturen müssen hier zusammen gedacht werden.",
