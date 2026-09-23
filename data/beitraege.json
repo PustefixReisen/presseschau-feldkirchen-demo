@@ -266,9 +266,23 @@
           "date": "2026-09-15",
           "date_basis": "RIS_release_listing",
           "date_status": "verified"
+        },
+        {
+          "name": "RIS Feldkirchen – öffentliche Niederschrift Gemeinderat 23.07.2026",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74927&type=do",
+          "type": "primary_official_minutes",
+          "date": "2026-09-22",
+          "date_basis": "public_release_in_RIS",
+          "date_status": "verified"
         }
       ],
-      "bisheriger_verlauf": [],
+      "bisheriger_verlauf": [
+        {
+          "id": "S020-T05",
+          "date": "2026-07-23",
+          "title": "Gemeinderat berät Schallgutachten; weitere Beratung wird bis zur Ermittlung der Schallschutzkosten zurückgestellt, eine Abstimmung erfolgt nicht."
+        }
+      ],
       "unsere_einordnung": "Positiv ist zunächst, wie ausführlich die Verwaltung den Stand der Diskussion dokumentiert. Die Vorlage macht Gutachten, Kosten und praktische Betriebsfragen sichtbar, greift Einwände aus der Bürgerschaft auf und stellt verschiedene Nutzungsmöglichkeiten gegenüber. Gerade bei einem kontroversen lokalen Thema schafft eine solche transparente Entscheidungsgrundlage gute Voraussetzungen dafür, unterschiedliche Interessen nachvollziehen und abwägen zu können.\n\nAuch die von der Verwaltung eingebrachte Alternative verdient aus grüner Sicht Aufmerksamkeit. Eine offen zugängliche Grünfläche, die beispielsweise einen Tiny Forest, einen Biodiversitätsgarten und einen Trinkwasserbrunnen miteinander verbindet und zugleich Möglichkeiten für Hundehalter berücksichtigt, könnte mehrere Funktionen auf derselben Fläche zusammenbringen: Erholung und Begegnung, Artenvielfalt und Klimaanpassung. Solche Grünflächen, Bäume, Biodiversitätsmaßnahmen und Trinkbrunnen entsprechen wichtigen Zielen grüner Kommunalpolitik.\n\nDamit ist noch keine Entscheidung über die konkrete Gestaltung der Fläche vorweggenommen. Entscheidend wäre, die unterschiedlichen Nutzungsinteressen und die ökologischen Möglichkeiten in der weiteren Planung gemeinsam zu betrachten.",
       "council": null,
       "research_refs": [
@@ -286,7 +300,9 @@
       "stage_update_meta": {
         "created_at": "2026-09-20",
         "source_status": "verified_public_release_without_confirmed_agenda_item",
-        "corrected_at": "2026-09-20"
+        "corrected_at": "2026-09-20",
+        "updated_at": "2026-09-23",
+        "history_confirmed_by_minutes": true
       },
       "einordnung_meta": {
         "basis": "RIS-Beschlussvorlage 5283/2026; GRÜNE Bayern Kommunalwahl-Leitlinien 2026",
@@ -446,9 +462,23 @@
           "date": "2026-09-29",
           "date_basis": "scheduled_session_date",
           "date_status": "verified_upcoming"
+        },
+        {
+          "name": "RIS Feldkirchen – öffentliche Niederschrift Gemeinderat 09.07.2026",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74766&type=do",
+          "type": "primary_official_minutes",
+          "date": "2026-09-22",
+          "date_basis": "public_release_in_RIS",
+          "date_status": "verified"
         }
       ],
-      "bisheriger_verlauf": [],
+      "bisheriger_verlauf": [
+        {
+          "id": "S019-U01",
+          "date": "2026-07-09",
+          "title": "Gemeinderat lehnt Befreiung und gemeindliches Einvernehmen für das Vorhaben jeweils mit 0:17 Stimmen ab."
+        }
+      ],
       "unsere_einordnung": null,
       "council": "S023",
       "research_refs": [
@@ -483,7 +513,7 @@
       ],
       "title": "Gemeinde veröffentlicht beschlossenes Parkraumkonzept",
       "subtitle": "Das Konzept zum ruhenden Verkehr ist jetzt als PDF öffentlich abrufbar.",
-      "sachinformation": "Die Gemeinde hat am 9. September das gemeinsam mit dem Stadt- und Verkehrsplanungsbüro Kaulen erarbeitete Parkraumkonzept veröffentlicht. Sie verweist dabei auf den Gemeinderatsbeschluss vom 23. Juli. Nach Angaben der Gemeinde richtet sich das Konzept insbesondere auf Probleme des ruhenden Kfz-Verkehrs an klassifizierten Straßen und in Teilen des Gewerbegebiets. Das vollständige Konzept steht als PDF zur Verfügung.",
+      "sachinformation": "Die Gemeinde hat am 9. September das gemeinsam mit dem Stadt- und Verkehrsplanungsbüro Kaulen erarbeitete Parkraumkonzept veröffentlicht. Die am 22. September freigegebene öffentliche Niederschrift bestätigt nun den Beschluss vom 23. Juli: Der Gemeinderat nahm das Parkraumkonzept in der Fassung vom 26. März einstimmig an und beauftragte die Verwaltung mit der Umsetzung. Mit der Überwachung des ruhenden Verkehrs soll spätestens zum 1. Januar 2027 begonnen werden; die dafür nötigen Mittel sollen im Haushalt 2027 eingestellt werden.",
       "sources": [
         {
           "name": "Gemeinde Feldkirchen – Neues Parkraumkonzept in Feldkirchen",
@@ -499,6 +529,14 @@
           "type": "primary_official_document",
           "date": "2026-09-09",
           "date_basis": "publication_context",
+          "date_status": "verified"
+        },
+        {
+          "name": "RIS Feldkirchen – öffentliche Niederschrift Gemeinderat 23.07.2026",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74927&type=do",
+          "type": "primary_official_minutes",
+          "date": "2026-09-22",
+          "date_basis": "public_release_in_RIS",
           "date_status": "verified"
         }
       ],
@@ -535,7 +573,8 @@
       ],
       "stage_update_meta": {
         "created_at": "2026-09-20",
-        "source_status": "verified"
+        "source_status": "official_minutes_added",
+        "updated_at": "2026-09-23"
       }
     },
     {
@@ -849,7 +888,7 @@
       ],
       "title": "Ferienausschuss genehmigt 36 zusätzliche Mitarbeiterwohnungen am Ettenhuber-Betriebshof",
       "subtitle": "Der Carport des neuen Betriebshofs am Otto-Lilienthal-Ring soll dafür um zwei Geschosse aufgestockt werden.",
-      "sachinformation": "Das Busunternehmen Ettenhuber will den Carport seines neuen Betriebshofs am Otto-Lilienthal-Ring um zwei Geschosse mit insgesamt 36 zusätzlichen Wohnungen für Fahrer aufstocken. Der Münchner Merkur berichtet, dass der Ferienausschuss das Vorhaben am 20. August trotz Kritik an einer schrittweisen Erweiterung genehmigte. Die Sitzung und der Bauantrag werden im RIS geführt; der amtliche Ergebnisstatus wird im vollständigen Sitzungsaudit nochmals geprüft.",
+      "sachinformation": "Das Busunternehmen Ettenhuber will den Carport seines neuen Betriebshofs am Otto-Lilienthal-Ring um zwei Geschosse mit insgesamt 36 zusätzlichen Wohnungen für Fahrer aufstocken. Der Münchner Merkur berichtet, dass der Ferienausschuss das Vorhaben am 20. August trotz Kritik an einer schrittweisen Erweiterung genehmigte. Die Sitzung und der Bauantrag werden im RIS geführt; der amtliche Ergebnisstatus wird im vollständigen Sitzungsaudit nochmals geprüft.\n\nDie am 22. September veröffentlichte Niederschrift bestätigt das Beratungsergebnis: Der Ferienausschuss stellte die Zustimmung zur Aufstockung und zur Befreiung für Mitarbeiterwohnungen unter Zweckbindung, Stellplatz- und Immissionsschutzauflagen mit 9:2 Stimmen in Aussicht.",
       "sources": [
         {
           "name": "Münchner Merkur – Busunternehmen Ettenhuber baut 36 zusätzliche Wohnungen für Fahrer",
@@ -866,6 +905,14 @@
           "date": "2026-08-20",
           "date_basis": "session_date",
           "date_status": "verified_agenda_context"
+        },
+        {
+          "name": "RIS Feldkirchen – öffentliche Niederschrift Ferienausschuss 20.08.2026",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75120&type=do",
+          "type": "primary_official_minutes",
+          "date": "2026-09-22",
+          "date_basis": "public_release_in_RIS",
+          "date_status": "verified"
         }
       ],
       "bisheriger_verlauf": [],
@@ -1079,9 +1126,9 @@
       "topic_candidates": [
         "Ortsentwicklung"
       ],
-      "title": "Ortsentwicklung: neue Planungsimpulse für Bahnhof und Kirchenvorplatz",
-      "subtitle": "Der Gemeinderat stößt die weitere Bearbeitung zweier zentraler Bereiche im Ortskern an.",
-      "sachinformation": "Der Gemeinderat befasste sich am 23. Juli 2026 mit der weiteren Umsetzung des Ortsentwicklungskonzepts. Gegenstand waren Anstoßbeschlüsse für einen Rahmenplan im Bereich Bahnhofsplatz, Bahnhofstraße und Emeranstraße sowie für die Umgestaltung des Kirchenvorplatzes.",
+      "title": "Ortsentwicklung: Bahnhofsumfeld und Kirchenvorplatz zunächst zurückgestellt",
+      "subtitle": "Der Gemeinderat beschloss am 23. Juli einstimmig, die beiden geplanten Maßnahmen vorerst nicht umzusetzen und zunächst die weitere finanzielle Entwicklung der Gemeinde abzuwarten.",
+      "sachinformation": "Der Gemeinderat befasste sich am 23. Juli 2026 mit der weiteren Umsetzung des Ortsentwicklungskonzepts. Zur Beratung standen ein städtebaulich-funktionaler Rahmenplan für Bahnhofsplatz, Bahnhofstraße und Emeranstraße sowie die Umgestaltung des Kirchenvorplatzes. Die Verwaltung hatte für 2026 Haushaltsmittel von 100.000 Euro für die Rahmenplanung und 400.000 Euro für den Kirchenvorplatz vorgesehen. Nach der nun veröffentlichten Niederschrift entschied der Gemeinderat jedoch einstimmig, beide Maßnahmen zunächst nicht umzusetzen und zunächst die weitere Entwicklung der wirtschaftlichen Lage der Gemeinde zu beobachten.",
       "sources": [
         {
           "name": "RIS Feldkirchen – Beschlussvorlage 5281/2026",
@@ -1098,10 +1145,18 @@
           "date": "2026-07-23",
           "date_basis": "event_or_session_date",
           "date_status": "migrated_fallback_needs_source_date_check"
+        },
+        {
+          "name": "RIS Feldkirchen – öffentliche Niederschrift Gemeinderat 23.07.2026",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74927&type=do",
+          "type": "primary_official_minutes",
+          "date": "2026-09-22",
+          "date_basis": "public_release_in_RIS",
+          "date_status": "verified"
         }
       ],
       "bisheriger_verlauf": [],
-      "unsere_einordnung": "Bahnhof und Kirchenvorplatz sind mehr als einzelne Bauprojekte: Hier geht es um Wege, Begegnung und das Gesicht der Ortsmitte. Die weitere Planung sollte deshalb sichere Fuß- und Radwege, Barrierefreiheit, Schatten und Grün sowie die Nahversorgung von Anfang an zusammendenken. So lassen sich Zielkonflikte früher erkennen und bessere Lösungen für den ganzen Ortskern finden.",
+      "unsere_einordnung": "Die nun veröffentlichte Niederschrift verändert den bisherigen FIB-Sachstand: Bahnhofsumfeld und Kirchenvorplatz wurden im Juli nicht zur weiteren Bearbeitung angestoßen, sondern zunächst zurückgestellt. Damit bleiben die fachlichen Ziele des Ortsentwicklungskonzepts bestehen, ihre konkrete Umsetzung ist aber derzeit offen. Für die weitere Beobachtung ist entscheidend, wann die Gemeinde die beiden Vorhaben angesichts ihrer finanziellen Lage wieder aufgreift.",
       "council": {
         "date": "2026-07-23",
         "proposal_no": "5281/2026",
@@ -1129,7 +1184,11 @@
           "id": "T002",
           "title": "Ortsentwicklung und Bauleitplanung"
         }
-      ]
+      ],
+      "stage_update_meta": {
+        "corrected_at": "2026-09-23",
+        "correction_basis": "public_minutes_released_2026-09-22"
+      }
     },
     {
       "id": "R056",
@@ -1254,9 +1313,9 @@
         "Vereine",
         "Veranstaltungsinfrastruktur"
       ],
-      "title": "FDP-Fraktion schlägt mobilen Toilettenwagen für Vereine und Veranstaltungen vor",
-      "subtitle": "Der Antrag stand am 9. Juli auf der öffentlichen Tagesordnung; die Beschlussvorlage wurde am 15. Juli im RIS veröffentlicht.",
-      "sachinformation": "Der Antrag der FDP-Fraktion auf Beschaffung eines mobilen Toilettenwagens für Vereine und Veranstaltungen stand am 9. Juli 2026 auf der öffentlichen Tagesordnung des Gemeinderats. Die zugehörige Beschlussvorlage wurde im Ratsinformationssystem am 15. Juli veröffentlicht. Ein belastbares öffentliches Beratungsergebnis ist in der bislang ausgewerteten Quellenlage nicht dokumentiert.",
+      "title": "Mobiler Toilettenwagen: Gemeinderat beschließt Prüfung von Kauf oder Miete",
+      "subtitle": "Der Gemeinderat stimmte dem FDP-Antrag am 9. Juli mit 13:4 Stimmen zu; vor einer Vergabe sollen Bedarf, Stellplatz sowie Kauf- und Mietvarianten geprüft werden.",
+      "sachinformation": "Der Gemeinderat stimmte am 9. Juli 2026 dem Antrag der FDP-Fraktion auf Beschaffung eines mobilen Toilettenwagens für Vereine und Veranstaltungen mit 13:4 Stimmen zu. Die Verwaltung soll die Anschaffung prüfen. Vor einer Auftragsvergabe sollen der Bedarf bei Feldkirchner Vereinen und Gemeindeveranstaltungen sowie ein möglicher Stellplatz geklärt werden; in der Beratung wurden Kauf und Miete sowie organisatorische, technische und finanzielle Fragen angesprochen. Die öffentliche Niederschrift, die diesen Beschluss amtlich dokumentiert, wurde am 22. September im RIS freigegeben.",
       "sources": [
         {
           "name": "RIS Feldkirchen – Gemeinderat 09.07.2026",
@@ -1273,13 +1332,21 @@
           "date": "2026-07-15",
           "date_basis": "document_release_date",
           "date_status": "verified"
+        },
+        {
+          "name": "RIS Feldkirchen – öffentliche Niederschrift Gemeinderat 09.07.2026",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74766&type=do",
+          "type": "primary_official_minutes",
+          "date": "2026-09-22",
+          "date_basis": "public_release_in_RIS",
+          "date_status": "verified"
         }
       ],
       "bisheriger_verlauf": [],
       "unsere_einordnung": null,
       "council": {
         "date": "2026-07-09",
-        "proposal_no": null,
+        "proposal_no": "5288/2026",
         "session_id": "S019"
       },
       "research_refs": [
@@ -1299,7 +1366,11 @@
         "created_at": "2026-08-29",
         "fact_backcheck": "corrected_2026-08-29_direct_session_evidence"
       },
-      "established_topic_refs": []
+      "established_topic_refs": [],
+      "stage_update_meta": {
+        "updated_at": "2026-09-23",
+        "source_status": "official_minutes_confirmed"
+      }
     },
     {
       "id": "R033",
