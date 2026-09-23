@@ -272,7 +272,7 @@
       "id": "T002",
       "title": "Ortsentwicklung und Bauleitplanung",
       "first_created": "2025-10-02",
-      "last_substantive_update": "2026-08-23",
+      "last_substantive_update": "2026-09-22",
       "contribution_refs": [
         "R001",
         "R004",
@@ -280,7 +280,7 @@
         "R025",
         "R036"
       ],
-      "summary": "Im Untersuchungszeitraum wurden mehrere Bausteine der räumlichen Entwicklung Feldkirchens parallel weitergeführt. Im September 2025 befasste sich der Gemeinderat mit der 20. Änderung des Flächennutzungsplans für Flächen östlich der M1 und nördlich der M18, unter anderem für Gewerbe, Bauhof und Wertstoffhof. Anfang Oktober folgte die weitere Planung zur Umgestaltung der Fußgängerunterführung im Rathausbereich; Ende Oktober wurde die vierte Änderung des Bebauungsplans Nr. 32 als Satzung beschlossen.\n\n2026 setzte sich diese Entwicklung fort. Im März wurde die vierte Änderung des Bebauungsplans Nr. 91 „Ortsmitte Nordost – Fl.Nr. 64 T“ eingeleitet. Im Juli befasste sich der Gemeinderat mit weiteren Anstoßbeschlüssen aus dem Ortsentwicklungskonzept, insbesondere für den Bahnhofsbereich sowie den Kirchenvorplatz. Die einzelnen Verfahren unterscheiden sich in Gegenstand und Rechtsform, stehen aber gemeinsam für eine schrittweise Weiterentwicklung von Siedlungsstruktur, öffentlichen Räumen und kommunalen Nutzungen.",
+      "summary": "Im Untersuchungszeitraum wurden mehrere Bausteine der räumlichen Entwicklung Feldkirchens parallel weitergeführt. Im September 2025 befasste sich der Gemeinderat mit der 20. Änderung des Flächennutzungsplans für Flächen östlich der M1 und nördlich der M18, unter anderem für Gewerbe, Bauhof und Wertstoffhof. Anfang Oktober folgte die weitere Planung zur Umgestaltung der Fußgängerunterführung im Rathausbereich; Ende Oktober wurde die vierte Änderung des Bebauungsplans Nr. 32 als Satzung beschlossen.\n\n2026 setzte sich diese Entwicklung fort. Im März wurde die vierte Änderung des Bebauungsplans Nr. 91 „Ortsmitte Nordost – Fl.Nr. 64 T“ eingeleitet. Im Juli befasste sich der Gemeinderat mit einer möglichen Fortführung des Ortsentwicklungskonzepts für Bahnhofsumfeld und Kirchenvorplatz. Die am 22. September veröffentlichte Niederschrift zeigt jedoch, dass beide Maßnahmen einstimmig zunächst zurückgestellt wurden; zunächst soll die weitere wirtschaftliche Entwicklung der Gemeinde beobachtet werden. Die einzelnen Verfahren unterscheiden sich in Gegenstand und Rechtsform, stehen aber gemeinsam für eine schrittweise Weiterentwicklung von Siedlungsstruktur, öffentlichen Räumen und kommunalen Nutzungen.",
       "open_questions": [
         "Welche der angestoßenen Maßnahmen aus dem Ortsentwicklungskonzept werden als nächste in konkrete Planungen und Haushaltsentscheidungen überführt?",
         "Wie werden Verkehrsflächen, Aufenthaltsqualität, Klimaanpassung, Grünstrukturen und Nutzungsansprüche in Bahnhofsumfeld und Ortsmitte aufeinander abgestimmt?",
@@ -366,6 +366,17 @@
           "date": "2026-07-23",
           "date_basis": "event_or_session_date",
           "date_status": "migrated_fallback_needs_source_date_check"
+        },
+        {
+          "name": "RIS Feldkirchen – öffentliche Niederschrift Gemeinderat 23.07.2026",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74927&type=do",
+          "type": "primary_official_minutes",
+          "source_refs": [
+            "R036"
+          ],
+          "date": "2026-09-22",
+          "date_basis": "public_release_in_RIS",
+          "date_status": "verified"
         }
       ],
       "unsere_einordnung": "Feldkirchen hat inzwischen viele Planungsgrundlagen. Die zentrale Aufgabe ist deshalb, aus einzelnen Verfahren ein erkennbares Gesamtbild der Ortsentwicklung zu machen. Bahnhofsumfeld, Kirchenvorplatz, Ortsmitte, neue Wohn- und Gewerbeflächen, Verkehr und Klimaanpassung beeinflussen sich gegenseitig. Werden sie isoliert behandelt, entstehen leicht neue Zielkonflikte.\n\nAus grüner Sicht sollten Innenentwicklung, kurze Wege, Aufenthaltsqualität, Barrierefreiheit, Klimaanpassung, Mobilität und der Erhalt wertvoller Grünstrukturen gemeinsam betrachtet werden. Die Grünen Feldkirchen haben dafür als lokalen Ansatz einen beratenden Arbeitskreis Grünplanung & Mobilität vorgeschlagen, der vorhandene Planungen zusammenführt, Zielkonflikte früh sichtbar macht und Politik, Verwaltung sowie engagierte örtliche Organisationen einbindet. Der Gemeinderat behält dabei die politische Entscheidung.",
@@ -389,7 +400,7 @@
       "id": "T003",
       "title": "Radverkehr und Verbindung über die A94",
       "first_created": "2025-10-22",
-      "last_substantive_update": "2026-09-07",
+      "last_substantive_update": "2026-09-22",
       "contribution_refs": [
         "R051",
         "R005",
@@ -399,7 +410,7 @@
         "R033",
         "R075"
       ],
-      "summary": "Der Radverkehr wurde im Jahresverlauf sowohl durch regionale Forderungen als auch durch konkrete Infrastrukturmaßnahmen geprägt. Im September 2025 führte eine Kidical Mass von Aschheim über Feldkirchen zum Heimstettener See und machte sichere Radverbindungen auf der B471 sowie kindgerechte Verkehrsbedingungen zum Thema. Im Oktober beschloss Feldkirchen die Fortführung des Fuß- und Radwegs nördlich der Münchner Straße Richtung A94-Querung; aus der Bürgerversammlung kamen weitere Forderungen zu Radfahr- und Schutzstreifen sowie Schulwegen.\n\nEnde Februar 2026 begann die Bauphase für die neue Fuß- und Radwegbrücke über die A94. Im Juli meldete die Gemeinde drei neue überdachte Fahrrad-Abstellstationen als Umsetzung des kommunalen Radverkehrskonzepts. Damit reicht das Thema von regionalen Verbindungen über die A94 und B471 bis zu innerörtlichen Maßnahmen.\n\nSeit Anfang September läuft außerdem der ADFC-Fahrradklima-Test 2026. Feldkirchner Radfahrende können bis Ende November ihre Erfahrungen mit Sicherheit, Komfort und Infrastruktur im Ort bewerten; erstmals gibt es zusätzlich eine eigene Befragung für Kinder und Jugendliche. Die Ergebnisse sollen im Frühjahr 2027 veröffentlicht werden.",
+      "summary": "Der Radverkehr wurde im Jahresverlauf sowohl durch regionale Forderungen als auch durch konkrete Infrastrukturmaßnahmen geprägt. Im September 2025 führte eine Kidical Mass von Aschheim über Feldkirchen zum Heimstettener See und machte sichere Radverbindungen auf der B471 sowie kindgerechte Verkehrsbedingungen zum Thema. Im Oktober beschloss Feldkirchen die Fortführung des Fuß- und Radwegs nördlich der Münchner Straße Richtung A94-Querung; aus der Bürgerversammlung kamen weitere Forderungen zu Radfahr- und Schutzstreifen sowie Schulwegen.\n\nEnde Februar 2026 begann die Bauphase für die neue Fuß- und Radwegbrücke über die A94. Im Juli meldete die Gemeinde drei neue überdachte Fahrrad-Abstellstationen als Umsetzung des kommunalen Radverkehrskonzepts. Damit reicht das Thema von regionalen Verbindungen über die A94 und B471 bis zu innerörtlichen Maßnahmen.\n\nSeit Anfang September läuft außerdem der ADFC-Fahrradklima-Test 2026. Feldkirchner Radfahrende können bis Ende November ihre Erfahrungen mit Sicherheit, Komfort und Infrastruktur im Ort bewerten; erstmals gibt es zusätzlich eine eigene Befragung für Kinder und Jugendliche. Die Ergebnisse sollen im Frühjahr 2027 veröffentlicht werden.\n\nDie am 22. September veröffentlichte Niederschrift vom 23. Juli dokumentiert außerdem das Ergebnis der Prüfung zu Radfahr- und Schutzstreifen an B471 und M18. Nach Einschätzung der zuständigen Straßenbaulastträger reichen die bestehenden Fahrbahnbreiten für durchgehende Schutz- oder Radfahrstreifen nicht aus; der Gemeinderat nahm den Sachvortrag ohne eigenen Beschluss zur Kenntnis, da die Gemeinde hierfür nicht zuständig ist.",
       "open_questions": [
         "Wie wird die Radverkehrsführung zwischen Münchner Straße, Olympiastraße und der neuen A94-Brücke im Endzustand gestaltet?",
         "Wie kann der Rad- und Fußweg an der Münchner Straße gebaut werden, ohne den gewachsenen Gehölzstreifen unnötig zu beeinträchtigen?",
@@ -550,6 +561,17 @@
           ],
           "date": "2026-09-01",
           "date_basis": "publication_date",
+          "date_status": "verified"
+        },
+        {
+          "name": "RIS Feldkirchen – öffentliche Niederschrift Gemeinderat 23.07.2026",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74927&type=do",
+          "type": "primary_official_minutes",
+          "source_refs": [
+            "R012"
+          ],
+          "date": "2026-09-22",
+          "date_basis": "public_release_in_RIS",
           "date_status": "verified"
         }
       ],
@@ -874,13 +896,13 @@
       "id": "T006",
       "title": "Parkraumkonzept",
       "first_created": "2026-08-18",
-      "last_substantive_update": "2026-09-09",
+      "last_substantive_update": "2026-09-22",
       "contribution_refs": [
         "R026",
         "R039",
         "R068"
       ],
-      "summary": "Das Parkraumkonzept entwickelte sich 2026 von einer Bestands- und Planungsgrundlage zu konkreten Regelungen und Nutzungskonflikten. Im März stellte das beauftragte Planungsbüro den Entwurf im Gemeinderat vor; im Juli fasste der Gemeinderat den Beschluss zum Konzept. Im August zeigte sich am Friedhof ein konkreter Konflikt um eine Zwei-Stunden-Parkregelung, die für diesen Bereich auf drei Stunden verlängert werden sollte.\n\nAm 9. September veröffentlichte die Gemeinde das beschlossene Parkraumkonzept einschließlich PDF. Nach ihrer Darstellung soll es insbesondere Probleme des ruhenden Kfz-Verkehrs an klassifizierten Straßen und in Teilen des Gewerbegebiets adressieren. Damit liegt nun eine öffentlich abrufbare Grundlage vor, an der die weitere Umsetzung und spätere Wirkungskontrolle nachvollzogen werden können.",
+      "summary": "Das Parkraumkonzept entwickelte sich 2026 von einer Bestands- und Planungsgrundlage zu konkreten Regelungen und Nutzungskonflikten. Im März stellte das beauftragte Planungsbüro den Entwurf im Gemeinderat vor; im Juli fasste der Gemeinderat den Beschluss zum Konzept. Im August zeigte sich am Friedhof ein konkreter Konflikt um eine Zwei-Stunden-Parkregelung, die für diesen Bereich auf drei Stunden verlängert werden sollte.\n\nAm 9. September veröffentlichte die Gemeinde das beschlossene Parkraumkonzept einschließlich PDF. Nach ihrer Darstellung soll es insbesondere Probleme des ruhenden Kfz-Verkehrs an klassifizierten Straßen und in Teilen des Gewerbegebiets adressieren. Damit liegt nun eine öffentlich abrufbare Grundlage vor, an der die weitere Umsetzung und spätere Wirkungskontrolle nachvollzogen werden können.\n\nDie am 22. September veröffentlichte Niederschrift bestätigt den Beschluss vom 23. Juli: Das Parkraumkonzept wurde einstimmig beschlossen; die Verwaltung soll die Umsetzung vorbereiten und spätestens zum 1. Januar 2027 mit der Überwachung des ruhenden Verkehrs beginnen.",
       "open_questions": [
         "Welche weiteren Regelungen aus dem Parkraumkonzept werden umgesetzt?",
         "Wie werden die Wirkungen neuer Parkzeitbegrenzungen ausgewertet?",
@@ -951,6 +973,17 @@
           ],
           "date": "2026-09-09",
           "date_basis": "publication_context",
+          "date_status": "verified"
+        },
+        {
+          "name": "RIS Feldkirchen – öffentliche Niederschrift Gemeinderat 23.07.2026",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74927&type=do",
+          "type": "primary_official_minutes",
+          "source_refs": [
+            "R068"
+          ],
+          "date": "2026-09-22",
+          "date_basis": "public_release_in_RIS",
           "date_status": "verified"
         }
       ],
@@ -1138,7 +1171,7 @@
       "id": "T009",
       "title": "Wohnungsbau und kommunale Planung",
       "first_created": "2026-07-09",
-      "last_substantive_update": "2026-09-21",
+      "last_substantive_update": "2026-09-22",
       "contribution_refs": [
         "R003",
         "R047",
@@ -1265,6 +1298,17 @@
           ],
           "date": "2026-09-21",
           "date_basis": "publication_date",
+          "date_status": "verified"
+        },
+        {
+          "name": "RIS Feldkirchen – öffentliche Niederschrift Gemeinderat 09.07.2026",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74766&type=do",
+          "type": "primary_official_minutes",
+          "source_refs": [
+            "R072"
+          ],
+          "date": "2026-09-22",
+          "date_basis": "public_release_in_RIS",
           "date_status": "verified"
         }
       ],
