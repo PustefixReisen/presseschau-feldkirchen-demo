@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "sources": [
     {
       "id": "ris-feldkirchen-freigaben",
@@ -12,6 +12,20 @@
         "/vo0050.asp",
         "/getfile.asp",
         "/si0057.asp"
+      ],
+      "document_extensions": [
+        ".pdf"
+      ]
+    },
+    {
+      "id": "feldkirchen-aktuelle-meldungen",
+      "name": "Gemeinde Feldkirchen – Aktuelle Meldungen",
+      "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen",
+      "mode": "overview",
+      "priority": "mandatory",
+      "follow_same_host": true,
+      "match": [
+        "/aktuelles/aktuelle-news/aktuelle-meldungen/"
       ],
       "document_extensions": [
         ".pdf"
