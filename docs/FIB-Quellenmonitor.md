@@ -12,6 +12,12 @@ Der FIB-Quellenmonitor ergänzt die redaktionelle Recherche um einen technischen
 6. Neue oder geänderte Fundstellen werden in `data/source-monitor-inbox.json` mit Status `unprocessed` abgelegt. Diese Inbox ist die Übergabestelle für den späteren FIB-Updateprozess.
 7. Laufbericht und heruntergeladene Dokumente werden für 14 Tage als GitHub-Actions-Artefakt gespeichert.
 
+## Pflichtquelle Gemeinde – Aktuelle Meldungen
+
+Die Übersichtsseite **„Gemeinde Feldkirchen – Aktuelle Meldungen“** ist eine Pflichtquelle. Sie wird unabhängig von den thematischen Unterseiten der Gemeinde direkt überwacht, weil dort auch fachlich relevante Meldungen außerhalb des Bauamts erscheinen können, etwa Beteiligungsaufrufe, Sicherheitsmeldungen, Verkehrs- und Umweltinformationen oder andere lokale Entwicklungen. Reine technische Servicehinweise werden weiterhin nach den redaktionellen Relevanzregeln behandelt.
+
+Die Quelle wurde am 23.09.2026 ergänzt, nachdem beim Standardlauf zwei bereits veröffentlichte Meldungen – der Feldkirchner Aufruf zum ADFC-Fahrradklima-Test und die Gemeindemitteilung zum Hundevorfall im Dornacher Feld – als bisherige Erfassungslücke erkannt wurden.
+
 ## Pflichtquelle RIS-Dokumentfreigaben
 
 Die öffentliche SessionNet-Seite **„RIS Feldkirchen – Dokumente mit Freigabe“** ist eine Pflichtquelle des Monitors. Sie kann neue Beschlussvorlagen und andere öffentliche Dokumente sichtbar machen, bevor oder auch ohne dass sie in einer veröffentlichten Tagesordnung auffallen. Neue Freigaben werden deshalb unabhängig von der Sitzungsübersicht als möglicher neuer FIB-Sachstand geprüft. Eine Dokumentfreigabe bestätigt für sich allein noch keinen konkreten Tagesordnungspunkt oder Sitzungstermin.
