@@ -1,16 +1,16 @@
 {
   "schema_version": "2.0",
   "work_package": "canonical",
-  "status": "canonical_after_standard_update_2026-09-22",
+  "status": "canonical_after_standard_update_2026-09-23",
   "research_window": {
     "from": "2025-08-27",
-    "to": "2026-09-22"
+    "to": "2026-09-23"
   },
   "source_basis": [
     "recherchebestand.json",
     "sitzungsbestand.json"
   ],
-  "contribution_count": 66,
+  "contribution_count": 68,
   "editorial_rules": [
     "No methodological or demonstrator text inside public contribution content.",
     "Sachinformation is neutral; political assessment is a separate optional field.",
@@ -21,6 +21,113 @@
     "Unsere Einordnung was audited on 2026-08-29 for citizen-oriented political language per KI-Leitfaden 0.8."
   ],
   "contributions": [
+    {
+      "id": "R076",
+      "date": "2026-09-15",
+      "publication_date": "2026-09-15",
+      "category": "Sicherheit & Bevölkerungsschutz",
+      "topic_candidates": [
+        "Hundehaltung",
+        "Leinenpflicht",
+        "Dornacher Feld"
+      ],
+      "title": "Nach Hundevorfall: Gemeinde prüft mögliche Leinenpflicht",
+      "subtitle": "Nach einem tödlichen Angriff auf einen Hund im Dornacher Feld hat das Ordnungsamt Maßnahmen eingeleitet; Verwaltung und Gemeinderat wollen die Leinenpflicht grundsätzlich prüfen.",
+      "sachinformation": "Die Gemeinde Feldkirchen berichtete am 15. September über einen Vorfall vom 6. September im Dornacher Feld, bei dem ein Dackel von einem anderen Hund angegriffen und so schwer verletzt wurde, dass er starb. Nach Angaben der Gemeinde wurde das Ordnungsamt am folgenden Tag durch die Polizei informiert und leitete Maßnahmen ein; auch die Halterin des beteiligten Hundes habe reagiert. Die Gemeinde erklärte, es bestehe kein Anlass zu allgemeiner Beunruhigung. Unabhängig vom Einzelfall wollen Verwaltung und Gemeinderat zeitnah prüfen, ob und in welcher Form eine Leinenpflicht für Hunde in Feldkirchen sinnvoll und rechtlich umsetzbar ist.",
+      "sources": [
+        {
+          "name": "Gemeinde Feldkirchen – Pressemitteilung Hundevorfall in Feldkirchen",
+          "url": "https://feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/pressemitteilung-hundevorfall-in-feldkirchen",
+          "type": "primary_official",
+          "date": "2026-09-15",
+          "date_basis": "publication_date",
+          "date_status": "verified"
+        },
+        {
+          "name": "Gemeinde Feldkirchen – Presseinformation Vorfall mit Hunden 15.09.2026",
+          "url": "https://feldkirchen.de/_Resources/Persistent/0/3/7/e/037ec0d6df9b8a5cdcdf41d1b7b98b04c2c554fd/Presseinformation%20Vorfall%20mit%20Hunden%2015092026.pdf",
+          "type": "primary_official_document",
+          "date": "2026-09-15",
+          "date_basis": "document_date",
+          "date_status": "verified"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": null,
+      "research_refs": [
+        "R076"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen",
+        "related_places": [
+          "Feldkirchen"
+        ],
+        "scope": "feldkirchen_direct",
+        "verification_status": "verified_2026-09-23"
+      },
+      "established_topic_refs": [],
+      "stage_update_meta": {
+        "created_at": "2026-09-23",
+        "source_status": "retroactively_added_from_missed_municipal_news"
+      }
+    },
+    {
+      "id": "R075",
+      "date": "2026-09-07",
+      "publication_date": "2026-09-07",
+      "category": "Mobilität & Verkehr",
+      "topic_candidates": [
+        "Radverkehr",
+        "ADFC-Fahrradklima-Test",
+        "Bürgerbeteiligung"
+      ],
+      "title": "Fahrradklima-Test: Feldkirchner können Radverkehr bis Ende November bewerten",
+      "subtitle": "Der ADFC-Fahrradklima-Test 2026 läuft bis 30. November; erstmals gibt es zusätzlich eine eigene Befragung für Kinder und Jugendliche.",
+      "sachinformation": "Die Gemeinde Feldkirchen ruft zur Teilnahme am ADFC-Fahrradklima-Test 2026 auf. Radfahrende können dabei bewerten, wie sicher, komfortabel und attraktiv das Radfahren im Ort ist und wo Verbesserungsbedarf besteht. Die bundesweite Befragung läuft vom 1. September bis 30. November 2026. Neu ist eine eigene Befragung für Kinder und Jugendliche; außerdem können Kommunen ihre Maßnahmen zur Radverkehrsförderung dokumentieren. Die Ergebnisse sollen im Frühjahr 2027 veröffentlicht werden.",
+      "sources": [
+        {
+          "name": "Gemeinde Feldkirchen – Wie fahrradfreundlich ist Feldkirchen?",
+          "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/wie-fahrradfreundlich-ist-feldkirchen",
+          "type": "primary_official",
+          "date": "2026-09-07",
+          "date_basis": "publication_date",
+          "date_status": "verified"
+        },
+        {
+          "name": "ADFC München – Der große ADFC-Fahrradklima-Test 2026 startet heute",
+          "url": "https://muenchen.adfc.de/pressemitteilung/der-grosse-adfc-fahrradklima-test-2026-startet-heute-2",
+          "type": "association_primary",
+          "date": "2026-09-01",
+          "date_basis": "publication_date",
+          "date_status": "verified"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": null,
+      "research_refs": [
+        "R075"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen",
+        "related_places": [
+          "Feldkirchen"
+        ],
+        "scope": "feldkirchen_direct",
+        "verification_status": "verified_2026-09-23"
+      },
+      "established_topic_refs": [
+        {
+          "id": "T003",
+          "title": "Radverkehr und Verbindung über die A94"
+        }
+      ],
+      "stage_update_meta": {
+        "created_at": "2026-09-23",
+        "source_status": "retroactively_added_from_missed_municipal_news"
+      }
+    },
     {
       "id": "R074",
       "date": "2026-09-19",
