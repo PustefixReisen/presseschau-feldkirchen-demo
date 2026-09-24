@@ -214,3 +214,10 @@ Der Demonstrator zeigt diese für den Echtbetrieb vorgesehene Lösung bereits vo
 ## 13. Pflege der Frontend-Dokumentation
 
 Änderungen, die im Demonstrator als verbindliche Darstellungsentscheidung getestet und übernommen werden, werden in diesem Dokument nachgeführt. Fachliche Bildregeln bleiben zusätzlich im `Bildkonzept_FIB.md`; konkrete Bilddaten und Motivwissen in `FIB_Bildbibliothek.md`.
+
+
+## 14. Cache-Busting bei Demonstrator-Updates
+
+Damit nach einer Aktualisierung des Demonstrators nicht veraltete CSS- oder JavaScript-Dateien aus dem Browser-Cache angezeigt werden, werden zentrale Assets mit einer Versionskennung in der URL eingebunden, zum Beispiel `style.css?v=...` und `app.js?v=...`.
+
+Bei sichtbaren Frontend-Änderungen wird diese Versionskennung mit aktualisiert. Ein normales Neuladen im Browser soll dadurch genügen, sobald GitHub Pages die neue Version ausgeliefert hat.
