@@ -70,3 +70,14 @@ details{border-top:1px solid #d2d9d5;margin-top:14px;padding-top:11px}summary{cu
 .card a:hover{color:#005f42}.sources a:hover{color:#005f42}
 @media(max-width:760px){.archive-grid{grid-template-columns:1fr}.card{padding:19px}.hero-inner{padding-top:42px;padding-bottom:38px}}
 @media(max-width:560px){body{font-size:16px}.topbar-inner{gap:8px}.brand{width:100%;margin-bottom:2px}nav{width:100%;overflow:auto;flex-wrap:nowrap}nav button{white-space:nowrap;padding-left:8px;padding-right:8px}.hero-inner,main,.topbar-inner{padding-left:15px;padding-right:15px}.hero:after{width:220px;height:220px;right:-90px;bottom:-85px;border-width:32px}.card{border-radius:10px}.search{min-height:54px;padding:13px 14px 13px 50px;font-size:1rem}.toolbar:has(.search)::before{left:16px}.toolbar:has(.search)::after{left:32px}}
+
+.about-card{background:#f4f5f0;color:#15231d;border-top:5px solid #006b45;border-radius:var(--radius);padding:26px 28px;box-shadow:var(--shadow);max-width:900px}
+.about-card h3{margin:.1rem 0 1rem;font-family:Arial Black,Arial,sans-serif;font-size:1.55rem;line-height:1.2;color:#15362a}
+.about-card p{margin:.8rem 0}
+.fib-footer{background:#071d16;border-top:1px solid #37554a;color:#c6d2cc}
+.fib-footer-inner{max-width:1180px;margin:auto;padding:22px;display:flex;align-items:center;gap:20px;justify-content:space-between}
+.fib-footer p{margin:0;max-width:940px;font-size:.88rem;line-height:1.5}
+.fib-footer strong{color:#f3f5ef}
+.footer-link{flex:0 0 auto;border:1px solid #7aa991!important;border-radius:0!important;padding:8px 12px!important;color:#e4ebe6!important;text-decoration:none!important}
+.footer-link:hover,.footer-link.active{background:#17372b!important;color:#fff!important;border-color:#b7ddca!important}
+@media(max-width:760px){.fib-footer-inner{align-items:flex-start;flex-direction:column}.about-card{padding:21px 20px}}
