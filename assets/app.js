@@ -58,7 +58,7 @@
   await import('./update-20260910-parkraum.js');
   await import('./update-20260912.js');
   await import('./update-20260917.js');
-  await import('./update-20260918.js');
+  await import('./update-20260918.js?v=20260924b');
   await import('./update-20260921.js');
   await import('./sort-contributions.js');
   await import('./image-features.js');
