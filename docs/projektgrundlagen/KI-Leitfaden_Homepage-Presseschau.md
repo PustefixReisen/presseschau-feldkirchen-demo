@@ -150,6 +150,24 @@ Ein Beitrag entsteht bei einer konkreten neuen Entwicklung mit Feldkirchen-Relev
 
 Beitragsdatum ist das Datum der maßgeblichen neuen Entwicklung; wenn nicht sicher feststellbar, das Datum der ersten verifizierten Veröffentlichung. Titel benennt die neue Entwicklung; Untertitel den entscheidenden Befund oder die unmittelbare Bedeutung; Sachinformation ist vollständig genug zum Verständnis. Quellen stehen unmittelbar danach. Keine zusätzlichen Tatsachen, Ursachen, Rollen, Bewertungen oder zeitlichen Zusammenhänge aus bloßer Plausibilität.
 
+### 5.1 Aktualisierung bestehender Beiträge
+
+Wird ein bereits veröffentlichter Beitrag aufgrund eines neuen öffentlich belegten Sachstands inhaltlich fortgeschrieben, bleibt der ursprüngliche Gegenstand des Beitrags erkennbar. Der Untertitel erhält **immer einen sichtbaren Aktualisierungshinweis** nach dem Muster:
+
+**„Aktualisierung vom TT.MM.JJJJ: [kurzes Stichwort zum Gegenstand der Aktualisierung].“**
+
+Beispiele:
+- „Aktualisierung vom 23.09.2026: Beschlussvorlage veröffentlicht.“
+- „Aktualisierung vom 05.10.2026: Gemeinderatsbeschluss liegt vor.“
+- „Aktualisierung vom 12.10.2026: Kostenberechnung ergänzt.“
+
+Der Hinweis benennt möglichst konkret, **welche neue Quelle oder welcher neue Sachstand** die Aktualisierung ausgelöst hat. Dabei wird die Terminologie der Primärquelle bevorzugt. Wenn das Ratsinformationssystem von einer **Beschlussvorlage** spricht, wird nicht pauschal von „Sitzungsinformation“ gesprochen.
+
+Das Datum der sichtbaren Aktualisierung und das ursprüngliche Ereignisdatum dürfen nicht vermischt werden. Die Darstellung muss für Leserinnen und Leser unmittelbar erkennen lassen:
+1. worum es ursprünglich ging,
+2. wann der Beitrag aktualisiert wurde und
+3. was bei dieser Aktualisierung neu hinzugekommen ist.
+
 ## 6. Was bisher passiert ist
 Frühere relevante Entwicklungsschritte werden nur angezeigt, wenn vorhanden. Der aktuelle Beitrag wird nicht nochmals aufgeführt.
 
@@ -202,6 +220,7 @@ Vor Veröffentlichung werden Tatsachen, Datumsangaben, Rollen, Links, Quellen, Z
 | Version | Datum | Änderung |
 |---|---|---|
 | 2.2 | 21.09.2026 | Lokale grüne Anträge im Bibliotheksordner `Arbeitsdaten/Anträge-Gruene-Feldkirchen` als feste interne Hintergrundquelle verankert; Regeln für Themenpflege, Einordnung, Recherchelenkung und spätere Verknüpfung mit öffentlichen RIS-/Pressequellen ergänzt. |
+| 2.2 | 24.09.2026 | Verbindliche Aktualisierungskennzeichnung für bestehende Beiträge ergänzt: Untertitel enthält immer „Aktualisierung vom TT.MM.JJJJ: …“ mit konkretem Gegenstand; Terminologie der Primärquelle wie „Beschlussvorlage“ wird bevorzugt. |
 | 2.1 | 21.09.2026 | Datumslogik für RIS-Dokumente präzisiert: Erstellungsdatum, Freigabe, geplante Beratungsfolge, veröffentlichte Tagesordnung und tatsächliche Entscheidung werden getrennt; bei nicht bestätigtem Sitzungstermin bleibt die öffentliche Freigabe maßgeblicher neuer Sachstand und der Datumswiderspruch wird transparent dargestellt. |
 | 2.0 | 21.09.2026 | Zwei-Achsen-Presserecherche verbindlich eingeführt: Ortsabdeckung plus themenbasierte Suche; direkte Prüfung relevanter Presseübersichten einschließlich Merkur Landkreis/Feldkirchen/Aschheim/Kirchheim/Haar; vollständiger Lauf erst nach beiden Suchachsen. |
 | 1.9 | 20.09.2026 | RIS-Freigaben ohne bereits veröffentlichten TOP als möglichen eigenständigen neuen Sachstand aufgenommen; Beiträge müssen fehlende TOP-/Sitzungszuordnung ausdrücklich sichtbar machen; Beratungsfolge in Vorlagen allein bestätigt keinen Sitzungstermin. |
