@@ -172,6 +172,8 @@ Das Datum der sichtbaren Aktualisierung und das ursprüngliche Ereignisdatum dü
 
 **Abgrenzung Aktualisierung / neuer Beitrag:** Eine bestehende Karte wird aktualisiert, wenn derselbe Vorgang lediglich präzisiert, ergänzt oder mit einer neuen Quelle unterlegt wird. Ein **neuer Beitrag** entsteht dagegen, wenn ein eigenständiger neuer Sachstand vorliegt, insbesondere eine neue Entscheidung, ein neuer Verfahrensschritt, eine neue öffentliche Auseinandersetzung oder eine andere Entwicklung mit eigenständigem Nachrichtenwert. In diesem Fall werden die Beiträge über „Was bisher passiert ist“ bzw. die Themenverknüpfung miteinander verbunden.
 
+**Redaktionelle Korrekturen:** Reine Korrekturen eigener redaktioneller Fehler, technischer Darstellungsfehler oder bereits zum ursprünglichen Veröffentlichungszeitpunkt falsch bzw. unvollständig übernommener Angaben erhalten **keinen öffentlichen Aktualisierungshinweis**. Der Hinweis „Aktualisierung vom …“ wird nur verwendet, wenn nach der ursprünglichen Veröffentlichung ein **neuer öffentlich belegter Sachstand** hinzugekommen ist.
+
 ## 6. Was bisher passiert ist
 Frühere relevante Entwicklungsschritte werden nur angezeigt, wenn vorhanden. Der aktuelle Beitrag wird nicht nochmals aufgeführt.
 
@@ -224,6 +226,7 @@ Vor Veröffentlichung werden Tatsachen, Datumsangaben, Rollen, Links, Quellen, Z
 | Version | Datum | Änderung |
 |---|---|---|
 | 2.2 | 21.09.2026 | Lokale grüne Anträge im Bibliotheksordner `Arbeitsdaten/Anträge-Gruene-Feldkirchen` als feste interne Hintergrundquelle verankert; Regeln für Themenpflege, Einordnung, Recherchelenkung und spätere Verknüpfung mit öffentlichen RIS-/Pressequellen ergänzt. |
+| 2.4 | 24.09.2026 | Redaktionelle Korrekturen von echten Sachstands-Aktualisierungen abgegrenzt: reine Fehlerkorrekturen erhalten keinen öffentlichen Aktualisierungshinweis. |
 | 2.3 | 24.09.2026 | Regeln für mehrere Aktualisierungen ergänzt: im Untertitel nur die neueste Aktualisierung, frühere Änderungen in eigenem Verlauf; Abgrenzung zwischen Fortschreibung eines bestehenden Beitrags und eigenständigem neuen Beitrag festgelegt. |
 | 2.2 | 24.09.2026 | Verbindliche Aktualisierungskennzeichnung für bestehende Beiträge ergänzt: Untertitel enthält immer „Aktualisierung vom TT.MM.JJJJ: …“ mit konkretem Gegenstand; Terminologie der Primärquelle wie „Beschlussvorlage“ wird bevorzugt. |
 | 2.1 | 21.09.2026 | Datumslogik für RIS-Dokumente präzisiert: Erstellungsdatum, Freigabe, geplante Beratungsfolge, veröffentlichte Tagesordnung und tatsächliche Entscheidung werden getrennt; bei nicht bestätigtem Sitzungstermin bleibt die öffentliche Freigabe maßgeblicher neuer Sachstand und der Datumswiderspruch wird transparent dargestellt. |
