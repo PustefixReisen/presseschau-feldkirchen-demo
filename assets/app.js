@@ -53,8 +53,8 @@
   await import('./share-print-subscribe.js?v=20260903c');
   await import('./mobile-print-guard.js?v=20260903c');
 
-  // Der statische HTML-Stand ist kanonisch. Aeltere inkrementelle Update-Skripte
-  // duerfen den im index.html gesetzten Aktualisierungsstand nicht zuruecksetzen.
+  // Der fachliche Bestand in data/*.json ist kanonisch; index.html ist die
+  // synchronisierte statische Ausgabe. UI-Skripte duerfen fachliche Inhalte nicht veraendern.
   if(initialDemoNoteText){
     const note=document.querySelector('.demo-note');
     if(note) note.textContent=initialDemoNoteText;
