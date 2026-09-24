@@ -1164,7 +1164,7 @@
         "Mitarbeiterwohnen"
       ],
       "title": "Ferienausschuss genehmigt 36 zusätzliche Mitarbeiterwohnungen am Ettenhuber-Betriebshof",
-      "subtitle": "Der Carport des neuen Betriebshofs am Otto-Lilienthal-Ring soll dafür um zwei Geschosse aufgestockt werden.",
+      "subtitle": "Aktualisierung vom 22.09.2026: Öffentliche Niederschrift bestätigt das Beratungsergebnis.",
       "sachinformation": "Das Busunternehmen Ettenhuber will den Carport seines neuen Betriebshofs am Otto-Lilienthal-Ring um zwei Geschosse mit insgesamt 36 zusätzlichen Wohnungen für Fahrer aufstocken. Der Münchner Merkur berichtet, dass der Ferienausschuss das Vorhaben am 20. August trotz Kritik an einer schrittweisen Erweiterung genehmigte. Die Sitzung und der Bauantrag werden im RIS geführt; der amtliche Ergebnisstatus wird im vollständigen Sitzungsaudit nochmals geprüft.\n\nDie am 22. September veröffentlichte Niederschrift bestätigt das Beratungsergebnis: Der Ferienausschuss stellte die Zustimmung zur Aufstockung und zur Befreiung für Mitarbeiterwohnungen unter Zweckbindung, Stellplatz- und Immissionsschutzauflagen mit 9:2 Stimmen in Aussicht.",
       "sources": [
         {
@@ -1219,6 +1219,13 @@
         {
           "id": "T009",
           "title": "Wohnungsbau und kommunale Planung"
+        }
+      ],
+      "updates": [
+        {
+          "date": "2026-09-22",
+          "label": "Öffentliche Niederschrift bestätigt das Beratungsergebnis",
+          "source_type": "primary_official_minutes"
         }
       ]
     },
@@ -1404,7 +1411,7 @@
         "Ortsentwicklung"
       ],
       "title": "Ortsentwicklung: Bahnhofsumfeld und Kirchenvorplatz zunächst zurückgestellt",
-      "subtitle": "Der Gemeinderat beschloss am 23. Juli einstimmig, die beiden geplanten Maßnahmen vorerst nicht umzusetzen und zunächst die weitere finanzielle Entwicklung der Gemeinde abzuwarten.",
+      "subtitle": "Aktualisierung vom 22.09.2026: Öffentliche Niederschrift bestätigt die Zurückstellung der beiden Maßnahmen.",
       "sachinformation": "Der Gemeinderat befasste sich am 23. Juli 2026 mit der weiteren Umsetzung des Ortsentwicklungskonzepts. Zur Beratung standen ein städtebaulich-funktionaler Rahmenplan für Bahnhofsplatz, Bahnhofstraße und Emeranstraße sowie die Umgestaltung des Kirchenvorplatzes. Die Verwaltung hatte für 2026 Haushaltsmittel von 100.000 Euro für die Rahmenplanung und 400.000 Euro für den Kirchenvorplatz vorgesehen. Nach der nun veröffentlichten Niederschrift entschied der Gemeinderat jedoch einstimmig, beide Maßnahmen zunächst nicht umzusetzen und zunächst die weitere Entwicklung der wirtschaftlichen Lage der Gemeinde zu beobachten.",
       "sources": [
         {
@@ -1465,7 +1472,14 @@
       "stage_update_meta": {
         "corrected_at": "2026-09-23",
         "correction_basis": "public_minutes_released_2026-09-22"
-      }
+      },
+      "updates": [
+        {
+          "date": "2026-09-22",
+          "label": "Öffentliche Niederschrift bestätigt die Zurückstellung der beiden Maßnahmen",
+          "source_type": "primary_official_minutes"
+        }
+      ]
     },
     {
       "id": "R056",
