@@ -1,6 +1,6 @@
 {
   "schema_version": "2.0",
-  "status": "canonical_after_stage_F_with_controlled_gap",
+  "status": "canonical_after_standard_update_2026-09-24",
   "research_window": {
     "from": "2025-08-27",
     "to": "2026-08-27"
@@ -4364,6 +4364,188 @@
           "no": 10,
           "title": "Anfragen",
           "agenda_item_id": "S023-A10"
+        }
+      ],
+      "important_selection_status": "completed_after_full_agenda_review"
+    },
+    {
+      "id": "S024",
+      "date": "2026-10-01",
+      "body": "Gemeinderat",
+      "session_ref": "GR/438/2026",
+      "session_url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1030",
+      "upcoming": true,
+      "legacy_important_items": null,
+      "important_items": [
+        {
+          "item_id": "S024-T02",
+          "proposal_no": "5350/2026",
+          "title": "Nachtragshaushaltssatzung und Nachtragshaushaltsplan 2026",
+          "research_or_contribution_refs": [
+            "R077"
+          ],
+          "documents": [
+            {
+              "label": "Beschlussvorlage 5350/2026",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75237&type=do",
+              "type": "primary_official",
+              "verification_status": "verified_2026-09-24"
+            }
+          ],
+          "decision_status": "upcoming_not_decided",
+          "decision_result": null,
+          "decision_evidence": [],
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 2
+        },
+        {
+          "item_id": "S024-T04",
+          "proposal_no": "5360/2026",
+          "title": "Großraumzulage für nicht pädagogisches Personal in Kindertageseinrichtungen",
+          "research_or_contribution_refs": [],
+          "documents": [
+            {
+              "label": "Beschlussvorlage 5360/2026",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75315&type=do",
+              "type": "primary_official",
+              "verification_status": "verified_2026-09-24"
+            }
+          ],
+          "decision_status": "upcoming_not_decided",
+          "decision_result": null,
+          "decision_evidence": [],
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 4
+        },
+        {
+          "item_id": "S024-T05",
+          "proposal_no": "5345/2026",
+          "title": "Großtagespflege „Brezn-Beißer-Bande“ – Trägerwechsel und Mietkosten",
+          "research_or_contribution_refs": [
+            "R078"
+          ],
+          "documents": [
+            {
+              "label": "Beschlussvorlage 5345/2026",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75210&type=do",
+              "type": "primary_official",
+              "verification_status": "verified_2026-09-24"
+            }
+          ],
+          "decision_status": "upcoming_not_decided",
+          "decision_result": null,
+          "decision_evidence": [],
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 5
+        },
+        {
+          "item_id": "S024-T06",
+          "proposal_no": "5343/2026",
+          "title": "Mobiler Toilettenwagen für Vereine und Veranstaltungen",
+          "research_or_contribution_refs": [
+            "R079"
+          ],
+          "documents": [
+            {
+              "label": "Beschlussvorlage 5343/2026",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75200&type=do",
+              "type": "primary_official",
+              "verification_status": "verified_2026-09-24"
+            }
+          ],
+          "decision_status": "upcoming_not_decided",
+          "decision_result": null,
+          "decision_evidence": [],
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 6
+        },
+        {
+          "item_id": "S024-T07",
+          "proposal_no": "5363/2026",
+          "title": "Hundehaltungsverordnung mit Leinenpflicht",
+          "research_or_contribution_refs": [
+            "R080"
+          ],
+          "documents": [
+            {
+              "label": "Beschlussvorlage 5363/2026",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75335&type=do",
+              "type": "primary_official",
+              "verification_status": "verified_2026-09-24"
+            }
+          ],
+          "decision_status": "upcoming_not_decided",
+          "decision_result": null,
+          "decision_evidence": [],
+          "selected_after_full_agenda_review": true,
+          "agenda_no": 7
+        }
+      ],
+      "other_public_items_note": "Weitere öffentliche TOPs wurden geprüft und nicht einzeln als wichtig ausgewiesen.",
+      "agenda_audit_status": "full_public_agenda_verified_2026-09-24",
+      "decision_audit_status": "upcoming_session_no_decisions",
+      "minutes": {
+        "status": "upcoming",
+        "approval_status": "not_applicable_yet",
+        "approval_date": null,
+        "publication_status": "not_applicable_yet",
+        "publication_date": null,
+        "direct_public_minutes_url": null,
+        "link_status": "no_link",
+        "evidence": []
+      },
+      "legacy_verification_status": "upcoming agenda verified",
+      "full_public_agenda": [
+        {
+          "no": 1,
+          "title": "Genehmigung der Niederschrift vom 17.09.2026",
+          "agenda_item_id": "S024-A01"
+        },
+        {
+          "no": 2,
+          "proposal": "5350/2026",
+          "title": "Nachtragshaushaltssatzung und Nachtragshaushaltsplan 2026",
+          "agenda_item_id": "S024-A02"
+        },
+        {
+          "no": 3,
+          "proposal": "5373/2026",
+          "title": "Ernennung der Standesbeamtin Kerstin Lochner zur stellvertretenden Leiterin des Standesamts",
+          "agenda_item_id": "S024-A03"
+        },
+        {
+          "no": 4,
+          "proposal": "5360/2026",
+          "title": "Gewährung der Großraumzulage für nicht pädagogisches festangestelltes Personal in Kindertageseinrichtungen",
+          "agenda_item_id": "S024-A04"
+        },
+        {
+          "no": 5,
+          "proposal": "5345/2026",
+          "title": "Trägerwechsel bei der Großtagespflege „Brezn-Beißer-Bande“ – nochmalige Entscheidung über zukünftige Kosten",
+          "agenda_item_id": "S024-A05"
+        },
+        {
+          "no": 6,
+          "proposal": "5343/2026",
+          "title": "Antrag der FDP-Fraktion auf Beschaffung eines mobilen Toilettenwagens für Vereine und Veranstaltungen",
+          "agenda_item_id": "S024-A06"
+        },
+        {
+          "no": 7,
+          "proposal": "5363/2026",
+          "title": "Antrag der CSU-Fraktion auf Erlass einer Hundehaltungsverordnung mit Leinenpflicht",
+          "agenda_item_id": "S024-A07"
+        },
+        {
+          "no": 8,
+          "title": "Bekanntgaben und Berichte",
+          "agenda_item_id": "S024-A08"
+        },
+        {
+          "no": 9,
+          "title": "Anfragen",
+          "agenda_item_id": "S024-A09"
         }
       ],
       "important_selection_status": "completed_after_full_agenda_review"
