@@ -67,10 +67,33 @@
 
   document.querySelectorAll('.contribution.card').forEach(card=>{
     if(card.querySelector('.fib-info-button'))return;
-    const wrap=document.createElement('div');
-    wrap.className='fib-info-row';
-    wrap.innerHTML='<button class="fib-info-button" type="button" aria-label="Transparenzhinweis zu diesem Beitrag öffnen"><span aria-hidden="true">i</span><span>Info</span></button>';
-    card.appendChild(wrap);
+
+    const infoButton=document.createElement('button');
+    infoButton.className='fib-info-button';
+    infoButton.type='button';
+    infoButton.setAttribute('aria-label','Transparenzhinweis zu diesem Beitrag öffnen');
+    infoButton.setAttribute('title','Transparenzhinweis');
+    infoButton.innerHTML='<span class="fib-info-icon" aria-hidden="true">i</span>';
+
+    const sessionLink=card.querySelector('.minor-link');
+    const topicLink=card.querySelector('.topic-link');
+    let actions=card.querySelector('.fib-card-actions');
+
+    if(!actions){
+      actions=document.createElement('div');
+      actions.className='fib-card-actions';
+
+      if(sessionLink){
+        sessionLink.parentNode.insertBefore(actions,sessionLink);
+        actions.appendChild(sessionLink);
+      }else if(topicLink){
+        card.insertBefore(actions,topicLink);
+      }else{
+        card.appendChild(actions);
+      }
+    }
+
+    actions.appendChild(infoButton);
   });
 
   document.addEventListener('click',event=>{
