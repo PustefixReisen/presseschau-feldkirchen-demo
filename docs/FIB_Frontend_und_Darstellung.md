@@ -144,15 +144,19 @@ Bilder werden bei Themen und Sitzungen nur eingesetzt, wenn sie einen klaren kon
 
 Aktueller Demonstrator:
 
-- `index.html` – statischer Ausgangsinhalt,
+- `data/beitraege.json`, `data/sitzungen.json` und `data/themen.json` – **kanonischer persistenter fachlicher Bestand**,
+- `index.html` – daraus synchronisierte statische Ausgabe für den Demonstrator,
 - `assets/style.css` – allgemeine Gestaltung,
 - `assets/app.js` – Einstiegspunkt für JavaScript-Module,
-- weitere `assets/*.js` – Aktualisierungs- und Darstellungslogik,
 - `assets/image-layout.css` – bildbezogene Darstellung,
 - `assets/image-features.js` – Bildzuordnung und „Mehr zum Bild“,
 - `assets/images/` – veröffentlichte Webbilder.
 
-Neue Funktionen sollen möglichst modular ergänzt werden, damit die große statische `index.html` nicht für jede Darstellungsänderung neu geschrieben werden muss.
+Historische `update-*.js`- und Korrekturskripte bleiben aus Gründen der Nachvollziehbarkeit im Repository erhalten, werden aber **nicht mehr beim Seitenaufruf ausgeführt**. Fachliche Beiträge, Themen oder Sitzungsstände dürfen nicht ausschließlich per JavaScript erzeugt, entfernt oder überschrieben werden. JavaScript ergänzt nur Darstellung und Bedienung, etwa Sortierung, Suche, Bilder, Teilen und Drucken.
+
+Bei jedem vollständigen FIB-Update wird die statische Ausgabe mit dem persistenten Bestand abgeglichen. Sichtbare fachliche IDs dürfen weder im Datenbestand noch in `index.html` fehlen oder doppelt vorkommen.
+
+Für den Echtbetrieb bleibt das Ziel unverändert: strukturierter persistenter Bestand als einzige fachliche Quelle und daraus automatisiert generierte Ausgabe.
 
 ## 10. Bildimport und Bildzuordnung
 
