@@ -57,6 +57,18 @@ Bei gleichem Datum wird als zweiter Sortierschlüssel eine redaktionelle Relevan
 
 Ein expliziter technischer Relevanzwert darf diese Kriterien abbilden, muss aber redaktionell nachvollziehbar bleiben. Bei weiterhin gleichem Rang erfolgt nur noch eine deterministische technische Sortierung ohne inhaltliche Wertung.
 
+### 4.2 Aktualisierungen bestehender Beiträge
+
+Wird ein bestehender Beitrag aufgrund eines **neuen öffentlich belegten Sachstands** fortgeschrieben, zeigt der Untertitel immer nur die neueste Aktualisierung im Format:
+
+`Aktualisierung vom TT.MM.JJJJ: [kurzes Stichwort].`
+
+Frühere Aktualisierungen werden in einem eigenen Abschnitt „Aktualisierungen“ bzw. „Was sich geändert hat“ mit Datum und Stichwort geführt. Der Haupttext bildet den aktuellen Sachstand ab.
+
+Reine redaktionelle Korrekturen eigener Fehler oder technische Darstellungsfehler werden ohne öffentlichen Aktualisierungshinweis korrigiert.
+
+Wenn eine Entwicklung einen eigenständigen neuen Nachrichtenwert hat – insbesondere neue Entscheidung, neuer Verfahrensschritt oder neue öffentliche Auseinandersetzung – wird stattdessen ein neuer Beitrag angelegt und über „Was bisher passiert ist“ bzw. das Thema verknüpft.
+
 ## 5. Bilder in Beiträgen
 
 ### 5.1 Desktop
