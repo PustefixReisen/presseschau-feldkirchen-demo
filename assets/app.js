@@ -53,6 +53,47 @@
   await import('./share-print-subscribe.js?v=20260903c');
   await import('./mobile-print-guard.js?v=20260903c');
 
+  // Transparenzhinweis direkt an jedem Beitrag.
+  const infoDialog=document.createElement('dialog');
+  infoDialog.className='fib-info-dialog';
+  infoDialog.innerHTML=`
+    <div class="fib-info-dialog-inner">
+      <button class="fib-info-close" type="button" aria-label="Hinweis schließen">×</button>
+      <h3>Transparenzhinweis</h3>
+      <p>Bei Recherche und Texterstellung wird KI eingesetzt. Veröffentlichte Beiträge werden redaktionell geprüft und freigegeben. Sachliche Aussagen beruhen auf den angegebenen Quellen; „Unsere Einordnung“ kennzeichnet die politische Einordnung aus grüner Perspektive.</p>
+      <button class="fib-info-more" type="button">Mehr erfahren</button>
+    </div>`;
+  document.body.appendChild(infoDialog);
+
+  document.querySelectorAll('.contribution.card').forEach(card=>{
+    if(card.querySelector('.fib-info-button'))return;
+    const wrap=document.createElement('div');
+    wrap.className='fib-info-row';
+    wrap.innerHTML='<button class="fib-info-button" type="button" aria-label="Transparenzhinweis zu diesem Beitrag öffnen"><span aria-hidden="true">i</span><span>Info</span></button>';
+    card.appendChild(wrap);
+  });
+
+  document.addEventListener('click',event=>{
+    const infoButton=event.target.closest('.fib-info-button');
+    if(infoButton){
+      if(typeof infoDialog.showModal==='function') infoDialog.showModal();
+      else infoDialog.setAttribute('open','');
+      return;
+    }
+    if(event.target.closest('.fib-info-close')){
+      infoDialog.close();
+      return;
+    }
+    if(event.target.closest('.fib-info-more')){
+      infoDialog.close();
+      document.querySelector('.nav-btn[data-target="ueber-fib"]')?.click();
+    }
+  });
+
+  infoDialog.addEventListener('click',event=>{
+    if(event.target===infoDialog) infoDialog.close();
+  });
+
   // Der fachliche Bestand in data/*.json ist kanonisch; index.html ist die
   // synchronisierte statische Ausgabe. UI-Skripte duerfen fachliche Inhalte nicht veraendern.
   if(initialDemoNoteText){
