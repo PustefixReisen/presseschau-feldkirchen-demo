@@ -69,7 +69,7 @@
     if(card.querySelector('.fib-info-button'))return;
 
     const infoButton=document.createElement('button');
-    infoButton.className='fib-info-button';
+    infoButton.className='fib-action-button fib-icon-button fib-info-button';
     infoButton.type='button';
     infoButton.setAttribute('aria-label','Transparenzhinweis zu diesem Beitrag öffnen');
     infoButton.setAttribute('title','Transparenzhinweis');
@@ -77,23 +77,19 @@
 
     const sessionLink=card.querySelector('.minor-link');
     const topicLink=card.querySelector('.topic-link');
-    let actions=card.querySelector('.fib-card-actions');
+    const row=document.createElement('div');
+    row.className='fib-info-actions';
 
-    if(!actions){
-      actions=document.createElement('div');
-      actions.className='fib-card-actions';
-
-      if(sessionLink){
-        sessionLink.parentNode.insertBefore(actions,sessionLink);
-        actions.appendChild(sessionLink);
-      }else if(topicLink){
-        card.insertBefore(actions,topicLink);
-      }else{
-        card.appendChild(actions);
-      }
+    if(sessionLink){
+      sessionLink.parentNode.insertBefore(row,sessionLink);
+      row.appendChild(sessionLink);
+    }else if(topicLink){
+      card.insertBefore(row,topicLink);
+    }else{
+      card.appendChild(row);
     }
 
-    actions.appendChild(infoButton);
+    row.appendChild(infoButton);
   });
 
   document.addEventListener('click',event=>{
