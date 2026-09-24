@@ -41,25 +41,10 @@
   },true);
 
   await import('./app-base-20260831.js');
-  await import('./update-20260901.js');
-  await import('./update-20260901-tz.js');
+  // Fachliche Inhalte sind persistent in data/*.json und statisch in index.html
+  // synchronisiert. Historische update-/Korrekturskripte werden nicht mehr
+  // ausgeführt; JavaScript ergänzt ab hier nur Darstellung und Bedienung.
   await import('./sort-topics.js');
-  await import('./update-20260903.js');
-  await import('./update-20260903b.js');
-  await import('./editorial-corrections-20260903.js');
-  await import('./update-20260904.js');
-  await import('./update-20260905.js');
-  await import('./update-20260907.js');
-  await import('./update-20260907-adfc.js');
-  await import('./source-basis-correction-20260907.js');
-  await import('./update-20260908.js');
-  await import('./update-20260910.js');
-  await import('./quality-revision-20260910.js');
-  await import('./update-20260910-parkraum.js');
-  await import('./update-20260912.js');
-  await import('./update-20260917.js');
-  await import('./update-20260918.js?v=20260924b');
-  await import('./update-20260921.js');
   await import('./sort-contributions.js');
   await import('./image-features.js');
   await import('./image-b047-green-village.js');
