@@ -10,7 +10,7 @@
     "recherchebestand.json",
     "sitzungsbestand.json"
   ],
-  "contribution_count": 72,
+  "contribution_count": 73,
   "editorial_rules": [
     "No methodological or demonstrator text inside public contribution content.",
     "Sachinformation is neutral; political assessment is a separate optional field.",
@@ -21,6 +21,67 @@
     "Unsere Einordnung was audited on 2026-08-29 for citizen-oriented political language per KI-Leitfaden 0.8."
   ],
   "contributions": [
+    {
+      "id": "R083",
+      "date": "2026-09-17",
+      "publication_date": "2026-09-17",
+      "category": "Kommunalpolitik & Beteiligung",
+      "topic_candidates": [
+        "Gemeinderat",
+        "Kinderhaus St. Jakob",
+        "Hitzeschutz",
+        "Betreutes Wohnen",
+        "Bürgerversammlung"
+      ],
+      "title": "Gemeinderatssitzung vom 17. September",
+      "subtitle": "Aktualisierung vom 18.09.2026: TOP zum Kinderhaus St. Jakob kurzfristig abgesetzt.",
+      "sachinformation": "Die veröffentlichte Tagesordnung der Gemeinderatssitzung vom 17. September umfasste unter anderem die Straßenbenennung im Green Village, eine Bauvoranfrage für betreutes Wohnen, Hitzeschutzmaßnahmen, den Familienstützpunkt und den Antrag der Grünen-Fraktion zur Bürgerversammlung 2026. Der zunächst vorgesehene TOP 2 zum Kinderhaus St. Jakob entfiel kurzfristig. Zu einzelnen Tagesordnungspunkten liegen inzwischen eigene FIB-Beiträge vor; weiterführende Ergebnisse werden dort beziehungsweise in der Sitzungsübersicht fortgeschrieben.",
+      "sources": [
+        {
+          "name": "RIS Feldkirchen – Gemeinderat 17.09.2026",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1029",
+          "type": "primary_official",
+          "date": "2026-09-17",
+          "date_basis": "session_date",
+          "date_status": "verified"
+        },
+        {
+          "name": "Gemeinde Feldkirchen – Eilmeldung: TOP 2 Kinderhaus St. Jakob verschoben",
+          "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/eilmeldung-gemeinderatssitzung-top-2-kinderhaus-sankt-jakob-verschoben",
+          "type": "primary_official",
+          "date": "2026-09-17",
+          "date_basis": "publication_date",
+          "date_status": "verified"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "updates": [
+        {
+          "date": "2026-09-18",
+          "label": "TOP zum Kinderhaus St. Jakob kurzfristig abgesetzt",
+          "source_type": "primary_official"
+        }
+      ],
+      "unsere_einordnung": null,
+      "council": "S022",
+      "research_refs": [
+        "R083"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen",
+        "related_places": [
+          "Feldkirchen"
+        ],
+        "scope": "feldkirchen_direct",
+        "verification_status": "verified_2026-09-24"
+      },
+      "established_topic_refs": [],
+      "stage_update_meta": {
+        "created_at": "2026-09-24",
+        "restored_from_legacy_demo": true,
+        "source_status": "verified"
+      }
+    },
     {
       "id": "R080",
       "date": "2026-09-23",
