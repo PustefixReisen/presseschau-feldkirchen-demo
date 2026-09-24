@@ -35,12 +35,19 @@
     <h4>Quelle</h4><ul class="sources"><li><a href="https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1073" rel="noopener noreferrer" target="_blank">RIS Feldkirchen – Gemeinderat 29.09.2026</a></li></ul>
   `);
 
+  // Nur den historischen R079-Beitrag aus dem Update vom 17.09.2026 verändern.
+  // Neuere kanonische Beiträge können dieselbe alte Demonstrator-ID nicht mehr
+  // unbeabsichtigt überschrieben bekommen.
   const r079=document.getElementById('R079');
-  if(r079){
+  const isLegacyR079 =
+    r079 &&
+    r079.querySelector('.date')?.textContent.trim()==='17. September 2026' &&
+    r079.querySelector('h3')?.textContent.trim()==='Gemeinderat tagt heute Abend';
+  if(isLegacyR079){
     const title=r079.querySelector('h3');
     if(title)title.textContent='Gemeinderatssitzung vom 17. September';
     const subtitle=r079.querySelector('.subtitle');
-    if(subtitle)subtitle.textContent='Die Sitzung fand am Donnerstagabend statt. Für das Kinderhaus St. Jakob wurde der angekündigte Tagesordnungspunkt kurzfristig abgesetzt.';
+    if(subtitle)subtitle.textContent='Aktualisierung vom 18.09.2026: TOP zum Kinderhaus St. Jakob kurzfristig abgesetzt.';
     const body=r079.querySelector('.body');
     if(body)body.innerHTML='<p>Die veröffentlichte Tagesordnung umfasste unter anderem die Straßenbenennung im Green Village, eine Bauvoranfrage für betreutes Wohnen, Hitzeschutzmaßnahmen, den Familienstützpunkt und den Antrag der Grünen-Fraktion zur Bürgerversammlung 2026. Der zunächst vorgesehene TOP 2 zum Kinderhaus St. Jakob entfiel kurzfristig. Belastbare öffentliche Ergebnisse zu den übrigen Tagesordnungspunkten liegen im RIS derzeit noch nicht als Niederschrift vor.</p>';
   }
