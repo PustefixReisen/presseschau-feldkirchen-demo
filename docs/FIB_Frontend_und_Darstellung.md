@@ -1,6 +1,6 @@
 # FIB – Frontend und Darstellung
 
-**Stand:** 11.09.2026  
+**Stand:** 24.09.2026  
 **Status:** verbindlicher Arbeitsstand für Demonstrator; Zielbild für öffentliche FIB-Darstellung
 
 ## 1. Zweck
@@ -20,12 +20,13 @@ Der Demonstrator ist derzeit eine statische HTML/CSS/JavaScript-Anwendung auf Gi
 
 ## 3. Hauptnavigation
 
-Die öffentliche FIB-Oberfläche enthält vier Hauptbereiche:
+Die öffentliche FIB-Oberfläche enthält fünf Hauptbereiche:
 
 1. **Feldkirchen im Blick / Beiträge** – aktuelle Beiträge, neueste zuerst.
 2. **Sitzungen** – relevante öffentliche Sitzungen und Tagesordnungspunkte.
 3. **Themen** – länger laufende Themenbeiträge.
 4. **Archiv** – ältere Beiträge.
+5. **Über FIB** – Transparenz zu Quellen, KI-Einsatz und redaktioneller Verantwortung.
 
 Im Demonstrator kann die Navigation technisch noch mit der Bezeichnung `Presseschau` geführt sein; fachlich ist der Oberbegriff **Feldkirchen im Blick** maßgeblich.
 
@@ -195,6 +196,19 @@ Der Demonstrator bildet die fachlich gewünschte FIB-Darstellung unabhängig vom
 
 Wo Sunflower vorhandene Standardkomponenten bereitstellt, sollen diese bevorzugt genutzt werden. Eigene CSS-/JavaScript-Erweiterungen werden auf FIB-spezifische Funktionen begrenzt.
 
-## 12. Pflege der Frontend-Dokumentation
+## 12. Transparenz zu KI, Quellen und redaktioneller Verantwortung
+
+Für den öffentlichen Echtbetrieb gilt folgende Darstellungsregel:
+
+- Ein kurzer **Transparenzhinweis** ist dauerhaft im Footer sichtbar.
+- Der Footer weist darauf hin, dass bei Recherche und Texterstellung KI eingesetzt wird, veröffentlichte Beiträge redaktionell geprüft und freigegeben werden, sachliche Aussagen auf den angegebenen Quellen beruhen und „Unsere Einordnung“ die politische Einordnung aus grüner Perspektive kennzeichnet.
+- Der Link **„Mehr erfahren“** führt zum Hauptbereich **„Über FIB“**.
+- „Über FIB“ erläutert ausführlicher den KI-Einsatz, die Quellenbindung, die redaktionelle Prüfung und Freigabe, die Möglichkeit verbleibender Fehler sowie die Funktion von „Unsere Einordnung“.
+- Maßgeblich bleiben die verlinkten Originalquellen.
+- Die ausführliche Erklärung wird nicht unter jedem einzelnen Beitrag wiederholt.
+
+Der Demonstrator zeigt diese für den Echtbetrieb vorgesehene Lösung bereits vor Einführung des redaktionellen Freigabeworkflows, damit Wirkung und Benutzerführung erprobt werden können. Der dort dargestellte Freigabeprozess ist daher als Zielbild des Echtbetriebs zu verstehen.
+
+## 13. Pflege der Frontend-Dokumentation
 
 Änderungen, die im Demonstrator als verbindliche Darstellungsentscheidung getestet und übernommen werden, werden in diesem Dokument nachgeführt. Fachliche Bildregeln bleiben zusätzlich im `Bildkonzept_FIB.md`; konkrete Bilddaten und Motivwissen in `FIB_Bildbibliothek.md`.
