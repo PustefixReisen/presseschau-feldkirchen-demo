@@ -64,6 +64,8 @@ Wird ein bestehender Beitrag aufgrund eines **neuen öffentlich belegten Sachsta
 
 `Aktualisierung vom TT.MM.JJJJ: [kurzes Stichwort].`
 
+Das Datum ist das **nachweisbare Datum, an dem der neue Sachstand öffentlich geworden ist** (z. B. Veröffentlichungsdatum einer Meldung, öffentliche Freigabe einer Beschlussvorlage oder Veröffentlichung einer Niederschrift). Es ist **nicht** das Datum, an dem FIB den Sachstand recherchiert, erkannt, verarbeitet oder in den Demonstrator übernommen hat. Ist das öffentliche Datum nicht belastbar feststellbar, darf kein bloßes Verarbeitungsdatum als Aktualisierungsdatum ausgegeben werden; der Datumsbezug muss zunächst geklärt werden.
+
 Frühere Aktualisierungen werden in einem eigenen Abschnitt „Aktualisierungen“ bzw. „Was sich geändert hat“ mit Datum und Stichwort geführt. Der Haupttext bildet den aktuellen Sachstand ab.
 
 Reine redaktionelle Korrekturen eigener Fehler oder technische Darstellungsfehler werden ohne öffentlichen Aktualisierungshinweis korrigiert.
