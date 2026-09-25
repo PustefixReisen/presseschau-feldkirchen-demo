@@ -46,7 +46,7 @@
   // ausgeführt; JavaScript ergänzt ab hier nur Darstellung und Bedienung.
   await import('./sort-topics.js');
   await import('./sort-contributions.js');
-  await import('./image-features.js');
+  await import('./image-features.js?v=20260925a');
   await import('./image-b047-green-village.js');
   await import('./source-image-correction-20260907.js');
   await import('./search-dynamic.js');
