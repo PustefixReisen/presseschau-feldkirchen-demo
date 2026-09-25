@@ -1,10 +1,10 @@
 {
   "schema_version": "2.0",
   "work_package": "canonical",
-  "status": "canonical_after_kinderhaus_cleanup_2026-09-25",
+  "status": "canonical_after_standard_update_2026-09-25",
   "research_window": {
     "from": "2025-08-27",
-    "to": "2026-09-24"
+    "to": "2026-09-25"
   },
   "source_basis": [
     "recherchebestand.json",
@@ -747,8 +747,8 @@
         "Kinderbetreuung"
       ],
       "title": "166 Wohnungen: neue Prognose beziffert zusätzlichen Betreuungsbedarf",
-      "subtitle": "Vor der erneuten Beratung am 29. September liegen eine Bedarfsprognose und eine Folgekostenberechnung für Krippen- und Kindergartenplätze vor.",
-      "sachinformation": "Für das Vorhaben mit acht Wohngebäuden, 166 Eigentumswohnungen und 243 Tiefgaragenstellplätzen zwischen Hohenlindner Straße und Jahnstraße liegt eine neue Beschlussvorlage vor. Eine Bedarfsprognose nennt als Spitzenbedarf 22 Kindergarten- und 10 Krippenplätze. Nach Abgleich mit vorhandenen Kapazitäten verbleiben laut Vorlage 10 zusätzliche Krippen- und 11 zusätzliche Kindergartenplätze. Die dort ausgewiesene Berechnung beziffert die anrechenbaren Folgekosten für Betreuungsplätze auf insgesamt 965.456 Euro. Über den Bauantrag soll der Gemeinderat am 29. September erneut beraten; eine Entscheidung steht daher noch aus.",
+      "subtitle": "Aktualisierung vom 24.09.2026: Die öffentlich bereitgestellten Sitzungsunterlagen ergänzen Angaben zu drei betroffenen gemeindlichen Apfelbäumen, Ersatzpflanzungen und der Beschlussempfehlung.",
+      "sachinformation": "Für das Vorhaben mit acht Wohngebäuden, 166 Eigentumswohnungen und 243 Tiefgaragenstellplätzen zwischen Hohenlindner Straße und Jahnstraße liegt eine neue Beschlussvorlage vor. Eine Bedarfsprognose nennt als Spitzenbedarf 22 Kindergarten- und 10 Krippenplätze. Nach Abgleich mit vorhandenen Kapazitäten verbleiben laut Vorlage 10 zusätzliche Krippen- und 11 zusätzliche Kindergartenplätze. Die dort ausgewiesene Berechnung beziffert die anrechenbaren Folgekosten für Betreuungsplätze auf insgesamt 965.456 Euro. Die Vorlage beschreibt außerdem drei gemeindliche Apfelbäume im Bereich der geplanten Tiefgaragenzufahrt: Zwei seien bereits stark geschädigt beziehungsweise absterbend, ein Baum werde als vital eingestuft. Eine Fällung soll nur mit Ersatzpflanzungen erfolgen; die Kosten dafür soll der Vorhabenträger tragen. Die Verwaltung empfiehlt, die erforderliche Befreiung für das Wohnvorhaben zu erteilen und das gemeindliche Einvernehmen zu erteilen; über den Bauantrag soll der Gemeinderat am 29. September entscheiden.",
       "sources": [
         {
           "name": "RIS Feldkirchen – Beschlussvorlage 5362/2026",
@@ -793,7 +793,7 @@
           "Feldkirchen"
         ],
         "scope": "feldkirchen_direct",
-        "verification_status": "verified_2026-09-20"
+        "verification_status": "verified_2026-09-25"
       },
       "established_topic_refs": [
         {
@@ -803,8 +803,16 @@
       ],
       "stage_update_meta": {
         "created_at": "2026-09-20",
-        "source_status": "verified"
-      }
+        "source_status": "verified_public_session_documents",
+        "last_updated_at": "2026-09-25"
+      },
+      "updates": [
+        {
+          "date": "2026-09-24",
+          "label": "Sitzungsunterlagen öffentlich bereitgestellt; Angaben zu Bäumen, Ersatzpflanzungen und Beschlussempfehlung ergänzt",
+          "source_type": "primary_official"
+        }
+      ]
     },
     {
       "id": "R068",
