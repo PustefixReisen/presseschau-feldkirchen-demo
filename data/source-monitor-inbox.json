@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-24T05:55:00Z",
+  "updated_at": "2026-09-25T06:38:00Z",
   "items": [
     {
       "event_key": "document:feldkirchen-parkraum-2026:https://www.feldkirchen.de/_Resources/Persistent/d/3/d/e/d3dee38ce3c4a9ad01384ca6ed314a2a8f8bcc12/2026%20Parkraumkonzept%20gem%20GR-Beschluss.pdf:4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
@@ -24,7 +24,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/",
       "link_text": "Zur Startseite springen",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt/neues-parkraumkonzept-in-feldkirchen",
@@ -34,7 +36,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt/neues-parkraumkonzept-in-feldkirchen",
       "link_text": "Zum Inhalt springen",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/rathaus",
@@ -44,7 +48,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/rathaus",
       "link_text": "Rathaus",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/rathaus/verwaltung",
@@ -54,7 +60,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/rathaus/verwaltung",
       "link_text": "Verwaltung",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/rathaus/verwaltung/buergermeister",
@@ -64,7 +72,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/rathaus/verwaltung/buergermeister",
       "link_text": "Bürgermeister",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/rathaus/verwaltung/aufgaben",
@@ -74,7 +84,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/rathaus/verwaltung/aufgaben",
       "link_text": "Aufgaben",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/rathaus/verwaltung/ansprechpartner",
@@ -84,7 +96,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/rathaus/verwaltung/ansprechpartner",
       "link_text": "Ansprechpartner",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/rathaus/verwaltung/sachgebiete",
@@ -94,7 +108,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/rathaus/verwaltung/sachgebiete",
       "link_text": "Sachgebiete",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/rathaus/verwaltung/ortsrecht-satzungen",
@@ -104,7 +120,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/rathaus/verwaltung/ortsrecht-satzungen",
       "link_text": "Ortsrecht / Satzungen",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/rathaus/verwaltung/behoerden-recht",
@@ -114,7 +132,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/rathaus/verwaltung/behoerden-recht",
       "link_text": "Behörden & Recht",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/rathaus/verwaltung/einrichtungen-der-gemeinde",
@@ -124,7 +144,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/rathaus/verwaltung/einrichtungen-der-gemeinde",
       "link_text": "Einrichtungen der Gemeinde",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/rathaus/verwaltung/einrichtungen-der-gemeinde/bauhof",
@@ -134,7 +156,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/rathaus/verwaltung/einrichtungen-der-gemeinde/bauhof",
       "link_text": "Bauhof",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/rathaus/verwaltung/einrichtungen-der-gemeinde/friedhof",
@@ -144,7 +168,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/rathaus/verwaltung/einrichtungen-der-gemeinde/friedhof",
       "link_text": "Friedhof",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/rathaus/verwaltung/einrichtungen-der-gemeinde/feuerwehr",
@@ -154,7 +180,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/rathaus/verwaltung/einrichtungen-der-gemeinde/feuerwehr",
       "link_text": "Feuerwehr",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/rathaus/verwaltung/einrichtungen-der-gemeinde/gemeindebuecherei",
@@ -164,7 +192,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/rathaus/verwaltung/einrichtungen-der-gemeinde/gemeindebuecherei",
       "link_text": "Gemeindebücherei",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/rathaus/verwaltung/einrichtungen-der-gemeinde/afk-geothermie",
@@ -174,7 +204,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/rathaus/verwaltung/einrichtungen-der-gemeinde/afk-geothermie",
       "link_text": "AFK-Geothermie",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/rathaus/verwaltung/einrichtungen-der-gemeinde/vhs-olm",
@@ -184,7 +216,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/rathaus/verwaltung/einrichtungen-der-gemeinde/vhs-olm",
       "link_text": "VHS Olm",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/rathaus/verwaltung/einrichtungen-der-gemeinde/kooperationen-der-gemeinde",
@@ -194,7 +228,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/rathaus/verwaltung/einrichtungen-der-gemeinde/kooperationen-der-gemeinde",
       "link_text": "Kooperationen der Gemeinde",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/rathaus/verwaltung/stellenportal",
@@ -204,7 +240,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/rathaus/verwaltung/stellenportal",
       "link_text": "Stellenportal",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/rathaus/gemeinderat-politik",
@@ -214,7 +252,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/rathaus/gemeinderat-politik",
       "link_text": "Gemeinderat & Politik",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/rathaus/gemeinderat-politik/sitzverteilung-gremien",
@@ -224,7 +264,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/rathaus/gemeinderat-politik/sitzverteilung-gremien",
       "link_text": "Sitzverteilung & Gremien",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/rathaus/gemeinderat-politik/gemeinderatsmitglieder",
@@ -234,7 +276,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/rathaus/gemeinderat-politik/gemeinderatsmitglieder",
       "link_text": "Gemeinderatsmitglieder",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/rathaus/gemeinderat-politik/ausschuesse-gremien",
@@ -244,7 +288,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/rathaus/gemeinderat-politik/ausschuesse-gremien",
       "link_text": "Ausschüsse & Gremien",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/rathaus/gemeinderat-politik/gemeinderatssitzungen",
@@ -254,7 +300,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/rathaus/gemeinderat-politik/gemeinderatssitzungen",
       "link_text": "Gemeinderatssitzungen",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/rathaus/gemeinderat-politik/fraktionen-im-gemeinderat",
@@ -264,7 +312,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/rathaus/gemeinderat-politik/fraktionen-im-gemeinderat",
       "link_text": "Fraktionen im Gemeinderat",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/rathaus/gemeinderat-politik/wahlen",
@@ -274,7 +324,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/rathaus/gemeinderat-politik/wahlen",
       "link_text": "Wahlen",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/rathaus/buergerservice",
@@ -284,7 +336,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/rathaus/buergerservice",
       "link_text": "Bürgerservice",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/rathaus/buergerservice/buergerservice-portal",
@@ -294,7 +348,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/rathaus/buergerservice/buergerservice-portal",
       "link_text": "Bürgerservice-Portal",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/rathaus/buergerservice/online-terminvergabe-ewo",
@@ -304,7 +360,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/rathaus/buergerservice/online-terminvergabe-ewo",
       "link_text": "Online-Terminvergabe",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/rathaus/buergerservice/einwohnermeldeamt",
@@ -314,7 +372,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/rathaus/buergerservice/einwohnermeldeamt",
       "link_text": "Einwohnermeldeamt",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/rathaus/buergerservice/einwohnermeldeamt/datenschutz",
@@ -324,7 +384,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/rathaus/buergerservice/einwohnermeldeamt/datenschutz",
       "link_text": "Datenschutz",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/rathaus/buergerservice/standesamt",
@@ -334,7 +396,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/rathaus/buergerservice/standesamt",
       "link_text": "Standesamt",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/rathaus/buergerservice/gewerbeamt",
@@ -344,7 +408,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/rathaus/buergerservice/gewerbeamt",
       "link_text": "Gewerbeamt",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/rathaus/buergerservice/friedhofsverwaltung",
@@ -354,7 +420,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/rathaus/buergerservice/friedhofsverwaltung",
       "link_text": "Friedhofsverwaltung",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/rathaus/buergerservice/rentenberatung",
@@ -364,7 +432,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/rathaus/buergerservice/rentenberatung",
       "link_text": "Rentenberatung",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/rathaus/buergerservice/formulare",
@@ -374,7 +444,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/rathaus/buergerservice/formulare",
       "link_text": "Formulare",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/rathaus/buergerservice/ein-euro-ticket",
@@ -384,7 +456,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/rathaus/buergerservice/ein-euro-ticket",
       "link_text": "Ein-Euro-Ticket",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/rathaus/buergerservice/fundbuero",
@@ -394,7 +468,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/rathaus/buergerservice/fundbuero",
       "link_text": "Fundbüro",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/rathaus/unser-feldkirchen",
@@ -404,7 +480,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/rathaus/unser-feldkirchen",
       "link_text": "Unser Feldkirchen",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/rathaus/unser-feldkirchen/digitaler-ortsplan",
@@ -414,7 +492,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/rathaus/unser-feldkirchen/digitaler-ortsplan",
       "link_text": "Digitaler Ortsplan",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/rathaus/unser-feldkirchen/ortschronik",
@@ -424,7 +504,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/rathaus/unser-feldkirchen/ortschronik",
       "link_text": "Ortschronik",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/rathaus/unser-feldkirchen/zahlen-daten-fakten",
@@ -434,7 +516,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/rathaus/unser-feldkirchen/zahlen-daten-fakten",
       "link_text": "Zahlen, Daten, Fakten",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/rathaus/unser-feldkirchen/anfahrt",
@@ -444,7 +528,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/rathaus/unser-feldkirchen/anfahrt",
       "link_text": "Anfahrt",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/rathaus/unser-feldkirchen/partnergemeinden",
@@ -454,7 +540,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/rathaus/unser-feldkirchen/partnergemeinden",
       "link_text": "Partnergemeinden",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/rathaus/unser-feldkirchen/gemeindewappen",
@@ -464,7 +552,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/rathaus/unser-feldkirchen/gemeindewappen",
       "link_text": "Gemeindewappen",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/rathaus/unser-feldkirchen/maibaum-in-feldkirchen",
@@ -474,7 +564,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/rathaus/unser-feldkirchen/maibaum-in-feldkirchen",
       "link_text": "Maibaum in Feldkirchen",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/rathaus/unser-feldkirchen/notruf",
@@ -484,7 +576,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/rathaus/unser-feldkirchen/notruf",
       "link_text": "Notruf",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/aktuelles",
@@ -494,7 +588,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/aktuelles",
       "link_text": "Aktuelles",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/aktuelles/aktuelle-news",
@@ -504,7 +600,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news",
       "link_text": "Aktuelle News",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/aktuelles/aktuelle-news/grusswort",
@@ -514,7 +612,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/grusswort",
       "link_text": "Grußwort",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen",
@@ -524,7 +624,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen",
       "link_text": "Nachrichten",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/nachrichten-archiv",
@@ -534,7 +636,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/nachrichten-archiv",
       "link_text": "Nachrichten Archiv",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/aktuelle-meldungen-landratsamt",
@@ -544,7 +648,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/aktuelle-meldungen-landratsamt",
       "link_text": "Pressemitteilungen extern",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/aktuelles/aktuelle-news/ausschreibungen",
@@ -554,7 +660,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/ausschreibungen",
       "link_text": "Ausschreibungen",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/aktuelles/aktuelle-news/bekanntmachungen",
@@ -564,7 +672,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/bekanntmachungen",
       "link_text": "Bekanntmachungen",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/aktuelles/veranstaltungskalender",
@@ -574,7 +684,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/aktuelles/veranstaltungskalender",
       "link_text": "Veranstaltungskalender",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/aktuelles/stellenausschreibungen",
@@ -584,7 +696,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/aktuelles/stellenausschreibungen",
       "link_text": "Karriere",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/aktuelles/stellenausschreibungen/stellenausschreibungen-1",
@@ -594,7 +708,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/aktuelles/stellenausschreibungen/stellenausschreibungen-1",
       "link_text": "Stellenausschreibungen",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/aktuelles/stellenausschreibungen/ausbildung-in-der-gemeinde",
@@ -604,7 +720,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/aktuelles/stellenausschreibungen/ausbildung-in-der-gemeinde",
       "link_text": "Ausbildung in der Gemeinde",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/aktuelles/stellenausschreibungen/arbeiten-in-unseren-kitas",
@@ -614,7 +732,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/aktuelles/stellenausschreibungen/arbeiten-in-unseren-kitas",
       "link_text": "Arbeiten in Feldkirchner Kitas",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/aktuelles/stellenausschreibungen/arbeiten-bei-kooperationspartnern",
@@ -624,7 +744,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/aktuelles/stellenausschreibungen/arbeiten-bei-kooperationspartnern",
       "link_text": "Arbeiten bei Kooperationspartnern",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/aktuelles/gemeindeblatt",
@@ -634,7 +756,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/aktuelles/gemeindeblatt",
       "link_text": "Gemeindeblatt",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/leben",
@@ -644,7 +768,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/leben",
       "link_text": "Leben",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/leben/kinder-jugend-bildung",
@@ -654,7 +780,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/leben/kinder-jugend-bildung",
       "link_text": "Kinder & Jugend",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/leben/kinder-jugend-bildung/kindereinrichtungen",
@@ -664,7 +792,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/leben/kinder-jugend-bildung/kindereinrichtungen",
       "link_text": "Kindereinrichtungen",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/leben/kinder-jugend-bildung/kita-gebuehren",
@@ -674,7 +804,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/leben/kinder-jugend-bildung/kita-gebuehren",
       "link_text": "Kita-Gebühren",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/leben/kinder-jugend-bildung/jobangebote-kita",
@@ -684,7 +816,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/leben/kinder-jugend-bildung/jobangebote-kita",
       "link_text": "Jobangebote Kita",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/leben/kinder-jugend-bildung/kinderspielplaetze",
@@ -694,7 +828,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/leben/kinder-jugend-bildung/kinderspielplaetze",
       "link_text": "Kinderspielplätze",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/leben/kinder-jugend-bildung/schulen",
@@ -704,7 +840,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/leben/kinder-jugend-bildung/schulen",
       "link_text": "Schulen",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/leben/kinder-jugend-bildung/jugendberatung-im-rathaus",
@@ -714,7 +852,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/leben/kinder-jugend-bildung/jugendberatung-im-rathaus",
       "link_text": "Jugendberatung im Rathaus",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/leben/kinder-jugend-bildung/jugendarbeit",
@@ -724,7 +864,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/leben/kinder-jugend-bildung/jugendarbeit",
       "link_text": "Angebote für Kinder und Jugend",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/leben/kinder-jugend-bildung/jugendarbeit/ferienprogramm",
@@ -734,7 +876,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/leben/kinder-jugend-bildung/jugendarbeit/ferienprogramm",
       "link_text": "Ferienprogramm",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/leben/kinder-jugend-bildung/jugendarbeit/jugendbefragung-2023",
@@ -744,7 +888,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/leben/kinder-jugend-bildung/jugendarbeit/jugendbefragung-2023",
       "link_text": "Jugendbefragung 2023",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/leben/kinder-jugend-bildung/jugendarbeit/upstairs",
@@ -754,7 +900,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/leben/kinder-jugend-bildung/jugendarbeit/upstairs",
       "link_text": "Upstairs",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/leben/kinder-jugend-bildung/familienberatung",
@@ -764,7 +912,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/leben/kinder-jugend-bildung/familienberatung",
       "link_text": "Familienberatung",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/leben/gesundheit-und-soziales",
@@ -774,7 +924,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/leben/gesundheit-und-soziales",
       "link_text": "Gesundheit & Soziales",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/leben/gesundheit-und-soziales/aerzte-und-heilpraxen",
@@ -784,7 +936,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/leben/gesundheit-und-soziales/aerzte-und-heilpraxen",
       "link_text": "Ärzte und Heilpraxen",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/leben/gesundheit-und-soziales/soziale-einrichtungen",
@@ -794,7 +948,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/leben/gesundheit-und-soziales/soziale-einrichtungen",
       "link_text": "Soziale Einrichtungen",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/leben/gesundheit-und-soziales/kirchen",
@@ -804,7 +960,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/leben/gesundheit-und-soziales/kirchen",
       "link_text": "Kirchen",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/leben/senioren",
@@ -814,7 +972,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/leben/senioren",
       "link_text": "Angebote für Senioren",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/leben/senioren/einkaufsbus-in-feldkirchen",
@@ -824,7 +984,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/leben/senioren/einkaufsbus-in-feldkirchen",
       "link_text": "Einkaufsbus in Feldkirchen",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/leben/senioren/mittagstisch-fuer-senioren",
@@ -834,7 +996,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/leben/senioren/mittagstisch-fuer-senioren",
       "link_text": "Mittagstisch für Senioren",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/leben/senioren/seniorenbefragung-in-feldkirchen",
@@ -844,7 +1008,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/leben/senioren/seniorenbefragung-in-feldkirchen",
       "link_text": "Seniorenbefragung in Feldkirchen",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/leben/senioren/demenzsprechstunde",
@@ -854,7 +1020,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/leben/senioren/demenzsprechstunde",
       "link_text": "Demenzsprechstunde",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/leben/senioren/rentenberatung",
@@ -864,7 +1032,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/leben/senioren/rentenberatung",
       "link_text": "Rentenberatung",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/leben/senioren/seniorenberatung-im-rathaus",
@@ -874,7 +1044,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/leben/senioren/seniorenberatung-im-rathaus",
       "link_text": "Seniorenberatung im Rathaus",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/leben/senioren/senioren-und-pflegeheime",
@@ -884,7 +1056,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/leben/senioren/senioren-und-pflegeheime",
       "link_text": "Senioren- und Pflegeheime",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/leben/senioren/broschueren-fuer-senioren",
@@ -894,7 +1068,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/leben/senioren/broschueren-fuer-senioren",
       "link_text": "Broschüren für Senioren",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/leben/freizeit-vereine",
@@ -904,7 +1080,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/leben/freizeit-vereine",
       "link_text": "Freizeit & Vereine",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/leben/freizeit-vereine/sporteinrichtungen",
@@ -914,7 +1092,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/leben/freizeit-vereine/sporteinrichtungen",
       "link_text": "Sporteinrichtungen",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/leben/freizeit-vereine/kulturelle-veranstaltungen",
@@ -924,7 +1104,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/leben/freizeit-vereine/kulturelle-veranstaltungen",
       "link_text": "Kulturelle Veranstaltungen",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/leben/freizeit-vereine/weihnachten-in-feldkirchen",
@@ -934,7 +1116,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/leben/freizeit-vereine/weihnachten-in-feldkirchen",
       "link_text": "Weihnachten in Feldkirchen",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/leben/freizeit-vereine/buergerbus",
@@ -944,7 +1128,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/leben/freizeit-vereine/buergerbus",
       "link_text": "Bürgerbus",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/leben/wirtschaft-gewerbe",
@@ -954,7 +1140,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/leben/wirtschaft-gewerbe",
       "link_text": "Wirtschaft & Gewerbe",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/leben/wirtschaft-gewerbe/news-wirtschaftsfoerderung",
@@ -964,7 +1152,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/leben/wirtschaft-gewerbe/news-wirtschaftsfoerderung",
       "link_text": "News Wirtschaftsförderung",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/leben/wirtschaft-gewerbe/gewerbe",
@@ -974,7 +1164,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/leben/wirtschaft-gewerbe/gewerbe",
       "link_text": "Gewerbe",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/leben/wirtschaft-gewerbe/existenzgruender",
@@ -984,7 +1176,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/leben/wirtschaft-gewerbe/existenzgruender",
       "link_text": "Existenzgründer",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/leben/wirtschaft-gewerbe/gastronomie-hotels",
@@ -994,7 +1188,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/leben/wirtschaft-gewerbe/gastronomie-hotels",
       "link_text": "Gastronomie & Hotels",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/leben/wirtschaft-gewerbe/messe-muenchen-international",
@@ -1004,7 +1200,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/leben/wirtschaft-gewerbe/messe-muenchen-international",
       "link_text": "Messe München International",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/leben/wohnen-in-feldkirchen",
@@ -1014,7 +1212,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/leben/wohnen-in-feldkirchen",
       "link_text": "Wohnen in Feldkirchen",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/leben/wohnen-in-feldkirchen/defekte-strassenbeleuchtung",
@@ -1024,7 +1224,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/leben/wohnen-in-feldkirchen/defekte-strassenbeleuchtung",
       "link_text": "Defekte Straßenbeleuchtung",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/bauen",
@@ -1034,7 +1236,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/bauen",
       "link_text": "Bauen",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt",
@@ -1044,7 +1248,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt",
       "link_text": "Nachrichten aus dem Bauamt",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/bauen/bebauungsplaene",
@@ -1054,7 +1260,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/bauen/bebauungsplaene",
       "link_text": "Bebauungspläne",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/bauen/bebauungsplaene/oeffentliche-auslegung",
@@ -1064,7 +1272,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/bauen/bebauungsplaene/oeffentliche-auslegung",
       "link_text": "Öffentliche Auslegung",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/bauen/gemeindliche-wohnungen",
@@ -1074,7 +1284,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/bauen/gemeindliche-wohnungen",
       "link_text": "Gemeindliche Wohnungen",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/bauen/foerderprogramme",
@@ -1084,7 +1296,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/bauen/foerderprogramme",
       "link_text": "Förderprogramme",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/bauen/bauprojekte",
@@ -1094,7 +1308,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/bauen/bauprojekte",
       "link_text": "Projektideen vorgestellt",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/bauen/bauprojekte/ortsentwicklungskonzept",
@@ -1104,7 +1320,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/bauen/bauprojekte/ortsentwicklungskonzept",
       "link_text": "Ortsentwicklungskonzept",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/bauen/bauprojekte/umbau-sanierung-kindergarten-sankt-jakob",
@@ -1114,7 +1332,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/bauen/bauprojekte/umbau-sanierung-kindergarten-sankt-jakob",
       "link_text": "Umbau & Sanierung Kindergarten Sankt Jakob",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/bauen/glasfaser",
@@ -1124,7 +1344,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/bauen/glasfaser",
       "link_text": "Glasfaser",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/umwelt",
@@ -1134,7 +1356,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/umwelt",
       "link_text": "Umwelt",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/umwelt/abfallwirtschaft",
@@ -1144,7 +1368,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/umwelt/abfallwirtschaft",
       "link_text": "Abfallwirtschaft",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/umwelt/gruenordnung-umweltschutz",
@@ -1154,7 +1380,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/umwelt/gruenordnung-umweltschutz",
       "link_text": "Grünordnung & Umweltschutz",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/umwelt/gruenordnung-umweltschutz/baumschutzverordnung",
@@ -1164,7 +1392,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/umwelt/gruenordnung-umweltschutz/baumschutzverordnung",
       "link_text": "Baumschutzverordnung",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/umwelt/gruenordnung-umweltschutz/biotopkartierungen",
@@ -1174,7 +1404,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/umwelt/gruenordnung-umweltschutz/biotopkartierungen",
       "link_text": "Biotopkartierungen",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/umwelt/gruenordnung-umweltschutz/bienenfreundliche-kommune",
@@ -1184,7 +1416,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/umwelt/gruenordnung-umweltschutz/bienenfreundliche-kommune",
       "link_text": "Bienenfreundliche Kommune",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/umwelt/foerderprogramme-umwelt",
@@ -1194,7 +1428,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/umwelt/foerderprogramme-umwelt",
       "link_text": "Förderprogramme Umwelt",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/umwelt/mobilitaet-verkehrswende",
@@ -1204,7 +1440,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/umwelt/mobilitaet-verkehrswende",
       "link_text": "Mobilität & Verkehrswende",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/umwelt/mobilitaet-verkehrswende/rund-ums-rad",
@@ -1214,7 +1452,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/umwelt/mobilitaet-verkehrswende/rund-ums-rad",
       "link_text": "Rund ums Rad",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/umwelt/mobilitaet-verkehrswende/rund-ums-auto",
@@ -1224,7 +1464,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/umwelt/mobilitaet-verkehrswende/rund-ums-auto",
       "link_text": "Rund ums Auto",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/umwelt/mobilitaet-verkehrswende/rund-um-den-oepnv",
@@ -1234,7 +1476,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/umwelt/mobilitaet-verkehrswende/rund-um-den-oepnv",
       "link_text": "Rund um den ÖPNV",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/umwelt/klimaschutz",
@@ -1244,7 +1488,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/umwelt/klimaschutz",
       "link_text": "Klimaschutz",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/umwelt/klimaschutz/klimaschutzerklaerung-und-treibhausgasbericht",
@@ -1254,7 +1500,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/umwelt/klimaschutz/klimaschutzerklaerung-und-treibhausgasbericht",
       "link_text": "Klimaschutzerklärung und Treibhausgasbericht",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/umwelt/klimaschutz/klimafolgenanpassungskonzept",
@@ -1264,7 +1512,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/umwelt/klimaschutz/klimafolgenanpassungskonzept",
       "link_text": "Klimafolgenanpassungskonzept",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/umwelt/klimaschutz/keen-kommunales-energieeffizienz-netzwerk-ebersberg-muenchen",
@@ -1274,7 +1524,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/umwelt/klimaschutz/keen-kommunales-energieeffizienz-netzwerk-ebersberg-muenchen",
       "link_text": "Klimaschutznetzwerk Ebersberg-München",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/umwelt/klimaschutz/kommunale-waermeplanung",
@@ -1284,7 +1536,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/umwelt/klimaschutz/kommunale-waermeplanung",
       "link_text": "Kommunale Wärmeplanung",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/service/krise-katastrophe",
@@ -1294,7 +1548,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/service/krise-katastrophe",
       "link_text": "Krise & Katastrophe",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/account/login?uri=https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt/neues-parkraumkonzept-in-feldkirchen",
@@ -1304,7 +1560,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/account/login?uri=https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt/neues-parkraumkonzept-in-feldkirchen",
       "link_text": "Login",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/_Resources/Persistent/d/3/d/e/d3dee38ce3c4a9ad01384ca6ed314a2a8f8bcc12/2026%20Parkraumkonzept%20gem%20GR-Beschluss.pdf",
@@ -1314,7 +1572,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/_Resources/Persistent/d/3/d/e/d3dee38ce3c4a9ad01384ca6ed314a2a8f8bcc12/2026%20Parkraumkonzept%20gem%20GR-Beschluss.pdf",
       "link_text": "(1,40 MB) \n\t\t\t\t\t\t\t\t 2026 Parkraumkonzept gem GR-Beschluss.pdf",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/service/inhaltsverzeichnis",
@@ -1324,7 +1584,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/service/inhaltsverzeichnis",
       "link_text": "Inhaltsverzeichnis",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/service/impressum",
@@ -1334,7 +1596,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/service/impressum",
       "link_text": "Impressum",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/service/datenschutzerklaerung",
@@ -1344,7 +1608,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/service/datenschutzerklaerung",
       "link_text": "Datenschutzerklärung",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/service/barrierefreiheit",
@@ -1354,7 +1620,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/service/barrierefreiheit",
       "link_text": "Erklärung zur Barrierefreiheit",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/service/kontakt",
@@ -1364,7 +1632,9 @@
       "kind": "link_new",
       "url": "https://www.feldkirchen.de/service/kontakt",
       "link_text": "Alle Kontaktdaten",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R068_or_navigation_no_fib_change_2026-09-25"
     },
     {
       "event_key": "link:landkreis-muenchen:https://www.landkreis-muenchen.de/artikel/vollsperrung-der-putzbrunner-strasse-im-bereich-des-s-bahnhofs-ottobrunn/",
@@ -1374,7 +1644,9 @@
       "kind": "link_new",
       "url": "https://www.landkreis-muenchen.de/artikel/vollsperrung-der-putzbrunner-strasse-im-bereich-des-s-bahnhofs-ottobrunn/",
       "link_text": "Absage / Vollsperrung der Putzbrunner Straße im Bereich des  S-Bahnhofs Ottobrunn",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_no_direct_feldkirchen_relevance_2026-09-25"
     },
     {
       "event_key": "link:landkreis-muenchen:https://www.landkreis-muenchen.de/artikel/asphalterneuerung-auf-der-a-995-zwischen-muenchen-giesing-und-muenchen-sued/",
@@ -1384,7 +1656,9 @@
       "kind": "link_new",
       "url": "https://www.landkreis-muenchen.de/artikel/asphalterneuerung-auf-der-a-995-zwischen-muenchen-giesing-und-muenchen-sued/",
       "link_text": "Asphalterneuerung auf der A 995 zwischen München-Giesing und München-Süd",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_no_direct_feldkirchen_relevance_2026-09-25"
     },
     {
       "event_key": "link:adfc-muenchen:https://muenchen.adfc.de/neuigkeit/radfahren-in-den-medien-mitte-september-2026",
@@ -1394,7 +1668,9 @@
       "kind": "link_new",
       "url": "https://muenchen.adfc.de/neuigkeit/radfahren-in-den-medien-mitte-september-2026",
       "link_text": "",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R075_or_no_additional_fib_change_2026-09-25"
     },
     {
       "event_key": "link:adfc-muenchen:https://muenchen.adfc.de/neuigkeit/kidical-mass-am-sonntag-11102026",
@@ -1404,7 +1680,9 @@
       "kind": "link_new",
       "url": "https://muenchen.adfc.de/neuigkeit/kidical-mass-am-sonntag-11102026",
       "link_text": "",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_existing_R075_or_no_additional_fib_change_2026-09-25"
     },
     {
       "event_key": "link:landkreis-muenchen:https://www.landkreis-muenchen.de/artikel/amtsblatt-30-2026/",
@@ -1414,7 +1692,9 @@
       "kind": "link_new",
       "url": "https://www.landkreis-muenchen.de/artikel/amtsblatt-30-2026/",
       "link_text": "",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_no_direct_feldkirchen_relevance_2026-09-25"
     },
     {
       "event_key": "link:landkreis-muenchen:https://www.landkreis-muenchen.de/artikel/gemeinsam-fuer-den-ernstfall-geruestet/",
@@ -1424,7 +1704,9 @@
       "kind": "link_new",
       "url": "https://www.landkreis-muenchen.de/artikel/gemeinsam-fuer-den-ernstfall-geruestet/",
       "link_text": "",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_no_direct_feldkirchen_relevance_2026-09-25"
     },
     {
       "event_key": "link:landkreis-muenchen:https://www.landkreis-muenchen.de/artikel/so-viele-wie-noch-nie-soziales-engagement-ausgezeichnet/",
@@ -1434,7 +1716,9 @@
       "kind": "link_new",
       "url": "https://www.landkreis-muenchen.de/artikel/so-viele-wie-noch-nie-soziales-engagement-ausgezeichnet/",
       "link_text": "",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_no_direct_feldkirchen_relevance_2026-09-25"
     },
     {
       "event_key": "link:landkreis-muenchen:https://www.landkreis-muenchen.de/artikel/halbseitige-sperrung-der-pasinger-strasse-in-graefelfing/",
@@ -1444,7 +1728,9 @@
       "kind": "link_new",
       "url": "https://www.landkreis-muenchen.de/artikel/halbseitige-sperrung-der-pasinger-strasse-in-graefelfing/",
       "link_text": "Halbseitige Sperrung der Pasinger Straße in Gräfelfing",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_no_direct_feldkirchen_relevance_2026-09-25"
     },
     {
       "event_key": "link:landkreis-muenchen:https://www.landkreis-muenchen.de/artikel/impulsvortrag-zum-thema-gluecksspielsucht/",
@@ -1454,7 +1740,9 @@
       "kind": "link_new",
       "url": "https://www.landkreis-muenchen.de/artikel/impulsvortrag-zum-thema-gluecksspielsucht/",
       "link_text": "",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_no_direct_feldkirchen_relevance_2026-09-25"
     },
     {
       "event_key": "link:landkreis-muenchen:https://www.landkreis-muenchen.de/artikel/aktion-zukunft-unterstuetzt-bachrenaturierung/",
@@ -1464,7 +1752,9 @@
       "kind": "link_new",
       "url": "https://www.landkreis-muenchen.de/artikel/aktion-zukunft-unterstuetzt-bachrenaturierung/",
       "link_text": "",
-      "status": "unprocessed"
+      "status": "processed",
+      "processed_at": "2026-09-25T06:38:00Z",
+      "processed_ref": "checked_no_direct_feldkirchen_relevance_2026-09-25"
     },
     {
       "event_key": "link:feldkirchen-parkraum-2026:https://www.feldkirchen.de/leben/senioren/betreutes-wohnen",
