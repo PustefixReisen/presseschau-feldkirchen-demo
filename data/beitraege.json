@@ -1,7 +1,7 @@
 {
   "schema_version": "2.0",
   "work_package": "canonical",
-  "status": "canonical_after_standard_update_2026-09-24",
+  "status": "canonical_after_kinderhaus_cleanup_2026-09-25",
   "research_window": {
     "from": "2025-08-27",
     "to": "2026-09-24"
@@ -54,7 +54,23 @@
           "date_status": "verified"
         }
       ],
-      "bisheriger_verlauf": [],
+      "bisheriger_verlauf": [
+        {
+          "id": "R006",
+          "date": "2025-10-16",
+          "title": "Planungsstand für das Kinderhaus St. Jakob wird vorgestellt"
+        },
+        {
+          "id": "C027",
+          "date": "2026-04-30",
+          "title": "Kinderhaus St. Jakob: zusätzliche Hortgruppe und Ausweichcontainer beschlossen"
+        },
+        {
+          "id": "R030",
+          "date": "2026-06-01",
+          "title": "Kinderhaus St. Jakob: Ausweichquartier für rund 100 Kinder"
+        }
+      ],
       "updates": [
         {
           "date": "2026-09-18",
@@ -680,6 +696,16 @@
         }
       ],
       "bisheriger_verlauf": [
+        {
+          "id": "R006",
+          "date": "2025-10-16",
+          "title": "Planungsstand für das Kinderhaus St. Jakob wird vorgestellt"
+        },
+        {
+          "id": "C027",
+          "date": "2026-04-30",
+          "title": "Kinderhaus St. Jakob: zusätzliche Hortgruppe und Ausweichcontainer beschlossen"
+        },
         {
           "id": "R030",
           "date": "2026-06-01",
