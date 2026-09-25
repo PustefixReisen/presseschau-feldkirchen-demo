@@ -1,9 +1,9 @@
 {
   "schema_version": "2.0",
-  "status": "canonical_after_standard_update_2026-09-24",
+  "status": "canonical_after_standard_update_2026-09-25",
   "research_window": {
     "from": "2025-08-27",
-    "to": "2026-08-27"
+    "to": "2026-09-25"
   },
   "purpose": "Kanonischer strukturierter Sitzungsbestand der Homepage-Presseschau",
   "migration": {
@@ -4204,7 +4204,14 @@
           "proposal_no": "5308/2026",
           "title": "Bebauungsplan Nr. 113 – erneute Billigung",
           "research_or_contribution_refs": [],
-          "documents": [],
+          "documents": [
+            {
+              "label": "Beschlussvorlage 5308/2026",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74838&type=do",
+              "type": "primary_official",
+              "verification_status": "verified_2026-09-25"
+            }
+          ],
           "decision_status": "upcoming_not_decided",
           "decision_result": null,
           "decision_evidence": [],
@@ -4216,7 +4223,14 @@
           "proposal_no": "5344/2026",
           "title": "Bebauungsplan Nr. 91 Ortsmitte Nordost – Billigungsbeschluss",
           "research_or_contribution_refs": [],
-          "documents": [],
+          "documents": [
+            {
+              "label": "Beschlussvorlage 5344/2026",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75204&type=do",
+              "type": "primary_official",
+              "verification_status": "verified_2026-09-25"
+            }
+          ],
           "decision_status": "upcoming_not_decided",
           "decision_result": null,
           "decision_evidence": [],
@@ -4228,7 +4242,14 @@
           "proposal_no": "5154/2026",
           "title": "Bebauungsplan Nr. 102 Gewerbegebiet Weißenfelder Straße – Billigungsbeschluss",
           "research_or_contribution_refs": [],
-          "documents": [],
+          "documents": [
+            {
+              "label": "Beschlussvorlage 5154/2026",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=72299&type=do",
+              "type": "primary_official",
+              "verification_status": "verified_2026-09-25"
+            }
+          ],
           "decision_status": "upcoming_not_decided",
           "decision_result": null,
           "decision_evidence": [],
@@ -4240,7 +4261,14 @@
           "proposal_no": "5329/2026",
           "title": "Bebauungsplan Nr. 103 – Satzungsbeschluss",
           "research_or_contribution_refs": [],
-          "documents": [],
+          "documents": [
+            {
+              "label": "Beschlussvorlage 5329/2026",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75105&type=do",
+              "type": "primary_official",
+              "verification_status": "verified_2026-09-25"
+            }
+          ],
           "decision_status": "upcoming_not_decided",
           "decision_result": null,
           "decision_evidence": [],
@@ -4252,7 +4280,14 @@
           "proposal_no": "5279/2026",
           "title": "17. Änderung Flächennutzungsplan – Einstellung des Verfahrens",
           "research_or_contribution_refs": [],
-          "documents": [],
+          "documents": [
+            {
+              "label": "Beschlussvorlage 5279/2026",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74598&type=do",
+              "type": "primary_official",
+              "verification_status": "verified_2026-09-25"
+            }
+          ],
           "decision_status": "upcoming_not_decided",
           "decision_result": null,
           "decision_evidence": [],
@@ -4264,7 +4299,14 @@
           "proposal_no": "5280/2026",
           "title": "Bebauungsplan Nr. 110 Spielplatz – Einstellung des Verfahrens",
           "research_or_contribution_refs": [],
-          "documents": [],
+          "documents": [
+            {
+              "label": "Beschlussvorlage 5280/2026",
+              "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74602&type=do",
+              "type": "primary_official",
+              "verification_status": "verified_2026-09-25"
+            }
+          ],
           "decision_status": "upcoming_not_decided",
           "decision_result": null,
           "decision_evidence": [],
@@ -4283,7 +4325,7 @@
               "label": "Beschlussvorlage 5362/2026",
               "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75324&type=do",
               "type": "primary_official",
-              "verification_status": "verified_2026-09-20"
+              "verification_status": "verified_2026-09-25"
             }
           ],
           "decision_status": "upcoming_not_decided",
@@ -4294,7 +4336,7 @@
         }
       ],
       "other_public_items_note": "Die Sitzung ist für den 29. September 2026 angekündigt; Ergebnisse liegen noch nicht vor.",
-      "agenda_audit_status": "full_public_agenda_verified_2026-09-20",
+      "agenda_audit_status": "full_public_agenda_and_documents_verified_2026-09-25",
       "decision_audit_status": "upcoming_session_no_decisions",
       "minutes": {
         "status": "upcoming",
@@ -4306,7 +4348,7 @@
         "link_status": "no_link",
         "evidence": []
       },
-      "legacy_verification_status": "upcoming agenda verified",
+      "legacy_verification_status": "upcoming agenda and selected public documents verified 2026-09-25",
       "full_public_agenda": [
         {
           "no": 1,
