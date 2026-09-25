@@ -1,10 +1,10 @@
 {
   "schema_version": "2.0",
   "work_package": "canonical",
-  "status": "canonical_after_stage_G_source_class_extension",
+  "status": "canonical_after_standard_update_2026-09-25",
   "research_window": {
     "from": "2025-08-27",
-    "to": "2026-08-27"
+    "to": "2026-09-25"
   },
   "basis_file": "presseschau_beitraege.json",
   "topic_count": 14,
@@ -1171,7 +1171,7 @@
       "id": "T009",
       "title": "Wohnungsbau und kommunale Planung",
       "first_created": "2026-07-09",
-      "last_substantive_update": "2026-09-22",
+      "last_substantive_update": "2026-09-24",
       "contribution_refs": [
         "R003",
         "R047",
@@ -1180,7 +1180,7 @@
         "R072",
         "R073"
       ],
-      "summary": "Wohnungsbau wurde im Untersuchungszeitraum sowohl über größere Bauleitplanungen als auch über einzelne Genehmigungsverfahren zum kommunalpolitischen Thema. Für das Gebiet des Bebauungsplans Nr. 113 liegt ein Bauantrag für acht Wohngebäude mit 166 Eigentumswohnungen und 243 Tiefgaragenstellplätzen vor. Das gemeindliche Einvernehmen war im Juli zunächst verweigert worden, weil mögliche Infrastrukturfolgekosten noch geklärt werden sollten; eine neue Vorlage für die Beratung am 29. September enthält nun eine Bedarfsprognose und Folgekostenberechnung.\\n\\nNeu hinzugekommen ist das Vorhaben für betreutes Wohnen an der Hohenlindner Straße 17. Geplant sind rund 140 Seniorenwohnungen sowie ergänzendes Personalwohnen. Die Beschlussvorlage verbindet eine stärkere bauliche Ausnutzung mit Innenentwicklung, Tiefgarage und dem Erhalt des prägenden Baumbestands. Nach einem Pressebericht vom 21. September unterstützte der Gemeinderat das Konzept in seiner Sitzung vom 17. September mit einer Gegenstimme. Eine amtlich veröffentlichte Niederschrift liegt dazu noch nicht vor.",
+      "summary": "Wohnungsbau wurde im Untersuchungszeitraum sowohl über größere Bauleitplanungen als auch über einzelne Genehmigungsverfahren zum kommunalpolitischen Thema. Für das Gebiet des Bebauungsplans Nr. 113 liegt ein Bauantrag für acht Wohngebäude mit 166 Eigentumswohnungen und 243 Tiefgaragenstellplätzen vor. Das gemeindliche Einvernehmen war im Juli zunächst verweigert worden, weil mögliche Infrastrukturfolgekosten noch geklärt werden sollten; die Vorlage für die Beratung am 29. September enthält eine Bedarfsprognose und Folgekostenberechnung. Die inzwischen öffentlich bereitgestellten Sitzungsunterlagen konkretisieren außerdem den Umgang mit drei gemeindlichen Apfelbäumen im Bereich der Tiefgaragenzufahrt: Fällungen sollen nur mit Ersatzpflanzungen erfolgen, deren Kosten der Vorhabenträger tragen soll.\n\nNeu hinzugekommen ist das Vorhaben für betreutes Wohnen an der Hohenlindner Straße 17. Geplant sind rund 140 Seniorenwohnungen sowie ergänzendes Personalwohnen. Die Beschlussvorlage verbindet eine stärkere bauliche Ausnutzung mit Innenentwicklung, Tiefgarage und dem Erhalt des prägenden Baumbestands. Nach einem Pressebericht vom 21. September unterstützte der Gemeinderat das Konzept in seiner Sitzung vom 17. September mit einer Gegenstimme. Eine amtlich veröffentlichte Niederschrift liegt dazu noch nicht vor.",
       "open_questions": [
         "Wie entwickelt sich das Vorhaben mit 166 Wohnungen im weiteren Planungs- und Genehmigungsverfahren?",
         "Welche Infrastruktur- und Verkehrsfolgen werden bei größeren Wohnbauvorhaben berücksichtigt?",
@@ -1331,9 +1331,10 @@
         ]
       },
       "stage_E_meta": {
-        "updated_at": "2026-08-28",
+        "updated_at": "2026-09-25",
         "changes": [
-          "R049 employee housing added"
+          "R049 employee housing added",
+          "R072: Sitzungsunterlagen vom 24.09.2026 ergänzt"
         ]
       }
     },
