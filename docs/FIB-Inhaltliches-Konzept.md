@@ -4,7 +4,7 @@
 
 | Version | Stand | Verantwortlich |
 |---|---|---|
-| 1.1 | 26.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
+| 1.2 | 26.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
 
 ## Zielbild
 
@@ -22,6 +22,8 @@ FIB soll dazu beitragen,
 - und damit eine informierte, sachliche und offene Diskussion über die zukünftige Entwicklung Feldkirchens zu unterstützen.
 
 FIB soll dabei **keine fertigen Antworten vorgeben**. Es soll Orientierung, Vergleichsmöglichkeiten und neue Perspektiven schaffen, damit Bürgerinnen und Bürger, Politik, Verwaltung und Zivilgesellschaft fundierter über Gestaltungsmöglichkeiten sprechen können.
+
+**Beispiel:** Wenn andere Kommunen neue Formen der Bürgerbeteiligung erproben oder München autonome On-Demand-Fahrzeuge testet, interessiert FIB nicht nur die Nachricht selbst. Entscheidend ist die Frage, was sich daraus für eine Gemeinde wie Feldkirchen lernen oder frühzeitig beobachten lässt.
 
 ## Wozu gibt es Feldkirchen im Blick?
 
@@ -56,6 +58,8 @@ Das kann zum Beispiel gelten, wenn:
 
 Der Bezug zu Feldkirchen wird bei solchen Beiträgen ausdrücklich sichtbar gemacht.
 
+**Beispiele:** Die Kürzung der Landkreis-Förderung für den ADFC betrifft nicht unmittelbar die Gemeinde Feldkirchen, wohl aber die gemeinsame Ortsgruppe und ihre Vernetzungsstrukturen. Neue Fahrradstraßen am Schulcampus Aschheim sind für Feldkirchen relevant, weil Feldkirchen dem Schulzweckverband angehört. Der Münchner Test autonomer On-Demand-Fahrzeuge ist dagegen noch keine Feldkirchner Entwicklung, kann aber eine **mögliche zukünftige Bedeutung** für die regionale Mobilität haben.
+
 ## Vier redaktionelle Ebenen
 
 ### 1. Presseschau – Was ist neu?
@@ -74,6 +78,8 @@ Ein Thema bündelt einen **konkreten Feldkirchner Vorgang oder Sachzusammenhang*
 
 Themen zeigen Verlauf, Entscheidungen, offene Fragen und Zusammenhänge. Sie werden fortgeschrieben, wenn neue Informationen hinzukommen.
 
+**Beispiel:** Das Thema „Bürgerbeteiligung und kommunale Mitwirkung“ verbindet die Feldkirchner Bürgerversammlung, Bürgerfragestunde und ihre jeweiligen Folgevorgänge.
+
 ### 4. Trends – Was könnte für Feldkirchen interessant werden?
 
 Trends bilden eine zusätzliche redaktionelle Ebene.
@@ -86,6 +92,8 @@ Ein Trend entsteht nur, wenn mindestens eines davon zutrifft:
 - eine Entwicklung verändert einen für Feldkirchen relevanten Bereich erkennbar,
 - ein besonders aussagekräftiges Modell wirft eine konkrete strategische Frage für Feldkirchen auf,
 - mehrere bestehende FIB-Themen lassen sich dadurch neu miteinander verbinden.
+
+**Beispiel:** Aus einem Jugendparlament in Hannover, einem Bürgerbudget in Jena und einem ausgelosten Bürgerrat in Aachen kann der Trend „Neue Wege kommunaler Bürgerbeteiligung“ entstehen. Die drei Meldungen sind verschieden; zusammen zeigen sie eine übergreifende Entwicklung.
 
 Kurz gesagt:
 
@@ -104,6 +112,8 @@ Trends können auf zwei Wegen entstehen:
 2. **Aus eigenständiger Zukunfts- und Hintergrundrecherche:** Wissenschaftliche, technische oder gesellschaftliche Entwicklungen können als Trend relevant werden, auch wenn zuvor noch keine Presseschau-Meldung dazu existiert.
 
 Damit ist die Presseschau ein wichtiger, aber **nicht der einzige Impulsgeber** für Trends.
+
+**Beispiel:** Ein Trend zur kommunalen Nutzung von Künstlicher Intelligenz könnte aus mehreren konkreten Meldungen entstehen. Er könnte aber auch direkt durch belastbare Studien oder Praxiserfahrungen ausgelöst werden, wenn diese erkennbar neue Möglichkeiten oder Risiken für Kommunen zeigen.
 
 ## Wissenschaftliche und technische Zukunftsrelevanz
 
@@ -127,6 +137,8 @@ Mögliche Auslöser sind zum Beispiel:
 
 Solche Beiträge werden transparent als **mögliche zukünftige Bedeutung für Feldkirchen** gekennzeichnet. Ein einzelner interessanter Forschungsbefund genügt nicht, wenn seine Belastbarkeit oder Übertragbarkeit noch zu unklar ist.
 
+**Beispiele:** Eine neue regionalisierte Klimaprojektion kann relevant werden, wenn sie Planungsannahmen zu Hitze oder Starkregen im Münchner Raum verändert. Bei KI reicht dagegen nicht jede neue Anwendung: interessant wird sie für FIB erst, wenn eine Kommune damit tatsächlich Verwaltungsleistungen, Beteiligung oder öffentliche Information verändert und belastbare Erfahrungen vorliegen.
+
 ## Warum Trends mehr Recherche erlauben
 
 Nicht jede wertvolle Quelle ist eine Nachricht.
@@ -134,6 +146,8 @@ Nicht jede wertvolle Quelle ist eine Nachricht.
 Für Trends darf FIB deshalb zusätzlich recherchieren und zum Beispiel Studien, Evaluationen, Fachartikel, Praxisberichte, Leitfäden oder weitere kommunale Beispiele auswerten.
 
 Diese Quellen müssen **nicht** als eigene Presseschau-Meldungen erscheinen. Sie dienen dazu, einen Trend besser zu verstehen.
+
+**Beispiel:** Beim Trend zur Bürgerbeteiligung sind die Meldungen aus Hannover, Jena und Aachen die sichtbaren Beispiele. Fachliteratur des Deutschen Instituts für Urbanistik oder wissenschaftliche Arbeiten zu Kooperation und Institutionen können den Trend erklären, ohne selbst zusätzliche Presseschau-Karten zu erzeugen.
 
 Damit unterscheiden wir bewusst zwischen:
 
@@ -242,5 +256,6 @@ Für naturwissenschaftliche und technische Trends wird dieser sozialwissenschaft
 
 | Version | Datum | Änderung |
 |---|---|---|
+| 1.2 | 26.09.2026 | Ausgewählte konkrete Beispiele ergänzt, um Zielbild, erweiterte Relevanz, Abgrenzung von Thema und Trend, Trend-Entstehung sowie wissenschaftlich-technische Zukunftsrelevanz anschaulicher zu machen, ohne das Dokument grundlegend zu verlängern. |
 | 1.1 | 26.09.2026 | Zielbild als strategische Ebene vor dem praktischen Zweck ergänzt; zwei Zugänge zu Trends beschrieben; wissenschaftlich-technische Zukunftsrelevanz aufgenommen; Forschungs- und Denkhorizont aus dem Seminar deutlich über Ostrom hinaus erweitert. |
 | 1.0 | 26.09.2026 | Erstfassung: Zweck von FIB, erweiterte Relevanz, Abgrenzung Presseschau/Sitzungen/Themen/Trends, Trend-Recherche und Umgang mit neuen gesellschaftlichen Perspektiven beschrieben. |
