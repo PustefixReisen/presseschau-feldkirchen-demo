@@ -10,8 +10,8 @@
       "status": "test_trend",
       "first_created": "2026-09-26",
       "last_substantive_update": "2026-09-26",
-      "lead": "Kommunen erproben Beteiligungsformen, die über Bürgerversammlung und klassische Anhörung hinausgehen – vom Jugendparlament über Bürgerbudgets bis zum ausgelosten Bürgerrat.",
-      "observation": "Die aktuellen Beispiele aus Hannover, Jena und Aachen zeigen unterschiedliche Versuche, Beteiligung verbindlicher, kontinuierlicher oder breiter zugänglich zu machen. Gemeinsam ist ihnen, dass Bürgerinnen und Bürger nicht nur informiert oder angehört werden, sondern klar definierte Mitwirkungsrechte oder Entscheidungsspielräume erhalten.",
+      "lead": "Kommunen probieren neue Wege aus, damit Bürgerinnen und Bürger nicht nur informiert werden, sondern tatsächlich mitreden, mitentscheiden oder eigene Ideen einbringen können.",
+      "observation": "Die Beispiele aus Hannover, Jena und Aachen zeigen drei unterschiedliche Wege: Jugendliche bekommen feste Mitwirkungsrechte, Bürgerinnen und Bürger entscheiden über ein eigenes Budget, und ausgeloste Einwohner beraten über kommunale Fragen. Gemeinsam ist diesen Modellen: Beteiligung wird verbindlicher organisiert und bekommt einen klareren Platz im politischen Alltag.",
       "contribution_refs": [
         "R090",
         "R091",
@@ -22,38 +22,53 @@
         {
           "name": "Deutsches Institut für Urbanistik – Kommunen strukturieren Beteiligung: Bausteine, Erfahrungen, Perspektiven",
           "url": "https://difu.de/publikationen/2024/kommunen-strukturieren-beteiligung-bausteine-erfahrungen-perspektiven",
-          "type": "background_study",
+          "type": "background_practice_research",
           "year": 2024,
-          "relevance": "Das Difu beschreibt strukturierte Beteiligung als kommunale Beteiligungskultur mit Leitlinien, Koordinierungsstellen, Vorhabenlisten, Beteiligungsgremien, Initiativrechten und Beteiligungsplattformen."
+          "relevance": "Das Difu zeigt anhand von 16 Städten, wie Kommunen Beteiligung dauerhaft organisieren können – etwa mit Leitlinien, Vorhabenlisten, Beteiligungsgremien und Plattformen – und welche Grenzen es gibt."
         },
         {
-          "name": "Deutsches Institut für Urbanistik – Von Beteiligung zur Koproduktion",
-          "url": "https://difu.de/publikationen/2022/von-beteiligung-zur-koproduktion",
-          "type": "background_study",
-          "year": 2022,
-          "relevance": "Die Veröffentlichung erweitert den Blick von Beteiligung auf Formen der Zusammenarbeit von Kommune und Bürgerschaft."
-        },
-        {
-          "name": "Elinor Ostrom – Beyond Markets and States: Polycentric Governance of Complex Economic Systems",
-          "url": "https://www.nobelprize.org/prizes/economic-sciences/2009/ostrom/lecture/",
-          "type": "conceptual_background",
-          "year": 2009,
-          "relevance": "Ostrom beschreibt polyzentrische Governance und untersucht institutionelle Arrangements jenseits einer einfachen Gegenüberstellung von Markt und Staat."
+          "name": "Bundeszentrale für politische Bildung – Jugendbeteiligung bei Bürgerbudgets",
+          "url": "https://www.bpb.de/themen/stadt-land/buergerhaushalt/512017/das-projekt-jubu-jugendbeteiligung-bei-burgerbudgets/",
+          "type": "background_explainer",
+          "year": 2020,
+          "relevance": "Die bpb erläutert verständlich, wie Bürgerbudgets Jugendlichen reale Gestaltungsmöglichkeiten geben können und welche Schritte von der Idee bis zur Umsetzung dazugehören."
         }
       ],
-      "assessment": "Die Beispiele deuten nicht auf ein einziges überlegenes Beteiligungsmodell hin. Sie zeigen vielmehr, dass Kommunen unterschiedliche Instrumente kombinieren können: gewählte Vertretungen für bestimmte Gruppen, direkte Entscheidungsspielräume über begrenzte Budgets und ausgeloste Beratungsgremien. Fachliteratur zur strukturierten Beteiligung betont zusätzlich, dass einzelne Formate erst dann dauerhaft wirken können, wenn sie in nachvollziehbare Verfahren und Rückkopplungen eingebettet sind.",
-      "feldkirchen_relevance": "Für Feldkirchen ist deshalb nicht nur die Frage interessant, welches einzelne Instrument übernommen werden könnte. Spannender ist, wie bestehende Formate – Bürgerversammlung, Bürgerfragestunde und projektbezogene Beteiligung – so ergänzt oder verbunden werden könnten, dass mehr Menschen wirksam mitgestalten und nachvollziehen können, was aus ihren Vorschlägen wird.",
+      "assessment": "Die Beispiele zeigen nicht das eine richtige Beteiligungsmodell. Sie zeigen unterschiedliche Bausteine: gewählte Vertretungen, einen kleinen eigenen Entscheidungsspielraum über Geld und ausgeloste Beratung. Erfahrungen aus der Kommunalforschung sprechen dafür, solche Angebote nicht isoliert zu betrachten. Wichtig sind klare Regeln, verständliche Zuständigkeiten und vor allem eine sichtbare Rückmeldung darüber, was mit Vorschlägen anschließend geschieht.",
+      "feldkirchen_relevance": "Feldkirchen hat mit Bürgerversammlung, Bürgerfragestunde und projektbezogener Beteiligung bereits mehrere Formen der Mitwirkung. Gleichzeitig gibt es mit dem laufenden Antrag zur Bildung einer Arbeitsgruppe „Grünplanung und Mobilität“ einen konkreten lokalen Ansatz, Bürgerinnen und Bürger, Politik und fachliche Planung stärker zusammenzubringen. Der Trend ist deshalb nicht nur ein Blick auf andere Städte: Er kann helfen zu prüfen, wie bestehende und neue Beteiligungsformen in Feldkirchen sinnvoll zusammenspielen könnten.",
       "open_questions": [
         "Welche Gruppen werden mit den bestehenden Feldkirchner Beteiligungsformaten gut erreicht – und welche kaum?",
+        "Wie könnte die geplante Arbeitsgruppe Grünplanung und Mobilität so ausgestaltet werden, dass Beteiligung wirksam und nachvollziehbar bleibt?",
         "Wo wäre ein echter, aber begrenzter Entscheidungsspielraum für Bürgerinnen und Bürger denkbar?",
         "Welche Form der Jugendbeteiligung wäre für eine Gemeinde der Größe Feldkirchens angemessen?",
-        "Wie könnte transparent sichtbar werden, was aus Bürgervorschlägen und Beteiligungsergebnissen wird?",
-        "Welche Elemente strukturierter Beteiligung wären mit vertretbarem organisatorischem Aufwand umsetzbar?"
+        "Wie könnte sichtbar werden, was aus Bürgervorschlägen und Beteiligungsergebnissen wird?"
       ],
       "related_topics": [
-        "T008"
+        "T008",
+        "T002",
+        "T003"
       ],
-      "editorial_note": "Trendbeitrag, keine lokale politische Position und keine Handlungsempfehlung."
+      "editorial_note": "Trendbeitrag, keine lokale politische Position und keine Handlungsempfehlung.",
+      "conceptual_background": [
+        {
+          "name": "Elinor Ostrom – polyzentrische Governance und Selbstorganisation",
+          "visibility": "background_only",
+          "note": "Konzeptioneller Denkanstoß; nicht als sichtbare Hauptquelle erforderlich."
+        },
+        {
+          "name": "Weitere Ansätze aus dem FIB-Denkhorizont zu Kooperation, Anerkennung, Deliberation und Macht",
+          "visibility": "background_only",
+          "note": "Je nach Fragestellung selektiv verwenden; keine einzelne Theorie ist Leitmodell."
+        }
+      ],
+      "local_context": [
+        {
+          "title": "Laufender Antrag: Arbeitsgruppe Grünplanung und Mobilität",
+          "source_type": "local_green_background",
+          "public_link": null,
+          "note": "Für den Transfer auf Feldkirchen berücksichtigen; nicht als öffentlich abrufbare Quelle darstellen."
+        }
+      ]
     }
   ]
 }
