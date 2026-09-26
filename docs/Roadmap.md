@@ -4,7 +4,7 @@
 
 | Version | Stand | Verantwortlich |
 |---|---|---|
-| 1.2 | 21.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
+| 1.3 | 26.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
 
 ## Statusmodell
 
@@ -51,6 +51,17 @@ Vor Beginn der Programmierung des Echtsystems wird deshalb ein verbindlicher Üb
 - robuste statische bzw. generierte Ausgabe ohne Abhängigkeit von historisch gewachsenen Update-Skripten,
 - nachvollziehbare Updateprotokolle mit „neu / geändert / geprüft ohne Änderung“.
 
+Für den **Echtbetrieb** ist zusätzlich verbindlich vorgesehen:
+
+- Bereitstellung von FIB als installierbare **Progressive Web App (PWA)** auf unterstützten Endgeräten,
+- eigenes FIB-App-Icon und Start im App-/Standalone-Modus,
+- eine für Nutzer leicht zugängliche Installationsmöglichkeit; die eigentliche Installation erfolgt nach Zustimmung über den jeweiligen Browser bzw. das Betriebssystem,
+- Unterstützung von Benachrichtigungen über neue Beiträge und wesentliche Aktualisierungen bestehender Beiträge,
+- Kennzeichnung ungelesener Meldungen durch einen internen Zähler in FIB und – soweit vom jeweiligen Betriebssystem/Launcher unterstützt – zusätzlich durch ein Badge bzw. einen Hinweis am App-Icon,
+- keine Festlegung auf eine bestimmte Badge-Darstellung (z. B. Zahl oder Punkt), da diese vom Endgerät abhängen kann.
+
+Die technische Ausgestaltung von Push-Dienst, Berechtigungsmodell, Zählerlogik, Gelesen-Status, Datenschutz und Offline-Verhalten wird erst bei Vorbereitung der Echtbetriebsumsetzung verbindlich festgelegt.
+
 Für die Echtbetriebsarchitektur ist fachliche Parität mit dem aktuellen dokumentierten Demonstratorstand ein Abnahmekriterium. Verbesserungen, die bis zum Entwicklungsstart hinzukommen, werden über die kanonischen Projektdokumente automatisch Bestandteil dieses Sollstands.
 
 ## Nächster konkreter Schritt
@@ -63,6 +74,7 @@ Danach folgt **#12** zur konsolidierten Echtbetriebsarchitektur. Erst auf dieser
 
 | Version | Datum | Änderung |
 |---|---|---|
+| 1.3 | 26.09.2026 | PWA-Installation, App-Icon, Benachrichtigungen und Ungelesen-Zähler/Badge als verbindliche Anforderungen für den Echtbetrieb ergänzt; technische Detailentscheidungen auf die spätere Umsetzungsplanung vertagt. |
 | 1.2 | 21.09.2026 | Verbindlichen Übernahmecheck Demonstrator → Echtsystem ergänzt; fachliche Parität mit dem dokumentierten Demonstratorstand als Abnahmekriterium festgelegt. |
 | 1.1 | 12.09.2026 | Bestandsaudit abgeschlossen; Folgearbeiten #11 und #12 als verbindliche nächste Schritte verankert |
 | 1.0 | 12.09.2026 | Roadmap als aktives Steuerungsdokument eingeführt |
