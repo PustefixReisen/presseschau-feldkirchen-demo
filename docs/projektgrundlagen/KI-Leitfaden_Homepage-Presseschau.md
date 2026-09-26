@@ -1,6 +1,6 @@
 # KI-Leitfaden Homepage-Presseschau Feldkirchen
 
-**Version 2.5 · Stand 26.09.2026**
+**Version 2.6 · Stand 26.09.2026**
 
 > Kanonische Markdown-Fassung für GitHub. Inhaltlich übernommen aus der bisherigen Projektbibliothek und um verbindliche Projektentscheidungen fortgeschrieben.
 
@@ -228,6 +228,57 @@ Direkte Vorlagenlinks werden nur angezeigt, wenn das konkrete Dokument funktions
 
 Potenzielle Themen entstehen aus wiederkehrenden Sitzungs-TOPs, mehreren Beiträgen, länger laufenden Planungsprozessen oder verbundenen Konzepten/Maßnahmen. Die Themendarstellung ist zunächst analytisch-neutral und zeigt Zusammenhänge, Entwicklung, Entscheidungen, Akteure, aktuellen Stand und offene Fragen. Eine reine Chronologie reicht nicht aus. Ein freigegebenes Thema bleibt erhalten und wird bei wesentlichen neuen Informationen aktualisiert.
 
+## 8.1 Trends – redaktionelle Beobachtungs- und Vertiefungsebene
+
+Neben Presseschau, Sitzungen und etablierten Themen führt FIB die redaktionelle Ebene **„Trends“**. Sie dient dazu, Entwicklungen zu bündeln und zu vertiefen, die für die zukünftige Gestaltung Feldkirchens interessant sein können, ohne bereits ein konkreter Feldkirchner Vorgang oder ein etabliertes lokales Thema zu sein.
+
+Ein Trend beantwortet vor allem die Frage: **„Was entwickelt sich – und was könnte Feldkirchen daraus lernen?“**
+
+### Abgrenzung
+
+- **Presseschau-Beitrag:** konkrete neue Entwicklung mit ausreichender FIB-Relevanz.
+- **Thema:** länger laufender, konkreter Feldkirchner Vorgang oder Sachzusammenhang, der dauerhaft fortgeschrieben wird.
+- **Trend:** übergreifende Entwicklung, wiederkehrendes Muster, neue Praxis oder neue Perspektive mit plausibler möglicher Bedeutung für Feldkirchen.
+
+Ein Trend wird nur angelegt, wenn mindestens eines der folgenden Kriterien erfüllt ist:
+- mehrere Fundstellen weisen in dieselbe Richtung,
+- eine Entwicklung verändert einen für Feldkirchen relevanten Bereich erkennbar,
+- ein besonders aussagekräftiges Modell wirft eine konkrete strategische Frage für Feldkirchen auf,
+- mehrere bestehende FIB-Themen lassen sich durch die Entwicklung sinnvoll neu miteinander verbinden.
+
+### Eigene Rechercheebene
+
+Trend-Recherche ist eine eigenständige Vertiefungsrecherche und nicht auf veröffentlichungsfähige Presseschau-Meldungen beschränkt. Zusätzlich zu FIB-Beiträgen dürfen insbesondere verwendet werden:
+- Studien und Evaluationen,
+- wissenschaftliche und fachliche Veröffentlichungen,
+- kommunale Praxisberichte und Leitfäden,
+- Hintergrundpapiere von Fachinstituten und Verbänden,
+- weitere kommunale Beispiele,
+- belastbare Daten und Erfahrungsberichte.
+
+Solche Fundstellen werden als **Hintergrundquellen** eines Trends geführt und müssen nicht als eigene Meldungen in der Presseschau erscheinen. Damit wird ausdrücklich zwischen **„relevant als Quelle“** und **„relevant als Meldung“** unterschieden.
+
+### Aufbau eines Trends
+
+Ein Trend soll nach Möglichkeit folgende Bestandteile enthalten:
+1. **Was wir beobachten** – Beschreibung der Entwicklung.
+2. **Beispiele / Auslöser** – relevante FIB-Beiträge oder externe Praxisfälle.
+3. **Hintergrund** – zusätzliche Fach- und Wissensquellen.
+4. **Was sich daraus erkennen lässt** – quellengebundene redaktionelle Verdichtung.
+5. **Mögliche Bedeutung für Feldkirchen** – plausible Übertragbarkeit, Chancen, Grenzen und Voraussetzungen.
+6. **Offene Fragen** – was vor einer lokalen Bewertung oder Umsetzung geklärt werden müsste.
+7. **Verknüpfte Themen** – bestehende FIB-Themen, sofern vorhanden.
+
+### Perspektiven und demokratische Ziele
+
+Trends dürfen neue gesellschaftliche, demokratische und institutionelle Perspektiven aufgreifen, sofern sie fachlich begründet und für kommunale Gestaltung relevant sind. Dazu gehören auch Ansätze, die Kooperation, Selbstorganisation, Gemeingüter, Koproduktion von Kommune und Bürgerschaft oder polyzentrische Steuerung untersuchen und damit über eine einfache Gegenüberstellung von Markt und Staat hinausgehen.
+
+Solche Denkansätze werden als **Analyse- und Inspirationsquellen** behandelt. Sie sind weder automatisch lokale Positionen von BÜNDNIS 90/DIE GRÜNEN Feldkirchen noch politische Forderungen. Der Trend stellt zunächst dar, was beobachtet wird, welche Erfahrungen oder Erkenntnisse vorliegen und welche Fragen sich daraus für Feldkirchen ergeben können.
+
+### Politische Neutralität der Trendanalyse
+
+Trend-Beiträge dürfen keine lokale politische Position erfinden oder vorwegnehmen. Sie sollen Perspektiven öffnen, Unterschiede und Zielkonflikte sichtbar machen und mögliche kommunale Gestaltungsspielräume beschreiben. Wo Bewertungen aus externen Quellen übernommen werden, werden sie zugeschrieben. Eine spätere lokale politische Position oder „Unsere Einordnung“ bleibt davon getrennt.
+
 ## 9. Unsere Einordnung
 
 ### 9.1 Drei-Ebenen-Prinzip
@@ -264,6 +315,7 @@ Vor Veröffentlichung werden Tatsachen, Datumsangaben, Rollen, Links, Quellen, Z
 
 | Version | Datum | Änderung |
 |---|---|---|
+| 2.6 | 26.09.2026 | Neue redaktionelle Ebene „Trends“ eingeführt: klare Abgrenzung zu Presseschau und Themen, eigene Vertiefungsrecherche mit Hintergrundquellen, strukturierte Trendanalyse sowie Regeln für neue gesellschaftliche Perspektiven, Kooperation, Koproduktion und polyzentrische Steuerung ohne automatische Ableitung lokaler Parteipositionen. |
 | 2.5 | 26.09.2026 | Erweiterte Relevanz mit institutionellem, räumlichem, infrastrukturellem, thematischem sowie Pilot-/Vergleichsbezug eingeführt; „mögliche zukünftige Bedeutung“ ausdrücklich als Relevanzkriterium verankert. Zusätzlich gesellschaftlich-demokratische Relevanz mit bundesweiter Suche nach konkret übertragbaren kommunalen Beteiligungs- und Gestaltungsmodellen aufgenommen; transparente Kennzeichnung des Feldkirchen-Bezugs verbindlich gemacht. |
 | 2.2 | 21.09.2026 | Lokale grüne Anträge im Bibliotheksordner `Arbeitsdaten/Anträge-Gruene-Feldkirchen` als feste interne Hintergrundquelle verankert; Regeln für Themenpflege, Einordnung, Recherchelenkung und spätere Verknüpfung mit öffentlichen RIS-/Pressequellen ergänzt. |
 | 2.4 | 24.09.2026 | Redaktionelle Korrekturen von echten Sachstands-Aktualisierungen abgegrenzt: reine Fehlerkorrekturen erhalten keinen öffentlichen Aktualisierungshinweis. |
