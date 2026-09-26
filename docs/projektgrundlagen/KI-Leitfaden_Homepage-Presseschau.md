@@ -1,6 +1,6 @@
 # KI-Leitfaden Homepage-Presseschau Feldkirchen
 
-**Version 2.2 · Stand 21.09.2026**
+**Version 2.5 · Stand 26.09.2026**
 
 > Kanonische Markdown-Fassung für GitHub. Inhaltlich übernommen aus der bisherigen Projektbibliothek und um verbindliche Projektentscheidungen fortgeschrieben.
 
@@ -124,6 +124,45 @@ Für regelmäßig relevante Pressequellen werden daher zusätzlich zu Suchmaschi
 
 Beispielhafte thematische Suchbegriffe im Bereich Mobilität sind unter anderem B471, B471 neu, A99, A94, Autobahnkreuz München-Ost, M18, EBE4, Ortsumfahrung Feldkirchen und MobilityHub. Diese Liste ist nicht abschließend; sie wird aus dem aktuellen Themenbestand abgeleitet.
 
+
+### 4.1.4 Erweiterte Relevanz außerhalb Feldkirchens
+
+FIB berücksichtigt neben unmittelbar Feldkirchen betreffenden Vorgängen auch Entwicklungen außerhalb Feldkirchens, wenn sich eine **konkrete mittelbare oder mögliche zukünftige Bedeutung für Feldkirchen** nachvollziehbar begründen lässt. Die Erweiterung dient nicht dazu, FIB zu einer allgemeinen Regional- oder Nachrichtenübersicht auszubauen.
+
+Eine Fundstelle kann insbesondere relevant sein bei:
+
+- **institutionellem Bezug:** Eine in Feldkirchen aktive Organisation, Einrichtung oder deren übergeordnete Struktur ist betroffen.
+- **räumlichem Bezug:** Eine Entwicklung in Nachbargemeinden, im Landkreis München oder in der Landeshauptstadt München kann aufgrund räumlicher Nähe Auswirkungen auf Feldkirchen haben.
+- **infrastrukturellem Bezug:** Verkehrs-, Energie-, Umwelt-, Bildungs- oder sonstige Infrastruktur betrifft Netze oder Räume, in die Feldkirchen eingebunden ist.
+- **thematischem Bezug:** Eine Entwicklung betrifft ein bereits etabliertes FIB-Thema und liefert dafür neue Erkenntnisse, Vergleichswerte oder absehbare Handlungsoptionen.
+- **Pilot-, Vergleichs- oder Vorbildcharakter:** Ein Projekt in der näheren Region erprobt eine Lösung, die aufgrund vergleichbarer Rahmenbedingungen für Feldkirchen relevant werden könnte.
+- **möglicher zukünftiger Bedeutung:** Eine heute noch nicht in Feldkirchen wirksame Entwicklung kann aufgenommen werden, wenn eine spätere Bedeutung für Feldkirchen konkret und plausibel begründet werden kann. Eine bloß abstrakte Möglichkeit genügt nicht.
+
+Ein lediglich allgemein interessantes oder thematisch ähnliches Ereignis reicht nicht aus. Für jeden Beitrag mit erweiterter Relevanz wird der Feldkirchen-Bezug transparent erläutert, vorzugsweise unter **„Warum für Feldkirchen interessant“** oder einer gleichwertigen kurzen Kennzeichnung. Belegte aktuelle Wirkungen, plausible zukünftige Auswirkungen und bloße Möglichkeiten werden sprachlich klar voneinander getrennt.
+
+Bei mittelbaren Treffern wird nach Möglichkeit eine **Resonanz- bzw. Wirkungsprüfung** durchgeführt: Gibt es Stellungnahmen betroffener Organisationen, konkrete Leistungen oder Abhängigkeiten für Feldkirchen, bekannte Folgewirkungen oder andere Quellen, die den mittelbaren Bezug präzisieren?
+
+Der Suchraum wird gestaffelt genutzt: Feldkirchen → Nachbarkommunen → Landkreis München → Landeshauptstadt München → Bayern/Bund nur bei hinreichend konkretem institutionellem, sachlichem oder künftigem Feldkirchen-Bezug.
+
+### 4.1.5 Gesellschaftlich-demokratische Relevanz
+
+FIB kann bundesweit nach **konkreten kommunalen Projekten, Verfahren und Entwicklungen** recherchieren, die Bürgerinnen und Bürgern nachvollziehbare Gestaltungsmöglichkeiten im unmittelbaren Lebensumfeld eröffnen, gesellschaftliche Teilhabe fördern oder den Austausch zwischen Bürgerschaft, Politik und Verwaltung verbessern.
+
+Eine Fundstelle wird nur berücksichtigt, wenn:
+
+- es sich um eine **konkrete kommunale Praxis oder ein konkret umsetzbares Modell** handelt,
+- ein nachvollziehbarer Erkenntniswert für eine Gemeinde wie Feldkirchen beschrieben werden kann,
+- eine grundsätzliche Übertragbarkeit auf Feldkirchen plausibel ist,
+- und deutlich bleibt, dass es sich um ein Beispiel bzw. um eine **mögliche zukünftige Gestaltungsmöglichkeit** handelt und nicht um eine für Feldkirchen bereits beschlossene Maßnahme.
+
+Mögliche Themen sind insbesondere Bürgerbudgets/Beteiligungshaushalte, Bürgerräte oder ausgeloste Beteiligungsgruppen, Jugendparlamente und Jugendbudgets, niedrigschwellige analoge oder digitale Beteiligungsformate, aufsuchende Beteiligung, gemeinschaftliche Ortsgestaltung, transparente Rückmeldung zu Bürgervorschlägen sowie kommunale Dialog- und Begegnungsformate.
+
+**Nicht ausreichend** sind allgemeine politische Debatten, abstrakte Demokratieanalysen, reine Parteipositionen oder beliebige gute Praxis ohne nachvollziehbaren kommunalen Übertragungswert.
+
+Wegen des bundesweiten Suchraums gilt eine hohe Veröffentlichungsschwelle: Aufgenommen werden nur besonders aussagekräftige Entwicklungen, die einen neuen Ansatz zeigen, eine bestehende FIB-Frage besonders gut beantworten oder einen außergewöhnlich gut dokumentierten und grundsätzlich übertragbaren Praxisfall darstellen. Damit bleibt FIB lokal verankert und wird nicht zu einer allgemeinen politischen Ideensammlung.
+
+Auch hier wird die Relevanz im Beitrag transparent gemacht, etwa unter **„Warum für Feldkirchen interessant“** bzw. **„Mögliche Bedeutung für Feldkirchen“**. Die Darstellung bleibt sachlich; Nutzen, Grenzen, noch offene Wirkungen und Übertragbarkeitsannahmen werden kenntlich gemacht.
+
 ### 4.2 Parteien und Wählervereinigungen
 Öffentliche Auftritte politisch aktiver Parteien und Wählervereinigungen werden berücksichtigt, mit erhöhter Relevanzschwelle. Konkrete kommunalpolitische Anträge, Initiativen, Änderungsvorschläge und Reaktionen auf Entscheidungen sind relevant. Parteiquellen sind grundsätzlich Positionsquellen; überprüfbare Sachbehauptungen werden möglichst unabhängig verifiziert und politische Positionen klar zugeschrieben.
 
@@ -225,6 +264,7 @@ Vor Veröffentlichung werden Tatsachen, Datumsangaben, Rollen, Links, Quellen, Z
 
 | Version | Datum | Änderung |
 |---|---|---|
+| 2.5 | 26.09.2026 | Erweiterte Relevanz mit institutionellem, räumlichem, infrastrukturellem, thematischem sowie Pilot-/Vergleichsbezug eingeführt; „mögliche zukünftige Bedeutung“ ausdrücklich als Relevanzkriterium verankert. Zusätzlich gesellschaftlich-demokratische Relevanz mit bundesweiter Suche nach konkret übertragbaren kommunalen Beteiligungs- und Gestaltungsmodellen aufgenommen; transparente Kennzeichnung des Feldkirchen-Bezugs verbindlich gemacht. |
 | 2.2 | 21.09.2026 | Lokale grüne Anträge im Bibliotheksordner `Arbeitsdaten/Anträge-Gruene-Feldkirchen` als feste interne Hintergrundquelle verankert; Regeln für Themenpflege, Einordnung, Recherchelenkung und spätere Verknüpfung mit öffentlichen RIS-/Pressequellen ergänzt. |
 | 2.4 | 24.09.2026 | Redaktionelle Korrekturen von echten Sachstands-Aktualisierungen abgegrenzt: reine Fehlerkorrekturen erhalten keinen öffentlichen Aktualisierungshinweis. |
 | 2.3 | 24.09.2026 | Regeln für mehrere Aktualisierungen ergänzt: im Untertitel nur die neueste Aktualisierung, frühere Änderungen in eigenem Verlauf; Abgrenzung zwischen Fortschreibung eines bestehenden Beitrags und eigenständigem neuen Beitrag festgelegt. |
