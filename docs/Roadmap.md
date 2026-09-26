@@ -4,7 +4,7 @@
 
 | Version | Stand | Verantwortlich |
 |---|---|---|
-| 1.3 | 26.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
+| 1.4 | 26.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
 
 ## Statusmodell
 
@@ -14,9 +14,9 @@ Es gelten die zentralen Roadmap-Status aus `PustefixReisen/pustivo/docs/governan
 
 | Phase | Status | Ergebnis / nächster Schritt |
 |---|---|---|
-| Demonstrator und Darstellung | **Teilweise umgesetzt** | Demonstrator vorhanden; Darstellung und Inhaltslogik können weiter konsolidiert werden |
+| Demonstrator und Darstellung | **Teilweise umgesetzt** | Demonstrator vorhanden; neue Rubrik `Trends` mit erstem Testfall zur kommunalen Bürgerbeteiligung ergänzt; Wirkung und Abgrenzung im Praxistest prüfen |
 | Quellenmonitor / Rechercheunterstützung | **Teilweise umgesetzt** | Fach- und Architekturunterlagen vorhanden; produktive Integration noch nicht als Echtbetrieb nachgewiesen |
-| Projektdokumentation konsolidieren | **In Arbeit** | Bestandsaudit abgeschlossen; fachliche/redaktionelle Primärquellen über #11 vervollständigen |
+| Projektdokumentation konsolidieren | **In Arbeit** | Allgemein verständliches inhaltliches Konzept angelegt; fachliche/redaktionelle Primärquellen über #11 weiter vervollständigen |
 | Echtbetriebsarchitektur | **In Arbeit** | Architektur-, Betriebs-, Sicherheits-, Daten-, Deployment- und Backupentscheidungen über #12 verbindlich konsolidieren |
 | Produktivsetzung | **Geplant** | erst nach Abschluss der wesentlichen Fach- und Echtbetriebsgrundlagen |
 
@@ -46,6 +46,7 @@ Vor Beginn der Programmierung des Echtsystems wird deshalb ein verbindlicher Üb
 - persistente Recherchehistorie und Erkennung bereits geprüfter Fundstellen,
 - Quellen- und Verifikationsstatus je Aussage bzw. Beitrag,
 - Themenfortschreibung und Verknüpfung neuer Beiträge mit bestehenden Vorgängen,
+- Trend-Ebene mit eigener Vertiefungsrecherche, Hintergrundquellen und transparenter Abgrenzung zu Meldung, Thema und lokaler politischer Position,
 - getrennte Sachinformation und „Unsere Einordnung“,
 - redaktioneller Prüf-/Freigabestatus,
 - robuste statische bzw. generierte Ausgabe ohne Abhängigkeit von historisch gewachsenen Update-Skripten,
@@ -74,6 +75,7 @@ Danach folgt **#12** zur konsolidierten Echtbetriebsarchitektur. Erst auf dieser
 
 | Version | Datum | Änderung |
 |---|---|---|
+| 1.4 | 26.09.2026 | Neue Rubrik `Trends`, eigener Trend-Datenbestand und erstes Testthema Bürgerbeteiligung in die Demonstrator-Roadmap aufgenommen; allgemein verständliches inhaltliches Konzept als neue Diskussionsgrundlage berücksichtigt. |
 | 1.3 | 26.09.2026 | PWA-Installation, App-Icon, Benachrichtigungen und Ungelesen-Zähler/Badge als verbindliche Anforderungen für den Echtbetrieb ergänzt; technische Detailentscheidungen auf die spätere Umsetzungsplanung vertagt. |
 | 1.2 | 21.09.2026 | Verbindlichen Übernahmecheck Demonstrator → Echtsystem ergänzt; fachliche Parität mit dem dokumentierten Demonstratorstand als Abnahmekriterium festgelegt. |
 | 1.1 | 12.09.2026 | Bestandsaudit abgeschlossen; Folgearbeiten #11 und #12 als verbindliche nächste Schritte verankert |
