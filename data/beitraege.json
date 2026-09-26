@@ -1,16 +1,16 @@
 {
   "schema_version": "2.0",
   "work_package": "canonical",
-  "status": "canonical_after_standard_update_2026-09-25",
+  "status": "canonical_after_standard_update_2026-09-26",
   "research_window": {
     "from": "2025-08-27",
-    "to": "2026-09-25"
+    "to": "2026-09-26"
   },
   "source_basis": [
     "recherchebestand.json",
     "sitzungsbestand.json"
   ],
-  "contribution_count": 73,
+  "contribution_count": 75,
   "editorial_rules": [
     "No methodological or demonstrator text inside public contribution content.",
     "Sachinformation is neutral; political assessment is a separate optional field.",
@@ -21,6 +21,114 @@
     "Unsere Einordnung was audited on 2026-08-29 for citizen-oriented political language per KI-Leitfaden 0.8."
   ],
   "contributions": [
+    {
+      "id": "R084",
+      "date": "2026-09-25",
+      "publication_date": "2026-09-25",
+      "category": "Kommunalpolitik & Beteiligung",
+      "topic_candidates": [
+        "Bürgerversammlung",
+        "Bürgerbeteiligung",
+        "Gemeinderat"
+      ],
+      "title": "Bürgerversammlung am 21. Oktober mit Livestream",
+      "subtitle": "Die Gemeinde lädt für den 21. Oktober ins Rathaus; vorgesehen sind Berichte des Bürgermeisters und der Polizei sowie eine Aussprache.",
+      "sachinformation": "Die Gemeinde Feldkirchen hat die Bürgerversammlung für Mittwoch, 21. Oktober 2026, um 19 Uhr im großen Sitzungssaal des Rathauses angekündigt. Die Veranstaltung soll auch als Livestream übertragen werden. Auf der Tagesordnung stehen der Bericht des Ersten Bürgermeisters, ein Grußwort des Landrats, der Bericht der Polizei und die Aussprache.\n\nNach den von der Gemeinde veröffentlichten Hinweisen können anwesende wahlberechtigte Gemeindebürgerinnen und Gemeindebürger zu gemeindlichen Angelegenheiten das Wort ergreifen. Mehrheitsbeschlüsse der Bürgerversammlung in Form von Anträgen oder Empfehlungen sind innerhalb von drei Monaten vom Gemeinderat zu behandeln.",
+      "sources": [
+        {
+          "name": "Gemeinde Feldkirchen – Bürgerversammlung in Feldkirchen",
+          "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/buergerversammlung-in-feldkirchen",
+          "type": "primary_official",
+          "date": "2026-09-25",
+          "date_basis": "publication_date",
+          "date_status": "verified"
+        }
+      ],
+      "bisheriger_verlauf": [
+        {
+          "id": "R007",
+          "date": "2025-10-22",
+          "title": "Bürgerversammlung bringt Anträge zu Radwegen, Tempo 30 und Klimazielen"
+        },
+        {
+          "id": "R012",
+          "date": "2025-12-04",
+          "title": "Gemeinderat greift mehrere Anträge aus der Bürgerversammlung auf"
+        },
+        {
+          "id": "R083",
+          "date": "2026-09-17",
+          "title": "Gemeinderatssitzung vom 17. September"
+        }
+      ],
+      "unsere_einordnung": null,
+      "council": null,
+      "research_refs": [
+        "R084"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen",
+        "related_places": [
+          "Feldkirchen"
+        ],
+        "scope": "feldkirchen_direct",
+        "verification_status": "verified_2026-09-26"
+      },
+      "established_topic_refs": [
+        {
+          "id": "T008",
+          "title": "Bürgerbeteiligung und kommunale Mitwirkung"
+        }
+      ],
+      "stage_update_meta": {
+        "created_at": "2026-09-26",
+        "source_status": "verified_official_local_news"
+      }
+    },
+    {
+      "id": "R085",
+      "date": "2026-09-25",
+      "publication_date": "2026-09-25",
+      "category": "Mobilität & Verkehr",
+      "topic_candidates": [
+        "S-Bahn",
+        "S2",
+        "ÖPNV",
+        "Baustellen"
+      ],
+      "title": "S2: Bauarbeiten bringen im Herbst Ersatzverkehr und geänderte Fahrwege",
+      "subtitle": "Die Gemeinde weist auf mehrere Bauphasen im Oktober und November hin; einzelne Ersatzverkehre reichen bis Ostbahnhof beziehungsweise Riem.",
+      "sachinformation": "Die Gemeinde Feldkirchen weist auf Einschränkungen der S-Bahn-Linie S2 im Herbst hin. Von 9. Oktober, 21:30 Uhr, bis 30. November, 3:30 Uhr, wird zwischen Markt Schwaben und Erding durchgehend Bus-Ersatzverkehr eingerichtet.\n\nZusätzlich gibt es im Oktober mehrere nächtliche Änderungen, die den westlicheren Abschnitt der S2 betreffen: Züge aus Richtung Erding beginnen oder enden zeitweise am Ostbahnhof beziehungsweise Leuchtenbergring; vom 19. bis 24. Oktober ist nachts Bus-Ersatzverkehr zwischen Ostbahnhof beziehungsweise Riem und Erding angekündigt, vom 24. bis 31. Oktober zwischen Ostbahnhof und Markt Schwaben beziehungsweise Erding. Die Gemeinde empfiehlt, die aktuellen Verbindungen vor Fahrtantritt zu prüfen.",
+      "sources": [
+        {
+          "name": "Gemeinde Feldkirchen – S-Bahn-Bauarbeiten: Ersatzverkehr mit Bussen",
+          "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/s-bahn-bauarbeiten-ersatzverkehr-mit-bussen",
+          "type": "primary_official",
+          "date": "2026-09-25",
+          "date_basis": "publication_date",
+          "date_status": "verified"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": null,
+      "research_refs": [
+        "R085"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen",
+        "related_places": [
+          "Feldkirchen"
+        ],
+        "scope": "feldkirchen_direct",
+        "verification_status": "verified_2026-09-26"
+      },
+      "established_topic_refs": [],
+      "stage_update_meta": {
+        "created_at": "2026-09-26",
+        "source_status": "verified_official_local_news"
+      }
+    },
     {
       "id": "R083",
       "date": "2026-09-17",
