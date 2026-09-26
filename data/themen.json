@@ -394,7 +394,13 @@
             "level": "state_municipal"
           }
         ]
-      }
+      },
+      "related_trends": [
+        {
+          "id": "TR001",
+          "title": "Neue Wege kommunaler Bürgerbeteiligung"
+        }
+      ]
     },
     {
       "id": "T003",
@@ -596,7 +602,13 @@
         "changes": [
           "Stage-C neighbor event R051 added to historical context"
         ]
-      }
+      },
+      "related_trends": [
+        {
+          "id": "TR001",
+          "title": "Neue Wege kommunaler Bürgerbeteiligung"
+        }
+      ]
     },
     {
       "id": "T004",
@@ -1181,7 +1193,13 @@
             "level": "state_municipal"
           }
         ]
-      }
+      },
+      "related_trends": [
+        {
+          "id": "TR001",
+          "title": "Neue Wege kommunaler Bürgerbeteiligung"
+        }
+      ]
     },
     {
       "id": "T009",
