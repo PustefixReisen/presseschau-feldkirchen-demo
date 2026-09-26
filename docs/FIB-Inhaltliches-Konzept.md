@@ -4,21 +4,41 @@
 
 | Version | Stand | Verantwortlich |
 |---|---|---|
-| 1.0 | 26.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
+| 1.1 | 26.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
+
+## Zielbild
+
+Feldkirchen im Blick soll einen Beitrag zu einer **offenen, lernfähigen und zukunftsorientierten kommunalen Öffentlichkeit** leisten.
+
+Menschen sollen lokale Entwicklungen nicht nur als einzelne Nachrichten wahrnehmen, sondern Zusammenhänge verstehen, unterschiedliche Perspektiven kennenlernen und erkennen können, **wo und wie kommunale Gestaltung möglich ist**.
+
+FIB soll dazu beitragen,
+
+- lokale Entscheidungen und Entwicklungen verständlich und nachvollziehbar zu machen,
+- demokratische Mitwirkung und Selbstwirksamkeit im unmittelbaren Lebensumfeld sichtbar zu machen,
+- neue gesellschaftliche, wissenschaftliche und technische Entwicklungen frühzeitig auf ihre mögliche Bedeutung für Feldkirchen zu prüfen,
+- Erfahrungen anderer Kommunen und neue Denkansätze als Lernchancen zugänglich zu machen,
+- Zielkonflikte, Unsicherheiten und unterschiedliche Handlungsoptionen sichtbar zu halten,
+- und damit eine informierte, sachliche und offene Diskussion über die zukünftige Entwicklung Feldkirchens zu unterstützen.
+
+FIB soll dabei **keine fertigen Antworten vorgeben**. Es soll Orientierung, Vergleichsmöglichkeiten und neue Perspektiven schaffen, damit Bürgerinnen und Bürger, Politik, Verwaltung und Zivilgesellschaft fundierter über Gestaltungsmöglichkeiten sprechen können.
 
 ## Wozu gibt es Feldkirchen im Blick?
 
-**Feldkirchen im Blick (FIB)** soll Menschen dabei helfen, Entwicklungen in und um Feldkirchen besser zu verstehen und einzuordnen.
+Der praktische Zweck von FIB besteht darin, die für dieses Ziel notwendigen Informationen zu finden, zu ordnen, zu erklären und miteinander zu verbinden.
 
-Viele Informationen liegen verteilt vor: in Presseberichten, Gemeinderatsunterlagen, Mitteilungen der Gemeinde, bei Vereinen und Initiativen oder in Dokumenten von Landkreis, Behörden und Verbänden. FIB führt diese Informationen zusammen, macht Zusammenhänge sichtbar und zeigt, wo sich Entwicklungen über längere Zeit fortsetzen.
+Viele Informationen liegen verteilt vor: in Presseberichten, Gemeinderatsunterlagen, Mitteilungen der Gemeinde, bei Vereinen und Initiativen, in Dokumenten von Landkreis, Behörden und Verbänden oder in wissenschaftlichen und fachlichen Veröffentlichungen.
 
-FIB ist dabei mehr als eine Presseschau. Es soll Orientierung ermöglichen:
+FIB führt diese Informationen zusammen, macht Zusammenhänge sichtbar und zeigt, wo sich Entwicklungen über längere Zeit fortsetzen oder neue Entwicklungen für Feldkirchen relevant werden könnten.
+
+FIB ist deshalb mehr als eine Presseschau. Es soll Orientierung ermöglichen:
 
 - **Was ist neu?**
 - **Was wird politisch beraten oder entschieden?**
 - **Welche Themen beschäftigen Feldkirchen länger?**
 - **Welche Entwicklungen außerhalb Feldkirchens könnten für uns interessant werden?**
-- **Welche neuen Ideen, Erfahrungen oder gesellschaftlichen Entwicklungen können für die Zukunft Feldkirchens Denkanstöße geben?**
+- **Welche gesellschaftlichen, wissenschaftlichen oder technischen Entwicklungen könnten unsere Handlungsmöglichkeiten verändern?**
+- **Welche neuen Ideen, Erfahrungen und Perspektiven können für die Zukunft Feldkirchens Denkanstöße geben?**
 
 ## Unser Grundsatz
 
@@ -75,6 +95,37 @@ Kurz gesagt:
 | Sitzungen | **Was wird beraten oder entschieden?** |
 | Themen | **Was beschäftigt Feldkirchen länger?** |
 | Trends | **Was entwickelt sich – und was könnten wir daraus lernen?** |
+
+## Zwei Zugänge zu Trends
+
+Trends können auf zwei Wegen entstehen:
+
+1. **Aus FIB-Meldungen heraus:** Mehrere Beiträge oder ein besonders aussagekräftiger Beitrag machen eine übergreifende Entwicklung sichtbar.
+2. **Aus eigenständiger Zukunfts- und Hintergrundrecherche:** Wissenschaftliche, technische oder gesellschaftliche Entwicklungen können als Trend relevant werden, auch wenn zuvor noch keine Presseschau-Meldung dazu existiert.
+
+Damit ist die Presseschau ein wichtiger, aber **nicht der einzige Impulsgeber** für Trends.
+
+## Wissenschaftliche und technische Zukunftsrelevanz
+
+FIB soll neben gesellschaftlichen und politischen Entwicklungen auch naturwissenschaftliche und technische Veränderungen beobachten. Dazu gehören insbesondere Klima und Klimafolgen, Energie, Mobilität, Digitalisierung und Künstliche Intelligenz, Gesundheit, Biodiversität, Wasser, Infrastruktur und Bevölkerungsschutz.
+
+Eine externe wissenschaftliche oder technische Entwicklung kann als FIB-Meldung aufgenommen werden, wenn sie:
+
+- auf belastbaren wissenschaftlichen Erkenntnissen, anerkannten Fachquellen, behördlichen Bewertungen oder einer realen praktischen Erprobung beruht,
+- kommunale Risiken, Handlungsmöglichkeiten, Kosten, Planungsannahmen oder technische Möglichkeiten erkennbar verändern kann,
+- einen nachvollziehbaren Übertragungsweg auf Feldkirchen oder vergleichbare Kommunen besitzt,
+- und mehr ist als eine bloße allgemeine Innovation oder spekulative Zukunftsmeldung.
+
+Mögliche Auslöser sind zum Beispiel:
+
+- neue belastbare Erkenntnisse zu regional relevanten Klimafolgen,
+- technische Durchbrüche oder Marktreife mit möglicher kommunaler Anwendung,
+- neue KI-Anwendungen für Verwaltung, Beteiligung oder öffentliche Dienstleistungen,
+- neue Energie-, Speicher- oder Wärmetechnologien,
+- neue Erkenntnisse zu Gesundheit, Wasser, Biodiversität oder Naturgefahren,
+- neue Standards, Empfehlungen oder Pilotprojekte mit absehbarer kommunaler Bedeutung.
+
+Solche Beiträge werden transparent als **mögliche zukünftige Bedeutung für Feldkirchen** gekennzeichnet. Ein einzelner interessanter Forschungsbefund genügt nicht, wenn seine Belastbarkeit oder Übertragbarkeit noch zu unklar ist.
 
 ## Warum Trends mehr Recherche erlauben
 
@@ -166,12 +217,30 @@ Die redaktionellen Regeln sollen aus diesen Erfahrungen weiterentwickelt werden.
 
 ## Hintergrund für die Trend-Perspektive
 
-Als fachliche Denkanstöße für diese Ebene dienen unter anderem Arbeiten zu kommunaler Beteiligung, Koproduktion und polyzentrischer Governance. Beispiele sind Veröffentlichungen des Deutschen Instituts für Urbanistik zur strukturierten Beteiligung und zur Zusammenarbeit von Kommune und Bürgerschaft sowie Elinor Ostroms Analyse **„Beyond Markets and States: Polycentric Governance of Complex Economic Systems“**.
+Die Trend-Perspektive stützt sich nicht auf eine einzelne Theorie. FIB nutzt unterschiedliche Forschungs- und Denkansätze als **Analysewerkzeuge**, nicht als politische Vorgaben.
 
-Diese Ansätze sind keine inhaltlichen Vorgaben für FIB. Sie erweitern den Blick darauf, welche Formen gesellschaftlicher und kommunaler Gestaltung möglich sind.
+Zum Denkhorizont gehören insbesondere:
+
+- **Michael Tomasello:** menschliche Kooperationsfähigkeit, gemeinsame Intentionalität und geteilte Normen,
+- **Elinor Ostrom:** Gemeingüter, Selbstorganisation, institutionelle Vielfalt und polyzentrische Governance,
+- **Frans de Waal:** Empathie, Fairness, Konflikt und Versöhnung als Grundlagen sozialer Kooperation,
+- **Jürgen Habermas:** kommunikatives Handeln, öffentliche Verständigung und deliberative Demokratie,
+- **Axel Honneth:** Anerkennung und soziale Voraussetzungen gelingender gesellschaftlicher Beziehungen,
+- **Philip Pettit:** Freiheit als Nicht-Beherrschung und institutionelle Begrenzung willkürlicher Macht,
+- **Michel Foucault:** Machtwirkungen, Normen und die Frage, wie Institutionen Verhalten strukturieren,
+- **Michael Mann:** unterschiedliche Quellen gesellschaftlicher Macht,
+- **Jonathan Haidt:** moralische Intuitionen, unterschiedliche moralische Grundlagen und Polarisierungsdynamiken,
+- **John Rawls und Rainer Forst:** öffentliche Rechtfertigung, faire Verfahren und die Möglichkeit gemeinsamer Regeln trotz unterschiedlicher Wertvorstellungen,
+- **Dani Rodrik:** Spannungen zwischen wirtschaftlicher Integration, demokratischer Selbstbestimmung und politischer Steuerungsfähigkeit,
+- sowie kommunalwissenschaftliche Arbeiten zu Beteiligung, Koproduktion und neuen Formen der Zusammenarbeit von Kommune und Bürgerschaft.
+
+Diese Perspektiven können helfen, Entwicklungen aus unterschiedlichen Blickwinkeln zu betrachten: Kooperation und Wettbewerb, Macht und Begrenzung von Herrschaft, Anerkennung, Fairness, Selbstorganisation, institutionelle Vielfalt, Beteiligung und gesellschaftliche Lernfähigkeit.
+
+Für naturwissenschaftliche und technische Trends wird dieser sozialwissenschaftliche Denkhorizont durch einschlägige Fachwissenschaften und belastbare technische Quellen ergänzt. Entscheidend ist jeweils nicht die Zugehörigkeit zu einer bestimmten Denkschule, sondern die Frage, **welche Erkenntnisse helfen, Chancen, Risiken, Zielkonflikte und kommunale Handlungsmöglichkeiten besser zu verstehen**.
 
 ## Änderungshistorie
 
 | Version | Datum | Änderung |
 |---|---|---|
+| 1.1 | 26.09.2026 | Zielbild als strategische Ebene vor dem praktischen Zweck ergänzt; zwei Zugänge zu Trends beschrieben; wissenschaftlich-technische Zukunftsrelevanz aufgenommen; Forschungs- und Denkhorizont aus dem Seminar deutlich über Ostrom hinaus erweitert. |
 | 1.0 | 26.09.2026 | Erstfassung: Zweck von FIB, erweiterte Relevanz, Abgrenzung Presseschau/Sitzungen/Themen/Trends, Trend-Recherche und Umgang mit neuen gesellschaftlichen Perspektiven beschrieben. |
