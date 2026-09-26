@@ -1,7 +1,7 @@
 {
   "schema_version": "2.0",
   "work_package": "canonical",
-  "status": "canonical_after_standard_update_2026-09-26",
+  "status": "canonical_after_standard_update_2026-09-26_extended_relevance_backfill",
   "research_window": {
     "from": "2025-08-27",
     "to": "2026-09-26"
@@ -10,7 +10,7 @@
     "recherchebestand.json",
     "sitzungsbestand.json"
   ],
-  "contribution_count": 75,
+  "contribution_count": 82,
   "editorial_rules": [
     "No methodological or demonstrator text inside public contribution content.",
     "Sachinformation is neutral; political assessment is a separate optional field.",
@@ -21,6 +21,359 @@
     "Unsere Einordnung was audited on 2026-08-29 for citizen-oriented political language per KI-Leitfaden 0.8."
   ],
   "contributions": [
+    {
+      "id": "R086",
+      "date": "2026-09-23",
+      "publication_date": "2026-09-23",
+      "category": "Mobilität & Verkehr",
+      "topic_candidates": [
+        "ADFC",
+        "Radverkehr",
+        "Vereinsförderung"
+      ],
+      "title": "Landkreis will ADFC-Förderung ab 2028 einstellen",
+      "subtitle": "Die Kreisförderung finanziert unter anderem die Vernetzung der ADFC-Ortsgruppen; davon ist auch die gemeinsame Ortsgruppe Aschheim, Feldkirchen, Haar und Kirchheim berührt.",
+      "sachinformation": "Der Ausschuss für Mobilität und Infrastruktur des Landkreises München hat beschlossen, die bisherige Förderung des ADFC 2027 zu reduzieren und ab 2028 einzustellen. Der ADFC hatte zuvor wegen gestiegener Kosten eine Erhöhung beantragt. Nach Angaben des Münchner Merkur wurde der Verband seit 2018 gefördert, zuletzt mit 20.000 Euro jährlich; damit wird unter anderem eine hauptamtliche Koordinatorin finanziert, die die Ortsgruppen im Landkreis vernetzt.\n\nDer ADFC München führt eine gemeinsame Ortsgruppe für Aschheim, Feldkirchen, Haar und Kirchheim. Seine Landkreis-Arbeitsgruppe beschreibt sich zudem als Schnittstelle zum Landratsamt und als Netzwerk der Ortsgruppen.",
+      "sources": [
+        {
+          "name": "Münchner Merkur – Landkreis streicht ADFC-Zuschuss ab 2028",
+          "url": "https://www.merkur.de/lokales/muenchen-lk/adfc-beantragt-mehr-geld-landkreis-muenchen-streicht-foerderung-ab-2028-94505287.html",
+          "type": "press",
+          "date": "2026-09-23",
+          "date_basis": "publication_date",
+          "date_status": "verified"
+        },
+        {
+          "name": "ADFC München – Ortsgruppe Aschheim, Feldkirchen, Haar und Kirchheim",
+          "url": "https://muenchen.adfc.de/artikel/ortsgruppe-aschheim-feldkirchen-haar-und-kirchheim",
+          "type": "organisation",
+          "date": "2026-09-26",
+          "date_basis": "access_date",
+          "date_status": "verified"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": null,
+      "research_refs": [
+        "R086"
+      ],
+      "ortsbezug": {
+        "display_place": "Landkreis München / Feldkirchen",
+        "related_places": [
+          "Landkreis München / Feldkirchen"
+        ],
+        "scope": "extended_relevance",
+        "verification_status": "verified_2026-09-26"
+      },
+      "relevance": {
+        "type": "extended_relevance",
+        "why_feldkirchen": "Die geförderte Kreisstruktur vernetzt auch die ADFC-Ortsgruppe, die Feldkirchen gemeinsam mit Aschheim, Haar und Kirchheim abdeckt. Welche konkreten Leistungen vor Ort durch die Kürzung entfallen könnten, ist noch offen."
+      },
+      "established_topic_refs": [],
+      "stage_update_meta": {
+        "created_at": "2026-09-26",
+        "source_status": "verified_external_relevance_backfill"
+      }
+    },
+    {
+      "id": "R087",
+      "date": "2026-09-21",
+      "publication_date": "2026-09-21",
+      "category": "Mobilität & Verkehr",
+      "topic_candidates": [
+        "Schulcampus",
+        "Fahrradstraße",
+        "Schulweg"
+      ],
+      "title": "Neue Fahrradstraßen führen zum Schulcampus Aschheim",
+      "subtitle": "Aschheim weist zwei Zufahrten zum neuen Schulcampus als Fahrradstraßen aus; Feldkirchen ist Mitglied des zuständigen Schulzweckverbands.",
+      "sachinformation": "Seit der Eröffnung des neuen Schulcampus Aschheim am 15. September nutzen nach Angaben des Münchner Merkur viele Schülerinnen und Schüler die Sonnenstraße und den Heimstettner Weg mit dem Fahrrad. Der Bau- und Umweltausschuss beschloss deshalb, beide Verbindungen als Fahrradstraßen auszuweisen. Kraftfahrzeuge bleiben zugelassen, die zulässige Höchstgeschwindigkeit beträgt 30 km/h.\n\nDer Schulcampus gehört zum Zweckverband Staatliche weiterführende Schulen im Osten des Landkreises München. Träger sind der Landkreis sowie Aschheim, Feldkirchen und Kirchheim.",
+      "sources": [
+        {
+          "name": "Münchner Merkur – Aschheim macht zwei Wege zur Fahrradstraße",
+          "url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/1070-schueler-draengen-auf-die-strasse-aschheim-macht-zwei-wege-zur-fahrradstrasse-94501122.html",
+          "type": "press",
+          "date": "2026-09-21",
+          "date_basis": "publication_date",
+          "date_status": "verified"
+        },
+        {
+          "name": "Zweckverband Staatliche weiterführende Schulen im Osten des Landkreises München",
+          "url": "https://szv-mo.de/",
+          "type": "primary_official",
+          "date": "2026-09-26",
+          "date_basis": "access_date",
+          "date_status": "verified"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": null,
+      "research_refs": [
+        "R087"
+      ],
+      "ortsbezug": {
+        "display_place": "Aschheim / Feldkirchen",
+        "related_places": [
+          "Aschheim / Feldkirchen"
+        ],
+        "scope": "extended_relevance",
+        "verification_status": "verified_2026-09-26"
+      },
+      "relevance": {
+        "type": "extended_relevance",
+        "why_feldkirchen": "Der Schulcampus wird von einem Zweckverband getragen, dem Feldkirchen angehört. Die sichere Raderschließung betrifft damit eine Bildungsinfrastruktur, die auch für Feldkirchner Schülerinnen und Schüler vorgesehen ist."
+      },
+      "established_topic_refs": [],
+      "stage_update_meta": {
+        "created_at": "2026-09-26",
+        "source_status": "verified_external_relevance_backfill"
+      }
+    },
+    {
+      "id": "R088",
+      "date": "2026-09-07",
+      "publication_date": "2026-09-07",
+      "category": "Mobilität & Verkehr",
+      "topic_candidates": [
+        "Autonomes Fahren",
+        "On-Demand",
+        "ÖPNV"
+      ],
+      "title": "München testet autonome On-Demand-Fahrzeuge im öffentlichen Straßenraum",
+      "subtitle": "MVG und IAV starten einen Test mit drei autonom fahrenden Fahrzeugen; ein späterer Fahrgastbetrieb wird ausdrücklich mitgedacht.",
+      "sachinformation": "Die Stadtwerke München, die Münchner Verkehrsgesellschaft und IAV testen im Forschungsprojekt MINGA drei autonom fahrende VW ID. Buzz im öffentlichen Straßenraum. Der Test startet ohne Fahrgäste und mit Sicherheitsfahrpersonal. Nach Angaben der MVG werden neben der Technik bereits Anforderungen eines späteren Fahrgastbetriebs untersucht, darunter Fahrgastinformation, Sicherheitskonzept und die Einbindung in Betrieb und Leitstelle.",
+      "sources": [
+        {
+          "name": "SWM/MVG – Autonome On-Demand-Fahrzeuge für München",
+          "url": "https://www.swm.de/unternehmen/presse/pressemitteilungen/2026/09-2026/mvg-autonome-fahrzeuge-testbetrieb-startet-minga-iav",
+          "type": "primary_official",
+          "date": "2026-09-07",
+          "date_basis": "publication_date",
+          "date_status": "verified"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": null,
+      "research_refs": [
+        "R088"
+      ],
+      "ortsbezug": {
+        "display_place": "München / Feldkirchen",
+        "related_places": [
+          "München / Feldkirchen"
+        ],
+        "scope": "extended_relevance",
+        "verification_status": "verified_2026-09-26"
+      },
+      "relevance": {
+        "type": "extended_relevance",
+        "why_feldkirchen": "Für Feldkirchen besteht noch keine unmittelbare Wirkung. Als eng mit München verflochtene Umlandgemeinde kann jedoch relevant werden, ob autonome On-Demand-Angebote später in regionale ÖPNV- und letzte-Meile-Angebote einbezogen werden."
+      },
+      "established_topic_refs": [],
+      "stage_update_meta": {
+        "created_at": "2026-09-26",
+        "source_status": "verified_external_relevance_backfill"
+      }
+    },
+    {
+      "id": "R089",
+      "date": "2026-09-10",
+      "publication_date": "2026-09-10",
+      "category": "Wohnen & Ortsentwicklung",
+      "topic_candidates": [
+        "Wohnungsbau",
+        "Modulbau",
+        "bezahlbares Wohnen"
+      ],
+      "title": "Aschheim baut 24 bezahlbare Wohnungen in modularer Bauweise",
+      "subtitle": "Ein kommunal beeinflusstes Pilotprojekt kombiniert kurze Bauzeit, Belegungsrechte und eine angekündigte Miete von 12,50 Euro pro Quadratmeter.",
+      "sachinformation": "In Aschheim werden 24 barrierefreie Wohnungen aus vorgefertigten Betonmodulen errichtet. Nach Angaben des Münchner Merkur soll die Bauzeit vom Spatenstich bis zum Einzug rund acht Monate betragen. Die Gemeinde hat langfristige Vorschlagsrechte für die Mieter; als Zielmiete werden 12,50 Euro pro Quadratmeter genannt. Das Projekt wird von der Baugesellschaft München Land umgesetzt.",
+      "sources": [
+        {
+          "name": "Münchner Merkur – Aschheim baut 24 günstige Wohnungen in nur acht Monaten",
+          "url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/aschheim-baut-24-guenstige-wohnungen-in-nur-acht-monaten-94482942.html",
+          "type": "press",
+          "date": "2026-09-10",
+          "date_basis": "publication_date",
+          "date_status": "verified"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": null,
+      "research_refs": [
+        "R089"
+      ],
+      "ortsbezug": {
+        "display_place": "Aschheim",
+        "related_places": [
+          "Aschheim"
+        ],
+        "scope": "extended_relevance",
+        "verification_status": "verified_2026-09-26"
+      },
+      "relevance": {
+        "type": "extended_relevance",
+        "why_feldkirchen": "Feldkirchen beschäftigt sich ebenfalls mit Wohnungsbau und kommunalen Gestaltungsmöglichkeiten. Das Aschheimer Projekt ist ein konkreter regionaler Vergleichsfall dafür, wie Kommune und kommunale Baugesellschaft Bauzeit, Belegungsrechte und Mietniveau beeinflussen können."
+      },
+      "established_topic_refs": [],
+      "stage_update_meta": {
+        "created_at": "2026-09-26",
+        "source_status": "verified_external_relevance_backfill"
+      }
+    },
+    {
+      "id": "R090",
+      "date": "2026-09-21",
+      "publication_date": "2026-09-21",
+      "category": "Kommunalpolitik & Beteiligung",
+      "topic_candidates": [
+        "Jugendbeteiligung",
+        "Jugendparlament",
+        "Demokratie"
+      ],
+      "title": "Hannover wählt erstmals ein Jugendparlament",
+      "subtitle": "25 gewählte Jugendliche erhalten Antrags- und Rederecht in zwölf Ausschüssen des Stadtrats.",
+      "sachinformation": "In Hannover findet vom 21. bis 26. September 2026 erstmals die Wahl zu einem Jugendparlament statt. 63 Kandidierende treten für 25 Plätze an. Wahlberechtigt sind junge Menschen von zwölf bis 20 Jahren. Die gewählten Mitglieder erhalten nach Angaben der Stadt Antrags- und Rederecht in zwölf Ausschüssen des Rates und können damit Anliegen junger Menschen unmittelbar in kommunalpolitische Beratungen einbringen.",
+      "sources": [
+        {
+          "name": "Landeshauptstadt Hannover – Erste Jugendparlamentswahl",
+          "url": "https://www.hannover.de/Service/Presse-Medien/Landeshauptstadt-Hannover/Aktuelle-Meldungen-und-Veranstaltungen/Hannovers-erste-Jugendparlamentswahl-21.-26.-September",
+          "type": "primary_official",
+          "date": "2026-09-21",
+          "date_basis": "event_date",
+          "date_status": "verified"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": null,
+      "research_refs": [
+        "R090"
+      ],
+      "ortsbezug": {
+        "display_place": "Beispiel Hannover",
+        "related_places": [
+          "Beispiel Hannover"
+        ],
+        "scope": "societal_democratic_relevance",
+        "verification_status": "verified_2026-09-26"
+      },
+      "relevance": {
+        "type": "societal_democratic_relevance",
+        "why_feldkirchen": "Das Modell zeigt eine institutionalisierte Form kommunaler Jugendbeteiligung mit unmittelbarem Zugang zu politischen Ausschüssen. Es ist ein konkretes Beispiel dafür, wie auch kleinere Kommunen Jugendinteressen verbindlicher in Entscheidungsprozesse einbinden könnten."
+      },
+      "established_topic_refs": [],
+      "stage_update_meta": {
+        "created_at": "2026-09-26",
+        "source_status": "verified_external_relevance_backfill"
+      }
+    },
+    {
+      "id": "R091",
+      "date": "2026-08-11",
+      "publication_date": "2026-08-11",
+      "category": "Kommunalpolitik & Beteiligung",
+      "topic_candidates": [
+        "Bürgerbudget",
+        "Bürgerbeteiligung",
+        "kommunale Gestaltung"
+      ],
+      "title": "Jena: 102 Vorschläge für das Bürgerbudget 2026",
+      "subtitle": "Für 50.000 Euro Bürgerbudget können Einwohner Projekte vorschlagen und anschließend über zulässige Ideen abstimmen.",
+      "sachinformation": "Beim Bürgerbudget der Stadt Jena sind 2026 insgesamt 102 Vorschläge eingegangen. Für die Umsetzung stehen 50.000 Euro zur Verfügung. Vorschläge müssen unter anderem in der Zuständigkeit der Stadt liegen, der Allgemeinheit dienen, innerhalb von zwei Jahren umsetzbar sein und dürfen höchstens 10.000 Euro je Einzelmaßnahme kosten. Über die zulässigen Vorschläge stimmt die Bevölkerung anschließend ab.",
+      "sources": [
+        {
+          "name": "Stadt Jena – Bürgerbudget 2026: 102 Vorschläge in der Prüfphase",
+          "url": "https://beteiligung.jena.de/de/buergerbudget-2026-102-vorschlaege-der-pruefphase",
+          "type": "primary_official",
+          "date": "2026-08-11",
+          "date_basis": "publication_date",
+          "date_status": "verified"
+        },
+        {
+          "name": "Stadt Jena – Bürgerbudget 2026",
+          "url": "https://beteiligung.jena.de/de/buergerbudget-2026",
+          "type": "primary_official",
+          "date": "2026-06-01",
+          "date_basis": "process_start",
+          "date_status": "verified"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": null,
+      "research_refs": [
+        "R091"
+      ],
+      "ortsbezug": {
+        "display_place": "Beispiel Jena",
+        "related_places": [
+          "Beispiel Jena"
+        ],
+        "scope": "societal_democratic_relevance",
+        "verification_status": "verified_2026-09-26"
+      },
+      "relevance": {
+        "type": "societal_democratic_relevance",
+        "why_feldkirchen": "Ein Bürgerbudget verbindet Beteiligung mit einem realen, begrenzten Entscheidungsspielraum. Das ist für Feldkirchen als mögliches Modell interessant, weil Vorschläge nicht nur gesammelt, sondern nach transparenten Regeln geprüft und anschließend zur Abstimmung gestellt werden."
+      },
+      "established_topic_refs": [],
+      "stage_update_meta": {
+        "created_at": "2026-09-26",
+        "source_status": "verified_external_relevance_backfill"
+      }
+    },
+    {
+      "id": "R092",
+      "date": "2026-04-01",
+      "publication_date": "2026-04-01",
+      "category": "Kommunalpolitik & Beteiligung",
+      "topic_candidates": [
+        "Bürgerrat",
+        "Losverfahren",
+        "Bürgerbeteiligung"
+      ],
+      "title": "Aachen institutionalisiert einen ständigen ausgelosten Bürger*innenrat",
+      "subtitle": "56 repräsentativ ausgewählte Einwohner beraten regelmäßig über städtische Themen und geben Empfehlungen an Politik und Verwaltung.",
+      "sachinformation": "Aachen hat einen ständigen Bürger*innenrat eingerichtet. Für die erste Runde wurden Themen aus der Bevölkerung gesammelt; 58 Vorschläge gingen ein, 17 erreichten das vorgesehene Unterstützungsquorum. Der Rat soll aus 56 nach Alter, Bildung und Sozialräumen ausgewählten Einwohnerinnen und Einwohnern bestehen und ein- bis zweimal jährlich zu einem kommunalen Thema beraten. Die Mitglieder werden jährlich neu bestimmt und durch Fachleute unterstützt.",
+      "sources": [
+        {
+          "name": "Stadt Aachen – Bürger*innenrat: sechs Themen stehen zur Wahl",
+          "url": "https://www.aachen.de/buerger-innenbeteiligung/moeglichkeiten-der-beteiligung/buerger-innenrat/news/buerger-innenrat-aachen-sechs-themen-stehen-zur-wahl/",
+          "type": "primary_official",
+          "date": "2026-04-01",
+          "date_basis": "publication_date",
+          "date_status": "verified"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": null,
+      "research_refs": [
+        "R092"
+      ],
+      "ortsbezug": {
+        "display_place": "Beispiel Aachen",
+        "related_places": [
+          "Beispiel Aachen"
+        ],
+        "scope": "societal_democratic_relevance",
+        "verification_status": "verified_2026-09-26"
+      },
+      "relevance": {
+        "type": "societal_democratic_relevance",
+        "why_feldkirchen": "Der ständige, ausgeloste Bürgerrat zeigt eine Möglichkeit, auch Menschen systematisch einzubeziehen, die nicht von sich aus an klassischen Beteiligungsformaten teilnehmen. Für Feldkirchen ist insbesondere die Kombination aus Themenvorschlägen, Losverfahren und nachvollziehbarer Rückkopplung an Politik interessant."
+      },
+      "established_topic_refs": [],
+      "stage_update_meta": {
+        "created_at": "2026-09-26",
+        "source_status": "verified_external_relevance_backfill"
+      }
+    },
     {
       "id": "R084",
       "date": "2026-09-25",
@@ -4502,5 +4855,26 @@
         "Sicherheit & Bevölkerungsschutz"
       ]
     }
+  },
+  "relevance_backfill": {
+    "run_date": "2026-09-26",
+    "from": "2026-03-26",
+    "to": "2026-09-26",
+    "rules": [
+      "extended_relevance",
+      "possible_future_relevance",
+      "societal_democratic_relevance"
+    ],
+    "added_count": 7,
+    "added_ids": [
+      "R086",
+      "R087",
+      "R088",
+      "R089",
+      "R090",
+      "R091",
+      "R092"
+    ],
+    "editorial_note": "Bundesweite gesellschaftlich-demokratische Treffer nur bei konkreter kommunaler Praxis und plausibler Übertragbarkeit; ähnliche oder rein allgemeine Meldungen verworfen."
   }
 }
