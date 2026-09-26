@@ -1,10 +1,10 @@
 {
   "schema_version": "2.0",
   "work_package": "canonical",
-  "status": "canonical_after_standard_update_2026-09-25",
+  "status": "canonical_after_standard_update_2026-09-26",
   "research_window": {
     "from": "2025-08-27",
-    "to": "2026-09-25"
+    "to": "2026-09-26"
   },
   "basis_file": "presseschau_beitraege.json",
   "topic_count": 14,
@@ -1068,17 +1068,18 @@
       "id": "T008",
       "title": "Bürgerbeteiligung und kommunale Mitwirkung",
       "first_created": "2025-12-04",
-      "last_substantive_update": "2026-09-17",
+      "last_substantive_update": "2026-09-25",
       "contribution_refs": [
         "R007",
         "R012",
-        "R029"
+        "R029",
+        "R084"
       ],
-      "summary": "Die Bürgerversammlung vom 22. Oktober 2025 führte zu mehreren konkreten Anträgen, unter anderem zu Radverkehr, Tempo 30 auf Schulwegen und kommunalen Klimazielen. Der Gemeinderat befasste sich am 4. Dezember mit diesen Anliegen und nahm mehrere davon zur weiteren Bearbeitung auf; andere Forderungen wurden abgelehnt.\n\nMit der Konstituierung des neuen Gemeinderats im Mai 2026 wurde auch die Ausgestaltung direkter Mitwirkung erneut sichtbar. Ein Antrag, das Rederecht in der Bürgerfragestunde einzuschränken, fand keine Mehrheit. Am 17. September 2026 stand außerdem ein Antrag der Fraktion Bündnis 90/Die Grünen zur Bürgerversammlung 2026 auf der öffentlichen Tagesordnung. Ein öffentlich dokumentiertes Beratungsergebnis liegt im geprüften Ratsinformationssystem bislang nicht vor.",
+      "summary": "Die Bürgerversammlung vom 22. Oktober 2025 führte zu mehreren konkreten Anträgen, unter anderem zu Radverkehr, Tempo 30 auf Schulwegen und kommunalen Klimazielen. Der Gemeinderat befasste sich am 4. Dezember mit diesen Anliegen und nahm mehrere davon zur weiteren Bearbeitung auf; andere Forderungen wurden abgelehnt.\n\nMit der Konstituierung des neuen Gemeinderats im Mai 2026 wurde auch die Ausgestaltung direkter Mitwirkung erneut sichtbar. Ein Antrag, das Rederecht in der Bürgerfragestunde einzuschränken, fand keine Mehrheit. Am 17. September 2026 stand außerdem ein Antrag der Fraktion Bündnis 90/Die Grünen zur Bürgerversammlung 2026 auf der öffentlichen Tagesordnung. Ein öffentlich dokumentiertes Beratungsergebnis liegt im geprüften Ratsinformationssystem bislang nicht vor.\n\nAm 25. September veröffentlichte die Gemeinde die Einladung zur Bürgerversammlung 2026. Sie findet am 21. Oktober um 19 Uhr im Rathaus statt und wird per Livestream übertragen. Die Gemeinde weist ausdrücklich auf das Rederecht anwesender wahlberechtigter Gemeindebürgerinnen und Gemeindebürger sowie darauf hin, dass mehrheitlich beschlossene Anträge oder Empfehlungen innerhalb von drei Monaten vom Gemeinderat zu behandeln sind.",
       "open_questions": [
         "Welche Ergebnisse haben die weiterbearbeiteten Anträge aus der Bürgerversammlung 2025?",
         "Welches Ergebnis hatte die Beratung des Grünen-Antrags zur Bürgerversammlung 2026 am 17. September, sobald dies öffentlich dokumentiert ist?",
-        "Wie werden die Hinweise auf Antragsrecht und Ablauf in der Einladung zur Bürgerversammlung 2026 praktisch umgesetzt?",
+        "Welche Anträge oder Empfehlungen werden bei der Bürgerversammlung 2026 beschlossen und wie werden sie anschließend behandelt?",
         "Wie transparent lässt sich künftig nachvollziehen, welchen Bearbeitungsstand angenommene Bürgeranträge erreichen?"
       ],
       "sources": [
@@ -1143,6 +1144,17 @@
           "date_basis": "session_date",
           "date_status": "verified_2026-09-21",
           "source_refs": []
+        },
+        {
+          "name": "Gemeinde Feldkirchen – Bürgerversammlung 2026",
+          "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/buergerversammlung-in-feldkirchen",
+          "type": "primary_official",
+          "date": "2026-09-25",
+          "date_basis": "publication_date",
+          "date_status": "verified",
+          "source_refs": [
+            "R084"
+          ]
         }
       ],
       "unsere_einordnung": "Beteiligung ist erst dann wirksam, wenn Menschen nicht nur sprechen können, sondern auch wissen, welche Rechte sie haben und nachvollziehen können, was aus ihren Anliegen wird. Die Bürgerversammlung 2025 hat mehrere konkrete Anträge hervorgebracht; für ihre Glaubwürdigkeit ist deshalb entscheidend, dass Bearbeitungsstand und Ergebnis später leicht auffindbar sind.\n\nDie Grünen Feldkirchen haben für die Bürgerversammlung 2026 vorgeschlagen, in den Einladungen verständlich zu erklären, wie Bürgerinnen und Bürger Anträge stellen können, wie diese in der Versammlung behandelt werden und wie es anschließend weitergeht. Der Antrag war am 17. September öffentlich Gegenstand des Gemeinderats. Eine offene Bürgerfragestunde, gut erklärte Beteiligungsrechte und transparente Rückmeldungen sind konkrete Bausteine kommunaler Mitwirkung.",
