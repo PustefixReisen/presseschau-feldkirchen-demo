@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-25T09:38:26+00:00",
+  "updated_at": "2026-09-26T09:22:55+00:00",
   "items": [
     {
       "event_key": "document:feldkirchen-parkraum-2026:https://www.feldkirchen.de/_Resources/Persistent/d/3/d/e/d3dee38ce3c4a9ad01384ca6ed314a2a8f8bcc12/2026%20Parkraumkonzept%20gem%20GR-Beschluss.pdf:4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
@@ -2594,6 +2594,76 @@
       "kind": "link_new",
       "url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/erdinger-moos-26-km-schmalspurbahn-und-napoleon-vermessung-im-neuen-film-94506632.html",
       "link_text": "Erdinger Moos: 26-km-Schmalspurbahn und Napoleon-Vermessung im neuen Film",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:landkreis-muenchen:https://www.landkreis-muenchen.de/artikel/fahrbahneinengung-auf-der-muenchner-strasse-m-13-in-unterfoehring-bis-22-oktober-2026/",
+      "detected_at": "2026-09-26T09:22:41+00:00",
+      "source_id": "landkreis-muenchen",
+      "source_name": "Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.landkreis-muenchen.de/artikel/fahrbahneinengung-auf-der-muenchner-strasse-m-13-in-unterfoehring-bis-22-oktober-2026/",
+      "link_text": "Fahrbahneinengung auf der Münchner Straße (M 13) in Unterföhring / bis 22. Oktober 2026",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:adfc-muenchen:https://muenchen.adfc.de/neuigkeit/radfahren-in-den-medien-ende-september-2026",
+      "detected_at": "2026-09-26T09:22:43+00:00",
+      "source_id": "adfc-muenchen",
+      "source_name": "ADFC München",
+      "kind": "link_new",
+      "url": "https://muenchen.adfc.de/neuigkeit/radfahren-in-den-medien-ende-september-2026",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/heftige-kollision-mit-linienbus-drei-verletzte-feuerwehr-muss-fahrer-befreien-94511603.html",
+      "detected_at": "2026-09-26T09:22:50+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/heftige-kollision-mit-linienbus-drei-verletzte-feuerwehr-muss-fahrer-befreien-94511603.html",
+      "link_text": "Heftige Kollision mit Linienbus: Drei Verletzte – Feuerwehr muss Fahrer befreien",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/unterfoehring-ort29618/unterfoehring-bezuschusst-betreuung-in-ismaninger-waldorf-kita-94511029.html",
+      "detected_at": "2026-09-26T09:22:50+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/unterfoehring-ort29618/unterfoehring-bezuschusst-betreuung-in-ismaninger-waldorf-kita-94511029.html",
+      "link_text": "Unterföhring bezuschusst Betreuung in Ismaninger Waldorf-Kita",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/baierbrunn-ort28315/helmut-berger-malt-live-auf-der-buehne-und-versteigert-das-bild-danach-94508637.html",
+      "detected_at": "2026-09-26T09:22:50+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/baierbrunn-ort28315/helmut-berger-malt-live-auf-der-buehne-und-versteigert-das-bild-danach-94508637.html",
+      "link_text": "Helmut Berger malt live auf der Bühne – und versteigert das Bild danach",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/fc-aschheim-trifft-nach-debakel-auf-freising-94510085.html",
+      "detected_at": "2026-09-26T09:22:50+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/fc-aschheim-trifft-nach-debakel-auf-freising-94510085.html",
+      "link_text": "FC Aschheim trifft nach 2:8-Debakel auf Freising und startet in englische Woche",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-aschheim:https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/fc-aschheim-trifft-nach-debakel-auf-freising-94510085.html",
+      "detected_at": "2026-09-26T09:22:52+00:00",
+      "source_id": "merkur-aschheim",
+      "source_name": "Münchner Merkur – Aschheim",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/fc-aschheim-trifft-nach-debakel-auf-freising-94510085.html",
+      "link_text": "FC Aschheim trifft nach 2:8-Debakel auf Freising und startet in englische Woche",
       "status": "unprocessed"
     }
   ]
