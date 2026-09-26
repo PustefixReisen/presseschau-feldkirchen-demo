@@ -1,6 +1,6 @@
 # KI-Leitfaden Homepage-Presseschau Feldkirchen
 
-**Version 2.7 · Stand 26.09.2026**
+**Version 2.8 · Stand 26.09.2026**
 
 > Kanonische Markdown-Fassung für GitHub. Inhaltlich übernommen aus der bisherigen Projektbibliothek und um verbindliche Projektentscheidungen fortgeschrieben.
 
@@ -294,6 +294,30 @@ Trends dürfen neue gesellschaftliche, demokratische und institutionelle Perspek
 
 Solche Denkansätze werden als **Analyse- und Inspirationsquellen** behandelt. Sie sind weder automatisch lokale Positionen von BÜNDNIS 90/DIE GRÜNEN Feldkirchen noch politische Forderungen. Der Trend stellt zunächst dar, was beobachtet wird, welche Erfahrungen oder Erkenntnisse vorliegen und welche Fragen sich daraus für Feldkirchen ergeben können.
 
+### Sprach- und Quellenregeln für Trends
+
+Die öffentliche Trenddarstellung verwendet **bürgernahe, allgemeinverständliche Sprache**. Fachbegriffe werden nur verwendet, wenn sie für das Verständnis nötig sind, und dann kurz erklärt. Theoretische Konzepte stehen nie im Vordergrund, wenn sich die gleiche Aussage verständlicher anhand konkreter kommunaler Beispiele oder deutschsprachiger Sekundärquellen vermitteln lässt.
+
+Für öffentlich sichtbare Trendquellen gilt grundsätzlich folgende Priorität:
+
+1. deutschsprachige, allgemeinverständliche Fach- und Praxisquellen,
+2. deutschsprachige Primärquellen von Kommunen, Behörden, Forschungs- und Fachinstituten,
+3. gut verständliche Sekundärquellen zu wissenschaftlichen oder theoretischen Ansätzen,
+4. fremdsprachige Originalquellen nur dann, wenn sie für die Aussage tatsächlich notwendig sind.
+
+Englischsprachige Originaltexte können im Hintergrundbestand erhalten bleiben, müssen aber nicht als sichtbare Hauptquelle eines Trends erscheinen. FIB soll nicht voraussetzen, dass die Leserschaft wissenschaftliche Originaltexte in englischer Sprache liest.
+
+### Verknüpfung von Themen und Trends
+
+Themen und Trends werden wechselseitig verknüpft, wenn ein sachlicher Zusammenhang besteht.
+
+- Ein **Thema** zeigt einen konkreten Feldkirchner Vorgang und kann auf passende Trends verweisen, die zusätzliche Perspektiven oder Vergleichswissen liefern.
+- Ein **Trend** kann auf ein oder mehrere Feldkirchner Themen verweisen, an denen seine mögliche Bedeutung konkret sichtbar wird.
+
+Die Verknüpfung darf nicht suggerieren, dass aus einem Trend automatisch eine politische Forderung für das Thema folgt. Sie soll lediglich zeigen, **welche weiterführenden Entwicklungen für den lokalen Vorgang interessant sein könnten**.
+
+Bei der Prüfung der Bedeutung eines Trends für Feldkirchen werden außerdem laufende lokale Initiativen, Anträge und Arbeitsprozesse berücksichtigt, soweit sie als freigegebenes Hintergrundwissen vorliegen. Dadurch soll vermieden werden, dass der Transfer auf Feldkirchen bereits vorhandene lokale Ansätze übersieht.
+
 ### Politische Neutralität der Trendanalyse
 
 Trend-Beiträge dürfen keine lokale politische Position erfinden oder vorwegnehmen. Sie sollen Perspektiven öffnen, Unterschiede und Zielkonflikte sichtbar machen und mögliche kommunale Gestaltungsspielräume beschreiben. Wo Bewertungen aus externen Quellen übernommen werden, werden sie zugeschrieben. Eine spätere lokale politische Position oder „Unsere Einordnung“ bleibt davon getrennt.
@@ -334,6 +358,7 @@ Vor Veröffentlichung werden Tatsachen, Datumsangaben, Rollen, Links, Quellen, Z
 
 | Version | Datum | Änderung |
 |---|---|---|
+| 2.8 | 26.09.2026 | Für Trends bürgernahe Sprache und eine Quellenpriorität zugunsten deutschsprachiger, allgemeinverständlicher Fach- und Praxisquellen eingeführt; englischsprachige Originalquellen in den Hintergrund gerückt. Wechselseitige Verknüpfung von Themen und Trends sowie Prüfung laufender lokaler Initiativen beim Feldkirchen-Transfer ergänzt. |
 | 2.7 | 26.09.2026 | Wissenschaftliche und technische Zukunftsrelevanz als zusätzliche Beitragsregel eingeführt; Klima, Energie, KI, Gesundheit, Biodiversität, Wasser, Infrastruktur und Bevölkerungsschutz ausdrücklich aufgenommen; Trends können nun sowohl aus Presseschau-Beiträgen als auch aus eigenständiger Zukunftsrecherche entstehen. |
 | 2.6 | 26.09.2026 | Neue redaktionelle Ebene „Trends“ eingeführt: klare Abgrenzung zu Presseschau und Themen, eigene Vertiefungsrecherche mit Hintergrundquellen, strukturierte Trendanalyse sowie Regeln für neue gesellschaftliche Perspektiven, Kooperation, Koproduktion und polyzentrische Steuerung ohne automatische Ableitung lokaler Parteipositionen. |
 | 2.5 | 26.09.2026 | Erweiterte Relevanz mit institutionellem, räumlichem, infrastrukturellem, thematischem sowie Pilot-/Vergleichsbezug eingeführt; „mögliche zukünftige Bedeutung“ ausdrücklich als Relevanzkriterium verankert. Zusätzlich gesellschaftlich-demokratische Relevanz mit bundesweiter Suche nach konkret übertragbaren kommunalen Beteiligungs- und Gestaltungsmodellen aufgenommen; transparente Kennzeichnung des Feldkirchen-Bezugs verbindlich gemacht. |
