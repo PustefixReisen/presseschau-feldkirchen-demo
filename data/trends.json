@@ -1,0 +1,59 @@
+{
+  "schema_version": "1.0",
+  "work_package": "FIB Trends",
+  "status": "test_mode",
+  "updated_at": "2026-09-26",
+  "trends": [
+    {
+      "id": "TR001",
+      "title": "Neue Wege kommunaler Bürgerbeteiligung",
+      "status": "test_trend",
+      "first_created": "2026-09-26",
+      "last_substantive_update": "2026-09-26",
+      "lead": "Kommunen erproben Beteiligungsformen, die über Bürgerversammlung und klassische Anhörung hinausgehen – vom Jugendparlament über Bürgerbudgets bis zum ausgelosten Bürgerrat.",
+      "observation": "Die aktuellen Beispiele aus Hannover, Jena und Aachen zeigen unterschiedliche Versuche, Beteiligung verbindlicher, kontinuierlicher oder breiter zugänglich zu machen. Gemeinsam ist ihnen, dass Bürgerinnen und Bürger nicht nur informiert oder angehört werden, sondern klar definierte Mitwirkungsrechte oder Entscheidungsspielräume erhalten.",
+      "contribution_refs": [
+        "R090",
+        "R091",
+        "R092",
+        "R084"
+      ],
+      "background_sources": [
+        {
+          "name": "Deutsches Institut für Urbanistik – Kommunen strukturieren Beteiligung: Bausteine, Erfahrungen, Perspektiven",
+          "url": "https://difu.de/publikationen/2024/kommunen-strukturieren-beteiligung-bausteine-erfahrungen-perspektiven",
+          "type": "background_study",
+          "year": 2024,
+          "relevance": "Das Difu beschreibt strukturierte Beteiligung als kommunale Beteiligungskultur mit Leitlinien, Koordinierungsstellen, Vorhabenlisten, Beteiligungsgremien, Initiativrechten und Beteiligungsplattformen."
+        },
+        {
+          "name": "Deutsches Institut für Urbanistik – Von Beteiligung zur Koproduktion",
+          "url": "https://difu.de/publikationen/2022/von-beteiligung-zur-koproduktion",
+          "type": "background_study",
+          "year": 2022,
+          "relevance": "Die Veröffentlichung erweitert den Blick von Beteiligung auf Formen der Zusammenarbeit von Kommune und Bürgerschaft."
+        },
+        {
+          "name": "Elinor Ostrom – Beyond Markets and States: Polycentric Governance of Complex Economic Systems",
+          "url": "https://www.nobelprize.org/prizes/economic-sciences/2009/ostrom/lecture/",
+          "type": "conceptual_background",
+          "year": 2009,
+          "relevance": "Ostrom beschreibt polyzentrische Governance und untersucht institutionelle Arrangements jenseits einer einfachen Gegenüberstellung von Markt und Staat."
+        }
+      ],
+      "assessment": "Die Beispiele deuten nicht auf ein einziges überlegenes Beteiligungsmodell hin. Sie zeigen vielmehr, dass Kommunen unterschiedliche Instrumente kombinieren können: gewählte Vertretungen für bestimmte Gruppen, direkte Entscheidungsspielräume über begrenzte Budgets und ausgeloste Beratungsgremien. Fachliteratur zur strukturierten Beteiligung betont zusätzlich, dass einzelne Formate erst dann dauerhaft wirken können, wenn sie in nachvollziehbare Verfahren und Rückkopplungen eingebettet sind.",
+      "feldkirchen_relevance": "Für Feldkirchen ist deshalb nicht nur die Frage interessant, welches einzelne Instrument übernommen werden könnte. Spannender ist, wie bestehende Formate – Bürgerversammlung, Bürgerfragestunde und projektbezogene Beteiligung – so ergänzt oder verbunden werden könnten, dass mehr Menschen wirksam mitgestalten und nachvollziehen können, was aus ihren Vorschlägen wird.",
+      "open_questions": [
+        "Welche Gruppen werden mit den bestehenden Feldkirchner Beteiligungsformaten gut erreicht – und welche kaum?",
+        "Wo wäre ein echter, aber begrenzter Entscheidungsspielraum für Bürgerinnen und Bürger denkbar?",
+        "Welche Form der Jugendbeteiligung wäre für eine Gemeinde der Größe Feldkirchens angemessen?",
+        "Wie könnte transparent sichtbar werden, was aus Bürgervorschlägen und Beteiligungsergebnissen wird?",
+        "Welche Elemente strukturierter Beteiligung wären mit vertretbarem organisatorischem Aufwand umsetzbar?"
+      ],
+      "related_topics": [
+        "T008"
+      ],
+      "editorial_note": "Trendbeitrag, keine lokale politische Position und keine Handlungsempfehlung."
+    }
+  ]
+}
