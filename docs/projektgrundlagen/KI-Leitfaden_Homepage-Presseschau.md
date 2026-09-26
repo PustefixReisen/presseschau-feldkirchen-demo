@@ -1,6 +1,6 @@
 # KI-Leitfaden Homepage-Presseschau Feldkirchen
 
-**Version 2.6 · Stand 26.09.2026**
+**Version 2.7 · Stand 26.09.2026**
 
 > Kanonische Markdown-Fassung für GitHub. Inhaltlich übernommen aus der bisherigen Projektbibliothek und um verbindliche Projektentscheidungen fortgeschrieben.
 
@@ -163,6 +163,23 @@ Wegen des bundesweiten Suchraums gilt eine hohe Veröffentlichungsschwelle: Aufg
 
 Auch hier wird die Relevanz im Beitrag transparent gemacht, etwa unter **„Warum für Feldkirchen interessant“** bzw. **„Mögliche Bedeutung für Feldkirchen“**. Die Darstellung bleibt sachlich; Nutzen, Grenzen, noch offene Wirkungen und Übertragbarkeitsannahmen werden kenntlich gemacht.
 
+### 4.1.6 Wissenschaftliche und technische Zukunftsrelevanz
+
+FIB beobachtet neben gesellschaftlich-demokratischen Entwicklungen auch **naturwissenschaftliche und technische Veränderungen** mit möglicher kommunaler Bedeutung. Dazu gehören insbesondere Klima und Klimafolgen, Energie, Mobilität, Digitalisierung und Künstliche Intelligenz, Gesundheit, Biodiversität, Wasser, Infrastruktur und Bevölkerungsschutz.
+
+Eine externe Entwicklung kann als eigener FIB-Beitrag aufgenommen werden, wenn alle folgenden Punkte hinreichend erfüllt sind:
+
+- Die Aussage beruht auf belastbaren wissenschaftlichen Erkenntnissen, anerkannten Fachquellen, behördlichen Bewertungen oder einer realen praktischen Erprobung.
+- Die Entwicklung kann kommunale Risiken, Handlungsmöglichkeiten, Kosten, Planungsannahmen oder technische Möglichkeiten erkennbar verändern.
+- Es gibt einen nachvollziehbaren Übertragungsweg auf Feldkirchen oder auf Kommunen mit vergleichbaren Aufgaben.
+- Der Befund ist mehr als allgemeine Neuigkeit oder spekulative Zukunftsmeldung.
+
+Mögliche Auslöser sind insbesondere neue belastbare Erkenntnisse zu regional relevanten Klimafolgen, technische Reife oder Pilotbetrieb neuer kommunal nutzbarer Technologien, neue KI-Anwendungen für Verwaltung oder öffentliche Leistungen, neue Energie-, Speicher- oder Wärmetechnologien, neue Erkenntnisse zu Gesundheit, Wasser, Biodiversität oder Naturgefahren sowie neue fachliche Standards oder Empfehlungen mit absehbarer kommunaler Bedeutung.
+
+Solche Beiträge werden unter **„Mögliche Bedeutung für Feldkirchen“** transparent eingeordnet. Unsicherheit, Reifegrad und Übertragbarkeit werden ausdrücklich benannt. Ein einzelner interessanter Forschungsbefund reicht nicht aus, wenn Belastbarkeit oder kommunale Relevanz noch zu unklar sind.
+
+Diese Relevanzregel soll zugleich als **Impulsgeber für Trends** wirken: Mehrere entsprechende Beiträge oder ein besonders grundlegender Befund können eine Trend-Recherche auslösen. Umgekehrt darf ein Trend auch unabhängig von einem Presseschau-Beitrag aus eigenständiger Zukunfts- und Hintergrundrecherche entstehen.
+
 ### 4.2 Parteien und Wählervereinigungen
 Öffentliche Auftritte politisch aktiver Parteien und Wählervereinigungen werden berücksichtigt, mit erhöhter Relevanzschwelle. Konkrete kommunalpolitische Anträge, Initiativen, Änderungsvorschläge und Reaktionen auf Entscheidungen sind relevant. Parteiquellen sind grundsätzlich Positionsquellen; überprüfbare Sachbehauptungen werden möglichst unabhängig verifiziert und politische Positionen klar zugeschrieben.
 
@@ -233,6 +250,8 @@ Potenzielle Themen entstehen aus wiederkehrenden Sitzungs-TOPs, mehreren Beiträ
 Neben Presseschau, Sitzungen und etablierten Themen führt FIB die redaktionelle Ebene **„Trends“**. Sie dient dazu, Entwicklungen zu bündeln und zu vertiefen, die für die zukünftige Gestaltung Feldkirchens interessant sein können, ohne bereits ein konkreter Feldkirchner Vorgang oder ein etabliertes lokales Thema zu sein.
 
 Ein Trend beantwortet vor allem die Frage: **„Was entwickelt sich – und was könnte Feldkirchen daraus lernen?“**
+
+Trends können sowohl aus Presseschau-Beiträgen entstehen als auch aus einer eigenständigen gesellschaftlichen, wissenschaftlichen oder technischen Zukunftsrecherche. Die Presseschau ist damit ein wichtiger, aber nicht zwingender Auslöser.
 
 ### Abgrenzung
 
@@ -315,6 +334,7 @@ Vor Veröffentlichung werden Tatsachen, Datumsangaben, Rollen, Links, Quellen, Z
 
 | Version | Datum | Änderung |
 |---|---|---|
+| 2.7 | 26.09.2026 | Wissenschaftliche und technische Zukunftsrelevanz als zusätzliche Beitragsregel eingeführt; Klima, Energie, KI, Gesundheit, Biodiversität, Wasser, Infrastruktur und Bevölkerungsschutz ausdrücklich aufgenommen; Trends können nun sowohl aus Presseschau-Beiträgen als auch aus eigenständiger Zukunftsrecherche entstehen. |
 | 2.6 | 26.09.2026 | Neue redaktionelle Ebene „Trends“ eingeführt: klare Abgrenzung zu Presseschau und Themen, eigene Vertiefungsrecherche mit Hintergrundquellen, strukturierte Trendanalyse sowie Regeln für neue gesellschaftliche Perspektiven, Kooperation, Koproduktion und polyzentrische Steuerung ohne automatische Ableitung lokaler Parteipositionen. |
 | 2.5 | 26.09.2026 | Erweiterte Relevanz mit institutionellem, räumlichem, infrastrukturellem, thematischem sowie Pilot-/Vergleichsbezug eingeführt; „mögliche zukünftige Bedeutung“ ausdrücklich als Relevanzkriterium verankert. Zusätzlich gesellschaftlich-demokratische Relevanz mit bundesweiter Suche nach konkret übertragbaren kommunalen Beteiligungs- und Gestaltungsmodellen aufgenommen; transparente Kennzeichnung des Feldkirchen-Bezugs verbindlich gemacht. |
 | 2.2 | 21.09.2026 | Lokale grüne Anträge im Bibliotheksordner `Arbeitsdaten/Anträge-Gruene-Feldkirchen` als feste interne Hintergrundquelle verankert; Regeln für Themenpflege, Einordnung, Recherchelenkung und spätere Verknüpfung mit öffentlichen RIS-/Pressequellen ergänzt. |
