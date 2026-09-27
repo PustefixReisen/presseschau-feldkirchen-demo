@@ -157,6 +157,8 @@ Verglichen werden nicht Stilpräferenzen allein, sondern insbesondere:
 - Einhaltung der politischen Herkunftskennzeichnung,
 - Vollständigkeit und Fehlerquote,
 - Qualität und Neutralität der vorgeschlagenen Anschlussfragen,
+- **Nicht-Redundanz:** eröffnet die Frage gegenüber Beitragstext und sichtbarer Quellenliste tatsächlich einen neuen Erkenntnishorizont?,
+- **Hintergrundtiefe:** werden technische, rechtliche, gesellschaftliche, ökologische, wirtschaftliche oder institutionelle Zusammenhänge erkannt, wenn sie für den Fall relevant sind?,
 - Aussage-Quellen-Deckung der Vertiefungsantworten,
 - funktionale Qualität der Quellenwahl,
 - Kennzeichnung von Unsicherheit und Informationsstand,
@@ -190,7 +192,9 @@ Die Prüfung erfolgt anhand eines gemeinsamen Rasters. Mindestens bewertet werde
 7. **Trennung der Ebenen:** Bleiben Sachinformation, mögliche lokale Bedeutung und „Unsere Einordnung“ erkennbar getrennt?
 8. **Relevanz und Verständlichkeit:** Beantwortet der Text die konkrete Frage verständlich und ohne unnötige Abschweifung?
 9. **Fragequalität bei „Mehr wissen?“:** Eröffnen die vorgeschlagenen Fragen unterschiedliche sinnvolle Erkenntniswege, ohne suggestiv zu sein?
-10. **Regeltreue:** Werden FIB-spezifische Datums-, Quellen-, Rollen- und Darstellungsregeln eingehalten?
+10. **Nicht-Redundanz:** Wiederholt die Frage nur Beitragstext/Quellen oder führt sie zu echtem Zusatzwissen?
+11. **Hintergrundabdeckung:** Werden relevante technische, rechtliche, gesellschaftliche, ökologische, wirtschaftliche oder institutionelle Perspektiven erkannt, ohne schematisch alle Dimensionen abzuarbeiten?
+12. **Regeltreue:** Werden FIB-spezifische Datums-, Quellen-, Rollen- und Darstellungsregeln eingehalten?
 
 ### Durchführung
 
