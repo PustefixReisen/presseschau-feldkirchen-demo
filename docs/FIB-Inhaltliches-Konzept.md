@@ -4,7 +4,7 @@
 
 | Version | Stand | Verantwortlich |
 |---|---|---|
-| 1.2 | 26.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
+| 1.3 | 27.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
 
 ## Zielbild
 
@@ -60,7 +60,7 @@ Der Bezug zu Feldkirchen wird bei solchen Beiträgen ausdrücklich sichtbar gema
 
 **Beispiele:** Die Kürzung der Landkreis-Förderung für den ADFC betrifft nicht unmittelbar die Gemeinde Feldkirchen, wohl aber die gemeinsame Ortsgruppe und ihre Vernetzungsstrukturen. Neue Fahrradstraßen am Schulcampus Aschheim sind für Feldkirchen relevant, weil Feldkirchen dem Schulzweckverband angehört. Der Münchner Test autonomer On-Demand-Fahrzeuge ist dagegen noch keine Feldkirchner Entwicklung, kann aber eine **mögliche zukünftige Bedeutung** für die regionale Mobilität haben.
 
-## Vier redaktionelle Ebenen
+## Drei redaktionelle Ebenen
 
 ### 1. Presseschau – Was ist neu?
 
@@ -79,41 +79,6 @@ Ein Thema bündelt einen **konkreten Feldkirchner Vorgang oder Sachzusammenhang*
 Themen zeigen Verlauf, Entscheidungen, offene Fragen und Zusammenhänge. Sie werden fortgeschrieben, wenn neue Informationen hinzukommen.
 
 **Beispiel:** Das Thema „Bürgerbeteiligung und kommunale Mitwirkung“ verbindet die Feldkirchner Bürgerversammlung, Bürgerfragestunde und ihre jeweiligen Folgevorgänge.
-
-### 4. Trends – Was könnte für Feldkirchen interessant werden?
-
-Trends bilden eine zusätzliche redaktionelle Ebene.
-
-Ein Trend beschreibt eine **übergreifende Entwicklung, neue Praxis oder neue Perspektive**, die noch kein konkreter Feldkirchner Vorgang sein muss, aber für die zukünftige Gestaltung Feldkirchens interessant sein könnte.
-
-Ein Trend entsteht nur, wenn mindestens eines davon zutrifft:
-
-- mehrere Fundstellen weisen in dieselbe Richtung,
-- eine Entwicklung verändert einen für Feldkirchen relevanten Bereich erkennbar,
-- ein besonders aussagekräftiges Modell wirft eine konkrete strategische Frage für Feldkirchen auf,
-- mehrere bestehende FIB-Themen lassen sich dadurch neu miteinander verbinden.
-
-**Beispiel:** Aus einem Jugendparlament in Hannover, einem Bürgerbudget in Jena und einem ausgelosten Bürgerrat in Aachen kann der Trend „Neue Wege kommunaler Bürgerbeteiligung“ entstehen. Die drei Meldungen sind verschieden; zusammen zeigen sie eine übergreifende Entwicklung.
-
-Kurz gesagt:
-
-| Ebene | Leitfrage |
-|---|---|
-| Presseschau | **Was ist neu?** |
-| Sitzungen | **Was wird beraten oder entschieden?** |
-| Themen | **Was beschäftigt Feldkirchen länger?** |
-| Trends | **Was entwickelt sich – und was könnten wir daraus lernen?** |
-
-## Zwei Zugänge zu Trends
-
-Trends können auf zwei Wegen entstehen:
-
-1. **Aus FIB-Meldungen heraus:** Mehrere Beiträge oder ein besonders aussagekräftiger Beitrag machen eine übergreifende Entwicklung sichtbar.
-2. **Aus eigenständiger Zukunfts- und Hintergrundrecherche:** Wissenschaftliche, technische oder gesellschaftliche Entwicklungen können als Trend relevant werden, auch wenn zuvor noch keine Presseschau-Meldung dazu existiert.
-
-Damit ist die Presseschau ein wichtiger, aber **nicht der einzige Impulsgeber** für Trends.
-
-**Beispiel:** Ein Trend zur kommunalen Nutzung von Künstlicher Intelligenz könnte aus mehreren konkreten Meldungen entstehen. Er könnte aber auch direkt durch belastbare Studien oder Praxiserfahrungen ausgelöst werden, wenn diese erkennbar neue Möglichkeiten oder Risiken für Kommunen zeigen.
 
 ## Wissenschaftliche und technische Zukunftsrelevanz
 
@@ -139,34 +104,6 @@ Solche Beiträge werden transparent als **mögliche zukünftige Bedeutung für F
 
 **Beispiele:** Eine neue regionalisierte Klimaprojektion kann relevant werden, wenn sie Planungsannahmen zu Hitze oder Starkregen im Münchner Raum verändert. Bei KI reicht dagegen nicht jede neue Anwendung: interessant wird sie für FIB erst, wenn eine Kommune damit tatsächlich Verwaltungsleistungen, Beteiligung oder öffentliche Information verändert und belastbare Erfahrungen vorliegen.
 
-## Warum Trends mehr Recherche erlauben
-
-Nicht jede wertvolle Quelle ist eine Nachricht.
-
-Für Trends darf FIB deshalb zusätzlich recherchieren und zum Beispiel Studien, Evaluationen, Fachartikel, Praxisberichte, Leitfäden oder weitere kommunale Beispiele auswerten.
-
-Diese Quellen müssen **nicht** als eigene Presseschau-Meldungen erscheinen. Sie dienen dazu, einen Trend besser zu verstehen.
-
-**Beispiel:** Beim Trend zur Bürgerbeteiligung sind die Meldungen aus Hannover, Jena und Aachen die sichtbaren Beispiele. Fachliteratur des Deutschen Instituts für Urbanistik oder wissenschaftliche Arbeiten zu Kooperation und Institutionen können den Trend erklären, ohne selbst zusätzliche Presseschau-Karten zu erzeugen.
-
-Damit unterscheiden wir bewusst zwischen:
-
-- **relevant als Meldung** und
-- **relevant als Hintergrundquelle**.
-
-Ein Trend kann dadurch stärker erklären und vergleichen als ein einzelner Presseschau-Beitrag.
-
-## Wie ein Trend aufgebaut ist
-
-Ein Trend soll möglichst beantworten:
-
-1. **Was beobachten wir?**
-2. **Welche konkreten Beispiele gibt es?**
-3. **Was sagen zusätzliche Hintergrundquellen?**
-4. **Was lässt sich daraus erkennen?**
-5. **Warum könnte das für Feldkirchen interessant sein?**
-6. **Was ist noch offen oder unklar?**
-
 ## Demokratie, Beteiligung und neue Formen der Zusammenarbeit
 
 Ein besonderer Blick gilt Entwicklungen, die kommunale Demokratie, Beteiligung und gesellschaftliche Zusammenarbeit stärken können.
@@ -186,17 +123,13 @@ Dabei wollen wir bewusst auch **neue Perspektiven** betrachten. Dazu gehören zu
 
 Solche Perspektiven sind für FIB **Anregungen zur Analyse**, keine automatisch übernommenen politischen Positionen.
 
-Ein Trend soll daher nicht sagen: „So muss Feldkirchen es machen.“ Er soll zeigen:
-
-> **Das gibt es. So funktioniert es. Das sind Erfahrungen und Grenzen. Könnte davon etwas für Feldkirchen interessant sein?**
-
 ## Verhältnis zu grüner Politik
 
 FIB ist ein Informationsangebot von BÜNDNIS 90/DIE GRÜNEN Feldkirchen. Diese Herkunft wird nicht versteckt.
 
-Gleichzeitig sollen Sachinformation, Recherche und Trendanalyse nicht dazu dienen, eine lokale politische Position nachträglich zu konstruieren.
+Gleichzeitig sollen Sachinformation und Recherche nicht dazu dienen, eine lokale politische Position nachträglich zu konstruieren.
 
-Wo eine dokumentierte grüne Position relevant ist, kann sie als solche kenntlich gemacht werden. Wo es noch keine lokale Position gibt, bleibt ein Trend zunächst eine offene Analyse und ein Denkanstoß.
+Wo eine dokumentierte grüne Position relevant ist, kann sie als solche kenntlich gemacht werden. Wo es noch keine lokale Position gibt, bleibt die Recherche offen und darf keine Position vorwegnehmen.
 
 Gerade bei grundlegenden demokratischen und gesellschaftlichen Fragen soll FIB **neue Perspektiven sichtbar machen, statt Antworten vorwegzunehmen**.
 
@@ -223,39 +156,25 @@ Der Demonstrator dient ausdrücklich dazu, gemeinsam zu prüfen:
 
 - Welche Informationen sind hilfreich?
 - Wo wird FIB zu breit oder zu eng?
-- Welche Themen und Trends verdienen Vertiefung?
+- Welche Themen verdienen Vertiefung?
 - Wie viel Einordnung ist sinnvoll?
 - Welche neuen Perspektiven helfen, über die zukünftige Entwicklung Feldkirchens nachzudenken?
 
 Die redaktionellen Regeln sollen aus diesen Erfahrungen weiterentwickelt werden.
 
-## Hintergrund für die Trend-Perspektive
+## Interne Stoffsammlung außerhalb von FIB
 
-Die Trend-Perspektive stützt sich nicht auf eine einzelne Theorie. FIB nutzt unterschiedliche Forschungs- und Denkansätze als **Analysewerkzeuge**, nicht als politische Vorgaben.
+Übergreifende kommunalpolitische Entwicklungen können weiterhin intern beobachtet und zunächst als **Stoffsammlung oder Landkarte** analysiert werden. Diese interne Analyse ist keine öffentliche FIB-Rubrik und erzeugt keine eigene Darstellungsform auf der Website.
 
-Zum Denkhorizont gehören insbesondere:
+Erst wenn aus einer solchen Analyse eine konkrete Entwicklung die bestehenden FIB-Relevanzregeln erfüllt, kann sie als einzelner Presseschau-Beitrag oder als Hintergrund für ein bestehendes Feldkirchner Thema verwendet werden.
 
-- **Michael Tomasello:** menschliche Kooperationsfähigkeit, gemeinsame Intentionalität und geteilte Normen,
-- **Elinor Ostrom:** Gemeingüter, Selbstorganisation, institutionelle Vielfalt und polyzentrische Governance,
-- **Frans de Waal:** Empathie, Fairness, Konflikt und Versöhnung als Grundlagen sozialer Kooperation,
-- **Jürgen Habermas:** kommunikatives Handeln, öffentliche Verständigung und deliberative Demokratie,
-- **Axel Honneth:** Anerkennung und soziale Voraussetzungen gelingender gesellschaftlicher Beziehungen,
-- **Philip Pettit:** Freiheit als Nicht-Beherrschung und institutionelle Begrenzung willkürlicher Macht,
-- **Michel Foucault:** Machtwirkungen, Normen und die Frage, wie Institutionen Verhalten strukturieren,
-- **Michael Mann:** unterschiedliche Quellen gesellschaftlicher Macht,
-- **Jonathan Haidt:** moralische Intuitionen, unterschiedliche moralische Grundlagen und Polarisierungsdynamiken,
-- **John Rawls und Rainer Forst:** öffentliche Rechtfertigung, faire Verfahren und die Möglichkeit gemeinsamer Regeln trotz unterschiedlicher Wertvorstellungen,
-- **Dani Rodrik:** Spannungen zwischen wirtschaftlicher Integration, demokratischer Selbstbestimmung und politischer Steuerungsfähigkeit,
-- sowie kommunalwissenschaftliche Arbeiten zu Beteiligung, Koproduktion und neuen Formen der Zusammenarbeit von Kommune und Bürgerschaft.
-
-Diese Perspektiven können helfen, Entwicklungen aus unterschiedlichen Blickwinkeln zu betrachten: Kooperation und Wettbewerb, Macht und Begrenzung von Herrschaft, Anerkennung, Fairness, Selbstorganisation, institutionelle Vielfalt, Beteiligung und gesellschaftliche Lernfähigkeit.
-
-Für naturwissenschaftliche und technische Trends wird dieser sozialwissenschaftliche Denkhorizont durch einschlägige Fachwissenschaften und belastbare technische Quellen ergänzt. Entscheidend ist jeweils nicht die Zugehörigkeit zu einer bestimmten Denkschule, sondern die Frage, **welche Erkenntnisse helfen, Chancen, Risiken, Zielkonflikte und kommunale Handlungsmöglichkeiten besser zu verstehen**.
+Damit bleibt Raum für einen breiten Blick auf kommunalpolitische, gesellschaftliche, wissenschaftliche und technische Entwicklungen, ohne dass daraus der Eindruck eines politischen Planungsprogramms entsteht.
 
 ## Änderungshistorie
 
 | Version | Datum | Änderung |
 |---|---|---|
-| 1.2 | 26.09.2026 | Ausgewählte konkrete Beispiele ergänzt, um Zielbild, erweiterte Relevanz, Abgrenzung von Thema und Trend, Trend-Entstehung sowie wissenschaftlich-technische Zukunftsrelevanz anschaulicher zu machen, ohne das Dokument grundlegend zu verlängern. |
+| 1.3 | 27.09.2026 | Öffentliche Trend-Ebene wieder entfernt; FIB auf Presseschau, Sitzungen und Themen konzentriert. Übergreifende Trendanalyse künftig als interne Stoffsammlung/Landkarte außerhalb von FIB vorgesehen. Erweiterte und wissenschaftlich-technische Zukunftsrelevanz bleiben als Beitragsregeln erhalten. |
+| 1.2 | 26.09.2026 | Ausgewählte konkrete Beispiele ergänzt, um Zielbild, erweiterte Relevanz und wissenschaftlich-technische Zukunftsrelevanz anschaulicher zu machen. |
 | 1.1 | 26.09.2026 | Zielbild als strategische Ebene vor dem praktischen Zweck ergänzt; zwei Zugänge zu Trends beschrieben; wissenschaftlich-technische Zukunftsrelevanz aufgenommen; Forschungs- und Denkhorizont aus dem Seminar deutlich über Ostrom hinaus erweitert. |
 | 1.0 | 26.09.2026 | Erstfassung: Zweck von FIB, erweiterte Relevanz, Abgrenzung Presseschau/Sitzungen/Themen/Trends, Trend-Recherche und Umgang mit neuen gesellschaftlichen Perspektiven beschrieben. |
