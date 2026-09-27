@@ -1,0 +1,57 @@
+{
+  "schema_version": "1.0",
+  "status": "test_mode",
+  "updated_at": "2026-09-27",
+  "rule": "Ein Bezug wird nur geführt, wenn das Objekt für das Verständnis des Beitrags oder Themas fachlich relevant ist. Reine beiläufige Nennungen erzeugen keinen Treffer.",
+  "objects": [
+    {
+      "id": "OBJ001",
+      "canonical_name": "B471",
+      "type": "infrastructure",
+      "display_name": "B471",
+      "aliases": [
+        "Bundesstraße 471",
+        "Aschheimer Straße"
+      ],
+      "description": "Bundesstraße und zentrale Verkehrsachse im Feldkirchner Umfeld. Die Bezugsebene bündelt nur Vorgänge, bei denen Planung, Nutzung, Verkehrssicherheit oder Veränderung der B471 selbst relevant sind.",
+      "contribution_refs": [
+        {
+          "id": "R051",
+          "relation": "route_and_cycle_safety"
+        },
+        {
+          "id": "R007",
+          "relation": "citizen_requests"
+        },
+        {
+          "id": "R012",
+          "relation": "council_follow_up"
+        },
+        {
+          "id": "R094",
+          "relation": "speed_limit_and_school_route"
+        },
+        {
+          "id": "R074",
+          "relation": "regional_corridor_planning"
+        }
+      ],
+      "topic_refs": [
+        {
+          "id": "T003",
+          "relation": "cycle_network"
+        },
+        {
+          "id": "T015",
+          "relation": "traffic_safety"
+        }
+      ],
+      "excluded_examples": [
+        {
+          "rule": "mere_mention",
+          "note": "Eine bloße Erwähnung der B471 ohne eigenen sachlichen Bezug reicht nicht aus."
+        }
+      ]
+    }
+  ]
+}
