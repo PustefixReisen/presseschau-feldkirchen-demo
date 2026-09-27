@@ -50,7 +50,7 @@
   await import('./image-b047-green-village.js?v=20260925b');
   await import('./source-image-correction-20260907.js');
   await import('./search-dynamic.js?v=20260927a');
-  await import('./object-links.js?v=20260927h');
+  await import('./object-links.js?v=20260927i');
   await import('./share-print-subscribe.js?v=20260903c');
   await import('./mobile-print-guard.js?v=20260903c');
 
