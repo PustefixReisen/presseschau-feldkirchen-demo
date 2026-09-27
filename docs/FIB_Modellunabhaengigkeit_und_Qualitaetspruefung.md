@@ -4,7 +4,7 @@
 
 | Version | Stand | Verantwortlich |
 |---|---|---|
-| 1.0 | 27.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
+| 1.1 | 27.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
 
 ## 1. Ziel
 
@@ -109,6 +109,9 @@ Dabei werden zentrale Funktionen in einer Matrix bewertet.
 | Alias-Ermittlung | weitgehend modellunabhängig | Quellen-/Kartendaten + KI-Verifikation | Quelle und räumlichen Geltungsbereich speichern |
 | Zusammenfassung | modellabhängig | Modellurteil | Quellenbindung und Stilregeln prüfen |
 | „Unsere Einordnung“ | modellabhängig | Modellurteil unter Referenzregeln | Referenzbasis und politische Herkunft dokumentieren |
+| „Mehr wissen?“ – Frageauswahl | teilweise modellabhängig | explizite KI-Regel + Modellurteil | Mehrwert, Neutralität und thematische Streuung prüfen |
+| „Mehr wissen?“ – Antwort | modellabhängig | Modellurteil unter Quellenregeln | Aussage-Quellen-Deckung, Unsicherheit und Trennung zur Einordnung prüfen |
+| „Mehr wissen?“ – Quellenwahl | teilweise modellabhängig | Quellenlogik + Modellurteil | funktional unterschiedliche, belastbare Quellen statt bloßer Linkmenge |
 
 Diese Matrix wird fortgeschrieben, wenn neue Funktionen hinzukommen oder bisher modellabhängige Schritte technisch abgesichert werden.
 
@@ -138,7 +141,10 @@ Mindestens enthalten sein sollen:
 - Themenfortschreibung,
 - Objektbezug mit Mehrwert-Schwelle,
 - Aliasfall Straße / Infrastruktur,
-- Beitrag mit „Unsere Einordnung“.
+- Beitrag mit „Unsere Einordnung“,
+- „Mehr wissen?“-Fall mit mehreren möglichen Anschlussfragen,
+- „Mehr wissen?“-Antwort mit lokaler Quelle plus Fach-/Rechtsrahmen,
+- „Mehr wissen?“-Fall, bei dem eine Antwort mangels belastbarer Quellen offen bleiben muss.
 
 Verglichen werden nicht Stilpräferenzen allein, sondern insbesondere:
 
@@ -149,9 +155,52 @@ Verglichen werden nicht Stilpräferenzen allein, sondern insbesondere:
 - Objekt-/Aliasbeziehungen,
 - Trennung von Tatsachen und Bewertung,
 - Einhaltung der politischen Herkunftskennzeichnung,
-- Vollständigkeit und Fehlerquote.
+- Vollständigkeit und Fehlerquote,
+- Qualität und Neutralität der vorgeschlagenen Anschlussfragen,
+- Aussage-Quellen-Deckung der Vertiefungsantworten,
+- funktionale Qualität der Quellenwahl,
+- Kennzeichnung von Unsicherheit und Informationsstand,
+- Trennung zwischen sachlicher Vertiefung und „Unsere Einordnung“.
 
-## 7. Karten- und Aliasbeispiel
+## 7. Vergleichstest für KI-Anbindungen
+
+Wenn unterschiedliche KI-Modelle oder KI-Anbieter für FIB erprobt werden, wird derselbe **festgelegte Testkorpus** mit möglichst identischem Kontext ausgeführt. Ein fairer Vergleich setzt voraus, dass nicht ein Modell mehr oder bessere Ausgangsinformationen erhält als ein anderes.
+
+Für jeden Testfall werden deshalb festgehalten:
+
+- Ausgangsbeitrag bzw. Ausgangsthema,
+- bereitgestellte FIB-Zusammenhänge,
+- zugelassene externe Quellen,
+- Informationsstand / Stichtag,
+- verwendete FIB-Regeln und Systemanweisungen,
+- erwartete Pflichtaussagen bzw. bekannte Fehlerfallen.
+
+Bei „Mehr wissen?“ werden **Frageauswahl und Antwortqualität getrennt bewertet**. Ein Modell kann gute Fragen vorschlagen und dennoch schwächere Antworten erzeugen – oder umgekehrt.
+
+### Bewertungsdimensionen
+
+Die Prüfung erfolgt anhand eines gemeinsamen Rasters. Mindestens bewertet werden:
+
+1. **Faktentreue:** Sind Aussagen durch den bereitgestellten Quellenbestand gedeckt?
+2. **Quellenpräzision:** Passt die angegebene Quelle tatsächlich zur jeweiligen Aussage?
+3. **Quellenfunktion:** Werden Ausgangsmeldung, lokaler Kontext, Fach-/Rechtsrahmen, Praxisbeispiel und Positionen sinnvoll unterschieden?
+4. **Vollständigkeit:** Fehlen wesentliche Informationen, Einschränkungen oder Gegenstände der Frage?
+5. **Unsicherheitsmanagement:** Werden offene oder nicht belegte Punkte als solche benannt?
+6. **Neutralität der Sachinformation:** Werden Wertungen oder politische Positionen nicht als Tatsachen ausgegeben?
+7. **Trennung der Ebenen:** Bleiben Sachinformation, mögliche lokale Bedeutung und „Unsere Einordnung“ erkennbar getrennt?
+8. **Relevanz und Verständlichkeit:** Beantwortet der Text die konkrete Frage verständlich und ohne unnötige Abschweifung?
+9. **Fragequalität bei „Mehr wissen?“:** Eröffnen die vorgeschlagenen Fragen unterschiedliche sinnvolle Erkenntniswege, ohne suggestiv zu sein?
+10. **Regeltreue:** Werden FIB-spezifische Datums-, Quellen-, Rollen- und Darstellungsregeln eingehalten?
+
+### Durchführung
+
+Für Modellvergleiche sollen die Antworten möglichst **ohne sichtbare Modellbezeichnung** beurteilt werden, damit Erwartungen an einen Anbieter die Bewertung nicht beeinflussen. Kritische Fehler werden zusätzlich qualitativ dokumentiert und nicht durch gute Durchschnittswerte verdeckt.
+
+Ein neues Modell gilt nicht allein deshalb als geeignet, weil seine Texte sprachlich ansprechender wirken. Entscheidend ist, ob es die **fachlichen FIB-Regeln reproduzierbar und quellengetreu** erfüllt.
+
+Der Testkorpus wird mit der Weiterentwicklung von FIB fortgeschrieben. Neue zentrale Funktionen wie „Mehr wissen?“ müssen vor einem Modellvergleich mit repräsentativen Testfällen vertreten sein.
+
+## 8. Karten- und Aliasbeispiel
 
 Für Straßenobjekte wie die B471 gilt:
 
@@ -162,7 +211,7 @@ Für Straßenobjekte wie die B471 gilt:
 
 Damit wird zwischen **Objektidentität** und **inhaltlicher Relevanzbeziehung** getrennt.
 
-## 8. Dokumentationsregel
+## 9. Dokumentationsregel
 
 Wenn bei der Entwicklung festgestellt wird, dass eine FIB-Regel derzeit nur durch implizites Modellverhalten funktioniert, ist dies als Qualitäts- und Architekturrisiko zu dokumentieren.
 
@@ -177,4 +226,4 @@ Bei fachlich oder technisch vertretbarem Aufwand soll die Regel anschließend in
 
 | Version | Datum | Änderung |
 |---|---|---|
-| 1.0 | 27.09.2026 | Erstfassung. Modellunabhängigkeit als Architektur- und Qualitätsziel festgelegt; dreistufige Trennung Geschäftsregel / explizite KI-Regel / Modellurteil sowie Modellabhängigkeits-Check und Modellwechsel-Teststrategie eingeführt. |
+| 1.1 | 27.09.2026 | Qualitätstest für KI-Anbindungen um „Mehr wissen?“ erweitert; einheitlicher Testkorpus, getrennte Prüfung von Frageauswahl und Antwort, Bewertungsraster und möglichst modellblinde Beurteilung festgelegt. |\n| 1.0 | 27.09.2026 | Erstfassung. Modellunabhängigkeit als Architektur- und Qualitätsziel festgelegt; dreistufige Trennung Geschäftsregel / explizite KI-Regel / Modellurteil sowie Modellabhängigkeits-Check und Modellwechsel-Teststrategie eingeführt. |
