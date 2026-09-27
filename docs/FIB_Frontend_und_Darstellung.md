@@ -164,13 +164,13 @@ Interne Auswahl- und Qualitätsregeln werden im Dialog nicht angezeigt. Die Link
 
 Die Liste wird nur aus **explizit geprüften Objektbeziehungen** erzeugt. Reine Volltexttreffer oder beiläufige Namensnennungen erscheinen nicht automatisch.
 
-Im Demonstrator wird die Darstellung zunächst am Objekt **B471** erprobt.
+Die Darstellung ist im Demonstrator allgemein umgesetzt. Das Frontend liest die kanonische Datei `data/bezuege.json` und erzeugt die Abschnitte **„Bezüge“** sowie die Dialoginhalte daraus automatisch. Mehrere Bezugsobjekte pro Beitrag oder Thema werden unterstützt.
 
 ### Browser-Navigation und lange Dialoge
 
 Der Dialog eines Bezugsobjekts erhält auf kleinen Bildschirmen eine eigene Scrollfläche, wenn sein Inhalt höher als der verfügbare Viewport ist. Die Schließen-Funktion bleibt dabei erreichbar.
 
-Das Öffnen eines Bezugsobjekts und der Wechsel zu einem verknüpften Beitrag oder Thema werden als **explizite History-Zustände** geführt. Der normale Fragmentwechsel des Browsers wird dafür nicht verwendet. Dadurch soll insbesondere auf mobilen Browsern mit Wisch-Navigation gelten: Ein Schritt **Zurück** vom Ziel öffnet wieder den vorherigen Bezugsdialog; ein weiterer Schritt **Zurück** führt zur ursprünglichen Ansicht zurück. Für den Echtbetrieb ist eine strukturierte Objekttabelle mit stabilen IDs, Typen, Aliasnamen und Beziehungen zu Beiträgen/Themen vorgesehen.
+Das Öffnen eines Bezugsobjekts und der Wechsel zu einem verknüpften Beitrag oder Thema werden als **explizite History-Zustände** geführt. Der normale Fragmentwechsel des Browsers wird dafür nicht verwendet. Dadurch soll insbesondere auf mobilen Browsern mit Wisch-Navigation gelten: Ein Schritt **Zurück** vom Ziel öffnet wieder den vorherigen Bezugsdialog; ein weiterer Schritt **Zurück** führt zur ursprünglichen Ansicht zurück. Für den Echtbetrieb bleibt das gleiche Grundprinzip bestehen: strukturierte Objekttabelle mit stabilen IDs, Typen, Aliasnamen und explizit geprüften Beziehungen zu Beiträgen/Themen.
 
 ## 8. Responsives Verhalten
 
