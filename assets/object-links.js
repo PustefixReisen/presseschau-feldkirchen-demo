@@ -122,20 +122,51 @@
     return true;
   }
 
+  function activatePanelWithoutScroll(name){
+    document.querySelectorAll('.nav-btn').forEach(button=>{
+      button.classList.toggle('active',button.dataset.target===name);
+    });
+    document.querySelectorAll('.panel').forEach(panel=>{
+      panel.classList.toggle('active',panel.id==='panel-'+name);
+    });
+  }
+
+  function resetContributionFilters(){
+    const search=document.getElementById('search-press');
+    if(search){
+      search.value='';
+      search.dispatchEvent(new Event('input',{bubbles:true}));
+    }
+    document.querySelectorAll('#place-filters .filter-chip').forEach(button=>{
+      button.classList.toggle('active',button.dataset.place==='');
+    });
+    document.querySelectorAll('.contribution').forEach(card=>{
+      card.style.display='';
+    });
+    const empty=document.getElementById('empty-contrib');
+    if(empty) empty.style.display='none';
+  }
+
   function showTarget(id){
     const target=document.getElementById(id);
     if(!target)return;
 
-    if(id.startsWith('T')) document.querySelector('.nav-btn[data-target="themen"]')?.click();
-    else if(id.startsWith('S')) document.querySelector('.nav-btn[data-target="sitzungen"]')?.click();
-    else if(id.startsWith('R')||id.startsWith('C')) document.querySelector('.nav-btn[data-target="presseschau"]')?.click();
+    if(id.startsWith('T')){
+      activatePanelWithoutScroll('themen');
+    }else if(id.startsWith('S')){
+      activatePanelWithoutScroll('sitzungen');
+    }else if(id.startsWith('R')||id.startsWith('C')){
+      resetContributionFilters();
+      activatePanelWithoutScroll('presseschau');
+    }
 
     const topbar=document.querySelector('.topbar');
     const topbarHeight=topbar ? Math.ceil(topbar.getBoundingClientRect().height) : 0;
     target.style.scrollMarginTop=`${topbarHeight + 16}px`;
-    requestAnimationFrame(()=>requestAnimationFrame(()=>{
-      target.scrollIntoView({behavior:'auto',block:'start'});
-    }));
+
+    const placeTarget=()=>target.scrollIntoView({behavior:'auto',block:'start'});
+    requestAnimationFrame(()=>requestAnimationFrame(placeTarget));
+    setTimeout(placeTarget,80);
   }
 
   function openObject(id,{pushHistory=true}={}){
