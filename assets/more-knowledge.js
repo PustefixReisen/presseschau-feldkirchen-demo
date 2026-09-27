@@ -42,24 +42,28 @@
     ]
   };
 
-  const section=document.createElement('section');
-  section.className='more-knowledge';
-  section.innerHTML='<h4>Mehr wissen?</h4><p class="more-knowledge-intro">Die Meldung ist der Einstieg: Hier kannst du Hintergründe und Zusammenhänge erkunden.</p><div class="more-knowledge-questions"></div><button type="button" class="more-knowledge-own">Eigene Frage stellen …</button>';
-  const topicLink=card.querySelector('.topic-link');
-  const objectLinks=card.querySelector('.object-links');
-  const anchor=objectLinks||topicLink;
-  if(anchor) anchor.insertAdjacentElement('beforebegin',section);
-  else card.appendChild(section);
+  let section=card.querySelector('.more-knowledge');
+  if(!section){
+    section=document.createElement('section');
+    section.className='more-knowledge';
+    section.dataset.moreKnowledge='R088';
+    section.innerHTML='<h4>Mehr wissen?</h4><p class="more-knowledge-intro">Die Meldung ist der Einstieg: Hier kannst du Hintergründe und Zusammenhänge erkunden.</p><div class="more-knowledge-questions"></div><button type="button" class="more-knowledge-own">Eigene Frage stellen …</button>';
+    const topicLink=card.querySelector('.topic-link');
+    const objectLinks=card.querySelector('.object-links');
+    const anchor=objectLinks||topicLink;
+    if(anchor) anchor.insertAdjacentElement('beforebegin',section);
+    else card.appendChild(section);
 
-  const questions=section.querySelector('.more-knowledge-questions');
-  prototype.questions.forEach(q=>{
-    const button=document.createElement('button');
-    button.type='button';
-    button.className='more-knowledge-question';
-    button.dataset.questionId=q.id;
-    button.textContent=q.label;
-    questions.appendChild(button);
-  });
+    const questions=section.querySelector('.more-knowledge-questions');
+    prototype.questions.forEach(q=>{
+      const button=document.createElement('button');
+      button.type='button';
+      button.className='more-knowledge-question';
+      button.dataset.questionId=q.id;
+      button.textContent=q.label;
+      questions.appendChild(button);
+    });
+  }
 
   const dialog=document.createElement('dialog');
   dialog.className='more-knowledge-dialog';
