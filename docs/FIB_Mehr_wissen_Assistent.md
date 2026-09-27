@@ -4,7 +4,7 @@
 
 | Version | Stand | Verantwortlich |
 |---|---|---|
-| 0.2 | 27.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
+| 0.3 | 27.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
 
 ## 1. Präambel
 
@@ -14,16 +14,19 @@
 
 ## 2. Prototypischer Ansatz
 
-Der Demonstrator erprobt „Mehr wissen?“ zunächst an R088 zum autonomen On-Demand-Verkehr.
+Der Demonstrator setzt „Mehr wissen?“ FIB-weit für Beiträge und Themen ein. R088 zum autonomen On-Demand-Verkehr bleibt der vertiefte Referenzfall mit zusätzlich hinterlegten Fach- und Rechtsquellen.
 
 Der Prototyp enthält:
-- redaktionell vorbereitete Anschlussfragen,
+- kontextabhängig erzeugte bzw. redaktionell vorbereitete Anschlussfragen,
 - kurze sachliche Antworten,
 - Quellen zu den Antworten,
+- eine sichtbare Kennzeichnung der **Funktion einer Quelle**,
 - ein Eingabefeld für eine eigene Frage,
 - noch **keine** angebundene KI-API.
 
-Damit wird zunächst das Lese- und Bedienkonzept getestet.
+Die Logik gilt für den gesamten aktuellen FIB-Bestand aus **Beiträgen und Themen**. Sie erzeugt nicht für jede Karte dieselbe Standardliste. Fragen werden nur angeboten, wenn der vorhandene FIB-Kontext einen erkennbaren zusätzlichen Erkenntnisweg trägt. Sitzungskarten bleiben zunächst Kontext- und Quellenlieferant; sie erhalten im Demonstrator keinen eigenen „Mehr wissen?“-Block.
+
+Damit wird zunächst das Lese-, Quellen- und Bedienkonzept getestet.
 
 ## 3. Arten von Zusatzwissen
 
@@ -59,7 +62,32 @@ Fragen sollen neugierig machen, aber nicht suggestiv formuliert sein.
 
 Die Zahl der vorgeschlagenen Fragen ist nicht fest vorgegeben. Es sollen so viele Fragen angeboten werden, wie unterschiedliche sinnvolle Erkenntniswege eröffnen, ohne den Beitrag zu überladen. Drei Fragen sind daher kein Zielwert und keine Obergrenze.
 
-## 6. FIB-Kontextpaket für den Echtbetrieb
+## 6. Quellenlogik
+
+Quellen werden im „Mehr wissen?“-Bereich nicht als bloße Linkliste behandelt. Entscheidend ist, **welche Funktion eine Quelle für die jeweilige Antwort erfüllt**. Typische Rollen sind:
+
+- **Ausgangsmeldung:** belegt den unmittelbar beschriebenen Vorgang,
+- **lokaler oder regionaler Kontext:** stellt den Bezug zu Feldkirchen, Nachbarkommunen oder regionalen Strukturen her,
+- **Fach-/Rechtsrahmen:** erklärt technische, wissenschaftliche, rechtliche oder institutionelle Grundlagen,
+- **Praxisbeispiel:** zeigt eine reale Anwendung oder einen Vergleichsfall,
+- **Pressebericht:** ergänzt Beobachtung, Resonanz oder zusammenfassende Darstellung,
+- **Position / Akteur:** dokumentiert eine ausdrücklich zugeordnete Position,
+- **FIB-Zusammenhang:** verweist auf frühere FIB-Beiträge oder ein verknüpftes FIB-Thema.
+
+Mehrere Quellen sind besonders dann sinnvoll, wenn sie **unterschiedliche Funktionen** erfüllen. Eine größere Zahl gleichartiger Links ist kein Qualitätsmerkmal an sich.
+
+Bei Themen werden Quellen aus verschiedenen Zeitpunkten als **Themenkontext** gebündelt. Bei einer Antwort wird nur die Auswahl gezeigt, die für die konkrete Frage hilfreich ist.
+
+## 7. FIB-weite adaptive Fragenlogik
+
+Der Demonstrator verwendet zwei Ebenen:
+
+1. **Allgemeine adaptive Vertiefung:** Aus dem bereits geprüften FIB-Bestand werden je nach Karte Fragen zu Kern, Verlauf, Themenzusammenhang, lokaler Bedeutung, offenen Fragen und Quellenlage angeboten.
+2. **Kuratiertes Fachwissen:** Für besonders geeignete Fälle können zusätzliche Fragen und externe Fach-, Rechts- oder Praxisquellen ausdrücklich hinterlegt werden. R088 ist dafür der Referenzfall.
+
+Die Mehrwert-Schwelle bleibt verbindlich. Ein kurzer Einzelhinweis ohne Verlauf, Zusammenhang, zusätzliche Quellen oder erklärungsbedürftigen Sachverhalt muss keinen „Mehr wissen?“-Bereich erhalten.
+
+## 8. FIB-Kontextpaket für den Echtbetrieb
 
 Eine spätere KI-Antwort soll nicht aus allgemeinem Modellwissen allein erzeugt werden. Sie erhält ein strukturiertes Kontextpaket mit:
 - aktuellem Beitrag oder Thema,
@@ -71,7 +99,7 @@ Eine spätere KI-Antwort soll nicht aus allgemeinem Modellwissen allein erzeugt 
 - gegebenenfalls freigegebenem Referenzwissen,
 - Datum des Informationsstands.
 
-## 7. Qualitätsregeln
+## 9. Qualitätsregeln
 
 - Sachliche Antworten sind quellengebunden.
 - Mehrere Quellen pro Antwort sind erwünscht, wenn sie unterschiedliche Ebenen absichern, z. B. Ausgangsmeldung, Rechtsrahmen, Fachstand, Praxisbeispiel oder lokalen Zusammenhang. Quellen sollen nicht nur vervielfacht, sondern funktional ausgewählt werden.
@@ -81,7 +109,7 @@ Eine spätere KI-Antwort soll nicht aus allgemeinem Modellwissen allein erzeugt 
 - Nicht ausreichend belegte Antworten werden als offen gekennzeichnet statt plausibel ergänzt.
 - Modellunabhängige Regeln werden soweit möglich außerhalb des Sprachmodells umgesetzt.
 
-## 8. Prototyp R088
+## 10. Referenzfall R088
 
 Vorgeschlagene Fragen:
 1. Wie weit ist autonomes Fahren im ÖPNV heute?
@@ -92,7 +120,7 @@ Vorgeschlagene Fragen:
 
 Das freie Fragefeld ist im Demonstrator nur eine UI-Erprobung. Die Eingabe wird noch nicht an eine KI übertragen.
 
-## 9. Noch offene Entscheidungen
+## 11. Noch offene Entscheidungen
 
 Vor einer Umsetzung im Echtbetrieb sind insbesondere zu klären:
 - zugelassene externe Quellen,
@@ -104,9 +132,15 @@ Vor einer Umsetzung im Echtbetrieb sind insbesondere zu klären:
 - redaktionelle Kontrolle statischer Hintergrundbausteine,
 - Grenzen zwischen neutraler Sachauskunft und politischer Einordnung.
 
+## 12. Abgrenzung zu „Unsere Einordnung“
+
+„Mehr wissen?“ ist grundsätzlich **sachlich-erklärend und quellengebunden**. Der Bereich darf politische Wertungen aus „Unsere Einordnung“ nicht als neutrale Hintergrundinformation wiederholen oder verstecken.
+
+Wenn eine Nutzerfrage im Echtbetrieb ausdrücklich nach der grünen Bewertung fragt, muss die Antwort diese Ebene klar als politische Einordnung kennzeichnen und aus den dafür freigegebenen politischen Referenzquellen ableiten.
+
 ## Änderungshistorie
 
 | Version | Datum | Änderung |
 |---|---|---|
-| 0.2 | 27.09.2026 | Prototyp erweitert: Anzahl der Fragen nicht künstlich begrenzt; mehrere funktional unterschiedliche Quellen je Antwort ausdrücklich vorgesehen; Testfall R088 auf fünf Fragen erweitert. |
+| 0.3 | 27.09.2026 | FIB-weite Umsetzung für Beiträge und Themen; adaptive Fragenlogik, Mehrwert-Schwelle und funktionale Quellenrollen verbindlich ergänzt; R088 bleibt kuratierter Referenzfall. |\n| 0.2 | 27.09.2026 | Prototyp erweitert: Anzahl der Fragen nicht künstlich begrenzt; mehrere funktional unterschiedliche Quellen je Antwort ausdrücklich vorgesehen; Testfall R088 auf fünf Fragen erweitert. |
 | 0.1 | 27.09.2026 | Fachlicher Prototyp „Mehr wissen?“ angelegt; Präambel, Mehrwert-Schwelle, Fragetypen, Kontextpaket und Qualitätsregeln dokumentiert. |
