@@ -4,7 +4,7 @@
 
 | Version | Stand | Verantwortlich |
 |---|---|---|
-| 1.3 | 27.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
+| 1.4 | 27.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
 
 ## Zielbild
 
@@ -79,6 +79,34 @@ Ein Thema bündelt einen **konkreten Feldkirchner Vorgang oder Sachzusammenhang*
 Themen zeigen Verlauf, Entscheidungen, offene Fragen und Zusammenhänge. Sie werden fortgeschrieben, wenn neue Informationen hinzukommen.
 
 **Beispiel:** Das Thema „Bürgerbeteiligung und kommunale Mitwirkung“ verbindet die Feldkirchner Bürgerversammlung, Bürgerfragestunde und ihre jeweiligen Folgevorgänge.
+
+## Die Meldung ist der Einstieg – „Mehr wissen?“
+
+FIB soll nicht dort enden, wo eine klassische Nachricht endet. **Eine Meldung oder ein Thema ist der Einstieg in ein Informationsangebot, nicht dessen Endpunkt.**
+
+Wer nur wissen möchte, was neu ist, bekommt weiterhin einen knappen und verständlichen Beitrag. Wer genauer verstehen möchte, warum etwas wichtig ist, wie es mit früheren Entwicklungen zusammenhängt oder welcher fachliche Hintergrund dahintersteht, kann über **„Mehr wissen?“** gezielt weitergehen.
+
+Dafür bietet FIB – nur wenn ein erkennbarer Erkenntnisgewinn vorhanden ist – passende Anschlussfragen an. Je nach Sachverhalt können das zum Beispiel sein:
+
+- Was muss ich wissen, um die Meldung besser zu verstehen?
+- Was ist bisher passiert?
+- Wie hängt der Vorgang mit einem länger laufenden Feldkirchner Thema zusammen?
+- Was ist noch ungeklärt?
+- Welche technische, wissenschaftliche oder rechtliche Grundlage ist wichtig?
+- Welche Erfahrungen gibt es anderswo?
+- Was könnte die Entwicklung konkret oder künftig für Feldkirchen bedeuten?
+
+Die Fragen sollen **Neugier ermöglichen, nicht eine bestimmte Antwort nahelegen**. Deshalb gibt es keine feste Zahl und keine überall identischen Standardfragen.
+
+### Quellen auch für die Vertiefung
+
+Auch die zusätzlichen Antworten bleiben quellengebunden. Dabei zählt nicht nur die Zahl der Links, sondern ihre Funktion. Eine Antwort kann zum Beispiel die ursprüngliche Meldung mit einem Rechtsrahmen, einer Fachquelle, einem regionalen Zusammenhang oder einem Praxisbeispiel verbinden.
+
+So wird sichtbar, **woher eine Aussage kommt und wofür eine Quelle in der Antwort gebraucht wird**. Unterschiedliche Perspektiven und Rollen von Quellen sollen erkennbar bleiben; Positionen von Akteuren werden als solche bezeichnet.
+
+„Mehr wissen?“ bleibt von **„Unsere Einordnung“** getrennt. Die Vertiefung erklärt zunächst sachlich. Eine grüne politische Bewertung wird nur dort dargestellt, wo sie ausdrücklich als Einordnung gekennzeichnet ist.
+
+Im Demonstrator wird dieses Prinzip inzwischen im gesamten Bestand der Beiträge und Themen angewendet. Besonders geeignete Fälle können darüber hinaus mit zusätzlichen Fach- und Hintergrundquellen vertieft werden.
 
 ## Wissenschaftliche und technische Zukunftsrelevanz
 
@@ -174,7 +202,7 @@ Damit bleibt Raum für einen breiten Blick auf kommunalpolitische, gesellschaftl
 
 | Version | Datum | Änderung |
 |---|---|---|
-| 1.3 | 27.09.2026 | Öffentliche Trend-Ebene wieder entfernt; FIB auf Presseschau, Sitzungen und Themen konzentriert. Übergreifende Trendanalyse künftig als interne Stoffsammlung/Landkarte außerhalb von FIB vorgesehen. Erweiterte und wissenschaftlich-technische Zukunftsrelevanz bleiben als Beitragsregeln erhalten. |
+| 1.4 | 27.09.2026 | „Mehr wissen?“ als FIB-weites Vertiefungsprinzip ergänzt: Meldung/Thema als Einstieg, adaptive Anschlussfragen, quellengebundene Vertiefung mit funktionalen Quellenrollen und klare Trennung zu „Unsere Einordnung“. |\n| 1.3 | 27.09.2026 | Öffentliche Trend-Ebene wieder entfernt; FIB auf Presseschau, Sitzungen und Themen konzentriert. Übergreifende Trendanalyse künftig als interne Stoffsammlung/Landkarte außerhalb von FIB vorgesehen. Erweiterte und wissenschaftlich-technische Zukunftsrelevanz bleiben als Beitragsregeln erhalten. |
 | 1.2 | 26.09.2026 | Ausgewählte konkrete Beispiele ergänzt, um Zielbild, erweiterte Relevanz und wissenschaftlich-technische Zukunftsrelevanz anschaulicher zu machen. |
 | 1.1 | 26.09.2026 | Zielbild als strategische Ebene vor dem praktischen Zweck ergänzt; zwei Zugänge zu Trends beschrieben; wissenschaftlich-technische Zukunftsrelevanz aufgenommen; Forschungs- und Denkhorizont aus dem Seminar deutlich über Ostrom hinaus erweitert. |
 | 1.0 | 26.09.2026 | Erstfassung: Zweck von FIB, erweiterte Relevanz, Abgrenzung Presseschau/Sitzungen/Themen/Trends, Trend-Recherche und Umgang mit neuen gesellschaftlichen Perspektiven beschrieben. |
