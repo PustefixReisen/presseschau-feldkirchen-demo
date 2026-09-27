@@ -51,6 +51,7 @@
   await import('./source-image-correction-20260907.js');
   await import('./search-dynamic.js?v=20260927a');
   await import('./object-links.js?v=20260927k');
+  await import('./more-knowledge.js?v=20260927c');
   await import('./share-print-subscribe.js?v=20260903c');
   await import('./mobile-print-guard.js?v=20260903c');
 
