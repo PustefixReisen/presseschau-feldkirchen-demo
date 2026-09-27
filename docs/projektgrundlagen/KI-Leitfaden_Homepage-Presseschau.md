@@ -1,6 +1,6 @@
 # KI-Leitfaden Homepage-Presseschau Feldkirchen
 
-**Version 3.0 · Stand 27.09.2026**
+**Version 3.1 · Stand 27.09.2026**
 
 > Kanonische Markdown-Fassung für GitHub. Inhaltlich übernommen aus der bisherigen Projektbibliothek und um verbindliche Projektentscheidungen fortgeschrieben.
 
@@ -261,6 +261,43 @@ Spätestens wenn zu einem solchen Sachstrang eine eigene Beschlussvorlage, behö
 
 Externe Vergleichsbeispiele dürfen ein lokales Thema ergänzend erklären, werden aber nicht als scheinbare Fortsetzung des Feldkirchner Vorgangs angehängt. Ein FIB-Thema bleibt auf einen konkreten Feldkirchner Sachzusammenhang konzentriert.
 
+## 8.1 Bezugsebene unterhalb der redaktionellen Themen
+
+FIB kann für wiederkehrende, konkret identifizierbare Objekte eine **Bezugsebene** führen. Sie ist keine zusätzliche redaktionelle Themenebene, sondern ein neutraler Index, der sichtbar macht, in welchen Beiträgen und Themen dasselbe Objekt sachlich relevant ist.
+
+Geeignete Objektarten sind insbesondere:
+- Ort / Raum,
+- Straße / Infrastruktur,
+- Einrichtung / Gebäude,
+- Projekt / Vorhaben,
+- Institution / Organisation,
+- Plan / Konzept / Regelwerk.
+
+Abstrakte Themenbegriffe, politische Positionen, Kategorien und einzelne Personen werden nicht automatisch als Objekte geführt.
+
+### Mehrwert-Schwelle
+
+Ein Objektbezug wird nur gespeichert und öffentlich angezeigt, wenn er für das Verständnis des jeweiligen Beitrags oder Themas einen **erkennbaren fachlichen Mehrwert** bietet. Eine bloße Namensnennung, räumliche Nähe oder beiläufige Erwähnung reicht nicht aus.
+
+Ein Bezug ist insbesondere sinnvoll, wenn das Objekt selbst Gegenstand von:
+- Planung oder Entscheidung,
+- Nutzung oder Veränderung,
+- Verkehrssicherheit oder Funktionsbeziehung,
+- Konflikt, Maßnahme oder Untersuchung
+ist.
+
+Ein Objekt erhält grundsätzlich erst dann eine eigene Bezugsliste, wenn es in mindestens zwei Beiträgen oder in einem Beitrag und einem Thema substanziell vorkommt und die Verknüpfung für Leserinnen und Leser einen nachvollziehbaren Erkenntnisgewinn bietet.
+
+### Darstellung
+
+Die Bezugsebene bleibt visuell unterhalb der Themenebene. In passenden Beiträgen und Themen wird ein kompakter Hinweis wie **„Bezug: B471“** angezeigt. Ein Klick öffnet eine Linkliste mit den relevanten Beiträgen und Themen. Die Bezugsliste enthält keine eigene politische Einordnung.
+
+### Datenmodell
+
+Objekte werden mit stabiler ID, kanonischem Namen, Objekttyp und gegebenenfalls Aliasnamen gespeichert. Beziehungen zu Beiträgen und Themen werden explizit geführt und nicht allein aus Volltexttreffern erzeugt. Aliasnamen können unterschiedliche Bezeichnungen desselben Objekts zusammenführen.
+
+Der Demonstrator erprobt diese Logik zunächst am Objekt **B471**.
+
 ## 9. Unsere Einordnung
 
 ### 9.1 Drei-Ebenen-Prinzip
@@ -298,6 +335,7 @@ Vor Veröffentlichung werden Tatsachen, Datumsangaben, Rollen, Links, Quellen, Z
 | Version | Datum | Änderung |
 | 2.9 | 27.09.2026 | Öffentliche Trend-Rubrik und Trend-Rechercheebene wieder aus FIB entfernt. Begründung: Trenddarstellungen können leicht als politische Planungsvorhaben des Ortsverbands verstanden werden und erfordern einen unverhältnismäßig hohen redaktionellen Vor- und Nachbereitungsaufwand. Erweiterte, gesellschaftlich-demokratische sowie wissenschaftlich-technische Relevanzregeln für einzelne Beiträge bleiben bestehen. Eine mögliche kommunalpolitische Trend-Landkarte wird als interne Stoffsammlung außerhalb von FIB behandelt. |
 |---|---|---|
+| 3.1 | 27.09.2026 | Bezugsebene unterhalb der redaktionellen Themen eingeführt. Objekte werden nur bei erkennbarem fachlichem Mehrwert verknüpft; beiläufige Nennungen reichen nicht. Stabile Objekt-IDs, Aliasnamen und explizite Beziehungen zu Beiträgen/Themen vorgesehen; Testobjekt B471. |
 | 3.0 | 27.09.2026 | Suchlogik fachlich getrennt: explizite Such-Schlagworte, Volltext ohne automatische Kategorienvererbung und verbindliche Übernahme ins Echtsystem. Themenbildungsregel ergänzt: eigenständige Sachstränge in Sammelbeiträgen separat prüfen; bei eigener Beschlussvorlage oder Stellungnahme Themenkandidat erneut bewerten; externe Vergleichsfälle nicht bezugslos an lokale Themen anhängen. |
 | 2.8 | 26.09.2026 | Für Trends bürgernahe Sprache und eine Quellenpriorität zugunsten deutschsprachiger, allgemeinverständlicher Fach- und Praxisquellen eingeführt; englischsprachige Originalquellen in den Hintergrund gerückt. Wechselseitige Verknüpfung von Themen und Trends sowie Prüfung laufender lokaler Initiativen beim Feldkirchen-Transfer ergänzt. |
 | 2.7 | 26.09.2026 | Wissenschaftliche und technische Zukunftsrelevanz als zusätzliche Beitragsregel eingeführt; Klima, Energie, KI, Gesundheit, Biodiversität, Wasser, Infrastruktur und Bevölkerungsschutz ausdrücklich aufgenommen; Trends können nun sowohl aus Presseschau-Beiträgen als auch aus eigenständiger Zukunftsrecherche entstehen. |
