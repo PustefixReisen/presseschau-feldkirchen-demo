@@ -400,7 +400,7 @@
       "id": "T003",
       "title": "Radverkehr und Verbindung über die A94",
       "first_created": "2025-10-22",
-      "last_substantive_update": "2026-09-22",
+      "last_substantive_update": "2026-09-25",
       "contribution_refs": [
         "R051",
         "R005",
@@ -408,15 +408,17 @@
         "R012",
         "R021",
         "R033",
-        "R075"
+        "R075",
+        "R093"
       ],
-      "summary": "Der Radverkehr wurde im Jahresverlauf sowohl durch regionale Forderungen als auch durch konkrete Infrastrukturmaßnahmen geprägt. Im September 2025 führte eine Kidical Mass von Aschheim über Feldkirchen zum Heimstettener See und machte sichere Radverbindungen auf der B471 sowie kindgerechte Verkehrsbedingungen zum Thema. Im Oktober beschloss Feldkirchen die Fortführung des Fuß- und Radwegs nördlich der Münchner Straße Richtung A94-Querung; aus der Bürgerversammlung kamen weitere Forderungen zu Radfahr- und Schutzstreifen sowie Schulwegen.\n\nEnde Februar 2026 begann die Bauphase für die neue Fuß- und Radwegbrücke über die A94. Im Juli meldete die Gemeinde drei neue überdachte Fahrrad-Abstellstationen als Umsetzung des kommunalen Radverkehrskonzepts. Damit reicht das Thema von regionalen Verbindungen über die A94 und B471 bis zu innerörtlichen Maßnahmen.\n\nSeit Anfang September läuft außerdem der ADFC-Fahrradklima-Test 2026. Feldkirchner Radfahrende können bis Ende November ihre Erfahrungen mit Sicherheit, Komfort und Infrastruktur im Ort bewerten; erstmals gibt es zusätzlich eine eigene Befragung für Kinder und Jugendliche. Die Ergebnisse sollen im Frühjahr 2027 veröffentlicht werden.\n\nDie am 22. September veröffentlichte Niederschrift vom 23. Juli dokumentiert außerdem das Ergebnis der Prüfung zu Radfahr- und Schutzstreifen an B471 und M18. Nach Einschätzung der zuständigen Straßenbaulastträger reichen die bestehenden Fahrbahnbreiten für durchgehende Schutz- oder Radfahrstreifen nicht aus; der Gemeinderat nahm den Sachvortrag ohne eigenen Beschluss zur Kenntnis, da die Gemeinde hierfür nicht zuständig ist.",
+      "summary": "Der Radverkehr wurde im Jahresverlauf sowohl durch regionale Forderungen als auch durch konkrete Infrastrukturmaßnahmen geprägt. Im September 2025 führte eine Kidical Mass von Aschheim über Feldkirchen zum Heimstettener See und machte sichere Radverbindungen auf der B471 sowie kindgerechte Verkehrsbedingungen zum Thema. Im Oktober beschloss Feldkirchen die Fortführung des Fuß- und Radwegs nördlich der Münchner Straße Richtung A94-Querung; aus der Bürgerversammlung kamen weitere Forderungen zu Radfahr- und Schutzstreifen sowie Schulwegen.\n\nEnde Februar 2026 begann die Bauphase für die neue Fuß- und Radwegbrücke über die A94. Im Juli meldete die Gemeinde drei neue überdachte Fahrrad-Abstellstationen als Umsetzung des kommunalen Radverkehrskonzepts. Damit reicht das Thema von regionalen Verbindungen über die A94 und B471 bis zu innerörtlichen Maßnahmen.\n\nSeit Anfang September läuft außerdem der ADFC-Fahrradklima-Test 2026. Feldkirchner Radfahrende können bis Ende November ihre Erfahrungen mit Sicherheit, Komfort und Infrastruktur im Ort bewerten; erstmals gibt es zusätzlich eine eigene Befragung für Kinder und Jugendliche. Die Ergebnisse sollen im Frühjahr 2027 veröffentlicht werden.\n\nDie am 22. September veröffentlichte Niederschrift vom 23. Juli dokumentiert außerdem das Ergebnis der Prüfung zu Radfahr- und Schutzstreifen an B471 und M18. Nach Einschätzung der zuständigen Straßenbaulastträger reichen die bestehenden Fahrbahnbreiten für durchgehende Schutz- oder Radfahrstreifen nicht aus; der Gemeinderat nahm den Sachvortrag ohne eigenen Beschluss zur Kenntnis, da die Gemeinde hierfür nicht zuständig ist.\n\nAm 25. September wurde außerdem bekannt, dass der anschließende Ebersberger Abschnitt der geplanten Radschnellverbindung München–Markt Schwaben nach verschärften Anforderungen weniger als 50 Prozent der Radschnellweg-Kriterien erfüllt und damit die vorgesehene Bundesförderung verliert. Die Route im Landkreis München führt über Aschheim, Feldkirchen und Kirchheim. Für Feldkirchen ist noch keine eigene neue Planungsentscheidung dokumentiert; die Entwicklung setzt aber die durchgehende regionale Verbindung und ihre bisherige Finanzierungskonzeption unter Druck.",
       "open_questions": [
         "Wie wird die Radverkehrsführung zwischen Münchner Straße, Olympiastraße und der neuen A94-Brücke im Endzustand gestaltet?",
         "Wie kann der Rad- und Fußweg an der Münchner Straße gebaut werden, ohne den gewachsenen Gehölzstreifen unnötig zu beeinträchtigen?",
         "Welche Ergebnisse bringt die weitere Prüfung von Radfahr- und Schutzstreifen an B471 und M18?",
         "Welche weiteren Maßnahmen aus dem Radverkehrskonzept folgen nach den neuen Abstellstationen?",
-        "Welche Hinweise ergeben sich aus dem Fahrradklima-Test 2026 für die weitere Priorisierung von Maßnahmen im Feldkirchner Radverkehr?"
+        "Welche Hinweise ergeben sich aus dem Fahrradklima-Test 2026 für die weitere Priorisierung von Maßnahmen im Feldkirchner Radverkehr?",
+        "Wie wirkt sich der Wegfall des Radschnellweg-Standards und der Bundesförderung im Ebersberger Abschnitt auf die weitere Planung der Verbindung München–Feldkirchen–Markt Schwaben aus?"
       ],
       "sources": [
         {
@@ -572,6 +574,28 @@
           ],
           "date": "2026-09-22",
           "date_basis": "public_release_in_RIS",
+          "date_status": "verified"
+        },
+        {
+          "name": "Münchner Merkur – Engstellen stoppen Radschnellweg München–Markt Schwaben",
+          "url": "https://www.merkur.de/lokales/ebersberg/markt-schwaben-ort29035/engstellen-stoppen-radschnellweg-muenchen-markt-schwaben-foerderung-faellt-weg-94511262.html",
+          "type": "press",
+          "source_refs": [
+            "R093"
+          ],
+          "date": "2026-09-25",
+          "date_basis": "publication_date",
+          "date_status": "verified"
+        },
+        {
+          "name": "Landkreis München – Radschnellverbindungen",
+          "url": "https://www.landkreis-muenchen.de/themen/mobilitaet/radverkehr/aktuelle-radprojekte/radschnellverbindungen/",
+          "type": "primary_official",
+          "source_refs": [
+            "R093"
+          ],
+          "date": "2026-09-27",
+          "date_basis": "access_date",
           "date_status": "verified"
         }
       ],
