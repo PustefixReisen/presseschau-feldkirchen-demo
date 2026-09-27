@@ -148,6 +148,20 @@ Eine Sammelkategorie erzeugt keine automatische Unterthemenzuordnung. Beispiel: 
 
 Im Demonstrator wird die Kategorienbeschriftung deshalb aus der Freitext-Suchbasis entfernt. Für den **Echtbetrieb** sind Kategorien, Orte und fachliche Schlagworte als getrennte strukturierte Felder zu übernehmen. Die Suche darf nicht aus dem vollständig gerenderten Kartentext einschließlich UI-Metadaten rekonstruiert werden.
 
+## 7.2 Bezugsebene
+
+Unterhalb der redaktionellen Themen kann FIB eine neutrale Bezugsebene für wiederkehrende konkrete Objekte anzeigen. Sie ist kein eigener Hauptnavigationsbereich.
+
+Ein passender Beitrag oder ein passendes Thema kann einen kompakten Hinweis wie **„Bezug: B471“** enthalten. Der Link öffnet eine kleine Übersicht mit:
+- kurzer Objektbezeichnung,
+- verknüpften FIB-Themen,
+- verknüpften Beiträgen,
+- kurzer Erläuterung der Auswahlregel.
+
+Die Liste wird nur aus **explizit geprüften Objektbeziehungen** erzeugt. Reine Volltexttreffer oder beiläufige Namensnennungen erscheinen nicht automatisch.
+
+Im Demonstrator wird die Darstellung zunächst am Objekt **B471** erprobt. Für den Echtbetrieb ist eine strukturierte Objekttabelle mit stabilen IDs, Typen, Aliasnamen und Beziehungen zu Beiträgen/Themen vorgesehen.
+
 ## 8. Responsives Verhalten
 
 - Desktop/Tablet: Karten nutzen die verfügbare Inhaltsbreite; Bildteaser zweispaltig.
