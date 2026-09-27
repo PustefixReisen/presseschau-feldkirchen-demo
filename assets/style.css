@@ -96,7 +96,7 @@ details{border-top:1px solid #d2d9d5;margin-top:14px;padding-top:11px}summary{cu
 .object-links ul{margin:.15rem 0 0;padding-left:1.2rem}
 .object-links li{margin:.2rem 0}
 .object-links .fib-object-link{appearance:none;border:0;background:none;padding:0;color:#003f2c;font:inherit;font-weight:650;text-decoration:underline;text-decoration-thickness:2px;text-underline-offset:3px;cursor:pointer}
-.object-links .fib-object-link:hover,.object-links .fib-object-link:focus{color:#003f2a;text-decoration-thickness:2px}
+.object-links .fib-object-link:hover,.object-links .fib-object-link:focus{color:#005f42;text-decoration-thickness:2px}
 .fib-object-dialog{max-width:min(680px,calc(100vw - 32px));border:0;padding:0;border-radius:12px;background:#f7f7f3;color:#173126}
 .fib-object-dialog::backdrop{background:rgba(0,0,0,.45)}
 .fib-object-dialog-inner{position:relative;padding:24px}
@@ -105,3 +105,6 @@ details{border-top:1px solid #d2d9d5;margin-top:14px;padding-top:11px}summary{cu
 .fib-object-content h4{margin:1.1rem 0 .4rem;color:#005437}
 .fib-object-content ul{margin:.2rem 0 .9rem;padding-left:1.2rem}
 .fib-object-content li{margin:.35rem 0}
+
+.fib-object-content a{color:#003f2c;text-decoration-thickness:2px;text-underline-offset:3px;font-weight:650}
+.fib-object-content a:hover,.fib-object-content a:focus{color:#005f42;text-decoration-thickness:2px}
