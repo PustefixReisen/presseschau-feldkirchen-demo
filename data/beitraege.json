@@ -10,7 +10,7 @@
     "recherchebestand.json",
     "sitzungsbestand.json"
   ],
-  "contribution_count": 83,
+  "contribution_count": 84,
   "editorial_rules": [
     "No methodological or demonstrator text inside public contribution content.",
     "Sachinformation is neutral; political assessment is a separate optional field.",
@@ -21,6 +21,73 @@
     "Unsere Einordnung was audited on 2026-08-29 for citizen-oriented political language per KI-Leitfaden 0.8."
   ],
   "contributions": [
+    {
+      "id": "R094",
+      "date": "2026-07-15",
+      "publication_date": "2026-07-15",
+      "category": "Mobilität & Verkehr",
+      "topic_candidates": [
+        "Tempo 30",
+        "B471",
+        "Schulwegsicherheit",
+        "Verkehrssicherheit"
+      ],
+      "search_tags": [
+        "Tempo 30",
+        "B471",
+        "Schulwegsicherheit",
+        "Verkehrssicherheit",
+        "Bürgerantrag"
+      ],
+      "title": "Tempo 30 an der B471: Landratsamt sieht Voraussetzungen nicht erfüllt",
+      "subtitle": "Die Prüfung eines Bürgerantrags konzentriert sich auf den Schulweg entlang der Aschheimer Straße; nach Ortstermin und Stellungnahme soll dort Tempo 50 bleiben.",
+      "sachinformation": "Ausgangspunkt war ein Antrag aus der Bürgerversammlung vom 22. Oktober 2025 auf Tempo 30 an stark frequentierten Schulwegen. Die Antragstellerin konkretisierte den Antrag später auf den Abschnitt der B471/Aschheimer Straße zwischen Zeppelinstraße und Ortsausgang Richtung Aschheim. Nach einem Ortstermin mit Landratsamt, Polizei, Staatlichem Bauamt Freising und Gemeinde kam das Landratsamt zu dem Ergebnis, dass der Geh- und Radweg dort ausreichend breit und weitgehend von der Fahrbahn getrennt sei. Auch die Unfalllage wurde als unauffällig bewertet. Deshalb soll auf B471 und M18 die Regelgeschwindigkeit von 50 km/h bestehen bleiben. Für die Fußgängerampel B471/Ottostraße wurde dagegen eine Verlängerung der Alles-Rot-Zeit auf vier Sekunden in Aussicht gestellt, sofern die Verkehrstechnik keine Einwände hat.",
+      "sources": [
+        {
+          "name": "RIS Feldkirchen – Beschlussvorlage 5275/2026",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74581&type=do",
+          "type": "primary_official",
+          "date": "2026-07-15",
+          "date_basis": "public_release_in_RIS",
+          "date_status": "verified"
+        }
+      ],
+      "bisheriger_verlauf": [
+        {
+          "id": "R007",
+          "date": "2025-10-22",
+          "title": "Bürgerversammlung bringt Anträge zu Radwegen, Tempo 30 und Klimazielen"
+        },
+        {
+          "id": "R012",
+          "date": "2025-12-04",
+          "title": "Gemeinderat greift mehrere Anträge aus der Bürgerversammlung auf"
+        }
+      ],
+      "unsere_einordnung": null,
+      "council": {
+        "date": "2026-07-23",
+        "proposal_no": "5275/2026",
+        "session_id": "S020"
+      },
+      "research_refs": [
+        "R094"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen",
+        "related_places": [
+          "Feldkirchen"
+        ],
+        "scope": "local",
+        "verification_status": "verified_2026-09-27"
+      },
+      "established_topic_refs": [
+        {
+          "id": "T013",
+          "title": "Verkehrssicherheit an B471 und M18"
+        }
+      ]
+    },
     {
       "id": "R093",
       "date": "2026-09-25",
@@ -84,7 +151,13 @@
       "stage_update_meta": {
         "created_at": "2026-09-27",
         "source_status": "verified_press_plus_official_context"
-      }
+      },
+      "search_tags": [
+        "Radschnellverbindung",
+        "Radverkehr",
+        "München–Markt Schwaben",
+        "Feldkirchen"
+      ]
     },
     {
       "id": "R086",
@@ -139,7 +212,12 @@
       "stage_update_meta": {
         "created_at": "2026-09-26",
         "source_status": "verified_external_relevance_backfill"
-      }
+      },
+      "search_tags": [
+        "ADFC",
+        "Radverkehr",
+        "Vereinsförderung"
+      ]
     },
     {
       "id": "R087",
@@ -194,7 +272,12 @@
       "stage_update_meta": {
         "created_at": "2026-09-26",
         "source_status": "verified_external_relevance_backfill"
-      }
+      },
+      "search_tags": [
+        "Schulcampus",
+        "Fahrradstraße",
+        "Schulweg"
+      ]
     },
     {
       "id": "R088",
@@ -241,7 +324,12 @@
       "stage_update_meta": {
         "created_at": "2026-09-26",
         "source_status": "verified_external_relevance_backfill"
-      }
+      },
+      "search_tags": [
+        "Autonomes Fahren",
+        "On-Demand",
+        "ÖPNV"
+      ]
     },
     {
       "id": "R089",
@@ -288,7 +376,12 @@
       "stage_update_meta": {
         "created_at": "2026-09-26",
         "source_status": "verified_external_relevance_backfill"
-      }
+      },
+      "search_tags": [
+        "Wohnungsbau",
+        "Modulbau",
+        "bezahlbares Wohnen"
+      ]
     },
     {
       "id": "R090",
@@ -335,7 +428,12 @@
       "stage_update_meta": {
         "created_at": "2026-09-26",
         "source_status": "verified_external_relevance_backfill"
-      }
+      },
+      "search_tags": [
+        "Jugendbeteiligung",
+        "Jugendparlament",
+        "Demokratie"
+      ]
     },
     {
       "id": "R091",
@@ -390,7 +488,12 @@
       "stage_update_meta": {
         "created_at": "2026-09-26",
         "source_status": "verified_external_relevance_backfill"
-      }
+      },
+      "search_tags": [
+        "Bürgerbudget",
+        "Bürgerbeteiligung",
+        "kommunale Gestaltung"
+      ]
     },
     {
       "id": "R092",
@@ -437,7 +540,12 @@
       "stage_update_meta": {
         "created_at": "2026-09-26",
         "source_status": "verified_external_relevance_backfill"
-      }
+      },
+      "search_tags": [
+        "Bürgerrat",
+        "Losverfahren",
+        "Bürgerbeteiligung"
+      ]
     },
     {
       "id": "R084",
@@ -501,7 +609,12 @@
       "stage_update_meta": {
         "created_at": "2026-09-26",
         "source_status": "verified_official_local_news"
-      }
+      },
+      "search_tags": [
+        "Bürgerversammlung",
+        "Bürgerbeteiligung",
+        "Gemeinderat"
+      ]
     },
     {
       "id": "R085",
@@ -545,7 +658,13 @@
       "stage_update_meta": {
         "created_at": "2026-09-26",
         "source_status": "verified_official_local_news"
-      }
+      },
+      "search_tags": [
+        "S-Bahn",
+        "S2",
+        "ÖPNV",
+        "Baustellen"
+      ]
     },
     {
       "id": "R083",
@@ -622,7 +741,14 @@
         "created_at": "2026-09-24",
         "restored_from_legacy_demo": true,
         "source_status": "verified"
-      }
+      },
+      "search_tags": [
+        "Gemeinderat",
+        "Kinderhaus St. Jakob",
+        "Hitzeschutz",
+        "Betreutes Wohnen",
+        "Bürgerversammlung"
+      ]
     },
     {
       "id": "R080",
@@ -679,7 +805,12 @@
       "stage_update_meta": {
         "created_at": "2026-09-24",
         "source_status": "verified_public_release_upcoming_session"
-      }
+      },
+      "search_tags": [
+        "Hundehaltung",
+        "Leinenpflicht",
+        "Gefahrenabwehr"
+      ]
     },
     {
       "id": "R079",
@@ -736,7 +867,12 @@
       "stage_update_meta": {
         "created_at": "2026-09-24",
         "source_status": "verified_public_release_upcoming_session"
-      }
+      },
+      "search_tags": [
+        "Vereinsförderung",
+        "Toilettenwagen",
+        "Veranstaltungen"
+      ]
     },
     {
       "id": "R078",
@@ -787,7 +923,12 @@
       "stage_update_meta": {
         "created_at": "2026-09-24",
         "source_status": "verified_public_release_upcoming_session"
-      }
+      },
+      "search_tags": [
+        "Kinderbetreuung",
+        "Großtagespflege",
+        "Brezn-Beißer-Bande"
+      ]
     },
     {
       "id": "R077",
@@ -838,7 +979,12 @@
       "stage_update_meta": {
         "created_at": "2026-09-24",
         "source_status": "verified_public_release_upcoming_session"
-      }
+      },
+      "search_tags": [
+        "Nachtragshaushalt 2026",
+        "Grundstückserwerb",
+        "Gemeindefinanzen"
+      ]
     },
     {
       "id": "R076",
@@ -889,7 +1035,12 @@
       "stage_update_meta": {
         "created_at": "2026-09-23",
         "source_status": "retroactively_added_from_missed_municipal_news"
-      }
+      },
+      "search_tags": [
+        "Hundehaltung",
+        "Leinenpflicht",
+        "Dornacher Feld"
+      ]
     },
     {
       "id": "R075",
@@ -945,7 +1096,12 @@
       "stage_update_meta": {
         "created_at": "2026-09-23",
         "source_status": "retroactively_added_from_missed_municipal_news"
-      }
+      },
+      "search_tags": [
+        "Radverkehr",
+        "ADFC-Fahrradklima-Test",
+        "Bürgerbeteiligung"
+      ]
     },
     {
       "id": "R074",
@@ -991,7 +1147,13 @@
       "stage_update_meta": {
         "created_at": "2026-09-21",
         "source_status": "verified_press_report"
-      }
+      },
+      "search_tags": [
+        "B471",
+        "B471 neu",
+        "Ortsumfahrung Feldkirchen",
+        "regionale Verkehrsplanung"
+      ]
     },
     {
       "id": "R073",
@@ -1055,7 +1217,12 @@
       "stage_update_meta": {
         "created_at": "2026-09-21",
         "source_status": "verified_primary_plus_press_result"
-      }
+      },
+      "search_tags": [
+        "Betreutes Wohnen",
+        "Seniorenwohnen",
+        "Wohnungsbau"
+      ]
     },
     {
       "id": "R069",
@@ -1129,7 +1296,11 @@
         "reference_urls": [
           "https://www.gruene-bayern.de/dateien/Leitlinien-zur-Kommunalwahl-26_Deutsch.pdf"
         ]
-      }
+      },
+      "search_tags": [
+        "Hundewiese",
+        "Grünfläche östlich des Friedhofs"
+      ]
     },
     {
       "id": "R070",
@@ -1190,7 +1361,11 @@
       "stage_update_meta": {
         "created_at": "2026-09-20",
         "source_status": "verified"
-      }
+      },
+      "search_tags": [
+        "Klimaanpassung",
+        "Hitzeschutz"
+      ]
     },
     {
       "id": "R071",
@@ -1260,7 +1435,10 @@
       "stage_update_meta": {
         "created_at": "2026-09-20",
         "source_status": "verified"
-      }
+      },
+      "search_tags": [
+        "Kinderhaus St. Jakob"
+      ]
     },
     {
       "id": "R072",
@@ -1338,6 +1516,11 @@
           "label": "Sitzungsunterlagen öffentlich bereitgestellt; Angaben zu Bäumen, Ersatzpflanzungen und Beschlussempfehlung ergänzt",
           "source_type": "primary_official"
         }
+      ],
+      "search_tags": [
+        "Wohnungsbau",
+        "Bebauungsplan Nr. 113",
+        "Kinderbetreuung"
       ]
     },
     {
@@ -1412,7 +1595,10 @@
         "created_at": "2026-09-20",
         "source_status": "official_minutes_added",
         "updated_at": "2026-09-23"
-      }
+      },
+      "search_tags": [
+        "Parkraumkonzept"
+      ]
     },
     {
       "id": "R050",
@@ -1461,6 +1647,11 @@
           "id": "T014",
           "title": "Katastrophenschutz und kommunale Vorsorge"
         }
+      ],
+      "search_tags": [
+        "Katastrophenschutz",
+        "Gesundheit/Pflege",
+        "Kommunale Resilienz"
       ]
     },
     {
@@ -1530,6 +1721,11 @@
           "id": "T012",
           "title": "A99-Ausbau und M18/EBE4"
         }
+      ],
+      "search_tags": [
+        "A99",
+        "B304",
+        "Regionale Verkehrsführung"
       ]
     },
     {
@@ -1601,7 +1797,11 @@
         "editorial_action": "new_from_verified_research",
         "created_at": "2026-08-28"
       },
-      "established_topic_refs": []
+      "established_topic_refs": [],
+      "search_tags": [
+        "Schulzweckverband",
+        "Bildungsinfrastruktur"
+      ]
     },
     {
       "id": "R041",
@@ -1652,7 +1852,11 @@
         "editorial_action": "new_from_verified_research",
         "created_at": "2026-08-28"
       },
-      "established_topic_refs": []
+      "established_topic_refs": [],
+      "search_tags": [
+        "Fernwärme",
+        "Verkehr"
+      ]
     },
     {
       "id": "R048",
@@ -1711,6 +1915,10 @@
           "id": "T013",
           "title": "Heimstettener See: Nutzung, Erholung und Gesundheit"
         }
+      ],
+      "search_tags": [
+        "Heimstettener See",
+        "Gesundheit"
       ]
     },
     {
@@ -1787,6 +1995,11 @@
           "label": "Öffentliche Niederschrift bestätigt das Beratungsergebnis",
           "source_type": "primary_official_minutes"
         }
+      ],
+      "search_tags": [
+        "Wohnen",
+        "Gewerbegebiet",
+        "Mitarbeiterwohnen"
       ]
     },
     {
@@ -1841,6 +2054,9 @@
           "id": "T006",
           "title": "Parkraumkonzept"
         }
+      ],
+      "search_tags": [
+        "Parkraumkonzept"
       ]
     },
     {
@@ -1911,6 +2127,10 @@
           "id": "T001",
           "title": "Kommunale Wärmeplanung und Geothermie"
         }
+      ],
+      "search_tags": [
+        "Geothermie",
+        "Kommunale Wärmeplanung"
       ]
     },
     {
@@ -1960,6 +2180,10 @@
           "id": "T009",
           "title": "Wohnungsbau und kommunale Planung"
         }
+      ],
+      "search_tags": [
+        "Wohnen",
+        "Kommunale Planungshoheit"
       ]
     },
     {
@@ -2039,6 +2263,9 @@
           "label": "Öffentliche Niederschrift bestätigt die Zurückstellung der beiden Maßnahmen",
           "source_type": "primary_official_minutes"
         }
+      ],
+      "search_tags": [
+        "Ortsentwicklung"
       ]
     },
     {
@@ -2099,6 +2326,11 @@
           "id": "T013",
           "title": "Heimstettener See: Nutzung, Erholung und Gesundheit"
         }
+      ],
+      "search_tags": [
+        "Heimstettener See",
+        "Tourismus/Freizeit",
+        "Flächennutzung"
       ]
     },
     {
@@ -2153,6 +2385,10 @@
           "id": "T009",
           "title": "Wohnungsbau und kommunale Planung"
         }
+      ],
+      "search_tags": [
+        "Wohnen",
+        "Bebauungsplan 113"
       ]
     },
     {
@@ -2221,7 +2457,11 @@
       "stage_update_meta": {
         "updated_at": "2026-09-23",
         "source_status": "official_minutes_confirmed"
-      }
+      },
+      "search_tags": [
+        "Vereine",
+        "Veranstaltungsinfrastruktur"
+      ]
     },
     {
       "id": "R033",
@@ -2264,6 +2504,9 @@
           "id": "T003",
           "title": "Radverkehr und Verbindung über die A94"
         }
+      ],
+      "search_tags": [
+        "Radverkehr"
       ]
     },
     {
@@ -2316,6 +2559,9 @@
           "id": "T001",
           "title": "Kommunale Wärmeplanung und Geothermie"
         }
+      ],
+      "search_tags": [
+        "Geothermie"
       ]
     },
     {
@@ -2399,6 +2645,10 @@
           "id": "T005",
           "title": "Klimaanpassung und Hitzeschutz"
         }
+      ],
+      "search_tags": [
+        "Klimaanpassung",
+        "Hitzeschutz"
       ]
     },
     {
@@ -2456,7 +2706,12 @@
         "created_at": "2026-08-29",
         "fact_backcheck": "passed"
       },
-      "established_topic_refs": []
+      "established_topic_refs": [],
+      "search_tags": [
+        "Ortsentwicklung",
+        "Grünplanung",
+        "Klimaanpassung"
+      ]
     },
     {
       "id": "R030",
@@ -2536,6 +2791,10 @@
           "id": "T004",
           "title": "Kinderhaus St. Jakob"
         }
+      ],
+      "search_tags": [
+        "Kinderhaus St. Jakob",
+        "Schul- und Kitawege"
       ]
     },
     {
@@ -2636,6 +2895,12 @@
           "id": "T001",
           "title": "Kommunale Wärmeplanung und Geothermie"
         }
+      ],
+      "search_tags": [
+        "Kommunale Wärmeplanung",
+        "Geothermie",
+        "Fernwärmepreise",
+        "Bürgerinitiative AFK"
       ]
     },
     {
@@ -2700,6 +2965,11 @@
           "id": "T011",
           "title": "Interkommunale Mobilität und MobilityHub München Ost"
         }
+      ],
+      "search_tags": [
+        "MobilityHub München Ost",
+        "OstAllianz",
+        "Interkommunale Mobilität"
       ]
     },
     {
@@ -2759,6 +3029,10 @@
           "id": "T008",
           "title": "Bürgerbeteiligung und kommunale Mitwirkung"
         }
+      ],
+      "search_tags": [
+        "Gemeinderat 2026–2032",
+        "Bürgerbeteiligung"
       ]
     },
     {
@@ -2819,6 +3093,11 @@
           "id": "T011",
           "title": "Interkommunale Mobilität und MobilityHub München Ost"
         }
+      ],
+      "search_tags": [
+        "Bikesharing",
+        "Radverkehr",
+        "ÖPNV-Verknüpfung"
       ]
     },
     {
@@ -2890,6 +3169,10 @@
           "id": "T004",
           "title": "Kinderhaus St. Jakob"
         }
+      ],
+      "search_tags": [
+        "Kinderhaus St. Jakob",
+        "Kinderbetreuung"
       ]
     },
     {
@@ -2950,6 +3233,9 @@
           "id": "T010",
           "title": "Ortszentrum und Nahversorgung"
         }
+      ],
+      "search_tags": [
+        "Ortszentrum & Nahversorgung"
       ]
     },
     {
@@ -3020,7 +3306,11 @@
         "created_at": "2026-08-29",
         "fact_backcheck": "passed"
       },
-      "established_topic_refs": []
+      "established_topic_refs": [],
+      "search_tags": [
+        "Kommunalwahl 2026",
+        "Gemeinderat"
+      ]
     },
     {
       "id": "R024",
@@ -3097,6 +3387,10 @@
           "id": "T001",
           "title": "Kommunale Wärmeplanung und Geothermie"
         }
+      ],
+      "search_tags": [
+        "Kommunale Wärmeplanung",
+        "Geothermie"
       ]
     },
     {
@@ -3144,6 +3438,9 @@
           "id": "T002",
           "title": "Ortsentwicklung und Bauleitplanung"
         }
+      ],
+      "search_tags": [
+        "Ortsentwicklung"
       ]
     },
     {
@@ -3196,7 +3493,13 @@
         "verification_status": "verified_for_stage_E_from_research_basis",
         "note": "Strukturell ergänzt; konkreter Ortskopf wird in Vollständigkeits-/Nachbarschaftsaudit verifiziert."
       },
-      "established_topic_refs": []
+      "established_topic_refs": [],
+      "search_tags": [
+        "Kommunalwahl 2026",
+        "Kommunalwahl",
+        "Bürgermeisterwahl",
+        "Wahl"
+      ]
     },
     {
       "id": "R026",
@@ -3259,6 +3562,9 @@
           "id": "T006",
           "title": "Parkraumkonzept"
         }
+      ],
+      "search_tags": [
+        "Parkraumkonzept"
       ]
     },
     {
@@ -3314,7 +3620,10 @@
         "verification_status": "verified_for_stage_E_from_research_basis",
         "note": "Strukturell ergänzt; konkreter Ortskopf wird in Vollständigkeits-/Nachbarschaftsaudit verifiziert."
       },
-      "established_topic_refs": []
+      "established_topic_refs": [],
+      "search_tags": [
+        "Kommunalwahl 2026"
+      ]
     },
     {
       "id": "R021",
@@ -3372,6 +3681,10 @@
           "id": "T003",
           "title": "Radverkehr und Verbindung über die A94"
         }
+      ],
+      "search_tags": [
+        "Radverkehr",
+        "Münchner Straße/A94"
       ]
     },
     {
@@ -3423,7 +3736,11 @@
         "verification_status": "verified_for_stage_E_from_research_basis",
         "note": "Strukturell ergänzt; konkreter Ortskopf wird in Vollständigkeits-/Nachbarschaftsaudit verifiziert."
       },
-      "established_topic_refs": []
+      "established_topic_refs": [],
+      "search_tags": [
+        "Gemeindehaushalt",
+        "Investitionen"
+      ]
     },
     {
       "id": "R046",
@@ -3466,6 +3783,9 @@
           "id": "T014",
           "title": "Katastrophenschutz und kommunale Vorsorge"
         }
+      ],
+      "search_tags": [
+        "Katastrophenschutz"
       ]
     },
     {
@@ -3536,6 +3856,10 @@
           "id": "T001",
           "title": "Kommunale Wärmeplanung und Geothermie"
         }
+      ],
+      "search_tags": [
+        "Geothermie",
+        "Kommunale Wärmeplanung"
       ]
     },
     {
@@ -3595,7 +3919,11 @@
         "verification_status": "verified_for_stage_E_from_research_basis",
         "note": "Strukturell ergänzt; konkreter Ortskopf wird in Vollständigkeits-/Nachbarschaftsaudit verifiziert."
       },
-      "established_topic_refs": []
+      "established_topic_refs": [],
+      "search_tags": [
+        "ÖPNV",
+        "Barrierefreiheit"
+      ]
     },
     {
       "id": "R016",
@@ -3657,6 +3985,10 @@
           "id": "T001",
           "title": "Kommunale Wärmeplanung und Geothermie"
         }
+      ],
+      "search_tags": [
+        "Kommunale Wärmeplanung",
+        "Geothermie"
       ]
     },
     {
@@ -3721,6 +4053,10 @@
           "id": "T005",
           "title": "Klimaanpassung und Hitzeschutz"
         }
+      ],
+      "search_tags": [
+        "Klimaanpassung",
+        "Ortsentwicklung"
       ]
     },
     {
@@ -3777,6 +4113,10 @@
           "id": "T005",
           "title": "Klimaanpassung und Hitzeschutz"
         }
+      ],
+      "search_tags": [
+        "Klimaschutz",
+        "Photovoltaik"
       ]
     },
     {
@@ -3832,6 +4172,9 @@
           "id": "T005",
           "title": "Klimaanpassung und Hitzeschutz"
         }
+      ],
+      "search_tags": [
+        "Kreislaufwirtschaft"
       ]
     },
     {
@@ -3878,6 +4221,10 @@
           "id": "T013",
           "title": "Heimstettener See: Nutzung, Erholung und Gesundheit"
         }
+      ],
+      "search_tags": [
+        "Heimstettener See",
+        "Parken"
       ]
     },
     {
@@ -3920,7 +4267,10 @@
         "verification_status": "verified_for_stage_E_from_research_basis",
         "note": "Strukturell ergänzt; konkreter Ortskopf wird in Vollständigkeits-/Nachbarschaftsaudit verifiziert."
       },
-      "established_topic_refs": []
+      "established_topic_refs": [],
+      "search_tags": [
+        "Friedhof"
+      ]
     },
     {
       "id": "R043",
@@ -3964,6 +4314,10 @@
           "id": "T001",
           "title": "Kommunale Wärmeplanung und Geothermie"
         }
+      ],
+      "search_tags": [
+        "Geothermie",
+        "Fernwärme"
       ]
     },
     {
@@ -4028,7 +4382,17 @@
         {
           "id": "T008",
           "title": "Bürgerbeteiligung und kommunale Mitwirkung"
+        },
+        {
+          "id": "T013",
+          "title": "Verkehrssicherheit an B471 und M18"
         }
+      ],
+      "search_tags": [
+        "Bürgerbeteiligung",
+        "Tempo 30",
+        "Radverkehr",
+        "Klimaschutz"
       ]
     },
     {
@@ -4079,6 +4443,11 @@
           "id": "T011",
           "title": "Interkommunale Mobilität und MobilityHub München Ost"
         }
+      ],
+      "search_tags": [
+        "MobilityHub München Ost",
+        "OstAllianz",
+        "Interkommunale Mobilität"
       ]
     },
     {
@@ -4122,6 +4491,9 @@
           "id": "T007",
           "title": "Spielplätze"
         }
+      ],
+      "search_tags": [
+        "Spielplätze"
       ]
     },
     {
@@ -4171,6 +4543,10 @@
           "id": "T007",
           "title": "Spielplätze"
         }
+      ],
+      "search_tags": [
+        "Spielplätze",
+        "Ortsentwicklung"
       ]
     },
     {
@@ -4241,6 +4617,10 @@
           "id": "T012",
           "title": "A99-Ausbau und M18/EBE4"
         }
+      ],
+      "search_tags": [
+        "A99/Kreuz München-Ost",
+        "M18/EBE4"
       ]
     },
     {
@@ -4296,6 +4676,9 @@
           "id": "T002",
           "title": "Ortsentwicklung und Bauleitplanung"
         }
+      ],
+      "search_tags": [
+        "Ortsentwicklung"
       ]
     },
     {
@@ -4353,7 +4736,17 @@
         {
           "id": "T008",
           "title": "Bürgerbeteiligung und kommunale Mitwirkung"
+        },
+        {
+          "id": "T013",
+          "title": "Verkehrssicherheit an B471 und M18"
         }
+      ],
+      "search_tags": [
+        "Bürgerbeteiligung",
+        "Radverkehr",
+        "Tempo 30",
+        "Klimaschutz"
       ]
     },
     {
@@ -4409,6 +4802,9 @@
           "id": "T004",
           "title": "Kinderhaus St. Jakob"
         }
+      ],
+      "search_tags": [
+        "Kinderhaus St. Jakob"
       ]
     },
     {
@@ -4469,6 +4865,10 @@
           "id": "T009",
           "title": "Wohnungsbau und kommunale Planung"
         }
+      ],
+      "search_tags": [
+        "Ortsentwicklung",
+        "Wohnen"
       ]
     },
     {
@@ -4517,6 +4917,10 @@
           "id": "T002",
           "title": "Ortsentwicklung und Bauleitplanung"
         }
+      ],
+      "search_tags": [
+        "Ortsentwicklung",
+        "Fußverkehr"
       ]
     },
     {
@@ -4585,6 +4989,10 @@
           "id": "T009",
           "title": "Wohnungsbau und kommunale Planung"
         }
+      ],
+      "search_tags": [
+        "Radverkehr",
+        "Münchner Straße/A94"
       ]
     },
     {
@@ -4633,7 +5041,11 @@
         "created_at": "2026-08-29",
         "fact_backcheck": "passed"
       },
-      "established_topic_refs": []
+      "established_topic_refs": [],
+      "search_tags": [
+        "ÖPNV",
+        "Barrierefreiheit"
+      ]
     },
     {
       "id": "R002",
@@ -4676,6 +5088,9 @@
           "id": "T010",
           "title": "Ortszentrum und Nahversorgung"
         }
+      ],
+      "search_tags": [
+        "Ortszentrum & Nahversorgung"
       ]
     },
     {
@@ -4726,6 +5141,11 @@
           "id": "T012",
           "title": "A99-Ausbau und M18/EBE4"
         }
+      ],
+      "search_tags": [
+        "A99-Ausbau",
+        "M18/EBE4",
+        "Südumfahrung"
       ]
     },
     {
@@ -4765,7 +5185,11 @@
         "verification_status": "verified_for_stage_E_from_research_basis",
         "note": "Strukturell ergänzt; konkreter Ortskopf wird in Vollständigkeits-/Nachbarschaftsaudit verifiziert."
       },
-      "established_topic_refs": []
+      "established_topic_refs": [],
+      "search_tags": [
+        "Öffentlicher Raum",
+        "Parken"
+      ]
     },
     {
       "id": "R051",
@@ -4825,6 +5249,11 @@
           "id": "T003",
           "title": "Radverkehr und Verbindung über die A94"
         }
+      ],
+      "search_tags": [
+        "Radverkehr",
+        "B471",
+        "Verkehrssicherheit"
       ]
     },
     {
@@ -4873,6 +5302,10 @@
           "id": "T002",
           "title": "Ortsentwicklung und Bauleitplanung"
         }
+      ],
+      "search_tags": [
+        "Ortsentwicklung",
+        "Gewerbeentwicklung"
       ]
     }
   ],
