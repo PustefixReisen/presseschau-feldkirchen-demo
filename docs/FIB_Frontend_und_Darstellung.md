@@ -170,7 +170,7 @@ Im Demonstrator wird die Darstellung zunächst am Objekt **B471** erprobt.
 
 Der Dialog eines Bezugsobjekts erhält auf kleinen Bildschirmen eine eigene Scrollfläche, wenn sein Inhalt höher als der verfügbare Viewport ist. Die Schließen-Funktion bleibt dabei erreichbar.
 
-Das Öffnen eines Bezugsobjekts wird als eigener Browser-History-Zustand geführt. Wird aus dem Dialog zu einem verknüpften Beitrag oder Thema gewechselt, soll **Zurück** im Browser wieder den vorherigen Bezugsdialog öffnen; ein weiteres **Zurück** führt zur ursprünglichen Ansicht zurück. Für den Echtbetrieb ist eine strukturierte Objekttabelle mit stabilen IDs, Typen, Aliasnamen und Beziehungen zu Beiträgen/Themen vorgesehen.
+Das Öffnen eines Bezugsobjekts und der Wechsel zu einem verknüpften Beitrag oder Thema werden als **explizite History-Zustände** geführt. Der normale Fragmentwechsel des Browsers wird dafür nicht verwendet. Dadurch soll insbesondere auf mobilen Browsern mit Wisch-Navigation gelten: Ein Schritt **Zurück** vom Ziel öffnet wieder den vorherigen Bezugsdialog; ein weiterer Schritt **Zurück** führt zur ursprünglichen Ansicht zurück. Für den Echtbetrieb ist eine strukturierte Objekttabelle mit stabilen IDs, Typen, Aliasnamen und Beziehungen zu Beiträgen/Themen vorgesehen.
 
 ## 8. Responsives Verhalten
 
