@@ -164,7 +164,13 @@ Interne Auswahl- und Qualitätsregeln werden im Dialog nicht angezeigt. Die Link
 
 Die Liste wird nur aus **explizit geprüften Objektbeziehungen** erzeugt. Reine Volltexttreffer oder beiläufige Namensnennungen erscheinen nicht automatisch.
 
-Im Demonstrator wird die Darstellung zunächst am Objekt **B471** erprobt. Für den Echtbetrieb ist eine strukturierte Objekttabelle mit stabilen IDs, Typen, Aliasnamen und Beziehungen zu Beiträgen/Themen vorgesehen.
+Im Demonstrator wird die Darstellung zunächst am Objekt **B471** erprobt.
+
+### Browser-Navigation und lange Dialoge
+
+Der Dialog eines Bezugsobjekts erhält auf kleinen Bildschirmen eine eigene Scrollfläche, wenn sein Inhalt höher als der verfügbare Viewport ist. Die Schließen-Funktion bleibt dabei erreichbar.
+
+Das Öffnen eines Bezugsobjekts wird als eigener Browser-History-Zustand geführt. Wird aus dem Dialog zu einem verknüpften Beitrag oder Thema gewechselt, soll **Zurück** im Browser wieder den vorherigen Bezugsdialog öffnen; ein weiteres **Zurück** führt zur ursprünglichen Ansicht zurück. Für den Echtbetrieb ist eine strukturierte Objekttabelle mit stabilen IDs, Typen, Aliasnamen und Beziehungen zu Beiträgen/Themen vorgesehen.
 
 ## 8. Responsives Verhalten
 
