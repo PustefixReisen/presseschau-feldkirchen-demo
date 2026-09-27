@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "1.1",
   "status": "test_mode",
   "updated_at": "2026-09-27",
   "rule": "Ein Bezug wird nur geführt, wenn das Objekt für das Verständnis des Beitrags oder Themas fachlich relevant ist. Reine beiläufige Nennungen erzeugen keinen Treffer.",
@@ -10,10 +10,22 @@
       "type": "infrastructure",
       "display_name": "B471",
       "aliases": [
-        "Bundesstraße 471",
-        "Aschheimer Straße"
+        {
+          "name": "Bundesstraße 471",
+          "kind": "official_long_form"
+        },
+        {
+          "name": "Aschheimer Straße",
+          "kind": "local_road_name",
+          "scope": "Feldkirchen"
+        },
+        {
+          "name": "Oberndorfer Straße",
+          "kind": "local_road_name",
+          "scope": "Feldkirchen"
+        }
       ],
-      "description": "Bundesstraße und zentrale Verkehrsachse im Feldkirchner Umfeld. Die Bezugsebene bündelt nur Vorgänge, bei denen Planung, Nutzung, Verkehrssicherheit oder Veränderung der B471 selbst relevant sind.",
+      "public_description": "Zur B471 werden weitere Beiträge und Themen verknüpft, wenn sie inhaltlich relevant sind.",
       "contribution_refs": [
         {
           "id": "R051",
@@ -45,11 +57,248 @@
           "id": "T015",
           "relation": "traffic_safety"
         }
-      ],
-      "excluded_examples": [
+      ]
+    },
+    {
+      "id": "OBJ002",
+      "canonical_name": "A94",
+      "type": "infrastructure",
+      "display_name": "A94",
+      "aliases": [
         {
-          "rule": "mere_mention",
-          "note": "Eine bloße Erwähnung der B471 ohne eigenen sachlichen Bezug reicht nicht aus."
+          "name": "Bundesautobahn 94",
+          "kind": "official_long_form"
+        },
+        {
+          "name": "Autobahn A94",
+          "kind": "common_form"
+        }
+      ],
+      "public_description": "Zur A94 werden weitere Beiträge und Themen verknüpft, wenn sie inhaltlich relevant sind.",
+      "contribution_refs": [
+        {
+          "id": "R005",
+          "relation": "cycle_connection_toward_crossing"
+        },
+        {
+          "id": "R021",
+          "relation": "new_cycle_and_pedestrian_bridge"
+        }
+      ],
+      "topic_refs": [
+        {
+          "id": "T003",
+          "relation": "cycle_network_and_crossing"
+        }
+      ]
+    },
+    {
+      "id": "OBJ003",
+      "canonical_name": "A99",
+      "type": "infrastructure",
+      "display_name": "A99",
+      "aliases": [
+        {
+          "name": "Bundesautobahn 99",
+          "kind": "official_long_form"
+        },
+        {
+          "name": "Autobahnring München",
+          "kind": "common_form"
+        }
+      ],
+      "public_description": "Zur A99 werden weitere Beiträge und Themen verknüpft, wenn sie inhaltlich relevant sind.",
+      "contribution_refs": [
+        {
+          "id": "R059",
+          "relation": "construction_and_closure"
+        },
+        {
+          "id": "R008",
+          "relation": "expansion_and_M18_relocation"
+        },
+        {
+          "id": "R052",
+          "relation": "expansion_and_M18_relocation"
+        },
+        {
+          "id": "R074",
+          "relation": "regional_relief_planning"
+        }
+      ],
+      "topic_refs": [
+        {
+          "id": "T012",
+          "relation": "expansion"
+        }
+      ]
+    },
+    {
+      "id": "OBJ004",
+      "canonical_name": "M18/EBE4",
+      "type": "infrastructure",
+      "display_name": "M18/EBE4",
+      "aliases": [
+        {
+          "name": "M18",
+          "kind": "district_road_number",
+          "scope": "Landkreis München"
+        },
+        {
+          "name": "EBE4",
+          "kind": "district_road_number",
+          "scope": "Landkreis Ebersberg"
+        },
+        {
+          "name": "Kreisstraße M18",
+          "kind": "official_long_form",
+          "scope": "Landkreis München"
+        },
+        {
+          "name": "Kreisstraße EBE4",
+          "kind": "official_long_form",
+          "scope": "Landkreis Ebersberg"
+        }
+      ],
+      "public_description": "Zur Kreisstraßenverbindung M18/EBE4 werden weitere Beiträge und Themen verknüpft, wenn sie inhaltlich relevant sind.",
+      "contribution_refs": [
+        {
+          "id": "R008",
+          "relation": "relocation_variant"
+        },
+        {
+          "id": "R052",
+          "relation": "relocation_planning"
+        },
+        {
+          "id": "R012",
+          "relation": "cycle_lane_review"
+        },
+        {
+          "id": "R094",
+          "relation": "traffic_safety"
+        }
+      ],
+      "topic_refs": [
+        {
+          "id": "T012",
+          "relation": "A99_expansion_and_relocation"
+        },
+        {
+          "id": "T015",
+          "relation": "traffic_safety"
+        }
+      ]
+    },
+    {
+      "id": "OBJ005",
+      "canonical_name": "Heimstettener See",
+      "type": "place",
+      "display_name": "Heimstettener See",
+      "aliases": [],
+      "public_description": "Zum Heimstettener See werden weitere Beiträge und Themen verknüpft, wenn sie inhaltlich relevant sind.",
+      "contribution_refs": [
+        {
+          "id": "R045",
+          "relation": "parking_management"
+        },
+        {
+          "id": "R048",
+          "relation": "water_quality_and_health"
+        },
+        {
+          "id": "R056",
+          "relation": "camping_project"
+        }
+      ],
+      "topic_refs": [
+        {
+          "id": "T013",
+          "relation": "use_recreation_health"
+        }
+      ]
+    },
+    {
+      "id": "OBJ006",
+      "canonical_name": "MobilityHub München Ost",
+      "type": "project",
+      "display_name": "MobilityHub München Ost",
+      "aliases": [
+        {
+          "name": "MobilityHub",
+          "kind": "short_form",
+          "scope": "München Ost"
+        }
+      ],
+      "public_description": "Zum MobilityHub München Ost werden weitere Beiträge und Themen verknüpft, wenn sie inhaltlich relevant sind.",
+      "contribution_refs": [
+        {
+          "id": "R053",
+          "relation": "study_and_site_selection"
+        },
+        {
+          "id": "R055",
+          "relation": "concept_study"
+        }
+      ],
+      "topic_refs": [
+        {
+          "id": "T011",
+          "relation": "intermunicipal_mobility"
+        }
+      ]
+    },
+    {
+      "id": "OBJ007",
+      "canonical_name": "Radschnellverbindung München–Markt Schwaben",
+      "type": "project",
+      "display_name": "Radschnellverbindung München–Markt Schwaben",
+      "aliases": [
+        {
+          "name": "Radschnellweg München–Markt Schwaben",
+          "kind": "common_form"
+        },
+        {
+          "name": "Radschnellverbindung München-Markt Schwaben",
+          "kind": "spelling_variant"
+        }
+      ],
+      "public_description": "Zur Radschnellverbindung München–Markt Schwaben werden weitere Beiträge und Themen verknüpft, wenn sie inhaltlich relevant sind.",
+      "contribution_refs": [
+        {
+          "id": "R093",
+          "relation": "funding_and_route_status"
+        }
+      ],
+      "topic_refs": [
+        {
+          "id": "T003",
+          "relation": "regional_cycle_network"
+        }
+      ]
+    },
+    {
+      "id": "OBJ008",
+      "canonical_name": "Fuß- und Radwegbrücke über die A94",
+      "type": "project",
+      "display_name": "Fuß- und Radwegbrücke über die A94",
+      "aliases": [
+        {
+          "name": "A94-Querung",
+          "kind": "short_form"
+        }
+      ],
+      "public_description": "Zur Fuß- und Radwegbrücke über die A94 werden weitere Beiträge und Themen verknüpft, wenn sie inhaltlich relevant sind.",
+      "contribution_refs": [
+        {
+          "id": "R021",
+          "relation": "construction"
+        }
+      ],
+      "topic_refs": [
+        {
+          "id": "T003",
+          "relation": "cycle_connection"
         }
       ]
     }
