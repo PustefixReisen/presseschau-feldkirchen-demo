@@ -4,7 +4,7 @@
 
 | Version | Stand | Verantwortlich |
 |---|---|---|
-| 0.1 | 27.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
+| 0.2 | 27.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
 
 ## 1. Präambel
 
@@ -57,6 +57,8 @@ Geeignete Fragetypen sind insbesondere:
 
 Fragen sollen neugierig machen, aber nicht suggestiv formuliert sein.
 
+Die Zahl der vorgeschlagenen Fragen ist nicht fest vorgegeben. Es sollen so viele Fragen angeboten werden, wie unterschiedliche sinnvolle Erkenntniswege eröffnen, ohne den Beitrag zu überladen. Drei Fragen sind daher kein Zielwert und keine Obergrenze.
+
 ## 6. FIB-Kontextpaket für den Echtbetrieb
 
 Eine spätere KI-Antwort soll nicht aus allgemeinem Modellwissen allein erzeugt werden. Sie erhält ein strukturiertes Kontextpaket mit:
@@ -72,6 +74,7 @@ Eine spätere KI-Antwort soll nicht aus allgemeinem Modellwissen allein erzeugt 
 ## 7. Qualitätsregeln
 
 - Sachliche Antworten sind quellengebunden.
+- Mehrere Quellen pro Antwort sind erwünscht, wenn sie unterschiedliche Ebenen absichern, z. B. Ausgangsmeldung, Rechtsrahmen, Fachstand, Praxisbeispiel oder lokalen Zusammenhang. Quellen sollen nicht nur vervielfacht, sondern funktional ausgewählt werden.
 - Tatsachen, Hintergrund, mögliche lokale Bedeutung und „Unsere Einordnung“ werden getrennt.
 - Unsicherheit und Reifegrad werden ausdrücklich benannt.
 - Bei veränderlichen Themen wird der Informationsstand datiert.
@@ -84,6 +87,8 @@ Vorgeschlagene Fragen:
 1. Wie weit ist autonomes Fahren im ÖPNV heute?
 2. Was wird in München konkret getestet?
 3. Was könnte das später für Feldkirchen bedeuten?
+4. Was unterscheidet Testbetrieb und Regelbetrieb?
+5. Welche Rolle könnten autonome Fahrzeuge im ÖPNV spielen?
 
 Das freie Fragefeld ist im Demonstrator nur eine UI-Erprobung. Die Eingabe wird noch nicht an eine KI übertragen.
 
@@ -103,4 +108,5 @@ Vor einer Umsetzung im Echtbetrieb sind insbesondere zu klären:
 
 | Version | Datum | Änderung |
 |---|---|---|
+| 0.2 | 27.09.2026 | Prototyp erweitert: Anzahl der Fragen nicht künstlich begrenzt; mehrere funktional unterschiedliche Quellen je Antwort ausdrücklich vorgesehen; Testfall R088 auf fünf Fragen erweitert. |
 | 0.1 | 27.09.2026 | Fachlicher Prototyp „Mehr wissen?“ angelegt; Präambel, Mehrwert-Schwelle, Fragetypen, Kontextpaket und Qualitätsregeln dokumentiert. |
