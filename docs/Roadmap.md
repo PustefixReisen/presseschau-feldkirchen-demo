@@ -4,7 +4,7 @@
 
 | Version | Stand | Verantwortlich |
 |---|---|---|
-| 1.7 | 27.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
+| 1.8 | 27.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
 
 ## Statusmodell
 
@@ -72,10 +72,19 @@ Für die Echtbetriebsarchitektur ist fachliche Parität mit dem aktuellen dokume
 
 Danach folgt **#12** zur konsolidierten Echtbetriebsarchitektur. Erst auf dieser Grundlage sollen weitere grundlegende Echtbetriebsentscheidungen umgesetzt werden.
 
+## Qualitätsziel: Modellunabhängigkeit
+
+Für den Echtbetrieb ist Modellunabhängigkeit ein verbindliches Architektur- und Qualitätsziel. Fachliche Regeln sollen bevorzugt als technische Geschäftsregeln, strukturierte Datenmodelle oder explizite modellübergreifende KI-Regeln umgesetzt werden. Nur der verbleibende semantische Rest soll echtes Modellurteil bleiben.
+
+Vor produktivem Modell- oder Anbieterwechsel wird ein **Modellabhängigkeits-Check** mit definierten FIB-Testfällen durchgeführt. Dabei wird geprüft, welche Funktionen modellunabhängig abgesichert sind, wo ein Modellurteil verbleibt und ob Abweichungen fachlich akzeptabel und transparent sind.
+
+Primärdokument: `docs/FIB_Modellunabhaengigkeit_und_Qualitaetspruefung.md`.
+
 ## Änderungshistorie
 
 | Version | Datum | Änderung |
 |---|---|---|
+| 1.8 | 27.09.2026 | Modellunabhängigkeit als verbindliches Architektur- und Qualitätsziel aufgenommen; Modellabhängigkeits-Check und Teststrategie vor Modell-/Anbieterwechsel verankert. |
 | 1.7 | 27.09.2026 | Bezugsebene unterhalb der redaktionellen Themen als Test eingeführt; B471 als erstes Objekt. Für den Echtbetrieb strukturierte Objekt-IDs, Aliasnamen und explizit geprüfte Beziehungen vorgesehen; Mehrwert-Schwelle verhindert Treffer aus bloßen beiläufigen Nennungen. |
 | 1.6 | 27.09.2026 | Such- und Filterlogik als Anforderung für den Echtbetrieb ergänzt; Kategorien, Orte und fachliche Schlagworte werden getrennt modelliert. Themenbildungslogik nach dem übersehenen Sachstrang Tempo 30/B471 nachgeschärft. |
 | 1.5 | 27.09.2026 | Testweise Trend-Rubrik wieder aus dem öffentlichen FIB entfernt. Übergreifende kommunalpolitische Trendanalyse wird künftig als interne Stoffsammlung außerhalb von FIB behandelt; öffentliche FIB-Struktur bleibt Presseschau/Sitzungen/Themen. |
