@@ -12,7 +12,8 @@
           'Beim Münchner Projekt MINGA fahren die Fahrzeuge zunächst ohne Fahrgäste und mit Sicherheitsfahrpersonal. Das zeigt: Die Technik ist weit genug für reale Tests im öffentlichen Straßenraum, aber der Übergang in einen regulären, fahrerlosen Fahrgastbetrieb ist noch Gegenstand der Erprobung.'
         ],
         sources:[
-          ['BMV – Automatisiertes und vernetztes Fahren','https://www.bmv.de/digitalestestfeldautobahn'],
+          ['Bundesministerium für Verkehr – Gesetz zum autonomen Fahren','https://www.bmv.de/SharedDocs/DE/Artikel/StV/gesetz-zum-autonomen-fahren.html'],
+          ['VDV – Autonomes Fahren im ÖPNV','https://www.vdv.de/autonomes-fahren-im-oepnv.aspx'],
           ['SWM/MVG – Testbetrieb MINGA','https://www.swm.de/unternehmen/presse/pressemitteilungen/2026/09-2026/mvg-autonome-fahrzeuge-testbetrieb-startet-minga-iav']
         ]
       },
@@ -25,7 +26,8 @@
         ],
         sources:[
           ['SWM/MVG – Autonome On-Demand-Fahrzeuge für München','https://www.swm.de/unternehmen/presse/pressemitteilungen/2026/09-2026/mvg-autonome-fahrzeuge-testbetrieb-startet-minga-iav'],
-          ['SWM – Projekt MINGA','https://www.swm.de/unternehmen/magazin/innovation/projekt-minga']
+          ['SWM – Projekt MINGA','https://www.swm.de/unternehmen/magazin/innovation/projekt-minga'],
+          ['MVG – Testbetrieb autonome Fahrzeuge','https://www.mvg.de/presse/pressemeldungen/2026-09-07-testbetrieb-autonome-fahrzeuge.html']
         ]
       },
       {
@@ -36,6 +38,34 @@
           'Interessant könnte die Technik später dort werden, wo klassische Linienangebote Lücken haben oder die erste und letzte Meile zum Bahnhof verbessert werden soll. Für Feldkirchen wäre deshalb vor allem relevant, ob solche Angebote künftig mit S-Bahn, Bus, Bikesharing oder einem möglichen MobilityHub verknüpft werden können. Das ist derzeit eine mögliche Entwicklung, keine angekündigte Maßnahme.'
         ],
         sources:[
+          ['SWM/MVG – Testbetrieb MINGA','https://www.swm.de/unternehmen/presse/pressemitteilungen/2026/09-2026/mvg-autonome-fahrzeuge-testbetrieb-startet-minga-iav'],
+          ['OstAllianz – MobilityHub MünchenOst','https://www.ostallianz.online/seite/758476/mobilityhub-m%C3%BCnchenost.html'],
+          ['Landkreis München – MyRadl','https://www.landkreis-muenchen.de/artikel/flexibel-und-umweltfreundlich-unterwegs-myradl-das-bikesharing-system-fuer-die-region-muenchen-startet-am-7-mai-2026/']
+        ]
+      }
+,
+      {
+        id:'regelbetrieb',
+        label:'Was unterscheidet Testbetrieb und Regelbetrieb?',
+        answer:[
+          'Ein Testbetrieb dient dazu, Technik, Sicherheit und betriebliche Abläufe unter kontrollierten Bedingungen zu erproben. Dafür können besondere Erprobungsgenehmigungen und zusätzliche Sicherheitsmaßnahmen gelten.',
+          'Für einen dauerhaften Regelbetrieb müssen Fahrzeug, festgelegter Betriebsbereich und betriebliche Verantwortung die gesetzlichen Anforderungen erfüllen. Deutschland hat dafür einen Rechtsrahmen für autonome Fahrzeuge der Stufe 4 in festgelegten Betriebsbereichen geschaffen. Der Münchner MINGA-Test befindet sich noch in der Erprobungsphase.'
+        ],
+        sources:[
+          ['Bundesministerium für Verkehr – Gesetz zum autonomen Fahren','https://www.bmv.de/SharedDocs/DE/Artikel/StV/gesetz-zum-autonomen-fahren.html'],
+          ['SWM/MVG – Testbetrieb MINGA','https://www.swm.de/unternehmen/presse/pressemitteilungen/2026/09-2026/mvg-autonome-fahrzeuge-testbetrieb-startet-minga-iav']
+        ]
+      },
+      {
+        id:'oepnv',
+        label:'Welche Rolle könnten autonome Fahrzeuge im ÖPNV spielen?',
+        answer:[
+          'Im öffentlichen Verkehr werden autonome Fahrzeuge vor allem als Ergänzung bestehender Angebote diskutiert. Besonders interessant sind flexible Shuttle- und On-Demand-Verkehre, die Fahrten nach Bedarf bündeln und Lücken zwischen klassischen Linien oder auf der ersten und letzten Meile schließen können.',
+          'Ob daraus ein wirtschaftlicher und verlässlicher Regelbetrieb entsteht, hängt jedoch nicht nur von der Fahrzeugtechnik ab. Auch Leitstellen, Buchungssysteme, Barrierefreiheit, Sicherheit, Genehmigungen und die Einbindung in das bestehende Netz müssen funktionieren.'
+        ],
+        sources:[
+          ['VDV – Autonomes Fahren im ÖPNV','https://www.vdv.de/autonomes-fahren-im-oepnv.aspx'],
+          ['SWM – Projekt MINGA','https://www.swm.de/unternehmen/magazin/innovation/projekt-minga'],
           ['SWM/MVG – Testbetrieb MINGA','https://www.swm.de/unternehmen/presse/pressemitteilungen/2026/09-2026/mvg-autonome-fahrzeuge-testbetrieb-startet-minga-iav']
         ]
       }
