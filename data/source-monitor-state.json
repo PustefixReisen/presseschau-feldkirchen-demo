@@ -5,7 +5,7 @@
       "name": "Gemeinde Feldkirchen – Nachrichten aus dem Bauamt",
       "url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt",
       "priority": "mandatory",
-      "last_success_at": "2026-09-26T09:22:36+00:00",
+      "last_success_at": "2026-09-27T10:01:51+00:00",
       "final_url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt",
       "content_type": "text/html;charset=UTF-8",
       "page_sha256": "7a84d3a0d2191a77f15fffc43b031b4a1c4fc5fdeaeba61825d6ee4f6fddf6c1",
@@ -26,7 +26,7 @@
       "name": "Gemeinde Feldkirchen – Neues Parkraumkonzept",
       "url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt/neues-parkraumkonzept-in-feldkirchen",
       "priority": "mandatory",
-      "last_success_at": "2026-09-26T09:22:40+00:00",
+      "last_success_at": "2026-09-27T10:01:54+00:00",
       "final_url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt/neues-parkraumkonzept-in-feldkirchen",
       "content_type": "text/html;charset=UTF-8",
       "page_sha256": "e90a8f8c0116008de9cbdd3c05c7b62988fa85bfcd2a1514c3690d1e162797f2",
@@ -448,7 +448,7 @@
           "content_type": "application/pdf",
           "bytes": 1472041,
           "sha256": "4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
-          "checked_at": "2026-09-26T09:22:40+00:00"
+          "checked_at": "2026-09-27T10:01:54+00:00"
         }
       },
       "error": null
@@ -457,11 +457,11 @@
       "name": "Landkreis München",
       "url": "https://www.landkreis-muenchen.de/",
       "priority": "mandatory",
-      "last_success_at": "2026-09-26T09:22:41+00:00",
+      "last_success_at": "2026-09-27T10:01:55+00:00",
       "final_url": "https://www.landkreis-muenchen.de/",
       "content_type": "text/html; charset=utf-8",
       "page_sha256": "76b210033ac99d6cd1fd0e40cb89fa843d74d1f1b7c991a497636eeb2c293e6a",
-      "page_changed": true,
+      "page_changed": false,
       "first_seen": false,
       "links": {
         "https://www.landkreis-muenchen.de/": {
@@ -751,18 +751,18 @@
       "name": "Autobahn GmbH – Südbayern",
       "url": "https://www.autobahn.de/die-autobahn/niederlassungen/suedbayern",
       "priority": "topic",
-      "last_attempt_at": "2026-09-26T09:22:42+00:00",
+      "last_attempt_at": "2026-09-27T10:01:56+00:00",
       "error": "HTTPError: HTTP Error 404: Not Found"
     },
     "adfc-muenchen": {
       "name": "ADFC München",
       "url": "https://muenchen.adfc.de/",
       "priority": "topic",
-      "last_success_at": "2026-09-26T09:22:43+00:00",
+      "last_success_at": "2026-09-27T10:01:57+00:00",
       "final_url": "https://muenchen.adfc.de/",
       "content_type": "text/html; charset=utf-8",
       "page_sha256": "db49b2d32779ae666bde2abafad7af42c5cc8d7673cddf100260de7f2cbfa559",
-      "page_changed": true,
+      "page_changed": false,
       "first_seen": false,
       "links": {
         "https://muenchen.adfc.de/sei-dabei": {
@@ -848,7 +848,7 @@
       "name": "BUND Naturschutz – Kreisgruppe München",
       "url": "https://bn-muenchen.de/",
       "priority": "topic",
-      "last_success_at": "2026-09-26T09:22:45+00:00",
+      "last_success_at": "2026-09-27T10:01:58+00:00",
       "final_url": "https://bn-muenchen.de/",
       "content_type": "text/html",
       "page_sha256": "c9c228fa3294734a8b11eb9e7cfac3316ccb2db84afb1c80c6f0098e713d2e2e",
@@ -869,7 +869,7 @@
       "name": "BI-AFK",
       "url": "https://www.bi-afk.de/",
       "priority": "topic",
-      "last_success_at": "2026-09-26T09:22:49+00:00",
+      "last_success_at": "2026-09-27T10:02:01+00:00",
       "final_url": "https://bi-afk.de/",
       "content_type": "text/html; charset=UTF-8",
       "page_sha256": "04008a82ac39d0734b0e87abdd5c7ff7b73b4b5a3930e16d85ccee7873c6c230",
@@ -955,7 +955,7 @@
           "content_type": "application/pdf",
           "bytes": 149466,
           "sha256": "f0ce9eb0a26c6e4bafbce93352128b32ede6a1a841c241d07be53c69c0f4b695",
-          "checked_at": "2026-09-26T09:22:49+00:00"
+          "checked_at": "2026-09-27T10:02:01+00:00"
         }
       },
       "error": null
@@ -964,10 +964,10 @@
       "name": "RIS Feldkirchen – Dokumente mit Freigabe",
       "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/do0040.asp",
       "priority": "mandatory",
-      "last_success_at": "2026-09-26T09:22:32+00:00",
+      "last_success_at": "2026-09-27T10:01:48+00:00",
       "final_url": "https://buergerinfo-feldkirchen.digitalfabrix.de/do0040.asp",
       "content_type": "text/html; Charset=utf-8",
-      "page_sha256": "74dd1c371637c61d4f20818a882cabd09d1b9be2e6ba2541fde4dcdc2d5a0e22",
+      "page_sha256": "04c506d162bbd03b84bf0411e10f7d230ea2ae84c6ed636ded416626145e0c42",
       "page_changed": true,
       "first_seen": false,
       "links": {
@@ -1081,15 +1081,42 @@
       "name": "Münchner Merkur – Landkreis München",
       "url": "https://www.merkur.de/lokales/muenchen-lk/",
       "priority": "mandatory",
-      "last_success_at": "2026-09-26T09:22:50+00:00",
+      "last_success_at": "2026-09-27T10:02:01+00:00",
       "final_url": "https://www.merkur.de/lokales/muenchen-lk/",
       "content_type": "text/html;charset=utf-8",
-      "page_sha256": "e3e1b2af9b84273cc0850bcc4187655fd68fcdf5895207201304a19844a0ca9a",
+      "page_sha256": "13c05c0c01bf08caa1d3b87d86821e861639c73e95149887858559d383b4ae8b",
       "page_changed": true,
       "first_seen": false,
       "links": {
         "https://www.merkur.de/lokales/muenchen-lk/": {
           "text": "Menü"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/unterhaching-linienbus-kracht-in-vw-fahrer-muss-aus-wrack-befreit-werden-94512232.html": {
+          "text": "Linienbus kracht in VW: Rettungswagen bringt drei Personen ins Krankenhaus"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/ihr-sohn-fragt-sie-weisst-du-wer-meine-mutter-ist-94511066.html": {
+          "text": "Ihr Sohn fragt sie: „Weißt du, wer meine Mutter ist?\""
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/autos-im-sekundentakt-leibstrassen-baustelle-wirkt-sich-auf-anliegerstrassen-aus-94510978.html": {
+          "text": "Autos im Sekundentakt: Leibstraßen-Baustelle wirkt sich auf Anliegerstraßen aus"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/hohenbrunn-ort28822/massive-vandalismusschaeden-kameras-werden-an-schulen-und-sportcampus-installiert-94510990.html": {
+          "text": "„Massive Vandalismusschäden“: Kameras werden an Schulen und Sportcampus installiert"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/benefizkonzert-in-kirchheim-mit-musik-die-glocken-von-st-andreas-retten-94508664.html": {
+          "text": "Benefizkonzert in Kirchheim: Mit Musik die Glocken von St. Andreas retten"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/ernst-mach-gymnasium-haar-startet-erstes-fortuna-festival-eintritt-frei-94508630.html": {
+          "text": "Ernst-Mach-Gymnasium Haar startet erstes Fortuna-Festival – Eintritt frei"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/garching-mietet-dixiklos-fuer-vereine-25-euro-eigenbeteiligung-pro-toilette-94511155.html": {
+          "text": "Garching mietet Dixiklos statt Wagen für Vereine – 25 Euro Eigenbeteiligung pro Toilette"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/als-buergerbeauftragter-zeigt-richard-raiser-wertschaetzung-und-loest-probleme-94511035.html": {
+          "text": "Als Bürgerbeauftragter zeigt Richard Raiser Wertschätzung und löst Probleme"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/hoehenkirchen-siegertsbrunn-ort100556/hoehenkirchner-gruene-fordern-suedallianz-nach-vorbild-von-nord-und-ostallianz-94510995.html": {
+          "text": "Höhenkirchner Grüne fordern Südallianz nach Vorbild bestehender Verbünde"
         },
         "https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/heftige-kollision-mit-linienbus-drei-verletzte-feuerwehr-muss-fahrer-befreien-94511603.html": {
           "text": "Heftige Kollision mit Linienbus: Drei Verletzte – Feuerwehr muss Fahrer befreien"
@@ -1100,11 +1127,11 @@
         "https://www.merkur.de/lokales/muenchen-lk/baierbrunn-ort28315/helmut-berger-malt-live-auf-der-buehne-und-versteigert-das-bild-danach-94508637.html": {
           "text": "Helmut Berger malt live auf der Bühne – und versteigert das Bild danach"
         },
-        "https://www.merkur.de/lokales/muenchen-lk/hohenbrunn-ort28822/bmw-brennt-auf-a99-vollstaendig-aus-fahrerin-rettet-sich-rechtzeitig-94510033.html": {
-          "text": "Feuerwehr vor Ort: BMW brennt lichterloh auf A99"
-        },
         "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/fc-aschheim-trifft-nach-debakel-auf-freising-94510085.html": {
           "text": "FC Aschheim trifft nach 2:8-Debakel auf Freising und startet in englische Woche"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/hohenbrunn-ort28822/bmw-brennt-auf-a99-vollstaendig-aus-fahrerin-rettet-sich-rechtzeitig-94510033.html": {
+          "text": "Feuerwehr vor Ort: BMW brennt lichterloh auf A99"
         },
         "https://www.merkur.de/lokales/muenchen-lk/taufkirchen-bei-muenchen-ort486320/hensoldt-baut-neue-deutschlandzentrale-400-mitarbeiter-ziehen-2027-ein-94508639.html": {
           "text": "Hensoldt baut neue Deutschlandzentrale: 400 Mitarbeiter ziehen 2027 ein"
@@ -1120,30 +1147,6 @@
         },
         "https://www.merkur.de/lokales/muenchen-lk/ottobrunn-ort29241/tiertafel-ottobrunn-versorgt-103-tiere-und-kaempft-mit-weniger-spenden-94508701.html": {
           "text": "Tiertafel Ottobrunn versorgt mehr als 100 Tiere – und kämpft mit weniger Spenden: Flohmarkt im September"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/unterhaching-polizei-sucht-zeugen-fuer-pyro-attacke-bei-fc-bayern-muenchen-frauen-in-der-champions-league-94508446.html": {
-          "text": "Bei FC Bayern München Frauen in der Champions League: Polizei sucht Zeugen für Pyro-Attacke"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/oberhaching-ort29194/pferdeanhaenger-loest-sich-vom-auto-und-stuerzt-boeschung-hinunter-94508874.html": {
-          "text": "Pferdeanhänger löst sich vom Auto und stürzt Böschung hinunter"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/hohenbrunn-ort28822/autobahnkreuz-muenchen-sued-anschlussstelle-gesperrt-94508401.html": {
-          "text": "Autobahnkreuz München-Süd: Anschlusstelle gesperrt"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/gruenwald-ort28770/smart-fahrer-uebersieht-yamaha-beim-abbiegen-motorradfahrer-schwer-verletzt-94508374.html": {
-          "text": "Smart-Fahrer übersieht Yamaha beim Abbiegen: Motorradfahrer schwer verletzt"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/erdinger-moos-26-km-schmalspurbahn-und-napoleon-vermessung-im-neuen-film-94506632.html": {
-          "text": "Erdinger Moos: 26-km-Schmalspurbahn und Napoleon-Vermessung im neuen Film"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/schaeftlarn-ort73337/dreschfest-in-schaeftlarn-30-kuchenspenden-und-ein-traktor-von-1950-94506633.html": {
-          "text": "Dreschfest in Schäftlarn: 30 Kuchenspenden und ein Traktor von 1950"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/ottobrunn-ort29241/tempo-im-blick-gemeinde-ottobrunn-steigt-in-die-ueberwachung-des-fliessenden-verkehrs-ein-94506685.html": {
-          "text": "Tempo im Blick: Ottobrunn steigt in die Überwachung des fließenden Verkehrs ein"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/garching-kita-nur-40-von-75-plaetzen-belegt-flohkiste-schliesst-eine-gruppe-94506563.html": {
-          "text": "Nur 40 von 75 Plätzen belegt: Kita Flohkiste in Garching schließt eine Gruppe"
         }
       },
       "documents": {},
@@ -1153,10 +1156,10 @@
       "name": "Münchner Merkur – Feldkirchen",
       "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/",
       "priority": "mandatory",
-      "last_success_at": "2026-09-26T09:22:51+00:00",
+      "last_success_at": "2026-09-27T10:02:02+00:00",
       "final_url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/",
       "content_type": "text/html;charset=utf-8",
-      "page_sha256": "72c1702dd34ed55c9dbd12db38aa50f7592f4c13b3f480856eaa042e8dd13d0b",
+      "page_sha256": "baa615349a99a6e4447d557ac7d2b9f2d5b34b990d8bac4b8ac8be81d7a1d187",
       "page_changed": true,
       "first_seen": false,
       "links": {
@@ -1225,10 +1228,10 @@
       "name": "Münchner Merkur – Aschheim",
       "url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/",
       "priority": "mandatory",
-      "last_success_at": "2026-09-26T09:22:52+00:00",
+      "last_success_at": "2026-09-27T10:02:03+00:00",
       "final_url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/",
       "content_type": "text/html;charset=utf-8",
-      "page_sha256": "63afa8815602596d61ab2069f1b3a7cdc528463686adb166ed88c121bc63147f",
+      "page_sha256": "be03f361085366e04c9066186eb9bfb1283468be2eea77a47fbf0f5d86cd27f7",
       "page_changed": true,
       "first_seen": false,
       "links": {
@@ -1297,10 +1300,10 @@
       "name": "Münchner Merkur – Kirchheim",
       "url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/",
       "priority": "mandatory",
-      "last_success_at": "2026-09-26T09:22:53+00:00",
+      "last_success_at": "2026-09-27T10:02:04+00:00",
       "final_url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/",
       "content_type": "text/html;charset=utf-8",
-      "page_sha256": "4d63f40f89d2f314ebabaf6c75fee1d8d1be2b364630b650ba619dcb313bf627",
+      "page_sha256": "82ff522808280dc6f20e17443e891a5d79230189b4789e1785b6916387041250",
       "page_changed": true,
       "first_seen": false,
       "links": {
@@ -1310,20 +1313,23 @@
         "https://www.merkur.de/lokales/muenchen-lk/": {
           "text": "München Landkreis"
         },
+        "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/benefizkonzert-in-kirchheim-mit-musik-die-glocken-von-st-andreas-retten-94508664.html": {
+          "text": "Benefizkonzert in Kirchheim: Mit Musik die Glocken von St. Andreas retten"
+        },
         "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/bajuwarenhof-kirchheim-freiwillige-decken-schilfdach-wie-im-mittelalter-94499569.html": {
           "text": "Bajuwarenhof Kirchheim: Freiwillige decken Schilfdach wie im Mittelalter"
         },
         "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/cantate-kirche-kirchheim-ehepaar-teilt-sich-eine-pfarrerstelle-94499333.html": {
           "text": "Cantate-Kirche Kirchheim: Ehepaar teilt sich eine Pfarrerstelle"
         },
-        "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/gymnasium-kirchheim-oeffnet-vier-jahre-verspaetet-150-schueler-bleiben-im-container-94452521.html": {
-          "text": "Endlich Unterrichtsstart: Gymnasium Kirchheim öffnet vier Jahre verspätet – 150 Schüler bleiben im Container"
-        },
         "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/motorradfahrer-uebersieht-mofa-im-kreisverkehr-beide-verletzt-94478779.html": {
           "text": "Motorradfahrer übersieht Mofa im Kreisverkehr – beide verletzt"
         },
         "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/150-schueler-lassen-sich-als-stammzellenspender-registrieren-94469977.html": {
           "text": "DKMS-Aktion am Gymnasium Kirchheim: 150 Schüler lassen sich als Stammzellenspender registrieren"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/gymnasium-kirchheim-oeffnet-vier-jahre-verspaetet-150-schueler-bleiben-im-container-94452521.html": {
+          "text": "Endlich Unterrichtsstart: Gymnasium Kirchheim öffnet vier Jahre verspätet – 150 Schüler bleiben im Container"
         },
         "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/sv-heimstetten-vitus-vochatzer-nach-acht-wochen-reise-zurueck-im-kader-94452837.html": {
           "text": "SV Heimstetten: Vitus Vochatzer nach acht Wochen Reise zurück im Kader"
@@ -1357,9 +1363,6 @@
         },
         "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/28-jaehriger-prallt-gegen-leitplanke-und-wird-quer-ueber-a99-geschleudert-94382926.html": {
           "text": "28-Jähriger prallt gegen Leitplanke und wird quer über A99 geschleudert"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/kirchheim-audi-reisst-verkehrsschild-aus-verankerung-teile-treffen-radler-94381072.html": {
-          "text": "Audi reißt Verkehrsschild aus Verankerung und flüchtet – Teile treffen Radfahrer"
         }
       },
       "documents": {},
@@ -1369,10 +1372,10 @@
       "name": "Münchner Merkur – Haar",
       "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/",
       "priority": "mandatory",
-      "last_success_at": "2026-09-26T09:22:55+00:00",
+      "last_success_at": "2026-09-27T10:02:05+00:00",
       "final_url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/",
       "content_type": "text/html;charset=utf-8",
-      "page_sha256": "afe5a3836d1e3bda1ac7747ee03493116610ea7ea23c71237dfa3aedba827d5d",
+      "page_sha256": "1fa8c60c8614a12fb5b3fb3dd00593b183ab6e75954546470bbfe029cdb78639",
       "page_changed": true,
       "first_seen": false,
       "links": {
@@ -1381,6 +1384,12 @@
         },
         "https://www.merkur.de/lokales/muenchen-lk/": {
           "text": "München Landkreis"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/autos-im-sekundentakt-leibstrassen-baustelle-wirkt-sich-auf-anliegerstrassen-aus-94510978.html": {
+          "text": "Autos im Sekundentakt: Leibstraßen-Baustelle wirkt sich auf Anliegerstraßen aus"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/ernst-mach-gymnasium-haar-startet-erstes-fortuna-festival-eintritt-frei-94508630.html": {
+          "text": "Ernst-Mach-Gymnasium Haar startet erstes Fortuna-Festival – Eintritt frei"
         },
         "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/grundwasser-sinkt-auf-27-meter-haar-plant-dritten-vorratsbehaelter-94501117.html": {
           "text": "Grundwasser sinkt auf 27 Meter: Haar plant dritten Vorratsbehälter"
@@ -1426,12 +1435,6 @@
         },
         "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/einsatz-nach-beziehungsstreit-20-jaehrige-verletzt-und-beleidigt-bundespolizisten-94467443.html": {
           "text": "Einsatz nach Beziehungsstreit: 20-Jährige verletzt und beleidigt Bundespolizisten"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/gesperrt-a99-bei-haar-wird-fuer-drei-tage-voll-94459646.html": {
-          "text": "A99 bei Haar wird für drei Tage voll gesperrt"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/schockanruf-in-haar-94-jaehrige-haendigt-betruegern-alle-ersparnisse-aus-94457045.html": {
-          "text": "Sie glaubte, ihr Sohn stirbt: „Besonders perfider“ Schockanruf – Seniorin händigt alle Ersparnisse aus"
         }
       },
       "documents": {},
@@ -1441,11 +1444,11 @@
       "name": "Gemeinde Feldkirchen – Aktuelle Meldungen",
       "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen",
       "priority": "mandatory",
-      "last_success_at": "2026-09-26T09:22:34+00:00",
+      "last_success_at": "2026-09-27T10:01:50+00:00",
       "final_url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen",
       "content_type": "text/html;charset=UTF-8",
       "page_sha256": "07be68fe9fd4181849517047543b81119ea3bde027d7b6ce79e6dc39458436a6",
-      "page_changed": true,
+      "page_changed": false,
       "first_seen": false,
       "links": {
         "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/nachrichten-archiv": {
@@ -1504,5 +1507,5 @@
       "error": null
     }
   },
-  "last_run_at": "2026-09-26T09:22:55+00:00"
+  "last_run_at": "2026-09-27T10:02:05+00:00"
 }

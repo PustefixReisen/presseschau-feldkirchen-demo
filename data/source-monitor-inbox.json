@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-26T09:22:55+00:00",
+  "updated_at": "2026-09-27T10:02:05+00:00",
   "items": [
     {
       "event_key": "document:feldkirchen-parkraum-2026:https://www.feldkirchen.de/_Resources/Persistent/d/3/d/e/d3dee38ce3c4a9ad01384ca6ed314a2a8f8bcc12/2026%20Parkraumkonzept%20gem%20GR-Beschluss.pdf:4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
@@ -2664,6 +2664,126 @@
       "kind": "link_new",
       "url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/fc-aschheim-trifft-nach-debakel-auf-freising-94510085.html",
       "link_text": "FC Aschheim trifft nach 2:8-Debakel auf Freising und startet in englische Woche",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/unterhaching-linienbus-kracht-in-vw-fahrer-muss-aus-wrack-befreit-werden-94512232.html",
+      "detected_at": "2026-09-27T10:02:01+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/unterhaching-linienbus-kracht-in-vw-fahrer-muss-aus-wrack-befreit-werden-94512232.html",
+      "link_text": "Linienbus kracht in VW: Rettungswagen bringt drei Personen ins Krankenhaus",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/ihr-sohn-fragt-sie-weisst-du-wer-meine-mutter-ist-94511066.html",
+      "detected_at": "2026-09-27T10:02:01+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/ihr-sohn-fragt-sie-weisst-du-wer-meine-mutter-ist-94511066.html",
+      "link_text": "Ihr Sohn fragt sie: „Weißt du, wer meine Mutter ist?\"",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/autos-im-sekundentakt-leibstrassen-baustelle-wirkt-sich-auf-anliegerstrassen-aus-94510978.html",
+      "detected_at": "2026-09-27T10:02:01+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/autos-im-sekundentakt-leibstrassen-baustelle-wirkt-sich-auf-anliegerstrassen-aus-94510978.html",
+      "link_text": "Autos im Sekundentakt: Leibstraßen-Baustelle wirkt sich auf Anliegerstraßen aus",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/hohenbrunn-ort28822/massive-vandalismusschaeden-kameras-werden-an-schulen-und-sportcampus-installiert-94510990.html",
+      "detected_at": "2026-09-27T10:02:01+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/hohenbrunn-ort28822/massive-vandalismusschaeden-kameras-werden-an-schulen-und-sportcampus-installiert-94510990.html",
+      "link_text": "„Massive Vandalismusschäden“: Kameras werden an Schulen und Sportcampus installiert",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/benefizkonzert-in-kirchheim-mit-musik-die-glocken-von-st-andreas-retten-94508664.html",
+      "detected_at": "2026-09-27T10:02:01+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/benefizkonzert-in-kirchheim-mit-musik-die-glocken-von-st-andreas-retten-94508664.html",
+      "link_text": "Benefizkonzert in Kirchheim: Mit Musik die Glocken von St. Andreas retten",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/ernst-mach-gymnasium-haar-startet-erstes-fortuna-festival-eintritt-frei-94508630.html",
+      "detected_at": "2026-09-27T10:02:01+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/ernst-mach-gymnasium-haar-startet-erstes-fortuna-festival-eintritt-frei-94508630.html",
+      "link_text": "Ernst-Mach-Gymnasium Haar startet erstes Fortuna-Festival – Eintritt frei",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/garching-mietet-dixiklos-fuer-vereine-25-euro-eigenbeteiligung-pro-toilette-94511155.html",
+      "detected_at": "2026-09-27T10:02:01+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/garching-mietet-dixiklos-fuer-vereine-25-euro-eigenbeteiligung-pro-toilette-94511155.html",
+      "link_text": "Garching mietet Dixiklos statt Wagen für Vereine – 25 Euro Eigenbeteiligung pro Toilette",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/als-buergerbeauftragter-zeigt-richard-raiser-wertschaetzung-und-loest-probleme-94511035.html",
+      "detected_at": "2026-09-27T10:02:01+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/als-buergerbeauftragter-zeigt-richard-raiser-wertschaetzung-und-loest-probleme-94511035.html",
+      "link_text": "Als Bürgerbeauftragter zeigt Richard Raiser Wertschätzung und löst Probleme",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/hoehenkirchen-siegertsbrunn-ort100556/hoehenkirchner-gruene-fordern-suedallianz-nach-vorbild-von-nord-und-ostallianz-94510995.html",
+      "detected_at": "2026-09-27T10:02:01+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/hoehenkirchen-siegertsbrunn-ort100556/hoehenkirchner-gruene-fordern-suedallianz-nach-vorbild-von-nord-und-ostallianz-94510995.html",
+      "link_text": "Höhenkirchner Grüne fordern Südallianz nach Vorbild bestehender Verbünde",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-kirchheim:https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/benefizkonzert-in-kirchheim-mit-musik-die-glocken-von-st-andreas-retten-94508664.html",
+      "detected_at": "2026-09-27T10:02:04+00:00",
+      "source_id": "merkur-kirchheim",
+      "source_name": "Münchner Merkur – Kirchheim",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/benefizkonzert-in-kirchheim-mit-musik-die-glocken-von-st-andreas-retten-94508664.html",
+      "link_text": "Benefizkonzert in Kirchheim: Mit Musik die Glocken von St. Andreas retten",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-haar:https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/autos-im-sekundentakt-leibstrassen-baustelle-wirkt-sich-auf-anliegerstrassen-aus-94510978.html",
+      "detected_at": "2026-09-27T10:02:05+00:00",
+      "source_id": "merkur-haar",
+      "source_name": "Münchner Merkur – Haar",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/autos-im-sekundentakt-leibstrassen-baustelle-wirkt-sich-auf-anliegerstrassen-aus-94510978.html",
+      "link_text": "Autos im Sekundentakt: Leibstraßen-Baustelle wirkt sich auf Anliegerstraßen aus",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-haar:https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/ernst-mach-gymnasium-haar-startet-erstes-fortuna-festival-eintritt-frei-94508630.html",
+      "detected_at": "2026-09-27T10:02:05+00:00",
+      "source_id": "merkur-haar",
+      "source_name": "Münchner Merkur – Haar",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/ernst-mach-gymnasium-haar-startet-erstes-fortuna-festival-eintritt-frei-94508630.html",
+      "link_text": "Ernst-Mach-Gymnasium Haar startet erstes Fortuna-Festival – Eintritt frei",
       "status": "unprocessed"
     }
   ]
