@@ -131,105 +131,121 @@
     const id=(a.getAttribute('href')||'').slice(1);
     return id?document.getElementById(id):null;
   }
+  function backgroundDirections(card){
+    const hay=(text(card.querySelector('h3'))+' '+text(card.querySelector('.subtitle'))+' '+text(card.querySelector('.body'))+' '+(card.dataset.tags||'')+' '+text(card.querySelector('.category'))).toLowerCase();
+    const dirs=[];
+
+    const add=(id,label,focus)=>{
+      if(!dirs.some(x=>x.id===id))dirs.push({
+        id,
+        label,
+        answer:[
+          'Diese Frage geht bewusst über die Meldung selbst hinaus. Sie ist als Hintergrund-Recherchepfad vorgesehen: '+focus,
+          'Im Demonstrator wird eine solche Vertiefung nur dann als fertige Sachantwort veröffentlicht, wenn dafür zusätzliche belastbare Fach-, Rechts-, Wissenschafts- oder Praxisquellen vorliegen. Fehlen sie, bleibt die Frage als Recherchebedarf kenntlich statt mit allgemeinem Modellwissen beantwortet zu werden.'
+        ],
+        sources:[]
+      });
+    };
+
+    if(/verkehr|mobilität|rad|bahn|bus|autonom|fahrzeug|straße|parken|mobility/.test(hay))
+      add('technik','Welche technische oder planerische Entwicklung steckt dahinter?','Zu prüfen sind Stand der Technik bzw. Planung, praktische Voraussetzungen, Grenzen und Reifegrad sowie die Einbindung in bestehende Verkehrsangebote.');
+    if(/bau|bebau|wohnung|miete|genehmig|straße|tempo|verkehr|wärme|energie|datenschutz|beteilig|wahl|gemeinderat/.test(hay))
+      add('recht','Welche rechtlichen oder institutionellen Regeln bestimmen den Handlungsspielraum?','Zu prüfen sind Zuständigkeiten, Genehmigungs- und Verfahrensregeln, einschlägige Standards sowie der tatsächliche kommunale Entscheidungsspielraum.');
+    if(/beteilig|bürger|jugend|wahl|sozial|schule|pflege|wohnen|miete|spielplatz|verein|adfc|hund/.test(hay))
+      add('gesellschaft','Welche gesellschaftlichen Interessen oder Veränderungen stehen dahinter?','Zu prüfen sind betroffene Gruppen, Zugang und Teilhabe, Nutzungskonflikte, Akzeptanz, Verteilungswirkungen und mögliche neue Formen kommunaler Zusammenarbeit.');
+    if(/klima|energie|wärme|geothermie|baum|biodiv|wasser|see|natur|verkehr|rad|fläche/.test(hay))
+      add('oekologie','Welche ökologischen Zusammenhänge oder Zielkonflikte sind wichtig?','Zu prüfen sind Klima-, Flächen-, Energie-, Wasser- oder Biodiversitätswirkungen und mögliche Zielkonflikte mit anderen kommunalen Interessen.');
+    if(/kosten|förder|miete|wohnung|wirtschaft|gewerbe|energie|wärme|bau|verkehr|infrastruktur/.test(hay))
+      add('wirtschaft','Welche wirtschaftlichen Folgen oder Abhängigkeiten sind relevant?','Zu prüfen sind Kosten, Förderung, Betrieb, Folgekosten, Preiswirkungen und die Frage, welche Annahmen wirtschaftlich belastbar sind.');
+    if(/pilot|test|neu|start|modell|konzept|bürgerbudget|bürgerrat|jugendparlament|autonom|modular|sharing|fahrradstraße/.test(hay))
+      add('reife','Ist das schon belastbare Praxis oder noch ein Experiment?','Zu prüfen sind Reifegrad, reale Praxiserfahrungen, Skalierbarkeit, erkennbare Grenzen und die Frage, ob aus einem Pilotprojekt bereits verallgemeinerbare Schlüsse gezogen werden können.');
+
+    return dirs.slice(0,3);
+  }
+
   function contributionQuestions(card){
     if(curated[card.id])return curated[card.id];
     const q=[];
-    const body=bodyParagraphs(card);
     const sources=sourceList(card,6);
     const sig=significance(card);
     const hist=historyDetails(card);
     const tLink=topicLink(card);
     const topic=findTopic(tLink);
 
-    if(body.length){
-      q.push({
-        id:'kern',
-        label:'Was ist der Kern dieser Meldung?',
-        answer:body,
-        sources:sources.slice(0,4).map((s,i)=>({...s,role:i===0?'primary':s.role}))
-      });
-    }
+    // Hintergrund hat Vorrang vor Wiederholung der Meldung.
+    q.push(...backgroundDirections(card));
+
     if(hist){
       const items=Array.from(hist.querySelectorAll('li')).map(text).filter(Boolean);
       const fibLinks=Array.from(hist.querySelectorAll('a')).map(a=>linkData(a,'fib'));
       if(items.length)q.push({
         id:'verlauf',
-        label:'Was ist bisher passiert?',
-        answer:['Der aktuelle Beitrag steht in einem bereits laufenden Zusammenhang. Die wichtigsten vorherigen Schritte sind: '+items.join(' · ')],
+        label:'Welche Entwicklungslinie führt zu diesem Stand?',
+        answer:['Für das Verständnis ist nicht nur die aktuelle Meldung relevant. Im FIB-Bestand sind folgende vorherige Schritte ausdrücklich verknüpft: '+items.join(' · ')],
         sources:fibLinks.length?fibLinks:sources.slice(0,3)
       });
     }
+
     if(topic){
       const title=text(topic.querySelector('h3'));
       const tp=bodyParagraphs(topic);
       const ts=sourceList(topic,5,'topic');
       if(tp.length)q.push({
         id:'thema',
-        label:'Wie hängt das mit „'+title+'“ zusammen?',
+        label:'Welche längerfristige Entwicklung wird hier sichtbar?',
         answer:tp,
         sources:[{role:'fib',name:'FIB-Thema – '+title,url:'#'+topic.id},...ts]
       });
     }
+
     if(sig){
       q.push({
-        id:'feldkirchen',
-        label:'Warum ist das für Feldkirchen interessant?',
-        answer:[sig],
+        id:'transfer',
+        label:'Was müsste passieren, damit daraus für Feldkirchen mehr als nur ein interessanter Einzelfall wird?',
+        answer:[
+          sig,
+          'Für die Übertragbarkeit sind insbesondere Zuständigkeit, räumliche und organisatorische Voraussetzungen, Kosten, Akzeptanz und belastbare Praxiserfahrungen zu prüfen. Eine mögliche Bedeutung für Feldkirchen ist deshalb von einer bereits beschlossenen oder absehbaren Umsetzung zu unterscheiden.'
+        ],
         sources:sources.slice(0,4)
       });
     }
-    if(sources.length>=2){
-      q.push({
-        id:'belegt',
-        label:'Wie ist der Sachstand belegt?',
-        answer:['FIB stützt diese Meldung auf mehrere Quellen. Sie werden nicht nur gezählt, sondern nach ihrer Funktion betrachtet: Original- oder Verwaltungsquellen belegen den unmittelbaren Sachstand; Presse- und Kontextquellen können zusätzliche Einordnung, Resonanz oder regionale Zusammenhänge liefern. Maßgeblich bleiben die verlinkten Originalquellen.'],
-        sources
-      });
-    }
-    const hasExtra=hist||topic||sig||sources.length>=2||body.join(' ').length>360;
-    return hasExtra?q.slice(0,5):[];
+
+    return q.slice(0,5);
   }
   function topicQuestions(card){
     const q=[];
     const title=text(card.querySelector('h3'));
-    const body=bodyParagraphs(card);
     const sources=sourceList(card,8,'topic');
     const open=openDetails(card);
-    if(body.length)q.push({
-      id:'ueberblick',
-      label:'Worum geht es bei „'+title+'“?',
-      answer:body,
-      sources:sources.slice(0,5)
-    });
+
+    q.push(...backgroundDirections(card));
+
     if(open){
       const items=Array.from(open.querySelectorAll('li')).map(text).filter(Boolean);
       if(items.length)q.push({
         id:'offen',
-        label:'Was ist bei diesem Thema noch offen?',
-        answer:['Der aktuelle Themenstand lässt insbesondere folgende Fragen offen: '+items.join(' · ')],
+        label:'Welche offenen Fragen entscheiden über die weitere Entwicklung?',
+        answer:['Der Themenstand macht insbesondere folgende noch ungeklärte Punkte sichtbar: '+items.join(' · ')],
         sources:sources.slice(0,5)
       });
     }
+
     const linked=Array.from(document.querySelectorAll('.card.contribution')).filter(c=>{
       const a=c.querySelector('.topic-link a[href="#'+card.id+'"]');
       return !!a;
     }).slice(0,10);
     if(linked.length){
       q.push({
-        id:'beitraege',
-        label:'Welche Entwicklungen gehören zu diesem Thema?',
-        answer:['FIB verknüpft derzeit '+linked.length+' sichtbare Beiträge mit diesem Thema. Über die Quellen unten kannst du direkt zu diesen Entwicklungsschritten springen.'],
+        id:'muster',
+        label:'Welches Muster zeigt sich über die einzelnen Meldungen hinweg?',
+        answer:[
+          'Dieses Thema entsteht nicht aus einer einzelnen Meldung, sondern aus mehreren Entwicklungsschritten. Für eine Vertiefung ist deshalb besonders interessant, ob sich daraus ein stabiler Trend, ein wiederkehrender Zielkonflikt oder ein veränderter kommunaler Handlungsspielraum erkennen lässt.',
+          'Die unten verknüpften Beiträge bilden dafür die zeitliche Beobachtungsbasis.'
+        ],
         sources:linked.map(c=>({role:'fib',name:(text(c.querySelector('.date'))?text(c.querySelector('.date'))+' · ':'')+text(c.querySelector('h3')),url:'#'+c.id}))
       });
     }
-    if(sources.length){
-      q.push({
-        id:'quellen',
-        label:'Auf welchen Quellen beruht der Themenstand?',
-        answer:['Ein FIB-Thema bündelt Quellen aus mehreren Zeitpunkten. Für die Vertiefung werden sie funktional genutzt: aktuelle Primärquellen tragen den jeweiligen Sachstand, weitere Quellen dokumentieren Verlauf, regionale Zusammenhänge, Positionen oder fachlichen Kontext.'],
-        sources
-      });
-    }
+
     return q.slice(0,5);
   }
 
