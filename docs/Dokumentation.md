@@ -21,7 +21,7 @@ Diese Regeln gelten unabhängig davon, dass FIB nicht zwingend auf der pustivo-P
 | Themenbereich | Primäre verbindliche Quelle | Hinweis |
 |---|---|---|
 | inhaltliche Ausrichtung / allgemein verständliches Konzept | `docs/FIB-Inhaltliches-Konzept.md` | verständliche Primärquelle für Zielbild, Zweck, Reichweite und Abgrenzung von Presseschau, Sitzungen und Themen; Diskussionsgrundlage für die politische/redaktionelle Ausrichtung |
-| Modellunabhängigkeit / KI-Qualitätsprüfung | `docs/FIB_Modellunabhaengigkeit_und_Qualitaetspruefung.md` | verbindliche Primärquelle für Trennung Geschäftsregeln / explizite KI-Regeln / Modellurteil, Modellabhängigkeits-Check und Modellwechsel-Teststrategie |
+| „Mehr wissen?“ / FIB-Assistent | `docs/FIB_Mehr_wissen_Assistent.md` | verbindliche Primärquelle für Mehrwert-Schwelle, Anschlussfragen, Kontextpaket, funktionale Quellenrollen und Trennung zur politischen Einordnung |\n| Modellunabhängigkeit / KI-Qualitätsprüfung | `docs/FIB_Modellunabhaengigkeit_und_Qualitaetspruefung.md` | verbindliche Primärquelle für Trennung Geschäftsregeln / explizite KI-Regeln / Modellurteil, Modellabhängigkeits-Check und Modellwechsel-Teststrategie |
 | redaktionelle KI-Regeln / Quellenarbeit | `docs/projektgrundlagen/KI-Leitfaden_Homepage-Presseschau.md` | fachlich-redaktionelle Primärquelle für KI-gestützte Erstellung |
 | Frontend und Darstellung | `docs/FIB_Frontend_und_Darstellung.md` | UI-/Darstellungsregeln des Demonstrators |
 | Quellenmonitor – Fachfunktion | `docs/FIB-Quellenmonitor.md` | fachliche Funktionsbeschreibung |
@@ -58,6 +58,6 @@ Ein Sachverhalt wird nur in seiner Primärquelle verbindlich festgelegt. Andere 
 |---|---|---|
 | 1.4 | 27.09.2026 | Modellunabhängigkeit als eigenes Qualitäts- und Architekturthema in die Dokumentationslandkarte aufgenommen; neues Primärdokument für Modellabhängigkeits-Check und Modellwechsel-Tests verankert. |
 | 1.3 | 27.09.2026 | Öffentliche Trend-Ebene aus der FIB-Dokumentation entfernt; interne Trend-/Stoffsammlung ausdrücklich außerhalb der öffentlichen FIB-Struktur verortet. |
-| 1.2 | 26.09.2026 | `FIB-Inhaltliches-Konzept.md` als allgemein verständliche Primärquelle für Zweck, Reichweite und die Ebenen Presseschau/Sitzungen/Themen aufgenommen; offene Dokumentationslücke auf technische Produkt-/Echtbetriebsbeschreibung eingegrenzt. |
+| 1.3 | 27.09.2026 | Fachkonzept `FIB_Mehr_wissen_Assistent.md` als Primärquelle für die FIB-weite Vertiefungs- und Quellenlogik aufgenommen. |\n| 1.2 | 26.09.2026 | `FIB-Inhaltliches-Konzept.md` als allgemein verständliche Primärquelle für Zweck, Reichweite und die Ebenen Presseschau/Sitzungen/Themen aufgenommen; offene Dokumentationslücke auf technische Produkt-/Echtbetriebsbeschreibung eingegrenzt. |
 | 1.1 | 12.09.2026 | Auditstatus, offene Primärquellen und Folge-Issues #11/#12 verankert; Repository-Grenze zum Echtbetrieb präzisiert |
 | 1.0 | 12.09.2026 | Dokumentationslandkarte, Governance-Verknüpfung, Primärquellen und Dokumentationsschuld eingeführt |
