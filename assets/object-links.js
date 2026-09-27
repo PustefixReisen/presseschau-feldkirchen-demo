@@ -2,7 +2,7 @@
   const objectMap={
     OBJ001:{
       name:'B471',
-      type:'Infrastruktur',
+      type:'Bezugsobjekt',
       description:'Die B471 ist eine zentrale Verkehrsachse im Feldkirchner Umfeld. Hier werden nur Beiträge und Themen verknüpft, in denen Planung, Nutzung, Verkehrssicherheit oder eine Veränderung der B471 selbst eine erkennbare Rolle spielen.',
       topics:[
         ['T015','Verkehrssicherheit an B471 und M18'],
@@ -35,7 +35,6 @@
       <ul>${obj.topics.map(([id,title])=>`<li><a href="#${id}" data-object-target>${title}</a></li>`).join('')}</ul>
       <h4>Verknüpfte Beiträge</h4>
       <ul>${obj.contributions.map(([id,title])=>`<li><a href="#${id}" data-object-target>${title}</a></li>`).join('')}</ul>
-      <p class="minor"><strong>Auswahlregel:</strong> Eine bloße Erwähnung der B471 reicht nicht. Verknüpft wird nur, wenn der Bezug für das Verständnis des Vorgangs einen erkennbaren Mehrwert hat.</p>
     `;
     if(typeof dialog.showModal==='function') dialog.showModal();
     else dialog.setAttribute('open','');
