@@ -4,7 +4,7 @@
 
 | Version | Stand | Verantwortlich |
 |---|---|---|
-| 1.6 | 27.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
+| 1.7 | 27.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
 
 ## Statusmodell
 
@@ -50,6 +50,7 @@ Vor Beginn der Programmierung des Echtsystems wird deshalb ein verbindlicher Üb
 - redaktioneller Prüf-/Freigabestatus,
 - robuste statische bzw. generierte Ausgabe ohne Abhängigkeit von historisch gewachsenen Update-Skripten,
 - strukturierte Such-/Filtermetadaten: Kategorien, Orte und fachliche Schlagworte getrennt speichern; Volltextsuche darf Kategorien nicht als versteckte Unterthemen-Tags behandeln,
+- strukturierte Bezugsebene für konkrete wiederkehrende Objekte mit stabilen IDs, Aliasnamen und explizit geprüften Beziehungen zu Beiträgen und Themen; keine automatische Verknüpfung aus bloßen Volltexttreffern,
 - nachvollziehbare Updateprotokolle mit „neu / geändert / geprüft ohne Änderung“.
 
 Für den **Echtbetrieb** ist zusätzlich verbindlich vorgesehen:
@@ -75,6 +76,7 @@ Danach folgt **#12** zur konsolidierten Echtbetriebsarchitektur. Erst auf dieser
 
 | Version | Datum | Änderung |
 |---|---|---|
+| 1.7 | 27.09.2026 | Bezugsebene unterhalb der redaktionellen Themen als Test eingeführt; B471 als erstes Objekt. Für den Echtbetrieb strukturierte Objekt-IDs, Aliasnamen und explizit geprüfte Beziehungen vorgesehen; Mehrwert-Schwelle verhindert Treffer aus bloßen beiläufigen Nennungen. |
 | 1.6 | 27.09.2026 | Such- und Filterlogik als Anforderung für den Echtbetrieb ergänzt; Kategorien, Orte und fachliche Schlagworte werden getrennt modelliert. Themenbildungslogik nach dem übersehenen Sachstrang Tempo 30/B471 nachgeschärft. |
 | 1.5 | 27.09.2026 | Testweise Trend-Rubrik wieder aus dem öffentlichen FIB entfernt. Übergreifende kommunalpolitische Trendanalyse wird künftig als interne Stoffsammlung außerhalb von FIB behandelt; öffentliche FIB-Struktur bleibt Presseschau/Sitzungen/Themen. |
 | 1.4 | 26.09.2026 | Testweise Rubrik `Trends` und eigener Trend-Datenbestand vorübergehend in den Demonstrator aufgenommen; allgemein verständliches inhaltliches Konzept als neue Diskussionsgrundlage berücksichtigt. |
