@@ -1,6 +1,6 @@
 # KI-Leitfaden Homepage-Presseschau Feldkirchen
 
-**Version 2.8 · Stand 26.09.2026**
+**Version 2.9 · Stand 27.09.2026**
 
 > Kanonische Markdown-Fassung für GitHub. Inhaltlich übernommen aus der bisherigen Projektbibliothek und um verbindliche Projektentscheidungen fortgeschrieben.
 
@@ -178,7 +178,6 @@ Mögliche Auslöser sind insbesondere neue belastbare Erkenntnisse zu regional r
 
 Solche Beiträge werden unter **„Mögliche Bedeutung für Feldkirchen“** transparent eingeordnet. Unsicherheit, Reifegrad und Übertragbarkeit werden ausdrücklich benannt. Ein einzelner interessanter Forschungsbefund reicht nicht aus, wenn Belastbarkeit oder kommunale Relevanz noch zu unklar sind.
 
-Diese Relevanzregel soll zugleich als **Impulsgeber für Trends** wirken: Mehrere entsprechende Beiträge oder ein besonders grundlegender Befund können eine Trend-Recherche auslösen. Umgekehrt darf ein Trend auch unabhängig von einem Presseschau-Beitrag aus eigenständiger Zukunfts- und Hintergrundrecherche entstehen.
 
 ### 4.2 Parteien und Wählervereinigungen
 Öffentliche Auftritte politisch aktiver Parteien und Wählervereinigungen werden berücksichtigt, mit erhöhter Relevanzschwelle. Konkrete kommunalpolitische Anträge, Initiativen, Änderungsvorschläge und Reaktionen auf Entscheidungen sind relevant. Parteiquellen sind grundsätzlich Positionsquellen; überprüfbare Sachbehauptungen werden möglichst unabhängig verifiziert und politische Positionen klar zugeschrieben.
@@ -245,83 +244,6 @@ Direkte Vorlagenlinks werden nur angezeigt, wenn das konkrete Dokument funktions
 
 Potenzielle Themen entstehen aus wiederkehrenden Sitzungs-TOPs, mehreren Beiträgen, länger laufenden Planungsprozessen oder verbundenen Konzepten/Maßnahmen. Die Themendarstellung ist zunächst analytisch-neutral und zeigt Zusammenhänge, Entwicklung, Entscheidungen, Akteure, aktuellen Stand und offene Fragen. Eine reine Chronologie reicht nicht aus. Ein freigegebenes Thema bleibt erhalten und wird bei wesentlichen neuen Informationen aktualisiert.
 
-## 8.1 Trends – redaktionelle Beobachtungs- und Vertiefungsebene
-
-Neben Presseschau, Sitzungen und etablierten Themen führt FIB die redaktionelle Ebene **„Trends“**. Sie dient dazu, Entwicklungen zu bündeln und zu vertiefen, die für die zukünftige Gestaltung Feldkirchens interessant sein können, ohne bereits ein konkreter Feldkirchner Vorgang oder ein etabliertes lokales Thema zu sein.
-
-Ein Trend beantwortet vor allem die Frage: **„Was entwickelt sich – und was könnte Feldkirchen daraus lernen?“**
-
-Trends können sowohl aus Presseschau-Beiträgen entstehen als auch aus einer eigenständigen gesellschaftlichen, wissenschaftlichen oder technischen Zukunftsrecherche. Die Presseschau ist damit ein wichtiger, aber nicht zwingender Auslöser.
-
-### Abgrenzung
-
-- **Presseschau-Beitrag:** konkrete neue Entwicklung mit ausreichender FIB-Relevanz.
-- **Thema:** länger laufender, konkreter Feldkirchner Vorgang oder Sachzusammenhang, der dauerhaft fortgeschrieben wird.
-- **Trend:** übergreifende Entwicklung, wiederkehrendes Muster, neue Praxis oder neue Perspektive mit plausibler möglicher Bedeutung für Feldkirchen.
-
-Ein Trend wird nur angelegt, wenn mindestens eines der folgenden Kriterien erfüllt ist:
-- mehrere Fundstellen weisen in dieselbe Richtung,
-- eine Entwicklung verändert einen für Feldkirchen relevanten Bereich erkennbar,
-- ein besonders aussagekräftiges Modell wirft eine konkrete strategische Frage für Feldkirchen auf,
-- mehrere bestehende FIB-Themen lassen sich durch die Entwicklung sinnvoll neu miteinander verbinden.
-
-### Eigene Rechercheebene
-
-Trend-Recherche ist eine eigenständige Vertiefungsrecherche und nicht auf veröffentlichungsfähige Presseschau-Meldungen beschränkt. Zusätzlich zu FIB-Beiträgen dürfen insbesondere verwendet werden:
-- Studien und Evaluationen,
-- wissenschaftliche und fachliche Veröffentlichungen,
-- kommunale Praxisberichte und Leitfäden,
-- Hintergrundpapiere von Fachinstituten und Verbänden,
-- weitere kommunale Beispiele,
-- belastbare Daten und Erfahrungsberichte.
-
-Solche Fundstellen werden als **Hintergrundquellen** eines Trends geführt und müssen nicht als eigene Meldungen in der Presseschau erscheinen. Damit wird ausdrücklich zwischen **„relevant als Quelle“** und **„relevant als Meldung“** unterschieden.
-
-### Aufbau eines Trends
-
-Ein Trend soll nach Möglichkeit folgende Bestandteile enthalten:
-1. **Was wir beobachten** – Beschreibung der Entwicklung.
-2. **Beispiele / Auslöser** – relevante FIB-Beiträge oder externe Praxisfälle.
-3. **Hintergrund** – zusätzliche Fach- und Wissensquellen.
-4. **Was sich daraus erkennen lässt** – quellengebundene redaktionelle Verdichtung.
-5. **Mögliche Bedeutung für Feldkirchen** – plausible Übertragbarkeit, Chancen, Grenzen und Voraussetzungen.
-6. **Offene Fragen** – was vor einer lokalen Bewertung oder Umsetzung geklärt werden müsste.
-7. **Verknüpfte Themen** – bestehende FIB-Themen, sofern vorhanden.
-
-### Perspektiven und demokratische Ziele
-
-Trends dürfen neue gesellschaftliche, demokratische und institutionelle Perspektiven aufgreifen, sofern sie fachlich begründet und für kommunale Gestaltung relevant sind. Dazu gehören auch Ansätze, die Kooperation, Selbstorganisation, Gemeingüter, Koproduktion von Kommune und Bürgerschaft oder polyzentrische Steuerung untersuchen und damit über eine einfache Gegenüberstellung von Markt und Staat hinausgehen.
-
-Solche Denkansätze werden als **Analyse- und Inspirationsquellen** behandelt. Sie sind weder automatisch lokale Positionen von BÜNDNIS 90/DIE GRÜNEN Feldkirchen noch politische Forderungen. Der Trend stellt zunächst dar, was beobachtet wird, welche Erfahrungen oder Erkenntnisse vorliegen und welche Fragen sich daraus für Feldkirchen ergeben können.
-
-### Sprach- und Quellenregeln für Trends
-
-Die öffentliche Trenddarstellung verwendet **bürgernahe, allgemeinverständliche Sprache**. Fachbegriffe werden nur verwendet, wenn sie für das Verständnis nötig sind, und dann kurz erklärt. Theoretische Konzepte stehen nie im Vordergrund, wenn sich die gleiche Aussage verständlicher anhand konkreter kommunaler Beispiele oder deutschsprachiger Sekundärquellen vermitteln lässt.
-
-Für öffentlich sichtbare Trendquellen gilt grundsätzlich folgende Priorität:
-
-1. deutschsprachige, allgemeinverständliche Fach- und Praxisquellen,
-2. deutschsprachige Primärquellen von Kommunen, Behörden, Forschungs- und Fachinstituten,
-3. gut verständliche Sekundärquellen zu wissenschaftlichen oder theoretischen Ansätzen,
-4. fremdsprachige Originalquellen nur dann, wenn sie für die Aussage tatsächlich notwendig sind.
-
-Englischsprachige Originaltexte können im Hintergrundbestand erhalten bleiben, müssen aber nicht als sichtbare Hauptquelle eines Trends erscheinen. FIB soll nicht voraussetzen, dass die Leserschaft wissenschaftliche Originaltexte in englischer Sprache liest.
-
-### Verknüpfung von Themen und Trends
-
-Themen und Trends werden wechselseitig verknüpft, wenn ein sachlicher Zusammenhang besteht.
-
-- Ein **Thema** zeigt einen konkreten Feldkirchner Vorgang und kann auf passende Trends verweisen, die zusätzliche Perspektiven oder Vergleichswissen liefern.
-- Ein **Trend** kann auf ein oder mehrere Feldkirchner Themen verweisen, an denen seine mögliche Bedeutung konkret sichtbar wird.
-
-Die Verknüpfung darf nicht suggerieren, dass aus einem Trend automatisch eine politische Forderung für das Thema folgt. Sie soll lediglich zeigen, **welche weiterführenden Entwicklungen für den lokalen Vorgang interessant sein könnten**.
-
-Bei der Prüfung der Bedeutung eines Trends für Feldkirchen werden außerdem laufende lokale Initiativen, Anträge und Arbeitsprozesse berücksichtigt, soweit sie als freigegebenes Hintergrundwissen vorliegen. Dadurch soll vermieden werden, dass der Transfer auf Feldkirchen bereits vorhandene lokale Ansätze übersieht.
-
-### Politische Neutralität der Trendanalyse
-
-Trend-Beiträge dürfen keine lokale politische Position erfinden oder vorwegnehmen. Sie sollen Perspektiven öffnen, Unterschiede und Zielkonflikte sichtbar machen und mögliche kommunale Gestaltungsspielräume beschreiben. Wo Bewertungen aus externen Quellen übernommen werden, werden sie zugeschrieben. Eine spätere lokale politische Position oder „Unsere Einordnung“ bleibt davon getrennt.
-
 ## 9. Unsere Einordnung
 
 ### 9.1 Drei-Ebenen-Prinzip
@@ -357,6 +279,7 @@ Vor Veröffentlichung werden Tatsachen, Datumsangaben, Rollen, Links, Quellen, Z
 ## Änderungshistorie
 
 | Version | Datum | Änderung |
+| 2.9 | 27.09.2026 | Öffentliche Trend-Rubrik und Trend-Rechercheebene wieder aus FIB entfernt. Begründung: Trenddarstellungen können leicht als politische Planungsvorhaben des Ortsverbands verstanden werden und erfordern einen unverhältnismäßig hohen redaktionellen Vor- und Nachbereitungsaufwand. Erweiterte, gesellschaftlich-demokratische sowie wissenschaftlich-technische Relevanzregeln für einzelne Beiträge bleiben bestehen. Eine mögliche kommunalpolitische Trend-Landkarte wird als interne Stoffsammlung außerhalb von FIB behandelt. |
 |---|---|---|
 | 2.8 | 26.09.2026 | Für Trends bürgernahe Sprache und eine Quellenpriorität zugunsten deutschsprachiger, allgemeinverständlicher Fach- und Praxisquellen eingeführt; englischsprachige Originalquellen in den Hintergrund gerückt. Wechselseitige Verknüpfung von Themen und Trends sowie Prüfung laufender lokaler Initiativen beim Feldkirchen-Transfer ergänzt. |
 | 2.7 | 26.09.2026 | Wissenschaftliche und technische Zukunftsrelevanz als zusätzliche Beitragsregel eingeführt; Klima, Energie, KI, Gesundheit, Biodiversität, Wasser, Infrastruktur und Bevölkerungsschutz ausdrücklich aufgenommen; Trends können nun sowohl aus Presseschau-Beiträgen als auch aus eigenständiger Zukunftsrecherche entstehen. |
