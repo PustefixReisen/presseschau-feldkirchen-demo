@@ -62,7 +62,7 @@
     <div class="fib-info-dialog-inner">
       <button class="fib-info-close" type="button" aria-label="Hinweis schließen">×</button>
       <h3>Transparenzhinweis</h3>
-      <p>Bei Recherche und Texterstellung wird KI eingesetzt. Veröffentlichte Beiträge werden redaktionell geprüft und freigegeben. Sachliche Aussagen beruhen auf den angegebenen Quellen; „Unsere Einordnung“ kennzeichnet die politische Einordnung aus grüner Perspektive.</p>
+      <p>Bei Recherche, Texterstellung und der Funktion „Mehr wissen?“ wird KI eingesetzt. Veröffentlichte FIB-Beiträge werden redaktionell geprüft und freigegeben. Antworten unter „Mehr wissen?“ stützen sich auf den FIB-Kontext und die jeweils angezeigten Quellen; dynamisch erzeugte Antworten können jedoch nicht immer vorab einzeln redaktionell geprüft werden. „Unsere Einordnung“ kennzeichnet die politische Einordnung aus grüner Perspektive.</p>
       <button class="fib-info-more" type="button">Mehr erfahren</button>
     </div>`;
   document.body.appendChild(infoDialog);
