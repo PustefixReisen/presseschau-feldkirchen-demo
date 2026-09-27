@@ -120,7 +120,13 @@ Vorgeschlagene Fragen:
 
 Das freie Fragefeld ist im Demonstrator nur eine UI-Erprobung. Die Eingabe wird noch nicht an eine KI übertragen.
 
-## 11. Noch offene Entscheidungen
+## 11. Qualitätstest für KI-Anbindungen
+
+„Mehr wissen?“ ist Bestandteil des modellübergreifenden FIB-Qualitätstests. Beim Vergleich unterschiedlicher KI-Anbindungen werden **Frageauswahl, Antwortqualität und Quellenwahl getrennt** geprüft. Maßgeblich ist das gemeinsame Bewertungsraster in `docs/FIB_Modellunabhaengigkeit_und_Qualitaetspruefung.md`.
+
+Für einen fairen Vergleich erhalten die Modelle denselben Testfall, denselben Informationsstand und – soweit technisch möglich – denselben zugelassenen Quellen- und Kontextbestand. Sprachliche Eleganz allein ist kein Qualitätsmaßstab; entscheidend sind insbesondere Faktentreue, Aussage-Quellen-Deckung, Unsicherheitskennzeichnung, Neutralität und die Trennung von sachlicher Vertiefung und politischer Einordnung.
+
+## 12. Noch offene Entscheidungen
 
 Vor einer Umsetzung im Echtbetrieb sind insbesondere zu klären:
 - zugelassene externe Quellen,
@@ -132,7 +138,7 @@ Vor einer Umsetzung im Echtbetrieb sind insbesondere zu klären:
 - redaktionelle Kontrolle statischer Hintergrundbausteine,
 - Grenzen zwischen neutraler Sachauskunft und politischer Einordnung.
 
-## 12. Abgrenzung zu „Unsere Einordnung“
+## 13. Abgrenzung zu „Unsere Einordnung“
 
 „Mehr wissen?“ ist grundsätzlich **sachlich-erklärend und quellengebunden**. Der Bereich darf politische Wertungen aus „Unsere Einordnung“ nicht als neutrale Hintergrundinformation wiederholen oder verstecken.
 
