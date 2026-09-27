@@ -1,22 +1,76 @@
-(function initObjectLinks(){
-  const objectMap={
-    OBJ001:{
-      name:'B471',
-      type:'Bezugsobjekt',
-      description:'Zur B471 werden weitere Beiträge und Themen verknüpft, wenn sie inhaltlich relevant sind.',
-      topics:[
-        ['T015','Verkehrssicherheit an B471 und M18'],
-        ['T003','Radverkehr und Verbindung über die A94']
-      ],
-      contributions:[
-        ['R094','Tempo 30 an der B471: Landratsamt sieht Voraussetzungen nicht erfüllt'],
-        ['R074','„B471 neu“ endgültig verworfen – lokale Entlastungsmaßnahmen rücken in den Mittelpunkt'],
-        ['R012','Gemeinderat greift mehrere Anträge aus der Bürgerversammlung auf'],
-        ['R007','Bürgerversammlung bringt Anträge zu Radwegen, Tempo 30 und Klimazielen'],
-        ['R051','Kidical Mass führt von Aschheim über Feldkirchen zum Heimstettener See']
-      ]
+(async function initObjectLinks(){
+  let data;
+  try{
+    const response=await fetch('data/bezuege.json?v=20260927i',{cache:'no-store'});
+    if(!response.ok) throw new Error(`HTTP ${response.status}`);
+    data=await response.json();
+  }catch(error){
+    console.error('FIB: Bezugsobjekte konnten nicht geladen werden.',error);
+    return;
+  }
+
+  const objects=Array.isArray(data.objects)?data.objects:[];
+  const objectMap=Object.fromEntries(objects.map(obj=>[obj.id,obj]));
+  const refsByTarget=new Map();
+
+  function addTargetRef(targetId,obj){
+    if(!targetId)return;
+    if(!refsByTarget.has(targetId))refsByTarget.set(targetId,[]);
+    refsByTarget.get(targetId).push(obj);
+  }
+
+  objects.forEach(obj=>{
+    (obj.contribution_refs||[]).forEach(ref=>addTargetRef(ref.id,obj));
+    (obj.topic_refs||[]).forEach(ref=>addTargetRef(ref.id,obj));
+  });
+
+  function insertObjectSection(targetId,objectList){
+    const card=document.getElementById(targetId);
+    if(!card || !objectList.length)return;
+
+    card.querySelectorAll('.object-links').forEach(el=>el.remove());
+
+    const section=document.createElement('section');
+    section.className='object-links';
+    const heading=document.createElement('h4');
+    heading.textContent='Bezüge';
+    const list=document.createElement('ul');
+
+    objectList
+      .slice()
+      .sort((a,b)=>(a.display_name||a.canonical_name||'').localeCompare(b.display_name||b.canonical_name||'','de'))
+      .forEach(obj=>{
+        const li=document.createElement('li');
+        const button=document.createElement('button');
+        button.type='button';
+        button.className='fib-object-link';
+        button.dataset.objectId=obj.id;
+        button.textContent=obj.display_name||obj.canonical_name;
+        li.appendChild(button);
+        list.appendChild(li);
+      });
+
+    section.append(heading,list);
+
+    const sources=card.querySelector('ul.sources');
+    if(sources){
+      sources.insertAdjacentElement('afterend',section);
+      return;
     }
-  };
+
+    const sourceDetails=[...card.querySelectorAll('details')].find(details=>{
+      const summary=details.querySelector(':scope > summary');
+      return summary && summary.textContent.trim().startsWith('Quellen');
+    });
+    if(sourceDetails){
+      sourceDetails.insertAdjacentElement('afterend',section);
+      return;
+    }
+
+    card.appendChild(section);
+  }
+
+  refsByTarget.forEach((objectList,targetId)=>insertObjectSection(targetId,objectList));
 
   const dialog=document.createElement('dialog');
   dialog.className='fib-object-dialog';
@@ -26,16 +80,41 @@
   function renderObject(id){
     const obj=objectMap[id];
     if(!obj)return false;
+
+    const topics=(obj.topic_refs||[])
+      .map(ref=>{
+        const target=document.getElementById(ref.id);
+        const title=target?.querySelector('h3')?.textContent?.trim()||ref.id;
+        return [ref.id,title];
+      })
+      .filter(([targetId])=>document.getElementById(targetId));
+
+    const contributions=(obj.contribution_refs||[])
+      .map(ref=>{
+        const target=document.getElementById(ref.id);
+        const title=target?.querySelector('h3')?.textContent?.trim()||ref.id;
+        return [ref.id,title];
+      })
+      .filter(([targetId])=>document.getElementById(targetId));
+
     const content=dialog.querySelector('.fib-object-content');
+    const description=obj.public_description||
+      `Zu ${obj.display_name||obj.canonical_name} werden weitere Beiträge und Themen verknüpft, wenn sie inhaltlich relevant sind.`;
+
     content.innerHTML=`
-      <div class="minor">${obj.type}</div>
-      <h3>${obj.name}</h3>
-      <p>${obj.description}</p>
-      <h4>Verknüpfte Themen</h4>
-      <ul>${obj.topics.map(([targetId,title])=>`<li><a href="#${targetId}" data-object-target data-target-id="${targetId}">${title}</a></li>`).join('')}</ul>
-      <h4>Verknüpfte Beiträge</h4>
-      <ul>${obj.contributions.map(([targetId,title])=>`<li><a href="#${targetId}" data-object-target data-target-id="${targetId}">${title}</a></li>`).join('')}</ul>
+      <div class="minor">Bezugsobjekt</div>
+      <h3>${obj.display_name||obj.canonical_name}</h3>
+      <p>${description}</p>
+      ${topics.length?`
+        <h4>Verknüpfte Themen</h4>
+        <ul>${topics.map(([targetId,title])=>`<li><a href="#${targetId}" data-object-target data-target-id="${targetId}">${title}</a></li>`).join('')}</ul>
+      `:''}
+      ${contributions.length?`
+        <h4>Verknüpfte Beiträge</h4>
+        <ul>${contributions.map(([targetId,title])=>`<li><a href="#${targetId}" data-object-target data-target-id="${targetId}">${title}</a></li>`).join('')}</ul>
+      `:''}
     `;
+
     if(!dialog.open){
       if(typeof dialog.showModal==='function') dialog.showModal();
       else dialog.setAttribute('open','');
@@ -99,7 +178,6 @@
       return;
     }
 
-    // Direkter Aufruf eines Bezugs-Hashes bleibt möglich.
     const match=window.location.hash.match(/^#bezug-(OBJ\d+)$/);
     if(match && objectMap[match[1]]) renderObject(match[1]);
   }
@@ -121,8 +199,8 @@
     const target=event.target.closest('[data-object-target]');
     if(target){
       event.preventDefault();
-      const objectId=(history.state && history.state.fibObject) || window.location.hash.replace(/^#bezug-/,'');
-      const targetId=target.dataset.targetId || target.getAttribute('href').replace(/^#/,'');
+      const objectId=(history.state && history.state.fibObject)||window.location.hash.replace(/^#bezug-/,'');
+      const targetId=target.dataset.targetId||target.getAttribute('href').replace(/^#/,'');
       openTargetFromObject(objectId,targetId);
     }
   });
