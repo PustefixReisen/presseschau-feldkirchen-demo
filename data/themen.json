@@ -1785,6 +1785,62 @@
         "created_at": "2026-08-28",
         "reason": "promoted after Stage B/C completeness audit"
       }
+    },
+    {
+      "id": "T015",
+      "title": "Verkehrssicherheit an B471 und M18",
+      "first_created": "2026-09-27",
+      "last_substantive_update": "2026-07-15",
+      "contribution_refs": [
+        "R007",
+        "R012",
+        "R094"
+      ],
+      "summary": "Mehrere Anträge aus der Bürgerversammlung 2025 betreffen die Verkehrssicherheit an den Hauptverkehrsachsen B471 und M18. Ein Antrag zielte auf Tempo 30 an stark frequentierten Schulwegen; die Antragstellerin konkretisierte ihn später auf die Aschheimer Straße/B471 zwischen Zeppelinstraße und Ortsausgang Richtung Aschheim. Ein weiterer Antrag verlangte Radfahr- oder Schutzstreifen an B471 und M18.\n\nDie Gemeinde ließ beide Anliegen durch die zuständigen Stellen prüfen. Beim Tempo-30-Antrag kam das Landratsamt nach einem Ortstermin mit Polizei, Staatlichem Bauamt und Gemeinde zu dem Ergebnis, dass die vorhandene Geh- und Radwegführung sowie die unauffällige Unfalllage eine Absenkung auf Tempo 30 nicht begründen. Die Regelgeschwindigkeit von 50 km/h soll deshalb bestehen bleiben; an der Fußgängerampel B471/Ottostraße wurde stattdessen eine längere Alles-Rot-Zeit in Aussicht gestellt.\n\nAuch Schutz- oder Radfahrstreifen wurden im vorhandenen Straßenquerschnitt von B471 und M18 wegen der verfügbaren Breiten, des Verkehrsaufkommens und des Schwerverkehrsanteils nicht befürwortet. Damit bleibt offen, welche anderen Maßnahmen die Sicherheit für Fuß- und Radverkehr entlang dieser stark belasteten Achsen verbessern können.",
+      "open_questions": [
+        "Wird die angekündigte Verlängerung der Alles-Rot-Zeit an der Fußgängerampel B471/Ottostraße umgesetzt?",
+        "Welche anderen Maßnahmen können die Schulwegsicherheit entlang der B471 verbessern, wenn Tempo 30 dort nicht angeordnet wird?",
+        "Welche Alternativen zu Schutz- oder Radfahrstreifen sind an B471 und M18 möglich?",
+        "Wie können die Anliegen aus der Bürgerversammlung für Fuß- und Radverkehr in die weitere Verkehrs- und Ortsentwicklung einfließen?"
+      ],
+      "sources": [
+        {
+          "name": "RIS Feldkirchen – Beschlussvorlage 5275/2026",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74581&type=do",
+          "type": "primary_official",
+          "source_refs": [
+            "R094"
+          ],
+          "date": "2026-07-15",
+          "date_basis": "public_release_in_RIS",
+          "date_status": "verified"
+        },
+        {
+          "name": "RIS Feldkirchen – Beschlussvorlage 5277/2026",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74590&type=do",
+          "type": "primary_official",
+          "source_refs": [
+            "R007",
+            "R012"
+          ],
+          "date": "2026-07-15",
+          "date_basis": "public_release_in_RIS",
+          "date_status": "verified"
+        },
+        {
+          "name": "RIS Feldkirchen – Gemeinderat 23.07.2026",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1026",
+          "type": "primary_official",
+          "source_refs": [
+            "R094"
+          ],
+          "date": "2026-07-23",
+          "date_basis": "session_date",
+          "date_status": "verified"
+        }
+      ],
+      "unsere_einordnung": null,
+      "status": "topic_established"
     }
   ],
   "excluded_topic_candidates": [
