@@ -4,7 +4,7 @@
 
 | Version | Stand | Verantwortlich |
 |---|---|---|
-| 1.2 | 26.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
+| 1.3 | 27.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
 
 ## Zweck
 
@@ -20,7 +20,7 @@ Diese Regeln gelten unabhängig davon, dass FIB nicht zwingend auf der pustivo-P
 
 | Themenbereich | Primäre verbindliche Quelle | Hinweis |
 |---|---|---|
-| inhaltliche Ausrichtung / allgemein verständliches Konzept | `docs/FIB-Inhaltliches-Konzept.md` | verständliche Primärquelle für Zweck, Reichweite und Abgrenzung von Presseschau, Sitzungen, Themen und Trends; Diskussionsgrundlage für die politische/redaktionelle Ausrichtung |
+| inhaltliche Ausrichtung / allgemein verständliches Konzept | `docs/FIB-Inhaltliches-Konzept.md` | verständliche Primärquelle für Zielbild, Zweck, Reichweite und Abgrenzung von Presseschau, Sitzungen und Themen; Diskussionsgrundlage für die politische/redaktionelle Ausrichtung |
 | redaktionelle KI-Regeln / Quellenarbeit | `docs/projektgrundlagen/KI-Leitfaden_Homepage-Presseschau.md` | fachlich-redaktionelle Primärquelle für KI-gestützte Erstellung |
 | Frontend und Darstellung | `docs/FIB_Frontend_und_Darstellung.md` | UI-/Darstellungsregeln des Demonstrators |
 | Quellenmonitor – Fachfunktion | `docs/FIB-Quellenmonitor.md` | fachliche Funktionsbeschreibung |
@@ -55,6 +55,7 @@ Ein Sachverhalt wird nur in seiner Primärquelle verbindlich festgelegt. Andere 
 
 | Version | Datum | Änderung |
 |---|---|---|
-| 1.2 | 26.09.2026 | `FIB-Inhaltliches-Konzept.md` als allgemein verständliche Primärquelle für Zweck, Reichweite und die Ebenen Presseschau/Sitzungen/Themen/Trends aufgenommen; offene Dokumentationslücke auf technische Produkt-/Echtbetriebsbeschreibung eingegrenzt. |
+| 1.3 | 27.09.2026 | Öffentliche Trend-Ebene aus der FIB-Dokumentation entfernt; interne Trend-/Stoffsammlung ausdrücklich außerhalb der öffentlichen FIB-Struktur verortet. |
+| 1.2 | 26.09.2026 | `FIB-Inhaltliches-Konzept.md` als allgemein verständliche Primärquelle für Zweck, Reichweite und die Ebenen Presseschau/Sitzungen/Themen aufgenommen; offene Dokumentationslücke auf technische Produkt-/Echtbetriebsbeschreibung eingegrenzt. |
 | 1.1 | 12.09.2026 | Auditstatus, offene Primärquellen und Folge-Issues #11/#12 verankert; Repository-Grenze zum Echtbetrieb präzisiert |
 | 1.0 | 12.09.2026 | Dokumentationslandkarte, Governance-Verknüpfung, Primärquellen und Dokumentationsschuld eingeführt |
