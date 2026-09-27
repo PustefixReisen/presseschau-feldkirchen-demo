@@ -16,6 +16,7 @@ Es gelten die zentralen Roadmap-Status aus `PustefixReisen/pustivo/docs/governan
 |---|---|---|
 | Demonstrator und Darstellung | **Teilweise umgesetzt** | Demonstrator vorhanden; öffentliche Struktur bleibt auf Presseschau, Sitzungen und Themen konzentriert. Die testweise eingeführte Rubrik `Trends` wurde nach redaktioneller Bewertung wieder entfernt. |
 | Quellenmonitor / Rechercheunterstützung | **Teilweise umgesetzt** | Fach- und Architekturunterlagen vorhanden; produktive Integration noch nicht als Echtbetrieb nachgewiesen |
+| „Mehr wissen?“ / FIB-Assistent | **Demonstrator FIB-weit umgesetzt** | Adaptive Fragen und funktionale Quellenrollen für Beiträge/Themen; freie Nutzerfragen und dynamische KI-Antworten erst im Echtbetrieb |
 | Projektdokumentation konsolidieren | **In Arbeit** | Allgemein verständliches inhaltliches Konzept angelegt; fachliche/redaktionelle Primärquellen über #11 weiter vervollständigen |
 | Echtbetriebsarchitektur | **In Arbeit** | Architektur-, Betriebs-, Sicherheits-, Daten-, Deployment- und Backupentscheidungen über #12 verbindlich konsolidieren |
 | Produktivsetzung | **Geplant** | erst nach Abschluss der wesentlichen Fach- und Echtbetriebsgrundlagen |
