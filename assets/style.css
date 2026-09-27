@@ -91,9 +91,12 @@ details{border-top:1px solid #d2d9d5;margin-top:14px;padding-top:11px}summary{cu
 .fib-info-more:hover,.fib-info-more:focus-visible{background:#0b7a53;outline:2px solid #87bfa5;outline-offset:2px}
 @media(max-width:560px){.fib-info-dialog{width:calc(100vw - 24px);margin:auto auto 12px;border-radius:14px 14px 0 0}.fib-info-dialog-inner{padding:21px 18px 18px}.fib-info-actions{margin-top:15px}}
 
-.object-link-row{margin-top:14px;padding-top:10px;border-top:1px solid #d2d9d5;font-size:.9rem;color:#52655c}
-.object-link-row .fib-object-link{appearance:none;border:0;background:none;padding:0;color:#005437;font:inherit;font-weight:800;text-decoration:underline;text-decoration-thickness:2px;text-underline-offset:3px;cursor:pointer}
-.object-link-row .fib-object-link:hover,.object-link-row .fib-object-link:focus{color:#007a4d}
+.object-links{margin-top:14px;padding-top:12px;border-top:1px solid #d2d9d5}
+.object-links h4{margin:0 0 .35rem;color:inherit}
+.object-links ul{margin:.15rem 0 0;padding-left:1.2rem}
+.object-links li{margin:.2rem 0}
+.object-links .fib-object-link{appearance:none;border:0;background:none;padding:0;color:#003f2c;font:inherit;font-weight:650;text-decoration:underline;text-decoration-thickness:2px;text-underline-offset:3px;cursor:pointer}
+.object-links .fib-object-link:hover,.object-links .fib-object-link:focus{color:#003f2a;text-decoration-thickness:2px}
 .fib-object-dialog{max-width:min(680px,calc(100vw - 32px));border:0;padding:0;border-radius:12px;background:#f7f7f3;color:#173126}
 .fib-object-dialog::backdrop{background:rgba(0,0,0,.45)}
 .fib-object-dialog-inner{position:relative;padding:24px}
