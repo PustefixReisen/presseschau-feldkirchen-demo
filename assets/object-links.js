@@ -3,7 +3,7 @@
     OBJ001:{
       name:'B471',
       type:'Bezugsobjekt',
-      description:'Die B471 ist eine zentrale Verkehrsachse im Feldkirchner Umfeld. Hier werden nur Beiträge und Themen verknüpft, in denen Planung, Nutzung, Verkehrssicherheit oder eine Veränderung der B471 selbst eine erkennbare Rolle spielen.',
+      description:'Zur B471 werden weitere Beiträge und Themen verknüpft, wenn sie inhaltlich relevant sind.',
       topics:[
         ['T015','Verkehrssicherheit an B471 und M18'],
         ['T003','Radverkehr und Verbindung über die A94']
