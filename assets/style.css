@@ -124,3 +124,10 @@ details{border-top:1px solid #d2d9d5;margin-top:14px;padding-top:11px}summary{cu
 .more-knowledge-dialog-content h4{margin:1.1rem 0 .4rem;color:#005437}
 .more-knowledge-dialog-content textarea{width:100%;box-sizing:border-box;margin:.4rem 0 .7rem;padding:.7rem;font:inherit}
 .more-knowledge-label{display:block;font-weight:700;margin-top:1rem}
+
+.more-knowledge-sources{display:flex;flex-direction:column;gap:.55rem}
+.more-knowledge-sources li{display:grid;grid-template-columns:minmax(9rem,auto) 1fr;gap:.55rem;align-items:start}
+.more-knowledge-source-role{font-size:.82rem;font-weight:700;color:#52655c;background:#e7ece8;border-radius:999px;padding:.12rem .5rem;white-space:nowrap;width:max-content}
+.more-knowledge-prototype-note{margin-top:.65rem}
+@media (max-width:560px){.more-knowledge-sources li{grid-template-columns:1fr}.more-knowledge-source-role{margin-bottom:-.15rem}}
+
