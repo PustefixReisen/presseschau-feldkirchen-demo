@@ -1,6 +1,6 @@
 # KI-Leitfaden Homepage-Presseschau Feldkirchen
 
-**Version 3.2 · Stand 27.09.2026**
+**Version 3.3 · Stand 27.09.2026**
 
 > Kanonische Markdown-Fassung für GitHub. Inhaltlich übernommen aus der bisherigen Projektbibliothek und um verbindliche Projektentscheidungen fortgeschrieben.
 
@@ -296,7 +296,9 @@ Ein Objekt erhält grundsätzlich erst dann eine eigene Bezugsliste, wenn es in 
 
 ### Darstellung
 
-Die Bezugsebene bleibt visuell unterhalb der Themenebene. In passenden Beiträgen und Themen wird ein kompakter Hinweis wie **„Bezug: B471“** angezeigt. Ein Klick öffnet eine Linkliste mit den relevanten Beiträgen und Themen. Die Bezugsliste enthält keine eigene politische Einordnung.
+Die Bezugsebene bleibt fachlich unterhalb der Themenebene, wird in der Darstellung aber als eigener Abschnitt **„Bezüge“ direkt nach den Quellen** geführt. Damit erhält sie eine vergleichbare Bedeutungsebene wie die Quellen, ohne mit ihnen vermischt zu werden.
+
+Ein Klick auf ein Bezugsobjekt öffnet eine Linkliste mit den relevanten Beiträgen und Themen. Im öffentlichen Dialog wird als einheitliche Bezeichnung **„Bezugsobjekt“** verwendet; interne Objekttypen wie Infrastruktur, Ort oder Vorhaben werden dort nicht zusätzlich eingeführt. Interne Auswahl- und Qualitätsregeln bleiben unsichtbar. Die Bezugsliste enthält keine eigene politische Einordnung.
 
 ### Datenmodell
 
@@ -341,6 +343,7 @@ Vor Veröffentlichung werden Tatsachen, Datumsangaben, Rollen, Links, Quellen, Z
 | Version | Datum | Änderung |
 | 2.9 | 27.09.2026 | Öffentliche Trend-Rubrik und Trend-Rechercheebene wieder aus FIB entfernt. Begründung: Trenddarstellungen können leicht als politische Planungsvorhaben des Ortsverbands verstanden werden und erfordern einen unverhältnismäßig hohen redaktionellen Vor- und Nachbereitungsaufwand. Erweiterte, gesellschaftlich-demokratische sowie wissenschaftlich-technische Relevanzregeln für einzelne Beiträge bleiben bestehen. Eine mögliche kommunalpolitische Trend-Landkarte wird als interne Stoffsammlung außerhalb von FIB behandelt. |
 |---|---|---|
+| 3.3 | 27.09.2026 | Darstellung der Bezugsebene präzisiert: eigener Abschnitt „Bezüge“ direkt nach Quellen; öffentlicher Dialog verwendet einheitlich „Bezugsobjekt“; interne Objekttypen und Auswahlregeln werden nicht angezeigt; Linkgestaltung entspricht Beitragslinks. |
 | 3.2 | 27.09.2026 | Modell- und Anbieterunabhängigkeit als verbindliches Grundprinzip ergänzt; auf separates Qualitätsdokument mit Trennung von Geschäftsregel, expliziter KI-Regel und Modellurteil verwiesen. |
 | 3.1 | 27.09.2026 | Bezugsebene unterhalb der redaktionellen Themen eingeführt. Objekte werden nur bei erkennbarem fachlichem Mehrwert verknüpft; beiläufige Nennungen reichen nicht. Stabile Objekt-IDs, Aliasnamen und explizite Beziehungen zu Beiträgen/Themen vorgesehen; Testobjekt B471. |
 | 3.0 | 27.09.2026 | Suchlogik fachlich getrennt: explizite Such-Schlagworte, Volltext ohne automatische Kategorienvererbung und verbindliche Übernahme ins Echtsystem. Themenbildungsregel ergänzt: eigenständige Sachstränge in Sammelbeiträgen separat prüfen; bei eigener Beschlussvorlage oder Stellungnahme Themenkandidat erneut bewerten; externe Vergleichsfälle nicht bezugslos an lokale Themen anhängen. |
