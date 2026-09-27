@@ -1,6 +1,6 @@
 # FIB – Frontend und Darstellung
 
-**Stand:** 24.09.2026  
+**Stand:** 27.09.2026  
 **Status:** verbindlicher Arbeitsstand für Demonstrator; Zielbild für öffentliche FIB-Darstellung
 
 ## 1. Zweck
@@ -134,6 +134,19 @@ Bei der konkreten FIB-Nutzung wird der Text nicht routinemäßig neu erzeugt. Di
 Themenkarten fassen länger laufende Entwicklungen zusammen und können „Unsere Einordnung“, offene Fragen und Quellen enthalten. Sitzungskarten dokumentieren relevante Tagesordnungspunkte mit direktem Vorlagenlink, soweit dieser belastbar verfügbar ist.
 
 Bilder werden bei Themen und Sitzungen nur eingesetzt, wenn sie einen klaren konkreten Bezug haben. Die Priorität liegt zunächst auf Beitragskarten.
+
+## 7.1 Suche und Filter
+
+Suche und Filter erfüllen unterschiedliche Aufgaben und dürfen technisch nicht vermischt werden.
+
+- **Freitextsuche:** durchsucht Überschrift, Untertitel, Sachtext, relevante Verlaufs-/Quellentexte und explizite fachliche Schlagworte.
+- **Kategorie:** ist eine grobe redaktionelle Einordnung und wird separat gefiltert.
+- **Ort:** wird separat gefiltert.
+- **Fachliche Schlagworte (search_tags):** bilden den tatsächlichen Inhalt eines Beitrags ab und können für thematische Suche bzw. spätere Themenfilter verwendet werden.
+
+Eine Sammelkategorie erzeugt keine automatische Unterthemenzuordnung. Beispiel: Ein Beitrag zur Bürgermeister-Stichwahl in der Kategorie „Kommunalpolitik & Beteiligung“ darf bei der Suche nach „Beteiligung“ nicht allein wegen des Kategorienamens erscheinen; er soll über Schlagworte wie „Kommunalwahl“, „Bürgermeisterwahl“ oder „Wahl“ gefunden werden.
+
+Im Demonstrator wird die Kategorienbeschriftung deshalb aus der Freitext-Suchbasis entfernt. Für den **Echtbetrieb** sind Kategorien, Orte und fachliche Schlagworte als getrennte strukturierte Felder zu übernehmen. Die Suche darf nicht aus dem vollständig gerenderten Kartentext einschließlich UI-Metadaten rekonstruiert werden.
 
 ## 8. Responsives Verhalten
 
