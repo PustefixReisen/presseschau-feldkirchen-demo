@@ -165,8 +165,13 @@
     target.style.scrollMarginTop=`${topbarHeight + 16}px`;
 
     const placeTarget=()=>target.scrollIntoView({behavior:'auto',block:'start'});
+
+    // Mobile Browser können den Zielpunkt nach dem Panelwechsel durch
+    // nachträgliche Layoutänderungen (Bilder, Schriften, dynamische Inhalte)
+    // wieder verschieben. Deshalb wie bei direkten Deep-Links mehrfach
+    // nachkorrigieren.
     requestAnimationFrame(()=>requestAnimationFrame(placeTarget));
-    setTimeout(placeTarget,80);
+    [120,350,800].forEach(delay=>setTimeout(placeTarget,delay));
   }
 
   function openObject(id,{pushHistory=true}={}){
