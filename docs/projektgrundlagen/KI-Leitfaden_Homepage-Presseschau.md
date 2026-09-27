@@ -1,6 +1,6 @@
 # KI-Leitfaden Homepage-Presseschau Feldkirchen
 
-**Version 3.3 · Stand 27.09.2026**
+**Version 3.4 · Stand 27.09.2026**
 
 > Kanonische Markdown-Fassung für GitHub. Inhaltlich übernommen aus der bisherigen Projektbibliothek und um verbindliche Projektentscheidungen fortgeschrieben.
 
@@ -304,7 +304,7 @@ Ein Klick auf ein Bezugsobjekt öffnet eine Linkliste mit den relevanten Beiträ
 
 Objekte werden mit stabiler ID, kanonischem Namen, Objekttyp und gegebenenfalls Aliasnamen gespeichert. Beziehungen zu Beiträgen und Themen werden explizit geführt und nicht allein aus Volltexttreffern erzeugt. Aliasnamen können unterschiedliche Bezeichnungen desselben Objekts zusammenführen.
 
-Der Demonstrator erprobt diese Logik zunächst am Objekt **B471**.
+Die Bezugsebene ist im Demonstrator allgemein datengetrieben umgesetzt. Kanonische Quelle ist `data/bezuege.json`. Neue Bezugsobjekte benötigen keinen eigenen Frontend-Code, sondern werden über stabile Objekt-IDs, Aliasnamen und explizit geprüfte Beziehungen zu Beiträgen und Themen ergänzt. Mehrere Bezugsobjekte pro Beitrag oder Thema sind zulässig.
 
 ## 9. Unsere Einordnung
 
@@ -343,6 +343,7 @@ Vor Veröffentlichung werden Tatsachen, Datumsangaben, Rollen, Links, Quellen, Z
 | Version | Datum | Änderung |
 | 2.9 | 27.09.2026 | Öffentliche Trend-Rubrik und Trend-Rechercheebene wieder aus FIB entfernt. Begründung: Trenddarstellungen können leicht als politische Planungsvorhaben des Ortsverbands verstanden werden und erfordern einen unverhältnismäßig hohen redaktionellen Vor- und Nachbereitungsaufwand. Erweiterte, gesellschaftlich-demokratische sowie wissenschaftlich-technische Relevanzregeln für einzelne Beiträge bleiben bestehen. Eine mögliche kommunalpolitische Trend-Landkarte wird als interne Stoffsammlung außerhalb von FIB behandelt. |
 |---|---|---|
+| 3.4 | 27.09.2026 | Bezugsebene allgemein datengetrieben umgesetzt. `data/bezuege.json` ist kanonische Objektquelle; mehrere Bezugsobjekte je Beitrag/Thema möglich; Frontend wird automatisch aus explizit geprüften Beziehungen erzeugt. |
 | 3.3 | 27.09.2026 | Darstellung der Bezugsebene präzisiert: eigener Abschnitt „Bezüge“ direkt nach Quellen; öffentlicher Dialog verwendet einheitlich „Bezugsobjekt“; interne Objekttypen und Auswahlregeln werden nicht angezeigt; Linkgestaltung entspricht Beitragslinks. |
 | 3.2 | 27.09.2026 | Modell- und Anbieterunabhängigkeit als verbindliches Grundprinzip ergänzt; auf separates Qualitätsdokument mit Trennung von Geschäftsregel, expliziter KI-Regel und Modellurteil verwiesen. |
 | 3.1 | 27.09.2026 | Bezugsebene unterhalb der redaktionellen Themen eingeführt. Objekte werden nur bei erkennbarem fachlichem Mehrwert verknüpft; beiläufige Nennungen reichen nicht. Stabile Objekt-IDs, Aliasnamen und explizite Beziehungen zu Beiträgen/Themen vorgesehen; Testobjekt B471. |
