@@ -1,6 +1,6 @@
 # KI-Leitfaden Homepage-Presseschau Feldkirchen
 
-**Version 2.9 · Stand 27.09.2026**
+**Version 3.0 · Stand 27.09.2026**
 
 > Kanonische Markdown-Fassung für GitHub. Inhaltlich übernommen aus der bisherigen Projektbibliothek und um verbindliche Projektentscheidungen fortgeschrieben.
 
@@ -61,6 +61,17 @@ Neue Rechercheläufe ergänzen oder aktualisieren den vorhandenen Bestand. Nach 
 Für jede kanonische Datei wird nur eine aktuelle Fassung unter stabilem, versionsfreiem Namen geführt. Versionsnummer und Stand stehen im Dokument bzw. in Metadaten. Konkurrierende Kopien wie `_neu`, `_final` oder Versionskopien sind zu vermeiden.
 
 Die bisherigen kanonischen operativen Arbeitsdaten heißen: `recherchebestand.json`, `presseschau_beitraege.json`, `themenbestand.json`, `sitzungsbestand.json`, `interne_quellen_manifest.json` und `VerdeckteQuellen.zip`.
+
+### 3.5 Such- und Filtermetadaten
+
+Beiträge erhalten zusätzlich zu ihrer groben Kategorie **explizite fachliche Schlagworte** (search_tags). Diese beschreiben den tatsächlichen Gegenstand des Beitrags, zum Beispiel Bürgerbeteiligung, Bürgermeisterwahl, Tempo 30, B471, Wohnen oder Radverkehr.
+
+Für Suche und Filterung gilt:
+- Eine Sammelkategorie wie „Kommunalpolitik & Beteiligung“ darf **nicht automatisch** dazu führen, dass ein Beitrag bei der Suche nach dem Unterthema „Beteiligung“ erscheint.
+- Volltextsuche durchsucht die inhaltlichen Felder sowie explizite Schlagworte, nicht die Kategorienbezeichnung als verstecktes Suchsignal.
+- Kategorien, Orte und fachliche Schlagworte sind getrennte Metadaten und werden auch im Echtsystem getrennt gespeichert.
+- Schlagworte werden fachlich aus dem Beitrag abgeleitet; sie dürfen nicht allein aus der Kategorie geerbt werden.
+- Die Suchlogik des Demonstrators ist fachliche Anforderung für das Echtsystem und darf dort nicht wieder durch eine reine Volltextsuche über gerenderte Karten ersetzt werden.
 
 ## 4. Rechercheumfang und Quellen
 
@@ -244,6 +255,12 @@ Direkte Vorlagenlinks werden nur angezeigt, wenn das konkrete Dokument funktions
 
 Potenzielle Themen entstehen aus wiederkehrenden Sitzungs-TOPs, mehreren Beiträgen, länger laufenden Planungsprozessen oder verbundenen Konzepten/Maßnahmen. Die Themendarstellung ist zunächst analytisch-neutral und zeigt Zusammenhänge, Entwicklung, Entscheidungen, Akteure, aktuellen Stand und offene Fragen. Eine reine Chronologie reicht nicht aus. Ein freigegebenes Thema bleibt erhalten und wird bei wesentlichen neuen Informationen aktualisiert.
 
+**Mehrere Sachstränge in einem Beitrag:** Enthält ein Sammelbeitrag mehrere eigenständige Anliegen – etwa Bürgeranträge zu Tempo 30, Radverkehr und Klimazielen –, wird jeder Sachstrang gesondert als Themenkandidat geprüft. Er darf nicht allein deshalb in einem vorhandenen allgemeinen Thema verschwinden, weil der Ausgangsbeitrag mehrere Anliegen bündelt.
+
+Spätestens wenn zu einem solchen Sachstrang eine eigene Beschlussvorlage, behördliche Stellungnahme, Entscheidung oder sonstige substanzielle Fortentwicklung vorliegt, wird geprüft, ob ein eigenes Thema anzulegen ist. Die fachliche Themenzuordnung richtet sich nach dem Gegenstand, nicht nach der Kategorie des Ausgangsbeitrags.
+
+Externe Vergleichsbeispiele dürfen ein lokales Thema ergänzend erklären, werden aber nicht als scheinbare Fortsetzung des Feldkirchner Vorgangs angehängt. Ein FIB-Thema bleibt auf einen konkreten Feldkirchner Sachzusammenhang konzentriert.
+
 ## 9. Unsere Einordnung
 
 ### 9.1 Drei-Ebenen-Prinzip
@@ -281,6 +298,7 @@ Vor Veröffentlichung werden Tatsachen, Datumsangaben, Rollen, Links, Quellen, Z
 | Version | Datum | Änderung |
 | 2.9 | 27.09.2026 | Öffentliche Trend-Rubrik und Trend-Rechercheebene wieder aus FIB entfernt. Begründung: Trenddarstellungen können leicht als politische Planungsvorhaben des Ortsverbands verstanden werden und erfordern einen unverhältnismäßig hohen redaktionellen Vor- und Nachbereitungsaufwand. Erweiterte, gesellschaftlich-demokratische sowie wissenschaftlich-technische Relevanzregeln für einzelne Beiträge bleiben bestehen. Eine mögliche kommunalpolitische Trend-Landkarte wird als interne Stoffsammlung außerhalb von FIB behandelt. |
 |---|---|---|
+| 3.0 | 27.09.2026 | Suchlogik fachlich getrennt: explizite Such-Schlagworte, Volltext ohne automatische Kategorienvererbung und verbindliche Übernahme ins Echtsystem. Themenbildungsregel ergänzt: eigenständige Sachstränge in Sammelbeiträgen separat prüfen; bei eigener Beschlussvorlage oder Stellungnahme Themenkandidat erneut bewerten; externe Vergleichsfälle nicht bezugslos an lokale Themen anhängen. |
 | 2.8 | 26.09.2026 | Für Trends bürgernahe Sprache und eine Quellenpriorität zugunsten deutschsprachiger, allgemeinverständlicher Fach- und Praxisquellen eingeführt; englischsprachige Originalquellen in den Hintergrund gerückt. Wechselseitige Verknüpfung von Themen und Trends sowie Prüfung laufender lokaler Initiativen beim Feldkirchen-Transfer ergänzt. |
 | 2.7 | 26.09.2026 | Wissenschaftliche und technische Zukunftsrelevanz als zusätzliche Beitragsregel eingeführt; Klima, Energie, KI, Gesundheit, Biodiversität, Wasser, Infrastruktur und Bevölkerungsschutz ausdrücklich aufgenommen; Trends können nun sowohl aus Presseschau-Beiträgen als auch aus eigenständiger Zukunftsrecherche entstehen. |
 | 2.6 | 26.09.2026 | Neue redaktionelle Ebene „Trends“ eingeführt: klare Abgrenzung zu Presseschau und Themen, eigene Vertiefungsrecherche mit Hintergrundquellen, strukturierte Trendanalyse sowie Regeln für neue gesellschaftliche Perspektiven, Kooperation, Koproduktion und polyzentrische Steuerung ohne automatische Ableitung lokaler Parteipositionen. |
