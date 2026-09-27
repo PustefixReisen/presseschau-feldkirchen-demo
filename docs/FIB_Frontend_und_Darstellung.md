@@ -152,11 +152,15 @@ Im Demonstrator wird die Kategorienbeschriftung deshalb aus der Freitext-Suchbas
 
 Unterhalb der redaktionellen Themen kann FIB eine neutrale Bezugsebene für wiederkehrende konkrete Objekte anzeigen. Sie ist kein eigener Hauptnavigationsbereich.
 
-Ein passender Beitrag oder ein passendes Thema kann einen kompakten Hinweis wie **„Bezug: B471“** enthalten. Der Link öffnet eine kleine Übersicht mit:
-- kurzer Objektbezeichnung,
+Ein passender Beitrag oder ein passendes Thema enthält nach dem Quellenbereich einen eigenen Abschnitt **„Bezüge“**. Die Bezüge stehen damit auf einer vergleichbaren Informationsebene wie die Quellen, bleiben aber inhaltlich von ihnen getrennt.
+
+Ein Eintrag wie **„B471“** öffnet eine kleine Übersicht mit:
+- der Kennzeichnung **„Bezugsobjekt“**,
+- der Objektbezeichnung,
 - verknüpften FIB-Themen,
-- verknüpften Beiträgen,
-- kurzer Erläuterung der Auswahlregel.
+- verknüpften Beiträgen.
+
+Interne Auswahl- und Qualitätsregeln werden im Dialog nicht angezeigt. Die Linkdarstellung entspricht der üblichen Linkfarbe und Typografie innerhalb eines Beitrags.
 
 Die Liste wird nur aus **explizit geprüften Objektbeziehungen** erzeugt. Reine Volltexttreffer oder beiläufige Namensnennungen erscheinen nicht automatisch.
 
