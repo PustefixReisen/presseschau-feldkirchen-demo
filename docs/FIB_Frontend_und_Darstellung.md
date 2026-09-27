@@ -170,7 +170,7 @@ Die Darstellung ist im Demonstrator allgemein umgesetzt. Das Frontend liest die 
 
 Der Dialog eines Bezugsobjekts erhält auf kleinen Bildschirmen eine eigene Scrollfläche, wenn sein Inhalt höher als der verfügbare Viewport ist. Die Schließen-Funktion bleibt dabei erreichbar.
 
-Das Öffnen eines Bezugsobjekts und der Wechsel zu einem verknüpften Beitrag oder Thema werden als **explizite History-Zustände** geführt. Der normale Fragmentwechsel des Browsers wird dafür nicht verwendet. Dadurch soll insbesondere auf mobilen Browsern mit Wisch-Navigation gelten: Ein Schritt **Zurück** vom Ziel öffnet wieder den vorherigen Bezugsdialog; ein weiterer Schritt **Zurück** führt zur ursprünglichen Ansicht zurück. Für den Echtbetrieb bleibt das gleiche Grundprinzip bestehen: strukturierte Objekttabelle mit stabilen IDs, Typen, Aliasnamen und explizit geprüften Beziehungen zu Beiträgen/Themen.
+Das Öffnen eines Bezugsobjekts und der Wechsel zu einem verknüpften Beitrag oder Thema werden als **explizite History-Zustände** geführt. Die **Zielnavigation** aktiviert den passenden Bereich ohne zusätzlichen Scrollsprung und setzt bei Beiträgen gegebenenfalls aktive Such- und Ortsfilter zurück, bevor der Zielbeitrag angesprungen wird. Der normale Fragmentwechsel des Browsers wird dafür nicht verwendet. Dadurch soll insbesondere auf mobilen Browsern mit Wisch-Navigation gelten: Ein Schritt **Zurück** vom Ziel öffnet wieder den vorherigen Bezugsdialog; ein weiterer Schritt **Zurück** führt zur ursprünglichen Ansicht zurück. Für den Echtbetrieb bleibt das gleiche Grundprinzip bestehen: strukturierte Objekttabelle mit stabilen IDs, Typen, Aliasnamen und explizit geprüften Beziehungen zu Beiträgen/Themen.
 
 ## 8. Responsives Verhalten
 
