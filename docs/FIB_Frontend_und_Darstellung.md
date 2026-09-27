@@ -172,6 +172,25 @@ Der Dialog eines Bezugsobjekts erhält auf kleinen Bildschirmen eine eigene Scro
 
 Das Öffnen eines Bezugsobjekts und der Wechsel zu einem verknüpften Beitrag oder Thema werden als **explizite History-Zustände** geführt. Die **Zielnavigation** aktiviert den passenden Bereich ohne zusätzlichen Scrollsprung und setzt bei Beiträgen gegebenenfalls aktive Such- und Ortsfilter zurück, bevor der Zielbeitrag angesprungen wird. Der normale Fragmentwechsel des Browsers wird dafür nicht verwendet. Dadurch soll insbesondere auf mobilen Browsern mit Wisch-Navigation gelten: Ein Schritt **Zurück** vom Ziel öffnet wieder den vorherigen Bezugsdialog; ein weiterer Schritt **Zurück** führt zur ursprünglichen Ansicht zurück. Für den Echtbetrieb bleibt das gleiche Grundprinzip bestehen: strukturierte Objekttabelle mit stabilen IDs, Typen, Aliasnamen und explizit geprüften Beziehungen zu Beiträgen/Themen.
 
+## 7.3 „Mehr wissen?“
+
+Beiträge und Themen können nach dem eigentlichen Sachinhalt einen Abschnitt **„Mehr wissen?“** enthalten. Die Funktion ist eine optionale Vertiefungsebene und keine Verlängerung des Beitragstextes.
+
+Darstellungsregeln:
+
+- Die Präambel lautet sinngemäß: **„Die Meldung oder das Thema ist der Einstieg: Hier kannst du Hintergründe und Zusammenhänge erkunden.“**
+- Anschlussfragen erscheinen als klar erkennbare Textschaltflächen.
+- Die Zahl der Fragen ist nicht fest vorgegeben.
+- Eine Karte erhält den Abschnitt nur, wenn mindestens ein zusätzlicher Erkenntnisweg belastbar angeboten werden kann.
+- Antworten öffnen sich in einem Dialogfenster und bleiben auf mobilen Geräten innerhalb des Viewports scrollbar.
+- Unter jeder Antwort werden die verwendeten Quellen mit ihrer **Funktion für die Antwort** gekennzeichnet, z. B. Ausgangsmeldung, lokaler/regionaler Kontext, Fach-/Rechtsrahmen, Praxisbeispiel, Pressebericht, Position/Akteur oder FIB-Zusammenhang.
+- „Eigene Frage stellen …“ gehört zum Zielbild. Im Demonstrator ist das Eingabefeld noch nicht an eine KI-API angeschlossen.
+- „Mehr wissen?“ bleibt sachlich-erklärend. Politische Bewertungen aus „Unsere Einordnung“ werden nicht in den Hintergrundbereich verschoben oder dort als neutrale Information dargestellt.
+
+Die FIB-weite Demonstrator-Logik liest vorhandene Beitrags- und Themenbeziehungen aus der gerenderten strukturierten Ausgabe. Für besonders geeignete Fälle können kuratierte Vertiefungen mit zusätzlichen Fach- und Rechtsquellen hinterlegt werden; R088 dient hierfür als Referenzfall.
+
+Im Echtbetrieb sollen Fragen und Antworten aus dem persistenten FIB-Bestand, verknüpften FIB-Inhalten und freigegebenen externen Quellen erzeugt werden. Die fachlichen Regeln stehen in `docs/FIB_Mehr_wissen_Assistent.md`.
+
 ## 8. Responsives Verhalten
 
 - Desktop/Tablet: Karten nutzen die verfügbare Inhaltsbreite; Bildteaser zweispaltig.
