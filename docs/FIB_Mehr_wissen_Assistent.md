@@ -4,7 +4,7 @@
 
 | Version | Stand | Verantwortlich |
 |---|---|---|
-| 0.3 | 27.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
+| 0.4 | 27.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
 
 ## 1. Präambel
 
@@ -51,14 +51,24 @@ Leitfrage:
 ## 5. Vorgeschlagene Fragen
 
 Geeignete Fragetypen sind insbesondere:
-- Verstehen: „Was bedeutet …?“
-- Stand: „Wie weit ist … heute?“
-- Praxis: „Wo wird das bereits eingesetzt?“
-- Zusammenhang: „Was hat das mit … zu tun?“
-- Offen: „Was ist noch ungeklärt?“
-- Lokale Bedeutung: „Was könnte das für Feldkirchen bedeuten?“
+- **Technischer Hintergrund:** „Welche technische oder planerische Entwicklung steckt dahinter?“
+- **Rechtlicher/institutioneller Hintergrund:** „Welche Regeln und Zuständigkeiten bestimmen den Handlungsspielraum?“
+- **Gesellschaftlicher Hintergrund:** „Welche Interessen, Veränderungen oder Teilhabefragen stehen dahinter?“
+- **Ökologischer Hintergrund:** „Welche Umweltwirkungen oder Zielkonflikte sind wichtig?“
+- **Wirtschaftlicher Hintergrund:** „Welche Kosten, Förderungen oder Folgewirkungen sind relevant?“
+- **Reifegrad:** „Ist das schon belastbare Praxis oder noch ein Experiment?“
+- **Vergleich/Praxis:** „Wo gibt es bereits Erfahrungen und was lässt sich daraus lernen?“
+- **Entwicklungslinie:** „Welche längerfristige Entwicklung wird hier sichtbar?“
+- **Offen:** „Welche offenen Fragen entscheiden über die weitere Entwicklung?“
+- **Übertragbarkeit:** „Unter welchen Bedingungen könnte das für Feldkirchen relevant werden?“
 
 Fragen sollen neugierig machen, aber nicht suggestiv formuliert sein.
+
+### Anti-Redundanz-Regel
+
+„Mehr wissen?“ darf den sichtbaren Beitrag nicht lediglich wiederholen. Fragen wie **„Was ist der Kern dieser Meldung?“** oder **„Wie ist der Sachstand belegt?“** sind im Regelfall ungeeignet, wenn Beitragstext und Quellenliste diese Information bereits unmittelbar liefern.
+
+Eine Anschlussfrage soll gegenüber der Karte mindestens einen **neuen Erkenntnishorizont** eröffnen: zusätzlichen Hintergrund, längerfristige Entwicklung, Vergleich, Reifegrad, Zielkonflikt, Handlungsspielraum oder Übertragbarkeit.
 
 Die Zahl der vorgeschlagenen Fragen ist nicht fest vorgegeben. Es sollen so viele Fragen angeboten werden, wie unterschiedliche sinnvolle Erkenntniswege eröffnen, ohne den Beitrag zu überladen. Drei Fragen sind daher kein Zielwert und keine Obergrenze.
 
@@ -78,7 +88,23 @@ Mehrere Quellen sind besonders dann sinnvoll, wenn sie **unterschiedliche Funkti
 
 Bei Themen werden Quellen aus verschiedenen Zeitpunkten als **Themenkontext** gebündelt. Bei einer Antwort wird nur die Auswahl gezeigt, die für die konkrete Frage hilfreich ist.
 
-## 7. FIB-weite adaptive Fragenlogik
+## 7. Trend-Kriterien als Suchscheinwerfer für Hintergrundfragen
+
+Die frühere Idee einer eigenen öffentlichen FIB-Rubrik „Trends“ wird **nicht** wieder eingeführt. Die dafür entwickelten Analyseperspektiven werden jedoch für „Mehr wissen?“ weiterverwendet.
+
+Bei der Auswahl von Anschlussfragen wird geprüft, ob hinter einer Meldung eine Entwicklung erkennbar ist, die:
+
+- technische Möglichkeiten oder Reifegrade verändert,
+- rechtliche oder institutionelle Handlungsspielräume verschiebt,
+- gesellschaftliche Bedürfnisse, Beteiligungsformen oder Nutzungsmuster verändert,
+- ökologische Risiken, Wirkungen oder Zielkonflikte sichtbar macht,
+- wirtschaftliche Bedingungen, Kosten oder Förderlogiken verändert,
+- in anderen Kommunen oder Praxisfeldern bereits erprobt wird,
+- oder künftig für Feldkirchen relevant werden könnte.
+
+Diese Perspektiven sind **Rechercheachsen**, keine zusätzlichen öffentlichen Kategorien. Es werden nur diejenigen genutzt, die für den konkreten Sachverhalt einen belastbaren Erkenntnisgewinn erwarten lassen.
+
+## 8. FIB-weite adaptive Fragenlogik
 
 Der Demonstrator verwendet zwei Ebenen:
 
@@ -87,7 +113,7 @@ Der Demonstrator verwendet zwei Ebenen:
 
 Die Mehrwert-Schwelle bleibt verbindlich. Ein kurzer Einzelhinweis ohne Verlauf, Zusammenhang, zusätzliche Quellen oder erklärungsbedürftigen Sachverhalt muss keinen „Mehr wissen?“-Bereich erhalten.
 
-## 8. FIB-Kontextpaket für den Echtbetrieb
+## 9. FIB-Kontextpaket für den Echtbetrieb
 
 Eine spätere KI-Antwort soll nicht aus allgemeinem Modellwissen allein erzeugt werden. Sie erhält ein strukturiertes Kontextpaket mit:
 - aktuellem Beitrag oder Thema,
@@ -99,7 +125,7 @@ Eine spätere KI-Antwort soll nicht aus allgemeinem Modellwissen allein erzeugt 
 - gegebenenfalls freigegebenem Referenzwissen,
 - Datum des Informationsstands.
 
-## 9. Qualitätsregeln
+## 10. Qualitätsregeln
 
 - Sachliche Antworten sind quellengebunden.
 - Mehrere Quellen pro Antwort sind erwünscht, wenn sie unterschiedliche Ebenen absichern, z. B. Ausgangsmeldung, Rechtsrahmen, Fachstand, Praxisbeispiel oder lokalen Zusammenhang. Quellen sollen nicht nur vervielfacht, sondern funktional ausgewählt werden.
@@ -109,7 +135,7 @@ Eine spätere KI-Antwort soll nicht aus allgemeinem Modellwissen allein erzeugt 
 - Nicht ausreichend belegte Antworten werden als offen gekennzeichnet statt plausibel ergänzt.
 - Modellunabhängige Regeln werden soweit möglich außerhalb des Sprachmodells umgesetzt.
 
-## 10. Referenzfall R088
+## 11. Referenzfall R088
 
 Vorgeschlagene Fragen:
 1. Wie weit ist autonomes Fahren im ÖPNV heute?
@@ -120,13 +146,13 @@ Vorgeschlagene Fragen:
 
 Das freie Fragefeld ist im Demonstrator nur eine UI-Erprobung. Die Eingabe wird noch nicht an eine KI übertragen.
 
-## 11. Qualitätstest für KI-Anbindungen
+## 12. Qualitätstest für KI-Anbindungen
 
 „Mehr wissen?“ ist Bestandteil des modellübergreifenden FIB-Qualitätstests. Beim Vergleich unterschiedlicher KI-Anbindungen werden **Frageauswahl, Antwortqualität und Quellenwahl getrennt** geprüft. Maßgeblich ist das gemeinsame Bewertungsraster in `docs/FIB_Modellunabhaengigkeit_und_Qualitaetspruefung.md`.
 
 Für einen fairen Vergleich erhalten die Modelle denselben Testfall, denselben Informationsstand und – soweit technisch möglich – denselben zugelassenen Quellen- und Kontextbestand. Sprachliche Eleganz allein ist kein Qualitätsmaßstab; entscheidend sind insbesondere Faktentreue, Aussage-Quellen-Deckung, Unsicherheitskennzeichnung, Neutralität und die Trennung von sachlicher Vertiefung und politischer Einordnung.
 
-## 12. Noch offene Entscheidungen
+## 13. Noch offene Entscheidungen
 
 Vor einer Umsetzung im Echtbetrieb sind insbesondere zu klären:
 - zugelassene externe Quellen,
@@ -138,7 +164,7 @@ Vor einer Umsetzung im Echtbetrieb sind insbesondere zu klären:
 - redaktionelle Kontrolle statischer Hintergrundbausteine,
 - Grenzen zwischen neutraler Sachauskunft und politischer Einordnung.
 
-## 13. Abgrenzung zu „Unsere Einordnung“
+## 14. Abgrenzung zu „Unsere Einordnung“
 
 „Mehr wissen?“ ist grundsätzlich **sachlich-erklärend und quellengebunden**. Der Bereich darf politische Wertungen aus „Unsere Einordnung“ nicht als neutrale Hintergrundinformation wiederholen oder verstecken.
 
@@ -148,5 +174,5 @@ Wenn eine Nutzerfrage im Echtbetrieb ausdrücklich nach der grünen Bewertung fr
 
 | Version | Datum | Änderung |
 |---|---|---|
-| 0.3 | 27.09.2026 | FIB-weite Umsetzung für Beiträge und Themen; adaptive Fragenlogik, Mehrwert-Schwelle und funktionale Quellenrollen verbindlich ergänzt; R088 bleibt kuratierter Referenzfall. |\n| 0.2 | 27.09.2026 | Prototyp erweitert: Anzahl der Fragen nicht künstlich begrenzt; mehrere funktional unterschiedliche Quellen je Antwort ausdrücklich vorgesehen; Testfall R088 auf fünf Fragen erweitert. |
+| 0.4 | 27.09.2026 | Fragenlogik nach Nutzerfeedback geschärft: redundante Kern-/Belegfragen als Standard entfernt; technische, rechtliche, gesellschaftliche, ökologische und wirtschaftliche Hintergrundachsen sowie Reifegrad, Vergleich und Übertragbarkeit aus der früheren Trendlogik übernommen. |\n| 0.3 | 27.09.2026 | FIB-weite Umsetzung für Beiträge und Themen; adaptive Fragenlogik, Mehrwert-Schwelle und funktionale Quellenrollen verbindlich ergänzt; R088 bleibt kuratierter Referenzfall. |\n| 0.2 | 27.09.2026 | Prototyp erweitert: Anzahl der Fragen nicht künstlich begrenzt; mehrere funktional unterschiedliche Quellen je Antwort ausdrücklich vorgesehen; Testfall R088 auf fünf Fragen erweitert. |
 | 0.1 | 27.09.2026 | Fachlicher Prototyp „Mehr wissen?“ angelegt; Präambel, Mehrwert-Schwelle, Fragetypen, Kontextpaket und Qualitätsregeln dokumentiert. |
