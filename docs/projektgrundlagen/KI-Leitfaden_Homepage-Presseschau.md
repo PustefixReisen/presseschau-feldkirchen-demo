@@ -1,6 +1,6 @@
 # KI-Leitfaden Homepage-Presseschau Feldkirchen
 
-**Version 3.1 · Stand 27.09.2026**
+**Version 3.2 · Stand 27.09.2026**
 
 > Kanonische Markdown-Fassung für GitHub. Inhaltlich übernommen aus der bisherigen Projektbibliothek und um verbindliche Projektentscheidungen fortgeschrieben.
 
@@ -15,6 +15,12 @@ Verbindliche Projektgrundlagen sind in ihrer jeweils aktuellen Fassung insbesond
 - KI-Leitfaden_Homepage-Presseschau
 - Gruene_Werte_und_politische_Ziele.md
 - Merkblatt_Wissenschaftlich-Politische_Sprache
+
+### 1.1 Modellunabhängigkeit
+
+Die fachlichen Regeln dieses Leitfadens sollen grundsätzlich **modell- und anbieterunabhängig** formuliert sein. Wo eine Regel technisch deterministisch umgesetzt werden kann, soll sie nicht dem freien Verhalten eines Sprachmodells überlassen werden.
+
+Für die systematische Trennung zwischen technischen Geschäftsregeln, expliziten KI-Regeln und verbleibendem Modellurteil sowie für den Modellabhängigkeits-Check gilt ergänzend `docs/FIB_Modellunabhaengigkeit_und_Qualitaetspruefung.md`.
 
 ## 2. Operativer Grundsatz
 
@@ -335,6 +341,7 @@ Vor Veröffentlichung werden Tatsachen, Datumsangaben, Rollen, Links, Quellen, Z
 | Version | Datum | Änderung |
 | 2.9 | 27.09.2026 | Öffentliche Trend-Rubrik und Trend-Rechercheebene wieder aus FIB entfernt. Begründung: Trenddarstellungen können leicht als politische Planungsvorhaben des Ortsverbands verstanden werden und erfordern einen unverhältnismäßig hohen redaktionellen Vor- und Nachbereitungsaufwand. Erweiterte, gesellschaftlich-demokratische sowie wissenschaftlich-technische Relevanzregeln für einzelne Beiträge bleiben bestehen. Eine mögliche kommunalpolitische Trend-Landkarte wird als interne Stoffsammlung außerhalb von FIB behandelt. |
 |---|---|---|
+| 3.2 | 27.09.2026 | Modell- und Anbieterunabhängigkeit als verbindliches Grundprinzip ergänzt; auf separates Qualitätsdokument mit Trennung von Geschäftsregel, expliziter KI-Regel und Modellurteil verwiesen. |
 | 3.1 | 27.09.2026 | Bezugsebene unterhalb der redaktionellen Themen eingeführt. Objekte werden nur bei erkennbarem fachlichem Mehrwert verknüpft; beiläufige Nennungen reichen nicht. Stabile Objekt-IDs, Aliasnamen und explizite Beziehungen zu Beiträgen/Themen vorgesehen; Testobjekt B471. |
 | 3.0 | 27.09.2026 | Suchlogik fachlich getrennt: explizite Such-Schlagworte, Volltext ohne automatische Kategorienvererbung und verbindliche Übernahme ins Echtsystem. Themenbildungsregel ergänzt: eigenständige Sachstränge in Sammelbeiträgen separat prüfen; bei eigener Beschlussvorlage oder Stellungnahme Themenkandidat erneut bewerten; externe Vergleichsfälle nicht bezugslos an lokale Themen anhängen. |
 | 2.8 | 26.09.2026 | Für Trends bürgernahe Sprache und eine Quellenpriorität zugunsten deutschsprachiger, allgemeinverständlicher Fach- und Praxisquellen eingeführt; englischsprachige Originalquellen in den Hintergrund gerückt. Wechselseitige Verknüpfung von Themen und Trends sowie Prüfung laufender lokaler Initiativen beim Feldkirchen-Transfer ergänzt. |
