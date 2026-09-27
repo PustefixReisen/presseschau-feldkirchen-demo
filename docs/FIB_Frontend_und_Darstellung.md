@@ -260,10 +260,10 @@ Für den öffentlichen Echtbetrieb gilt folgende Darstellungsregel:
 
 - Jeder Presseschau-Beitrag enthält am Kartenende einen kompakten **Info-Button**.
 - Der Info-Button öffnet einen kurzen Transparenzhinweis in einem Dialogfenster; mobil wird dieser platzsparend am unteren Bildschirmrand dargestellt.
-- Der Kurztext weist darauf hin, dass bei Recherche und Texterstellung KI eingesetzt wird, veröffentlichte Beiträge redaktionell geprüft und freigegeben werden, sachliche Aussagen auf den angegebenen Quellen beruhen und „Unsere Einordnung“ die politische Einordnung aus grüner Perspektive kennzeichnet.
+- Der Kurztext weist darauf hin, dass bei Recherche, Texterstellung und „Mehr wissen?“ KI eingesetzt wird. Er unterscheidet ausdrücklich zwischen redaktionell freigegebenen FIB-Beiträgen und dynamischen „Mehr wissen?“-Antworten, die nicht zwingend vorab einzeln redaktionell geprüft werden können. Die Quellenbindung und die Kennzeichnung von „Unsere Einordnung“ als politische Einordnung aus grüner Perspektive bleiben sichtbar.
 - Der Link **„Mehr erfahren“** führt vom Dialog zum Hauptbereich **„Über FIB“**.
 - Ein zusätzlicher Transparenzhinweis im Seiten-Footer ist nicht vorgesehen.
-- „Über FIB“ erläutert ausführlicher den KI-Einsatz, die Quellenbindung, die redaktionelle Prüfung und Freigabe, die Möglichkeit verbleibender Fehler sowie die Funktion von „Unsere Einordnung“.
+- „Über FIB“ erläutert ausführlicher den KI-Einsatz, die Quellenbindung, die redaktionelle Prüfung und Freigabe von Beiträgen, die abweichende Prüflogik für dynamische „Mehr wissen?“-Antworten, die Möglichkeit verbleibender Fehler sowie die Funktion von „Unsere Einordnung“.
 - Maßgeblich bleiben die verlinkten Originalquellen.
 - Die ausführliche Erklärung wird nicht unter jedem einzelnen Beitrag wiederholt.
 
