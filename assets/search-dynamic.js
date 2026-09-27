@@ -15,7 +15,14 @@
   }
 
   function searchableText(card){
-    return `${card.dataset.search||''} ${card.textContent||''}`.toLowerCase();
+    // Freitextsuche durchsucht inhaltliche Felder und explizite Schlagworte,
+    // nicht die grobe Sammelkategorie. Dadurch wird z. B. eine Bürgermeisterwahl
+    // aus "Kommunalpolitik & Beteiligung" nicht allein wegen des Wortes
+    // "Beteiligung" als Beteiligungsbeitrag gefunden.
+    const clone=card.cloneNode(true);
+    clone.querySelectorAll('.category,.place,.date,.fib-info-actions,.fib-actions').forEach(el=>el.remove());
+    const tags=card.dataset.tags||'';
+    return `${tags} ${clone.textContent||''}`.toLowerCase();
   }
 
   function applyContributionFilter(){
