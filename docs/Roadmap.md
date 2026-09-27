@@ -4,7 +4,7 @@
 
 | Version | Stand | Verantwortlich |
 |---|---|---|
-| 1.5 | 27.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
+| 1.6 | 27.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
 
 ## Statusmodell
 
@@ -49,6 +49,7 @@ Vor Beginn der Programmierung des Echtsystems wird deshalb ein verbindlicher Üb
 - getrennte Sachinformation und „Unsere Einordnung“,
 - redaktioneller Prüf-/Freigabestatus,
 - robuste statische bzw. generierte Ausgabe ohne Abhängigkeit von historisch gewachsenen Update-Skripten,
+- strukturierte Such-/Filtermetadaten: Kategorien, Orte und fachliche Schlagworte getrennt speichern; Volltextsuche darf Kategorien nicht als versteckte Unterthemen-Tags behandeln,
 - nachvollziehbare Updateprotokolle mit „neu / geändert / geprüft ohne Änderung“.
 
 Für den **Echtbetrieb** ist zusätzlich verbindlich vorgesehen:
@@ -74,6 +75,7 @@ Danach folgt **#12** zur konsolidierten Echtbetriebsarchitektur. Erst auf dieser
 
 | Version | Datum | Änderung |
 |---|---|---|
+| 1.6 | 27.09.2026 | Such- und Filterlogik als Anforderung für den Echtbetrieb ergänzt; Kategorien, Orte und fachliche Schlagworte werden getrennt modelliert. Themenbildungslogik nach dem übersehenen Sachstrang Tempo 30/B471 nachgeschärft. |
 | 1.5 | 27.09.2026 | Testweise Trend-Rubrik wieder aus dem öffentlichen FIB entfernt. Übergreifende kommunalpolitische Trendanalyse wird künftig als interne Stoffsammlung außerhalb von FIB behandelt; öffentliche FIB-Struktur bleibt Presseschau/Sitzungen/Themen. |
 | 1.4 | 26.09.2026 | Testweise Rubrik `Trends` und eigener Trend-Datenbestand vorübergehend in den Demonstrator aufgenommen; allgemein verständliches inhaltliches Konzept als neue Diskussionsgrundlage berücksichtigt. |
 | 1.3 | 26.09.2026 | PWA-Installation, App-Icon, Benachrichtigungen und Ungelesen-Zähler/Badge als verbindliche Anforderungen für den Echtbetrieb ergänzt; technische Detailentscheidungen auf die spätere Umsetzungsplanung vertagt. |
