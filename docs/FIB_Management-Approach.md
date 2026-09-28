@@ -4,7 +4,7 @@
 
 | Version | Stand | Verantwortlich |
 |---|---|---|
-| 1.0 | 28.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
+| 1.1 | 28.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
 
 ## 1. Zweck dieses Dokuments
 
@@ -774,6 +774,27 @@ Daher gilt:
 Instagram bleibt damit eine **optionale Nutzung vorhandener Inhalte**, aber kein Bestandteil des regulären FIB-Marketingprozesses.
 
 
+### 17.0 Kernbotschaften für die Kommunikation
+
+Für FIB sollen mehrere kurze Kernbotschaften zur Verfügung stehen. Je nach Medium kann die passende Variante gewählt werden; die Botschaften beschreiben denselben Nutzen aus unterschiedlicher Perspektive.
+
+1. **Was in Feldkirchen passiert – gesammelt aus Presse, Rathaus und weiteren Quellen.**  
+   Verständlich zusammengefasst, mit Quellen, Hintergründen und weiterführenden Informationen.
+
+2. **Nicht alles steht an einem Ort. Jetzt schon.**  
+   FIB sammelt relevante Informationen aus Presse, Rathaus, Internetseiten und weiteren Quellen – und ergänzt Hintergründe, Zusammenhänge und weiterführende Fragen.
+
+3. **Was man sonst leicht verpasst.**  
+   Meldungen aus Presse, Rathaus und anderen Quellen gebündelt an einem Ort. Dazu Hintergründe, Quellen und mehr zum Weiterdenken.
+
+4. **Mehr Überblick über Feldkirchen.**  
+   Aktuelle Informationen aus verschiedenen Quellen – verständlich zusammengeführt und um Hintergründe und weiterführende Informationen ergänzt.
+
+5. **Was neu ist. Was man sonst leicht verpasst. Was dahintersteckt.**  
+   FIB sammelt relevante Informationen aus Presse, Rathaus und weiteren Quellen und ergänzt Hintergründe, Zusammenhänge und weiterführende Fragen.
+
+Diese Varianten sind keine konkurrierenden Claims, sondern ein **Botschaftsbaustein**, aus dem je nach Medium ausgewählt werden kann.
+
 ### 17.6 Kanäle: Veranstaltungen, Infostände und QR-Codes
 
 Veranstaltungen, Infostände und andere persönliche Kontakte im Ort sind für FIB vor allem ein **Bekanntmachungs- und Erstnutzungskanal**.
@@ -795,6 +816,58 @@ In der Startphase kann FIB einmal ausführlicher vorgestellt werden. Im Dauerbet
 
 **Beispiel:**  
 Bei einer Veranstaltung zur Bürgerbeteiligung wird nicht allgemein für FIB geworben, sondern auf den konkreten FIB-Themenverlauf „Bürgerbeteiligung und kommunale Mitwirkung“ verwiesen.
+
+#### Standardmedien: FIB-Postkarte und FIB-Kärtchen
+
+**FIB-Postkarte**
+
+Vorderseite:
+
+> **Feldkirchen im Blick**  
+> **Was neu ist. Was man sonst leicht verpasst. Was dahintersteckt.**
+>
+> Presse · Rathaus · weitere Quellen  
+> verständlich gebündelt und vertieft
+>
+> QR-Code zu FIB
+
+Rückseite:
+
+> Informationen zu Feldkirchen sind oft auf viele Stellen verteilt: in Presseberichten, Gemeinderatsunterlagen, Mitteilungen der Gemeinde, Internetseiten, bei Vereinen oder Initiativen.
+>
+> **Feldkirchen im Blick führt diese Informationen zusammen.**
+>
+> Dazu kommen Hintergründe, Quellen, Zusammenhänge und weiterführende Fragen für alle, die genauer wissen möchten, was hinter einer Meldung steckt.
+
+Abschluss:
+
+> Ein Informationsangebot von BÜNDNIS 90/DIE GRÜNEN Feldkirchen.
+
+**FIB-Kärtchen**
+
+Das Kärtchen soll noch stärker auf den **sofortigen praktischen Nutzen** reduziert sein. Es ist eher Visitenkarte und digitaler Einstieg als Mini-Flyer.
+
+Vorderseite:
+
+> **Feldkirchen im Blick**  
+> **Was man sonst leicht verpasst.**
+>
+> Presse · Rathaus · weitere Quellen
+
+Rückseite:
+
+> **Alles an einem Ort.**  
+> Aktuelle Meldungen, Hintergründe und Quellen zu Feldkirchen.
+>
+> QR-Code
+>
+> **Scannen und nachsehen, was gerade wichtig ist.**
+
+Optional klein:
+
+> Ein Informationsangebot von BÜNDNIS 90/DIE GRÜNEN Feldkirchen.
+
+Das Kärtchen soll bewusst **weniger erklären als die Postkarte**. Seine Aufgabe ist: im Gespräch weitergeben, Neugier wecken und mit einem einzigen Scan zu FIB führen.
 
 #### Infostände
 
@@ -979,6 +1052,7 @@ Für Details gelten insbesondere:
 
 | Version | Datum | Änderung |
 |---|---|---|
+| 1.1 | 28.09.2026 | Kommunikations-Kernbotschaften ergänzt; konkrete Textkonzepte für FIB-Postkarte und FIB-Kärtchen aufgenommen. |
 | 1.0 | 28.09.2026 | Offline-Material konkretisiert: dauerhaftes FIB-Kärtchen und FIB-Postkarte mit QR-Code als bevorzugte Printformate; keine laufende Flyerproduktion. |
 | 0.9 | 28.09.2026 | Veranstaltungen, Infostände und QR-Codes als gemeinsamer Offline-Erstkontaktkanal konkretisiert; stabile Direktlinks, QR-Erzeugung, geringe Materialpflege und datensparsame Herkunftsmessung vorgesehen. |
 | 0.8 | 28.09.2026 | Instagram bewusst nicht als regulären FIB-Kanal eingeplant; nur gelegentliche Nutzung vorhandener geeigneter Inhalte über den bestehenden OV-Account. |
