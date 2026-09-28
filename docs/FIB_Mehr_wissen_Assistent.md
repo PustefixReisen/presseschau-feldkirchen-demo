@@ -4,7 +4,7 @@
 
 | Version | Stand | Verantwortlich |
 |---|---|---|
-| 0.7 | 28.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
+| 0.8 | 28.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
 
 ## 1. Präambel
 
@@ -82,6 +82,7 @@ Beispiele:
 | Ökologie | „Welche Folgen hat das für Umwelt und Lebensqualität?“ · „Wo gibt es Zielkonflikte für Klima, Natur oder Fläche?“ |
 | Wirtschaft / Kosten | „Was kostet das – und wer trägt die Folgen?“ · „Welche finanziellen Auswirkungen hat das?“ |
 | Übertragbarkeit | „Was könnte das konkret für Feldkirchen bedeuten?“ · „Was müsste passieren, damit das auch bei uns relevant wird?“ |
+| Chancen / Innovation / Lerntransfer | „Welche neuen Möglichkeiten eröffnet das?“ · „Was könnte Feldkirchen daraus lernen?“ · „Was ist daran wirklich neu – und was davon wäre übertragbar?“ |
 
 ### Kontextprüfung vor Frageauswahl
 
@@ -99,6 +100,7 @@ Beispiele:
 - Bei einer **jährlichen Bürgerversammlung** sind Fragen zu Beteiligungsmöglichkeiten, Wirkung von Anträgen und Rückblick auf frühere Anträge sinnvoller als abstrakte Fragen nach „gesellschaftlichen Interessen“.
 - Bei einer **regionalen Radschnellverbindung**, über deren fremden Abschnitt Feldkirchen nicht entscheidet, darf nicht gefragt werden, was Feldkirchen „selbst regeln“ könne. Passender sind Fragen nach Auswirkungen auf die Gesamtverbindung, Einflussmöglichkeiten Feldkirchens und Alternativen.
 - Bei einer **kommunalen Beschlussvorlage** zu Kosten und Trägerschaft können dagegen Zuständigkeit, Interessenlage und wirtschaftliche Auswirkungen sehr gut passen.
+- Bei **Pilotprojekten, neuen technischen Lösungen, Beteiligungsformaten oder Praxisbeispielen aus anderen Kommunen** soll zusätzlich geprüft werden, ob eine Frage zu Chancen, Innovationsgehalt oder Lerntransfer einen echten Mehrwert bietet. Dabei darf eine mögliche Chance nicht als bereits bewährte Lösung dargestellt werden.
 
 Für das **Echtsystem** sollen die vorgeschlagenen Fragen grundsätzlich bei der inhaltlichen Aufbereitung eines Beitrags oder Themas aus dem vollständigen strukturierten Kontext erzeugt und persistent gespeichert werden. Eine reine Browser-Heuristik aus Stichwörtern ist nur eine Übergangslösung des Demonstrators.
 
@@ -151,6 +153,8 @@ Bei der Auswahl von Anschlussfragen wird geprüft, ob hinter einer Meldung eine 
 - ökologische Risiken, Wirkungen oder Zielkonflikte sichtbar macht,
 - wirtschaftliche Bedingungen, Kosten oder Förderlogiken verändert,
 - in anderen Kommunen oder Praxisfeldern bereits erprobt wird,
+- neue Chancen, Innovationen oder Lernmöglichkeiten eröffnet,
+- als übertragbarer Ansatz für Feldkirchen interessant sein könnte,
 - oder künftig für Feldkirchen relevant werden könnte.
 
 Diese Perspektiven sind **Rechercheachsen**, keine zusätzlichen öffentlichen Kategorien. Es werden nur diejenigen genutzt, die für den konkreten Sachverhalt einen belastbaren Erkenntnisgewinn erwarten lassen.
@@ -241,6 +245,7 @@ Bis das Secret `OPENAI_API_KEY` gesetzt ist, ist die technische Strecke vorberei
 
 | Version | Datum | Änderung |
 |---|---|---|
+| 0.8 | 28.09.2026 | Neue Rechercheachse „Chancen, Innovation und Lerntransfer“ ergänzt. FIB prüft bei geeigneten Vorgängen, welche neuen Möglichkeiten entstehen, was Feldkirchen daraus lernen könnte und unter welchen Bedingungen eine Übertragung sinnvoll wäre. |
 | 0.7 | 28.09.2026 | Kontextprüfung vor Frageauswahl verbindlich ergänzt: Vorgangstyp, Rolle Feldkirchens, zeitliche Einordnung und Erkenntnislücke bestimmen die Frageachsen. Für den Echtbetrieb werden Fragen aus dem vollständigen Kontext erzeugt und persistent gespeichert; reine Schlagwort-Heuristik bleibt nur Demonstrator-Übergang. |
 | 0.6 | 28.09.2026 | Bürgernahe Frageformulierungen verbindlich eingeführt; fachliche Frageachsen bleiben intern stabil, sichtbare Formulierungen werden kontextabhängig variiert. Variationsregel gilt ausdrücklich auch für das Echtsystem. |
 | 0.5 | 28.09.2026 | Demonstrator an echte KI-Recherche angebunden: Supabase Edge Function als geschütztes Gateway, OpenAI Responses API mit Websuche, freie Fragen und vorgeschlagene Fragen dynamisch; tägliches Testlimit ergänzt. |
