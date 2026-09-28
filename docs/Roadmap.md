@@ -4,7 +4,7 @@
 
 | Version | Stand | Verantwortlich |
 |---|---|---|
-| 1.9 | 27.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
+| 2.0 | 28.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
 
 ## Statusmodell
 
@@ -16,7 +16,7 @@ Es gelten die zentralen Roadmap-Status aus `PustefixReisen/pustivo/docs/governan
 |---|---|---|
 | Demonstrator und Darstellung | **Teilweise umgesetzt** | Demonstrator vorhanden; öffentliche Struktur bleibt auf Presseschau, Sitzungen und Themen konzentriert. Die testweise eingeführte Rubrik `Trends` wurde nach redaktioneller Bewertung wieder entfernt. |
 | Quellenmonitor / Rechercheunterstützung | **Teilweise umgesetzt** | Fach- und Architekturunterlagen vorhanden; produktive Integration noch nicht als Echtbetrieb nachgewiesen |
-| „Mehr wissen?“ / FIB-Assistent | **Demonstrator FIB-weit umgesetzt** | Adaptive Fragen und funktionale Quellenrollen für Beiträge/Themen; freie Nutzerfragen und dynamische KI-Antworten erst im Echtbetrieb |
+| „Mehr wissen?“ / FIB-Assistent | **KI-Anbindung vorbereitet** | Adaptive Hintergrundfragen FIB-weit; Supabase Edge Function und OpenAI-Webrecherche technisch angebunden; Aktivierung nach Hinterlegung des serverseitigen OpenAI-Secrets |
 | Projektdokumentation konsolidieren | **In Arbeit** | Allgemein verständliches inhaltliches Konzept angelegt; fachliche/redaktionelle Primärquellen über #11 weiter vervollständigen |
 | Echtbetriebsarchitektur | **In Arbeit** | Architektur-, Betriebs-, Sicherheits-, Daten-, Deployment- und Backupentscheidungen über #12 verbindlich konsolidieren |
 | Produktivsetzung | **Geplant** | erst nach Abschluss der wesentlichen Fach- und Echtbetriebsgrundlagen |
@@ -85,7 +85,7 @@ Primärdokument: `docs/FIB_Modellunabhaengigkeit_und_Qualitaetspruefung.md`.
 
 | Version | Datum | Änderung |
 |---|---|---|
-| 1.9 | 27.09.2026 | Bezugsebene vom B471-Test auf eine allgemeine datengetriebene Lösung erweitert. Acht initiale Bezugsobjekte angelegt; mehrere Bezüge pro Beitrag/Thema und automatische Frontend-Erzeugung aus `data/bezuege.json` umgesetzt. |
+| 2.0 | 28.09.2026 | „Mehr wissen?“ zum funktionalen KI-Testsystem erweitert: Supabase-Edge-Function, OpenAI-Webrecherche, freie Fragen und Kostenlimit vorbereitet. |\n| 1.9 | 27.09.2026 | Bezugsebene vom B471-Test auf eine allgemeine datengetriebene Lösung erweitert. Acht initiale Bezugsobjekte angelegt; mehrere Bezüge pro Beitrag/Thema und automatische Frontend-Erzeugung aus `data/bezuege.json` umgesetzt. |
 | 1.8 | 27.09.2026 | Modellunabhängigkeit als verbindliches Architektur- und Qualitätsziel aufgenommen; Modellabhängigkeits-Check und Teststrategie vor Modell-/Anbieterwechsel verankert. |
 | 1.7 | 27.09.2026 | Bezugsebene unterhalb der redaktionellen Themen als Test eingeführt; B471 als erstes Objekt. Für den Echtbetrieb strukturierte Objekt-IDs, Aliasnamen und explizit geprüfte Beziehungen vorgesehen; Mehrwert-Schwelle verhindert Treffer aus bloßen beiläufigen Nennungen. |
 | 1.6 | 27.09.2026 | Such- und Filterlogik als Anforderung für den Echtbetrieb ergänzt; Kategorien, Orte und fachliche Schlagworte werden getrennt modelliert. Themenbildungslogik nach dem übersehenen Sachstrang Tempo 30/B471 nachgeschärft. |
