@@ -4,7 +4,7 @@
 
 | Version | Stand | Verantwortlich |
 |---|---|---|
-| 0.3 | 28.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
+| 0.4 | 28.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
 
 ## 1. Zweck dieses Dokuments
 
@@ -539,6 +539,86 @@ Bis zur gemeinsamen Ausarbeitung enthält dieses Kapitel bewusst noch **keinen f
 
 ---
 
+### 17.1 Kanal: Homepage der GRÜNEN Feldkirchen
+
+Für die Homepage ist dauerhaft eine **FIB-Karte mit 2–3 aktuellen Beiträgen** vorgesehen. Die Auswahl soll nicht manuell erfolgen, sondern über das Marketing-/Verbreitungsranking der Beiträge:
+
+- **0 – nicht aktiv teilen**
+- **1 – teilenswert**
+- **2 – aktiv verbreiten**
+- **3 – FIB-Aufmacher**
+
+In der Startphase kann der Karte ein kurzer erklärender Infotext zu FIB vorangestellt werden. Im Dauerbetrieb soll die Karte möglichst automatisch aus dem FIB-Datenbestand gespeist werden, damit keine Doppelpflege entsteht.
+
+### 17.2 Kanal: E-Mail / Newsletter
+
+Der bestehende Newsletter der GRÜNEN Feldkirchen wird derzeit nur sporadisch genutzt. FIB soll ihn dennoch einfach mit Inhalten versorgen können.
+
+#### A. Redaktionsfunktion für den bestehenden Newsletter
+
+Im Redaktionssystem soll zu einem Beitrag auf Wunsch automatisch ein **Newsletter-Teaser mit Link** erzeugt werden. Der Text wird per Copy & Paste in den bestehenden Newsletter übernommen.
+
+Der Teaser soll:
+- den Gegenstand knapp erklären,
+- einen erkennbaren Informationswert bieten,
+- nicht nur die Überschrift wiederholen,
+- direkt auf den konkreten FIB-Beitrag verlinken,
+- und bei Bedarf in unterschiedlichen Längen erzeugt werden können.
+
+Dadurch entsteht kein zusätzlicher technischer Newsletter-Versandprozess für den bestehenden Verteiler.
+
+#### B. Eigener abonnierbarer FIB-Newsletter
+
+Zusätzlich soll geprüft und für den Echtbetrieb vorgesehen werden, ob Interessierte einen **eigenen FIB-Newsletter** abonnieren können.
+
+Beim Abonnement sollen möglichst folgende Präferenzen wählbar sein:
+
+**Häufigkeit**
+- sofort bei neuen oder wesentlich aktualisierten Beiträgen,
+- tägliche Zusammenfassung,
+- wöchentliche Zusammenfassung,
+- gegebenenfalls nur bei besonders hoch eingestuften Beiträgen.
+
+**Themen**
+- alle Themen,
+- einzelne fachliche Kategorien,
+- gegebenenfalls einzelne länger laufende FIB-Themen.
+
+**Relevanzstufe**
+- alle passenden Beiträge,
+- nur aktiv verbreitete Beiträge,
+- nur besonders wichtige FIB-Aufmacher.
+
+Das Ziel ist, dass Nutzerinnen und Nutzer **selbst bestimmen können, wie häufig und zu welchen Inhalten sie informiert werden**.
+
+#### C. Technische und organisatorische Anforderungen
+
+Für einen eigenen FIB-Newsletter sind im Echtbetrieb zusätzlich zu klären:
+
+- Einwilligung und Double-Opt-in,
+- einfache Abmeldung und Änderung der Präferenzen,
+- datensparsame Speicherung der E-Mail-Adresse und Auswahl,
+- Versanddienst bzw. eigener Maildienst,
+- Bounce-/Fehlerbehandlung,
+- Schutz vor Spam und Missbrauch,
+- organisatorische Verantwortung für Absenderadresse und Versand,
+- Kosten des Versanddienstes,
+- Trennung von FIB-Information und sonstiger Parteikommunikation.
+
+#### D. Automatisierung
+
+Der Versand soll möglichst stark automatisiert werden:
+
+1. Beitrag wird freigegeben.
+2. System prüft Marketing-/Verbreitungsranking und Themenzuordnung.
+3. Passende Abonnentengruppen werden ermittelt.
+4. Teaser wird automatisch erzeugt.
+5. Je nach gewählter Versandart erfolgt Sofortversand oder Aufnahme in den nächsten Digest.
+6. Versand und Zustellung werden technisch protokolliert.
+
+Für besonders sensible oder politisch zugespitzte Inhalte kann optional eine redaktionelle Freigabe des Newsletter-Teasers vorgesehen werden.
+
+
 ## 18. Weiterentwicklung, Umsetzung und Dokumentation
 
 FIB ist ein lernendes System. Änderungen an FIB sollen deshalb nicht nur umgesetzt, sondern – soweit für den späteren Betrieb relevant – im selben Arbeitsschritt dokumentiert werden.
@@ -654,6 +734,7 @@ Für Details gelten insbesondere:
 
 | Version | Datum | Änderung |
 |---|---|---|
+| 0.4 | 28.09.2026 | Marketingkanäle konkretisiert: Homepage-Karte mit Ranking sowie Newsletter-Teaserfunktion und eigener abonnierbarer FIB-Newsletter mit Themen-/Frequenzpräferenzen. |
 | 0.3 | 28.09.2026 | Marketingziel ergänzt: freiwillige Bindung durch PWA-Installation sowie optionale Web-Push- und Messenger-/Broadcast-Benachrichtigungen. |
 | 0.2 | 28.09.2026 | Kapitel 18 überarbeitet: Umsetzung und Dokumentation als gemeinsamer KI-gestützter Prozess; Redaktion ohne eigenen Dokumentationsworkflow. |
 | 0.1 | 28.09.2026 | Erstfassung als übergreifender Management Approach: Zielbild, Suchraum, Redaktion, politischer Bias, Rollen NN 1–4, Betrieb, Kosten, Aktualität, Qualität, messbare Erfolgskontrolle, Marketing-Arbeitsbereich und Übergabe zusammengeführt. |
