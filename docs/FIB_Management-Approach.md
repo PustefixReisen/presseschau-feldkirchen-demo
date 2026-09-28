@@ -4,7 +4,7 @@
 
 | Version | Stand | Verantwortlich |
 |---|---|---|
-| 0.1 | 28.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
+| 0.2 | 28.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
 
 ## 1. Zweck dieses Dokuments
 
@@ -537,27 +537,85 @@ Bis zur gemeinsamen Ausarbeitung enthält dieses Kapitel bewusst noch **keinen f
 
 ---
 
-## 18. Weiterentwicklung und Governance
+## 18. Weiterentwicklung, Umsetzung und Dokumentation
 
-FIB ist ein lernendes System.
+FIB ist ein lernendes System. Änderungen an FIB sollen deshalb nicht nur umgesetzt, sondern – soweit für den späteren Betrieb relevant – im selben Arbeitsschritt dokumentiert werden.
 
-Änderungen an:
+### 18.1 Grundprinzip
+
+**Umsetzung und Dokumentation gehören zusammen.**
+
+Änderungen an FIB werden grundsätzlich über die KI-/Entwicklungsunterstützung umgesetzt. Dabei prüft die KI automatisch, ob eine Änderung dokumentationsrelevant ist.
+
+Ist eine Dokumentation erforderlich, aktualisiert die KI im selben Arbeitsschritt das zuständige Primärdokument sowie – falls notwendig – weitere betroffene Dokumente wie Roadmap, Architektur-, Kosten- oder Betriebsdokumentation.
+
+Für die Redaktion entsteht daraus **kein eigener Dokumentationsprozess**.
+
+### 18.2 Was automatisch dokumentiert wird
+
+Dokumentationsrelevant sind insbesondere allgemeine oder dauerhafte Änderungen an:
 
 - Relevanzregeln,
-- Suchraum,
-- Quellen,
+- Suchraum und Quellenlogik,
 - „Mehr wissen?“-Logik,
-- Anbieter-/Modellauswahl,
-- Redaktionsprozess,
-- Rollen und Rechten,
-- Kostenlimits,
-- Veröffentlichung und Marketing
+- redaktionellem Ablauf,
+- Rollen und Berechtigungen,
+- KI-Anbieter oder Modellwahl,
+- Kostenlimits und Kostenmodell,
+- Architektur und technischem Betrieb,
+- Veröffentlichung, Benachrichtigungen und Marketing,
+- Qualitäts- und Prüfregeln.
 
-werden dokumentiert.
+**Beispiele:**
 
-Grundlegende Änderungen werden nicht nur technisch umgesetzt, sondern auch in den zuständigen Primärdokumenten fortgeschrieben.
+- Wird festgelegt, dass Gemeindeblätter künftig mit konkreter Seite oder Überschrift referenziert werden, wird diese Regel in der zuständigen Quellen-/Redaktionsdokumentation ergänzt.
+- Wird ein tägliches Limit für freie Besucherfragen eingeführt, werden technische Konfiguration und Kosten-/Betriebsdokumentation gemeinsam angepasst.
+- Wird von OpenAI auf Mistral oder einen anderen Provider gewechselt, werden Provider-, Qualitäts-, Kosten- und Betriebsdokumentation aktualisiert.
+- Wird die Relevanzlogik erweitert, wird die fachliche Primärquelle entsprechend fortgeschrieben.
 
----
+### 18.3 Was nicht gesondert dokumentiert werden muss
+
+Keine zusätzliche Projektdokumentation ist nötig bei:
+
+- sprachlichen Korrekturen einzelner Beiträge,
+- Tippfehlern,
+- Austausch eines Bildes,
+- Ergänzung einer einzelnen Quelle,
+- kleinen technischen Reparaturen ohne dauerhafte Auswirkung auf Regeln oder Architektur.
+
+Solche Änderungen sind durch Beitragshistorie, Datenbestand oder Git-Versionierung ausreichend nachvollziehbar.
+
+### 18.4 Rolle der Redaktion
+
+Die Redaktion muss nicht entscheiden, **wo** eine Änderung dokumentiert werden soll.
+
+Ihre Aufgabe ist:
+
+- die fachliche oder organisatorische Entscheidung zu treffen,
+- bei Bedarf eine Variante auszuwählen,
+- und die Umsetzung anzustoßen.
+
+Die KI-/Entwicklungsunterstützung übernimmt anschließend:
+
+1. technische bzw. fachliche Umsetzung,
+2. Prüfung der Dokumentationsrelevanz,
+3. Aktualisierung der zuständigen Dokumente,
+4. Konsistenzprüfung mit bestehenden Regeln.
+
+Nur wenn eine Entscheidung noch nicht geklärt ist oder mehrere fachlich unterschiedliche Varianten möglich sind, wird eine Rückfrage an die Redaktion gestellt.
+
+### 18.5 Ziel
+
+Das Ziel ist **so wenig zusätzlicher Dokumentationsaufwand wie möglich**, ohne dass wichtige Entscheidungen verloren gehen.
+
+Ein später neu hinzukommendes Teammitglied soll nachvollziehen können:
+
+- welche Regeln gelten,
+- warum zentrale Entscheidungen getroffen wurden,
+- wie FIB betrieben wird,
+- und welche Änderungen dauerhaft wirksam sind,
+
+ohne dass die Redaktion dafür parallel eigene Protokolle oder Änderungslisten pflegen muss.
 
 ## 19. Übergabe und personelle Kontinuität
 
@@ -594,4 +652,5 @@ Für Details gelten insbesondere:
 
 | Version | Datum | Änderung |
 |---|---|---|
+| 0.2 | 28.09.2026 | Kapitel 18 überarbeitet: Umsetzung und Dokumentation als gemeinsamer KI-gestützter Prozess; Redaktion ohne eigenen Dokumentationsworkflow. |
 | 0.1 | 28.09.2026 | Erstfassung als übergreifender Management Approach: Zielbild, Suchraum, Redaktion, politischer Bias, Rollen NN 1–4, Betrieb, Kosten, Aktualität, Qualität, messbare Erfolgskontrolle, Marketing-Arbeitsbereich und Übergabe zusammengeführt. |
