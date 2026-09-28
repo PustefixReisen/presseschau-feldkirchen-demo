@@ -4,7 +4,7 @@
 
 | Version | Stand | Verantwortlich |
 |---|---|---|
-| 0.9 | 28.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
+| 1.0 | 28.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
 
 ## 1. Zweck dieses Dokuments
 
@@ -800,13 +800,14 @@ Bei einer Veranstaltung zur Bürgerbeteiligung wird nicht allgemein für FIB gew
 
 Am Infostand eignet sich FIB als niedrigschwelliger digitaler Vertiefungskanal.
 
-Denkbar sind:
-- kleiner dauerhafter Hinweis „Feldkirchen im Blick“,
-- QR-Code zur FIB-Startseite,
-- bei aktuellen Schwerpunktthemen zusätzlicher QR-Code direkt zu einem Beitrag oder Thema,
-- kurze mündliche Erklärung durch das Standteam.
+Vorgesehen sind insbesondere zwei einfache, wiederverwendbare Printformate:
 
-Die Zahl der Materialien soll gering bleiben. Es soll **kein eigener umfangreicher FIB-Flyerbestand** entstehen, der regelmäßig aktualisiert werden muss.
+- **FIB-Kärtchen:** kleines handliches Format mit sehr kurzer Erklärung und dauerhaftem QR-Code zur FIB-Startseite; zum Mitnehmen oder direkten Zeigen im Gespräch.
+- **FIB-Postkarte:** etwas mehr Platz für Nutzenversprechen, kurze Erklärung und QR-Code; geeignet zum Auslegen bei Veranstaltungen, Infoständen oder anderen lokalen Anlässen.
+
+Bei aktuellen Schwerpunktthemen kann zusätzlich ein themenspezifischer QR-Code direkt zu einem Beitrag oder Thema verwendet werden.
+
+Die Materialien sollen möglichst dauerhaft nutzbar sein. Es entsteht **kein regelmäßig neu zu produzierender FIB-Flyerbestand**.
 
 #### QR-Codes
 
@@ -815,7 +816,7 @@ QR-Codes sind der technische Übergang vom persönlichen oder gedruckten Kontakt
 Es sollen mindestens zwei Formen unterstützt werden:
 
 1. **dauerhafter FIB-QR-Code**  
-   führt zur FIB-Startseite und kann auf wiederverwendbaren Materialien stehen.
+   führt zur FIB-Startseite und kann insbesondere auf FIB-Kärtchen und FIB-Postkarte stehen.
 
 2. **themenspezifischer QR-Code**  
    führt direkt zu einem Beitrag, Thema oder einer Kampagnenseite und kann für Veranstaltungen oder einzelne Aktionen erzeugt werden.
@@ -978,6 +979,7 @@ Für Details gelten insbesondere:
 
 | Version | Datum | Änderung |
 |---|---|---|
+| 1.0 | 28.09.2026 | Offline-Material konkretisiert: dauerhaftes FIB-Kärtchen und FIB-Postkarte mit QR-Code als bevorzugte Printformate; keine laufende Flyerproduktion. |
 | 0.9 | 28.09.2026 | Veranstaltungen, Infostände und QR-Codes als gemeinsamer Offline-Erstkontaktkanal konkretisiert; stabile Direktlinks, QR-Erzeugung, geringe Materialpflege und datensparsame Herkunftsmessung vorgesehen. |
 | 0.8 | 28.09.2026 | Instagram bewusst nicht als regulären FIB-Kanal eingeplant; nur gelegentliche Nutzung vorhandener geeigneter Inhalte über den bestehenden OV-Account. |
 | 0.7 | 28.09.2026 | Mastodon konkretisiert: eigener FIB-Account derzeit bevorzugt, aber noch zu prüfen; automatisierte Teaser-/Veröffentlichungslogik bleibt vorgesehen. |
