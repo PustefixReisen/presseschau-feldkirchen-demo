@@ -1,10 +1,10 @@
 {
   "schema_version": "2.0",
   "work_package": "canonical",
-  "status": "canonical_after_standard_update_2026-09-26",
+  "status": "canonical_after_standard_update_2026-09-28",
   "research_window": {
     "from": "2025-08-27",
-    "to": "2026-09-26"
+    "to": "2026-09-28"
   },
   "basis_file": "presseschau_beitraege.json",
   "topic_count": 14,
@@ -272,15 +272,16 @@
       "id": "T002",
       "title": "Ortsentwicklung und Bauleitplanung",
       "first_created": "2025-10-02",
-      "last_substantive_update": "2026-09-22",
+      "last_substantive_update": "2026-09-24",
       "contribution_refs": [
         "R001",
         "R004",
         "R009",
         "R025",
-        "R036"
+        "R036",
+        "R096"
       ],
-      "summary": "Im Untersuchungszeitraum wurden mehrere Bausteine der räumlichen Entwicklung Feldkirchens parallel weitergeführt. Im September 2025 befasste sich der Gemeinderat mit der 20. Änderung des Flächennutzungsplans für Flächen östlich der M1 und nördlich der M18, unter anderem für Gewerbe, Bauhof und Wertstoffhof. Anfang Oktober folgte die weitere Planung zur Umgestaltung der Fußgängerunterführung im Rathausbereich; Ende Oktober wurde die vierte Änderung des Bebauungsplans Nr. 32 als Satzung beschlossen.\n\n2026 setzte sich diese Entwicklung fort. Im März wurde die vierte Änderung des Bebauungsplans Nr. 91 „Ortsmitte Nordost – Fl.Nr. 64 T“ eingeleitet. Im Juli befasste sich der Gemeinderat mit einer möglichen Fortführung des Ortsentwicklungskonzepts für Bahnhofsumfeld und Kirchenvorplatz. Die am 22. September veröffentlichte Niederschrift zeigt jedoch, dass beide Maßnahmen einstimmig zunächst zurückgestellt wurden; zunächst soll die weitere wirtschaftliche Entwicklung der Gemeinde beobachtet werden. Die einzelnen Verfahren unterscheiden sich in Gegenstand und Rechtsform, stehen aber gemeinsam für eine schrittweise Weiterentwicklung von Siedlungsstruktur, öffentlichen Räumen und kommunalen Nutzungen.",
+      "summary": "Im Untersuchungszeitraum wurden mehrere Bausteine der räumlichen Entwicklung Feldkirchens parallel weitergeführt. Im September 2025 befasste sich der Gemeinderat mit der 20. Änderung des Flächennutzungsplans für Flächen östlich der M1 und nördlich der M18, unter anderem für Gewerbe, Bauhof und Wertstoffhof. Anfang Oktober folgte die weitere Planung zur Umgestaltung der Fußgängerunterführung im Rathausbereich; Ende Oktober wurde die vierte Änderung des Bebauungsplans Nr. 32 als Satzung beschlossen.\n\n2026 setzte sich diese Entwicklung fort. Im März wurde die vierte Änderung des Bebauungsplans Nr. 91 „Ortsmitte Nordost – Fl.Nr. 64 T“ eingeleitet. Im Juli befasste sich der Gemeinderat mit einer möglichen Fortführung des Ortsentwicklungskonzepts für Bahnhofsumfeld und Kirchenvorplatz. Die am 22. September veröffentlichte Niederschrift zeigt jedoch, dass beide Maßnahmen einstimmig zunächst zurückgestellt wurden; zunächst soll die weitere wirtschaftliche Entwicklung der Gemeinde beobachtet werden. Die einzelnen Verfahren unterscheiden sich in Gegenstand und Rechtsform, stehen aber gemeinsam für eine schrittweise Weiterentwicklung von Siedlungsstruktur, öffentlichen Räumen und kommunalen Nutzungen.\n\nFür das Gewerbegebiet an der Weißenfelder Straße liegt inzwischen die Auswertung der frühzeitigen Beteiligung zur 1. Teiländerung und Erweiterung des Bebauungsplans Nr. 102 vor. Vorgesehen sind zusätzliche Lagerflächen für einen ansässigen Betrieb. Die Planung wird nach Behördenhinweisen angepasst; im südlichen Bereich wirkt sich auch die geplante achtstreifige Erweiterung der A99 auf die vorgesehene Eingrünung aus. Der Gemeinderat soll am 29. September über die Stellungnahmen und die Billigung beraten.",
       "open_questions": [
         "Welche der angestoßenen Maßnahmen aus dem Ortsentwicklungskonzept werden als nächste in konkrete Planungen und Haushaltsentscheidungen überführt?",
         "Wie werden Verkehrsflächen, Aufenthaltsqualität, Klimaanpassung, Grünstrukturen und Nutzungsansprüche in Bahnhofsumfeld und Ortsmitte aufeinander abgestimmt?",
@@ -375,6 +376,17 @@
             "R036"
           ],
           "date": "2026-09-22",
+          "date_basis": "public_release_in_RIS",
+          "date_status": "verified"
+        },
+        {
+          "name": "RIS Feldkirchen – Beschlussvorlage 5154/2026",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=72299&type=do",
+          "type": "primary_official",
+          "source_refs": [
+            "R096"
+          ],
+          "date": "2026-09-24",
           "date_basis": "public_release_in_RIS",
           "date_status": "verified"
         }
@@ -1034,16 +1046,17 @@
       "id": "T007",
       "title": "Spielplätze",
       "first_created": "2025-11-17",
-      "last_substantive_update": "2025-11-17",
+      "last_substantive_update": "2026-09-24",
       "contribution_refs": [
         "R010",
-        "R011"
+        "R011",
+        "R095"
       ],
-      "summary": "Im November 2025 entwickelten sich die Spielplatzangebote in zwei Wohnbereichen gegenläufig. Am Königsberger Weg scheiterte der geplante Erwerb beziehungsweise die Modernisierung des bisherigen Spielplatzareals an einer fehlenden Einigung mit den Grundstückseigentümern; der dortige Spielplatz entfiel.\n\nNahezu zeitgleich meldete die Gemeinde den Baufortschritt eines neuen Spielplatzes an der Schwalbenstraße, der unter dem Motto „Piraten Ahoi“ gestaltet wird. Die beiden Entwicklungen zeigen, dass die Versorgung mit wohnungsnahen Spielflächen nicht allein von kommunaler Planung, sondern teilweise auch von Grundstücksverfügbarkeit und Eigentumsverhältnissen abhängt.",
+      "summary": "Im November 2025 entwickelten sich die Spielplatzangebote in zwei Wohnbereichen gegenläufig. Am Königsberger Weg scheiterte der geplante Erwerb beziehungsweise die Modernisierung des bisherigen Spielplatzareals an einer fehlenden Einigung mit den Grundstückseigentümern; der dortige Spielplatz entfiel.\n\nNahezu zeitgleich meldete die Gemeinde den Baufortschritt eines neuen Spielplatzes an der Schwalbenstraße, der unter dem Motto „Piraten Ahoi“ gestaltet wird. Die beiden Entwicklungen zeigen, dass die Versorgung mit wohnungsnahen Spielflächen nicht allein von kommunaler Planung, sondern teilweise auch von Grundstücksverfügbarkeit und Eigentumsverhältnissen abhängt.\n\nIm September 2026 kam ein weiterer Planungsstand hinzu: Für einen seit 2021/2022 vorgesehenen Spielplatz mit optionalem Bolzplatz im Dornacher Feld empfiehlt die Verwaltung, die zugehörige Flächennutzungsplanänderung und den Bebauungsplan Nr. 110 einzustellen. Hauptgrund ist, dass die benötigten privaten Flächen nicht langfristig gesichert werden konnten. Zusätzlich verweist die Vorlage auf Flächensparziele, Konflikte mit Landwirtschaft und Naturschutz sowie beim Bolzplatz auf Lärmschutzfragen. Die Verwaltung will stattdessen vorhandene gemeindeeigene Spielplätze vorrangig modernisieren und aufwerten.",
       "open_questions": [
-        "Wie verändert der Wegfall am Königsberger Weg die wohnungsnahe Spielplatzversorgung in diesem Bereich?",
-        "Gibt es Ersatz- oder Alternativflächen für den entfallenen Standort?",
-        "Wie verteilt sich das Spielplatzangebot künftig über die verschiedenen Wohngebiete Feldkirchens?"
+        "Welche bestehenden Spielplätze sollen als Nächstes modernisiert oder aufgewertet werden?",
+        "Wie verändert die Einstellung der Planung im Dornacher Feld die wohnungsnahe Spielplatzversorgung?",
+        "Welche Kriterien verwendet die Gemeinde künftig, um Bedarf, Erreichbarkeit und Qualität der Spielangebote zu bewerten?"
       ],
       "sources": [
         {
@@ -1067,6 +1080,28 @@
           "date": "2025-11-17",
           "date_basis": "publication_date",
           "date_status": "migrated_unique"
+        },
+        {
+          "name": "RIS Feldkirchen – Beschlussvorlage 5280/2026 (Bebauungsplan Nr. 110 Spielplatz)",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74602&type=do",
+          "type": "primary_official",
+          "source_refs": [
+            "R095"
+          ],
+          "date": "2026-09-24",
+          "date_basis": "public_release_in_RIS",
+          "date_status": "verified"
+        },
+        {
+          "name": "RIS Feldkirchen – Beschlussvorlage 5279/2026 (17. Flächennutzungsplanänderung)",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74598&type=do",
+          "type": "primary_official",
+          "source_refs": [
+            "R095"
+          ],
+          "date": "2026-09-24",
+          "date_basis": "public_release_in_RIS",
+          "date_status": "verified"
         }
       ],
       "unsere_einordnung": "Ein neuer attraktiver Spielplatz ist ein Gewinn. Gleichzeitig zeigt der Wegfall am Königsberger Weg, dass die Gesamtversorgung im Blick bleiben muss. Für Kinder zählt nicht nur die Zahl der Anlagen, sondern ob Spielflächen sicher und selbstständig erreichbar sowie über die Wohngebiete sinnvoll verteilt sind.\n\nGrüne Kommunalpolitik versteht Spiel- und Freizeitflächen als Teil einer kindgerechten Ortsentwicklung. Deshalb sollte die Gemeinde prüfen, welche Versorgungslücke am Königsberger Weg entsteht und ob dort oder in erreichbarer Nähe ein Ersatzangebot möglich ist.",
@@ -1547,13 +1582,14 @@
       "id": "T012",
       "title": "A99-Ausbau und M18/EBE4",
       "first_created": "2025-09-25",
-      "last_substantive_update": "2026-08-27",
+      "last_substantive_update": "2026-09-24",
       "contribution_refs": [
         "R052",
         "R008",
-        "R059"
+        "R059",
+        "R096"
       ],
-      "summary": "Der Ausbau des Autobahnrings im Münchner Osten verändert auch die regionalen Straßenverbindungen rund um Feldkirchen. Im September 2025 lehnte der Haarer Bauausschuss eine vorgestellte Führung der M18/EBE4 zwischen Weißenfeld und Feldkirchen ab. Ende Oktober stimmte der Feldkirchner Gemeinderat im Zusammenhang mit dem A99-Ausbau der Planvariante 5 für die Verlegung der Kreisstraße zu. Im August 2026 wurde an der Anschlussstelle Haar der Verkehr auf eine Behelfsbrücke der B304 umgelegt; für den Abbruch der alten Brücke ist im November eine mehrtägige Vollsperrung der A99 angekündigt. Damit umfasst das Thema sowohl langfristige Trassenplanung als auch konkrete Bau- und Umleitungsfolgen.",
+      "summary": "Der Ausbau des Autobahnrings im Münchner Osten verändert auch die regionalen Straßenverbindungen rund um Feldkirchen. Im September 2025 lehnte der Haarer Bauausschuss eine vorgestellte Führung der M18/EBE4 zwischen Weißenfeld und Feldkirchen ab. Ende Oktober stimmte der Feldkirchner Gemeinderat im Zusammenhang mit dem A99-Ausbau der Planvariante 5 für die Verlegung der Kreisstraße zu. Im August 2026 wurde an der Anschlussstelle Haar der Verkehr auf eine Behelfsbrücke der B304 umgelegt; für den Abbruch der alten Brücke ist im November eine mehrtägige Vollsperrung der A99 angekündigt. Damit umfasst das Thema sowohl langfristige Trassenplanung als auch konkrete Bau- und Umleitungsfolgen.\n\nAuch in der kommunalen Bauleitplanung an der Weißenfelder Straße wird der Autobahnausbau konkret sichtbar: In der Vorlage zur Erweiterung des Gewerbegebiets Nr. 102 entfällt im südlichen Bereich eine vorgesehene Schutz- und Leitpflanzung mit Verweis auf die Planung der achtstreifigen A99-Erweiterung und die dortige Anbauverbotszone.",
       "open_questions": [
         "Wie wird die endgültige Führung der M18/EBE4 im weiteren Planungs- und Genehmigungsverfahren festgelegt?",
         "Welche Verkehrsverlagerungen und Belastungen entstehen während der Bauphasen für Feldkirchen und die Nachbargemeinden?",
@@ -1614,6 +1650,17 @@
           "source_refs": [
             "R059"
           ]
+        },
+        {
+          "name": "RIS Feldkirchen – Beschlussvorlage 5154/2026",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=72299&type=do",
+          "type": "primary_official",
+          "source_refs": [
+            "R096"
+          ],
+          "date": "2026-09-24",
+          "date_basis": "public_release_in_RIS",
+          "date_status": "verified"
         }
       ],
       "unsere_einordnung": "Bei einem Ausbau dieser Größenordnung reicht es nicht, nur den Autobahnquerschnitt zu betrachten. Für Feldkirchen sind die Folgewirkungen auf Kreisstraßen, Ortsverkehr, Flächen und regionale Verbindungen entscheidend. Varianten und Bauphasen sollten deshalb danach beurteilt werden, ob sie Belastungen nachvollziehbar minimieren, zusätzliche Flächeninanspruchnahme begrenzen und nachhaltige Mobilitätsverbindungen nicht verschlechtern.",
