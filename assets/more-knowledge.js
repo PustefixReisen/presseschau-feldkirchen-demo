@@ -83,6 +83,10 @@
 
   function text(el){return el?el.textContent.replace(/\s+/g,' ').trim():'';}
   function htmlEscape(value){return String(value||'').replace(/[&<>"']/g,ch=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[ch]));}
+  function questionVariant(card,key,variants){
+    const seed=((card.id||'')+'|'+key+'|'+text(card.querySelector('h3'))).split('').reduce((a,ch)=>(a*33+ch.charCodeAt(0))>>>0,5381);
+    return variants[seed%variants.length];
+  }
   function linkData(a,role){
     return {role:role||classifySource(a),name:text(a),url:a.getAttribute('href')||'#'};
   }
@@ -135,29 +139,62 @@
     const hay=(text(card.querySelector('h3'))+' '+text(card.querySelector('.subtitle'))+' '+text(card.querySelector('.body'))+' '+(card.dataset.tags||'')+' '+text(card.querySelector('.category'))).toLowerCase();
     const dirs=[];
 
-    const add=(id,label,focus)=>{
+    const add=(id,variants,focus)=>{
       if(!dirs.some(x=>x.id===id))dirs.push({
         id,
-        label,
-        answer:[
-          'Diese Frage geht bewusst über die Meldung selbst hinaus: '+focus
-        ],
+        label:questionVariant(card,id,variants),
+        answer:['Diese Frage geht bewusst über die Meldung selbst hinaus: '+focus],
         sources:[]
       });
     };
 
     if(/verkehr|mobilität|rad|bahn|bus|autonom|fahrzeug|straße|parken|mobility/.test(hay))
-      add('technik','Welche technische oder planerische Entwicklung steckt dahinter?','Zu prüfen sind Stand der Technik bzw. Planung, praktische Voraussetzungen, Grenzen und Reifegrad sowie die Einbindung in bestehende Verkehrsangebote.');
+      add('technik',[
+        'Wie funktioniert das eigentlich?',
+        'Was ist daran neu oder anders als bisher?',
+        'Wie weit ist das technisch oder planerisch schon?',
+        'Was braucht es, damit das in der Praxis funktioniert?'
+      ],'Zu prüfen sind Stand der Technik bzw. Planung, praktische Voraussetzungen, Grenzen und Reifegrad sowie die Einbindung in bestehende Verkehrsangebote.');
+
     if(/bau|bebau|wohnung|miete|genehmig|straße|tempo|verkehr|wärme|energie|datenschutz|beteilig|wahl|gemeinderat/.test(hay))
-      add('recht','Welche rechtlichen oder institutionellen Regeln bestimmen den Handlungsspielraum?','Zu prüfen sind Zuständigkeiten, Genehmigungs- und Verfahrensregeln, einschlägige Standards sowie der tatsächliche kommunale Entscheidungsspielraum.');
+      add('recht',[
+        'Wer darf hier eigentlich was entscheiden?',
+        'Was kann die Gemeinde dabei selbst regeln – und was nicht?',
+        'Welche Regeln setzen hier den Rahmen?',
+        'Wer ist hier zuständig – und wo liegen die Grenzen?'
+      ],'Zu prüfen sind Zuständigkeiten, Genehmigungs- und Verfahrensregeln, einschlägige Standards sowie der tatsächliche kommunale Entscheidungsspielraum.');
+
     if(/beteilig|bürger|jugend|wahl|sozial|schule|pflege|wohnen|miete|spielplatz|verein|adfc|hund/.test(hay))
-      add('gesellschaft','Welche gesellschaftlichen Interessen oder Veränderungen stehen dahinter?','Zu prüfen sind betroffene Gruppen, Zugang und Teilhabe, Nutzungskonflikte, Akzeptanz, Verteilungswirkungen und mögliche neue Formen kommunaler Zusammenarbeit.');
+      add('gesellschaft',[
+        'Warum bewegt das Thema so viele Menschen?',
+        'Worum geht es den Beteiligten eigentlich?',
+        'Welche Interessen treffen hier aufeinander?',
+        'Was verändert sich hier für die Menschen vor Ort?'
+      ],'Zu prüfen sind betroffene Gruppen, Zugang und Teilhabe, Nutzungskonflikte, Akzeptanz, Verteilungswirkungen und mögliche neue Formen kommunaler Zusammenarbeit.');
+
     if(/klima|energie|wärme|geothermie|baum|biodiv|wasser|see|natur|verkehr|rad|fläche/.test(hay))
-      add('oekologie','Welche ökologischen Zusammenhänge oder Zielkonflikte sind wichtig?','Zu prüfen sind Klima-, Flächen-, Energie-, Wasser- oder Biodiversitätswirkungen und mögliche Zielkonflikte mit anderen kommunalen Interessen.');
+      add('oekologie',[
+        'Welche Folgen hat das für Umwelt und Lebensqualität?',
+        'Wo gibt es Zielkonflikte für Klima, Natur oder Fläche?',
+        'Was bedeutet das für Klima und Umwelt vor Ort?',
+        'Welche ökologischen Folgen sollte man dabei mitdenken?'
+      ],'Zu prüfen sind Klima-, Flächen-, Energie-, Wasser- oder Biodiversitätswirkungen und mögliche Zielkonflikte mit anderen kommunalen Interessen.');
+
     if(/kosten|förder|miete|wohnung|wirtschaft|gewerbe|energie|wärme|bau|verkehr|infrastruktur/.test(hay))
-      add('wirtschaft','Welche wirtschaftlichen Folgen oder Abhängigkeiten sind relevant?','Zu prüfen sind Kosten, Förderung, Betrieb, Folgekosten, Preiswirkungen und die Frage, welche Annahmen wirtschaftlich belastbar sind.');
+      add('wirtschaft',[
+        'Was kostet das – und wer trägt die Folgen?',
+        'Welche finanziellen Auswirkungen hat das?',
+        'Wo liegen Kosten, Förderchancen oder Folgekosten?',
+        'Was bedeutet das wirtschaftlich für Gemeinde und Betroffene?'
+      ],'Zu prüfen sind Kosten, Förderung, Betrieb, Folgekosten, Preiswirkungen und die Frage, welche Annahmen wirtschaftlich belastbar sind.');
+
     if(/pilot|test|neu|start|modell|konzept|bürgerbudget|bürgerrat|jugendparlament|autonom|modular|sharing|fahrradstraße/.test(hay))
-      add('reife','Ist das schon belastbare Praxis oder noch ein Experiment?','Zu prüfen sind Reifegrad, reale Praxiserfahrungen, Skalierbarkeit, erkennbare Grenzen und die Frage, ob aus einem Pilotprojekt bereits verallgemeinerbare Schlüsse gezogen werden können.');
+      add('reife',[
+        'Funktioniert das schon in der Praxis?',
+        'Ist das schon erprobt – oder noch eher ein Versuch?',
+        'Wie belastbar sind die bisherigen Erfahrungen?',
+        'Ist das schon alltagstauglich oder noch Testbetrieb?'
+      ],'Zu prüfen sind Reifegrad, reale Praxiserfahrungen, Skalierbarkeit, erkennbare Grenzen und die Frage, ob aus einem Pilotprojekt bereits verallgemeinerbare Schlüsse gezogen werden können.');
 
     return dirs.slice(0,3);
   }
@@ -179,7 +216,12 @@
       const fibLinks=Array.from(hist.querySelectorAll('a')).map(a=>linkData(a,'fib'));
       if(items.length)q.push({
         id:'verlauf',
-        label:'Welche Entwicklungslinie führt zu diesem Stand?',
+        label:questionVariant(card,'verlauf',[
+          'Wie ist es dazu gekommen?',
+          'Was ist auf dem Weg hierher passiert?',
+          'Welche Vorgeschichte sollte man kennen?',
+          'Wie hat sich das Schritt für Schritt entwickelt?'
+        ]),
         answer:['Für das Verständnis ist nicht nur die aktuelle Meldung relevant. Im FIB-Bestand sind folgende vorherige Schritte ausdrücklich verknüpft: '+items.join(' · ')],
         sources:fibLinks.length?fibLinks:sources.slice(0,3)
       });
@@ -191,7 +233,12 @@
       const ts=sourceList(topic,5,'topic');
       if(tp.length)q.push({
         id:'thema',
-        label:'Welche längerfristige Entwicklung wird hier sichtbar?',
+        label:questionVariant(card,'thema',[
+          'Steckt dahinter nur ein Einzelfall – oder ein größeres Thema?',
+          'Was zeigt das über die Entwicklung in Feldkirchen?',
+          'Welche größere Entwicklung zeichnet sich hier ab?',
+          'Was könnte sich daraus auf längere Sicht entwickeln?'
+        ]),
         answer:tp,
         sources:[{role:'fib',name:'FIB-Thema – '+title,url:'#'+topic.id},...ts]
       });
@@ -200,7 +247,12 @@
     if(sig){
       q.push({
         id:'transfer',
-        label:'Was müsste passieren, damit daraus für Feldkirchen mehr als nur ein interessanter Einzelfall wird?',
+        label:questionVariant(card,'transfer',[
+          'Was könnte das konkret für Feldkirchen bedeuten?',
+          'Was müsste passieren, damit das auch bei uns relevant wird?',
+          'Unter welchen Bedingungen wäre das für Feldkirchen interessant?',
+          'Was davon könnte sich auf Feldkirchen übertragen lassen?'
+        ]),
         answer:[
           sig,
           'Für die Übertragbarkeit sind insbesondere Zuständigkeit, räumliche und organisatorische Voraussetzungen, Kosten, Akzeptanz und belastbare Praxiserfahrungen zu prüfen. Eine mögliche Bedeutung für Feldkirchen ist deshalb von einer bereits beschlossenen oder absehbaren Umsetzung zu unterscheiden.'
@@ -223,7 +275,12 @@
       const items=Array.from(open.querySelectorAll('li')).map(text).filter(Boolean);
       if(items.length)q.push({
         id:'offen',
-        label:'Welche offenen Fragen entscheiden über die weitere Entwicklung?',
+        label:questionVariant(card,'offen',[
+          'Was ist noch offen?',
+          'Welche Fragen müssen noch geklärt werden?',
+          'Wovon hängt ab, wie es weitergeht?',
+          'Was entscheidet jetzt über den nächsten Schritt?'
+        ]),
         answer:['Der Themenstand macht insbesondere folgende noch ungeklärte Punkte sichtbar: '+items.join(' · ')],
         sources:sources.slice(0,5)
       });
@@ -236,7 +293,12 @@
     if(linked.length){
       q.push({
         id:'muster',
-        label:'Welches Muster zeigt sich über die einzelnen Meldungen hinweg?',
+        label:questionVariant(card,'muster',[
+          'Was ergibt sich, wenn man die einzelnen Meldungen zusammennimmt?',
+          'Zeigt sich hier ein Muster?',
+          'Was lässt sich über mehrere Meldungen hinweg erkennen?',
+          'Was steckt hinter den einzelnen Meldungen als gemeinsame Entwicklung?'
+        ]),
         answer:[
           'Dieses Thema entsteht nicht aus einer einzelnen Meldung, sondern aus mehreren Entwicklungsschritten. Für eine Vertiefung ist deshalb besonders interessant, ob sich daraus ein stabiler Trend, ein wiederkehrender Zielkonflikt oder ein veränderter kommunaler Handlungsspielraum erkennen lässt.',
           'Die unten verknüpften Beiträge bilden dafür die zeitliche Beobachtungsbasis.'
