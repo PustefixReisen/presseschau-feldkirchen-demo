@@ -263,7 +263,15 @@
         'Ist das schon alltagstauglich oder noch Testbetrieb?'
       ],'Zu prüfen sind Reifegrad, reale Praxiserfahrungen, Skalierbarkeit, erkennbare Grenzen und die Frage, ob aus einem Pilotprojekt bereits verallgemeinerbare Schlüsse gezogen werden können.');
 
-    return dirs.slice(0,3);
+    if(/pilot|test|neu|innovation|modell|konzept|autonom|sharing|digital|smart|beteilig|rad|mobilität|energie|wärme|klima/.test(hay))
+      add('innovation',[
+        'Welche neuen Möglichkeiten eröffnet das?',
+        'Was könnte Feldkirchen daraus lernen?',
+        'Was ist daran wirklich neu – und was davon wäre übertragbar?',
+        'Welche Idee dahinter könnte auch für Feldkirchen interessant sein?'
+      ],'Zu prüfen sind tatsächlicher Innovationsgehalt, Erfahrungen anderswo, Voraussetzungen für Übertragbarkeit, mögliche Chancen sowie Grenzen, Kosten und Zielkonflikte.');
+
+    return dirs.slice(0,4);
   }
 
   function contributionQuestions(card){
