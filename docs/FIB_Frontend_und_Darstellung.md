@@ -182,7 +182,7 @@ Darstellungsregeln:
 - Anschlussfragen erscheinen als klar erkennbare Textschaltflächen.
 - Die Zahl der Fragen ist nicht fest vorgegeben.
 - Eine Karte erhält den Abschnitt nur, wenn mindestens ein zusätzlicher Erkenntnisweg belastbar angeboten werden kann.
-- Antworten öffnen sich in einem Dialogfenster und bleiben auf mobilen Geräten innerhalb des Viewports scrollbar.
+- Antworten öffnen sich in einem Dialogfenster und bleiben auf mobilen Geräten innerhalb des Viewports scrollbar.\n- KI-Antworten werden im Dialog mit einer bewusst begrenzten sicheren Formatierung dargestellt: Absätze, Listen, Fettdruck, Kursivschrift und Weblinks; beliebiges von der KI geliefertes HTML wird nicht ausgeführt.
 - Unter jeder Antwort werden die verwendeten Quellen mit ihrer **Funktion für die Antwort** gekennzeichnet, z. B. Ausgangsmeldung, lokaler/regionaler Kontext, Fach-/Rechtsrahmen, Praxisbeispiel, Pressebericht, Position/Akteur oder FIB-Zusammenhang.
 - „Eigene Frage stellen …“ ist im Demonstrator an dieselbe KI-Schnittstelle wie die vorgeschlagenen Fragen angeschlossen.
 - „Mehr wissen?“ bleibt sachlich-erklärend. Politische Bewertungen aus „Unsere Einordnung“ werden nicht in den Hintergrundbereich verschoben oder dort als neutrale Information dargestellt.
