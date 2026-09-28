@@ -4,7 +4,7 @@
 
 | Version | Stand | Verantwortlich |
 |---|---|---|
-| 0.1 | 28.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
+| 0.2 | 28.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
 
 ## 1. Zweck
 
@@ -46,7 +46,18 @@ Je nach Medium können unterschiedliche Varianten verwendet werden:
 5. **Was neu ist. Was man sonst leicht verpasst. Was dahintersteckt.**  
    FIB sammelt relevante Informationen aus Presse, Rathaus und weiteren Quellen und ergänzt Hintergründe, Zusammenhänge und weiterführende Fragen.
 
-## 4. Marketing-/Verbreitungsranking
+## 4. Reichweite und Bindung
+
+FIB unterscheidet zwischen zwei Funktionen der Kommunikation:
+
+- **Reichweite:** Menschen stoßen auf FIB – über Suchmaschinen, Homepage, Newsletter, Mastodon, geteilte Links, Veranstaltungen oder QR-Codes.
+- **Bindung:** Interessierte Menschen kommen freiwillig wieder – insbesondere über PWA, „Neu seit letztem Besuch“, Web Push, Newsletter und abonnierbare Kanäle.
+
+Reichweite ist der Erstkontakt bzw. erneute Kontakt. Bindung reduziert langfristig den Aufwand, jeden einzelnen Beitrag erneut aktiv verbreiten zu müssen.
+
+Ziel ist nicht maximale Reichweite, sondern **relevante Reichweite und freiwillige Wiederkehr bei geringem laufendem Aufwand**.
+
+## 5. Marketing-/Verbreitungsranking
 
 Beiträge erhalten ein internes Ranking:
 
@@ -57,9 +68,9 @@ Beiträge erhalten ein internes Ranking:
 
 Das Ranking kann Homepage, Newsletter, Mastodon, Push und weitere Verbreitungskanäle steuern. Es ersetzt nicht in jedem Fall eine redaktionelle Entscheidung.
 
-## 5. Kanäle
+## 6. Kanäle
 
-### 5.1 Homepage der GRÜNEN Feldkirchen
+### 6.1 Homepage der GRÜNEN Feldkirchen
 
 Dauerhaft ist eine **FIB-Karte mit 2–3 aktuellen Beiträgen** vorgesehen.
 
@@ -67,13 +78,13 @@ Die Auswahl soll automatisiert über das Marketing-/Verbreitungsranking erfolgen
 
 Ziel: keine Doppelpflege; die Homepage bezieht die Inhalte direkt aus FIB.
 
-### 5.2 Bestehender Newsletter der GRÜNEN Feldkirchen
+### 6.2 Bestehender Newsletter der GRÜNEN Feldkirchen
 
 Im Redaktionssystem soll für jeden geeigneten Beitrag auf Wunsch ein **Newsletter-Teaser mit Direktlink** erzeugt werden.
 
 Der Teaser kann in unterschiedlichen Längen angeboten werden und per Copy & Paste in den bestehenden Newsletter übernommen werden.
 
-### 5.3 Eigener abonnierbarer FIB-Newsletter
+### 6.3 Eigener abonnierbarer FIB-Newsletter
 
 Für den Echtbetrieb soll ein eigener FIB-Newsletter vorgesehen bzw. geprüft werden.
 
@@ -89,7 +100,7 @@ Mögliche Präferenzen:
 
 Erforderlich sind insbesondere Double-Opt-in, Abmeldung, Präferenzverwaltung, datensparsame Speicherung und geeigneter Versanddienst.
 
-### 5.4 Persönliches Teilen
+### 6.4 Persönliches Teilen
 
 Jeder Beitrag bzw. jedes Thema kann persönlich geteilt werden.
 
@@ -105,7 +116,7 @@ Vorgesehen sind:
 
 Persönliches Teilen ist von abonnierbaren FIB-Kanälen zu unterscheiden.
 
-### 5.5 Mastodon
+### 6.5 Mastodon
 
 Mastodon eignet sich als öffentlicher, abonnierbarer Kanal mit technischer Automatisierung.
 
@@ -119,7 +130,7 @@ Zu prüfen sind:
 - Moderation und Antworten,
 - datensparsame Reichweitenmessung.
 
-### 5.6 Signal
+### 6.6 Signal
 
 Signal wird als optionaler Kanal mit Fragezeichen geführt.
 
@@ -127,7 +138,7 @@ Ein moderierter Ankündigungsraum wäre prinzipiell möglich. Voraussetzung ist,
 
 Wenn dies nicht praktikabel ist, soll Signal kein zusätzlicher manueller Redaktionskanal werden.
 
-### 5.7 PWA
+### 6.7 PWA
 
 Die installierbare FIB-PWA ist ein zentraler Bindungskanal.
 
@@ -138,7 +149,7 @@ Sie soll insbesondere:
 - Einstieg in Web Push bieten,
 - FIB stärker als eigenständiges Informationsangebot sichtbar machen.
 
-### 5.8 Web Push
+### 6.8 Web Push
 
 Web Push ist ein zentraler Bindungskanal für Personen, die FIB bereits kennen.
 
@@ -158,13 +169,13 @@ Mögliche Präferenzen:
 
 Push ist ausschließlich Opt-in. Ein Benutzerkonto soll nicht zwingend erforderlich sein.
 
-### 5.9 Veranstaltungen und offene Treffen
+### 6.9 Veranstaltungen und offene Treffen
 
 FIB kann bei offenen Treffen, Informationsveranstaltungen, Gesprächsrunden, Workshops und anderen lokalen Anlässen vorgestellt oder thematisch eingebunden werden.
 
 Im Dauerbetrieb soll möglichst auf einen konkreten FIB-Beitrag oder ein Thema verwiesen werden, statt FIB jedes Mal allgemein zu erklären.
 
-### 5.10 Infostände
+### 6.10 Infostände
 
 Am Infostand dient FIB als digitaler Vertiefungskanal.
 
@@ -176,7 +187,7 @@ Standardmittel:
 
 Kein regelmäßig neu zu produzierender Flyerbestand.
 
-### 5.11 QR-Codes
+### 6.11 QR-Codes
 
 Es gibt mindestens:
 
@@ -185,7 +196,7 @@ Es gibt mindestens:
 
 Im Redaktionssystem soll die Funktion **„QR-Code für diesen Beitrag / dieses Thema erzeugen“** vorgesehen werden.
 
-### 5.12 Suchmaschinen / SEO
+### 6.12 Suchmaschinen / SEO
 
 Suchmaschinen sind ein wichtiger Auffindbarkeitskanal.
 
@@ -195,7 +206,7 @@ Die vollständigen Regeln stehen in:
 
 `FIB_SEO-und-Auffindbarkeit.md`
 
-### 5.13 Instagram
+### 6.13 Instagram
 
 Instagram wird **nicht als regulärer FIB-Kanal priorisiert**.
 
@@ -209,7 +220,7 @@ Wenn ohnehin geeignetes Bildmaterial vorhanden ist, kann ein Beitrag gelegentlic
 
 Ein eigener FIB-Instagram-Account ist derzeit nicht vorgesehen.
 
-## 6. FIB-Postkarte
+## 7. FIB-Postkarte
 
 ### Vorderseite
 
@@ -233,7 +244,7 @@ Abschluss:
 
 > Ein Informationsangebot von BÜNDNIS 90/DIE GRÜNEN Feldkirchen.
 
-## 7. FIB-Kärtchen
+## 8. FIB-Kärtchen
 
 ### Vorderseite
 
@@ -255,7 +266,7 @@ Optional klein:
 
 > Ein Informationsangebot von BÜNDNIS 90/DIE GRÜNEN Feldkirchen.
 
-## 8. Visueller Stil
+## 9. Visueller Stil
 
 Für Landing Page, Postkarte und Kärtchen soll eine gemeinsame visuelle Familie verwendet werden:
 
@@ -267,7 +278,7 @@ Für Landing Page, Postkarte und Kärtchen soll eine gemeinsame visuelle Familie
 
 Die Landing Page kann das vollständige Motiv nutzen; Kärtchen und PWA können reduzierte Ausschnitte bzw. vereinfachte Varianten verwenden.
 
-## 9. Automatisierung
+## 10. Automatisierung
 
 Marketing soll möglichst direkt aus dem Redaktionssystem unterstützt werden.
 
@@ -284,24 +295,33 @@ Vorgesehen sind insbesondere:
 
 Ziel ist: **kein paralleler manueller Pflegeprozess je Kanal**.
 
-## 10. Erfolgsmessung
+## 11. Erfolgsmessung
 
 Marketingerfolg wird nicht isoliert gemessen, sondern im FIB-Dashboard zusammen mit Reichweite, Nutzung und Bindung.
 
 Relevant sind insbesondere:
 
 - Zugriffe nach Kanal,
+- welche Inhalte neue Nutzer erreichen,
 - geteilte Beiträge,
 - QR-Code-Zugriffe,
 - Newsletter-Nutzung,
 - PWA-/Push-Nutzung,
 - Mastodon-Reichweite soweit sinnvoll erfassbar,
-- wiederkehrende Besuche.
+- wiederkehrende Besuche,
+- Maßnahmen mit hohem Aufwand und geringer Wirkung.
 
-Die übergreifenden Regeln stehen im Management Approach.
+Die Auswertung folgt dem Prinzip **„small and simple“**. In den ersten drei bis sechs Monaten wird zunächst eine Baseline aufgebaut.
+
+Zentrale Leitfrage:
+
+> **Erreichen wir mit vertretbarem Aufwand Menschen, für die FIB relevant ist – und kommen Interessierte freiwillig wieder?**
+
+Die übergreifenden Regeln stehen im Management Approach, Kapitel 16.
 
 ## Änderungshistorie
 
 | Version | Datum | Änderung |
 |---|---|---|
+| 0.2 | 28.09.2026 | Bedeutung von Reichweite und Bindung sowie konkrete, schlanke Erfolgsmessung ergänzt. |
 | 0.1 | 28.09.2026 | Marketing- und Kommunikationsregeln aus dem Management Approach in eigenes Primärdokument ausgelagert; vollständige Kanalliste sowie FIB-Kärtchen und FIB-Postkarte übernommen. |
