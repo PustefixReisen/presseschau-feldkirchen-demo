@@ -4,7 +4,7 @@
 
 | Version | Stand | Verantwortlich |
 |---|---|---|
-| 1.8 | 28.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
+| 1.9 | 28.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
 
 ## 1. Zweck dieses Dokuments
 
@@ -630,6 +630,14 @@ Die vollständigen Regeln stehen in:
 
 ### 17.2 Reichweite und Bindung
 
+FIB wirkt in **zwei Räumen: digital und analog**.
+
+Der **digitale Raum** schafft Auffindbarkeit, Vertiefung, Teilen und wiederkehrende Nutzung – etwa über Suchmaschinen, Homepage, Newsletter, Mastodon, PWA und Web Push.
+
+Der **analoge Raum** schafft Bekanntheit, Vertrauen und persönliche Weitergabe – etwa über Gespräche, Vereine, Initiativen, Veranstaltungen, Infostände und lokale Multiplikatoren.
+
+Beide Räume sollen sich gegenseitig verstärken. Ein persönlicher Hinweis kann zu einem digitalen Einstieg führen; ein digital gut aufbereiteter Beitrag kann wiederum Gespräche vor Ort unterstützen.
+
 Für FIB haben **Reichweite** und **Bindung** unterschiedliche Aufgaben:
 
 - **Reichweite** bedeutet: Menschen stoßen erstmals oder erneut auf FIB – etwa über Suchmaschinen, die GRÜNE Homepage, Newsletter, Mastodon, geteilte Links, Veranstaltungen, QR-Codes, persönliche Gespräche sowie gezielte persönliche Kontakte zu Multiplikatoren wie Vereinen, Initiativen und anderen örtlichen Akteuren.
@@ -822,6 +830,7 @@ Für Details gelten insbesondere:
 
 | Version | Datum | Änderung |
 |---|---|---|
+| 1.9 | 28.09.2026 | Grundprinzip „digitaler und analoger Raum“ ergänzt: FIB verbindet digitale Auffindbarkeit und Bindung mit persönlicher Weitergabe, Vertrauen, Vereinen, Initiativen, Veranstaltungen und Multiplikatoren. |
 | 1.8 | 28.09.2026 | Reichweitenbegriff erweitert: persönliche Gespräche und gezielte Kontakte zu Multiplikatoren wie Vereinen, Initiativen und örtlichen Akteuren ausdrücklich aufgenommen. |
 | 1.7 | 28.09.2026 | Kapitel 17 ergänzt um Bedeutung von Reichweite und Bindung sowie kompakte Erfolgsmessung mit Bezug auf das FIB-Dashboard. |
 | 1.6 | 28.09.2026 | Marketingdetails in eigenes Primärdokument ausgelagert; Management Approach enthält nun vollständige Kanalübersicht sowie weiterhin den vollständigen Text von FIB-Postkarte und FIB-Kärtchen. |
