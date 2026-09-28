@@ -4,7 +4,7 @@
 
 | Version | Stand | Verantwortlich |
 |---|---|---|
-| 0.2 | 28.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
+| 0.3 | 28.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
 
 ## 1. Zweck
 
@@ -50,7 +50,7 @@ Je nach Medium können unterschiedliche Varianten verwendet werden:
 
 FIB unterscheidet zwischen zwei Funktionen der Kommunikation:
 
-- **Reichweite:** Menschen stoßen auf FIB – über Suchmaschinen, Homepage, Newsletter, Mastodon, geteilte Links, Veranstaltungen oder QR-Codes.
+- **Reichweite:** Menschen stoßen auf FIB – über Suchmaschinen, Homepage, Newsletter, Mastodon, geteilte Links, Veranstaltungen, QR-Codes, persönliche Gespräche sowie gezielte Kontakte zu Multiplikatoren wie Vereinen, Initiativen und anderen örtlichen Akteuren.
 - **Bindung:** Interessierte Menschen kommen freiwillig wieder – insbesondere über PWA, „Neu seit letztem Besuch“, Web Push, Newsletter und abonnierbare Kanäle.
 
 Reichweite ist der Erstkontakt bzw. erneute Kontakt. Bindung reduziert langfristig den Aufwand, jeden einzelnen Beitrag erneut aktiv verbreiten zu müssen.
@@ -323,5 +323,6 @@ Die übergreifenden Regeln stehen im Management Approach, Kapitel 16.
 
 | Version | Datum | Änderung |
 |---|---|---|
+| 0.3 | 28.09.2026 | Reichweitenbegriff um persönliche Gespräche und gezielte Kontakte zu Multiplikatoren wie Vereinen, Initiativen und örtlichen Akteuren ergänzt. |
 | 0.2 | 28.09.2026 | Bedeutung von Reichweite und Bindung sowie konkrete, schlanke Erfolgsmessung ergänzt. |
 | 0.1 | 28.09.2026 | Marketing- und Kommunikationsregeln aus dem Management Approach in eigenes Primärdokument ausgelagert; vollständige Kanalliste sowie FIB-Kärtchen und FIB-Postkarte übernommen. |
