@@ -4,7 +4,7 @@
 
 | Version | Stand | Verantwortlich |
 |---|---|---|
-| 1.3 | 28.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
+| 1.4 | 28.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
 
 ## 1. Zweck dieses Dokuments
 
@@ -424,99 +424,179 @@ KI-Anbieter werden mit demselben FIB-Testkorpus verglichen. Kosten werden dabei 
 
 ## 16. Erfolgskontrolle – wie finden wir heraus, ob FIB funktioniert?
 
-Die Erfolgskontrolle soll **schlank und datensparsam** sein. FIB braucht keine personenbezogenen Nutzerprofile.
+Die Erfolgskontrolle soll **konkret, schlank und handlungsorientiert** sein. Ziel ist nicht, möglichst viele Kennzahlen zu sammeln, sondern regelmäßig drei Fragen beantworten zu können:
 
-Wir unterscheiden fünf Fragen:
+1. **Wird FIB gefunden und genutzt?**
+2. **Hilft FIB den Nutzerinnen und Nutzern tatsächlich weiter?**
+3. **Bleibt FIB für das Team mit vertretbarem Aufwand und vertretbaren Kosten betreibbar?**
 
-### 16.1 Wird FIB überhaupt genutzt?
+Die Messung soll datensparsam erfolgen. Personenbezogene Nutzungsprofile sind nicht erforderlich.
 
-Messbar zum Beispiel durch:
+### 16.1 Reichweite und Auffindbarkeit
 
-- Seitenaufrufe,
-- Zahl unterschiedlicher Besuche/Sitzungen,
+Wir beobachten:
+
+- Seitenaufrufe insgesamt,
+- Besuche/Sitzungen,
 - wiederkehrende Besuche in aggregierter Form,
-- Nutzung der PWA,
-- Aufrufe über geteilte Links.
+- Zugriffe über Suchmaschinen,
+- wichtigste Suchanfragen,
+- wichtigste Einstiegsseiten,
+- Zugriffe über Homepage, Newsletter, Mastodon, QR-Codes und geteilte Links.
 
-**Interpretation:**  
-Wenn neue Beiträge viele direkte Aufrufe haben, aber kaum jemand wiederkommt, funktioniert die Verbreitung vielleicht besser als die dauerhafte Bindung.
+**Beispiel:**  
+Wenn viele Menschen über die Suche „Hundewiese Feldkirchen“ auf einen alten Einzelbeitrag gelangen, obwohl eine aktuelle Themenseite existiert, ist das ein Hinweis, interne Verlinkung oder SEO-Struktur nachzubessern.
 
-### 16.2 Welche Inhalte erzeugen Interesse?
+### 16.2 Nutzung der Vertiefung
 
-Messbar durch:
+Wir beobachten:
 
-- Aufrufe einzelner Beiträge/Themen,
 - Öffnen von „Mehr wissen?“,
-- Auswahl einzelner Vertiefungsfragen,
-- Nutzung der freien Frage,
+- welche Vertiefungsfragen gewählt werden,
+- Nutzung freier Fragen,
 - Klicks auf Quellen,
-- Teilen-Funktion.
+- Öffnen zugehöriger Themen oder Sitzungen,
+- Teilen von Beiträgen.
 
 **Beispiel:**  
-Wenn ein kurzer Beitrag zur Bürgerversammlung häufig gelesen wird, aber besonders oft „Was passiert mit Anträgen?“ geöffnet wird, erkennen wir einen konkreten Informationsbedarf, der über die Meldung hinausgeht.
+Wird bei einem Beitrag zur Bürgerversammlung besonders oft „Was passiert mit Anträgen?“ geöffnet, zeigt das einen konkreten Informationsbedarf. Das kann Einfluss auf künftige Fragen oder die Darstellung des Themas haben.
 
-### 16.3 Ist FIB verständlich und nützlich?
+### 16.3 Bindung
 
-Das lässt sich nicht zuverlässig nur aus Klickzahlen ableiten.
+Wir beobachten, ob aus einmaligen Besucherinnen und Besuchern wiederkehrende Nutzer werden.
 
-Deshalb zusätzlich:
+Dazu gehören:
 
-- gelegentliche kurze Rückmeldemöglichkeit, z. B. „War diese Erklärung hilfreich?“,
-- qualitative Rückmeldungen bei offenen Treffen oder Veranstaltungen,
-- direkte Rückmeldungen von Bürgerinnen/Bürgern,
-- interne redaktionelle Beobachtung: Welche Fragen werden wiederholt gestellt?
-- gegebenenfalls kleine Nutzerbefragung nach einigen Monaten.
+- wiederkehrende Besuche,
+- PWA-Installationen,
+- aktivierte Web-Push-Abonnements,
+- FIB-Newsletter-Abonnements,
+- Mastodon-Follows, soweit sinnvoll messbar,
+- Nutzung von „Neu seit letztem Besuch“.
 
 **Beispiel:**  
-Eine Meldung kann wenige Klicks haben und trotzdem für eine kleine konkret betroffene Gruppe sehr nützlich sein. Reichweite allein ist deshalb kein Qualitätsmaß.
+Wenn viele Menschen einzelne Links öffnen, aber kaum PWA, Push oder Newsletter nutzen, funktioniert die Reichweite, aber die Bindung noch nicht ausreichend.
 
-### 16.4 Bleibt der redaktionelle Aufwand tragbar?
+### 16.4 Verständlichkeit und Nutzen
 
-Intern erfassen:
+Klickzahlen allein reichen nicht. Deshalb sollen zusätzlich qualitative Hinweise gesammelt werden:
+
+- kurze Rückmeldung wie „War diese Erklärung hilfreich?“,
+- Rückmeldungen bei offenen Treffen, Veranstaltungen und Infoständen,
+- direkte Hinweise von Bürgerinnen und Bürgern,
+- wiederkehrende Fragen, die im Gespräch auftauchen,
+- gelegentliche kleine Nutzerbefragung.
+
+**Beispiel:**  
+Ein Beitrag kann wenig Reichweite haben, aber für eine kleine direkt betroffene Gruppe sehr hilfreich sein. Deshalb ist Reichweite allein kein Qualitätsmaßstab.
+
+### 16.5 Qualität
+
+Wir beobachten:
+
+- Zahl sachlicher Korrekturen,
+- unpräzise oder falsche Quellenlinks,
+- Fälle von Verwechslung zwischen Vorlage und Beschluss,
+- unpassende „Mehr wissen?“-Fragen,
+- fehlerhafte Orts-/Themenzuordnung,
+- Beschwerden oder Hinweise auf versteckte politische Verzerrung,
+- Ergebnisse von Stichproben.
+
+Ziel ist nicht Fehlerfreiheit um jeden Preis, sondern dass Fehler **selten, erkennbar und schnell korrigierbar** sind.
+
+### 16.6 Aufwand und Betrieb
+
+Für den Betrieb wird intern beobachtet:
 
 - Zahl automatisch erzeugter Beiträge,
 - Zahl redaktionell geänderter Beiträge,
 - durchschnittlicher Prüfaufwand,
 - Zahl manueller Rechercheeingriffe,
-- Zahl von Fehlerkorrekturen,
 - technische Störungen,
-- monatliche KI-Kosten.
+- Zeitaufwand für Administration,
+- Aufwand für Newsletter-/Marketingaktionen.
 
-**Ziel:**  
-FIB soll nicht nur gute Inhalte liefern, sondern mit vier Personen **dauerhaft betreibbar** bleiben.
+So lässt sich prüfen, ob FIB mit NN 1–NN 4 dauerhaft tragbar bleibt.
 
-### 16.5 Ist die Qualität stabil?
+### 16.7 Kosten
 
-Messbar durch:
+Monatlich betrachtet werden:
 
-- Zahl nachträglicher sachlicher Korrekturen,
-- falsche oder unpräzise Quellenlinks,
-- Fälle, in denen Vorlage und Beschluss verwechselt wurden,
-- Fälle unpassender „Mehr wissen?“-Fragen,
-- fehlerhafte Orts-/Themenzuordnung,
-- Beschwerden oder Hinweise auf politische Verzerrung,
-- Ergebnisse regelmäßiger Stichproben.
+- KI-Kosten für Besucherfragen,
+- KI-Kosten für redaktionelle Unterstützung,
+- Kosten der Vorabgenerierung von „Mehr wissen?“-Antworten,
+- Versand-/Infrastrukturkosten soweit relevant,
+- Kosten pro Vorgang,
+- Budgetauslastung.
 
-### 16.6 Keine Scheingenauigkeit
+Die Details stehen in `FIB_KI-Kosten_und_Betriebsmodell.md`.
 
-Für die Anfangsphase sollen **keine starren Erfolgsquoten erfunden** werden.
+### 16.8 Startphase: Baseline statt Zielwerte
 
-Zunächst wird eine Baseline über etwa drei bis sechs Monate aufgebaut. Danach kann der Ortsverband sinnvoll entscheiden, welche Kennzahlen tatsächlich steuerungsrelevant sind.
+In den ersten **drei bis sechs Monaten** werden zunächst reale Nutzungswerte gesammelt.
 
-Ein mögliches kleines Monatsdashboard könnte später enthalten:
+Erst danach soll entschieden werden:
 
-| Kennzahl | Zweck |
+- welche Kennzahlen wirklich steuerungsrelevant sind,
+- welche Reichweite realistisch ist,
+- welche Kanäle funktionieren,
+- welche Themen besonders genutzt werden,
+- welche Funktionen kaum angenommen werden,
+- und welche Zielwerte sinnvoll sind.
+
+### 16.9 Monatliches FIB-Dashboard
+
+Für den Regelbetrieb soll ein kleines Dashboard automatisch vorbereitet werden. Es soll möglichst auf eine Seite passen.
+
+Vorgeschlagene Kennzahlen:
+
+| Bereich | Kennzahl |
 |---|---|
-| Besuche / wiederkehrende Besuche | Reichweite und Bindung |
-| meistgelesene Beiträge/Themen | Interesse |
-| „Mehr wissen?“-Nutzung | Vertiefungsbedarf |
-| Quellenklicks | tatsächliche Weiterinformation |
-| geteilte Beiträge | Verbreitung |
-| redaktionelle Bearbeitungszeit | Aufwand |
-| Korrekturen / Fehlerhinweise | Qualität |
-| KI-Kosten Besucher / Redaktion | Kostenkontrolle |
+| Reichweite | Besuche / wiederkehrende Besuche |
+| Auffindbarkeit | Such-Impressionen / Such-Klicks |
+| Inhalte | meistgelesene Beiträge und Themen |
+| Vertiefung | „Mehr wissen?“-Nutzung / Quellenklicks |
+| Bindung | PWA / Push / Newsletter |
+| Verbreitung | geteilte Beiträge / Zugriffe nach Kanal |
+| Qualität | Korrekturen / Fehlerhinweise |
+| Aufwand | redaktionelle Bearbeitungszeit |
+| Kosten | KI-Kosten Besucher / Redaktion |
 
----
+### 16.10 Monatliche Kurzbewertung
+
+Das Dashboard soll nicht nur Zahlen zeigen. Zusätzlich soll automatisch eine kurze Management-Zusammenfassung erzeugt werden, zum Beispiel:
+
+> „Im September kamen die meisten neuen Zugriffe über Suchmaschinen und geteilte Links. Besonders häufig genutzt wurden Beiträge zur Hundewiese und zur Bürgerversammlung. ‘Mehr wissen?’ wurde bei diesen Themen überdurchschnittlich oft geöffnet. Die redaktionelle Bearbeitungszeit blieb stabil; die KI-Kosten lagen innerhalb des Budgets.“
+
+Diese Zusammenfassung kann von der KI erzeugt werden, die zugrunde liegenden Kennzahlen selbst müssen jedoch technisch und nachvollziehbar erfasst werden.
+
+### 16.11 Quartalsweise Bewertung
+
+Einmal pro Quartal reicht eine kurze gemeinsame Bewertung durch das Team:
+
+- Welche Inhalte funktionieren?
+- Welche Kanäle bringen relevante Nutzer?
+- Welche Funktionen werden kaum genutzt?
+- Wo entstehen zu viel Aufwand oder Kosten?
+- Welche Qualitätsprobleme wiederholen sich?
+- Gibt es Themenlücken?
+- Muss Marketing, Redaktion oder Technik angepasst werden?
+
+Das Ziel ist nicht ein umfangreicher Bericht, sondern eine **kurze Steuerungsentscheidung**.
+
+### 16.12 Was wäre ein Erfolg?
+
+FIB ist erfolgreich, wenn sich über die Zeit zeigt, dass:
+
+- relevante Feldkirchner Informationen zuverlässig gefunden werden,
+- Menschen nicht nur einzelne Beiträge lesen, sondern bei Interesse vertiefen,
+- ein Teil der Nutzer freiwillig wiederkommt,
+- Quellen und Sachstände als hilfreich wahrgenommen werden,
+- Fehler und Korrekturen überschaubar bleiben,
+- der redaktionelle Aufwand mit vier Personen tragbar ist,
+- und die laufenden Kosten im vereinbarten Rahmen bleiben.
+
+Reichweite allein ist deshalb **kein** ausreichendes Erfolgskriterium.
 
 ## 17. Marketing und Kommunikation
 
@@ -1070,6 +1150,7 @@ Für Details gelten insbesondere:
 
 | Version | Datum | Änderung |
 |---|---|---|
+| 1.4 | 28.09.2026 | Erfolgskontrolle konkretisiert: Reichweite, Vertiefung, Bindung, Nutzen, Qualität, Aufwand und Kosten mit Monatsdashboard, automatischer Kurzbewertung und quartalsweiser Steuerung beschrieben. |
 | 1.3 | 28.09.2026 | SEO-Details in eigenes Primärdokument ausgelagert; Management Approach auf strategische SEO-Grundsätze und Verweis reduziert. |
 | 1.2 | 28.09.2026 | SEO-Schritt A ergänzt: Suchmaschinen als Auffindbarkeitskanal, modellunabhängige technische Regeln und klare Rollen für Landing Page, Themenseiten, Beiträge und Sitzungsseiten definiert; visueller Landing-Page-Stil verankert. |
 | 1.1 | 28.09.2026 | Kommunikations-Kernbotschaften ergänzt; konkrete Textkonzepte für FIB-Postkarte und FIB-Kärtchen aufgenommen. |
