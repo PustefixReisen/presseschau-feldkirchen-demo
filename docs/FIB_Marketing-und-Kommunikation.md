@@ -4,7 +4,7 @@
 
 | Version | Stand | Verantwortlich |
 |---|---|---|
-| 0.3 | 28.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
+| 0.4 | 28.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
 
 ## 1. Zweck
 
@@ -47,6 +47,39 @@ Je nach Medium können unterschiedliche Varianten verwendet werden:
    FIB sammelt relevante Informationen aus Presse, Rathaus und weiteren Quellen und ergänzt Hintergründe, Zusammenhänge und weiterführende Fragen.
 
 ## 4. Reichweite und Bindung
+
+### 4.1 Zwei Räume: digital und analog
+
+FIB wirkt in **zwei Räumen: digital und analog**.
+
+Der **digitale Raum** umfasst insbesondere:
+
+- Suchmaschinen,
+- GRÜNE Homepage,
+- Newsletter,
+- Mastodon,
+- persönliche digitale Weitergabe,
+- PWA,
+- Web Push,
+- QR-verlinkte Einstiege.
+
+Der **analoge Raum** umfasst insbesondere:
+
+- persönliche Gespräche,
+- direkte Ansprache,
+- Kontakte zu Vereinen,
+- Kontakte zu Initiativen,
+- weitere örtliche Multiplikatoren,
+- Veranstaltungen,
+- offene Treffen,
+- Infostände,
+- FIB-Kärtchen und FIB-Postkarte.
+
+Der analoge Raum ist kein Zusatzkanal, sondern ein eigener Teil der Verbreitungslogik. Er schafft Bekanntheit und Vertrauen und kann Menschen gezielt in den digitalen Informationsraum von FIB führen.
+
+Umgekehrt können FIB-Beiträge Gespräche vor Ort unterstützen, weil Informationen, Quellen und Hintergründe nachlesbar sind.
+
+### 4.2 Reichweite und Bindung
 
 FIB unterscheidet zwischen zwei Funktionen der Kommunikation:
 
@@ -323,6 +356,7 @@ Die übergreifenden Regeln stehen im Management Approach, Kapitel 16.
 
 | Version | Datum | Änderung |
 |---|---|---|
+| 0.4 | 28.09.2026 | Grundprinzip „digitaler und analoger Raum“ ergänzt und den analogen Raum als eigenständigen Bestandteil der Verbreitungslogik beschrieben. |
 | 0.3 | 28.09.2026 | Reichweitenbegriff um persönliche Gespräche und gezielte Kontakte zu Multiplikatoren wie Vereinen, Initiativen und örtlichen Akteuren ergänzt. |
 | 0.2 | 28.09.2026 | Bedeutung von Reichweite und Bindung sowie konkrete, schlanke Erfolgsmessung ergänzt. |
 | 0.1 | 28.09.2026 | Marketing- und Kommunikationsregeln aus dem Management Approach in eigenes Primärdokument ausgelagert; vollständige Kanalliste sowie FIB-Kärtchen und FIB-Postkarte übernommen. |
