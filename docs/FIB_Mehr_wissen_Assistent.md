@@ -4,7 +4,7 @@
 
 | Version | Stand | Verantwortlich |
 |---|---|---|
-| 0.5 | 28.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
+| 0.6 | 28.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
 
 ## 1. Präambel
 
@@ -64,6 +64,37 @@ Geeignete Fragetypen sind insbesondere:
 - **Übertragbarkeit:** „Unter welchen Bedingungen könnte das für Feldkirchen relevant werden?“
 
 Fragen sollen neugierig machen, aber nicht suggestiv formuliert sein.
+
+### Bürgernahe Formulierung der Fragen
+
+Die fachlichen Frageachsen bleiben intern stabil, die sichtbaren Fragen werden jedoch **bürgernah, kurz und neugierig machend** formuliert. Die Formulierung soll aus Sicht interessierter Leserinnen und Leser entstehen, nicht aus Sicht eines Gutachtens oder Verwaltungstextes.
+
+Beispiele:
+
+| Fachliche Frageachse | Bevorzugte bürgernahe Formulierungen |
+|---|---|
+| Recht / Zuständigkeit | „Wer darf hier eigentlich was entscheiden?“ · „Was kann die Gemeinde selbst regeln – und was nicht?“ |
+| Gesellschaft / Interessen | „Warum bewegt das Thema so viele Menschen?“ · „Welche Interessen treffen hier aufeinander?“ |
+| Verlauf / Vorgeschichte | „Wie ist es dazu gekommen?“ · „Welche Vorgeschichte sollte man kennen?“ |
+| Größerer Zusammenhang | „Steckt dahinter nur ein Einzelfall – oder ein größeres Thema?“ · „Was zeigt das über die Entwicklung in Feldkirchen?“ |
+| Technik / Planung | „Wie funktioniert das eigentlich?“ · „Was ist daran neu oder anders als bisher?“ |
+| Reifegrad / Pilotcharakter | „Funktioniert das schon in der Praxis?“ · „Ist das schon erprobt – oder noch eher ein Versuch?“ |
+| Ökologie | „Welche Folgen hat das für Umwelt und Lebensqualität?“ · „Wo gibt es Zielkonflikte für Klima, Natur oder Fläche?“ |
+| Wirtschaft / Kosten | „Was kostet das – und wer trägt die Folgen?“ · „Welche finanziellen Auswirkungen hat das?“ |
+| Übertragbarkeit | „Was könnte das konkret für Feldkirchen bedeuten?“ · „Was müsste passieren, damit das auch bei uns relevant wird?“ |
+
+### Variationsregel bei wiederkehrenden Fragen
+
+Wiederkehrende fachliche Frageachsen dürfen **nicht schematisch mit immer derselben sichtbaren Formulierung** erscheinen. Bei vergleichbaren Beiträgen wählt FIB aus mehreren geeigneten Varianten eine zum Kontext passende Formulierung.
+
+Dabei gilt:
+
+- Die **fachliche Bedeutung** der Frage darf durch die Variation nicht verändert werden.
+- Die Varianten müssen dieselben Qualitäts- und Neutralitätsregeln erfüllen.
+- Die Formulierung soll zum konkreten Beitrag passen und möglichst natürlich wirken.
+- Innerhalb einer Beitragsliste sollen gleiche oder nahezu gleiche Fragen möglichst vermieden werden.
+- Für reproduzierbare Tests kann die Variantenauswahl deterministisch erfolgen; dieselbe Karte erhält dann bei gleichem Datenstand dieselbe Formulierung.
+- Diese Regel ist **Anforderung an Demonstrator und Echtsystem**.
 
 ### Anti-Redundanz-Regel
 
@@ -191,6 +222,7 @@ Bis das Secret `OPENAI_API_KEY` gesetzt ist, ist die technische Strecke vorberei
 
 | Version | Datum | Änderung |
 |---|---|---|
+| 0.6 | 28.09.2026 | Bürgernahe Frageformulierungen verbindlich eingeführt; fachliche Frageachsen bleiben intern stabil, sichtbare Formulierungen werden kontextabhängig variiert. Variationsregel gilt ausdrücklich auch für das Echtsystem. |
 | 0.5 | 28.09.2026 | Demonstrator an echte KI-Recherche angebunden: Supabase Edge Function als geschütztes Gateway, OpenAI Responses API mit Websuche, freie Fragen und vorgeschlagene Fragen dynamisch; tägliches Testlimit ergänzt. |
 | 0.4 | 27.09.2026 | Fragenlogik nach Nutzerfeedback geschärft: redundante Kern-/Belegfragen als Standard entfernt; technische, rechtliche, gesellschaftliche, ökologische und wirtschaftliche Hintergrundachsen sowie Reifegrad, Vergleich und Übertragbarkeit aus der früheren Trendlogik übernommen. |\n| 0.3 | 27.09.2026 | FIB-weite Umsetzung für Beiträge und Themen; adaptive Fragenlogik, Mehrwert-Schwelle und funktionale Quellenrollen verbindlich ergänzt; R088 bleibt kuratierter Referenzfall. |\n| 0.2 | 27.09.2026 | Prototyp erweitert: Anzahl der Fragen nicht künstlich begrenzt; mehrere funktional unterschiedliche Quellen je Antwort ausdrücklich vorgesehen; Testfall R088 auf fünf Fragen erweitert. |
 | 0.1 | 27.09.2026 | Fachlicher Prototyp „Mehr wissen?“ angelegt; Präambel, Mehrwert-Schwelle, Fragetypen, Kontextpaket und Qualitätsregeln dokumentiert. |
