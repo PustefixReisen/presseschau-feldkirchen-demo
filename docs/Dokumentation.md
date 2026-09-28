@@ -4,7 +4,7 @@
 
 | Version | Stand | Verantwortlich |
 |---|---|---|
-| 1.5 | 28.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
+| 1.6 | 28.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
 
 ## Zweck
 
@@ -20,7 +20,8 @@ Diese Regeln gelten unabhängig davon, dass FIB nicht zwingend auf der pustivo-P
 
 | Themenbereich | Primäre verbindliche Quelle | Hinweis |
 |---|---|---|
-| inhaltliche Ausrichtung / allgemein verständliches Konzept | `docs/FIB-Inhaltliches-Konzept.md` | verständliche Primärquelle für Zielbild, Zweck, Reichweite und Abgrenzung von Presseschau, Sitzungen und Themen; Diskussionsgrundlage für die politische/redaktionelle Ausrichtung |
+| Management Approach / Gesamtsicht für Kolleginnen und Kollegen | `docs/FIB_Management-Approach.md` | übergreifende Primärquelle für Zielbild, Suchraum, Rollen, Betrieb, Kosten, Qualität, Erfolgskontrolle, Marketingrahmen und Weiterentwicklung |
+| inhaltliche Ausrichtung / fachliches Detailkonzept | `docs/FIB-Inhaltliches-Konzept.md` | fachliche Detailquelle für Zielbild, Zweck, Reichweite und Abgrenzung von Presseschau, Sitzungen und Themen |
 | „Mehr wissen?“ / FIB-Assistent | `docs/FIB_Mehr_wissen_Assistent.md` | verbindliche Primärquelle für Mehrwert-Schwelle, Anschlussfragen, Kontextpaket, funktionale Quellenrollen und Trennung zur politischen Einordnung |\n| Modellunabhängigkeit / KI-Qualitätsprüfung | `docs/FIB_Modellunabhaengigkeit_und_Qualitaetspruefung.md` | verbindliche Primärquelle für Trennung Geschäftsregeln / explizite KI-Regeln / Modellurteil, Modellabhängigkeits-Check und Modellwechsel-Teststrategie |
 | KI-Kosten / produktive Betriebsverantwortung | `docs/FIB_KI-Kosten_und_Betriebsmodell.md` | verbindliche Primärquelle für Besucher- und Redaktionskosten, Anbieter-Preisvergleich, Cache-/Aktualitätsstrategie und organisatorische Eigentümerschaft der Produktivkonten |
 | redaktionelle KI-Regeln / Quellenarbeit | `docs/projektgrundlagen/KI-Leitfaden_Homepage-Presseschau.md` | fachlich-redaktionelle Primärquelle für KI-gestützte Erstellung |
@@ -57,6 +58,7 @@ Ein Sachverhalt wird nur in seiner Primärquelle verbindlich festgelegt. Andere 
 
 | Version | Datum | Änderung |
 |---|---|---|
+| 1.6 | 28.09.2026 | `FIB_Management-Approach.md` als übergreifende Primärquelle für Kolleginnen und Kollegen aufgenommen; inhaltliches Konzept bleibt fachliche Detailquelle. |
 | 1.5 | 28.09.2026 | KI-Kosten- und Betriebsmodell als eigene Primärquelle aufgenommen; produktive Accounts und Abrechnung sollen bei der GRÜNEN Ortsgruppe liegen. |
 | 1.4 | 27.09.2026 | Modellunabhängigkeit als eigenes Qualitäts- und Architekturthema in die Dokumentationslandkarte aufgenommen; neues Primärdokument für Modellabhängigkeits-Check und Modellwechsel-Tests verankert. |
 | 1.3 | 27.09.2026 | Öffentliche Trend-Ebene aus der FIB-Dokumentation entfernt; interne Trend-/Stoffsammlung ausdrücklich außerhalb der öffentlichen FIB-Struktur verortet. |
