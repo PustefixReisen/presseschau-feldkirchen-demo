@@ -4,7 +4,7 @@
 
 | Version | Stand | Verantwortlich |
 |---|---|---|
-| 1.4 | 28.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
+| 1.5 | 28.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
 
 ## 1. Zweck dieses Dokuments
 
@@ -546,7 +546,9 @@ Erst danach soll entschieden werden:
 
 ### 16.9 Monatliches FIB-Dashboard
 
-Für den Regelbetrieb soll ein kleines Dashboard automatisch vorbereitet werden. Es soll möglichst auf eine Seite passen.
+Das Dashboard folgt ausdrücklich dem Prinzip **„small and simple“**. Es soll keine umfangreiche Analytics-Anwendung werden, sondern eine kompakte interne Steuerungsansicht im Redaktionssystem.
+
+Es wird automatisch erzeugt und ist **keine zusätzliche monatliche Redaktionsaufgabe**. Für den Regelbetrieb soll es möglichst auf eine Seite passen und nur die Kennzahlen zeigen, aus denen tatsächlich Entscheidungen abgeleitet werden können.
 
 Vorgeschlagene Kennzahlen:
 
@@ -561,6 +563,8 @@ Vorgeschlagene Kennzahlen:
 | Qualität | Korrekturen / Fehlerhinweise |
 | Aufwand | redaktionelle Bearbeitungszeit |
 | Kosten | KI-Kosten Besucher / Redaktion |
+
+Zusätzliche Detailauswertungen sollen nur dann ergänzt werden, wenn ein konkreter Steuerungsbedarf entsteht. Neue Kennzahlen werden nicht aufgenommen, nur weil sie technisch verfügbar sind.
 
 ### 16.10 Monatliche Kurzbewertung
 
@@ -1150,6 +1154,7 @@ Für Details gelten insbesondere:
 
 | Version | Datum | Änderung |
 |---|---|---|
+| 1.5 | 28.09.2026 | Dashboard-Prinzip konkretisiert: „small and simple“, automatisch erzeugt, im Redaktionssystem angezeigt und auf tatsächlich steuerungsrelevante Kennzahlen begrenzt. |
 | 1.4 | 28.09.2026 | Erfolgskontrolle konkretisiert: Reichweite, Vertiefung, Bindung, Nutzen, Qualität, Aufwand und Kosten mit Monatsdashboard, automatischer Kurzbewertung und quartalsweiser Steuerung beschrieben. |
 | 1.3 | 28.09.2026 | SEO-Details in eigenes Primärdokument ausgelagert; Management Approach auf strategische SEO-Grundsätze und Verweis reduziert. |
 | 1.2 | 28.09.2026 | SEO-Schritt A ergänzt: Suchmaschinen als Auffindbarkeitskanal, modellunabhängige technische Regeln und klare Rollen für Landing Page, Themenseiten, Beiträge und Sitzungsseiten definiert; visueller Landing-Page-Stil verankert. |
