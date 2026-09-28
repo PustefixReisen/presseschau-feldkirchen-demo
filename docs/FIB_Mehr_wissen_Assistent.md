@@ -4,7 +4,7 @@
 
 | Version | Stand | Verantwortlich |
 |---|---|---|
-| 0.6 | 28.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
+| 0.7 | 28.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
 
 ## 1. Präambel
 
@@ -82,6 +82,25 @@ Beispiele:
 | Ökologie | „Welche Folgen hat das für Umwelt und Lebensqualität?“ · „Wo gibt es Zielkonflikte für Klima, Natur oder Fläche?“ |
 | Wirtschaft / Kosten | „Was kostet das – und wer trägt die Folgen?“ · „Welche finanziellen Auswirkungen hat das?“ |
 | Übertragbarkeit | „Was könnte das konkret für Feldkirchen bedeuten?“ · „Was müsste passieren, damit das auch bei uns relevant wird?“ |
+
+### Kontextprüfung vor Frageauswahl
+
+Die Auswahl der Frageachse erfolgt **vor** der Formulierung und muss den konkreten Vorgang als Ganzes berücksichtigen. Eine Frage darf nicht allein deshalb angeboten werden, weil einzelne Schlagwörter wie „Beteiligung“, „Verkehr“, „Kosten“ oder „Gemeinderat“ vorkommen.
+
+Verbindliche Reihenfolge:
+
+1. **Vorgang erkennen:** Was ist das für ein Sachverhalt – wiederkehrende Veranstaltung, konkrete Entscheidung, Pilotprojekt, regionale Planung, Konflikt, Förderfrage, Rechtsfrage usw.?
+2. **Rolle Feldkirchens klären:** Entscheidet die Gemeinde selbst, ist sie nur betroffen, beteiligt, antragsberechtigt oder kann sie lediglich Einfluss nehmen?
+3. **Zeitliche Einordnung berücksichtigen:** Handelt es sich um ein jährlich wiederkehrendes Format, eine Fortsetzung eines bekannten Vorgangs oder einen einmaligen neuen Sachstand?
+4. **Erkenntnislücke bestimmen:** Was weiß der Leser aus dem sichtbaren Beitrag noch nicht, was aber für das Verständnis besonders hilfreich wäre?
+5. **Erst danach Frage formulieren und sprachlich variieren.**
+
+Beispiele:
+- Bei einer **jährlichen Bürgerversammlung** sind Fragen zu Beteiligungsmöglichkeiten, Wirkung von Anträgen und Rückblick auf frühere Anträge sinnvoller als abstrakte Fragen nach „gesellschaftlichen Interessen“.
+- Bei einer **regionalen Radschnellverbindung**, über deren fremden Abschnitt Feldkirchen nicht entscheidet, darf nicht gefragt werden, was Feldkirchen „selbst regeln“ könne. Passender sind Fragen nach Auswirkungen auf die Gesamtverbindung, Einflussmöglichkeiten Feldkirchens und Alternativen.
+- Bei einer **kommunalen Beschlussvorlage** zu Kosten und Trägerschaft können dagegen Zuständigkeit, Interessenlage und wirtschaftliche Auswirkungen sehr gut passen.
+
+Für das **Echtsystem** sollen die vorgeschlagenen Fragen grundsätzlich bei der inhaltlichen Aufbereitung eines Beitrags oder Themas aus dem vollständigen strukturierten Kontext erzeugt und persistent gespeichert werden. Eine reine Browser-Heuristik aus Stichwörtern ist nur eine Übergangslösung des Demonstrators.
 
 ### Variationsregel bei wiederkehrenden Fragen
 
@@ -222,6 +241,7 @@ Bis das Secret `OPENAI_API_KEY` gesetzt ist, ist die technische Strecke vorberei
 
 | Version | Datum | Änderung |
 |---|---|---|
+| 0.7 | 28.09.2026 | Kontextprüfung vor Frageauswahl verbindlich ergänzt: Vorgangstyp, Rolle Feldkirchens, zeitliche Einordnung und Erkenntnislücke bestimmen die Frageachsen. Für den Echtbetrieb werden Fragen aus dem vollständigen Kontext erzeugt und persistent gespeichert; reine Schlagwort-Heuristik bleibt nur Demonstrator-Übergang. |
 | 0.6 | 28.09.2026 | Bürgernahe Frageformulierungen verbindlich eingeführt; fachliche Frageachsen bleiben intern stabil, sichtbare Formulierungen werden kontextabhängig variiert. Variationsregel gilt ausdrücklich auch für das Echtsystem. |
 | 0.5 | 28.09.2026 | Demonstrator an echte KI-Recherche angebunden: Supabase Edge Function als geschütztes Gateway, OpenAI Responses API mit Websuche, freie Fragen und vorgeschlagene Fragen dynamisch; tägliches Testlimit ergänzt. |
 | 0.4 | 27.09.2026 | Fragenlogik nach Nutzerfeedback geschärft: redundante Kern-/Belegfragen als Standard entfernt; technische, rechtliche, gesellschaftliche, ökologische und wirtschaftliche Hintergrundachsen sowie Reifegrad, Vergleich und Übertragbarkeit aus der früheren Trendlogik übernommen. |\n| 0.3 | 27.09.2026 | FIB-weite Umsetzung für Beiträge und Themen; adaptive Fragenlogik, Mehrwert-Schwelle und funktionale Quellenrollen verbindlich ergänzt; R088 bleibt kuratierter Referenzfall. |\n| 0.2 | 27.09.2026 | Prototyp erweitert: Anzahl der Fragen nicht künstlich begrenzt; mehrere funktional unterschiedliche Quellen je Antwort ausdrücklich vorgesehen; Testfall R088 auf fünf Fragen erweitert. |
