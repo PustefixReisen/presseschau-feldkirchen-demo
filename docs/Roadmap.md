@@ -18,7 +18,7 @@ Es gelten die zentralen Roadmap-Status aus `PustefixReisen/pustivo/docs/governan
 | Quellenmonitor / Rechercheunterstützung | **Teilweise umgesetzt** | Fach- und Architekturunterlagen vorhanden; produktive Integration noch nicht als Echtbetrieb nachgewiesen |
 | „Mehr wissen?“ / FIB-Assistent | **KI-Anbindung vorbereitet** | Adaptive Hintergrundfragen FIB-weit; Supabase Edge Function und OpenAI-Webrecherche technisch angebunden; Aktivierung nach Hinterlegung des serverseitigen OpenAI-Secrets |
 | KI-Kostenmodell / Providervergleich | **Grundlage dokumentiert** | Besucher-, Redaktions- und Vorabgenerierungskosten für OpenAI, Mistral, Grünerator und weitere Kandidaten vergleichen; reale Demonstratorwerte nachziehen; Produktivabrechnung in OV-Account überführen |
-| Management Approach / Marketing | **In Arbeit** | Management Approach angelegt; Marketing- und Kommunikationskanäle werden schrittweise konkretisiert |
+| Management Approach / Marketing | **Konzept weitgehend vollständig** | Marketing in eigenes Primärdokument ausgelagert; vollständige Kanalliste dokumentiert; offene Entscheidungen betreffen vor allem Mastodon/Signal und produktive Umsetzung |
 | SEO / Auffindbarkeit | **Konzept vollständig** | Schritte A–E dokumentiert: Seitentypen, Onpage-Standards, technische Umsetzung, redaktionelle Regeln und Erfolgsmessung; technische Realisierung erfolgt im Echtsystem |
 | Projektdokumentation konsolidieren | **In Arbeit** | Allgemein verständliches inhaltliches Konzept angelegt; fachliche/redaktionelle Primärquellen über #11 weiter vervollständigen |
 | Echtbetriebsarchitektur | **In Arbeit** | Architektur-, Betriebs-, Sicherheits-, Daten-, Deployment- und Backupentscheidungen über #12 verbindlich konsolidieren |
