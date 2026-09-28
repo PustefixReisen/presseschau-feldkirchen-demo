@@ -4,7 +4,7 @@
 
 | Version | Stand | Verantwortlich |
 |---|---|---|
-| 1.7 | 28.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
+| 1.8 | 28.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
 
 ## Zweck
 
@@ -25,6 +25,7 @@ Diese Regeln gelten unabhängig davon, dass FIB nicht zwingend auf der pustivo-P
 | „Mehr wissen?“ / FIB-Assistent | `docs/FIB_Mehr_wissen_Assistent.md` | verbindliche Primärquelle für Mehrwert-Schwelle, Anschlussfragen, Kontextpaket, funktionale Quellenrollen und Trennung zur politischen Einordnung |\n| Modellunabhängigkeit / KI-Qualitätsprüfung | `docs/FIB_Modellunabhaengigkeit_und_Qualitaetspruefung.md` | verbindliche Primärquelle für Trennung Geschäftsregeln / explizite KI-Regeln / Modellurteil, Modellabhängigkeits-Check und Modellwechsel-Teststrategie |
 | KI-Kosten / produktive Betriebsverantwortung | `docs/FIB_KI-Kosten_und_Betriebsmodell.md` | verbindliche Primärquelle für Besucher- und Redaktionskosten, Anbieter-Preisvergleich, Cache-/Aktualitätsstrategie und organisatorische Eigentümerschaft der Produktivkonten |
 | redaktionelle KI-Regeln / Quellenarbeit | `docs/projektgrundlagen/KI-Leitfaden_Homepage-Presseschau.md` | fachlich-redaktionelle Primärquelle für KI-gestützte Erstellung |
+| Marketing und Kommunikation | `docs/FIB_Marketing-und-Kommunikation.md` | verbindliche Primärquelle für Marketingziele, Kanäle, Automatisierung, PWA/Push, Newsletter, Mastodon/Signal, Offline-Materialien und QR-Codes |
 | SEO / Auffindbarkeit | `docs/FIB_SEO-und-Auffindbarkeit.md` | verbindliche Primärquelle für SEO-Ziele, Seitentypen, URL-/Meta-/Überschriftenregeln, interne Verlinkung, Canonical, strukturierte Daten und technische Auffindbarkeit |
 | Frontend und Darstellung | `docs/FIB_Frontend_und_Darstellung.md` | UI-/Darstellungsregeln des Demonstrators |
 | Quellenmonitor – Fachfunktion | `docs/FIB-Quellenmonitor.md` | fachliche Funktionsbeschreibung |
@@ -59,6 +60,7 @@ Ein Sachverhalt wird nur in seiner Primärquelle verbindlich festgelegt. Andere 
 
 | Version | Datum | Änderung |
 |---|---|---|
+| 1.8 | 28.09.2026 | `FIB_Marketing-und-Kommunikation.md` als eigene Primärquelle aufgenommen; Management Approach auf Kanalübersicht plus vollständige Printtexte reduziert. |
 | 1.7 | 28.09.2026 | `FIB_SEO-und-Auffindbarkeit.md` als eigene Primärquelle aufgenommen; SEO-Details aus dem Management Approach ausgelagert. |
 | 1.6 | 28.09.2026 | `FIB_Management-Approach.md` als übergreifende Primärquelle für Kolleginnen und Kollegen aufgenommen; inhaltliches Konzept bleibt fachliche Detailquelle. |
 | 1.5 | 28.09.2026 | KI-Kosten- und Betriebsmodell als eigene Primärquelle aufgenommen; produktive Accounts und Abrechnung sollen bei der GRÜNEN Ortsgruppe liegen. |
