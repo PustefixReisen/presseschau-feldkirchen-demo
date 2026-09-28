@@ -4,7 +4,7 @@
 
 | Version | Stand | Verantwortlich |
 |---|---|---|
-| 0.2 | 28.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
+| 0.3 | 28.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
 
 ## 1. Zweck dieses Dokuments
 
@@ -529,7 +529,9 @@ Zu klären sind insbesondere:
 - Wie werden einzelne Beiträge geteilt?
 - Wie wird FIB bei Veranstaltungen, Bürgerversammlungen oder offenen Treffen bekannt gemacht?
 - Wie gewinnt FIB wiederkehrende Nutzerinnen und Nutzer?
-- Welche Rolle spielen PWA und Benachrichtigungen?
+- Wie fördern wir freiwillig die **Installation der FIB-PWA**?
+- Welche Rolle spielen **Web-Push-Benachrichtigungen** der PWA?
+- Soll zusätzlich ein **Messenger-/Broadcast-Kanal** für abonnierbare Hinweise auf neue oder besonders relevante FIB-Inhalte angeboten werden?
 - Wie unterscheiden wir sachliche Information über FIB von klassischer Parteikommunikation?
 - Welche Maßnahmen sind mit geringem laufendem Aufwand realistisch?
 
@@ -652,5 +654,6 @@ Für Details gelten insbesondere:
 
 | Version | Datum | Änderung |
 |---|---|---|
+| 0.3 | 28.09.2026 | Marketingziel ergänzt: freiwillige Bindung durch PWA-Installation sowie optionale Web-Push- und Messenger-/Broadcast-Benachrichtigungen. |
 | 0.2 | 28.09.2026 | Kapitel 18 überarbeitet: Umsetzung und Dokumentation als gemeinsamer KI-gestützter Prozess; Redaktion ohne eigenen Dokumentationsworkflow. |
 | 0.1 | 28.09.2026 | Erstfassung als übergreifender Management Approach: Zielbild, Suchraum, Redaktion, politischer Bias, Rollen NN 1–4, Betrieb, Kosten, Aktualität, Qualität, messbare Erfolgskontrolle, Marketing-Arbeitsbereich und Übergabe zusammengeführt. |
