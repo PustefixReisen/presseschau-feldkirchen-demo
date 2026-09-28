@@ -184,12 +184,12 @@ Darstellungsregeln:
 - Eine Karte erhält den Abschnitt nur, wenn mindestens ein zusätzlicher Erkenntnisweg belastbar angeboten werden kann.
 - Antworten öffnen sich in einem Dialogfenster und bleiben auf mobilen Geräten innerhalb des Viewports scrollbar.
 - Unter jeder Antwort werden die verwendeten Quellen mit ihrer **Funktion für die Antwort** gekennzeichnet, z. B. Ausgangsmeldung, lokaler/regionaler Kontext, Fach-/Rechtsrahmen, Praxisbeispiel, Pressebericht, Position/Akteur oder FIB-Zusammenhang.
-- „Eigene Frage stellen …“ gehört zum Zielbild. Im Demonstrator ist das Eingabefeld noch nicht an eine KI-API angeschlossen.
+- „Eigene Frage stellen …“ ist im Demonstrator an dieselbe KI-Schnittstelle wie die vorgeschlagenen Fragen angeschlossen.
 - „Mehr wissen?“ bleibt sachlich-erklärend. Politische Bewertungen aus „Unsere Einordnung“ werden nicht in den Hintergrundbereich verschoben oder dort als neutrale Information dargestellt.
 
-Die FIB-weite Demonstrator-Logik liest vorhandene Beitrags- und Themenbeziehungen aus der gerenderten strukturierten Ausgabe. Für besonders geeignete Fälle können kuratierte Vertiefungen mit zusätzlichen Fach- und Rechtsquellen hinterlegt werden; R088 dient hierfür als Referenzfall.
+Die FIB-weite Demonstrator-Logik liest vorhandene Beitrags- und Themenbeziehungen aus der gerenderten strukturierten Ausgabe. Beim Öffnen einer Frage übergibt das Frontend Beitrag, vorhandene Quellen und relevanten FIB-Kontext an die Supabase Edge Function `fib-mehr-wissen`. Diese ruft die konfigurierte KI an und kann zusätzliche Webquellen recherchieren. API-Schlüssel werden niemals an den Browser ausgeliefert. R088 dient weiterhin als Referenzfall für besonders geeignete Anschlussfragen.
 
-Im Echtbetrieb sollen Fragen und Antworten aus dem persistenten FIB-Bestand, verknüpften FIB-Inhalten und freigegebenen externen Quellen erzeugt werden. Die fachlichen Regeln stehen in `docs/FIB_Mehr_wissen_Assistent.md`.
+Der Demonstrator erprobt damit bereits die für den Echtbetrieb vorgesehene Quellen- und Recherchelogik. Im Echtbetrieb sollen Kontextaufbau und Quellenfreigaben zusätzlich vollständig aus dem persistenten FIB-Bestand gesteuert werden. Die fachlichen Regeln stehen in `docs/FIB_Mehr_wissen_Assistent.md`.
 
 ## 8. Responsives Verhalten
 
