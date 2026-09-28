@@ -4,7 +4,7 @@
 
 | Version | Stand | Verantwortlich |
 |---|---|---|
-| 0.8 | 28.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
+| 0.9 | 28.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
 
 ## 1. Präambel
 
@@ -117,6 +117,16 @@ Dabei gilt:
 - Für reproduzierbare Tests kann die Variantenauswahl deterministisch erfolgen; dieselbe Karte erhält dann bei gleichem Datenstand dieselbe Formulierung.
 - Diese Regel ist **Anforderung an Demonstrator und Echtsystem**.
 
+### Vermeidung generischer Fragephrasen
+
+Fragen wie **„Wie funktioniert das eigentlich?“** sind nur zulässig, wenn der Beitrag tatsächlich einen erklärungsbedürftigen technischen, organisatorischen oder verfahrensbezogenen Mechanismus enthält. Als allgemeine Standardfrage sind solche Formulierungen ungeeignet.
+
+Bevorzugt wird eine Formulierung, die den konkreten Gegenstand nennt oder erkennbar auf ihn verweist, zum Beispiel:
+- „Welche Technik steckt hinter dem autonomen Shuttle?“
+- „Warum fällt für diesen Streckenabschnitt die Förderung weg?“
+- „Wofür wurde der ADFC-Zuschuss bisher eingesetzt?“
+- „Welche Rolle hat die Gemeinde bei diesem Bauvorhaben?“
+
 ### Anti-Redundanz-Regel
 
 „Mehr wissen?“ darf den sichtbaren Beitrag nicht lediglich wiederholen. Fragen wie **„Was ist der Kern dieser Meldung?“** oder **„Wie ist der Sachstand belegt?“** sind im Regelfall ungeeignet, wenn Beitragstext und Quellenliste diese Information bereits unmittelbar liefern.
@@ -140,6 +150,18 @@ Quellen werden im „Mehr wissen?“-Bereich nicht als bloße Linkliste behandel
 Mehrere Quellen sind besonders dann sinnvoll, wenn sie **unterschiedliche Funktionen** erfüllen. Eine größere Zahl gleichartiger Links ist kein Qualitätsmerkmal an sich.
 
 Bei Themen werden Quellen aus verschiedenen Zeitpunkten als **Themenkontext** gebündelt. Bei einer Antwort wird nur die Auswahl gezeigt, die für die konkrete Frage hilfreich ist.
+
+### Quellenpräzision bei Sammeldokumenten
+
+Bei Sammelquellen wie **Gemeindeblättern, Amtsblättern, Sitzungsunterlagen oder längeren PDF-Dokumenten** reicht ein bloßer Link auf das Gesamtdokument nicht aus, wenn daraus nur eine einzelne Passage als Beleg dient.
+
+Soweit technisch und inhaltlich möglich, soll FIB zusätzlich kenntlich machen:
+- Ausgabe bzw. Dokumenttitel,
+- Veröffentlichungsdatum,
+- konkrete Überschrift oder Abschnitt,
+- Seitenzahl bzw. Seitenbereich.
+
+Bloße technische Dateinamen wie `1576556_Ausgabe_2_2026.indd` sind keine geeignete öffentliche Quellenbezeichnung. Wenn eine genaue Fundstelle nicht belastbar identifiziert werden kann, soll die Quelle entweder verständlich als Sammeldokument bezeichnet oder durch eine präzisere Quelle ersetzt werden.
 
 ## 7. Trend-Kriterien als Suchscheinwerfer für Hintergrundfragen
 
@@ -245,6 +267,7 @@ Bis das Secret `OPENAI_API_KEY` gesetzt ist, ist die technische Strecke vorberei
 
 | Version | Datum | Änderung |
 |---|---|---|
+| 0.9 | 28.09.2026 | Generische Fragephrasen weiter eingeschränkt; Fragen sollen den konkreten Gegenstand benennen. Quellenpräzision für Gemeindeblätter, Amtsblätter und andere Sammeldokumente verbindlich ergänzt. |
 | 0.8 | 28.09.2026 | Neue Rechercheachse „Chancen, Innovation und Lerntransfer“ ergänzt. FIB prüft bei geeigneten Vorgängen, welche neuen Möglichkeiten entstehen, was Feldkirchen daraus lernen könnte und unter welchen Bedingungen eine Übertragung sinnvoll wäre. |
 | 0.7 | 28.09.2026 | Kontextprüfung vor Frageauswahl verbindlich ergänzt: Vorgangstyp, Rolle Feldkirchens, zeitliche Einordnung und Erkenntnislücke bestimmen die Frageachsen. Für den Echtbetrieb werden Fragen aus dem vollständigen Kontext erzeugt und persistent gespeichert; reine Schlagwort-Heuristik bleibt nur Demonstrator-Übergang. |
 | 0.6 | 28.09.2026 | Bürgernahe Frageformulierungen verbindlich eingeführt; fachliche Frageachsen bleiben intern stabil, sichtbare Formulierungen werden kontextabhängig variiert. Variationsregel gilt ausdrücklich auch für das Echtsystem. |
