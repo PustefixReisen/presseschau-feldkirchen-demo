@@ -4,7 +4,7 @@
 
 | Version | Stand | Verantwortlich |
 |---|---|---|
-| 0.8 | 28.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
+| 0.9 | 28.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
 
 ## 1. Zweck dieses Dokuments
 
@@ -774,6 +774,95 @@ Daher gilt:
 Instagram bleibt damit eine **optionale Nutzung vorhandener Inhalte**, aber kein Bestandteil des regulären FIB-Marketingprozesses.
 
 
+### 17.6 Kanäle: Veranstaltungen, Infostände und QR-Codes
+
+Veranstaltungen, Infostände und andere persönliche Kontakte im Ort sind für FIB vor allem ein **Bekanntmachungs- und Erstnutzungskanal**.
+
+Der zentrale Gedanke ist nicht, dort FIB ausführlich zu erklären, sondern Menschen mit einem **konkreten lokalen Informationsanlass** direkt zu einem passenden Beitrag oder zur FIB-Startseite zu führen.
+
+#### Veranstaltungen und offene Treffen
+
+Bei Veranstaltungen der GRÜNEN Feldkirchen kann FIB kurz vorgestellt oder thematisch eingebunden werden.
+
+Mögliche Situationen:
+- Offenes Treffen,
+- Informationsveranstaltung zu einem lokalen Thema,
+- Gesprächsrunde oder Workshop,
+- Wahlkampf- oder Bürgerveranstaltung, soweit FIB dort als Informationsangebot passend ist,
+- interne Vorstellung bei Mitgliedern oder Mandatsträgerinnen/Mandatsträgern.
+
+In der Startphase kann FIB einmal ausführlicher vorgestellt werden. Im Dauerbetrieb genügt normalerweise ein kurzer Hinweis auf passende Inhalte.
+
+**Beispiel:**  
+Bei einer Veranstaltung zur Bürgerbeteiligung wird nicht allgemein für FIB geworben, sondern auf den konkreten FIB-Themenverlauf „Bürgerbeteiligung und kommunale Mitwirkung“ verwiesen.
+
+#### Infostände
+
+Am Infostand eignet sich FIB als niedrigschwelliger digitaler Vertiefungskanal.
+
+Denkbar sind:
+- kleiner dauerhafter Hinweis „Feldkirchen im Blick“,
+- QR-Code zur FIB-Startseite,
+- bei aktuellen Schwerpunktthemen zusätzlicher QR-Code direkt zu einem Beitrag oder Thema,
+- kurze mündliche Erklärung durch das Standteam.
+
+Die Zahl der Materialien soll gering bleiben. Es soll **kein eigener umfangreicher FIB-Flyerbestand** entstehen, der regelmäßig aktualisiert werden muss.
+
+#### QR-Codes
+
+QR-Codes sind der technische Übergang vom persönlichen oder gedruckten Kontakt zu FIB.
+
+Es sollen mindestens zwei Formen unterstützt werden:
+
+1. **dauerhafter FIB-QR-Code**  
+   führt zur FIB-Startseite und kann auf wiederverwendbaren Materialien stehen.
+
+2. **themenspezifischer QR-Code**  
+   führt direkt zu einem Beitrag, Thema oder einer Kampagnenseite und kann für Veranstaltungen oder einzelne Aktionen erzeugt werden.
+
+Im Redaktionssystem soll deshalb eine Funktion vorgesehen werden:
+
+**„QR-Code für diesen Beitrag / dieses Thema erzeugen“**
+
+Der QR-Code soll auf eine stabile FIB-URL verweisen, damit gedruckte Materialien nicht durch technische Versionsparameter oder temporäre Links unbrauchbar werden.
+
+#### Zusammenspiel mit PWA und Bindung
+
+Wer über eine Veranstaltung oder einen QR-Code erstmals zu FIB kommt, soll dort bei erkennbarem Interesse später niedrigschwellig auf dauerhafte Nutzung hingewiesen werden können:
+
+- PWA installieren,
+- Web-Push aktivieren,
+- FIB-Newsletter abonnieren,
+- Mastodon-Account folgen.
+
+Der Offline-Kanal dient damit vor allem dem **Erstkontakt**; die dauerhafte Bindung erfolgt über FIB selbst.
+
+#### Aufwand und Automatisierung
+
+Der laufende Aufwand soll sehr gering bleiben.
+
+Das Redaktionssystem kann automatisch bereitstellen:
+- stabile Direktlinks,
+- QR-Code,
+- kurzer Veranstaltungsteaser,
+- Kurzbeschreibung von FIB,
+- gegebenenfalls druckfähige kleine Infokarte.
+
+Für Veranstaltungen oder Infostände soll kein eigenständiger redaktioneller Prozess entstehen.
+
+#### Erfolgsmessung
+
+Für bestimmte Aktionen können eigene datensparsame QR-Linkvarianten verwendet werden, damit aggregiert erkennbar wird, ob Zugriffe beispielsweise von:
+- einem Infostand,
+- einer Veranstaltung,
+- einem Flyer oder
+- einem thematischen Aushang
+
+stammen.
+
+Personenbezogenes Tracking ist dafür nicht erforderlich.
+
+
 ## 18. Weiterentwicklung, Umsetzung und Dokumentation
 
 FIB ist ein lernendes System. Änderungen an FIB sollen deshalb nicht nur umgesetzt, sondern – soweit für den späteren Betrieb relevant – im selben Arbeitsschritt dokumentiert werden.
@@ -889,6 +978,7 @@ Für Details gelten insbesondere:
 
 | Version | Datum | Änderung |
 |---|---|---|
+| 0.9 | 28.09.2026 | Veranstaltungen, Infostände und QR-Codes als gemeinsamer Offline-Erstkontaktkanal konkretisiert; stabile Direktlinks, QR-Erzeugung, geringe Materialpflege und datensparsame Herkunftsmessung vorgesehen. |
 | 0.8 | 28.09.2026 | Instagram bewusst nicht als regulären FIB-Kanal eingeplant; nur gelegentliche Nutzung vorhandener geeigneter Inhalte über den bestehenden OV-Account. |
 | 0.7 | 28.09.2026 | Mastodon konkretisiert: eigener FIB-Account derzeit bevorzugt, aber noch zu prüfen; automatisierte Teaser-/Veröffentlichungslogik bleibt vorgesehen. |
 | 0.6 | 28.09.2026 | Signal als optionalen Prüfkanal eingeordnet; PWA/Web Push als zentraler Bindungskanal mit Opt-in, Themen-/Frequenzpräferenzen, Rankingsteuerung und weitgehender Automatisierung konkretisiert. |
