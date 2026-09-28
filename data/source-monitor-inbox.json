@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-27T10:02:05+00:00",
+  "updated_at": "2026-09-28T10:57:37+00:00",
   "items": [
     {
       "event_key": "document:feldkirchen-parkraum-2026:https://www.feldkirchen.de/_Resources/Persistent/d/3/d/e/d3dee38ce3c4a9ad01384ca6ed314a2a8f8bcc12/2026%20Parkraumkonzept%20gem%20GR-Beschluss.pdf:4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
@@ -2784,6 +2784,86 @@
       "kind": "link_new",
       "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/ernst-mach-gymnasium-haar-startet-erstes-fortuna-festival-eintritt-frei-94508630.html",
       "link_text": "Ernst-Mach-Gymnasium Haar startet erstes Fortuna-Festival – Eintritt frei",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:feldkirchen-aktuelle-meldungen:https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/kiss-ride-parkplatz-am-hort-raiffeisenstr-8",
+      "detected_at": "2026-09-28T10:57:19+00:00",
+      "source_id": "feldkirchen-aktuelle-meldungen",
+      "source_name": "Gemeinde Feldkirchen – Aktuelle Meldungen",
+      "kind": "link_new",
+      "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/kiss-ride-parkplatz-am-hort-raiffeisenstr-8",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/pullach-ort29321/neue-freizeitstaette-pullachs-jugend-bekommt-eigenes-zuhause-94512281.html",
+      "detected_at": "2026-09-28T10:57:33+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/pullach-ort29321/neue-freizeitstaette-pullachs-jugend-bekommt-eigenes-zuhause-94512281.html",
+      "link_text": "Neue Freizeitstätte: Pullachs Jugend bekommt eigenes Zuhause",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/oberschleissheim-ort29202/crash-mit-vier-autos-auf-a99-bei-oberschleissheim-100-000-euro-schaden-94513717.html",
+      "detected_at": "2026-09-28T10:57:33+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/oberschleissheim-ort29202/crash-mit-vier-autos-auf-a99-bei-oberschleissheim-100-000-euro-schaden-94513717.html",
+      "link_text": "Crash mit vier Autos auf A99 – 100.000 Euro Schaden",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/oberhaching-ort29194/polizei-kassiert-ueber-1000-euro-bei-fahrradfahrern-in-oberhaching-ab-94513829.html",
+      "detected_at": "2026-09-28T10:57:33+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/oberhaching-ort29194/polizei-kassiert-ueber-1000-euro-bei-fahrradfahrern-in-oberhaching-ab-94513829.html",
+      "link_text": "Polizei kassiert über 1000 Euro bei Fahrradfahrern ab",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/gruenwald-ort28770/pride-week-am-gymnasium-gruenwald-kultusministerium-sieht-keinen-handlungsbedarf-94512545.html",
+      "detected_at": "2026-09-28T10:57:33+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/gruenwald-ort28770/pride-week-am-gymnasium-gruenwald-kultusministerium-sieht-keinen-handlungsbedarf-94512545.html",
+      "link_text": "Pride-Week am Gymnasium Grünwald: Kultusministerium sieht keinen Handlungsbedarf",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/ismaning-ort28863/zuhause-auf-zeit-93-bewohner-leben-im-uebergangswohnheim-in-ismaning-ein-besuch-94512537.html",
+      "detected_at": "2026-09-28T10:57:33+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/ismaning-ort28863/zuhause-auf-zeit-93-bewohner-leben-im-uebergangswohnheim-in-ismaning-ein-besuch-94512537.html",
+      "link_text": "Einst umstritten, jetzt bewohnt: 93 Bewohner im neuen Übergangswohnheim in Ismaning – Ein Besuch",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/sauerlach-ort117101/sauerlach-hat-31-millionen-euro-schulden-und-entlastet-neuen-buergermeister-94512551.html",
+      "detected_at": "2026-09-28T10:57:33+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/sauerlach-ort117101/sauerlach-hat-31-millionen-euro-schulden-und-entlastet-neuen-buergermeister-94512551.html",
+      "link_text": "Sauerlach hat 31 Millionen Euro Schulden",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/taufkirchen-bei-muenchen-ort486320/taufkirchen-verweigert-zustimmung-zum-regionalplan-brauchen-jeden-hektar-94512530.html",
+      "detected_at": "2026-09-28T10:57:33+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/taufkirchen-bei-muenchen-ort486320/taufkirchen-verweigert-zustimmung-zum-regionalplan-brauchen-jeden-hektar-94512530.html",
+      "link_text": "Taufkirchen verweigert Zustimmung zum Regionalplan: „Brauchen jeden Hektar\"",
       "status": "unprocessed"
     }
   ]
