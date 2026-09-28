@@ -4,7 +4,7 @@
 
 | Version | Stand | Verantwortlich |
 |---|---|---|
-| 1.6 | 28.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
+| 1.7 | 28.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
 
 ## 1. Zweck dieses Dokuments
 
@@ -628,7 +628,18 @@ Die vollständigen Regeln stehen in:
 
 `FIB_Marketing-und-Kommunikation.md`
 
-### 17.2 FIB-Postkarte
+### 17.2 Reichweite und Bindung
+
+Für FIB haben **Reichweite** und **Bindung** unterschiedliche Aufgaben:
+
+- **Reichweite** bedeutet: Menschen stoßen erstmals oder erneut auf FIB – etwa über Suchmaschinen, die GRÜNE Homepage, Newsletter, Mastodon, geteilte Links, Veranstaltungen oder QR-Codes.
+- **Bindung** bedeutet: Aus einem einzelnen Besuch entsteht freiwillige wiederkehrende Nutzung – etwa über PWA, „Neu seit letztem Besuch“, Web Push, Newsletter oder einen abonnierbaren Mastodon-Kanal.
+
+Beides gehört zusammen: Reichweite bringt Menschen **zu FIB**, Bindung sorgt dafür, dass interessierte Nutzerinnen und Nutzer **wiederkommen**, ohne dass jeder neue Beitrag erneut aktiv beworben werden muss.
+
+Für FIB ist deshalb nicht maximale Reichweite das Ziel. Entscheidend ist, ob relevante Feldkirchner Inhalte die richtigen Menschen erreichen und ob ein Teil von ihnen das Angebot dauerhaft nützlich findet.
+
+### 17.3 FIB-Postkarte
 
 **Vorderseite**
 
@@ -652,7 +663,7 @@ Abschluss:
 
 > Ein Informationsangebot von BÜNDNIS 90/DIE GRÜNEN Feldkirchen.
 
-### 17.3 FIB-Kärtchen
+### 17.4 FIB-Kärtchen
 
 **Vorderseite**
 
@@ -673,6 +684,28 @@ Abschluss:
 Optional klein:
 
 > Ein Informationsangebot von BÜNDNIS 90/DIE GRÜNEN Feldkirchen.
+
+### 17.5 Erfolgsmessung von Marketing und Bindung
+
+Marketing wird nicht als eigener Zahlenapparat bewertet, sondern gemeinsam mit der allgemeinen FIB-Erfolgskontrolle.
+
+Im Redaktionssystem soll das kompakte Dashboard insbesondere zeigen:
+
+- **woher Besuche kommen** – z. B. Suchmaschine, Homepage, Newsletter, Mastodon, QR-Code oder geteilter Link,
+- **welche Inhalte neue Nutzer erreichen**,
+- **welche Kanäle tatsächlich genutzt werden**,
+- **wie häufig Beiträge geteilt werden**,
+- **ob aus Erstbesuchen wiederkehrende Nutzung entsteht**,
+- **wie PWA, Web Push und Newsletter angenommen werden**,
+- **welche Maßnahmen viel Aufwand erzeugen, aber wenig Wirkung zeigen**.
+
+Die Auswertung folgt dem Prinzip **„small and simple“**. In den ersten drei bis sechs Monaten wird zunächst eine Baseline aufgebaut. Erst danach werden gegebenenfalls konkrete Zielwerte festgelegt.
+
+Die zentrale Frage lautet nicht „Wie groß ist unsere Reichweite?“, sondern:
+
+> **Erreichen wir mit vertretbarem Aufwand Menschen, für die FIB relevant ist – und kommen Interessierte freiwillig wieder?**
+
+Die detaillierte Erfolgskontrolle steht in Kapitel 16.
 
 ## 18. Weiterentwicklung, Umsetzung und Dokumentation
 
@@ -789,6 +822,7 @@ Für Details gelten insbesondere:
 
 | Version | Datum | Änderung |
 |---|---|---|
+| 1.7 | 28.09.2026 | Kapitel 17 ergänzt um Bedeutung von Reichweite und Bindung sowie kompakte Erfolgsmessung mit Bezug auf das FIB-Dashboard. |
 | 1.6 | 28.09.2026 | Marketingdetails in eigenes Primärdokument ausgelagert; Management Approach enthält nun vollständige Kanalübersicht sowie weiterhin den vollständigen Text von FIB-Postkarte und FIB-Kärtchen. |
 | 1.5 | 28.09.2026 | Dashboard-Prinzip konkretisiert: „small and simple“, automatisch erzeugt, im Redaktionssystem angezeigt und auf tatsächlich steuerungsrelevante Kennzahlen begrenzt. |
 | 1.4 | 28.09.2026 | Erfolgskontrolle konkretisiert: Reichweite, Vertiefung, Bindung, Nutzen, Qualität, Aufwand und Kosten mit Monatsdashboard, automatischer Kurzbewertung und quartalsweiser Steuerung beschrieben. |
