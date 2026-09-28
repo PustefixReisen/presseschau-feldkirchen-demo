@@ -4,7 +4,7 @@
 
 | Version | Stand | Verantwortlich |
 |---|---|---|
-| 0.5 | 28.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
+| 0.6 | 28.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
 
 ## 1. Zweck dieses Dokuments
 
@@ -636,7 +636,7 @@ Zu klären sind:
 - ob die maximale Gruppengröße ausreicht,
 - und ob eine technische Automatisierung des Versands sinnvoll bzw. zuverlässig möglich ist.
 
-Signal wird deshalb zunächst als **möglicher abonnierbarer Informationskanal mit organisatorischen Einschränkungen** geführt, nicht als bereits festgelegte technische Lösung.
+Signal wird deshalb zunächst mit **Fragezeichen / als optionaler Kanal** geführt. Voraussetzung wäre, dass Veröffentlichung und Administration mit vertretbarem Aufwand automatisierbar sind; andernfalls soll Signal nicht zu einem zusätzlichen manuellen Redaktionskanal werden.
 
 #### Mastodon
 
@@ -660,6 +660,99 @@ Es ist nicht mit dem abonnierbaren FIB-Kanal gleichzusetzen:
 - **Persönliches Teilen:** gezielte Weitergabe eines konkreten Beitrags von Person zu Person.
 
 Beide Wege ergänzen sich, erfüllen aber unterschiedliche Funktionen.
+
+
+### 17.4 Kanal: PWA und Web Push
+
+Web Push ist für FIB ein besonders wichtiger Bindungskanal, weil er **direkt aus FIB heraus** funktioniert und keinen externen Social-Media- oder Messenger-Account voraussetzt.
+
+Nutzerinnen und Nutzer sollen die FIB-PWA installieren und anschließend freiwillig Benachrichtigungen aktivieren können.
+
+#### Nutzungssituation
+
+Eine Person hat FIB bereits kennengelernt und möchte künftig nicht selbst regelmäßig nachsehen müssen, ob es neue relevante Inhalte gibt.
+
+Der gewünschte Weg ist:
+
+1. FIB kennenlernen,
+2. PWA installieren,
+3. Benachrichtigungen freiwillig aktivieren,
+4. gewünschte Themen und Häufigkeit auswählen,
+5. bei einer Benachrichtigung direkt zum betreffenden Beitrag gelangen.
+
+#### Präferenzen
+
+Soweit technisch sinnvoll, sollen Nutzerinnen und Nutzer ihre Benachrichtigungen steuern können.
+
+**Häufigkeit**
+- sofort bei neuen oder wesentlich aktualisierten Beiträgen,
+- tägliche Zusammenfassung,
+- wöchentliche Zusammenfassung,
+- nur besonders wichtige FIB-Aufmacher.
+
+**Inhalte**
+- alle Beiträge,
+- ausgewählte Kategorien,
+- ausgewählte länger laufende Themen,
+- gegebenenfalls nur Beiträge ab einer bestimmten Marketing-/Relevanzstufe.
+
+Damit soll Web Push nicht zu einer pauschalen Nachrichtenflut werden.
+
+#### Zusammenspiel mit dem Marketing-Ranking
+
+Das bestehende Marketing-/Verbreitungsranking kann auch für Push verwendet werden:
+
+- **0 – nicht aktiv teilen:** kein allgemeiner Push,
+- **1 – teilenswert:** nur bei passendem Themenabonnement,
+- **2 – aktiv verbreiten:** für passende Abonnentinnen und Abonnenten pushfähig,
+- **3 – FIB-Aufmacher:** grundsätzlich Kandidat für breitere Benachrichtigung.
+
+Die endgültige Regel wird im Echtbetrieb festgelegt. Das Ranking soll nicht automatisch jede redaktionelle Entscheidung ersetzen.
+
+#### Technische Grundidee
+
+Web Push benötigt im Echtsystem insbesondere:
+
+- installierbare PWA,
+- Service Worker,
+- Push-Abonnement des Endgeräts,
+- serverseitigen Versanddienst,
+- Speicherung des technischen Abonnements und der gewählten Präferenzen,
+- Möglichkeit zum Ändern und Beenden des Abonnements,
+- Behandlung ungültiger oder abgelaufener Push-Abonnements.
+
+Ein Benutzerkonto soll dafür **nicht zwingend erforderlich** sein. Präferenzen können grundsätzlich gerätebezogen gespeichert werden. Damit wäre die Nutzung bewusst niedrigschwellig.
+
+#### Datenschutz und Nutzerkontrolle
+
+Push ist ausschließlich **Opt-in**.
+
+FIB soll:
+- keine Benachrichtigungen ohne ausdrückliche Zustimmung aktivieren,
+- die gewählten Themen und Frequenzen transparent anzeigen,
+- eine einfache Deaktivierung ermöglichen,
+- nur die für den Versand notwendigen technischen Daten speichern,
+- und Benachrichtigungsdaten nicht für personenbezogene politische Profile verwenden.
+
+#### Redaktioneller Aufwand
+
+Der Kanal soll im Regelbetrieb weitgehend automatisch funktionieren:
+
+1. Beitrag wird freigegeben.
+2. System kennt Kategorie, Thema und Marketing-Ranking.
+3. Passende Push-Abonnements werden ermittelt.
+4. Push-Text wird automatisch erzeugt.
+5. Je nach Einstellung erfolgt Sofortversand oder Aufnahme in einen Digest.
+6. Redaktion muss nur bei besonderen Beiträgen oder Grenzfällen eingreifen.
+
+**Beispiel:**  
+Ein neuer Beitrag zur Hundewiese erhält Marketingstufe 2 und die Kategorie „Ortsentwicklung“. Wer „Ortsentwicklung – sofort“ abonniert hat, erhält eine Benachrichtigung mit direktem Link. Wer „wöchentlich“ gewählt hat, sieht den Beitrag erst im nächsten Wochenüberblick.
+
+#### Rolle im Marketing
+
+Web Push dient vor allem der **Bindung**, nicht der erstmaligen Bekanntmachung.
+
+Andere Kanäle – Homepage, geteilte Links, Newsletter oder Mastodon – bringen Menschen zunächst zu FIB. Web Push soll anschließend dafür sorgen, dass interessierte Nutzerinnen und Nutzer **freiwillig wiederkommen**, ohne selbst nach neuen Inhalten suchen zu müssen.
 
 
 ## 18. Weiterentwicklung, Umsetzung und Dokumentation
@@ -777,6 +870,7 @@ Für Details gelten insbesondere:
 
 | Version | Datum | Änderung |
 |---|---|---|
+| 0.6 | 28.09.2026 | Signal als optionalen Prüfkanal eingeordnet; PWA/Web Push als zentraler Bindungskanal mit Opt-in, Themen-/Frequenzpräferenzen, Rankingsteuerung und weitgehender Automatisierung konkretisiert. |
 | 0.5 | 28.09.2026 | Messenger-/Social-Kanäle konkretisiert: Signal und Mastodon werden als eigene FIB-Kanäle geprüft; persönliches Teilen bleibt separate UI-Funktion. |
 | 0.4 | 28.09.2026 | Marketingkanäle konkretisiert: Homepage-Karte mit Ranking sowie Newsletter-Teaserfunktion und eigener abonnierbarer FIB-Newsletter mit Themen-/Frequenzpräferenzen. |
 | 0.3 | 28.09.2026 | Marketingziel ergänzt: freiwillige Bindung durch PWA-Installation sowie optionale Web-Push- und Messenger-/Broadcast-Benachrichtigungen. |
