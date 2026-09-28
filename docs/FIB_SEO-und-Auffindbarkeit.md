@@ -4,7 +4,7 @@
 
 | Version | Stand | Verantwortlich |
 |---|---|---|
-| 0.1 | 28.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
+| 0.2 | 28.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
 
 ## 1. Zweck
 
@@ -388,7 +388,183 @@ Damit kann FIB auch bei Ausfall oder Wechsel der KI weiterhin formal korrekt pub
 
 ---
 
-## 6. Gestalterischer Bezug der Landing Page
+## 6. Schritt C – Technische SEO-Umsetzung
+
+Die folgenden Regeln sind technische Anforderungen an das Echtsystem und sollen ohne Abhängigkeit von einer KI-API funktionieren.
+
+### 6.1 XML-Sitemap
+
+FIB erzeugt automatisch eine XML-Sitemap mit allen indexierbaren öffentlichen Seiten.
+
+Aufgenommen werden insbesondere:
+
+- Landing Page,
+- Themenseiten,
+- Beiträge,
+- indexierbare Sitzungsseiten.
+
+Nicht aufgenommen werden:
+
+- interne Redaktionsseiten,
+- technische Hilfsseiten,
+- Druckansichten,
+- Such- und Filterkombinationen ohne eigenen Informationswert,
+- temporäre Vorschau- oder Testseiten.
+
+Die Sitemap wird bei neuen, geänderten oder entfernten öffentlichen Seiten automatisch aktualisiert.
+
+### 6.2 robots.txt
+
+Das Echtsystem stellt eine `robots.txt` bereit.
+
+Sie dient insbesondere dazu:
+
+- öffentliche Inhalte für Suchmaschinen zugänglich zu machen,
+- interne oder technische Bereiche auszuschließen,
+- auf die XML-Sitemap zu verweisen.
+
+Die robots-Datei ersetzt keine Zugriffskontrolle. Nichtöffentliche Inhalte müssen technisch geschützt sein und dürfen nicht nur über `robots.txt` verborgen werden.
+
+### 6.3 Index- und Noindex-Regeln
+
+Indexierbar sind grundsätzlich:
+
+- Landing Page,
+- Themenseiten,
+- Beiträge,
+- öffentliche Sitzungsseiten mit eigenständigem Informationswert.
+
+Nicht indexierbar sind grundsätzlich:
+
+- Login-/Redaktionsseiten,
+- Vorschauansichten,
+- technische API-/Systemseiten,
+- Filter- und Suchergebnisse,
+- Druckansichten,
+- leere oder inhaltlich zu dünne Hilfsseiten,
+- Duplikate derselben fachlichen Seite.
+
+Die Entscheidung soll über den Seitentyp und technische Regeln erfolgen, nicht durch spontane KI-Bewertung.
+
+### 6.4 Canonical-Implementierung
+
+Jede indexierbare Seite erhält technisch eine eindeutige Canonical-URL.
+
+Regeln:
+
+- Parameter- oder Share-Varianten zeigen auf die fachliche Haupt-URL.
+- Druckansichten zeigen auf die normale öffentliche Seite.
+- Filteransichten zeigen nicht auf sich selbst, wenn sie keine eigenständige Ressource darstellen.
+- Bei URL-Änderungen wird die neue Zielseite als Canonical verwendet und die alte URL weitergeleitet.
+- Canonical-Tags dürfen nicht widersprüchlich zur Sitemap oder zu internen Links sein.
+
+### 6.5 Weiterleitungen
+
+Öffentliche URLs sollen möglichst stabil bleiben.
+
+Wenn eine URL dennoch geändert wird:
+
+- alte URL erhält eine dauerhafte Weiterleitung auf die neue URL,
+- interne Links werden auf die neue URL aktualisiert,
+- Sitemap enthält nur die neue URL,
+- Canonical verweist nur auf die neue URL.
+
+Ziel ist, externe Links, geteilte Links und Suchmaschinenhistorie nicht zu verlieren.
+
+### 6.6 Strukturierte Daten
+
+Strukturierte Daten werden server- bzw. generatorseitig aus dem Seitentyp und den gespeicherten Pflichtfeldern erzeugt.
+
+Vorgesehen sind:
+
+- `WebSite` für FIB insgesamt,
+- `Organization` für den Absender,
+- `Article` oder `NewsArticle` für Beiträge,
+- `CollectionPage` bzw. `WebPage` für Themenseiten,
+- `BreadcrumbList` für die Seitennavigation,
+- `Event` für Sitzungen nur dann, wenn die erforderlichen sichtbaren Angaben tatsächlich vorhanden sind.
+
+Regel: Strukturierte Daten dürfen keine Informationen enthalten, die auf der sichtbaren Seite nicht belegt oder widersprüchlich sind.
+
+### 6.7 Open Graph und Social Preview
+
+Für alle öffentlichen Seiten werden technisch erzeugt:
+
+- `og:title`,
+- `og:description`,
+- `og:url`,
+- `og:type`,
+- `og:image`, sofern vorhanden,
+- entsprechende Twitter-/Card-Metadaten nur soweit technisch sinnvoll.
+
+Wenn ein Beitrag kein geeignetes Bild besitzt, wird ein neutrales FIB-Standardmotiv verwendet. Damit funktionieren Linkvorschauen auch bei textbasierten Beiträgen zuverlässig.
+
+### 6.8 Technische SEO-Prüfungen
+
+Vor Veröffentlichung beziehungsweise im regelmäßigen Systemcheck sollen automatisiert geprüft werden:
+
+- genau eine H1,
+- Seitentitel vorhanden,
+- Meta-Description vorhanden,
+- Canonical vorhanden und plausibel,
+- index/noindex passend zum Seitentyp,
+- keine tote interne Verlinkung,
+- keine doppelte öffentliche URL für dieselbe Ressource,
+- strukturierte Daten syntaktisch gültig,
+- Sitemap enthält die Seite genau dann, wenn sie indexierbar ist,
+- Open-Graph-Daten vollständig genug für eine brauchbare Vorschau.
+
+Fehler werden im Redaktions-/Adminbereich als technische Hinweise ausgegeben.
+
+### 6.9 Technische Rollenverteilung
+
+**Automatisch durch das System:**
+- Sitemap,
+- robots.txt,
+- Canonical,
+- strukturierte Daten,
+- Open Graph,
+- index/noindex,
+- Redirects,
+- technische Prüfungen.
+
+**Redaktionell beeinflussbar:**
+- sprachlicher Seitentitel,
+- Meta-Description,
+- Auswahl eines geeigneten Beitragsbilds,
+- Entscheidung, ob eine Seite fachlich überhaupt veröffentlicht werden soll.
+
+### 6.10 Suchmaschinen-Monitoring
+
+Für den Echtbetrieb soll die Website bei der **Google Search Console** angemeldet werden. Optional kann zusätzlich ein weiteres Suchmaschinen-Webmaster-Tool genutzt werden.
+
+Erfasst werden sollen mindestens:
+
+- welche Seiten indexiert sind,
+- welche Suchanfragen zu FIB führen,
+- welche Seiten als Einstieg dienen,
+- Klicks und Impressionen,
+- technische Indexierungsfehler,
+- Probleme mit Sitemap oder strukturierten Daten.
+
+Diese Daten fließen in die Erfolgskontrolle ein, ohne personenbezogene Nutzerprofile aufzubauen.
+
+### 6.11 Abnahmekriterien für den Echtbetrieb
+
+Vor Go-live soll technisch nachgewiesen sein:
+
+- XML-Sitemap erreichbar und aktuell,
+- `robots.txt` korrekt,
+- alle öffentlichen Seitentypen haben funktionierende Canonicals,
+- index/noindex-Regeln sind getestet,
+- Redirects funktionieren,
+- strukturierte Daten sind technisch valide,
+- Open-Graph-Vorschauen funktionieren,
+- interne Links enthalten keine systematischen Fehler,
+- Search Console kann die Sitemap erfolgreich verarbeiten.
+
+
+## 7. Gestalterischer Bezug der Landing Page
 
 Die Landing Page soll den bereits für Postkarte und FIB-Kärtchen vorgesehenen visuellen Stil aufnehmen:
 
@@ -402,11 +578,10 @@ SEO und Gestaltung werden dabei getrennt behandelt: Der visuelle Einstieg darf d
 
 ---
 
-## 7. Nächste Schritte
+## 8. Nächste Schritte
 
 Nach Schritt B folgen:
 
-- **Schritt C:** technische SEO-Bausteine – Sitemap, robots/index/noindex, Canonical-Implementierung, strukturierte Daten und technische Prüfungen,
 - **Schritt D:** redaktionelle SEO-Regeln – gute Überschriften, Ortsbezug, Themenverlinkung, Aktualisierung statt Dubletten,
 - **Schritt E:** Erfolgsmessung – Search Console, Suchanfragen, Einstiegsseiten und Entwicklung der Auffindbarkeit.
 
@@ -416,4 +591,5 @@ Nach Schritt B folgen:
 
 | Version | Datum | Änderung |
 |---|---|---|
+| 0.2 | 28.09.2026 | Schritt C ergänzt: XML-Sitemap, robots.txt, Indexierungsregeln, Canonical-Implementierung, Redirects, strukturierte Daten, Social-Metadaten, technische Prüfungen und Search-Console-Abnahme definiert. |
 | 0.1 | 28.09.2026 | Erstfassung: SEO-Ziel, Seitentypen und kanonische Seitenlogik aus dem Management Approach übernommen; Schritt B mit verbindlichen Onpage-Standards ergänzt. |
