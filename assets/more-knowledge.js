@@ -140,8 +140,7 @@
         id,
         label,
         answer:[
-          'Diese Frage geht bewusst über die Meldung selbst hinaus. Sie ist als Hintergrund-Recherchepfad vorgesehen: '+focus,
-          'Im Demonstrator wird eine solche Vertiefung nur dann als fertige Sachantwort veröffentlicht, wenn dafür zusätzliche belastbare Fach-, Rechts-, Wissenschafts- oder Praxisquellen vorliegen. Fehlen sie, bleibt die Frage als Recherchebedarf kenntlich statt mit allgemeinem Modellwissen beantwortet zu werden.'
+          'Diese Frage geht bewusst über die Meldung selbst hinaus: '+focus
         ],
         sources:[]
       });
@@ -249,29 +248,85 @@
     return q.slice(0,5);
   }
 
+  const AI_ENDPOINT='https://apaubomxffcwtzjimori.supabase.co/functions/v1/fib-mehr-wissen';
+
+  function apiContext(card){
+    const sourceLinks=Array.from(card.querySelectorAll(':scope > .sources a, :scope > details .sources a')).slice(0,16);
+    const details=Array.from(card.querySelectorAll(':scope > details')).map(d=>text(d)).filter(Boolean).join('\n');
+    return {
+      title:text(card.querySelector('h3')),
+      contributionText:[
+        ...bodyParagraphs(card),
+        details
+      ].filter(Boolean).join('\n\n').slice(0,14000),
+      significance:significance(card).slice(0,4000),
+      existingSources:sourceLinks.map(a=>({name:text(a),url:a.href}))
+    };
+  }
+
+  async function askAI(card,question){
+    const response=await fetch(AI_ENDPOINT,{
+      method:'POST',
+      headers:{'Content-Type':'application/json'},
+      body:JSON.stringify({...apiContext(card),question})
+    });
+    let data={};
+    try{data=await response.json();}catch(_){}
+    if(!response.ok){
+      const err=new Error(data.message||data.error||('HTTP '+response.status));
+      err.code=data.error||'REQUEST_FAILED';
+      throw err;
+    }
+    return data;
+  }
+
+  function renderAIResult(question,data){
+    const body=dialog.querySelector('.more-knowledge-dialog-content');
+    const paragraphs=String(data.answer||'').split(/\n\s*\n/).map(x=>x.trim()).filter(Boolean);
+    const sources=Array.isArray(data.sources)?data.sources:[];
+    body.innerHTML='<div class="minor">Mehr wissen?</div><h3>'+htmlEscape(question)+'</h3>'+
+      paragraphs.map(p=>'<p>'+htmlEscape(p)+'</p>').join('')+
+      (sources.length?'<h4>Quellen und ihre Funktion</h4><ul class="sources more-knowledge-sources">'+sources.map(s=>sourceHtml({role:'context',name:s.title||s.url,url:s.url,displayRole:s.role})).join('')+'</ul>':'')+
+      '<p class="minor">KI-generierte Vertiefungsantwort. Sie wurde für diese Frage automatisch recherchiert und nicht zwingend vorab redaktionell geprüft. Maßgeblich bleiben die verlinkten Quellen.</p>';
+    // API liefert bereits sprechende Rollenbezeichnungen.
+    Array.from(body.querySelectorAll('.more-knowledge-source-role')).forEach((el,i)=>{
+      if(sources[i]&&sources[i].role)el.textContent=sources[i].role;
+    });
+  }
+
+  async function runAIQuestion(card,question){
+    const body=dialog.querySelector('.more-knowledge-dialog-content');
+    body.innerHTML='<div class="minor">Mehr wissen?</div><h3>'+htmlEscape(question)+'</h3><p class="more-knowledge-loading">FIB recherchiert Hintergrundinformationen und prüft Quellen …</p>';
+    if(typeof dialog.showModal==='function'&&!dialog.open)dialog.showModal(); else if(!dialog.open)dialog.setAttribute('open','');
+    try{
+      const data=await askAI(card,question);
+      renderAIResult(question,data);
+    }catch(err){
+      let msg='Die Vertiefungsantwort konnte gerade nicht erzeugt werden.';
+      if(err&&err.code==='OPENAI_NOT_CONFIGURED')msg='Die KI-Anbindung ist vorbereitet; der OpenAI-API-Schlüssel muss noch als Secret hinterlegt werden.';
+      if(err&&err.code==='DAILY_LIMIT_REACHED')msg='Das tägliche Testlimit für KI-Antworten ist erreicht.';
+      body.innerHTML='<div class="minor">Mehr wissen?</div><h3>'+htmlEscape(question)+'</h3><p>'+htmlEscape(msg)+'</p>';
+    }
+  }
+
   const dialog=document.createElement('dialog');
   dialog.className='more-knowledge-dialog';
   dialog.innerHTML='<div class="more-knowledge-dialog-inner"><button class="more-knowledge-close" type="button" aria-label="Dialog schließen">×</button><div class="more-knowledge-dialog-content"></div></div>';
   document.body.appendChild(dialog);
   let activeCard=null;
 
-  function openQuestion(q){
-    const body=dialog.querySelector('.more-knowledge-dialog-content');
-    body.innerHTML='<div class="minor">Mehr wissen?</div><h3>'+htmlEscape(q.label)+'</h3>'+
-      q.answer.map(p=>'<p>'+htmlEscape(p)+'</p>').join('')+
-      (q.sources&&q.sources.length?'<h4>Quellen und ihre Funktion</h4><ul class="sources more-knowledge-sources">'+q.sources.map(sourceHtml).join('')+'</ul>':'')+
-      '<p class="minor">Demonstrator: Die Antwort ist aus dem geprüften FIB-Kontext bzw. – bei besonders vertieften Fragen – aus ausdrücklich hinterlegten Fachquellen aufgebaut. Im Echtbetrieb soll der FIB-Assistent diese Quellenlogik dynamisch anwenden.</p>';
-    if(typeof dialog.showModal==='function')dialog.showModal(); else dialog.setAttribute('open','');
+  function openQuestion(q,card){
+    runAIQuestion(card,q.label);
   }
   function openOwnQuestion(card){
     activeCard=card;
     const body=dialog.querySelector('.more-knowledge-dialog-content');
     body.innerHTML='<div class="minor">Mehr wissen?</div><h3>Eigene Frage stellen</h3>'+
-      '<p>Im Echtbetrieb kannst du hier eine Frage zu diesem Beitrag oder Thema und seinem sachlichen Umfeld stellen.</p>'+
+      '<p>Stelle eine Frage zu diesem Beitrag oder Thema. FIB kann dafür zusätzliche Hintergrundquellen recherchieren.</p>'+
       '<label class="more-knowledge-label" for="more-knowledge-input">Deine Frage</label>'+
       '<textarea id="more-knowledge-input" rows="4" placeholder="'+htmlEscape(ownQuestionPlaceholder(card))+'"></textarea>'+
       '<button type="button" class="button-link more-knowledge-prototype-submit">Frage stellen</button>'+
-      '<p class="minor">Im Demonstrator ist noch keine KI-API angeschlossen. Das Eingabefeld dient zur Erprobung des Lese- und Bedienkonzepts.</p>';
+      '<p class="minor">Die Antwort wird im Demonstrator über die angebundene KI erzeugt und kann zusätzliche Webquellen heranziehen.</p>';
     if(typeof dialog.showModal==='function')dialog.showModal(); else dialog.setAttribute('open','');
   }
   function install(card,questions){
@@ -295,7 +350,7 @@
     });
     section.addEventListener('click',event=>{
       const b=event.target.closest('.more-knowledge-question');
-      if(b){openQuestion(questions[Number(b.dataset.questionIndex)]);return;}
+      if(b){openQuestion(questions[Number(b.dataset.questionIndex)],card);return;}
       if(event.target.closest('.more-knowledge-own'))openOwnQuestion(card);
     });
   }
@@ -309,13 +364,7 @@
     else if(event.target.closest('.more-knowledge-prototype-submit')){
       const input=dialog.querySelector('#more-knowledge-input');
       const value=input?input.value.trim():'';
-      if(value){
-        const note=document.createElement('p');
-        note.className='minor more-knowledge-prototype-note';
-        note.textContent='Die Frage ist erfasst, wird im Demonstrator aber noch nicht an eine KI übertragen.';
-        event.target.insertAdjacentElement('afterend',note);
-        event.target.disabled=true;
-      }
+      if(value&&activeCard)runAIQuestion(activeCard,value);
     }
   });
 })();
