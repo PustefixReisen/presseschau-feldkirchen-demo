@@ -4,7 +4,7 @@
 
 | Version | Stand | Verantwortlich |
 |---|---|---|
-| 0.4 | 27.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
+| 0.5 | 28.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
 
 ## 1. Präambel
 
@@ -22,11 +22,12 @@ Der Prototyp enthält:
 - Quellen zu den Antworten,
 - eine sichtbare Kennzeichnung der **Funktion einer Quelle**,
 - ein Eingabefeld für eine eigene Frage,
-- noch **keine** angebundene KI-API.
+- eine angebundene KI-API über eine Supabase Edge Function,
+- zusätzliche Webrecherche für Hintergrundantworten mit sichtbaren Quellen.
 
 Die Logik gilt für den gesamten aktuellen FIB-Bestand aus **Beiträgen und Themen**. Sie erzeugt nicht für jede Karte dieselbe Standardliste. Fragen werden nur angeboten, wenn der vorhandene FIB-Kontext einen erkennbaren zusätzlichen Erkenntnisweg trägt. Sitzungskarten bleiben zunächst Kontext- und Quellenlieferant; sie erhalten im Demonstrator keinen eigenen „Mehr wissen?“-Block.
 
-Damit wird zunächst das Lese-, Quellen- und Bedienkonzept getestet.
+Damit wird nicht nur das Lese-, Quellen- und Bedienkonzept getestet. Der Demonstrator dient nun auch als **funktionales Testsystem für KI-Recherche, Quellenwahl und Antwortqualität**.
 
 ## 3. Arten von Zusatzwissen
 
@@ -106,16 +107,18 @@ Diese Perspektiven sind **Rechercheachsen**, keine zusätzlichen öffentlichen K
 
 ## 8. FIB-weite adaptive Fragenlogik
 
-Der Demonstrator verwendet zwei Ebenen:
+Der Demonstrator verwendet zwei Ebenen für die Auswahl sinnvoller Fragen:
 
-1. **Allgemeine adaptive Vertiefung:** Aus dem bereits geprüften FIB-Bestand werden je nach Karte Fragen zu Kern, Verlauf, Themenzusammenhang, lokaler Bedeutung, offenen Fragen und Quellenlage angeboten.
-2. **Kuratiertes Fachwissen:** Für besonders geeignete Fälle können zusätzliche Fragen und externe Fach-, Rechts- oder Praxisquellen ausdrücklich hinterlegt werden. R088 ist dafür der Referenzfall.
+1. **Allgemeine adaptive Vertiefung:** Aus Beitrag, Thema und Analyseperspektiven werden Hintergrundfragen ausgewählt, die gegenüber dem sichtbaren Text einen zusätzlichen Erkenntnisweg eröffnen.
+2. **Kuratiertes Fachwissen:** Für besonders geeignete Fälle können zusätzliche Fragen ausdrücklich vorbereitet werden. R088 bleibt dafür Referenzfall.
+
+Beim Öffnen einer Frage wird die Antwort im Demonstrator **dynamisch über die KI-Anbindung erzeugt**. Der FIB-Kontext und vorhandene Quellen werden mitgegeben; für zusätzlichen Hintergrund kann die KI Webrecherche einsetzen.
 
 Die Mehrwert-Schwelle bleibt verbindlich. Ein kurzer Einzelhinweis ohne Verlauf, Zusammenhang, zusätzliche Quellen oder erklärungsbedürftigen Sachverhalt muss keinen „Mehr wissen?“-Bereich erhalten.
 
-## 9. FIB-Kontextpaket für den Echtbetrieb
+## 9. FIB-Kontextpaket und Demonstrator-Anbindung
 
-Eine spätere KI-Antwort soll nicht aus allgemeinem Modellwissen allein erzeugt werden. Sie erhält ein strukturiertes Kontextpaket mit:
+Eine KI-Antwort soll nicht aus allgemeinem Modellwissen allein erzeugt werden. Der Demonstrator übergibt bereits ein Kontextpaket mit:
 - aktuellem Beitrag oder Thema,
 - angegebenen Quellen,
 - zugehörigen früheren FIB-Beiträgen,
@@ -144,7 +147,7 @@ Vorgeschlagene Fragen:
 4. Was unterscheidet Testbetrieb und Regelbetrieb?
 5. Welche Rolle könnten autonome Fahrzeuge im ÖPNV spielen?
 
-Das freie Fragefeld ist im Demonstrator nur eine UI-Erprobung. Die Eingabe wird noch nicht an eine KI übertragen.
+Das freie Fragefeld ist im Demonstrator funktional angebunden. Die Eingabe wird an dieselbe KI-Schnittstelle wie die vorgeschlagenen Fragen übertragen.
 
 ## 12. Qualitätstest für KI-Anbindungen
 
@@ -154,7 +157,7 @@ Für einen fairen Vergleich erhalten die Modelle denselben Testfall, denselben I
 
 ## 13. Noch offene Entscheidungen
 
-Vor einer Umsetzung im Echtbetrieb sind insbesondere zu klären:
+Für die Weiterentwicklung von Demonstrator und Echtbetrieb sind insbesondere zu klären:
 - zugelassene externe Quellen,
 - Aktualitätsprüfung,
 - Antwortlänge und Vertiefungsstufen,
@@ -170,9 +173,24 @@ Vor einer Umsetzung im Echtbetrieb sind insbesondere zu klären:
 
 Wenn eine Nutzerfrage im Echtbetrieb ausdrücklich nach der grünen Bewertung fragt, muss die Antwort diese Ebene klar als politische Einordnung kennzeichnen und aus den dafür freigegebenen politischen Referenzquellen ableiten.
 
+## Technischer Demonstratorstand
+
+Stand 28.09.2026:
+
+- Frontend: statische GitHub-Pages-Seite,
+- KI-Gateway: Supabase Edge Function `fib-mehr-wissen` im Projekt **Shared-Apps**,
+- OpenAI Responses API mit Websuche,
+- Referenzmodell initial: **GPT-6 Luna**, technisch austauschbar,
+- OpenAI-Schlüssel ausschließlich serverseitig als Supabase-Secret `OPENAI_API_KEY`,
+- globales Demonstrator-Limit zunächst **60 KI-Anfragen pro Tag**,
+- keine Speicherung von IP-Adressen oder Nutzerfragen für das Nutzungslimit.
+
+Bis das Secret `OPENAI_API_KEY` gesetzt ist, ist die technische Strecke vorbereitet, aber die OpenAI-Antworterzeugung noch nicht aktiv.
+
 ## Änderungshistorie
 
 | Version | Datum | Änderung |
 |---|---|---|
+| 0.5 | 28.09.2026 | Demonstrator an echte KI-Recherche angebunden: Supabase Edge Function als geschütztes Gateway, OpenAI Responses API mit Websuche, freie Fragen und vorgeschlagene Fragen dynamisch; tägliches Testlimit ergänzt. |
 | 0.4 | 27.09.2026 | Fragenlogik nach Nutzerfeedback geschärft: redundante Kern-/Belegfragen als Standard entfernt; technische, rechtliche, gesellschaftliche, ökologische und wirtschaftliche Hintergrundachsen sowie Reifegrad, Vergleich und Übertragbarkeit aus der früheren Trendlogik übernommen. |\n| 0.3 | 27.09.2026 | FIB-weite Umsetzung für Beiträge und Themen; adaptive Fragenlogik, Mehrwert-Schwelle und funktionale Quellenrollen verbindlich ergänzt; R088 bleibt kuratierter Referenzfall. |\n| 0.2 | 27.09.2026 | Prototyp erweitert: Anzahl der Fragen nicht künstlich begrenzt; mehrere funktional unterschiedliche Quellen je Antwort ausdrücklich vorgesehen; Testfall R088 auf fünf Fragen erweitert. |
 | 0.1 | 27.09.2026 | Fachlicher Prototyp „Mehr wissen?“ angelegt; Präambel, Mehrwert-Schwelle, Fragetypen, Kontextpaket und Qualitätsregeln dokumentiert. |
