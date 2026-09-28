@@ -4,7 +4,7 @@
 
 | Version | Stand | Verantwortlich |
 |---|---|---|
-| 1.7 | 28.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
+| 1.8 | 28.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
 
 ## 1. Zweck dieses Dokuments
 
@@ -632,7 +632,7 @@ Die vollständigen Regeln stehen in:
 
 Für FIB haben **Reichweite** und **Bindung** unterschiedliche Aufgaben:
 
-- **Reichweite** bedeutet: Menschen stoßen erstmals oder erneut auf FIB – etwa über Suchmaschinen, die GRÜNE Homepage, Newsletter, Mastodon, geteilte Links, Veranstaltungen oder QR-Codes.
+- **Reichweite** bedeutet: Menschen stoßen erstmals oder erneut auf FIB – etwa über Suchmaschinen, die GRÜNE Homepage, Newsletter, Mastodon, geteilte Links, Veranstaltungen, QR-Codes, persönliche Gespräche sowie gezielte persönliche Kontakte zu Multiplikatoren wie Vereinen, Initiativen und anderen örtlichen Akteuren.
 - **Bindung** bedeutet: Aus einem einzelnen Besuch entsteht freiwillige wiederkehrende Nutzung – etwa über PWA, „Neu seit letztem Besuch“, Web Push, Newsletter oder einen abonnierbaren Mastodon-Kanal.
 
 Beides gehört zusammen: Reichweite bringt Menschen **zu FIB**, Bindung sorgt dafür, dass interessierte Nutzerinnen und Nutzer **wiederkommen**, ohne dass jeder neue Beitrag erneut aktiv beworben werden muss.
@@ -822,6 +822,7 @@ Für Details gelten insbesondere:
 
 | Version | Datum | Änderung |
 |---|---|---|
+| 1.8 | 28.09.2026 | Reichweitenbegriff erweitert: persönliche Gespräche und gezielte Kontakte zu Multiplikatoren wie Vereinen, Initiativen und örtlichen Akteuren ausdrücklich aufgenommen. |
 | 1.7 | 28.09.2026 | Kapitel 17 ergänzt um Bedeutung von Reichweite und Bindung sowie kompakte Erfolgsmessung mit Bezug auf das FIB-Dashboard. |
 | 1.6 | 28.09.2026 | Marketingdetails in eigenes Primärdokument ausgelagert; Management Approach enthält nun vollständige Kanalübersicht sowie weiterhin den vollständigen Text von FIB-Postkarte und FIB-Kärtchen. |
 | 1.5 | 28.09.2026 | Dashboard-Prinzip konkretisiert: „small and simple“, automatisch erzeugt, im Redaktionssystem angezeigt und auf tatsächlich steuerungsrelevante Kennzahlen begrenzt. |
