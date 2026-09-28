@@ -4,7 +4,7 @@
 
 | Version | Stand | Verantwortlich |
 |---|---|---|
-| 0.4 | 28.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
+| 0.5 | 28.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
 
 ## 1. Zweck dieses Dokuments
 
@@ -619,6 +619,49 @@ Der Versand soll möglichst stark automatisiert werden:
 Für besonders sensible oder politisch zugespitzte Inhalte kann optional eine redaktionelle Freigabe des Newsletter-Teasers vorgesehen werden.
 
 
+### 17.3 Kanal: Signal und Mastodon
+
+Für einen eigenen FIB-Kommunikationskanal sollen **Signal und Mastodon** vorrangig geprüft werden. Das bereits vereinbarte **persönliche Teilen einzelner Beiträge** bleibt davon getrennt und ist Bestandteil der FIB-Benutzeroberfläche.
+
+#### Signal
+
+Signal bietet derzeit keinen frei anlegbaren öffentlichen Einweg-Kanal nach dem Muster eines WhatsApp-Kanals. Für Organisationen steht praktisch die **Gruppenfunktion** zur Verfügung. Gruppen können per Link oder QR-Code beigetreten werden; Administratoren können festlegen, wer Nachrichten senden darf. Signal unterstützt bis zu 1.000 Mitglieder pro Gruppe.
+
+Für FIB wäre deshalb ein **moderierter Ankündigungsraum** denkbar, in dem nur Administratorinnen/Administratoren schreiben dürfen.
+
+Zu klären sind:
+- ob eine Signal-Gruppe organisatorisch als öffentlicher FIB-Kanal gewollt ist,
+- wer die Gruppenadministration übernimmt,
+- wie Beitritt, Austritt und Moderation gehandhabt werden,
+- ob die maximale Gruppengröße ausreicht,
+- und ob eine technische Automatisierung des Versands sinnvoll bzw. zuverlässig möglich ist.
+
+Signal wird deshalb zunächst als **möglicher abonnierbarer Informationskanal mit organisatorischen Einschränkungen** geführt, nicht als bereits festgelegte technische Lösung.
+
+#### Mastodon
+
+Mastodon eignet sich technisch als öffentlicher, abonnierbarer FIB-Kanal. Nutzerinnen und Nutzer können einem FIB-Account folgen; Beiträge erscheinen im Feed. Mastodon ist quelloffen, föderiert und verfügt über eine offene API, sodass FIB-Beiträge grundsätzlich automatisiert veröffentlicht werden können.
+
+Für FIB soll geprüft werden:
+- eigener FIB-Account oder Nutzung eines bestehenden OV-Accounts,
+- automatisches Veröffentlichen ab einer definierten Marketingstufe,
+- Teaser + direkter Link zum FIB-Beitrag,
+- Kennzeichnung von Aktualisierungen,
+- Umgang mit Antworten und Moderation,
+- Auswertung von Reichweite und Weiterverbreitung, soweit datensparsam verfügbar.
+
+#### Persönliches Teilen bleibt eigene Funktion
+
+Das persönliche Teilen einzelner FIB-Beiträge per Signal, WhatsApp, E-Mail, Mastodon oder anderen unterstützten Apps bleibt eine **UI-Funktion des einzelnen Beitrags**.
+
+Es ist nicht mit dem abonnierbaren FIB-Kanal gleichzusetzen:
+
+- **FIB-Kanal:** regelmäßige Information für Personen, die FIB aktiv folgen.
+- **Persönliches Teilen:** gezielte Weitergabe eines konkreten Beitrags von Person zu Person.
+
+Beide Wege ergänzen sich, erfüllen aber unterschiedliche Funktionen.
+
+
 ## 18. Weiterentwicklung, Umsetzung und Dokumentation
 
 FIB ist ein lernendes System. Änderungen an FIB sollen deshalb nicht nur umgesetzt, sondern – soweit für den späteren Betrieb relevant – im selben Arbeitsschritt dokumentiert werden.
@@ -734,6 +777,7 @@ Für Details gelten insbesondere:
 
 | Version | Datum | Änderung |
 |---|---|---|
+| 0.5 | 28.09.2026 | Messenger-/Social-Kanäle konkretisiert: Signal und Mastodon werden als eigene FIB-Kanäle geprüft; persönliches Teilen bleibt separate UI-Funktion. |
 | 0.4 | 28.09.2026 | Marketingkanäle konkretisiert: Homepage-Karte mit Ranking sowie Newsletter-Teaserfunktion und eigener abonnierbarer FIB-Newsletter mit Themen-/Frequenzpräferenzen. |
 | 0.3 | 28.09.2026 | Marketingziel ergänzt: freiwillige Bindung durch PWA-Installation sowie optionale Web-Push- und Messenger-/Broadcast-Benachrichtigungen. |
 | 0.2 | 28.09.2026 | Kapitel 18 überarbeitet: Umsetzung und Dokumentation als gemeinsamer KI-gestützter Prozess; Redaktion ohne eigenen Dokumentationsworkflow. |
