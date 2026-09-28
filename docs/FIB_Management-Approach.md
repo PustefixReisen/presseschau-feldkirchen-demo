@@ -4,7 +4,7 @@
 
 | Version | Stand | Verantwortlich |
 |---|---|---|
-| 0.6 | 28.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
+| 0.7 | 28.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
 
 ## 1. Zweck dieses Dokuments
 
@@ -642,8 +642,9 @@ Signal wird deshalb zunächst mit **Fragezeichen / als optionaler Kanal** gefüh
 
 Mastodon eignet sich technisch als öffentlicher, abonnierbarer FIB-Kanal. Nutzerinnen und Nutzer können einem FIB-Account folgen; Beiträge erscheinen im Feed. Mastodon ist quelloffen, föderiert und verfügt über eine offene API, sodass FIB-Beiträge grundsätzlich automatisiert veröffentlicht werden können.
 
-Für FIB soll geprüft werden:
-- eigener FIB-Account oder Nutzung eines bestehenden OV-Accounts,
+Für FIB erscheint derzeit ein **eigener FIB-Account** als passendere Lösung. Diese Präferenz ist noch zu prüfen und nicht abschließend entschieden.
+
+Zu prüfen sind insbesondere:
 - automatisches Veröffentlichen ab einer definierten Marketingstufe,
 - Teaser + direkter Link zum FIB-Beitrag,
 - Kennzeichnung von Aktualisierungen,
@@ -870,6 +871,7 @@ Für Details gelten insbesondere:
 
 | Version | Datum | Änderung |
 |---|---|---|
+| 0.7 | 28.09.2026 | Mastodon konkretisiert: eigener FIB-Account derzeit bevorzugt, aber noch zu prüfen; automatisierte Teaser-/Veröffentlichungslogik bleibt vorgesehen. |
 | 0.6 | 28.09.2026 | Signal als optionalen Prüfkanal eingeordnet; PWA/Web Push als zentraler Bindungskanal mit Opt-in, Themen-/Frequenzpräferenzen, Rankingsteuerung und weitgehender Automatisierung konkretisiert. |
 | 0.5 | 28.09.2026 | Messenger-/Social-Kanäle konkretisiert: Signal und Mastodon werden als eigene FIB-Kanäle geprüft; persönliches Teilen bleibt separate UI-Funktion. |
 | 0.4 | 28.09.2026 | Marketingkanäle konkretisiert: Homepage-Karte mit Ranking sowie Newsletter-Teaserfunktion und eigener abonnierbarer FIB-Newsletter mit Themen-/Frequenzpräferenzen. |
