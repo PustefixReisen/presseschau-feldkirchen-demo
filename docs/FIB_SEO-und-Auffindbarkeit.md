@@ -4,7 +4,7 @@
 
 | Version | Stand | Verantwortlich |
 |---|---|---|
-| 0.3 | 28.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
+| 0.4 | 28.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
 
 ## 1. Zweck
 
@@ -783,7 +783,169 @@ KI kann redaktionell unterstützen bei:
 Die redaktionellen Grundregeln bleiben jedoch unabhängig vom Modell verbindlich.
 
 
-## 8. Gestalterischer Bezug der Landing Page
+## 8. Schritt E – Erfolgsmessung der Auffindbarkeit
+
+SEO-Erfolg wird bei FIB nicht daran gemessen, ob möglichst viele beliebige Klicks entstehen. Entscheidend ist, ob Menschen bei **konkreten Feldkirchner Fragen** auf passende FIB-Inhalte stoßen und dort einen sinnvollen Einstieg finden.
+
+### 8.1 Leitfragen
+
+Die Erfolgsmessung beantwortet vor allem:
+
+- Wird FIB überhaupt über Suchmaschinen gefunden?
+- Zu welchen Feldkirchner Themen wird FIB gefunden?
+- Welche Seitentypen funktionieren als Einstieg?
+- Werden eher aktuelle Beiträge oder dauerhafte Themenseiten gefunden?
+- Finden Suchende nach dem Einstieg weitere passende Informationen?
+- Welche Themen werden trotz vorhandener FIB-Inhalte kaum gefunden?
+- Gibt es technische Indexierungsprobleme?
+
+### 8.2 Primäre Datenquelle
+
+Für den Echtbetrieb soll mindestens die **Google Search Console** genutzt werden.
+
+Sie liefert insbesondere:
+
+- Impressionen: Wie oft wurde eine FIB-Seite in Suchergebnissen angezeigt?
+- Klicks: Wie oft wurde FIB aus der Suche geöffnet?
+- Suchanfragen: Mit welchen Suchbegriffen wurde FIB gefunden?
+- Einstiegsseiten: Welche FIB-Seiten wurden gefunden?
+- durchschnittliche Position als grober Orientierungswert,
+- Indexierungs- und Sitemap-Fehler.
+
+Optional können weitere Webmaster-/Suchmaschinenwerkzeuge ergänzt werden.
+
+### 8.3 Wichtige Kennzahlen
+
+FIB soll nur wenige, verständliche Kennzahlen regelmäßig betrachten.
+
+| Kennzahl | Aussage |
+|---|---|
+| Such-Impressionen | Wird FIB zu lokalen Themen überhaupt sichtbar? |
+| Such-Klicks | Führt diese Sichtbarkeit tatsächlich zu Besuchen? |
+| wichtigste Suchanfragen | Welche Fragen/Themen bringen Menschen zu FIB? |
+| wichtigste Einstiegsseiten | Welche Beiträge/Themen funktionieren über Suche? |
+| Anteil Themen-/Beitragsseiten | Finden Nutzer eher dauerhafte Themen oder aktuelle Meldungen? |
+| Indexierungsfehler | Gibt es technische Probleme? |
+
+Die durchschnittliche Suchposition kann zusätzlich beobachtet werden, soll aber nicht zum Selbstzweck werden.
+
+### 8.4 Qualitative Auswertung statt Ranking-Fixierung
+
+Für FIB ist beispielsweise wichtiger:
+
+> Jemand sucht „Hundewiese Feldkirchen“ und findet die passende FIB-Themenseite.
+
+als:
+
+> FIB steht bei einem allgemeinen Suchbegriff auf Platz 3 statt Platz 5.
+
+SEO-Auswertung soll deshalb konkrete **Suchintentionen und Themenlücken** betrachten, nicht nur Rankings.
+
+### 8.5 Suchanfrage → passende Seite
+
+In regelmäßigen Abständen soll geprüft werden, ob typische Suchanfragen auf den richtigen Seitentyp führen.
+
+Beispiele:
+
+- `Parkraumkonzept Feldkirchen` → bevorzugt Themenseite
+- `Hundewiese Feldkirchen neue Vorlage` → aktueller Beitrag
+- `Gemeinderat Feldkirchen 29.09.2026` → Sitzungsseite
+- `Bürgerbeteiligung Feldkirchen` → Themenseite
+
+Wenn eine kurzfristige Meldung dauerhaft besser gefunden wird als die dazugehörige Themenseite, kann die interne Verlinkung oder Themenstruktur verbessert werden.
+
+### 8.6 Themenlücken erkennen
+
+Search-Console-Daten können auch zeigen, wonach Menschen suchen, obwohl FIB dazu noch keinen guten Einstieg bietet.
+
+Beispiel:
+
+Viele Impressionen entstehen zu `Parken Feldkirchen Anwohner`, aber die vorhandene Seite erklärt hauptsächlich den politischen Beschluss und nicht die praktische Bedeutung für Anwohner.
+
+Das ist kein automatischer Auftrag, einen neuen SEO-Text zu produzieren. Es ist ein **Hinweis an die Redaktion**, zu prüfen, ob ein echter Informationsbedarf besteht, der inhaltlich zu FIB passt.
+
+### 8.7 Verbindung zur allgemeinen FIB-Erfolgskontrolle
+
+Suchmaschinenzahlen allein sagen nicht, ob FIB nützlich ist.
+
+Deshalb sollen – datensparsam und aggregiert – zusätzlich betrachtet werden:
+
+- bleibt jemand nach dem Einstieg auf FIB und öffnet einen weiteren Inhalt?
+- wird „Mehr wissen?“ genutzt?
+- werden Quellen geöffnet?
+- wird ein Beitrag geteilt?
+- wird später PWA, Newsletter oder Web Push genutzt?
+
+Damit lässt sich unterscheiden zwischen:
+
+**gefunden werden** → **Inhalt nutzen** → **wiederkommen**
+
+### 8.8 Keine personenbezogene Profilbildung
+
+Für SEO-Messung sind keine individuellen politischen Nutzerprofile erforderlich.
+
+Ausgewertet werden sollen nur aggregierte Werte wie:
+
+- Suchanfrage,
+- Zielseite,
+- Impression,
+- Klick,
+- technische Indexierungsdaten.
+
+Eine Verknüpfung mit personenbezogenen Daten oder individuellen politischen Interessenprofilen ist nicht vorgesehen.
+
+### 8.9 Startphase: Baseline statt Zielquote
+
+In den ersten Monaten sollen keine künstlichen SEO-Zielwerte wie „1.000 Klicks pro Monat“ festgelegt werden.
+
+Stattdessen wird über etwa **drei bis sechs Monate** eine Ausgangsbasis aufgebaut.
+
+Danach können realistische Fragen beantwortet werden:
+
+- Welche Themen werden überhaupt gesucht?
+- Wie viel organische Reichweite ist für eine Gemeinde dieser Größe realistisch?
+- Welche Seitentypen funktionieren?
+- Welche Inhalte werden dauerhaft gefunden?
+- Welche technischen oder inhaltlichen Lücken gibt es?
+
+Erst danach sollen gegebenenfalls konkrete Zielwerte festgelegt werden.
+
+### 8.10 Monatlicher SEO-Kurzcheck
+
+Für den Regelbetrieb reicht ein kompakter monatlicher Blick auf:
+
+1. Such-Impressionen gesamt,
+2. Such-Klicks gesamt,
+3. fünf wichtigste Suchanfragen,
+4. fünf wichtigste Einstiegsseiten,
+5. neue Indexierungs-/Sitemap-Fehler,
+6. auffällige Themenlücken oder Fehlleitungen.
+
+Der Check soll weitgehend automatisiert vorbereitet werden. Die Redaktion muss nur auffällige Punkte bewerten.
+
+### 8.11 Quartalsweise qualitative Prüfung
+
+Zusätzlich empfiehlt sich quartalsweise ein kurzer qualitativer Check:
+
+- Werden die wichtigsten Feldkirchner Themen gefunden?
+- Führen Suchanfragen auf die richtige Seite?
+- Gibt es dauerhafte Themenseiten, die trotz Relevanz kaum sichtbar sind?
+- Gibt es veraltete Inhalte, die über Suche noch stark gefunden werden?
+- Sind neue Themenfelder entstanden, die in der Struktur fehlen?
+
+### 8.12 Erfolgskriterium
+
+SEO ist für FIB erfolgreich, wenn:
+
+- relevante lokale Inhalte zuverlässig indexiert sind,
+- konkrete Feldkirchner Suchanfragen zu passenden FIB-Seiten führen,
+- Themenseiten bei länger laufenden Sachverhalten als stabile Einstiege funktionieren,
+- aktuelle Beiträge neue Entwicklungen sichtbar machen,
+- technische Fehler selten und schnell erkennbar sind,
+- und die Suchmaschinenoptimierung keinen zusätzlichen großen Redaktionsaufwand erzeugt.
+
+
+## 9. Gestalterischer Bezug der Landing Page
 
 Die Landing Page soll den bereits für Postkarte und FIB-Kärtchen vorgesehenen visuellen Stil aufnehmen:
 
@@ -797,11 +959,11 @@ SEO und Gestaltung werden dabei getrennt behandelt: Der visuelle Einstieg darf d
 
 ---
 
-## 9. Nächste Schritte
+## 10. Nächste Schritte
 
 Nach Schritt B folgen:
 
-- **Schritt E:** Erfolgsmessung – Search Console, Suchanfragen, Einstiegsseiten und Entwicklung der Auffindbarkeit.
+- **Nächste Umsetzungsphase:** technische Implementierung der Schritte A–E im Echtsystem und Aufbau der ersten Baseline nach Go-live.
 
 ---
 
@@ -809,6 +971,7 @@ Nach Schritt B folgen:
 
 | Version | Datum | Änderung |
 |---|---|---|
+| 0.4 | 28.09.2026 | Schritt E ergänzt: Erfolgsmessung über Search Console, Suchanfragen, Einstiegsseiten, Themenlücken, Baseline, Monatscheck und quartalsweise qualitative Prüfung definiert. |
 | 0.3 | 28.09.2026 | Schritt D ergänzt: redaktionelle SEO-Regeln für Überschriften, lokalen Bezug, Aktualisierung statt Dubletten, Themenverknüpfung, Kurzfassungen, Quellenbezeichnung und KI-Unterstützung definiert. |
 | 0.2 | 28.09.2026 | Schritt C ergänzt: XML-Sitemap, robots.txt, Indexierungsregeln, Canonical-Implementierung, Redirects, strukturierte Daten, Social-Metadaten, technische Prüfungen und Search-Console-Abnahme definiert. |
 | 0.1 | 28.09.2026 | Erstfassung: SEO-Ziel, Seitentypen und kanonische Seitenlogik aus dem Management Approach übernommen; Schritt B mit verbindlichen Onpage-Standards ergänzt. |
