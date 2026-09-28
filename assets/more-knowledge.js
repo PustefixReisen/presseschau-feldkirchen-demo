@@ -135,6 +135,73 @@
     const id=(a.getAttribute('href')||'').slice(1);
     return id?document.getElementById(id):null;
   }
+  function contextSpecificQuestions(card){
+    const hay=(text(card.querySelector('h3'))+' '+text(card.querySelector('.subtitle'))+' '+text(card.querySelector('.body'))+' '+(card.dataset.tags||'')).toLowerCase();
+
+    // Wiederkehrende Bürgerversammlung: nicht wie einen einmaligen Konflikt behandeln.
+    if(/bürgerversammlung/.test(hay) && /livestream|aussprache|21\. oktober|bürgermeister|gemeindebürger/.test(hay)){
+      return [
+        {
+          id:'bv-mitmachen',
+          label:'Was können Bürgerinnen und Bürger dort konkret einbringen?',
+          answer:['Die Frage richtet den Blick auf die tatsächlichen Beteiligungsmöglichkeiten der Bürgerversammlung – Wortmeldungen, Anträge und Empfehlungen – statt auf einen vermeintlichen einmaligen Konflikt.'],
+          sources:[]
+        },
+        {
+          id:'bv-folgen',
+          label:'Was passiert mit Anträgen aus der Bürgerversammlung?',
+          answer:['Hier ist besonders interessant, welchen formalen Weg Anträge und Empfehlungen nach der Versammlung nehmen und welche Rolle der Gemeinderat dabei hat.'],
+          sources:[]
+        },
+        {
+          id:'bv-rueckblick',
+          label:'Was ist aus den Anträgen der letzten Bürgerversammlung geworden?',
+          answer:['Da die Bürgerversammlung regelmäßig stattfindet, bietet sich der Vergleich mit dem Vorjahr an: Welche Anträge wurden weiterverfolgt, geprüft oder entschieden?'],
+          sources:[]
+        },
+        {
+          id:'bv-einordnung',
+          label:'Was unterscheidet die Bürgerversammlung von anderen Formen der Bürgerbeteiligung?',
+          answer:['Die Frage ordnet die jährliche Bürgerversammlung in andere Beteiligungsformen ein und macht ihren besonderen rechtlichen und praktischen Stellenwert verständlich.'],
+          sources:[]
+        }
+      ];
+    }
+
+    // Regionale Infrastruktur: Feldkirchen entscheidet nicht über fremde Abschnitte,
+    // kann aber von der Gesamtverbindung betroffen sein und Einflussmöglichkeiten haben.
+    if(/radschnell/.test(hay) && /markt schwaben|ebersberg|förder/.test(hay)){
+      return [
+        {
+          id:'rsv-foerderung',
+          label:'Warum fällt für einen Teil der Strecke die Förderung weg?',
+          answer:['Die Frage zielt auf die geänderten Förderkriterien und darauf, welche Anforderungen eine Radschnellverbindung erfüllen muss.'],
+          sources:[]
+        },
+        {
+          id:'rsv-gesamt',
+          label:'Was bedeutet das für die durchgehende Verbindung über Feldkirchen?',
+          answer:['Entscheidend ist nicht nur der betroffene Ebersberger Abschnitt, sondern ob und wie die Verbindung München–Markt Schwaben als zusammenhängender Radverkehrskorridor weiterverfolgt werden kann.'],
+          sources:[]
+        },
+        {
+          id:'rsv-einfluss',
+          label:'Wo kann Feldkirchen bei der weiteren Planung Einfluss nehmen?',
+          answer:['Feldkirchen entscheidet nicht über den Ebersberger Abschnitt. Interessant sind deshalb die eigenen Planungsabschnitte, Abstimmungen mit Landkreis und Nachbarkommunen sowie politische und fachliche Einflussmöglichkeiten.'],
+          sources:[]
+        },
+        {
+          id:'rsv-alternativen',
+          label:'Welche Alternativen gibt es, wenn der Radschnellweg so nicht kommt?',
+          answer:['Die Frage öffnet den Blick auf mögliche andere Qualitätsstandards, Ausbaustufen oder Förderwege für eine weiterhin attraktive Radverbindung.'],
+          sources:[]
+        }
+      ];
+    }
+
+    return [];
+  }
+
   function backgroundDirections(card){
     const hay=(text(card.querySelector('h3'))+' '+text(card.querySelector('.subtitle'))+' '+text(card.querySelector('.body'))+' '+(card.dataset.tags||'')+' '+text(card.querySelector('.category'))).toLowerCase();
     const dirs=[];
@@ -208,10 +275,13 @@
     const tLink=topicLink(card);
     const topic=findTopic(tLink);
 
-    // Hintergrund hat Vorrang vor Wiederholung der Meldung.
-    q.push(...backgroundDirections(card));
+    // Zuerst konkreten Sachverhalt berücksichtigen. Nur wenn dafür keine
+    // kontextspezifischen Fragen vorliegen, auf allgemeine Rechercheachsen zurückfallen.
+    const contextual=contextSpecificQuestions(card);
+    if(contextual.length)q.push(...contextual);
+    else q.push(...backgroundDirections(card));
 
-    if(hist){
+    if(!contextual.length && hist){
       const items=Array.from(hist.querySelectorAll('li')).map(text).filter(Boolean);
       const fibLinks=Array.from(hist.querySelectorAll('a')).map(a=>linkData(a,'fib'));
       if(items.length)q.push({
@@ -227,7 +297,7 @@
       });
     }
 
-    if(topic){
+    if(!contextual.length && topic){
       const title=text(topic.querySelector('h3'));
       const tp=bodyParagraphs(topic);
       const ts=sourceList(topic,5,'topic');
@@ -244,7 +314,7 @@
       });
     }
 
-    if(sig){
+    if(!contextual.length && sig){
       q.push({
         id:'transfer',
         label:questionVariant(card,'transfer',[
