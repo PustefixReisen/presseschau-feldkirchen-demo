@@ -4,7 +4,7 @@
 
 | Version | Stand | Verantwortlich |
 |---|---|---|
-| 1.1 | 28.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
+| 1.2 | 28.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
 
 ## 1. Zweck dieses Dokuments
 
@@ -937,6 +937,184 @@ stammen.
 Personenbezogenes Tracking ist dafür nicht erforderlich.
 
 
+### 17.7 Kanal: Suchmaschinen / Auffindbarkeit
+
+Suchmaschinenoptimierung (SEO) soll bei FIB **die fachliche Struktur unterstützen, nicht bestimmen**.
+
+Der fachliche Aufbau von FIB – Beiträge, Sitzungen, Themen und Vertiefung – bleibt maßgeblich. SEO sorgt dafür, dass diese Inhalte für Suchmaschinen eindeutig, dauerhaft und lokal zuordenbar sind.
+
+#### Grundprinzip der Modellunabhängigkeit
+
+Der SEO-Aufbau soll soweit wie möglich **als technische Geschäftsregel** umgesetzt werden und nicht von einer KI-API abhängen.
+
+Technisch verbindlich erzeugt werden sollen insbesondere:
+
+- stabile und sprechende URLs,
+- genau eine Hauptüberschrift (H1) je Seite,
+- definierte Seitentitel,
+- Meta-Daten aus strukturierten Feldern,
+- Canonical-Tags,
+- XML-Sitemap,
+- Indexierungsregeln,
+- strukturierte Daten,
+- interne Links aus gespeicherten Beziehungen,
+- Verknüpfung von Beiträgen mit Themen und Sitzungen,
+- Vermeidung unbeabsichtigter Dubletten.
+
+KI kann ergänzend bei semantischen Aufgaben helfen, z. B.:
+- gute Seitentitel formulieren,
+- Meta-Descriptions schreiben,
+- kurze Einleitungstexte erstellen,
+- Ortsbezug sprachlich deutlich machen.
+
+Die technische Seitenstruktur selbst bleibt davon unabhängig.
+
+#### SEO-Ziel
+
+FIB soll vor allem bei **konkreten lokalen Themen, Entscheidungen und Sachfragen rund um Feldkirchen** auffindbar sein.
+
+Beispiele möglicher Suchanlässe:
+- Hundewiese Feldkirchen,
+- Bürgerversammlung Feldkirchen Anträge,
+- Tempo 30 B471 Feldkirchen,
+- Parkraumkonzept Feldkirchen,
+- Gemeinderat Feldkirchen Sitzung,
+- Radschnellweg Feldkirchen.
+
+SEO dient damit nicht primär allgemeiner Reichweite, sondern der Frage:
+
+> **Findet jemand FIB, wenn er zu einem konkreten Feldkirchner Thema nach Informationen sucht?**
+
+#### Schritt A: SEO-Rolle der Seitentypen
+
+##### A.1 Landing Page / Startseite
+
+**Aufgabe für Nutzerinnen und Nutzer**
+- FIB kurz verstehen,
+- erkennen, welchen Nutzen das Angebot hat,
+- aktuelle Beiträge sehen,
+- in Themen, Sitzungen oder Beiträge einsteigen,
+- PWA/Benachrichtigungen und weitere Bindungsangebote entdecken.
+
+**Aufgabe für Suchmaschinen**
+- eindeutig erkennen, dass FIB ein lokales Informationsangebot für Feldkirchen ist,
+- Marke, Ort und Themenfelder zuordnen,
+- zentrale Inhalte und Einstiege erfassen.
+
+**Pflichtinhalte**
+- kurze Erklärung von FIB,
+- Kernnutzen: Informationen aus Presse, Rathaus und weiteren Quellen bündeln und vertiefen,
+- aktuelle 2–3 Beiträge,
+- Einstieg zu Themen und Sitzungen,
+- klarer Ortsbezug Feldkirchen,
+- Absendertransparenz.
+
+**SEO-Hauptseite für**
+- Feldkirchen im Blick,
+- allgemeine lokale Informationssuche rund um FIB.
+
+##### A.2 Themenseiten
+
+Themenseiten sind die **dauerhaften SEO-Ankerseiten** für länger laufende Sachverhalte.
+
+**Aufgabe für Nutzerinnen und Nutzer**
+- einen Sachverhalt über längere Zeit verstehen,
+- Verlauf, wichtige Entscheidungen und offenen Fragen nachvollziehen,
+- zugehörige Beiträge und Quellen finden.
+
+**Aufgabe für Suchmaschinen**
+- zentrale Seite für einen wiederkehrenden Sachverhalt erkennen,
+- aktuelle und historische Einzelbeiträge diesem Thema zuordnen.
+
+**Pflichtinhalte**
+- eindeutiger Thementitel,
+- kurze Erklärung des Gegenstands,
+- aktueller Sachstand,
+- warum das Thema für Feldkirchen relevant ist,
+- wichtige Entwicklungsschritte,
+- zugehörige Beiträge,
+- wichtige Quellen,
+- offene Fragen bzw. nächster erwartbarer Schritt,
+- passende „Mehr wissen?“-Vertiefungen.
+
+**SEO-Hauptseite für**
+- dauerhafte Suchanfragen wie „Parkraumkonzept Feldkirchen“ oder „Bürgerbeteiligung Feldkirchen“.
+
+Wenn mehrere Einzelbeiträge dasselbe Thema behandeln, soll die Themenseite die langfristige Hauptseite bilden.
+
+##### A.3 Einzelbeiträge
+
+**Aufgabe für Nutzerinnen und Nutzer**
+- eine konkrete neue Entwicklung schnell verstehen,
+- Quelle und Datum erkennen,
+- bei Interesse zum Thema oder Hintergrund weitergehen.
+
+**Aufgabe für Suchmaschinen**
+- aktuelle oder sehr konkrete Suchanfragen beantworten,
+- neue Entwicklungen indexierbar machen,
+- auf die dauerhaft relevante Themenseite verweisen.
+
+**Pflichtinhalte**
+- klare Überschrift,
+- Veröffentlichungs-/Aktualisierungsdatum,
+- kurze Zusammenfassung,
+- Sachinformation,
+- Quellen,
+- gegebenenfalls „Unsere Einordnung“ klar getrennt,
+- „Mehr wissen?“,
+- Verknüpfung zu Thema/Sitzung/Bezugsobjekten.
+
+**SEO-Hauptseite für**
+- konkrete aktuelle Ereignisse oder neue Beschlussvorlagen.
+
+Beiträge sollen bei fortlaufenden Sachverhalten nicht isoliert bleiben, sondern auf die passende Themenseite verweisen.
+
+##### A.4 Sitzungsseiten
+
+**Aufgabe für Nutzerinnen und Nutzer**
+- sehen, was in einer Sitzung beraten wird bzw. wurde,
+- zwischen Tagesordnung, Vorlage, Beratung und Beschluss unterscheiden,
+- direkt zu relevanten FIB-Beiträgen gelangen.
+
+**Aufgabe für Suchmaschinen**
+- konkrete Sitzungstermine und behandelte Sachverhalte strukturiert auffindbar machen,
+- zugleich vermeiden, dass Sitzungsseiten mit Themenseiten um dieselbe Suchanfrage konkurrieren.
+
+**Pflichtinhalte**
+- Gremium,
+- Datum,
+- Tagesordnung bzw. relevante Punkte,
+- Status der jeweiligen Punkte,
+- Links zu Beschlussvorlagen bzw. öffentlichen Quellen,
+- Verknüpfung zu zugehörigen FIB-Beiträgen und Themen.
+
+**SEO-Hauptseite für**
+- konkrete Sitzungssuchen wie „Gemeinderat Feldkirchen 29.09.2026“.
+
+Für dauerhafte Sachthemen bleibt dagegen die Themenseite die Hauptseite.
+
+#### Kanonische Seitenlogik
+
+Wenn mehrere Seitentypen denselben Sachverhalt behandeln, gilt:
+
+- **Thema** = langfristige Hauptseite,
+- **Beitrag** = konkrete neue Entwicklung,
+- **Sitzung** = formaler Beratungs-/Entscheidungskontext,
+- **Landing Page** = Einstieg in FIB insgesamt.
+
+Dadurch entsteht eine klare Informationshierarchie für Nutzerinnen/Nutzer und Suchmaschinen.
+
+#### Gestalterischer Bezug der Landing Page
+
+Die Landing Page soll den bereits für Postkarte und FIB-Kärtchen vorgesehenen visuellen Stil aufnehmen:
+
+- typische Feldkirchner Bauwerke und Ortsmotive,
+- grün/monochrom,
+- stilisiert statt fotolastig,
+- dauerhaft verwendbar,
+- Wiedererkennung zwischen Landing Page, Printmaterialien und PWA.
+
+
 ## 18. Weiterentwicklung, Umsetzung und Dokumentation
 
 FIB ist ein lernendes System. Änderungen an FIB sollen deshalb nicht nur umgesetzt, sondern – soweit für den späteren Betrieb relevant – im selben Arbeitsschritt dokumentiert werden.
@@ -1052,6 +1230,7 @@ Für Details gelten insbesondere:
 
 | Version | Datum | Änderung |
 |---|---|---|
+| 1.2 | 28.09.2026 | SEO-Schritt A ergänzt: Suchmaschinen als Auffindbarkeitskanal, modellunabhängige technische Regeln und klare Rollen für Landing Page, Themenseiten, Beiträge und Sitzungsseiten definiert; visueller Landing-Page-Stil verankert. |
 | 1.1 | 28.09.2026 | Kommunikations-Kernbotschaften ergänzt; konkrete Textkonzepte für FIB-Postkarte und FIB-Kärtchen aufgenommen. |
 | 1.0 | 28.09.2026 | Offline-Material konkretisiert: dauerhaftes FIB-Kärtchen und FIB-Postkarte mit QR-Code als bevorzugte Printformate; keine laufende Flyerproduktion. |
 | 0.9 | 28.09.2026 | Veranstaltungen, Infostände und QR-Codes als gemeinsamer Offline-Erstkontaktkanal konkretisiert; stabile Direktlinks, QR-Erzeugung, geringe Materialpflege und datensparsame Herkunftsmessung vorgesehen. |
