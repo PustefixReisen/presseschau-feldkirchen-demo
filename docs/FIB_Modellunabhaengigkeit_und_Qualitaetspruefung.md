@@ -231,3 +231,10 @@ Bei fachlich oder technisch vertretbarem Aufwand soll die Regel anschließend in
 | Version | Datum | Änderung |
 |---|---|---|
 | 1.1 | 27.09.2026 | Qualitätstest für KI-Anbindungen um „Mehr wissen?“ erweitert; einheitlicher Testkorpus, getrennte Prüfung von Frageauswahl und Antwort, Bewertungsraster und möglichst modellblinde Beurteilung festgelegt. |\n| 1.0 | 27.09.2026 | Erstfassung. Modellunabhängigkeit als Architektur- und Qualitätsziel festgelegt; dreistufige Trennung Geschäftsregel / explizite KI-Regel / Modellurteil sowie Modellabhängigkeits-Check und Modellwechsel-Teststrategie eingeführt. |
+
+
+## Kostenvergleich als Testdimension
+
+Der Modell-/Providervergleich muss neben der fachlichen Qualität auch die **tatsächlichen Kosten am identischen FIB-Testkorpus** erfassen. Dafür werden pro Testfall mindestens Inputtokens, Outputtokens, Web-/Toolaufrufe und Gesamtkosten protokolliert.
+
+Die wirtschaftlichen Annahmen, Vergleichsprofile und Anbieterpreise sind in `FIB_KI-Kosten_und_Betriebsmodell.md` dokumentiert. Qualitäts- und Kostenvergleich werden gemeinsam ausgewertet; ein niedriger Preis ersetzt keine ausreichende Faktentreue, Quellenqualität oder Kontexttreue.
