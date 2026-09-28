@@ -4,7 +4,7 @@
 
 | Version | Stand | Verantwortlich |
 |---|---|---|
-| 0.7 | 28.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
+| 0.8 | 28.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
 
 ## 1. Zweck dieses Dokuments
 
@@ -756,6 +756,24 @@ Web Push dient vor allem der **Bindung**, nicht der erstmaligen Bekanntmachung.
 Andere Kanäle – Homepage, geteilte Links, Newsletter oder Mastodon – bringen Menschen zunächst zu FIB. Web Push soll anschließend dafür sorgen, dass interessierte Nutzerinnen und Nutzer **freiwillig wiederkommen**, ohne selbst nach neuen Inhalten suchen zu müssen.
 
 
+### 17.5 Kanal: Instagram – bewusst nicht priorisiert
+
+Instagram wird **nicht als regulärer FIB-Kanal eingeplant**.
+
+Grund dafür ist vor allem der zusätzliche visuelle Produktionsaufwand. Geeignete Bilder stehen für FIB nicht zu jedem Beitrag zur Verfügung; Videos wären noch aufwendiger. Ein kontinuierlicher Instagram-Auftritt würde deshalb voraussichtlich eigene Bild-, Grafik- oder Videoproduktion erfordern und damit einen zusätzlichen redaktionellen Arbeitsstrom schaffen.
+
+Das widerspricht dem Grundsatz, dass FIB mit dem vorhandenen Team dauerhaft und mit möglichst geringem Zusatzaufwand betrieben werden soll.
+
+Daher gilt:
+
+- FIB produziert **keine eigenen Bilder oder Videos nur für Instagram**.
+- Es besteht keine Verpflichtung, FIB-Beiträge regelmäßig auf Instagram zu veröffentlichen.
+- Wenn ein Beitrag ohnehin über ein geeignetes Bild verfügt und sich für den bestehenden Instagram-Account des Ortsverbands anbietet, kann er dort **gelegentlich manuell** aufgegriffen werden.
+- Ein eigener FIB-Instagram-Account ist derzeit nicht vorgesehen.
+
+Instagram bleibt damit eine **optionale Nutzung vorhandener Inhalte**, aber kein Bestandteil des regulären FIB-Marketingprozesses.
+
+
 ## 18. Weiterentwicklung, Umsetzung und Dokumentation
 
 FIB ist ein lernendes System. Änderungen an FIB sollen deshalb nicht nur umgesetzt, sondern – soweit für den späteren Betrieb relevant – im selben Arbeitsschritt dokumentiert werden.
@@ -871,6 +889,7 @@ Für Details gelten insbesondere:
 
 | Version | Datum | Änderung |
 |---|---|---|
+| 0.8 | 28.09.2026 | Instagram bewusst nicht als regulären FIB-Kanal eingeplant; nur gelegentliche Nutzung vorhandener geeigneter Inhalte über den bestehenden OV-Account. |
 | 0.7 | 28.09.2026 | Mastodon konkretisiert: eigener FIB-Account derzeit bevorzugt, aber noch zu prüfen; automatisierte Teaser-/Veröffentlichungslogik bleibt vorgesehen. |
 | 0.6 | 28.09.2026 | Signal als optionalen Prüfkanal eingeordnet; PWA/Web Push als zentraler Bindungskanal mit Opt-in, Themen-/Frequenzpräferenzen, Rankingsteuerung und weitgehender Automatisierung konkretisiert. |
 | 0.5 | 28.09.2026 | Messenger-/Social-Kanäle konkretisiert: Signal und Mastodon werden als eigene FIB-Kanäle geprüft; persönliches Teilen bleibt separate UI-Funktion. |
