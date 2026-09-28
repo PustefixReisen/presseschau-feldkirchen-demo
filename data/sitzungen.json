@@ -1,9 +1,9 @@
 {
   "schema_version": "2.0",
-  "status": "canonical_after_standard_update_2026-09-25",
+  "status": "canonical_after_standard_update_2026-09-28",
   "research_window": {
     "from": "2025-08-27",
-    "to": "2026-09-25"
+    "to": "2026-09-28"
   },
   "purpose": "Kanonischer strukturierter Sitzungsbestand der Homepage-Presseschau",
   "migration": {
@@ -4241,7 +4241,9 @@
           "item_id": "S023-T04",
           "proposal_no": "5154/2026",
           "title": "Bebauungsplan Nr. 102 Gewerbegebiet Weißenfelder Straße – Billigungsbeschluss",
-          "research_or_contribution_refs": [],
+          "research_or_contribution_refs": [
+            "R096"
+          ],
           "documents": [
             {
               "label": "Beschlussvorlage 5154/2026",
@@ -4279,7 +4281,9 @@
           "item_id": "S023-T06",
           "proposal_no": "5279/2026",
           "title": "17. Änderung Flächennutzungsplan – Einstellung des Verfahrens",
-          "research_or_contribution_refs": [],
+          "research_or_contribution_refs": [
+            "R095"
+          ],
           "documents": [
             {
               "label": "Beschlussvorlage 5279/2026",
@@ -4298,7 +4302,9 @@
           "item_id": "S023-T07",
           "proposal_no": "5280/2026",
           "title": "Bebauungsplan Nr. 110 Spielplatz – Einstellung des Verfahrens",
-          "research_or_contribution_refs": [],
+          "research_or_contribution_refs": [
+            "R095"
+          ],
           "documents": [
             {
               "label": "Beschlussvorlage 5280/2026",
@@ -4336,7 +4342,7 @@
         }
       ],
       "other_public_items_note": "Die Sitzung ist für den 29. September 2026 angekündigt; Ergebnisse liegen noch nicht vor.",
-      "agenda_audit_status": "full_public_agenda_and_documents_verified_2026-09-25",
+      "agenda_audit_status": "full_public_agenda_and_documents_verified_2026-09-28",
       "decision_audit_status": "upcoming_session_no_decisions",
       "minutes": {
         "status": "upcoming",
