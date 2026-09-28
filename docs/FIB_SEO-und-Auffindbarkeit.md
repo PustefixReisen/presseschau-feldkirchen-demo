@@ -4,7 +4,7 @@
 
 | Version | Stand | Verantwortlich |
 |---|---|---|
-| 0.2 | 28.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
+| 0.3 | 28.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
 
 ## 1. Zweck
 
@@ -564,7 +564,226 @@ Vor Go-live soll technisch nachgewiesen sein:
 - Search Console kann die Sitemap erfolgreich verarbeiten.
 
 
-## 7. Gestalterischer Bezug der Landing Page
+## 7. Schritt D – Redaktionelle SEO-Regeln
+
+Die redaktionellen SEO-Regeln sollen die fachliche Qualität von FIB unterstützen. Sie dienen der Verständlichkeit, Eindeutigkeit und lokalen Auffindbarkeit. Sie dürfen weder zu künstlichen Texten noch zu einer inhaltlichen Verengung führen.
+
+### 7.1 Grundsatz
+
+Redaktionelle SEO-Arbeit bedeutet bei FIB vor allem:
+
+- klar benennen, worum es geht,
+- den Feldkirchen-Bezug sichtbar machen,
+- Beiträge mit ihren Themen und Sitzungen verbinden,
+- bestehende Seiten fortschreiben statt unnötige Dubletten anzulegen,
+- Suchbegriffe natürlich aus dem Sachverhalt entstehen lassen,
+- und trotzdem in erster Linie für Menschen schreiben.
+
+SEO darf **keine eigenständige redaktionelle Agenda** erzeugen.
+
+### 7.2 Überschriften
+
+Überschriften sollen:
+
+- den konkreten Gegenstand nennen,
+- möglichst früh erkennen lassen, was neu oder relevant ist,
+- Ortsbezug nennen, wenn er nicht ohnehin eindeutig ist,
+- zwischen Vorlage, Beratung, Beschluss und späterer Aktualisierung unterscheiden,
+- keine künstliche Zuspitzung oder Clickbait-Formulierungen verwenden.
+
+Beispiele:
+
+**Gut:**  
+`Hundewiese in Feldkirchen: Neue Vorlage nennt Schallschutzkosten und Park-Alternative`
+
+**Gut:**  
+`Parkraumkonzept Feldkirchen: Verwaltung legt neuen Vorschlag vor`
+
+**Ungünstig:**  
+`Große Überraschung bei der Hundewiese!`
+
+**Ungünstig:**  
+`Feldkirchen aktuell: wichtige Neuigkeiten`
+
+Technische IDs oder Verwaltungsaktenzeichen dürfen ergänzend erscheinen, aber nicht die sichtbare Hauptüberschrift dominieren.
+
+### 7.3 Lokaler Bezug
+
+Der lokale Bezug soll natürlich und konkret erkennbar sein.
+
+Geeignete Formulierungen sind zum Beispiel:
+
+- `in Feldkirchen`
+- `für Feldkirchen`
+- `im Gemeinderat Feldkirchen`
+- `an der B471 in Feldkirchen`
+
+Bei externen Entwicklungen soll der Bezug nicht künstlich behauptet, sondern erklärt werden.
+
+**Beispiel:**  
+Bei einem autonomen On-Demand-Pilot in München lautet der lokale Bezug nicht „Autonomes Fahren in Feldkirchen“, wenn dort kein solches Angebot existiert. Stattdessen soll erklärt werden, unter welchen Bedingungen die Entwicklung für die regionale Mobilität und später möglicherweise für Feldkirchen relevant werden könnte.
+
+### 7.4 Aktualisierung statt unnötiger neuer Seiten
+
+Wenn sich derselbe Sachverhalt fortentwickelt, soll geprüft werden, ob:
+
+- ein bestehender Beitrag aktualisiert,
+- das zugehörige Thema fortgeschrieben,
+- oder ein neuer eigenständiger Beitrag erforderlich ist.
+
+Ein neuer Beitrag ist sinnvoll, wenn eine **neue eigenständige Entwicklung** vorliegt.
+
+Eine Aktualisierung ist sinnvoll, wenn der bisherige Beitrag denselben Gegenstand weiterhin sinnvoll abbildet.
+
+SEO ist kein Grund, künstlich neue Seiten zu erzeugen.
+
+### 7.5 Themenverknüpfung
+
+Jeder relevante Beitrag soll möglichst einem bestehenden Thema zugeordnet werden, wenn ein länger laufender Sachzusammenhang vorhanden ist.
+
+Redaktionell ist zu prüfen:
+
+- Gehört der Beitrag zu einem bestehenden Thema?
+- Muss ein neues Thema angelegt werden?
+- Gibt es einen Bezug zu einer Sitzung?
+- Gibt es relevante frühere Beiträge?
+- Gibt es ein Bezugsobjekt, das die Verbindung zusätzlich erklärt?
+
+Die interne Verlinkung soll aus diesen fachlichen Beziehungen entstehen, nicht aus bloßen Keyword-Treffern.
+
+### 7.6 Einleitungen und Kurzfassungen
+
+Die ersten Sätze eines Beitrags sollen den Gegenstand möglichst schnell verständlich machen.
+
+Eine gute Kurzfassung beantwortet idealerweise:
+
+- Was ist neu?
+- Wer handelt oder entscheidet?
+- Worum geht es konkret?
+- Warum ist das für Feldkirchen relevant?
+
+Nicht erforderlich ist, künstlich alle möglichen Suchbegriffe in die Einleitung zu packen.
+
+### 7.7 Meta-Description redaktionell nutzen
+
+Wenn die Redaktion eine eigene Meta-Description vorgibt, soll sie:
+
+- den Beitrag sachlich zusammenfassen,
+- den lokalen Bezug nennen,
+- einen echten Informationswert zeigen,
+- keine werbliche Übertreibung enthalten,
+- nicht einfach die Überschrift wiederholen.
+
+Wenn keine redaktionelle Fassung vorhanden ist, greift der technische Fallback aus Schritt B.
+
+### 7.8 Themen-Seiten redaktionell stärken
+
+Themenseiten sollen nicht nur Linklisten sein.
+
+Sie sollen redaktionell mindestens enthalten:
+
+- kurze Einordnung des Gegenstands,
+- aktuellen Sachstand,
+- wichtige Entwicklungsschritte,
+- offene Fragen,
+- zentrale Quellen,
+- Verweise auf relevante Beiträge.
+
+Damit bleiben Themenseiten sowohl für Nutzerinnen und Nutzer als auch für Suchmaschinen eigenständige Informationsseiten.
+
+### 7.9 Sitzungsseiten redaktionell fokussieren
+
+Sitzungsseiten sollen die formale Sitzung verständlich machen, aber nicht versuchen, jedes Sachthema vollständig zu erklären.
+
+Dafür verlinken sie auf Beiträge und Themenseiten.
+
+Redaktionell wichtig ist:
+
+- klarer Status eines Tagesordnungspunkts,
+- keine Verwechslung von Vorlage und Beschluss,
+- sachgerechte Verlinkung auf tiefergehende FIB-Inhalte.
+
+### 7.10 Quellen und externe Links
+
+Externe Quellen sollen möglichst konkret benannt werden.
+
+Beispiele:
+
+- `Gemeinde Feldkirchen – Beschlussvorlage 5279/2026`
+- `Gemeindeblatt 2/2026, S. 12`
+- `Landratsamt München – Pressemitteilung vom …`
+
+Ungünstig sind:
+
+- nackte URLs,
+- technische Dateinamen ohne Erklärung,
+- unklare Sammelverweise.
+
+Quellenpräzision stärkt sowohl Nachvollziehbarkeit als auch inhaltliche Qualität.
+
+### 7.11 Kein Keyword-Stuffing
+
+Nicht zulässig sind künstliche Wiederholungen wie:
+
+`Feldkirchen Parkraumkonzept Gemeinde Feldkirchen Parkplatz Feldkirchen Parken Feldkirchen`
+
+Der Text soll natürlich lesbar bleiben.
+
+Der Orts- und Themenbezug soll durch fachlich richtige Formulierungen entstehen.
+
+### 7.12 Synonyme und verständliche Sprache
+
+Verwaltungsbegriffe dürfen verwendet werden, wenn sie sachlich erforderlich sind. Gleichzeitig sollen verständliche Begriffe ergänzt werden.
+
+Beispiel:
+
+`Beschlussvorlage zur 1. Teiländerung und Erweiterung des Bebauungsplans 102`
+
+kann im Text erklärt werden als:
+
+`Änderung der Bauleitplanung für das Gewerbegebiet an der Weißenfelder Straße`.
+
+Dadurch werden sowohl amtliche Begrifflichkeit als auch alltagssprachliche Suchanfragen abgedeckt.
+
+### 7.13 Aktualisierungsdatum
+
+Bei aktualisierten Beiträgen sollen Veröffentlichungsdatum und Aktualisierungsdatum getrennt sichtbar bleiben.
+
+Der bereits festgelegte FIB-Unterzeilenstandard bleibt maßgeblich:
+
+`Aktualisierung vom TT.MM.JJJJ: [Stichwort zum Gegenstand der Aktualisierung].`
+
+Das hilft Nutzerinnen und Nutzern und Suchmaschinen zu erkennen, dass eine bestehende Seite fortgeschrieben wurde.
+
+### 7.14 Redaktionsprüfung vor Veröffentlichung
+
+Vor Freigabe soll die Redaktion – soweit relevant – kurz prüfen:
+
+- Ist die Überschrift konkret?
+- Ist der Feldkirchen-Bezug korrekt?
+- Ist der Beitrag dem richtigen Thema zugeordnet?
+- Gibt es bereits eine Seite zum selben Sachverhalt?
+- Ist die Einleitung verständlich?
+- Sind die Quellen konkret bezeichnet?
+- Wird Sachinformation von politischer Einordnung getrennt?
+
+Diese Prüfung soll möglichst im normalen Redaktionsworkflow integriert werden und keinen separaten SEO-Prozess erzeugen.
+
+### 7.15 KI-Unterstützung
+
+KI kann redaktionell unterstützen bei:
+
+- Überschriftenvarianten,
+- Meta-Descriptions,
+- verständlicheren Einleitungen,
+- Vorschlägen für interne Verlinkung,
+- Erkennen möglicher Dubletten,
+- Hinweisen auf fehlenden Ortsbezug.
+
+Die redaktionellen Grundregeln bleiben jedoch unabhängig vom Modell verbindlich.
+
+
+## 8. Gestalterischer Bezug der Landing Page
 
 Die Landing Page soll den bereits für Postkarte und FIB-Kärtchen vorgesehenen visuellen Stil aufnehmen:
 
@@ -578,11 +797,10 @@ SEO und Gestaltung werden dabei getrennt behandelt: Der visuelle Einstieg darf d
 
 ---
 
-## 8. Nächste Schritte
+## 9. Nächste Schritte
 
 Nach Schritt B folgen:
 
-- **Schritt D:** redaktionelle SEO-Regeln – gute Überschriften, Ortsbezug, Themenverlinkung, Aktualisierung statt Dubletten,
 - **Schritt E:** Erfolgsmessung – Search Console, Suchanfragen, Einstiegsseiten und Entwicklung der Auffindbarkeit.
 
 ---
@@ -591,5 +809,6 @@ Nach Schritt B folgen:
 
 | Version | Datum | Änderung |
 |---|---|---|
+| 0.3 | 28.09.2026 | Schritt D ergänzt: redaktionelle SEO-Regeln für Überschriften, lokalen Bezug, Aktualisierung statt Dubletten, Themenverknüpfung, Kurzfassungen, Quellenbezeichnung und KI-Unterstützung definiert. |
 | 0.2 | 28.09.2026 | Schritt C ergänzt: XML-Sitemap, robots.txt, Indexierungsregeln, Canonical-Implementierung, Redirects, strukturierte Daten, Social-Metadaten, technische Prüfungen und Search-Console-Abnahme definiert. |
 | 0.1 | 28.09.2026 | Erstfassung: SEO-Ziel, Seitentypen und kanonische Seitenlogik aus dem Management Approach übernommen; Schritt B mit verbindlichen Onpage-Standards ergänzt. |
