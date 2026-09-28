@@ -101,9 +101,22 @@
     if(/bi-afk|buergerinitiative|gruene|csu|spd|fdp|fw-/.test(href+' '+label))return 'position';
     return 'primary';
   }
+  function readableSourceName(name,url){
+    let n=String(name||'').trim();
+    const u=String(url||'');
+    if(/\.indd$/i.test(n) || /^[0-9_\-]+(?:Ausgabe)?[^ ]*$/i.test(n)){
+      try{
+        const host=new URL(u).hostname.replace(/^www\./,'');
+        if(/feldkirchen\.de$/.test(host)) return 'Gemeinde Feldkirchen – Gemeindeblatt / Originalquelle';
+        return host+' – Originalquelle';
+      }catch(_){}
+    }
+    return n||u;
+  }
   function sourceHtml(s){
     const role=ROLE_LABELS[s.role]||ROLE_LABELS.context;
-    return '<li><span class="more-knowledge-source-role">'+htmlEscape(role)+'</span><a href="'+htmlEscape(s.url)+'" target="'+(String(s.url).startsWith('#')?'_self':'_blank')+'" rel="noopener noreferrer">'+htmlEscape(s.name)+'</a></li>';
+    const name=readableSourceName(s.name,s.url);
+    return '<li><span class="more-knowledge-source-role">'+htmlEscape(role)+'</span><a href="'+htmlEscape(s.url)+'" target="'+(String(s.url).startsWith('#')?'_self':'_blank')+'" rel="noopener noreferrer">'+htmlEscape(name)+'</a></li>';
   }
   function sourceList(card,limit,role){
     return Array.from(card.querySelectorAll('.sources a')).slice(0,limit||6).map(a=>linkData(a,role));
@@ -199,6 +212,35 @@
       ];
     }
 
+    if(/adfc/.test(hay) && /förder|zuschuss|2028|ortsgruppe/.test(hay)){
+      return [
+        {
+          id:'adfc-wofuer',
+          label:'Wofür wurde die Kreisförderung des ADFC bisher eingesetzt?',
+          answer:['Die Frage klärt, welche Aufgaben und Strukturen mit dem Zuschuss finanziert wurden und welche davon für die Ortsgruppen relevant sind.'],
+          sources:[]
+        },
+        {
+          id:'adfc-feldkirchen',
+          label:'Was könnte die Kürzung für die gemeinsame Ortsgruppe mit Feldkirchen bedeuten?',
+          answer:['Entscheidend ist, welche Leistungen der gemeinsamen Ortsgruppe oder der landkreisweiten Koordination tatsächlich von der Förderung abhängen.'],
+          sources:[]
+        },
+        {
+          id:'adfc-entscheidung',
+          label:'Warum will der Landkreis die Förderung beenden?',
+          answer:['Die Frage richtet sich auf die dokumentierten Gründe des Landkreises und trennt diese von möglichen Folgen für den Verband.'],
+          sources:[]
+        },
+        {
+          id:'adfc-alternativen',
+          label:'Welche Möglichkeiten gäbe es, die Arbeit trotzdem weiterzuführen?',
+          answer:['Hier können alternative Finanzierung, ehrenamtliche Strukturen, Kooperationen oder andere Förderwege betrachtet werden, ohne deren Realisierbarkeit vorwegzunehmen.'],
+          sources:[]
+        }
+      ];
+    }
+
     return [];
   }
 
@@ -217,10 +259,10 @@
 
     if(/verkehr|mobilität|rad|bahn|bus|autonom|fahrzeug|straße|parken|mobility/.test(hay))
       add('technik',[
-        'Wie funktioniert das eigentlich?',
-        'Was ist daran neu oder anders als bisher?',
-        'Wie weit ist das technisch oder planerisch schon?',
-        'Was braucht es, damit das in der Praxis funktioniert?'
+        'Welche Technik oder Planung steckt konkret dahinter?',
+        'Was ist bei diesem Vorhaben technisch oder planerisch neu?',
+        'Wie weit ist diese Lösung technisch oder planerisch schon?',
+        'Welche Voraussetzungen braucht dieses Vorhaben in der Praxis?'
       ],'Zu prüfen sind Stand der Technik bzw. Planung, praktische Voraussetzungen, Grenzen und Reifegrad sowie die Einbindung in bestehende Verkehrsangebote.');
 
     if(/bau|bebau|wohnung|miete|genehmig|straße|tempo|verkehr|wärme|energie|datenschutz|beteilig|wahl|gemeinderat/.test(hay))
