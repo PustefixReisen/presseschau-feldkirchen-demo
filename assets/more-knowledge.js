@@ -280,12 +280,38 @@
     return data;
   }
 
+  function renderSafeMarkdown(value){
+    let s=htmlEscape(String(value||''));
+    // Nur bewusst erlaubte Inline-Markdown-Elemente; kein HTML aus Modellantworten.
+    s=s.replace(/\[([^\]]+)\]\((https?:\/\/[^\s)]+)\)/g,(_m,label,url)=>
+      '<a href="'+htmlEscape(url)+'" target="_blank" rel="noopener noreferrer">'+label+'</a>');
+    s=s.replace(/\*\*([^*]+)\*\*/g,'<strong>$1</strong>');
+    s=s.replace(/__([^_]+)__/g,'<strong>$1</strong>');
+    s=s.replace(/\*([^*\n]+)\*/g,'<em>$1</em>');
+    return s;
+  }
+
+  function renderAnswerBlocks(value){
+    const raw=String(value||'').replace(/\r/g,'').trim();
+    if(!raw)return '';
+    const blocks=raw.split(/\n\s*\n/).map(x=>x.trim()).filter(Boolean);
+    return blocks.map(block=>{
+      const lines=block.split('\n').map(x=>x.trim()).filter(Boolean);
+      if(lines.length&&lines.every(line=>/^[-*]\s+/.test(line))){
+        return '<ul class="more-knowledge-answer-list">'+lines.map(line=>'<li>'+renderSafeMarkdown(line.replace(/^[-*]\s+/,''))+'</li>').join('')+'</ul>';
+      }
+      if(lines.length&&lines.every(line=>/^\d+[.)]\s+/.test(line))){
+        return '<ol class="more-knowledge-answer-list">'+lines.map(line=>'<li>'+renderSafeMarkdown(line.replace(/^\d+[.)]\s+/,''))+'</li>').join('')+'</ol>';
+      }
+      return '<p>'+lines.map(renderSafeMarkdown).join('<br>')+'</p>';
+    }).join('');
+  }
+
   function renderAIResult(question,data){
     const body=dialog.querySelector('.more-knowledge-dialog-content');
-    const paragraphs=String(data.answer||'').split(/\n\s*\n/).map(x=>x.trim()).filter(Boolean);
     const sources=Array.isArray(data.sources)?data.sources:[];
     body.innerHTML='<div class="minor">Mehr wissen?</div><h3>'+htmlEscape(question)+'</h3>'+
-      paragraphs.map(p=>'<p>'+htmlEscape(p)+'</p>').join('')+
+      renderAnswerBlocks(data.answer)+
       (sources.length?'<h4>Quellen und ihre Funktion</h4><ul class="sources more-knowledge-sources">'+sources.map(s=>sourceHtml({role:'context',name:s.title||s.url,url:s.url,displayRole:s.role})).join('')+'</ul>':'')+
       '<p class="minor">KI-generierte Vertiefungsantwort. Sie wurde für diese Frage automatisch recherchiert und nicht zwingend vorab redaktionell geprüft. Maßgeblich bleiben die verlinkten Quellen.</p>';
     // API liefert bereits sprechende Rollenbezeichnungen.
