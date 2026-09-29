@@ -4,7 +4,7 @@
 
 | Version | Stand | Verantwortlich |
 |---|---|---|
-| 1.8 | 28.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
+| 1.9 | 29.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
 
 ## Zweck
 
@@ -20,6 +20,7 @@ Diese Regeln gelten unabhängig davon, dass FIB nicht zwingend auf der pustivo-P
 
 | Themenbereich | Primäre verbindliche Quelle | Hinweis |
 |---|---|---|
+| Übergabe Demonstrator → Echtsystem | `docs/FIB_Uebergabe_Echtsystem.md` | verbindlicher konsolidierter Übergabestand für den Start des neuen Echtsystem-Projekts; benennt Übernahme, Ablösung, Migration und offene Gründungsentscheidungen |
 | Management Approach / Gesamtsicht für Kolleginnen und Kollegen | `docs/FIB_Management-Approach.md` | übergreifende Primärquelle für Zielbild, Suchraum, Rollen, Betrieb, Kosten, Qualität, Erfolgskontrolle, Marketingrahmen und Weiterentwicklung |
 | inhaltliche Ausrichtung / fachliches Detailkonzept | `docs/FIB-Inhaltliches-Konzept.md` | fachliche Detailquelle für Zielbild, Zweck, Reichweite und Abgrenzung von Presseschau, Sitzungen und Themen |
 | „Mehr wissen?“ / FIB-Assistent | `docs/FIB_Mehr_wissen_Assistent.md` | verbindliche Primärquelle für Mehrwert-Schwelle, Anschlussfragen, Kontextpaket, funktionale Quellenrollen und Trennung zur politischen Einordnung |\n| Modellunabhängigkeit / KI-Qualitätsprüfung | `docs/FIB_Modellunabhaengigkeit_und_Qualitaetspruefung.md` | verbindliche Primärquelle für Trennung Geschäftsregeln / explizite KI-Regeln / Modellurteil, Modellabhängigkeits-Check und Modellwechsel-Teststrategie |
@@ -48,9 +49,9 @@ Bis dahin darf weder der KI-Leitfaden noch ein Demonstrator-Dokument stillschwei
 
 ## Repository-Rolle
 
-Dieses Repository ist derzeit der **Demonstrator**. Entscheidungen für einen späteren Echtbetrieb dürfen nicht stillschweigend als bereits implementierter Demonstrator-Stand dargestellt werden.
+Dieses Repository ist der **abgeschlossene Demonstrator**. Es bleibt als fachliche, visuelle und historische Referenz bestehen und wird nicht zur technischen Produktivbasis des Echtsystems weiterentwickelt.
 
-Im Rahmen von Issue #12 wird verbindlich entschieden, ob dieses Repository in den Echtbetrieb überführt wird oder ein separates Produktivrepository entsteht. Ein separates Repository erhält eine eigene Dokumentationslandkarte und referenziert gemeinsame Primärquellen ohne konkurrierende Kopien.
+Das Echtsystem wird in einem **separaten Projekt / Produktivrepository** aufgebaut. Maßgeblicher Übergabestand ist `docs/FIB_Uebergabe_Echtsystem.md`. Das neue Projekt erhält eine eigene Dokumentationslandkarte und klärt in seiner Projektgründungsphase, welche bisherigen Primärquellen übernommen, referenziert oder ersetzt werden.
 
 ## Konfliktregel
 
@@ -60,6 +61,7 @@ Ein Sachverhalt wird nur in seiner Primärquelle verbindlich festgelegt. Andere 
 
 | Version | Datum | Änderung |
 |---|---|---|
+| 1.9 | 29.09.2026 | Demonstrator als abgeschlossen markiert; separates Echtsystem-Projekt festgelegt und `FIB_Uebergabe_Echtsystem.md` als verbindlicher Übergabestand aufgenommen. |
 | 1.8 | 28.09.2026 | `FIB_Marketing-und-Kommunikation.md` als eigene Primärquelle aufgenommen; Management Approach auf Kanalübersicht plus vollständige Printtexte reduziert. |
 | 1.7 | 28.09.2026 | `FIB_SEO-und-Auffindbarkeit.md` als eigene Primärquelle aufgenommen; SEO-Details aus dem Management Approach ausgelagert. |
 | 1.6 | 28.09.2026 | `FIB_Management-Approach.md` als übergreifende Primärquelle für Kolleginnen und Kollegen aufgenommen; inhaltliches Konzept bleibt fachliche Detailquelle. |
