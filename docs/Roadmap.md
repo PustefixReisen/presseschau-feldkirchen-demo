@@ -4,7 +4,7 @@
 
 | Version | Stand | Verantwortlich |
 |---|---|---|
-| 2.0 | 28.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
+| 2.1 | 29.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
 
 ## Statusmodell
 
@@ -14,7 +14,7 @@ Es gelten die zentralen Roadmap-Status aus `PustefixReisen/pustivo/docs/governan
 
 | Phase | Status | Ergebnis / nächster Schritt |
 |---|---|---|
-| Demonstrator und Darstellung | **Teilweise umgesetzt** | Demonstrator vorhanden; öffentliche Struktur bleibt auf Presseschau, Sitzungen und Themen konzentriert. Die testweise eingeführte Rubrik `Trends` wurde nach redaktioneller Bewertung wieder entfernt. |
+| Demonstrator und Darstellung | **Abgeschlossen** | Demonstrator wird nicht weiter zur Produktivbasis ausgebaut; er bleibt fachliche, visuelle und historische Referenz für das neue Echtsystem. |
 | Quellenmonitor / Rechercheunterstützung | **Teilweise umgesetzt** | Fach- und Architekturunterlagen vorhanden; produktive Integration noch nicht als Echtbetrieb nachgewiesen |
 | „Mehr wissen?“ / FIB-Assistent | **KI-Anbindung vorbereitet** | Adaptive Hintergrundfragen FIB-weit; Supabase Edge Function und OpenAI-Webrecherche technisch angebunden; Aktivierung nach Hinterlegung des serverseitigen OpenAI-Secrets |
 | KI-Kostenmodell / Providervergleich | **Grundlage dokumentiert** | Besucher-, Redaktions- und Vorabgenerierungskosten für OpenAI, Mistral, Grünerator und weitere Kandidaten vergleichen; reale Demonstratorwerte nachziehen; Produktivabrechnung in OV-Account überführen |
@@ -22,7 +22,8 @@ Es gelten die zentralen Roadmap-Status aus `PustefixReisen/pustivo/docs/governan
 | SEO / Auffindbarkeit | **Konzept vollständig** | Schritte A–E dokumentiert: Seitentypen, Onpage-Standards, technische Umsetzung, redaktionelle Regeln und Erfolgsmessung; technische Realisierung erfolgt im Echtsystem |
 | Projektdokumentation konsolidieren | **In Arbeit** | Allgemein verständliches inhaltliches Konzept angelegt; fachliche/redaktionelle Primärquellen über #11 weiter vervollständigen |
 | Echtbetriebsarchitektur | **In Arbeit** | Architektur-, Betriebs-, Sicherheits-, Daten-, Deployment- und Backupentscheidungen über #12 verbindlich konsolidieren |
-| Produktivsetzung | **Geplant** | erst nach Abschluss der wesentlichen Fach- und Echtbetriebsgrundlagen |
+| Übergabe an Echtsystem | **Abgeschlossen** | Konsolidierter Übergabestand in `docs/FIB_Uebergabe_Echtsystem.md`; Entwicklung wird in neuem Projekt mit Projektgründungsphase fortgesetzt. |
+| Produktivsetzung | **Neues Projekt** | Planung und Umsetzung erfolgen im separaten FIB-Echtsystem-Projekt. |
 
 ## Audit-Ergebnis 12.09.2026
 
@@ -72,9 +73,18 @@ Für die Echtbetriebsarchitektur ist fachliche Parität mit dem aktuellen dokume
 
 ## Nächster konkreter Schritt
 
-**Issue #11** ist der nächste Dokumentationsschritt: Zuerst werden Produkt-/Fachbeschreibung, Referenzwissen, politische Einordnung und Sprachregeln eindeutig als Primärquellen verankert.
+Die Arbeit am Demonstrator ist abgeschlossen.
 
-Danach folgt **#12** zur konsolidierten Echtbetriebsarchitektur. Erst auf dieser Grundlage sollen weitere grundlegende Echtbetriebsentscheidungen umgesetzt werden.
+Der nächste Schritt erfolgt im **neuen Projekt „FIB – Echtsystem“**:
+
+1. Projektgründungsphase durchführen,
+2. Übergabedokument als verbindlichen Ausgangsstand verwenden,
+3. Demonstrator-vs-Echtsystem-Matrix bestätigen,
+4. MVP, Zielarchitektur, Rollen/Rechte, Betrieb und Migration festlegen,
+5. Gründungsaudit,
+6. anschließend mit der technischen Umsetzung beginnen.
+
+Offene historische Demonstrator-Issues werden dabei nicht automatisch als Produktiv-Backlog übernommen, sondern im neuen Projekt fachlich neu eingeordnet.
 
 ## Qualitätsziel: Modellunabhängigkeit
 
@@ -88,6 +98,7 @@ Primärdokument: `docs/FIB_Modellunabhaengigkeit_und_Qualitaetspruefung.md`.
 
 | Version | Datum | Änderung |
 |---|---|---|
+| 2.1 | 29.09.2026 | Demonstrator abgeschlossen; Übergabe an separates Echtsystem-Projekt mit konsolidiertem Übergabedokument und vorgeschalteter Projektgründungsphase festgelegt. |
 | 2.0 | 28.09.2026 | „Mehr wissen?“ zum funktionalen KI-Testsystem erweitert: Supabase-Edge-Function, OpenAI-Webrecherche, freie Fragen und Kostenlimit vorbereitet. |\n| 1.9 | 27.09.2026 | Bezugsebene vom B471-Test auf eine allgemeine datengetriebene Lösung erweitert. Acht initiale Bezugsobjekte angelegt; mehrere Bezüge pro Beitrag/Thema und automatische Frontend-Erzeugung aus `data/bezuege.json` umgesetzt. |
 | 1.8 | 27.09.2026 | Modellunabhängigkeit als verbindliches Architektur- und Qualitätsziel aufgenommen; Modellabhängigkeits-Check und Teststrategie vor Modell-/Anbieterwechsel verankert. |
 | 1.7 | 27.09.2026 | Bezugsebene unterhalb der redaktionellen Themen als Test eingeführt; B471 als erstes Objekt. Für den Echtbetrieb strukturierte Objekt-IDs, Aliasnamen und explizit geprüfte Beziehungen vorgesehen; Mehrwert-Schwelle verhindert Treffer aus bloßen beiläufigen Nennungen. |
