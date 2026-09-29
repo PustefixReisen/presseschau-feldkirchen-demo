@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-28T10:57:37+00:00",
+  "updated_at": "2026-09-29T10:43:19+00:00",
   "items": [
     {
       "event_key": "document:feldkirchen-parkraum-2026:https://www.feldkirchen.de/_Resources/Persistent/d/3/d/e/d3dee38ce3c4a9ad01384ca6ed314a2a8f8bcc12/2026%20Parkraumkonzept%20gem%20GR-Beschluss.pdf:4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
@@ -2864,6 +2864,136 @@
       "kind": "link_new",
       "url": "https://www.merkur.de/lokales/muenchen-lk/taufkirchen-bei-muenchen-ort486320/taufkirchen-verweigert-zustimmung-zum-regionalplan-brauchen-jeden-hektar-94512530.html",
       "link_text": "Taufkirchen verweigert Zustimmung zum Regionalplan: „Brauchen jeden Hektar\"",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:landkreis-muenchen:https://www.landkreis-muenchen.de/buergerservice/online-terminvereinbarung/",
+      "detected_at": "2026-09-29T10:43:09+00:00",
+      "source_id": "landkreis-muenchen",
+      "source_name": "Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.landkreis-muenchen.de/buergerservice/online-terminvereinbarung/",
+      "link_text": "Online-Termin vereinbaren",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:landkreis-muenchen:https://www.landkreis-muenchen.de/artikel/strassenbegleitender-geh-und-radweg-an-der-st-2573-zwi-schen-taufkirchen-und-lanzenhaar-offiziell-eroeffnet/",
+      "detected_at": "2026-09-29T10:43:09+00:00",
+      "source_id": "landkreis-muenchen",
+      "source_name": "Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.landkreis-muenchen.de/artikel/strassenbegleitender-geh-und-radweg-an-der-st-2573-zwi-schen-taufkirchen-und-lanzenhaar-offiziell-eroeffnet/",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:landkreis-muenchen:https://www.landkreis-muenchen.de/artikel/klimawandel-hat-viele-gesichter/",
+      "detected_at": "2026-09-29T10:43:09+00:00",
+      "source_id": "landkreis-muenchen",
+      "source_name": "Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.landkreis-muenchen.de/artikel/klimawandel-hat-viele-gesichter/",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:adfc-muenchen:https://muenchen.adfc.de/neuigkeit/gesucht-office-und-eventmanagerin-m-w-d",
+      "detected_at": "2026-09-29T10:43:10+00:00",
+      "source_id": "adfc-muenchen",
+      "source_name": "ADFC München",
+      "kind": "link_new",
+      "url": "https://muenchen.adfc.de/neuigkeit/gesucht-office-und-eventmanagerin-m-w-d",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:adfc-muenchen:https://muenchen.adfc.de/neuigkeit/gesucht-referentin-radentscheid-m-w-d",
+      "detected_at": "2026-09-29T10:43:10+00:00",
+      "source_id": "adfc-muenchen",
+      "source_name": "ADFC München",
+      "kind": "link_new",
+      "url": "https://muenchen.adfc.de/neuigkeit/gesucht-referentin-radentscheid-m-w-d",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/olympia-bewerbung-historische-chance-und-boost-auch-fuer-den-landkreis-muenchen-94514703.html",
+      "detected_at": "2026-09-29T10:43:15+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/olympia-bewerbung-historische-chance-und-boost-auch-fuer-den-landkreis-muenchen-94514703.html",
+      "link_text": "Olympia-Bewerbung: „Historische Chance“ und „Boost“ auch für den Landkreis",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/aying-ort28266/radweg-in-duerrnhaar-gemeinde-aying-zahlt-nur-79-000-statt-132-000-euro-94514446.html",
+      "detected_at": "2026-09-29T10:43:15+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/aying-ort28266/radweg-in-duerrnhaar-gemeinde-aying-zahlt-nur-79-000-statt-132-000-euro-94514446.html",
+      "link_text": "Zuschuss für Radweg: Gemeinde zahlt nur 79.000 statt 132.000 Euro",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/grasbrunn-ort377335/grasbrunn-motorradfahrer-wird-60-meter-durch-wald-geschleudert-und-prallt-gegen-baeume-94515623.html",
+      "detected_at": "2026-09-29T10:43:15+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/grasbrunn-ort377335/grasbrunn-motorradfahrer-wird-60-meter-durch-wald-geschleudert-und-prallt-gegen-baeume-94515623.html",
+      "link_text": "Motorradfahrer wird 60 Meter durch Wald geschleudert und prallt gegen Bäume",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/hoehenkirchen-siegertsbrunn-ort100556/zweimal-gescheitert-gruene-fordern-suedquote-bei-windkraft-foerderung-94514410.html",
+      "detected_at": "2026-09-29T10:43:15+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/hoehenkirchen-siegertsbrunn-ort100556/zweimal-gescheitert-gruene-fordern-suedquote-bei-windkraft-foerderung-94514410.html",
+      "link_text": "Grüne fordern Südquote bei Windkraft-Förderung",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/gruenwald-ort28770/feuerwehr-gruenwald-bekommt-anbau-mit-uebungsflaeche-auf-dem-dach-94514494.html",
+      "detected_at": "2026-09-29T10:43:15+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/gruenwald-ort28770/feuerwehr-gruenwald-bekommt-anbau-mit-uebungsflaeche-auf-dem-dach-94514494.html",
+      "link_text": "Feuerwehr Grünwald bekommt Anbau – mit Übungsfläche auf dem Dach",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/taufkirchen-bei-muenchen-ort486320/einbrecher-klaut-autoschluessel-und-faehrt-vw-golf-im-wert-von-20-000-euro-davon-94514710.html",
+      "detected_at": "2026-09-29T10:43:15+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/taufkirchen-bei-muenchen-ort486320/einbrecher-klaut-autoschluessel-und-faehrt-vw-golf-im-wert-von-20-000-euro-davon-94514710.html",
+      "link_text": "Einbrecher klaut erst Autoschlüssel und dann den VW Golf",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/oberschleissheim-ort29202/zwei-fahrer-ohne-fuehrerschein-polizei-oberschleissheim-stoppt-mehrere-verstoesse-94513977.html",
+      "detected_at": "2026-09-29T10:43:15+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/oberschleissheim-ort29202/zwei-fahrer-ohne-fuehrerschein-polizei-oberschleissheim-stoppt-mehrere-verstoesse-94513977.html",
+      "link_text": "Zwei Fahrer ohne Führerschein: Polizei stoppt mehrere Verstöße",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/mehr-als-die-haelfte-der-beraterstellen-faellt-weg-6500-gespraeche-gestrichen-94513606.html",
+      "detected_at": "2026-09-29T10:43:15+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/mehr-als-die-haelfte-der-beraterstellen-faellt-weg-6500-gespraeche-gestrichen-94513606.html",
+      "link_text": "Mehr als die Hälfte der Beraterstellen fällt weg: Landkreis München droht massive Kürzung bei Flüchtlingsberatung",
       "status": "unprocessed"
     }
   ]
