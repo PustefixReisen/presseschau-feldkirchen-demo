@@ -4,7 +4,7 @@
 
 | Version | Stand | Verantwortlich |
 |---|---|---|
-| 1.9 | 28.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
+| 2.0 | 29.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
 
 ## 1. Zweck dieses Dokuments
 
@@ -797,6 +797,19 @@ ohne dass die Redaktion dafür parallel eigene Protokolle oder Änderungslisten 
 
 ## 19. Übergabe und personelle Kontinuität
 
+### 19.1 Übergang zum Echtsystem
+
+Mit Stand 29.09.2026 ist die konzeptionelle Arbeit am Demonstrator abgeschlossen. Das produktive FIB wird in einem **separaten Echtsystem-Projekt** aufgebaut.
+
+Der Demonstrator bleibt als Referenz erhalten; seine technische Struktur wird nicht ungeprüft weitergeführt.
+
+Verbindlicher Übergabestand:
+
+`docs/FIB_Uebergabe_Echtsystem.md`
+
+Das neue Projekt beginnt mit der vereinbarten Projektgründungsphase. Erst danach startet die Programmierung des Echtsystems.
+
+
 FIB soll auch dann weiterlaufen können, wenn eine einzelne Person ausfällt oder ihre Rolle abgibt.
 
 Deshalb müssen:
@@ -830,6 +843,7 @@ Für Details gelten insbesondere:
 
 | Version | Datum | Änderung |
 |---|---|---|
+| 2.0 | 29.09.2026 | Demonstrator als konzeptionell abgeschlossen markiert; Übergang in separates Echtsystem-Projekt und verbindliches Übergabedokument verankert. |
 | 1.9 | 28.09.2026 | Grundprinzip „digitaler und analoger Raum“ ergänzt: FIB verbindet digitale Auffindbarkeit und Bindung mit persönlicher Weitergabe, Vertrauen, Vereinen, Initiativen, Veranstaltungen und Multiplikatoren. |
 | 1.8 | 28.09.2026 | Reichweitenbegriff erweitert: persönliche Gespräche und gezielte Kontakte zu Multiplikatoren wie Vereinen, Initiativen und örtlichen Akteuren ausdrücklich aufgenommen. |
 | 1.7 | 28.09.2026 | Kapitel 17 ergänzt um Bedeutung von Reichweite und Bindung sowie kompakte Erfolgsmessung mit Bezug auf das FIB-Dashboard. |
