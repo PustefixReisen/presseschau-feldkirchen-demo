@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-29T10:43:19+00:00",
+  "updated_at": "2026-09-30T10:31:28+00:00",
   "items": [
     {
       "event_key": "document:feldkirchen-parkraum-2026:https://www.feldkirchen.de/_Resources/Persistent/d/3/d/e/d3dee38ce3c4a9ad01384ca6ed314a2a8f8bcc12/2026%20Parkraumkonzept%20gem%20GR-Beschluss.pdf:4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
@@ -2994,6 +2994,156 @@
       "kind": "link_new",
       "url": "https://www.merkur.de/lokales/muenchen-lk/mehr-als-die-haelfte-der-beraterstellen-faellt-weg-6500-gespraeche-gestrichen-94513606.html",
       "link_text": "Mehr als die Hälfte der Beraterstellen fällt weg: Landkreis München droht massive Kürzung bei Flüchtlingsberatung",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:feldkirchen-aktuelle-meldungen:https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/4-kulturfahrt-2026",
+      "detected_at": "2026-09-30T10:31:06+00:00",
+      "source_id": "feldkirchen-aktuelle-meldungen",
+      "source_name": "Gemeinde Feldkirchen – Aktuelle Meldungen",
+      "kind": "link_new",
+      "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/4-kulturfahrt-2026",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:landkreis-muenchen:https://www.landkreis-muenchen.de/artikel/einladung-zur-4-kulturfahrt-im-landkreis/",
+      "detected_at": "2026-09-30T10:31:15+00:00",
+      "source_id": "landkreis-muenchen",
+      "source_name": "Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.landkreis-muenchen.de/artikel/einladung-zur-4-kulturfahrt-im-landkreis/",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:landkreis-muenchen:https://www.landkreis-muenchen.de/artikel/amtsblatt-32-2026/",
+      "detected_at": "2026-09-30T10:31:15+00:00",
+      "source_id": "landkreis-muenchen",
+      "source_name": "Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.landkreis-muenchen.de/artikel/amtsblatt-32-2026/",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/landkreis-muenchen-streicht-jede-zweite-stelle-in-der-integrationsberatung-94516964.html",
+      "detected_at": "2026-09-30T10:31:23+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/landkreis-muenchen-streicht-jede-zweite-stelle-in-der-integrationsberatung-94516964.html",
+      "link_text": "Integration: Einschnitte sind Zäsur und Ansporn zugleich",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/pullach-ort29321/pullach-raub-mit-schreckschusspistole-vier-syrer-nach-ueberfall-bei-burg-schwaneck-in-haft-94515980.html",
+      "detected_at": "2026-09-30T10:31:23+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/pullach-ort29321/pullach-raub-mit-schreckschusspistole-vier-syrer-nach-ueberfall-bei-burg-schwaneck-in-haft-94515980.html",
+      "link_text": "Raub mit Schreckschusspistole: Vier Syrer nach Überfall bei Burg Schwaneck in Haft",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/hoehenkirchen-siegertsbrunn-ort100556/einbrecher-schalten-kamera-aus-fahrradteile-fuer-200-000-euro-gestohlen-94517765.html",
+      "detected_at": "2026-09-30T10:31:23+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/hoehenkirchen-siegertsbrunn-ort100556/einbrecher-schalten-kamera-aus-fahrradteile-fuer-200-000-euro-gestohlen-94517765.html",
+      "link_text": "Einbrecher schalten Kamera aus: Fahrradteile für 200.000 Euro gestohlen",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/schaeftlarn-ort73337/spider-murphy-gang-kabarett-tanz-postsaal-startet-herbstprogramm-94516598.html",
+      "detected_at": "2026-09-30T10:31:23+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/schaeftlarn-ort73337/spider-murphy-gang-kabarett-tanz-postsaal-startet-herbstprogramm-94516598.html",
+      "link_text": "Spider Murphy Gang, Kabarett & Tanz: Postsaal Ebenhausen startet Herbstprogramm",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/brunnthal-ort377264/auffahrunfall-auf-der-a8-mazda-schleudert-von-fahrbahn-50-000-euro-schaden-94517332.html",
+      "detected_at": "2026-09-30T10:31:23+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/brunnthal-ort377264/auffahrunfall-auf-der-a8-mazda-schleudert-von-fahrbahn-50-000-euro-schaden-94517332.html",
+      "link_text": "Mazda schleudert von der Fahrbahn – 50.000 Euro Schaden",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/grasbrunn-ort377335/grasbrunns-gewerbesteuer-explodiert-24-millionen-statt-15-geplant-94516578.html",
+      "detected_at": "2026-09-30T10:31:23+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/grasbrunn-ort377335/grasbrunns-gewerbesteuer-explodiert-24-millionen-statt-15-geplant-94516578.html",
+      "link_text": "„Absoluter Rekordwert“: Grasbrunns Steuereinnahmen weit über ursprünglichem Ansatz",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/mann-faellt-bei-kartoffelernte-vom-erntegeraet-und-wird-ueberrollt-er-stirbt-94517290.html",
+      "detected_at": "2026-09-30T10:31:23+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/mann-faellt-bei-kartoffelernte-vom-erntegeraet-und-wird-ueberrollt-er-stirbt-94517290.html",
+      "link_text": "Mann fällt bei Kartoffelernte vom Gerät und wird überrollt",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/strasslach-dingharting-ort377277/fettbrand-mit-wasser-loeschen-kann-toedlich-enden-feuerwehr-strasslach-zeigt-warum-94516576.html",
+      "detected_at": "2026-09-30T10:31:23+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/strasslach-dingharting-ort377277/fettbrand-mit-wasser-loeschen-kann-toedlich-enden-feuerwehr-strasslach-zeigt-warum-94516576.html",
+      "link_text": "Fettbrand mit Wasser löschen kann tödlich enden: Feuerwehr Straßlach zeigt warum",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/feldkirchen-baut-zwei-trinkwasserbrunnen-freistaat-zahlt-90-prozent-94514413.html",
+      "detected_at": "2026-09-30T10:31:23+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/feldkirchen-baut-zwei-trinkwasserbrunnen-freistaat-zahlt-90-prozent-94514413.html",
+      "link_text": "Feldkirchen baut zwei Trinkwasserbrunnen – Freistaat zahlt 90 Prozent",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/garchinger-tisch-feiert-20-jahre-ehrenamtliche-halten-die-tafeln-am-laufen-94514415.html",
+      "detected_at": "2026-09-30T10:31:23+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/garchinger-tisch-feiert-20-jahre-ehrenamtliche-halten-die-tafeln-am-laufen-94514415.html",
+      "link_text": "Garchinger Tisch feiert 20 Jahre: Ehrenamtliche halten die Tafeln am Laufen",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-feldkirchen:https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/feldkirchen-baut-zwei-trinkwasserbrunnen-freistaat-zahlt-90-prozent-94514413.html",
+      "detected_at": "2026-09-30T10:31:24+00:00",
+      "source_id": "merkur-feldkirchen",
+      "source_name": "Münchner Merkur – Feldkirchen",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/feldkirchen-baut-zwei-trinkwasserbrunnen-freistaat-zahlt-90-prozent-94514413.html",
+      "link_text": "Feldkirchen baut zwei Trinkwasserbrunnen – Freistaat zahlt 90 Prozent",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-kirchheim:https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/mann-faellt-bei-kartoffelernte-vom-erntegeraet-und-wird-ueberrollt-er-stirbt-94517290.html",
+      "detected_at": "2026-09-30T10:31:26+00:00",
+      "source_id": "merkur-kirchheim",
+      "source_name": "Münchner Merkur – Kirchheim",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/mann-faellt-bei-kartoffelernte-vom-erntegeraet-und-wird-ueberrollt-er-stirbt-94517290.html",
+      "link_text": "Mann fällt bei Kartoffelernte vom Gerät und wird überrollt",
       "status": "unprocessed"
     }
   ]
