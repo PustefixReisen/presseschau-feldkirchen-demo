@@ -4,7 +4,7 @@
 
 | Version | Stand | Verantwortlich |
 |---|---|---|
-| 1.5 | 27.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
+| 1.6 | 30.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
 
 ## Zielbild
 
@@ -37,7 +37,8 @@ FIB ist deshalb mehr als eine Presseschau. Es soll Orientierung ermöglichen:
 
 - **Was ist neu?**
 - **Was wird politisch beraten oder entschieden?**
-- **Welche Themen beschäftigen Feldkirchen länger?**
+- **Welche konkreten Vorgänge entwickeln sich über längere Zeit?**
+- **Welche übergeordneten Themen verbinden mehrere Vorgänge und Perspektiven?**
 - **Welche Entwicklungen außerhalb Feldkirchens könnten für uns interessant werden?**
 - **Welche gesellschaftlichen, wissenschaftlichen oder technischen Entwicklungen könnten unsere Handlungsmöglichkeiten verändern?**
 - **Welche neuen Ideen, Erfahrungen und Perspektiven können für die Zukunft Feldkirchens Denkanstöße geben?**
@@ -60,7 +61,7 @@ Der Bezug zu Feldkirchen wird bei solchen Beiträgen ausdrücklich sichtbar gema
 
 **Beispiele:** Die Kürzung der Landkreis-Förderung für den ADFC betrifft nicht unmittelbar die Gemeinde Feldkirchen, wohl aber die gemeinsame Ortsgruppe und ihre Vernetzungsstrukturen. Neue Fahrradstraßen am Schulcampus Aschheim sind für Feldkirchen relevant, weil Feldkirchen dem Schulzweckverband angehört. Der Münchner Test autonomer On-Demand-Fahrzeuge ist dagegen noch keine Feldkirchner Entwicklung, kann aber eine **mögliche zukünftige Bedeutung** für die regionale Mobilität haben.
 
-## Drei redaktionelle Ebenen
+## Redaktionelle Ebenen und Wissensstruktur
 
 ### 1. Presseschau – Was ist neu?
 
@@ -68,17 +69,79 @@ Die Presseschau enthält konkrete neue Entwicklungen. Sie informiert knapp, quel
 
 Dazu gehören auch ausgewählte Meldungen außerhalb Feldkirchens, wenn eine konkrete **erweiterte Relevanz** oder eine plausible **mögliche zukünftige Bedeutung** für Feldkirchen besteht.
 
-### 2. Sitzungen – Was wird beraten und entschieden?
+### 2. Vorgänge – Was entwickelt sich in einem konkreten Sachverhalt?
+
+Ein Vorgang bündelt mehrere Ereignisse, die zu demselben konkreten Sachverhalt gehören. Beispiele sind Hundewiese, Parkraumkonzept, Kinderhaus St. Jakob oder die Entwicklung des Gebietes „Kiesgrund“.
+
+Ein Vorgang kann beginnen, fortgeschrieben, zurückgestellt, wieder aufgenommen und abgeschlossen werden. Chronologie und Status wie aktiv, ruhend oder abgeschlossen gehören deshalb grundsätzlich auf die Vorgangsebene.
+
+### 3. Sitzungen – Was wird beraten und entschieden?
 
 Hier werden öffentliche Sitzungen und wichtige Tagesordnungspunkte nachvollziehbar dargestellt. Beschlussvorlagen, Beratungen und tatsächliche Entscheidungen werden klar voneinander getrennt.
 
-### 3. Themen – Was beschäftigt Feldkirchen länger?
+### 4. Themen – Welche übergeordnete Frage verbindet mehrere Vorgänge?
 
-Ein Thema bündelt einen **konkreten Feldkirchner Vorgang oder Sachzusammenhang**, der sich über längere Zeit entwickelt.
+Ein Thema ist keine bloße Beitragskette und keine feste Kategorie. Es ist eine **übergeordnete Fragestellung**, die mehrere unterschiedliche Vorgänge, Ereignisse, Perspektiven oder Rahmenbedingungen verbindet und dadurch einen zusätzlichen Erklärungsgewinn schafft.
 
-Themen zeigen Verlauf, Entscheidungen, offene Fragen und Zusammenhänge. Sie werden fortgeschrieben, wenn neue Informationen hinzukommen.
+Themen werden **bottom-up** aus dem Material erkannt und anschließend redaktionell bestätigt. Hinweise auf ein Thema können beispielsweise ein gemeinsames Problem oder Ziel, wiederkehrende Zielkonflikte, gemeinsame Handlungsebenen oder Rahmenbedingungen, räumliche oder zeitliche Zusammenhänge, mehrere relevante Perspektiven oder ein deutlicher Erklärungsgewinn durch Zusammenführung sein.
 
-**Beispiel:** Das Thema „Bürgerbeteiligung und kommunale Mitwirkung“ verbindet die Feldkirchner Bürgerversammlung, Bürgerfragestunde und ihre jeweiligen Folgevorgänge.
+Die KI soll dabei bewusst sensitiv arbeiten: Lieber wird ein plausibler Themenkandidat zusätzlich vorgeschlagen, als ein relevanter Zusammenhang übersehen. Ein Themenkandidat ist noch kein veröffentlichtes Thema.
+
+**Beispiele für Themen:**
+- Wohnen und kommunale Entwicklung,
+- kommunale Wärmeversorgung / Wärmeplanung und Geothermie,
+- Klimaanpassung im Lebensumfeld,
+- Regionale Mobilität und Verkehrsverflechtungen Feldkirchens.
+
+Ein Vorgang kann mehreren Themen zugeordnet sein; ein Thema umfasst in der Regel mehrere Vorgänge.
+
+### Redaktionelle Schärfung und lernfähige Themendefinition
+
+Die Redaktion kann einen Themenkandidaten nicht nur bestätigen oder ablehnen. Sie kann fehlende Aspekte oder bislang nicht erfasste Vorgänge ergänzen, Aspekte streichen oder anders gewichten sowie Leitfrage und Abgrenzung verändern.
+
+Solche Ergänzungen gelten zunächst als **Prüf- und Rechercheauftrag**. Die KI soll gezielt prüfen, ob ein konkreter Feldkirchen-Bezug besteht, welche lokalen Quellen und Daten vorliegen, welcher übergeordnete Kontext wirklich erklärungsrelevant ist und ob der neue Aspekt die Themendefinition verändern sollte.
+
+Der Vorgang „Kiesgrund“ ist dafür ein Referenzfall: Ein redaktioneller Hinweis auf einen bislang kaum sichtbaren, aber potenziell sehr prägenden Entwicklungsbereich muss eine gezielte Recherche auslösen und kann eine bereits bestätigte Definition des Themas Wohnen oder Ortsentwicklung verändern.
+
+Eine bestätigte Themendefinition ist deshalb **kein eingefrorener Endzustand**. Sie kann später ausgeschärft werden. Fachliche Änderungen werden versioniert und erneut redaktionell bestätigt.
+
+### Wirkungsrollen innerhalb eines Themas
+
+Nicht jeder Vorgang hat für ein Thema dieselbe Funktion. FIB unterscheidet deshalb mindestens:
+
+- **Treiber / prägender Vorgang** – verändert das Thema wesentlich,
+- **Umsetzung / Gestaltungsbeitrag** – setzt eine Entwicklung oder Strategie konkret um,
+- **Betroffenheit / Auswirkung** – zeigt Folgen eines übergeordneten Vorgangs,
+- **Rahmenbedingung / Kontext** – erklärt Zuständigkeiten, Recht, Technik, Finanzierung oder andere Voraussetzungen,
+- **Indikator / Beobachtung** – macht eine Entwicklung sichtbar, ohne sie wesentlich zu verursachen.
+
+Ein Vorgang kann mehrere Rollen haben und seine Rolle kann sich verändern. Die Wirkungsrolle beeinflusst die Gewichtung der Themendarstellung. So darf etwa der Ausbau des Autobahnkreuzes München-Ost als prägender Treiber eines Mobilitätsthemas nicht gleichrangig neben einer einzelnen temporären Verkehrsbeeinträchtigung erscheinen; ein Radwegenetz kann dagegen ein eigenständiger Gestaltungsbeitrag sein.
+
+### Aufbau einer Themenseite
+
+Eine Themenseite ist kein chronologischer Vorgangsbericht. Sie soll in einer stabilen Grundstruktur zeigen:
+
+- Leitfrage,
+- Bedeutung für Feldkirchen,
+- themenspezifische Perspektiven,
+- prägende und weitere Vorgänge mit ihrer Wirkungsrolle,
+- aktuellen lokalen Wissensstand,
+- nur den erklärungsrelevanten übergeordneten Kontext,
+- offene Fragen und Wissenslücken,
+- wesentliche Änderungen der Themendefinition.
+
+Chronologien gehören primär zu den einzelnen Vorgängen.
+
+### Themenunabhängige Entdeckung
+
+FIB darf neue Themen nicht nur aus bereits bekannten Themenbegriffen suchen. Sonst würden unbekannte Entwicklungen möglicherweise dauerhaft übersehen.
+
+Deshalb verbindet die Recherche zwei Wege:
+
+1. gezielte Recherche zu bekannten Themen und Vorgängen,
+2. themenunabhängige Entdeckung durch regelmäßige Sichtung relevanter lokaler und regionaler Quellen, ortsbezogene Suche, rückblickende Recherche und die Analyse breiter Sammelartikel.
+
+So soll FIB auch Sachzusammenhänge entdecken können, für die bislang noch kein etablierter Themenbegriff existiert.
 
 ## Die Meldung ist der Einstieg – „Mehr wissen?“
 
@@ -206,7 +269,10 @@ Damit bleibt Raum für einen breiten Blick auf kommunalpolitische, gesellschaftl
 
 | Version | Datum | Änderung |
 |---|---|---|
-| 1.5 | 27.09.2026 | „Mehr wissen?“ geschärft: keine redundanten Kern-/Belegfragen; Hintergrund- und Entwicklungsperspektiven aus der früheren Trendlogik als Rechercheachsen übernommen. |\n| 1.4 | 27.09.2026 | „Mehr wissen?“ als FIB-weites Vertiefungsprinzip ergänzt: Meldung/Thema als Einstieg, adaptive Anschlussfragen, quellengebundene Vertiefung mit funktionalen Quellenrollen und klare Trennung zu „Unsere Einordnung“. |\n| 1.3 | 27.09.2026 | Öffentliche Trend-Ebene wieder entfernt; FIB auf Presseschau, Sitzungen und Themen konzentriert. Übergreifende Trendanalyse künftig als interne Stoffsammlung/Landkarte außerhalb von FIB vorgesehen. Erweiterte und wissenschaftlich-technische Zukunftsrelevanz bleiben als Beitragsregeln erhalten. |
+| 1.6 | 30.09.2026 | Themenbegriff grundlegend geschärft: Beitrag/Ereignis, Vorgang und Thema getrennt; bottom-up Erkennung, redaktionelle Ergänzung und Rechercheaufträge, iterative/versionierte Themendefinition, Wirkungsrollen und themenunabhängige Entdeckung ergänzt. |
+| 1.5 | 27.09.2026 | „Mehr wissen?“ geschärft: keine redundanten Kern-/Belegfragen; Hintergrund- und Entwicklungsperspektiven aus der früheren Trendlogik als Rechercheachsen übernommen. |
+| 1.4 | 27.09.2026 | „Mehr wissen?“ als FIB-weites Vertiefungsprinzip ergänzt: Meldung/Thema als Einstieg, adaptive Anschlussfragen, quellengebundene Vertiefung mit funktionalen Quellenrollen und klare Trennung zu „Unsere Einordnung“. |
+| 1.3 | 27.09.2026 | Öffentliche Trend-Ebene wieder entfernt; FIB auf Presseschau, Sitzungen und Themen konzentriert. Übergreifende Trendanalyse künftig als interne Stoffsammlung/Landkarte außerhalb von FIB vorgesehen. Erweiterte und wissenschaftlich-technische Zukunftsrelevanz bleiben als Beitragsregeln erhalten. |
 | 1.2 | 26.09.2026 | Ausgewählte konkrete Beispiele ergänzt, um Zielbild, erweiterte Relevanz und wissenschaftlich-technische Zukunftsrelevanz anschaulicher zu machen. |
 | 1.1 | 26.09.2026 | Zielbild als strategische Ebene vor dem praktischen Zweck ergänzt; zwei Zugänge zu Trends beschrieben; wissenschaftlich-technische Zukunftsrelevanz aufgenommen; Forschungs- und Denkhorizont aus dem Seminar deutlich über Ostrom hinaus erweitert. |
 | 1.0 | 26.09.2026 | Erstfassung: Zweck von FIB, erweiterte Relevanz, Abgrenzung Presseschau/Sitzungen/Themen/Trends, Trend-Recherche und Umgang mit neuen gesellschaftlichen Perspektiven beschrieben. |
