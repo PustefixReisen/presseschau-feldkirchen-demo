@@ -4,7 +4,7 @@
 
 | Version | Stand | Verantwortlich |
 |---|---|---|
-| 2.0 | 29.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
+| 2.1 | 30.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
 
 ## 1. Zweck dieses Dokuments
 
@@ -34,7 +34,7 @@ FIB soll insbesondere:
 
 - lokale Entscheidungen und Entwicklungen verständlich machen,
 - Gemeinderatsarbeit und öffentliche Beteiligungsmöglichkeiten nachvollziehbar machen,
-- länger laufende Themen zusammenführen,
+- konkrete Vorgänge und übergeordnete Themen sinnvoll miteinander verbinden,
 - relevante Entwicklungen außerhalb Feldkirchens auf ihre Bedeutung für Feldkirchen prüfen,
 - neue technische, wissenschaftliche oder gesellschaftliche Entwicklungen als Lernchancen sichtbar machen,
 - Chancen ebenso wie Grenzen, Zielkonflikte und Unsicherheiten zeigen,
@@ -69,7 +69,7 @@ FIB soll außerdem keine politische Bewertung als neutrale Information ausgeben.
 
 ---
 
-## 5. Die drei redaktionellen Ebenen
+## 5. Redaktionelle Ebenen und Wissensstruktur
 
 ### 5.1 Presseschau – Was ist neu?
 
@@ -95,16 +95,25 @@ Dabei wird ausdrücklich getrennt zwischen:
 
 Eine Beschlussvorlage ist **noch kein Beschluss**.
 
-### 5.3 Themen – Was beschäftigt Feldkirchen länger?
+### 5.3 Vorgänge – Was entwickelt sich in einem konkreten Sachverhalt?
 
-Ein Thema verbindet mehrere Beiträge und Entscheidungen zu einem länger laufenden Sachzusammenhang.
+Ein Vorgang bündelt mehrere Ereignisse desselben konkreten Sachverhalts. Beispiele sind Hundewiese, Parkraumkonzept, Kinderhaus St. Jakob oder die Entwicklung des Gebietes „Kiesgrund“.
 
-**Beispiele:**
-- Bürgerbeteiligung und kommunale Mitwirkung,
-- Wohnungsbau und kommunale Planung,
-- Parkraumkonzept,
-- Verkehrssicherheit an B471 und M18,
-- A99-Ausbau und M18/EBE4.
+Ein Vorgang kann beginnen, fortgeschrieben, zurückgestellt, wieder aufgenommen und abgeschlossen werden. Chronologie und Status wie aktiv, ruhend oder abgeschlossen gehören deshalb grundsätzlich auf diese Ebene.
+
+### 5.4 Themen – Welche übergeordnete Frage verbindet mehrere Vorgänge?
+
+Ein Thema ist keine bloße Beitragskette und keine feste Kategorie. Es verbindet mehrere unterschiedliche Vorgänge, Ereignisse, Perspektiven oder Rahmenbedingungen zu einer übergeordneten Fragestellung und erzeugt dadurch zusätzlichen Erklärungsgewinn.
+
+Themen werden **bottom-up** aus dem vorhandenen Material vorgeschlagen und redaktionell bestätigt. Die KI soll dabei bewusst sensitiv arbeiten: Lieber ein plausibler Themenkandidat zu viel als ein relevanter Zusammenhang übersehen.
+
+Die Redaktion kann Themenkandidaten nicht nur bestätigen oder verwerfen. Sie kann fehlende Aspekte und bislang nicht erkannte Vorgänge ergänzen, Perspektiven anders gewichten sowie Leitfrage und Abgrenzung verändern. Solche Ergänzungen lösen gezielte Prüf- und Rechercheaufträge aus.
+
+Eine bestätigte Themendefinition bleibt **lern- und veränderbar**. Neue Vorgänge, Quellen oder redaktionelle Hinweise können eine spätere Ausschärfung auslösen; fachliche Änderungen werden versioniert und erneut bestätigt.
+
+Nicht alle Vorgänge haben in einem Thema dieselbe Funktion. FIB unterscheidet deshalb Wirkungsrollen wie **Treiber/prägender Vorgang**, **Umsetzung/Gestaltungsbeitrag**, **Betroffenheit/Auswirkung**, **Rahmenbedingung/Kontext** und **Indikator/Beobachtung**. So kann etwa der Ausbau des Autobahnkreuzes München-Ost ein prägender Treiber des Themas „Regionale Mobilität und Verkehrsverflechtungen Feldkirchens“ sein, während ein Radwegenetz einen Gestaltungsbeitrag und eine einzelne Sperrung vor allem Betroffenheit beschreibt.
+
+Die Themenseite stellt daher nicht einfach alles chronologisch nebeneinander. Sie zeigt Leitfrage, lokale Bedeutung, Perspektiven, prägende und weitere Vorgänge mit ihrer Rolle, erklärungsrelevanten Kontext sowie offene Fragen und Wissenslücken.
 
 ---
 
@@ -184,6 +193,8 @@ FIB beobachtet insbesondere:
 - Infrastruktur und Versorgung,
 - Sicherheit und Bevölkerungsschutz.
 
+Diese Schwerpunkte sind **Such- und Beobachtungsfelder**, keine vorab festgelegte öffentliche Themenliste. Öffentliche Themen entstehen erst aus konkreten Zusammenhängen im FIB-Bestand und werden redaktionell bestätigt.
+
 Zusätzlich werden Querschnittsentwicklungen beobachtet, etwa:
 
 - Digitalisierung und Künstliche Intelligenz,
@@ -227,24 +238,38 @@ Eine neue RIS-Beschlussvorlage kann direkt gefunden und verarbeitet werden. Für
 
 Quellen sollen **konkret nachvollziehbar** sein. Bei einem Gemeindeblatt reicht ein Link auf das gesamte PDF nicht, wenn nur eine einzelne Passage gemeint ist; soweit möglich werden Ausgabe, Seite, Abschnitt oder Überschrift angegeben.
 
+### 8.1 Bekannte Themen reichen für die Entdeckung nicht aus
+
+FIB darf Recherche nicht ausschließlich aus bereits bekannten Themenbegriffen ableiten. Sonst entsteht ein Zirkelschluss: Was noch nicht als Thema oder Vorgang erkannt wurde, wird möglicherweise auch nicht gezielt gesucht.
+
+Deshalb werden zwei Wege kombiniert:
+
+1. **themen- und vorgangsbezogene Recherche** zu bereits bekannten Sachzusammenhängen,
+2. **themenunabhängige Entdeckung** durch regelmäßige Sichtung relevanter lokaler und regionaler Pflichtquellen, ortsbezogene Suche, periodische Rückblicke und die Analyse breiter Sammelartikel.
+
+Der Fall „Kiesgrund“ ist ein Referenzfall: Ein großer Zukunftsvorgang soll nicht dauerhaft unter dem Radar bleiben, nur weil er bisher nicht als FIB-Begriff etabliert war.
+
 ---
 
 ## 9. Redaktioneller Ablauf
 
 Der Zielprozess im Echtbetrieb ist:
 
-1. Quellen automatisch beobachten.
+1. Quellen automatisch beobachten und zusätzlich themenunabhängige Entdeckung durchführen.
 2. Neue oder geänderte Fundstellen erkennen.
 3. Relevanz für FIB prüfen.
-4. Entwurf automatisch erstellen oder bestehenden Beitrag aktualisieren.
-5. Quellen und Aussagen prüfen.
-6. „Mehr wissen?“-Fragen und gegebenenfalls vorbereitete Antworten erzeugen.
-7. Redaktion prüft und verändert den Entwurf bei Bedarf.
-8. Beitrag wird freigegeben.
-9. Veröffentlichung.
-10. Neue Entwicklungen führen zu Aktualisierung, Themenfortschreibung oder neuer Meldung.
+4. Ereignis bestimmen: neuer Beitrag oder Aktualisierung eines bestehenden Beitrags.
+5. Ereignisse einem bestehenden Vorgang zuordnen oder einen neuen Vorgang vorschlagen.
+6. Bestehende Themenbezüge prüfen und aus mehreren Vorgängen neue Themenkandidaten erkennen.
+7. Entwurf automatisch erstellen; Quellen und Aussagen prüfen.
+8. Bei Themenkandidaten Leitfrage, Perspektiven, Abgrenzung und Wirkungsrollen vorschlagen.
+9. Redaktion prüft, ergänzt fehlende Aspekte oder Vorgänge und kann gezielte Rechercheaufträge auslösen.
+10. KI recherchiert Ergänzungen, schärft den Vorschlag und legt die überarbeitete Definition erneut vor.
+11. Beitrag, Vorgang oder Themendefinition wird redaktionell freigegeben.
+12. Veröffentlichung.
+13. Neue Entwicklungen führen zu Aktualisierung, neuer Meldung, Vorgangsfortschreibung oder erneuter Ausschärfung einer Themendefinition.
 
-Die Redaktion soll **nicht jeden Text neu schreiben müssen**. Ihre Aufgabe ist vor allem zu prüfen, zu korrigieren, zu gewichten und gegebenenfalls verständlicher oder prägnanter zu formulieren.
+Die Redaktion soll **nicht jeden Text neu schreiben müssen**. Ihre Aufgabe ist vor allem zu prüfen, zu korrigieren, zu gewichten, fehlendes Wissen einzubringen, Abgrenzungen zu schärfen und die Veröffentlichungsreife zu bestätigen.
 
 ---
 
@@ -301,10 +326,12 @@ Für den geplanten Betrieb stehen derzeit vier Personen zur Verfügung:
 ### 11.2 Aufgabenverteilung im Alltag
 
 **Automatisch:**
-- Quellenmonitor,
+- Quellenmonitor und themenunabhängige Entdeckung,
 - Erkennung neuer Fundstellen,
 - Entwurfserstellung,
-- Themenverknüpfung,
+- Vorschläge für Ereignis-/Vorgangszuordnung,
+- Themenkandidaten und Themenverknüpfung,
+- Vorschläge für Wirkungsrollen und Themenschärfung,
 - Vorschläge für „Mehr wissen?“,
 - technische Kostenprotokollierung.
 
@@ -312,6 +339,8 @@ Für den geplanten Betrieb stehen derzeit vier Personen zur Verfügung:
 - Freigabe,
 - Korrektur kritischer Aussagen,
 - Prüfung von „Unsere Einordnung“,
+- Ergänzung fehlender Aspekte und Vorgänge,
+- Schärfung und Freigabe von Themendefinitionen,
 - Entscheidung bei Grenzfällen der Relevanz,
 - Behandlung von Fehlerhinweisen.
 
@@ -365,6 +394,7 @@ Kosten entstehen, wenn die Redaktion aktiv KI-Unterstützung anfordert, beispiel
 - „Prüfe, ob sich aus der neuen Vorlage eine Aktualisierung ergibt.“
 - „Schlage drei Varianten für unsere Einordnung vor.“
 - „Welche Mehr-wissen-Fragen passen zu diesem Beitrag?“
+- „Prüfe diesen ergänzten Aspekt und schärfe die Themendefinition.“
 
 Wenn der vorhandene Quellenbestand genügt, entsteht dabei keine Websuchgebühr.
 
@@ -385,13 +415,15 @@ Dort werden OpenAI, Mistral, Grünerator und weitere Kandidaten getrennt betrach
 
 ## 14. Aktualität
 
-Gespeicherte Antworten und Beiträge erhalten einen Informationsstand.
+Gespeicherte Antworten, Beiträge, Vorgänge und Themendefinitionen erhalten einen Informationsstand.
 
 Eine erneute Prüfung wird ausgelöst, wenn:
 
 - sich eine zugrunde liegende Quelle ändert,
 - ein neuer Beitrag denselben Sachverhalt wesentlich verändert,
-- ein Thema fortgeschrieben wird,
+- ein Vorgang fortgeschrieben wird,
+- eine neue Entwicklung eine bestehende Themendefinition berührt,
+- die Redaktion einen fehlenden Aspekt oder Vorgang ergänzt,
 - eine definierte Gültigkeitsdauer abläuft,
 - oder die Redaktion eine neue Prüfung anstößt.
 
@@ -411,6 +443,9 @@ Wichtige Kriterien sind:
 - Trennung von Fakt und Position,
 - Kontextverständnis,
 - richtige Rolle Feldkirchens,
+- richtige Abgrenzung von Beitrag, Vorgang und Thema,
+- nachvollziehbare Themenkandidaten und Wirkungsrollen,
+- Erkennen von relevanten Themenlücken,
 - verständliche Sprache,
 - erkennbare Unsicherheit,
 - nicht redundante „Mehr wissen?“-Fragen,
@@ -445,7 +480,7 @@ Wir beobachten:
 - Zugriffe über Homepage, Newsletter, Mastodon, QR-Codes und geteilte Links.
 
 **Beispiel:**  
-Wenn viele Menschen über die Suche „Hundewiese Feldkirchen“ auf einen alten Einzelbeitrag gelangen, obwohl eine aktuelle Themenseite existiert, ist das ein Hinweis, interne Verlinkung oder SEO-Struktur nachzubessern.
+Wenn viele Menschen über die Suche „Hundewiese Feldkirchen“ auf einen alten Einzelbeitrag gelangen, obwohl eine aktuelle Sachstandsseite existiert, ist das ein Hinweis, interne Verlinkung oder SEO-Struktur nachzubessern.
 
 ### 16.2 Nutzung der Vertiefung
 
@@ -499,6 +534,8 @@ Wir beobachten:
 - Fälle von Verwechslung zwischen Vorlage und Beschluss,
 - unpassende „Mehr wissen?“-Fragen,
 - fehlerhafte Orts-/Themenzuordnung,
+- fehlerhafte Abgrenzung von Vorgang und Thema,
+- übersehene wesentliche Vorgänge oder Perspektiven,
 - Beschwerden oder Hinweise auf versteckte politische Verzerrung,
 - Ergebnisse von Stichproben.
 
@@ -512,6 +549,7 @@ Für den Betrieb wird intern beobachtet:
 - Zahl redaktionell geänderter Beiträge,
 - durchschnittlicher Prüfaufwand,
 - Zahl manueller Rechercheeingriffe,
+- Zahl redaktionell ergänzter Themenaspekte/Rechercheaufträge,
 - technische Störungen,
 - Zeitaufwand für Administration,
 - Aufwand für Newsletter-/Marketingaktionen.
@@ -734,6 +772,7 @@ Für die Redaktion entsteht daraus **kein eigener Dokumentationsprozess**.
 Dokumentationsrelevant sind insbesondere allgemeine oder dauerhafte Änderungen an:
 
 - Relevanzregeln,
+- Themen-/Vorgangslogik und Themendefinition,
 - Suchraum und Quellenlogik,
 - „Mehr wissen?“-Logik,
 - redaktionellem Ablauf,
@@ -749,7 +788,7 @@ Dokumentationsrelevant sind insbesondere allgemeine oder dauerhafte Änderungen 
 - Wird festgelegt, dass Gemeindeblätter künftig mit konkreter Seite oder Überschrift referenziert werden, wird diese Regel in der zuständigen Quellen-/Redaktionsdokumentation ergänzt.
 - Wird ein tägliches Limit für freie Besucherfragen eingeführt, werden technische Konfiguration und Kosten-/Betriebsdokumentation gemeinsam angepasst.
 - Wird von OpenAI auf Mistral oder einen anderen Provider gewechselt, werden Provider-, Qualitäts-, Kosten- und Betriebsdokumentation aktualisiert.
-- Wird die Relevanzlogik erweitert, wird die fachliche Primärquelle entsprechend fortgeschrieben.
+- Wird die Relevanz- oder Themenlogik erweitert, wird die fachliche Primärquelle entsprechend fortgeschrieben.
 
 ### 18.3 Was nicht gesondert dokumentiert werden muss
 
@@ -809,7 +848,6 @@ Verbindlicher Übergabestand:
 
 Das neue Projekt beginnt mit der vereinbarten Projektgründungsphase. Erst danach startet die Programmierung des Echtsystems.
 
-
 FIB soll auch dann weiterlaufen können, wenn eine einzelne Person ausfällt oder ihre Rolle abgibt.
 
 Deshalb müssen:
@@ -837,12 +875,15 @@ Für Details gelten insbesondere:
 - `FIB_Frontend_und_Darstellung.md` – Darstellung
 - `Roadmap.md` – Projektfortschritt
 
+Für das Echtsystem ist zusätzlich `docs/Themen-und-Vorgangslogik.md` im Repository `PustefixReisen/fib-echtsystem` die verbindliche fachliche Primärquelle für die neue Themen- und Vorgangslogik.
+
 ---
 
 ## Änderungshistorie
 
 | Version | Datum | Änderung |
 |---|---|---|
+| 2.1 | 30.09.2026 | Neue Themen- und Vorgangslogik auf Managementebene verankert: bottom-up Themenbildung, redaktionelle Ergänzung und Rechercheaufträge, lernfähige/versionierte Themendefinition, Wirkungsrollen sowie themenunabhängige Entdeckung. |
 | 2.0 | 29.09.2026 | Demonstrator als konzeptionell abgeschlossen markiert; Übergang in separates Echtsystem-Projekt und verbindliches Übergabedokument verankert. |
 | 1.9 | 28.09.2026 | Grundprinzip „digitaler und analoger Raum“ ergänzt: FIB verbindet digitale Auffindbarkeit und Bindung mit persönlicher Weitergabe, Vertrauen, Vereinen, Initiativen, Veranstaltungen und Multiplikatoren. |
 | 1.8 | 28.09.2026 | Reichweitenbegriff erweitert: persönliche Gespräche und gezielte Kontakte zu Multiplikatoren wie Vereinen, Initiativen und örtlichen Akteuren ausdrücklich aufgenommen. |
