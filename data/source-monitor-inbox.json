@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-30T10:31:28+00:00",
+  "updated_at": "2026-10-01T10:59:15+00:00",
   "items": [
     {
       "event_key": "document:feldkirchen-parkraum-2026:https://www.feldkirchen.de/_Resources/Persistent/d/3/d/e/d3dee38ce3c4a9ad01384ca6ed314a2a8f8bcc12/2026%20Parkraumkonzept%20gem%20GR-Beschluss.pdf:4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
@@ -3144,6 +3144,106 @@
       "kind": "link_new",
       "url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/mann-faellt-bei-kartoffelernte-vom-erntegeraet-und-wird-ueberrollt-er-stirbt-94517290.html",
       "link_text": "Mann fällt bei Kartoffelernte vom Gerät und wird überrollt",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/develey-senf-firma-aus-unterhaching-beliefert-fast-alle-zelte-auf-dem-oktoberfest-94518557.html",
+      "detected_at": "2026-10-01T10:59:11+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/develey-senf-firma-aus-unterhaching-beliefert-fast-alle-zelte-auf-dem-oktoberfest-94518557.html",
+      "link_text": "Senf-Imperium auf der Wiesn: Develey versorgt fast alle Oktoberfest-Zelte mit Produkten",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/oberschleissheim-ort29202/im-obstgarten-des-schloss-schleissheim-wachsen-sehr-alte-obstsorten-sie-werden-immer-beliebter-94518578.html",
+      "detected_at": "2026-10-01T10:59:11+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/oberschleissheim-ort29202/im-obstgarten-des-schloss-schleissheim-wachsen-sehr-alte-obstsorten-sie-werden-immer-beliebter-94518578.html",
+      "link_text": "So köstlich schmeckt der Herbst: Expertin verrät, warum alte Obstsorten so beliebt sind",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/oberschleissheim-ort29202/skoda-geraet-in-gegenverkehr-frontalkollision-bei-oberschleissheim-fordert-drei-verletzte-94519852.html",
+      "detected_at": "2026-10-01T10:59:11+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/oberschleissheim-ort29202/skoda-geraet-in-gegenverkehr-frontalkollision-bei-oberschleissheim-fordert-drei-verletzte-94519852.html",
+      "link_text": "Skoda gerät in Gegenverkehr: Frontalkollision bei Oberschleißheim fordert drei Verletzte",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/putzbrunn-ort29323/putzbrunn-stueberl-sportheim-und-co-bekommen-hackschnitzel-heizung-externer-partner-fuer-betrieb-94518524.html",
+      "detected_at": "2026-10-01T10:59:11+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/putzbrunn-ort29323/putzbrunn-stueberl-sportheim-und-co-bekommen-hackschnitzel-heizung-externer-partner-fuer-betrieb-94518524.html",
+      "link_text": "Stüberl, Sportheim und Co. bekommen Hackschnitzel-Heizung – Externer Partner für Betrieb",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/oberschleissheim-ort29202/hallenbad-oberschleissheim-soll-ab-2027-im-betrieb-saniert-werden-94517791.html",
+      "detected_at": "2026-10-01T10:59:11+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/oberschleissheim-ort29202/hallenbad-oberschleissheim-soll-ab-2027-im-betrieb-saniert-werden-94517791.html",
+      "link_text": "„Leuchtturmprojekt für ganze Republik“: Hallenbad Oberschleißheim soll ab 2027 im Betrieb saniert werden",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/gruenwald-ort28770/gruenwalder-parkgarage-stoppt-dauerparker-56-euro-strafe-drohen-94518221.html",
+      "detected_at": "2026-10-01T10:59:11+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/gruenwald-ort28770/gruenwalder-parkgarage-stoppt-dauerparker-56-euro-strafe-drohen-94518221.html",
+      "link_text": "Grünwalder Parkgarage stoppt Dauerparker: 56 Euro Strafe drohen",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/ottobrunn-ort29241/ottobrunn-uebergriff-auf-schulweg-maedchen-riss-taeter-messer-aus-der-hand-angeklagter-schweigt-94518512.html",
+      "detected_at": "2026-10-01T10:59:11+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/ottobrunn-ort29241/ottobrunn-uebergriff-auf-schulweg-maedchen-riss-taeter-messer-aus-der-hand-angeklagter-schweigt-94518512.html",
+      "link_text": "Übergriff auf Schulweg? Mädchen riss Täter Messer aus der Hand – Angeklagter schweigt",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/frueherer-aschheimer-buergermeister-thomas-glashauser-bei-ernteunfall-gestorben-94517290.html",
+      "detected_at": "2026-10-01T10:59:11+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/frueherer-aschheimer-buergermeister-thomas-glashauser-bei-ernteunfall-gestorben-94517290.html",
+      "link_text": "Früherer Aschheimer Bürgermeister Thomas Glashauser bei Ernteunfall gestorben: „Sehr in Trauer und sprachlos“",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/taufkirchen-bei-muenchen-ort486320/taufkirchner-gemeinderat-beschliesst-einstellungsstopp-im-rathaus-94516572.html",
+      "detected_at": "2026-10-01T10:59:11+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/taufkirchen-bei-muenchen-ort486320/taufkirchner-gemeinderat-beschliesst-einstellungsstopp-im-rathaus-94516572.html",
+      "link_text": "Taufkirchner Gemeinderat beschließt Einstellungsstopp im Rathaus",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-kirchheim:https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/frueherer-aschheimer-buergermeister-thomas-glashauser-bei-ernteunfall-gestorben-94517290.html",
+      "detected_at": "2026-10-01T10:59:14+00:00",
+      "source_id": "merkur-kirchheim",
+      "source_name": "Münchner Merkur – Kirchheim",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/frueherer-aschheimer-buergermeister-thomas-glashauser-bei-ernteunfall-gestorben-94517290.html",
+      "link_text": "Früherer Aschheimer Bürgermeister Thomas Glashauser bei Ernteunfall gestorben: „Sehr in Trauer und sprachlos“",
       "status": "unprocessed"
     }
   ]
