@@ -4,7 +4,7 @@
 
 | Version | Stand | Verantwortlich |
 |---|---|---|
-| 0.3 | 14.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
+| 0.4 | 01.10.2026 | Josef Walter – erstellt mit KI-Unterstützung |
 
 **Status:** verbindlicher Arbeitsstand für Demonstrator; Zielbild für öffentliche FIB-Darstellung
 
@@ -48,6 +48,16 @@ Eine Beitragskarte enthält in dieser Reihenfolge:
 8. „Mehr zum Thema“.
 
 Quellen-, Sitzungs- und Themenbereiche bleiben auch bei Beiträgen mit Bild über die volle Kartenbreite erhalten.
+
+### 4.1 Aktualisierungen bestehender Beiträge
+
+Wird ein bestehender Beitrag aufgrund eines **neuen öffentlich belegten Sachstands** fortgeschrieben, zeigt der Untertitel immer nur die neueste Aktualisierung im Format:
+
+`Aktualisierung vom TT.MM.JJJJ: [kurzes Stichwort].`
+
+Das Datum ist das nachweisbare Datum, an dem der neue Sachstand öffentlich geworden ist, nicht das Datum der Recherche oder technischen Verarbeitung durch FIB. Frühere Aktualisierungen werden in einem eigenen Abschnitt „Aktualisierungen“ bzw. „Was sich geändert hat“ mit Datum und Stichwort historisiert; der Haupttext bildet den aktuellen Sachstand ab.
+
+Reine redaktionelle Korrekturen eigener Fehler oder technische Darstellungsfehler werden ohne öffentlichen Aktualisierungshinweis korrigiert. Hat eine Entwicklung eigenständigen Nachrichtenwert – insbesondere eine neue Entscheidung, einen neuen Verfahrensschritt oder eine neue öffentliche Auseinandersetzung –, wird stattdessen ein neuer Beitrag angelegt und über „Was bisher passiert ist“ bzw. das Thema verknüpft.
 
 ## 5. Bilder in Beiträgen
 
@@ -124,15 +134,17 @@ Bilder werden bei Themen und Sitzungen nur eingesetzt, wenn sie einen klaren kon
 
 Aktueller Demonstrator:
 
-- `index.html` – statischer Ausgangsinhalt,
+- `data/beitraege.json`, `data/sitzungen.json` und `data/themen.json` – **kanonischer persistenter fachlicher Bestand**,
+- `index.html` – daraus synchronisierte statische Ausgabe,
 - `assets/style.css` – allgemeine Gestaltung,
 - `assets/app.js` – Einstiegspunkt für JavaScript-Module,
-- weitere `assets/*.js` – Aktualisierungs- und Darstellungslogik,
 - `assets/image-layout.css` – bildbezogene Darstellung,
 - `assets/image-features.js` – Bildzuordnung und „Mehr zum Bild“,
 - `assets/images/` – veröffentlichte Webbilder.
 
-Neue Funktionen sollen möglichst modular ergänzt werden, damit die große statische `index.html` nicht für jede Darstellungsänderung neu geschrieben werden muss.
+Historische `update-*.js`- und Korrekturskripte können aus Gründen der Nachvollziehbarkeit im Repository verbleiben, werden aber **nicht als fachliche Laufzeit-Datenhaltung verwendet**. Fachliche Beiträge, Themen oder Sitzungsstände dürfen nicht ausschließlich per JavaScript erzeugt, entfernt oder überschrieben werden. JavaScript ergänzt Darstellung und Bedienung.
+
+Bei jedem vollständigen FIB-Update wird die statische Ausgabe mit dem persistenten Bestand abgeglichen. Für den Echtbetrieb bleibt das Ziel unverändert: strukturierter persistenter Bestand als einzige fachliche Quelle und daraus automatisiert generierte Ausgabe.
 
 ## 10. Bildzuordnung
 
@@ -189,7 +201,11 @@ Der Demonstrator bildet die fachlich gewünschte FIB-Darstellung unabhängig vom
 
 Wo Sunflower vorhandene Standardkomponenten bereitstellt, sollen diese bevorzugt genutzt werden. Eigene CSS-/JavaScript-Erweiterungen werden auf FIB-spezifische Funktionen begrenzt.
 
-## 13. Pflege der Frontend-Dokumentation
+## 13. Cache-Busting bei Demonstrator-Updates
+
+Zentrale CSS-/JavaScript-Assets werden mit einer Versionskennung in der URL eingebunden, beispielsweise `style.css?v=...` und `app.js?v=...`. Bei sichtbaren Frontend-Änderungen wird diese Kennung mit aktualisiert, damit nach Bereitstellung auf GitHub Pages ein normales Neuladen den aktuellen Stand laden soll.
+
+## 14. Pflege der Frontend-Dokumentation
 
 Änderungen, die im Demonstrator als verbindliche Darstellungsentscheidung getestet und übernommen werden, werden in diesem Dokument nachgeführt. Fachliche Bildregeln bleiben zusätzlich im `Bildkonzept_FIB.md`; konkrete Bilddaten und Motivwissen in `FIB_Bildbibliothek.md`.
 
@@ -197,6 +213,7 @@ Wo Sunflower vorhandene Standardkomponenten bereitstellt, sollen diese bevorzugt
 
 | Version | Datum | Änderung |
 |---|---|---|
+| 0.4 | 01.10.2026 | D028–D030 konsolidiert: persistenter fachlicher Datenbestand gegenüber statischer Ausgabe und historischen Skripten abgegrenzt; Aktualisierungshistorie für Beiträge und Cache-Busting-Regel übernommen |
 | 0.3 | 14.09.2026 | Implementierten Stand von Teilen und Drucken/PDF dokumentiert; Benachrichtigungen ausdrücklich als Demonstrator-Prototyp abgegrenzt und Anforderungen für produktive Aktivierung festgehalten |
 | 0.2 | 13.09.2026 | Dokumentlenkung ergänzt; verbindlichen Bildimport-/Zuordnungsprozess mit Primärzuordnung, weiteren Verwendungen, Ausschlüssen und Schlagworten persistent nachgeführt |
 | 0.1 | 02.09.2026 | Frontend- und Darstellungsregeln als verbindlicher Arbeitsstand des Demonstrators dokumentiert |
