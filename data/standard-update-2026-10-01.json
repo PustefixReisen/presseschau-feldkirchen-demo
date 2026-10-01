@@ -1,0 +1,109 @@
+{
+  "schema_version": "1.0",
+  "update_date": "2026-10-01",
+  "base_status": "post_handoff_demonstrator_update",
+  "research_window_to": "2026-10-01",
+  "new_contributions": [
+    {
+      "id": "R097",
+      "date": "2026-09-28",
+      "publication_date": "2026-09-28",
+      "category": "Mobilität & Verkehr",
+      "title": "Kiss & Ride am Hort: Gemeinde richtet morgendliche Kurzhaltezone ein",
+      "subtitle": "Vor dem Hort an der Raiffeisenstraße sollen Stellplätze werktags von 7:15 bis 8:15 Uhr ausschließlich für das kurze Bringen von Kindern genutzt werden.",
+      "sachinformation": "Die Gemeinde Feldkirchen will vor dem Hort in der Raiffeisenstraße 8 dauerhaft eine Kiss-&-Ride-Zone einrichten. Montags bis freitags ist sie von 7:15 bis 8:15 Uhr für das kurze Bringen von Kindern vorgesehen. Parken oder Warten soll dort nicht möglich sein; nach dem Aussteigen sollen die Stellplätze sofort wieder freigemacht werden. Die benötigten Verkehrsschilder sind nach Angaben der Gemeinde bereits bestellt, ein genauer Termin für die Einrichtung steht noch nicht fest.",
+      "sources": [
+        {
+          "name": "Gemeinde Feldkirchen – Kiss & Ride-Parkplatz am Hort, Raiffeisenstr. 8",
+          "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/kiss-ride-parkplatz-am-hort-raiffeisenstr-8",
+          "type": "primary_official",
+          "date": "2026-09-28"
+        }
+      ],
+      "search_tags": ["Kiss & Ride", "Hort", "Raiffeisenstraße", "Schulweg", "Verkehrssicherheit"],
+      "display_place": "Feldkirchen",
+      "scope": "local"
+    },
+    {
+      "id": "R098",
+      "date": "2026-02-19",
+      "publication_date": "2026-02-19",
+      "category": "Ortsentwicklung & Bauen",
+      "title": "Kiesgrund: Großes neues Quartier bleibt ein zentrales Feldkirchner Zukunftsprojekt",
+      "subtitle": "Nach den kommunalen Zielbeschlüssen sind bis zu 800 Wohnungen für etwa 1.800 Menschen sowie neue soziale und verkehrliche Infrastruktur vorgesehen; Anfang 2026 war noch kein konkreter Fortschritt sichtbar.",
+      "sachinformation": "Für das Gebiet „Am Kiesgrund“ nördlich der Bahn hatte der Gemeinderat bereits 2024 planerische Ziele festgelegt. Vorgesehen ist ein zusammenhängend entwickeltes Quartier zwischen B471, Bahnlinie, Seestraße und Gemeindegrenze. Der Gemeinderat hielt Baurecht für bis zu rund 800 Wohnungen und etwa 1.800 Menschen für realistisch. Genannt werden außerdem unter anderem Grün- und Erholungsflächen, Schule, Kinderbetreuung, Ärzteversorgung sowie bessere Zugänge zum S-Bahnhof und neue Verkehrsverbindungen. Ein Merkur-Bericht vom 19. Februar 2026 stellte fest, dass das Projekt zu diesem Zeitpunkt noch nicht konkret vorangekommen war. Die Gemeinde nennt die Quartiersentwicklung am Kiesgrund inzwischen weiterhin ausdrücklich als Gegenstand möglicher öffentlicher Informationsveranstaltungen. Wegen Größe, zusätzlichem Wohnraum und der notwendigen Erschließung ist der Kiesgrund ein eigenständiges längerfristiges FIB-Thema.",
+      "sources": [
+        {
+          "name": "Münchner Merkur – Mit vollen Taschen in Wartestellung: Diese Projekte hat Feldkirchen heuer geplant",
+          "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/mit-vollen-taschen-in-wartestellung-diese-projekte-hat-feldkirchen-heuer-geplant-94176401.html",
+          "type": "press",
+          "date": "2026-02-19"
+        },
+        {
+          "name": "RIS Feldkirchen – Zielsetzungen für die Entwicklung des Baugebietes Am Kiesgrund (Vorlage 4823/2024)",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=68420&type=do",
+          "type": "primary_official",
+          "date": "2024-11-21"
+        },
+        {
+          "name": "Gemeinde Feldkirchen – Bürgermeister / Hinweise auf Quartiersentwicklung Am Kiesgrund",
+          "url": "https://www.feldkirchen.de/rathaus/verwaltung/buergermeister",
+          "type": "primary_official",
+          "date": "2026-10-01"
+        }
+      ],
+      "search_tags": ["Kiesgrund", "Bebauungsplan 111", "Wohnungsbau", "Quartiersentwicklung", "S-Bahnhof", "Erschließung"],
+      "display_place": "Feldkirchen",
+      "scope": "local",
+      "established_topic_ref": {"id": "T016", "title": "Quartiersentwicklung Am Kiesgrund"},
+      "backfill_reason": "Bei der früheren Recherche nicht als eigener Beitrag erfasst; wegen Größe und langfristiger Bedeutung rückwirkend ergänzt."
+    }
+  ],
+  "updated_contributions": [
+    {
+      "id": "R070",
+      "update_date": "2026-09-29",
+      "update_label": "Aktualisierung vom 29.09.2026: Gemeinderat konkretisiert Standorte und beschließt mobile Sprühnebelanlage.",
+      "additional_information": "Nach einem Bericht des Münchner Merkur bestand im Gemeinderat Einigkeit über zwei Trinkwasserbrunnen. Für Rathausplatz und Friedhof soll die Verwaltung die technischen Voraussetzungen prüfen und bei Eignung Angebote einholen. Außerdem soll eine mobile Sprühnebelanlage für rund 2.000 Euro beschafft und die Möglichkeit eines Grundwasserbrunnens geprüft werden. Der Pressebericht dokumentiert damit den Beratungsstand; eine veröffentlichte Sitzungsniederschrift wurde beim Standardlauf noch nicht gefunden.",
+      "additional_source": {
+        "name": "Münchner Merkur – Feldkirchen baut zwei Trinkwasserbrunnen – Freistaat zahlt 90 Prozent",
+        "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/feldkirchen-baut-zwei-trinkwasserbrunnen-freistaat-zahlt-90-prozent-94514413.html",
+        "type": "press",
+        "date": "2026-09-29"
+      }
+    }
+  ],
+  "session_updates": [
+    {
+      "id": "S023",
+      "date": "2026-09-29",
+      "status": "session_held_results_not_yet_publicly_documented",
+      "note": "Die Sitzung hat stattgefunden. Im beim Standardlauf erreichbaren RIS waren noch keine öffentliche Niederschrift bzw. belastbaren Beschlussergebnisse zu den einzelnen TOPs veröffentlicht."
+    },
+    {
+      "id": "S024",
+      "date": "2026-10-01",
+      "status": "upcoming_at_update_time",
+      "note": "Zum Zeitpunkt des Standardlaufs am 01.10.2026 vor Sitzungsbeginn; daher keine Ergebnisse vorweggenommen."
+    }
+  ],
+  "new_topics": [
+    {
+      "id": "T016",
+      "title": "Quartiersentwicklung Am Kiesgrund",
+      "summary": "Das Gebiet Am Kiesgrund nördlich der Bahn ist eines der größten langfristigen Ortsentwicklungsprojekte Feldkirchens. Die kommunalen Zielsetzungen verbinden neuen Wohnraum mit sozialer Infrastruktur, Grün- und Erholungsflächen sowie einer neuen Erschließung und besseren Anbindung an den S-Bahnhof. Der Gemeinderat hält bis zu rund 800 Wohnungen für etwa 1.800 Menschen für realistisch. Entscheidend für die weitere Entwicklung sind insbesondere Erschließung, Verkehr, zeitliche Staffelung, soziale Infrastruktur und die Ausgestaltung der Grünflächen.",
+      "open_questions": [
+        "Wie wird die zusätzliche Erschließung des Quartiers konkret gelöst?",
+        "Wie werden S-Bahn, Bus, Rad- und Fußverkehr in die Entwicklung integriert?",
+        "Welche soziale Infrastruktur muss parallel zu den Wohnungen entstehen?",
+        "Wie wird die Entwicklung zeitlich gestaffelt und mit dem bestehenden Ort verknüpft?",
+        "Wann werden aktualisierte Planungen öffentlich vorgestellt?"
+      ]
+    }
+  ],
+  "source_checks": {
+    "gemeindeblatt_october_2026": "PDF auf der Gemeindeseite veröffentlicht; der PDF-Abruf war beim Standardlauf technisch nicht zuverlässig möglich und muss erneut geprüft werden.",
+    "ris_2026_09_29": "Sitzung gelaufen; öffentliche Einzelergebnisse/Niederschrift beim Lauf nicht belastbar veröffentlicht.",
+    "ris_2026_10_01": "Sitzung war zum Zeitpunkt des Laufs noch nicht beendet; keine Ergebnisse übernommen."
+  }
+}
