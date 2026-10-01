@@ -4,7 +4,7 @@
 
 | Version | Stand | Verantwortlich |
 |---|---|---|
-| 0.9 | 30.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
+| 1.0 | 01.10.2026 | Josef Walter – erstellt mit KI-Unterstützung |
 
 ## Änderungshistorie
 
@@ -18,7 +18,8 @@
 | 0.6 | 15.09.2026 | KI-Leitfaden dokumentgelenkt; D007, D008, D010 und D011 gesichert |
 | 0.7 | 17.09.2026 | README konsolidiert; D001 und D002 gesichert, D024 fortgeschrieben |
 | 0.8 | 20.09.2026 | Breite lokale Relevanz und Auswertung kommunaler Beschlussvorlagen als D026/D027 ergänzt |
-| 0.9 | 30.09.2026 | Am 25.09. gesicherte Regeln zu persistentem Demonstrator-Datenbestand, Aktualisierungshistorie und Cache-Busting als D028–D030 in die zentrale Auditmatrix übernommen; vorherigen Schreibblocker damit aufgelöst |
+| 0.9 | 30.09.2026 | Regeln zu persistentem Demonstrator-Datenbestand, Aktualisierungshistorie und Cache-Busting als D028–D030 aufgenommen |
+| 1.0 | 01.10.2026 | D028–D030 gegen aktuellen `main`-Stand geprüft und in `FIB_Frontend_und_Darstellung.md` V0.4 konsolidiert; D029/D030 gesichert, D028 wegen noch ausstehender Architektur-/Betriebsübernahme teilweise |
 
 ## 1. Zweck
 
@@ -63,7 +64,7 @@ Statuswerte: `gesichert`, `teilweise`, `fehlt`, `offen`, `zu prüfen`.
 | D017 | Bildbedarf `yes|optional|no` und Bedarfsliste | Bildkonzept/Arbeitsdaten | Bildkonzept + Redaktion | gesichert |
 | D018 | „Mehr zum Bild“ als getrennte geprüfte ortsbezogene Erzählebene | Bildkonzept/Frontend | Bildkonzept + Frontend | gesichert |
 | D019 | Bildmetadaten/Rechte/Kennzeichen/EXIF/Alt-Texte | Bildkonzept | Bildkonzept + Betrieb | gesichert |
-| D020 | Teilen/Drucken-PDF/Benachrichtigungen/Social-Media-Metadaten | Code + `FIB_Frontend_und_Darstellung.md` V0.3; Benachrichtigungen noch Mockup | Frontend + Betrieb | teilweise |
+| D020 | Teilen/Drucken-PDF/Benachrichtigungen/Social-Media-Metadaten | Code + `FIB_Frontend_und_Darstellung.md` V0.4; Benachrichtigungen noch Mockup | Frontend + Betrieb | teilweise |
 | D021 | Sunflower/WordPress-Integration bei Erhalt FIB-spezifischer Funktionen | Frontend | Architektur + Frontend | gesichert |
 | D022 | Echtbetriebsarchitektur mit Supabase, Redaktions-Web-App, GitHub Actions, austauschbaren KI-/RAG-Diensten | Architektur | Architektur | gesichert |
 | D023 | Dokumentlenkung mit Dokumentstand und Änderungshistorie | mehrere kanonische Dokumente nach Standard; übrige noch zu prüfen | alle kanonischen Dokumente | teilweise |
@@ -71,9 +72,9 @@ Statuswerte: `gesichert`, `teilweise`, `fehlt`, `offen`, `zu prüfen`.
 | D025 | Reproduzierbarkeit: Installation, Konfiguration, DB-Migrationen, Backup/Restore, Administration, Deployment | `FIB_Betrieb_und_Reproduzierbarkeit.md` | Betriebs-/Entwicklerdoku + praktische Nachweise | teilweise |
 | D026 | Breite lokale Relevanz ohne zusätzliche kommunalpolitische Schwelle | `FIB_Fachregeln_Nachtrag_2026-09-20.md` + neuere Fassung auf `main` | KI-Leitfaden + Fachkonzept | teilweise; kontrollierte Übernahme ausstehend |
 | D027 | Beschlussvorlagen und Anlagen systematisch auswerten; Vorlage und Beschluss trennen | `FIB_Fachregeln_Nachtrag_2026-09-20.md` + neuere Fassung auf `main` | KI-Leitfaden + Sitzungs-/Quellenregeln | teilweise; kontrollierte Übernahme ausstehend |
-| D028 | Persistenter Demonstrator-Fachbestand: `data/beitraege.json`, `data/sitzungen.json`, `data/themen.json`; `index.html` nur synchronisierte Ausgabe; historische Update-Skripte keine Laufzeit-Datenhaltung | `FIB_Nachtrag_Persistenz_und_Aktualisierungen_2026-09-25.md`, Abschnitt 1; gegen Demonstratorstruktur auf `main` abzugleichen | Architektur + Betriebs-/Entwicklerdoku | teilweise |
-| D029 | Fortschreibung bestehender Beiträge: neueste Aktualisierung im Untertitel, ältere Aktualisierungen historisieren; Fehlerkorrektur ohne öffentlichen Aktualisierungshinweis; eigenständiger Nachrichtenwert als neuer verknüpfter Beitrag | `FIB_Nachtrag_Persistenz_und_Aktualisierungen_2026-09-25.md`, Abschnitt 2 | KI-Leitfaden + Redaktionsregeln | teilweise |
-| D030 | Cache-Busting: Versionskennung zentraler CSS-/JS-Assets bei sichtbaren Frontend-Änderungen mitführen | `FIB_Nachtrag_Persistenz_und_Aktualisierungen_2026-09-25.md`, Abschnitt 3 | Frontend + Deployment/Betrieb | teilweise |
+| D028 | Persistenter Demonstrator-Fachbestand: `data/beitraege.json`, `data/sitzungen.json`, `data/themen.json`; `index.html` nur synchronisierte Ausgabe; historische Update-Skripte keine Laufzeit-Datenhaltung | gegen aktuellen `main`-Stand geprüft; `FIB_Frontend_und_Darstellung.md` V0.4 Abschnitt 9 | Architektur + Betriebs-/Entwicklerdoku | teilweise; Frontend gesichert, Architektur/Betrieb noch nachzuführen |
+| D029 | Fortschreibung bestehender Beiträge: neueste Aktualisierung im Untertitel, ältere Aktualisierungen historisieren; Fehlerkorrektur ohne öffentlichen Aktualisierungshinweis; eigenständiger Nachrichtenwert als neuer verknüpfter Beitrag | `FIB_Frontend_und_Darstellung.md` V0.4 Abschnitt 4.1; gegen neueren `main`-Stand geprüft | Frontend + Redaktionsregeln | gesichert |
+| D030 | Cache-Busting: Versionskennung zentraler CSS-/JS-Assets bei sichtbaren Frontend-Änderungen mitführen | `FIB_Frontend_und_Darstellung.md` V0.4 Abschnitt 13; `main/index.html` verwendet versioniertes `assets/style.css` | Frontend + Deployment/Betrieb | gesichert |
 
 ## 5. Prüfschritte
 
