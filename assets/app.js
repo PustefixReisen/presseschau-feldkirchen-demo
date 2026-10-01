@@ -41,9 +41,11 @@
   },true);
 
   await import('./app-base-20260831.js');
-  // Fachliche Inhalte sind persistent in data/*.json und statisch in index.html
-  // synchronisiert. Historische update-/Korrekturskripte werden nicht mehr
-  // ausgeführt; JavaScript ergänzt ab hier nur Darstellung und Bedienung.
+  // Der Demonstrator wurde am 29.09. als Entwicklungsreferenz eingefroren.
+  // Auf ausdruecklichen Standard-Update-Aufruf werden spaetere Inhaltsaenderungen
+  // als versioniertes Daten-/Darstellungs-Addendum geladen, ohne die historische
+  // Basisdatei stillschweigend umzubauen.
+  await import('./standard-update-20261001.js?v=20261001a');
   await import('./sort-topics.js');
   await import('./sort-contributions.js');
   await import('./image-features.js?v=20260925a');
@@ -115,11 +117,11 @@
     if(event.target===infoDialog) infoDialog.close();
   });
 
-  // Der fachliche Bestand in data/*.json ist kanonisch; index.html ist die
-  // synchronisierte statische Ausgabe. UI-Skripte duerfen fachliche Inhalte nicht veraendern.
+  // Die Basisfassung behaelt ihren Stand, solange kein versioniertes spaeteres
+  // Standard-Update einen neueren Stand gesetzt hat.
   if(initialDemoNoteText){
     const note=document.querySelector('.demo-note');
-    if(note) note.textContent=initialDemoNoteText;
+    if(note && !note.textContent.includes('1. Oktober 2026')) note.textContent=initialDemoNoteText;
   }
 
   // Direkte Beitrags-/Themenlinks (z. B. #R069) nach allen dynamischen
