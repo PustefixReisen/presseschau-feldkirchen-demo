@@ -5,7 +5,7 @@
       "name": "Gemeinde Feldkirchen – Nachrichten aus dem Bauamt",
       "url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt",
       "priority": "mandatory",
-      "last_success_at": "2026-10-01T10:58:58+00:00",
+      "last_success_at": "2026-10-02T10:31:57+00:00",
       "final_url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt",
       "content_type": "text/html;charset=UTF-8",
       "page_sha256": "7a84d3a0d2191a77f15fffc43b031b4a1c4fc5fdeaeba61825d6ee4f6fddf6c1",
@@ -26,7 +26,7 @@
       "name": "Gemeinde Feldkirchen – Neues Parkraumkonzept",
       "url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt/neues-parkraumkonzept-in-feldkirchen",
       "priority": "mandatory",
-      "last_success_at": "2026-10-01T10:59:01+00:00",
+      "last_success_at": "2026-10-02T10:32:00+00:00",
       "final_url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt/neues-parkraumkonzept-in-feldkirchen",
       "content_type": "text/html;charset=UTF-8",
       "page_sha256": "e90a8f8c0116008de9cbdd3c05c7b62988fa85bfcd2a1514c3690d1e162797f2",
@@ -448,7 +448,7 @@
           "content_type": "application/pdf",
           "bytes": 1472041,
           "sha256": "4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
-          "checked_at": "2026-10-01T10:59:01+00:00"
+          "checked_at": "2026-10-02T10:32:00+00:00"
         }
       },
       "error": null
@@ -457,10 +457,10 @@
       "name": "Landkreis München",
       "url": "https://www.landkreis-muenchen.de/",
       "priority": "mandatory",
-      "last_success_at": "2026-10-01T10:59:03+00:00",
+      "last_success_at": "2026-10-02T10:32:01+00:00",
       "final_url": "https://www.landkreis-muenchen.de/",
       "content_type": "text/html; charset=utf-8",
-      "page_sha256": "b591b61b74db1f0cb83e7d145032b6007f71b03bb5d1f748d7ced55fcdf0005f",
+      "page_sha256": "1f2f2a5d3d262c69cffe9324177284ed5759fa5658669f6074ec5f484a4aa9f5",
       "page_changed": true,
       "first_seen": false,
       "links": {
@@ -623,6 +623,9 @@
         "https://www.landkreis-muenchen.de/themen/freizeit-kultur-sport/kultur/kulturvereinigung-im-landkreis-muenchen/": {
           "text": "Kultur"
         },
+        "https://www.landkreis-muenchen.de/artikel/amtsblatt-33-2026/": {
+          "text": ""
+        },
         "https://www.landkreis-muenchen.de/artikel/einladung-zur-4-kulturfahrt-im-landkreis/": {
           "text": ""
         },
@@ -654,9 +657,6 @@
           "text": ""
         },
         "https://www.landkreis-muenchen.de/artikel/aktion-zukunft-unterstuetzt-bachrenaturierung/": {
-          "text": ""
-        },
-        "https://www.landkreis-muenchen.de/artikel/eingeschraenkte-erreichbarkeit-des-landratsamts-1/": {
           "text": ""
         },
         "https://www.landkreis-muenchen.de/list/1/": {
@@ -692,14 +692,14 @@
         "https://www.landkreis-muenchen.de/artikel/staatsstrasse-2079-fahrbahnerneuerung-zwischen-muenchen-und-putzbrunn-unter-abschnittsweiser-vollsperrung/": {
           "text": "Staatsstraße 2079: Fahrbahnerneuerung zwischen München  und Putzbrunn unter abschnittsweiser Vollsperrung - Beginn des dritten Bauabschnitts"
         },
-        "https://www.landkreis-muenchen.de/artikel/bauarbeiten-an-der-kreuzung-bahnhofstrasse-starten-am-3-august-bis-vrsl-14-september/": {
-          "text": "Bauarbeiten an der Kreuzung Bahnhofstraße starten am 3. August bis vrsl. 14. September"
-        },
         "https://www.landkreis-muenchen.de/artikel/a99-autobahnring-b304-ersatzneubau-der-bruecke-an-der-anschlussstelle-haar-1/": {
           "text": "A99 Autobahnring/B304: Ersatzneubau der Brücke an der Anschlussstelle Haar"
         },
         "https://www.landkreis-muenchen.de/artikel/st-2088-vierstreifiger-ausbau-des-foehringer-rings-verlaengerung-der-vollsperrung-bis-zum-12-august-2026/": {
           "text": "St 2088: Vierstreifiger Ausbau des Föhringer Rings – Voll-sperrung wird vorzeitig am Wochenende aufgehoben"
+        },
+        "https://www.landkreis-muenchen.de/artikel/geaenderte-verkehrsfuehrung-am-foehringer-ring/": {
+          "text": "Geänderte Verkehrsführung am Föhringer Ring vom 24. Juli 2026 bis vrsl. 28. April 2028"
         },
         "https://www.landkreis-muenchen.de/themen/mobilitaet/kfz-zulassung/online-zulassungsbehoerde/": {
           "text": "Auto einfach online an- oder ummelden"
@@ -742,14 +742,14 @@
       "name": "Autobahn GmbH – Südbayern",
       "url": "https://www.autobahn.de/die-autobahn/niederlassungen/suedbayern",
       "priority": "topic",
-      "last_attempt_at": "2026-10-01T10:59:03+00:00",
+      "last_attempt_at": "2026-10-02T10:32:02+00:00",
       "error": "HTTPError: HTTP Error 404: Not Found"
     },
     "adfc-muenchen": {
       "name": "ADFC München",
       "url": "https://muenchen.adfc.de/",
       "priority": "topic",
-      "last_success_at": "2026-10-01T10:59:05+00:00",
+      "last_success_at": "2026-10-02T10:32:03+00:00",
       "final_url": "https://muenchen.adfc.de/",
       "content_type": "text/html; charset=utf-8",
       "page_sha256": "62e84a1eb1a029320d6803b23f97e3515972eae19d479f1fdb43999d230b5c76",
@@ -836,7 +836,7 @@
       "name": "BUND Naturschutz – Kreisgruppe München",
       "url": "https://bn-muenchen.de/",
       "priority": "topic",
-      "last_success_at": "2026-10-01T10:59:06+00:00",
+      "last_success_at": "2026-10-02T10:32:04+00:00",
       "final_url": "https://bn-muenchen.de/",
       "content_type": "text/html",
       "page_sha256": "c9c228fa3294734a8b11eb9e7cfac3316ccb2db84afb1c80c6f0098e713d2e2e",
@@ -857,7 +857,7 @@
       "name": "BI-AFK",
       "url": "https://www.bi-afk.de/",
       "priority": "topic",
-      "last_success_at": "2026-10-01T10:59:09+00:00",
+      "last_success_at": "2026-10-02T10:32:07+00:00",
       "final_url": "https://bi-afk.de/",
       "content_type": "text/html; charset=UTF-8",
       "page_sha256": "3fc55f210f66e1e1a796a328a22909d0adee46720b72b7c8da0b56853ff23298",
@@ -943,7 +943,7 @@
           "content_type": "application/pdf",
           "bytes": 149466,
           "sha256": "f0ce9eb0a26c6e4bafbce93352128b32ede6a1a841c241d07be53c69c0f4b695",
-          "checked_at": "2026-10-01T10:59:09+00:00"
+          "checked_at": "2026-10-02T10:32:07+00:00"
         }
       },
       "error": null
@@ -952,53 +952,17 @@
       "name": "RIS Feldkirchen – Dokumente mit Freigabe",
       "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/do0040.asp",
       "priority": "mandatory",
-      "last_success_at": "2026-10-01T10:58:55+00:00",
+      "last_success_at": "2026-10-02T10:31:53+00:00",
       "final_url": "https://buergerinfo-feldkirchen.digitalfabrix.de/do0040.asp",
       "content_type": "text/html; Charset=utf-8",
-      "page_sha256": "63069da2ea1ec1f018f7c3e4e0b6ecdc7e11e4710907da978f702c5406aed353",
+      "page_sha256": "2d1b8e4bb6b6b4c0f05ac08c1fff51c45c0f7d785051980c806ae7f8b2aaca62",
       "page_changed": true,
       "first_seen": false,
       "links": {
-        "https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8398": {
-          "text": "Bauleitplanung - Bebauungsplan Nr. 102, 1. Änderung, „ Gewerbegebiet an der Weißenfelder Straße“ frühzeitige Beteiligung der Öffentlichkeit und der Träger öffentlicher Belange nach § 3 Abs. 1 und § 4 Abs. 1 BauGB - Behandlung der Stellungnahmen zu de"
+        "https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8608": {
+          "text": "Antrag der CSU Fraktion auf Erlass einer Hundehaltungsverordnung mit Leinenpflicht"
         },
-        "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=72299&type=do": {
-          "text": ""
-        },
-        "https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8524": {
-          "text": "Bauleitplanung - 17. Änderung des Flächennutzungsplanes der Gemeinde Feldkirchen für das Grundstück Fl.Nr. 302/2, 291/Teilfläche und 307/Teilfläche Gemarkung Feldkirchen zur Änderung der Darstellung in Grünfläche mit Zweckbestimmung Spielanlagen - Ei"
-        },
-        "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74598&type=do": {
-          "text": ""
-        },
-        "https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8525": {
-          "text": "Bauleitplanung - Bebauungsplan Nr. 110 der Gemeinde Feldkirchen zur Ausweisung einer Grünfläche mit Zweckbestimmung \"Spielplatz\" auf dem Grundstück Fl.Nr. 302/2 Gemarkung Feldkirchen, im Dornacher Feld - Einstellung des Verfahrens"
-        },
-        "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74602&type=do": {
-          "text": ""
-        },
-        "https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8553": {
-          "text": "Bauleitplanung - Bebauungsplan Nr. 113   Gebiet „Südlich der Hohenlindner Straße bis zur Jahnstraße“- frühzeitige Beteiligung der Öffentlichkeit und der Träger öffentlicher Belange nach § 3 Abs. 2 und § 4 Abs. 2 Baugesetzbuch – Behandlung der Stellun"
-        },
-        "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74838&type=do": {
-          "text": ""
-        },
-        "https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8574": {
-          "text": "Bauleitplanung - Bebauungsplan Nr. 103, 2. Änderung, für das \"Gebiet zwischen der Ludwigstraße, Westendstraße, Brunnenstraße und Münchnerstraße, frühzeitige Beteiligung der Öffentlichkeit und der Träger öffentlicher Belange nach § 3 Abs. 2 und § 4 Ab"
-        },
-        "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75105&type=do": {
-          "text": ""
-        },
-        "https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8589": {
-          "text": "Bauleitplanung - Bebauungsplan Nr. 91 „Ortsmitte Nordost, 4. Änderung für die Fl.Nr. 64 Gemarkung Feldkirchen/Teilfläche; Beteiligung der Öffentlichkeit und der Träger öffentlicher Belange nach § 3 Abs. 2 und § 4 Abs. 2, i.V.m. § 13 Baugesetz-buch ge"
-        },
-        "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75204&type=do": {
-          "text": ""
-        },
-        "https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8607": {
-          "text": "Bauantrag: Neubau von acht Wohngebäuden mit 166 Eigentumswohnungen und einer Tiefgarage mit 243 Kfz Stellplätzen auf den Grundstücken Fl.Nr. 69/9, 69/10, 69/11, 69/12, 69/13 Gemarkung Feldkirchen, gelegen zwischen Hohenlindner Straße und Jahnstraße –"
-        },
-        "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75324&type=do": {
+        "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75335&type=do": {
           "text": ""
         }
       },
@@ -1009,27 +973,45 @@
       "name": "Münchner Merkur – Landkreis München",
       "url": "https://www.merkur.de/lokales/muenchen-lk/",
       "priority": "mandatory",
-      "last_success_at": "2026-10-01T10:59:11+00:00",
+      "last_success_at": "2026-10-02T10:32:08+00:00",
       "final_url": "https://www.merkur.de/lokales/muenchen-lk/",
       "content_type": "text/html;charset=utf-8",
-      "page_sha256": "7e1ee6c2013dbbca88ef4734e38aecb3474bbce5eabba73aac9a17e773bd17fc",
+      "page_sha256": "de82636baab309e4691d89ad1e708d1b1b18880bcaa7d394481407f9518fd8f1",
       "page_changed": true,
       "first_seen": false,
       "links": {
         "https://www.merkur.de/lokales/muenchen-lk/": {
           "text": "Menü"
         },
-        "https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/develey-senf-firma-aus-unterhaching-beliefert-fast-alle-zelte-auf-dem-oktoberfest-94518557.html": {
-          "text": "Senf-Imperium auf der Wiesn: Develey versorgt fast alle Oktoberfest-Zelte mit Produkten"
+        "https://www.merkur.de/lokales/muenchen-lk/ottobrunn-ort29241/sanierung-endspurt-auf-a995-diese-umleitungen-gelten-bis-10-oktober-94520105.html": {
+          "text": "Sanierung: Endspurt auf A995 – Diese Umleitungen gelten bis 10. Oktober"
         },
-        "https://www.merkur.de/lokales/muenchen-lk/oberschleissheim-ort29202/im-obstgarten-des-schloss-schleissheim-wachsen-sehr-alte-obstsorten-sie-werden-immer-beliebter-94518578.html": {
-          "text": "So köstlich schmeckt der Herbst: Expertin verrät, warum alte Obstsorten so beliebt sind"
+        "https://www.merkur.de/lokales/muenchen-lk/hoehenkirchen-siegertsbrunn-ort100556/kuerzere-kabeltrasse-spart-million-zwei-windraeder-im-hoehenkirchner-forst-rentabel-94520115.html": {
+          "text": "Kürzere Kabeltrasse spart Million: Bereits zwei Windräder im Höhenkirchner Forst rentabel"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/ottobrunn-ort29241/ottobrunn-wolf-ferrari-haus-ehrt-komponist-noten-die-nie-gedruckt-wurden-94520542.html": {
+          "text": "Wolf-Ferrari-Haus ehrt Komponist: Ausstellung bis 8. Oktober"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/hoehenkirchen-siegertsbrunn-ort100556/haushaltssperre-gemeinde-hoehenkirchen-setzt-musikfoerderung-aus-94520107.html": {
+          "text": "Haushaltssperre: Gemeinde setzt Musikförderung aus"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/kindergarten-in-haar-wird-teurer-eltern-zahlen-ab-2027-monatlich-100-euro-mehr-94518310.html": {
+          "text": "Kindergarten wird teurer: Eltern zahlen ab 2027 monatlich 100 Euro mehr"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/gruenwald-ort28770/tsv-gruenwald-empfaengt-ex-profi-neudecker-als-trainer-mit-kreuzband-vergangenheit-94520855.html": {
+          "text": "TSV Grünwald empfängt Ex-Profi Neudecker als Trainer – mit Kreuzband-Vergangenheit"
         },
         "https://www.merkur.de/lokales/muenchen-lk/oberschleissheim-ort29202/skoda-geraet-in-gegenverkehr-frontalkollision-bei-oberschleissheim-fordert-drei-verletzte-94519852.html": {
           "text": "Skoda gerät in Gegenverkehr: Frontalkollision bei Oberschleißheim fordert drei Verletzte"
         },
+        "https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/develey-senf-firma-aus-unterhaching-beliefert-fast-alle-zelte-auf-dem-oktoberfest-94518557.html": {
+          "text": "Senf-Imperium auf der Wiesn: Develey versorgt fast alle Oktoberfest-Zelte mit Produkten"
+        },
         "https://www.merkur.de/lokales/muenchen-lk/putzbrunn-ort29323/putzbrunn-stueberl-sportheim-und-co-bekommen-hackschnitzel-heizung-externer-partner-fuer-betrieb-94518524.html": {
           "text": "Stüberl, Sportheim und Co. bekommen Hackschnitzel-Heizung – Externer Partner für Betrieb"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/oberschleissheim-ort29202/im-obstgarten-des-schloss-schleissheim-wachsen-sehr-alte-obstsorten-sie-werden-immer-beliebter-94518578.html": {
+          "text": "So köstlich schmeckt der Herbst: Expertin verrät, warum alte Obstsorten so beliebt sind"
         },
         "https://www.merkur.de/lokales/muenchen-lk/oberschleissheim-ort29202/hallenbad-oberschleissheim-soll-ab-2027-im-betrieb-saniert-werden-94517791.html": {
           "text": "„Leuchtturmprojekt für ganze Republik“: Hallenbad Oberschleißheim soll ab 2027 im Betrieb saniert werden"
@@ -1057,24 +1039,6 @@
         },
         "https://www.merkur.de/lokales/muenchen-lk/grasbrunn-ort377335/grasbrunns-gewerbesteuer-explodiert-24-millionen-statt-15-geplant-94516578.html": {
           "text": "„Absoluter Rekordwert“: Grasbrunns Steuereinnahmen weit über ursprünglichem Ansatz"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/strasslach-dingharting-ort377277/fettbrand-mit-wasser-loeschen-kann-toedlich-enden-feuerwehr-strasslach-zeigt-warum-94516576.html": {
-          "text": "Fettbrand mit Wasser löschen kann tödlich enden: Feuerwehr Straßlach zeigt warum"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/landkreis-muenchen-streicht-jede-zweite-stelle-in-der-integrationsberatung-94516964.html": {
-          "text": "Integration: Einschnitte sind Zäsur und Ansporn zugleich"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/feldkirchen-baut-zwei-trinkwasserbrunnen-freistaat-zahlt-90-prozent-94514413.html": {
-          "text": "Feldkirchen baut zwei Trinkwasserbrunnen – Freistaat zahlt 90 Prozent"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/pullach-ort29321/pullach-raub-mit-schreckschusspistole-vier-syrer-nach-ueberfall-bei-burg-schwaneck-in-haft-94515980.html": {
-          "text": "Raub mit Schreckschusspistole: Vier Syrer nach Überfall bei Burg Schwaneck in Haft"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/garchinger-tisch-feiert-20-jahre-ehrenamtliche-halten-die-tafeln-am-laufen-94514415.html": {
-          "text": "Garchinger Tisch feiert 20 Jahre: Ehrenamtliche halten die Tafeln am Laufen"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/aying-ort28266/radweg-in-duerrnhaar-gemeinde-aying-zahlt-nur-79-000-statt-132-000-euro-94514446.html": {
-          "text": "Zuschuss für Radweg: Gemeinde zahlt nur 79.000 statt 132.000 Euro"
         }
       },
       "documents": {},
@@ -1084,10 +1048,10 @@
       "name": "Münchner Merkur – Feldkirchen",
       "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/",
       "priority": "mandatory",
-      "last_success_at": "2026-10-01T10:59:12+00:00",
+      "last_success_at": "2026-10-02T10:32:09+00:00",
       "final_url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/",
       "content_type": "text/html;charset=utf-8",
-      "page_sha256": "eba7649b137389b47977e1ece166d100bdfc0a0212638563ce750cd3d74c5157",
+      "page_sha256": "0a22026f628330c1867a2c012fa0ba6619f0e21944c043ff135e0ad220e28132",
       "page_changed": true,
       "first_seen": false,
       "links": {
@@ -1156,10 +1120,10 @@
       "name": "Münchner Merkur – Aschheim",
       "url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/",
       "priority": "mandatory",
-      "last_success_at": "2026-10-01T10:59:13+00:00",
+      "last_success_at": "2026-10-02T10:32:10+00:00",
       "final_url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/",
       "content_type": "text/html;charset=utf-8",
-      "page_sha256": "ce833cf4b48ae61ba4460bd99f75c8f624650be4314863953ec44aba94618afa",
+      "page_sha256": "82f9b5308a20dd785852d5a6055be88d4c24fc961412f0764e095339e16063ed",
       "page_changed": true,
       "first_seen": false,
       "links": {
@@ -1228,10 +1192,10 @@
       "name": "Münchner Merkur – Kirchheim",
       "url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/",
       "priority": "mandatory",
-      "last_success_at": "2026-10-01T10:59:14+00:00",
+      "last_success_at": "2026-10-02T10:32:11+00:00",
       "final_url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/",
       "content_type": "text/html;charset=utf-8",
-      "page_sha256": "4c34e7275653074860a57b74e3f4cc11c6625dc44b048a9dd4c7637f353ed7bb",
+      "page_sha256": "8b1c0456eb5c1eb94d7be251a402b446e8706c4a13f090ef6a0b8388b4f21b6d",
       "page_changed": true,
       "first_seen": false,
       "links": {
@@ -1300,10 +1264,10 @@
       "name": "Münchner Merkur – Haar",
       "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/",
       "priority": "mandatory",
-      "last_success_at": "2026-10-01T10:59:15+00:00",
+      "last_success_at": "2026-10-02T10:32:12+00:00",
       "final_url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/",
       "content_type": "text/html;charset=utf-8",
-      "page_sha256": "7846d05a94bf837ae41b8f8a1a931ffc2c20914d7f8e81be581a99e16e62e158",
+      "page_sha256": "f7ab7a2a60dc4120740c2b1265991843be15fd7bdd0e64c1967e199b60b80a41",
       "page_changed": true,
       "first_seen": false,
       "links": {
@@ -1312,6 +1276,9 @@
         },
         "https://www.merkur.de/lokales/muenchen-lk/": {
           "text": "München Landkreis"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/kindergarten-in-haar-wird-teurer-eltern-zahlen-ab-2027-monatlich-100-euro-mehr-94518310.html": {
+          "text": "Kindergarten wird teurer: Eltern zahlen ab 2027 monatlich 100 Euro mehr"
         },
         "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/autos-im-sekundentakt-leibstrassen-baustelle-wirkt-sich-auf-anliegerstrassen-aus-94510978.html": {
           "text": "Autos im Sekundentakt: Leibstraßen-Baustelle wirkt sich auf Anliegerstraßen aus"
@@ -1360,9 +1327,6 @@
         },
         "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/stadtauswaerts-befahrbar-bundesstrasse-wird-acht-wochen-zur-einbahnstrasse-nur-94467461.html": {
           "text": "Bundesstraße wird acht Wochen zur Einbahnstraße – nur stadtauswärts befahrbar"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/einsatz-nach-beziehungsstreit-20-jaehrige-verletzt-und-beleidigt-bundespolizisten-94467443.html": {
-          "text": "Einsatz nach Beziehungsstreit: 20-Jährige verletzt und beleidigt Bundespolizisten"
         }
       },
       "documents": {},
@@ -1372,7 +1336,7 @@
       "name": "Gemeinde Feldkirchen – Aktuelle Meldungen",
       "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen",
       "priority": "mandatory",
-      "last_success_at": "2026-10-01T10:58:57+00:00",
+      "last_success_at": "2026-10-02T10:31:55+00:00",
       "final_url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen",
       "content_type": "text/html;charset=UTF-8",
       "page_sha256": "54359791acadc620f3d894a26064c662a32667a449b55c3dfbdca5cdd202a79e",
@@ -1441,5 +1405,5 @@
       "error": null
     }
   },
-  "last_run_at": "2026-10-01T10:59:15+00:00"
+  "last_run_at": "2026-10-02T10:32:12+00:00"
 }
