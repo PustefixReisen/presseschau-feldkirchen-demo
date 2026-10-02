@@ -4,13 +4,14 @@
 
 | Version | Stand | Verantwortlich |
 |---|---|---|
-| 0.1 | 12.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
+| 0.2 | 02.10.2026 | Josef Walter – erstellt mit KI-Unterstützung |
 
 ## Änderungshistorie
 
 | Version | Datum | Änderung |
 |---|---|---|
 | 0.1 | 12.09.2026 | Ersten reproduzierbaren Betriebsstand für Demonstrator dokumentiert; offene Anforderungen für Echtbetrieb, Backup/Restore, Secrets und Administration abgegrenzt |
+| 0.2 | 02.10.2026 | Persistenten Demonstrator-Fachbestand und Trennung von Ausgabe/Laufzeitdaten nachgeführt; Cache-Busting als Deploymentanforderung ergänzt |
 
 ## 1. Zweck und Status
 
@@ -24,11 +25,16 @@ Der Branch `docs/canonical-markdown` ist während der Dokumentationskonsolidieru
 
 Der Demonstrator ist eine statische Web-Anwendung. Wesentliche Bestandteile liegen direkt im Repository:
 
-- `index.html` – öffentliche Ausgangsseite,
+- `index.html` – öffentliche Ausgangsseite und synchronisierte Ausgabe,
 - `assets/` – CSS, JavaScript, Bildlogik und veröffentlichte Bilder,
-- `data/` – strukturierte Arbeits-/Inhaltsdaten, soweit im Repository geführt,
+- `data/beitraege.json` – persistenter fachlicher Beitragsbestand,
+- `data/sitzungen.json` – persistenter fachlicher Sitzungsbestand,
+- `data/themen.json` – persistenter fachlicher Themenbestand,
+- weitere Dateien unter `data/` – ergänzende strukturierte Arbeits-/Inhaltsdaten des jeweiligen Repository-Stands,
 - `config/` – repositorybasierte Konfiguration,
 - `.github/workflows/` – vorhandene Automatisierungs- und Quellenmonitor-Workflows.
+
+**Verbindliche Persistenzregel:** Die drei genannten JSON-Dateien sind für Beiträge, Sitzungen und Themen der persistente fachliche Demonstrator-Bestand. `index.html` ist daraus beziehungsweise mit diesem Bestand synchronisierte öffentliche Ausgabe und nicht die fachliche Primärablage. Historische `update-*.js`-Skripte sind keine fachliche Laufzeit-Datenhaltung und dürfen nicht als Ersatz für den persistenten Bestand behandelt werden.
 
 Für den statischen Demonstrator ist kein eigener Applikationsserver und keine produktive Datenbank erforderlich. Ein lokaler Wiederanlauf besteht deshalb mindestens aus:
 
@@ -36,13 +42,16 @@ Für den statischen Demonstrator ist kein eigener Applikationsserver und keine p
 2. den gewünschten Commit/Branch auschecken,
 3. Dateien über einen lokalen statischen HTTP-Server bereitstellen,
 4. `index.html` im Browser prüfen,
-5. vorhandene JavaScript-/Bildfunktionen und Links stichprobenartig testen.
+5. vorhandene JavaScript-/Bildfunktionen und Links stichprobenartig testen,
+6. bei fachlichen Änderungen die sichtbare Ausgabe gegen `data/beitraege.json`, `data/sitzungen.json` und `data/themen.json` abgleichen.
 
 Ein direktes Öffnen per `file://` ist nicht der verbindliche Testweg, weil Browser bei lokalen Dateien andere Sicherheits- und Ladebedingungen haben können als über HTTP.
 
 ### 2.2 Code- und Inhaltsstand
 
 Für den Demonstrator ist der Git-Commit der primäre technische Wiederherstellungspunkt für alle versionierten Dateien. Änderungen an HTML, CSS, JavaScript, Konfiguration und versionierten Daten müssen daher commit-basiert nachvollziehbar sein.
+
+Bei Änderungen an Beiträgen, Sitzungen oder Themen ist der persistente JSON-Bestand zusammen mit der daraus betroffenen Ausgabe zu versionieren. Eine Änderung ausschließlich in generiertem beziehungsweise synchronisiertem HTML oder in einem historischen Update-Skript gilt nicht als vollständige fachliche Persistierung.
 
 Nicht im Repository vorhandene externe Inhalte, Zugangsdaten oder Projektbibliotheksdateien sind dadurch **nicht** gesichert. Wo solche Quellen für einen späteren produktiven Lauf erforderlich werden, müssen sie entweder reproduzierbar importierbar oder in einer gesondert dokumentierten Sicherung enthalten sein.
 
@@ -55,8 +64,9 @@ Mindestens zu prüfen sind:
 - Quellen- und RIS-Links,
 - Bilddarstellung einschließlich Mobilansicht und `Mehr zum Bild`,
 - Teilen/Drucken, soweit im betroffenen Stand vorhanden,
-- neue oder geänderte Beiträge/Themen/Sitzungen gegen den strukturierten Datenbestand,
-- keine Veröffentlichung interner Steuerungshinweise oder nicht freigegebener Daten.
+- neue oder geänderte Beiträge/Themen/Sitzungen gegen `data/beitraege.json`, `data/themen.json` beziehungsweise `data/sitzungen.json`,
+- keine Veröffentlichung interner Steuerungshinweise oder nicht freigegebener Daten,
+- nach sichtbaren CSS-/JavaScript-Änderungen: Asset-Versionskennung aktualisiert und normaler Browser-Reload liefert den neuen Stand.
 
 Automatisierte Workflows ersetzen die redaktionelle Freigabe nicht.
 
@@ -82,7 +92,7 @@ Solange diese Punkte nicht implementiert und getestet sind, darf kein Dokument e
 
 ### 4.1 Demonstrator
 
-Der aktuelle Demonstrator nutzt repositorybasierte Dateien als Daten-/Darstellungsgrundlage. Änderungen an strukturierten Daten müssen zusammen mit der konsumierenden Logik versioniert werden.
+Der aktuelle Demonstrator nutzt repositorybasierte Dateien als Daten-/Darstellungsgrundlage. Für Beiträge, Sitzungen und Themen bilden `data/beitraege.json`, `data/sitzungen.json` und `data/themen.json` den persistenten fachlichen Bestand. Änderungen an diesen strukturierten Daten müssen zusammen mit der konsumierenden beziehungsweise synchronisierten Darstellungslogik versioniert werden.
 
 ### 4.2 Echtbetrieb – offen
 
@@ -97,7 +107,7 @@ Für PostgreSQL/Supabase gilt als verbindliches Ziel:
 
 ### 5.1 Demonstrator
 
-Für versionierte Demonstrator-Dateien ist Git die Wiederherstellungsbasis. Ein Restore bedeutet, einen bekannten funktionierenden Commit auszuchecken beziehungsweise erneut auszuliefern.
+Für versionierte Demonstrator-Dateien ist Git die Wiederherstellungsbasis. Ein Restore bedeutet, einen bekannten funktionierenden Commit auszuchecken beziehungsweise erneut auszuliefern. Der fachliche Restore umfasst dabei ausdrücklich den zu diesem Commit gehörenden Stand von `data/beitraege.json`, `data/sitzungen.json` und `data/themen.json`; `index.html` allein ist kein vollständiger fachlicher Restore.
 
 Diese Aussage gilt **nicht** für nicht versionierte externe Quellen, Bibliotheksdateien oder spätere Datenbankinhalte.
 
@@ -121,6 +131,8 @@ Ein Backup gilt erst dann als belastbar, wenn ein Restore daraus erfolgreich get
 
 Die Veröffentlichung basiert auf dem versionierten statischen Stand. Vor einer Änderung der öffentlichen Darstellung ist der betreffende Commit zu prüfen. Der Dokumentationsbranch `docs/canonical-markdown` ist nicht automatisch als Veröffentlichungsquelle zu verwenden.
 
+Bei sichtbaren Änderungen an zentralen CSS-/JavaScript-Assets muss die zugehörige Versionskennung in der Einbindung mitgeführt werden (Cache-Busting). Ziel ist, dass ein normaler Browser-Reload nach dem Deployment den aktuellen Stand lädt und nicht wegen eines alten Browser-Caches weiterhin eine vorherige Asset-Version verwendet. Die Versionskennung ist Teil des Deployment-Schritts und zusammen mit der Änderung zu prüfen.
+
 ### 6.2 Echtbetrieb – offen
 
 Noch zu dokumentieren und umzusetzen sind:
@@ -134,7 +146,7 @@ Noch zu dokumentieren und umzusetzen sind:
 
 ## 7. Administration
 
-Für den Demonstrator besteht Administration im Wesentlichen aus Repository-, Workflow- und Inhalts-/Bildpflege.
+Für den Demonstrator besteht Administration im Wesentlichen aus Repository-, Workflow- und Inhalts-/Bildpflege. Fachliche Korrekturen an Beiträgen, Sitzungen und Themen müssen in den persistenten JSON-Bestand zurückgeführt werden; eine reine Korrektur der sichtbaren HTML-Ausgabe ist administrativ nicht ausreichend.
 
 Für den Echtbetrieb muss die Administrationsdokumentation mindestens enthalten:
 
