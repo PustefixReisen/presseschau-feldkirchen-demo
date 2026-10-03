@@ -4,7 +4,7 @@
 
 | Version | Stand | Verantwortlich |
 |---|---|---|
-| 2.1 | 29.09.2026 | Josef Walter – erstellt mit KI-Unterstützung |
+| 2.2 | 03.10.2026 | Josef Walter – erstellt mit KI-Unterstützung |
 
 ## Statusmodell
 
@@ -23,6 +23,7 @@ Es gelten die zentralen Roadmap-Status aus `PustefixReisen/pustivo/docs/governan
 | Projektdokumentation konsolidieren | **In Arbeit** | Allgemein verständliches inhaltliches Konzept angelegt; fachliche/redaktionelle Primärquellen über #11 weiter vervollständigen |
 | Echtbetriebsarchitektur | **In Arbeit** | Architektur-, Betriebs-, Sicherheits-, Daten-, Deployment- und Backupentscheidungen über #12 verbindlich konsolidieren |
 | Übergabe an Echtsystem | **Abgeschlossen** | Konsolidierter Übergabestand in `docs/FIB_Uebergabe_Echtsystem.md`; Entwicklung wird in neuem Projekt mit Projektgründungsphase fortgesetzt. |
+| **G2.5 Transfer-Audit Demonstrator → Echtsystem** | **In Arbeit** | Demonstrator-Erkenntnisse, Betriebs-/Fehlerfälle, Übergabedokumente und relevante frühere FIB-Chats gegen die Echtsystem-Regeln prüfen; fehlende Regeln unmittelbar übernehmen; Transfer-Gate vor fachlicher Fortsetzung von G3. |
 | Produktivsetzung | **Neues Projekt** | Planung und Umsetzung erfolgen im separaten FIB-Echtsystem-Projekt. |
 
 ## Audit-Ergebnis 12.09.2026
@@ -37,6 +38,65 @@ Wesentliche offene Punkte:
 2. **#12 Echtbetriebsarchitektur und Betriebsverfahren verbindlich festlegen.**
 
 Der Demonstrator bleibt bis dahin klar vom späteren Echtbetrieb getrennt.
+
+## G2.5 – Transfer-Audit Demonstrator → Echtsystem
+
+G2.5 wurde am 03.10.2026 nachträglich als verbindlicher Zwischenschritt eingeführt. Anlass war die Prüfung, ob die im aufwändigen Demonstratorbetrieb entstandenen fachlichen, redaktionellen, funktionalen und technischen Erkenntnisse vollständig in das Echtsystem übernommen wurden.
+
+### Ziel
+
+Der Demonstrator wird als **Anforderungs- und Referenzquelle** behandelt. Kein fachlich relevanter Testbefund soll allein deshalb verloren gehen, weil er nur in einem Spezialdokument, einem Betriebs-/Fehlerfall oder einem früheren Chat festgehalten wurde.
+
+### Prüfquellen
+
+G2.5 berücksichtigt mindestens:
+
+1. kanonische GitHub-Dokumentation,
+2. Demonstrator und persistente Datenbestände,
+3. Betriebs-, Update- und Fehlerprotokolle,
+4. Übergabe- und Spezialkonzepte,
+5. relevante frühere FIB-Chats als Lückenfinder.
+
+Frühere Chats sind dabei **keine kanonische Projektdokumentation**. Wiedergewonnene Erkenntnisse werden erst nach fachlicher Prüfung in GitHub-Regeln, Anforderungen oder Regressionstests überführt.
+
+### Transfer-Matrix
+
+Jede relevante Erkenntnis erhält einen Status:
+
+- **ÜBERNOMMEN**,
+- **ANGEPASST**,
+- **OFFEN**,
+- **NICHT ÜBERNEHMEN**.
+
+Eine Anforderung gilt erst als vollständig transferiert, wenn mindestens geklärt sind:
+
+1. fachliche Regel bzw. Ziel,
+2. kanonischer Dokumentationsort,
+3. notwendige Daten-/Prozessabbildung,
+4. technische Umsetzung bzw. Umsetzungsauftrag,
+5. Referenz- oder Regressionstest.
+
+### Transfer-Gate vor G3
+
+G3 wird fachlich erst dann ohne Vorbehalt fortgeführt, wenn:
+
+1. die relevanten Demonstrator-Erkenntnisse inventarisiert sind,
+2. jede Anforderung in der Transfer-Matrix klassifiziert wurde,
+3. fachlich kritische OFFEN-Punkte geschlossen oder bewusst verworfen wurden,
+4. die kanonischen Echtsystem-Dokumente die gültigen Regeln enthalten,
+5. Datenmodell und Redaktionsworkflow die benötigten Objekte und Zustände abbilden können,
+6. die wesentlichen Demonstratorfälle als Regressionstests beschrieben sind,
+7. konkurrierende bzw. veraltete Dokumentfassungen nicht mehr als gleichwertige Wahrheitsquelle erscheinen.
+
+### Unmittelbare Regelübernahme in G2.5
+
+Fehlende oder nur unvollständig transferierte Regeln werden **nicht auf eine spätere technische Phase verschoben**, sondern während G2.5 in die zuständigen kanonischen Echtsystem-Dokumente übernommen. Technische Detailumsetzungen können anschließend in G3/G4 geplant werden; die fachliche Anforderung muss jedoch vor dem Transfer-Gate verbindlich feststehen.
+
+Aktuelle Audit-Dokumente:
+
+- `docs/audits/2026-10-03_Transfer-Audit_Demonstrator-Echtsystem.md`
+- `docs/audits/2026-10-03_Chat-Erinnerungs-Audit.md`
+- `docs/projektgrundlagen/FIB_Echtsystem_Recherche_und_Relevanzregeln.md`
 
 ## Übernahme der Demonstrator-Erkenntnisse in den Echtbetrieb
 
@@ -79,10 +139,13 @@ Der nächste Schritt erfolgt im **neuen Projekt „FIB – Echtsystem“**:
 
 1. Projektgründungsphase durchführen,
 2. Übergabedokument als verbindlichen Ausgangsstand verwenden,
-3. Demonstrator-vs-Echtsystem-Matrix bestätigen,
-4. MVP, Zielarchitektur, Rollen/Rechte, Betrieb und Migration festlegen,
-5. Gründungsaudit,
-6. anschließend mit der technischen Umsetzung beginnen.
+3. **G2.5 Transfer-Audit vollständig durchführen und fehlende Regeln übernehmen,**
+4. Transfer-Gate bestätigen,
+5. Demonstrator-vs-Echtsystem-Matrix abschließen,
+6. MVP, Zielarchitektur, Rollen/Rechte, Betrieb und Migration festlegen,
+7. Gründungsaudit,
+8. **G3 Datenmodell und fachliche Systemstruktur fortführen,**
+9. anschließend mit der technischen Umsetzung beginnen.
 
 Offene historische Demonstrator-Issues werden dabei nicht automatisch als Produktiv-Backlog übernommen, sondern im neuen Projekt fachlich neu eingeordnet.
 
@@ -98,8 +161,10 @@ Primärdokument: `docs/FIB_Modellunabhaengigkeit_und_Qualitaetspruefung.md`.
 
 | Version | Datum | Änderung |
 |---|---|---|
+| 2.2 | 03.10.2026 | G2.5 Transfer-Audit Demonstrator → Echtsystem einschließlich Chat-Erinnerungs-Audit, unmittelbarer Regelübernahme und Transfer-Gate vor G3 als verbindlichen Roadmap-Schritt ergänzt. |
 | 2.1 | 29.09.2026 | Demonstrator abgeschlossen; Übergabe an separates Echtsystem-Projekt mit konsolidiertem Übergabedokument und vorgeschalteter Projektgründungsphase festgelegt. |
-| 2.0 | 28.09.2026 | „Mehr wissen?“ zum funktionalen KI-Testsystem erweitert: Supabase-Edge-Function, OpenAI-Webrecherche, freie Fragen und Kostenlimit vorbereitet. |\n| 1.9 | 27.09.2026 | Bezugsebene vom B471-Test auf eine allgemeine datengetriebene Lösung erweitert. Acht initiale Bezugsobjekte angelegt; mehrere Bezüge pro Beitrag/Thema und automatische Frontend-Erzeugung aus `data/bezuege.json` umgesetzt. |
+| 2.0 | 28.09.2026 | „Mehr wissen?“ zum funktionalen KI-Testsystem erweitert: Supabase-Edge-Function, OpenAI-Webrecherche, freie Fragen und Kostenlimit vorbereitet. |
+| 1.9 | 27.09.2026 | Bezugsebene vom B471-Test auf eine allgemeine datengetriebene Lösung erweitert. Acht initiale Bezugsobjekte angelegt; mehrere Bezüge pro Beitrag/Thema und automatische Frontend-Erzeugung aus `data/bezuege.json` umgesetzt. |
 | 1.8 | 27.09.2026 | Modellunabhängigkeit als verbindliches Architektur- und Qualitätsziel aufgenommen; Modellabhängigkeits-Check und Teststrategie vor Modell-/Anbieterwechsel verankert. |
 | 1.7 | 27.09.2026 | Bezugsebene unterhalb der redaktionellen Themen als Test eingeführt; B471 als erstes Objekt. Für den Echtbetrieb strukturierte Objekt-IDs, Aliasnamen und explizit geprüfte Beziehungen vorgesehen; Mehrwert-Schwelle verhindert Treffer aus bloßen beiläufigen Nennungen. |
 | 1.6 | 27.09.2026 | Such- und Filterlogik als Anforderung für den Echtbetrieb ergänzt; Kategorien, Orte und fachliche Schlagworte werden getrennt modelliert. Themenbildungslogik nach dem übersehenen Sachstrang Tempo 30/B471 nachgeschärft. |
