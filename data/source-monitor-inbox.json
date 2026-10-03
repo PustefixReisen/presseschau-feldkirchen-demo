@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-02T10:32:12+00:00",
+  "updated_at": "2026-10-03T09:54:09+00:00",
   "items": [
     {
       "event_key": "document:feldkirchen-parkraum-2026:https://www.feldkirchen.de/_Resources/Persistent/d/3/d/e/d3dee38ce3c4a9ad01384ca6ed314a2a8f8bcc12/2026%20Parkraumkonzept%20gem%20GR-Beschluss.pdf:4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
@@ -3334,6 +3334,96 @@
       "kind": "link_new",
       "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/kindergarten-in-haar-wird-teurer-eltern-zahlen-ab-2027-monatlich-100-euro-mehr-94518310.html",
       "link_text": "Kindergarten wird teurer: Eltern zahlen ab 2027 monatlich 100 Euro mehr",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:feldkirchen-aktuelle-meldungen:https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/6-netzwerktreffen-klimaschutz",
+      "detected_at": "2026-10-03T09:53:47+00:00",
+      "source_id": "feldkirchen-aktuelle-meldungen",
+      "source_name": "Gemeinde Feldkirchen – Aktuelle Meldungen",
+      "kind": "link_new",
+      "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/6-netzwerktreffen-klimaschutz",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:landkreis-muenchen:https://www.landkreis-muenchen.de/artikel/lass-uns-reden-aktion-der-arge-hospiz/",
+      "detected_at": "2026-10-03T09:53:56+00:00",
+      "source_id": "landkreis-muenchen",
+      "source_name": "Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.landkreis-muenchen.de/artikel/lass-uns-reden-aktion-der-arge-hospiz/",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:landkreis-muenchen:https://www.landkreis-muenchen.de/artikel/preisverleihung-des-2-schulwettbewerbs-vielfalt-macht-schule/",
+      "detected_at": "2026-10-03T09:53:56+00:00",
+      "source_id": "landkreis-muenchen",
+      "source_name": "Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.landkreis-muenchen.de/artikel/preisverleihung-des-2-schulwettbewerbs-vielfalt-macht-schule/",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/kreisbaeuerin-kocht-drei-gaenge-menue-aus-landkreis-muenchen-produkten-94520494.html",
+      "detected_at": "2026-10-03T09:54:04+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/kreisbaeuerin-kocht-drei-gaenge-menue-aus-landkreis-muenchen-produkten-94520494.html",
+      "link_text": "Kreisbäuerin kocht Drei-Gänge-Menü aus Landkreis-München-Produkten",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/unterfoehring-ort29618/nehme-schoene-erinnerungen-mit-pater-verlaesst-nach-elf-jahren-ismaning-und-kehrt-nach-indien-zurueck-94520050.html",
+      "detected_at": "2026-10-03T09:54:04+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/unterfoehring-ort29618/nehme-schoene-erinnerungen-mit-pater-verlaesst-nach-elf-jahren-ismaning-und-kehrt-nach-indien-zurueck-94520050.html",
+      "link_text": "„Nehme schöne Erinnerungen mit“: Pater verlässt nach elf Jahren Landkreis und kehrt nach Indien zurück",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/neubiberg-ort29121/pardeller-weist-beleidigungsvorwuerfe-zurueck-nicht-zutreffend-94520082.html",
+      "detected_at": "2026-10-03T09:54:04+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/neubiberg-ort29121/pardeller-weist-beleidigungsvorwuerfe-zurueck-nicht-zutreffend-94520082.html",
+      "link_text": "Pardeller weist Beleidigungsvorwürfe zurück: „Nicht zutreffend\"",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/landratsamt-muenchen-kostet-bis-zu-450-millionen-euro-kreistag-gibt-gruenes-licht-94520037.html",
+      "detected_at": "2026-10-03T09:54:04+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/landratsamt-muenchen-kostet-bis-zu-450-millionen-euro-kreistag-gibt-gruenes-licht-94520037.html",
+      "link_text": "Neues Landratsamt nimmt erste Hürde: Kreistag billigt Bedarfsplan – Projekt kostet bis zu 450 Millionen Euro",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/gruenwald-ort28770/gruenwald-trainer-koch-warnt-serie-ist-fuer-mich-kein-selbstlaeufer-94520855.html",
+      "detected_at": "2026-10-03T09:54:04+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/gruenwald-ort28770/gruenwald-trainer-koch-warnt-serie-ist-fuer-mich-kein-selbstlaeufer-94520855.html",
+      "link_text": "Grünwald-Trainer Koch warnt: „Serie ist für mich kein Selbstläufer“",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-kirchheim:https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/kreisbaeuerin-kocht-drei-gaenge-menue-aus-landkreis-muenchen-produkten-94520494.html",
+      "detected_at": "2026-10-03T09:54:08+00:00",
+      "source_id": "merkur-kirchheim",
+      "source_name": "Münchner Merkur – Kirchheim",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/kreisbaeuerin-kocht-drei-gaenge-menue-aus-landkreis-muenchen-produkten-94520494.html",
+      "link_text": "Kreisbäuerin kocht Drei-Gänge-Menü aus Landkreis-München-Produkten",
       "status": "unprocessed"
     }
   ]
