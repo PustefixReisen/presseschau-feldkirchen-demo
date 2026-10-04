@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-03T09:54:09+00:00",
+  "updated_at": "2026-10-04T10:36:34+00:00",
   "items": [
     {
       "event_key": "document:feldkirchen-parkraum-2026:https://www.feldkirchen.de/_Resources/Persistent/d/3/d/e/d3dee38ce3c4a9ad01384ca6ed314a2a8f8bcc12/2026%20Parkraumkonzept%20gem%20GR-Beschluss.pdf:4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
@@ -3424,6 +3424,96 @@
       "kind": "link_new",
       "url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/kreisbaeuerin-kocht-drei-gaenge-menue-aus-landkreis-muenchen-produkten-94520494.html",
       "link_text": "Kreisbäuerin kocht Drei-Gänge-Menü aus Landkreis-München-Produkten",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/strasslach-dingharting-ort377277/strasslach-neues-heizkraftwerk-brennt-schaden-bis-zu-400-000-euro-94523578.html",
+      "detected_at": "2026-10-04T10:36:29+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/strasslach-dingharting-ort377277/strasslach-neues-heizkraftwerk-brennt-schaden-bis-zu-400-000-euro-94523578.html",
+      "link_text": "Neues Heizkraftwerk brennt: Schaden bis zu 400.000 Euro",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/kirchheim-fuehrt-wortprotokolle-ein-buergermeister-stimmt-dagegen-94520030.html",
+      "detected_at": "2026-10-04T10:36:29+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/kirchheim-fuehrt-wortprotokolle-ein-buergermeister-stimmt-dagegen-94520030.html",
+      "link_text": "Kirchheim führt Wortprotokolle ein – Bürgermeister stimmt dagegen",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/unterfoehring-ort29618/polizei-stoppt-motorrad-mit-dienstwagen-21-jaehriger-in-unterfoehring-festgenommen-94523682.html",
+      "detected_at": "2026-10-04T10:36:29+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/unterfoehring-ort29618/polizei-stoppt-motorrad-mit-dienstwagen-21-jaehriger-in-unterfoehring-festgenommen-94523682.html",
+      "link_text": "Polizei stoppt Motorrad mit Dienstwagen: 21-Jähriger in Unterföhring festgenommen",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/einbrecher-schleppen-tresor-aus-firmengebaeude-in-kirchheim-94523643.html",
+      "detected_at": "2026-10-04T10:36:29+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/einbrecher-schleppen-tresor-aus-firmengebaeude-in-kirchheim-94523643.html",
+      "link_text": "Einbrecher schleppen Tresor aus Firmengebäude in Kirchheim",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/taufkirchen-bei-muenchen-ort486320/taufkirchen-fahrer-wirkt-etwas-mitgenommen-drogentest-stoppt-spanier-auf-der-a995-94523622.html",
+      "detected_at": "2026-10-04T10:36:29+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/taufkirchen-bei-muenchen-ort486320/taufkirchen-fahrer-wirkt-etwas-mitgenommen-drogentest-stoppt-spanier-auf-der-a995-94523622.html",
+      "link_text": "Fahrer wirkt „etwas mitgenommen\": Polizei stoppt Spanier auf A995",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/hohenbrunn-ort28822/hohenbrunn-saniert-haus-des-kindes-fuer-660-000-euro-kinder-ziehen-um-94520027.html",
+      "detected_at": "2026-10-04T10:36:29+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/hohenbrunn-ort28822/hohenbrunn-saniert-haus-des-kindes-fuer-660-000-euro-kinder-ziehen-um-94520027.html",
+      "link_text": "Hohenbrunn saniert „Haus des Kindes“ für 660.000 Euro – Kinder ziehen zwischenzeitlich in Waldhort",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/taufkirchen-bei-muenchen-ort486320/lkw-blockieren-schulweg-gemeinde-droht-mit-strassensperrung-94520060.html",
+      "detected_at": "2026-10-04T10:36:29+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/taufkirchen-bei-muenchen-ort486320/lkw-blockieren-schulweg-gemeinde-droht-mit-strassensperrung-94520060.html",
+      "link_text": "Lkw blockieren Schulweg: Gemeinde droht mit Straßensperrung",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-kirchheim:https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/einbrecher-schleppen-tresor-aus-firmengebaeude-in-kirchheim-94523643.html",
+      "detected_at": "2026-10-04T10:36:32+00:00",
+      "source_id": "merkur-kirchheim",
+      "source_name": "Münchner Merkur – Kirchheim",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/einbrecher-schleppen-tresor-aus-firmengebaeude-in-kirchheim-94523643.html",
+      "link_text": "Einbrecher schleppen Tresor aus Firmengebäude in Kirchheim",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-kirchheim:https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/kirchheim-fuehrt-wortprotokolle-ein-buergermeister-stimmt-dagegen-94520030.html",
+      "detected_at": "2026-10-04T10:36:32+00:00",
+      "source_id": "merkur-kirchheim",
+      "source_name": "Münchner Merkur – Kirchheim",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/kirchheim-fuehrt-wortprotokolle-ein-buergermeister-stimmt-dagegen-94520030.html",
+      "link_text": "Kirchheim führt Wortprotokolle ein – Bürgermeister stimmt dagegen",
       "status": "unprocessed"
     }
   ]
