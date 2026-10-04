@@ -4,7 +4,7 @@
 
 | Version | Stand | Verantwortlich |
 |---|---|---|
-| 1.1 | 02.10.2026 | Josef Walter – erstellt mit KI-Unterstützung |
+| 1.2 | 04.10.2026 | Josef Walter – erstellt mit KI-Unterstützung |
 
 ## Änderungshistorie
 
@@ -21,6 +21,7 @@
 | 0.9 | 30.09.2026 | Regeln zu persistentem Demonstrator-Datenbestand, Aktualisierungshistorie und Cache-Busting als D028–D030 aufgenommen |
 | 1.0 | 01.10.2026 | D028–D030 gegen aktuellen `main`-Stand geprüft und in `FIB_Frontend_und_Darstellung.md` V0.4 konsolidiert; D029/D030 gesichert, D028 wegen noch ausstehender Architektur-/Betriebsübernahme teilweise |
 | 1.1 | 02.10.2026 | D028 in `FIB_Betrieb_und_Reproduzierbarkeit.md` V0.2 für Laufzeit, Tests, Datenmodell, Restore und Administration nachgeführt; D030 dort zusätzlich als Deploymentanforderung verankert; D028 nur noch wegen fehlender Architekturübernahme teilweise |
+| 1.2 | 04.10.2026 | `FIB_Architektur.md` V0.1 geprüft; Persistenzgrenze, Wiederherstellungsgrenze und Übergang zur Echtbetriebsdatenhaltung sind dort nachgeführt; D028 damit gesichert |
 
 ## 1. Zweck
 
@@ -73,7 +74,7 @@ Statuswerte: `gesichert`, `teilweise`, `fehlt`, `offen`, `zu prüfen`.
 | D025 | Reproduzierbarkeit: Installation, Konfiguration, DB-Migrationen, Backup/Restore, Administration, Deployment | `FIB_Betrieb_und_Reproduzierbarkeit.md` V0.2 | Betriebs-/Entwicklerdoku + praktische Nachweise | teilweise |
 | D026 | Breite lokale Relevanz ohne zusätzliche kommunalpolitische Schwelle | `FIB_Fachregeln_Nachtrag_2026-09-20.md` + neuere Fassung auf `main` | KI-Leitfaden + Fachkonzept | teilweise; kontrollierte Übernahme ausstehend |
 | D027 | Beschlussvorlagen und Anlagen systematisch auswerten; Vorlage und Beschluss trennen | `FIB_Fachregeln_Nachtrag_2026-09-20.md` + neuere Fassung auf `main` | KI-Leitfaden + Sitzungs-/Quellenregeln | teilweise; kontrollierte Übernahme ausstehend |
-| D028 | Persistenter Demonstrator-Fachbestand: `data/beitraege.json`, `data/sitzungen.json`, `data/themen.json`; `index.html` nur synchronisierte Ausgabe; historische Update-Skripte keine Laufzeit-Datenhaltung | gegen aktuellen `main`-Stand geprüft; `FIB_Frontend_und_Darstellung.md` V0.4 Abschnitt 9; `FIB_Betrieb_und_Reproduzierbarkeit.md` V0.2 Abschnitte 2, 4, 5 und 7 | Architektur + Betriebs-/Entwicklerdoku | teilweise; Frontend und Betrieb gesichert, Architektur noch nachzuführen |
+| D028 | Persistenter Demonstrator-Fachbestand: `data/beitraege.json`, `data/sitzungen.json`, `data/themen.json`; `index.html` nur synchronisierte Ausgabe; historische Update-Skripte keine Laufzeit-Datenhaltung | gegen aktuellen `main`-Stand geprüft; `FIB_Frontend_und_Darstellung.md` V0.4 Abschnitt 9; `FIB_Betrieb_und_Reproduzierbarkeit.md` V0.2; `FIB_Architektur.md` V0.1 Abschnitte 3.1, 3.3 und 5 | Architektur + Betriebs-/Entwicklerdoku | gesichert |
 | D029 | Fortschreibung bestehender Beiträge: neueste Aktualisierung im Untertitel, ältere Aktualisierungen historisieren; Fehlerkorrektur ohne öffentlichen Aktualisierungshinweis; eigenständiger Nachrichtenwert als neuer verknüpfter Beitrag | `FIB_Frontend_und_Darstellung.md` V0.4 Abschnitt 4.1; gegen neueren `main`-Stand geprüft | Frontend + Redaktionsregeln | gesichert |
 | D030 | Cache-Busting: Versionskennung zentraler CSS-/JS-Assets bei sichtbaren Frontend-Änderungen mitführen | `FIB_Frontend_und_Darstellung.md` V0.4 Abschnitt 13; `FIB_Betrieb_und_Reproduzierbarkeit.md` V0.2 Abschnitt 6.1; `main/index.html` verwendet versioniertes `assets/style.css` | Frontend + Deployment/Betrieb | gesichert |
 
