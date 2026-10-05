@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-04T10:36:34+00:00",
+  "updated_at": "2026-10-05T11:33:06+00:00",
   "items": [
     {
       "event_key": "document:feldkirchen-parkraum-2026:https://www.feldkirchen.de/_Resources/Persistent/d/3/d/e/d3dee38ce3c4a9ad01384ca6ed314a2a8f8bcc12/2026%20Parkraumkonzept%20gem%20GR-Beschluss.pdf:4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
@@ -3514,6 +3514,116 @@
       "kind": "link_new",
       "url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/kirchheim-fuehrt-wortprotokolle-ein-buergermeister-stimmt-dagegen-94520030.html",
       "link_text": "Kirchheim führt Wortprotokolle ein – Bürgermeister stimmt dagegen",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/brunnthal-ort377264/schwerer-unfall-am-kreuz-muenchen-sued-vollbesetzter-kleinbus-zertruemmert-die-bilder-94525037.html",
+      "detected_at": "2026-10-05T11:33:01+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/brunnthal-ort377264/schwerer-unfall-am-kreuz-muenchen-sued-vollbesetzter-kleinbus-zertruemmert-die-bilder-94525037.html",
+      "link_text": "Fotos",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/ottobrunn-ort29241/a99-kleinbus-kracht-frontal-in-fahrbahnteiler-aufpralldaempfer-rettet-leben-94525046.html",
+      "detected_at": "2026-10-05T11:33:01+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/ottobrunn-ort29241/a99-kleinbus-kracht-frontal-in-fahrbahnteiler-aufpralldaempfer-rettet-leben-94525046.html",
+      "link_text": "Auf A99: Vollbesetzter Kleinbus kracht frontal in Fahrbahnteiler – Aufpralldämpfer rettet Leben",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/baierbrunn-ort28315/skisprungschanzen-in-baierbrunn-weil-der-club-sich-weigerte-94523903.html",
+      "detected_at": "2026-10-05T11:33:01+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/baierbrunn-ort28315/skisprungschanzen-in-baierbrunn-weil-der-club-sich-weigerte-94523903.html",
+      "link_text": "Historische Ausstellung: Mit Skiern durch Baierbrunn",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/taufkirchen-bei-muenchen-ort486320/taufkirchner-buergerversammlung-wird-teilweise-gestreamt-94523892.html",
+      "detected_at": "2026-10-05T11:33:01+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/taufkirchen-bei-muenchen-ort486320/taufkirchner-buergerversammlung-wird-teilweise-gestreamt-94523892.html",
+      "link_text": "Taufkirchner Bürgerversammlung wird teilweise gestreamt",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/putzbrunn-ort29323/vater-verfolgt-14-jaehrige-mit-suv-und-wirft-fahrrad-nach-ihnen-94525244.html",
+      "detected_at": "2026-10-05T11:33:01+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/putzbrunn-ort29323/vater-verfolgt-14-jaehrige-mit-suv-und-wirft-fahrrad-nach-ihnen-94525244.html",
+      "link_text": "Verfolgungsjagd mit Auto und Fahrrad: 43-Jähriger nach Streit mit Jugendlichen angezeigt",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/strasslach-dingharting-ort377277/16-jaehriger-wird-ueber-holzstapel-katapultiert-und-landet-zwischen-zwei-staemmen-94525069.html",
+      "detected_at": "2026-10-05T11:33:01+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/strasslach-dingharting-ort377277/16-jaehriger-wird-ueber-holzstapel-katapultiert-und-landet-zwischen-zwei-staemmen-94525069.html",
+      "link_text": "16-Jähriger bei Motorradunfall verletzt",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/neubiberg-ort29121/neubiberg-csu-rat-wettert-gegen-gruene-koerners-ausschluss-aus-fraktion-ist-formsache-94523873.html",
+      "detected_at": "2026-10-05T11:33:01+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/neubiberg-ort29121/neubiberg-csu-rat-wettert-gegen-gruene-koerners-ausschluss-aus-fraktion-ist-formsache-94523873.html",
+      "link_text": "CSU-Rat wettert gegen Grüne: Körners Ausschluss aus Fraktion ist Formsache",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/ismaning-ort28863/mehr-als-40-aktionen-ismaning-feiert-demokratie-mit-haekelrosen-und-paddeltour-94523885.html",
+      "detected_at": "2026-10-05T11:33:01+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/ismaning-ort28863/mehr-als-40-aktionen-ismaning-feiert-demokratie-mit-haekelrosen-und-paddeltour-94523885.html",
+      "link_text": "Mehr als 40 Aktionen: Ismaning feiert Demokratie mit Häkelrosen und Paddeltour",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/app-filmt-schulwege-im-landkreis-muenchen-300-schueler-sollen-gefahren-aufdecken-94523907.html",
+      "detected_at": "2026-10-05T11:33:01+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/app-filmt-schulwege-im-landkreis-muenchen-300-schueler-sollen-gefahren-aufdecken-94523907.html",
+      "link_text": "App soll Schulweg-Gefahren im Landkreis München erkunden",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/ismaning-ort28863/nach-16-jahren-pfarrer-brunner-verlaesst-ismaning-mit-bewegenden-worten-94523905.html",
+      "detected_at": "2026-10-05T11:33:01+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/ismaning-ort28863/nach-16-jahren-pfarrer-brunner-verlaesst-ismaning-mit-bewegenden-worten-94523905.html",
+      "link_text": "Nach 16 Jahren: Pfarrer Brunner verlässt Ismaning mit bewegenden Worten",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-aschheim:https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/app-filmt-schulwege-im-landkreis-muenchen-300-schueler-sollen-gefahren-aufdecken-94523907.html",
+      "detected_at": "2026-10-05T11:33:03+00:00",
+      "source_id": "merkur-aschheim",
+      "source_name": "Münchner Merkur – Aschheim",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/app-filmt-schulwege-im-landkreis-muenchen-300-schueler-sollen-gefahren-aufdecken-94523907.html",
+      "link_text": "App soll Schulweg-Gefahren im Landkreis München erkunden",
       "status": "unprocessed"
     }
   ]
