@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-06T11:19:20+00:00",
+  "updated_at": "2026-10-06T14:51:53+00:00",
   "items": [
     {
       "event_key": "document:feldkirchen-parkraum-2026:https://www.feldkirchen.de/_Resources/Persistent/d/3/d/e/d3dee38ce3c4a9ad01384ca6ed314a2a8f8bcc12/2026%20Parkraumkonzept%20gem%20GR-Beschluss.pdf:4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
@@ -3734,6 +3734,36 @@
       "kind": "link_new",
       "url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/neue-pv-anlage-bei-aschheim-buerger-koennen-bis-zu-25-000-euro-einlegen-94526014.html",
       "link_text": "Neue PV-Anlage bei Aschheim: Bürger können bis zu 25.000 Euro einlegen",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:landkreis-muenchen:https://www.landkreis-muenchen.de/artikel/planungen-fuer-neuen-verwaltungsstandort-gehen-in-die-naechste-runde/",
+      "detected_at": "2026-10-06T14:51:39+00:00",
+      "source_id": "landkreis-muenchen",
+      "source_name": "Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.landkreis-muenchen.de/artikel/planungen-fuer-neuen-verwaltungsstandort-gehen-in-die-naechste-runde/",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/psychiatrische-klinik-in-haar-schickt-aerzte-zu-patienten-nach-hause-94526042.html",
+      "detected_at": "2026-10-06T14:51:48+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/psychiatrische-klinik-in-haar-schickt-aerzte-zu-patienten-nach-hause-94526042.html",
+      "link_text": "Psychiatrische Klinik schickt Ärzte zu Patienten nach Hause",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-haar:https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/psychiatrische-klinik-in-haar-schickt-aerzte-zu-patienten-nach-hause-94526042.html",
+      "detected_at": "2026-10-06T14:51:53+00:00",
+      "source_id": "merkur-haar",
+      "source_name": "Münchner Merkur – Haar",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/psychiatrische-klinik-in-haar-schickt-aerzte-zu-patienten-nach-hause-94526042.html",
+      "link_text": "Psychiatrische Klinik schickt Ärzte zu Patienten nach Hause",
       "status": "unprocessed"
     }
   ]
