@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "sources": [
     {
       "id": "ris-feldkirchen-freigaben",
@@ -114,6 +114,21 @@
       "priority": "topic",
       "follow_same_host": true,
       "match": [],
+      "document_extensions": [
+        ".pdf"
+      ]
+    },
+    {
+      "id": "beng-buergerenergie",
+      "name": "BENG eG – Bürgerenergie und Energieprojekte",
+      "url": "https://www.beng-eg.de/",
+      "mode": "overview",
+      "priority": "topic",
+      "follow_same_host": true,
+      "match": [
+        "/projekt-uebersicht/",
+        "/2026/"
+      ],
       "document_extensions": [
         ".pdf"
       ]
