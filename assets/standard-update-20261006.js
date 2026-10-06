@@ -36,6 +36,14 @@
 <h4>Quellen</h4>
 <ul class="sources"><li><a href="https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/kirchheim-fuehrt-wortprotokolle-ein-buergermeister-stimmt-dagegen-94520030.html" target="_blank" rel="noopener noreferrer">Münchner Merkur – Kirchheim führt Wortprotokolle ein</a> · 4. Oktober 2026</li></ul>
 <div class="topic-link"><a href="#T008" rel="noopener" target="_blank">Mehr zum Thema: Bürgerbeteiligung und kommunale Mitwirkung</a></div>
+</article>`,
+`<article class="card contribution" data-place="Erweiterte Relevanz" data-search="6. oktober 2026 aschheim feldkirchen klima energie freiflächen photovoltaik pv beng bürgerenergie genossenschaft batteriespeicher beteiligung 25000" data-tags="Aschheim Freiflächen-PV Bürgerenergie BENG Batteriespeicher Bürgerbeteiligung" id="R103">
+<div class="meta-row"><span class="date">6. Oktober 2026</span><span class="place">Aschheim / Vergleich für Feldkirchen</span><span class="category">Klima &amp; Energie</span></div>
+<h3>Neue Freiflächen-PV in Aschheim verbindet Solarstrom, Speicher und Bürgerbeteiligung</h3>
+<p class="subtitle">Die BENG plant eine rund 3-MWp-Anlage mit Batteriespeicher; Bürgerinnen und Bürger können sich über die Genossenschaft beteiligen, Aschheimer haben Vorzeichnungsrecht.</p>
+<div class="body"><p>Die Bürgerenergiegenossenschaft BENG baut in Aschheim eine weitere Photovoltaik-Freiflächenanlage. Die Anlage „Aschheim Freifläche II“ soll rund 3.000 kWp leisten und voraussichtlich etwa 3.200 MWh Strom pro Jahr erzeugen. Ergänzt wird sie durch einen Batteriespeicher, der die zeitliche Nutzung und Einspeisung des erzeugten Stroms flexibler machen soll.</p><p>Das Investitionsvolumen nennt die BENG mit rund 2,175 Millionen Euro. Die Beteiligung ist für Mitglieder der Genossenschaft vorgesehen; Bürgerinnen und Bürger aus Aschheim haben Vorzeichnungsrecht. Ein am 6. Oktober im Münchner Merkur erschienener Bericht stellt die Bürgerbeteiligung in den Mittelpunkt und nennt eine mögliche Einlage von bis zu 25.000 Euro. Der konkrete Merkur-Link war beim Nachmittagslauf noch nicht zuverlässig über die Websuche auffindbar; deshalb stützt sich FIB zunächst auf die öffentlich zugängliche BENG-Primärquelle.</p><p>Für Feldkirchen ist der Vorgang als übertragbares Praxisbeispiel relevant: Er verbindet Freiflächen-PV, Batteriespeicher und finanzielle Bürgerbeteiligung in einer unmittelbaren Nachbargemeinde. Daraus ergibt sich die Frage, ob vergleichbare Beteiligungsmodelle auch bei künftigen Energieprojekten in Feldkirchen eingesetzt werden könnten.</p></div>
+<h4>Quellen</h4>
+<ul class="sources"><li><a href="https://www.beng-eg.de/projekt-uebersicht/coming-soon/2026-aschheim-freiflaeche-ii/" target="_blank" rel="noopener noreferrer">BENG eG – Projekt Aschheim Freifläche II</a> · Projektstand 2026</li><li><a href="https://mitgliedschaft.beng-eg.de/" target="_blank" rel="noopener noreferrer">BENG eG – Beteiligungsportal: Aschheim Freifläche II</a></li></ul>
 </article>`
   ];
 
@@ -44,7 +52,6 @@
     if(id && !document.getElementById(id)) list.insertAdjacentHTML('afterbegin',html);
   });
 
-  // Bestehendes Thema Katastrophenschutz um den konkreten Ausbau der Warninfrastruktur ergänzen.
   const t014=document.getElementById('T014');
   if(t014 && !t014.dataset.updated20261006){
     t014.dataset.updated20261006='true';
@@ -57,7 +64,6 @@
     if(sources) sources.insertAdjacentHTML('beforeend','<li><a href="https://www.feldkirchen.de/service/krise-katastrophe/sirenen-standorte-in-feldkirchen" rel="noopener noreferrer" target="_blank"><span class="source-date">2. Oktober 2026</span> · Gemeinde Feldkirchen – Sirenen-Standorte in Feldkirchen</a></li>');
   }
 
-  // Sitzung 01.10. hat stattgefunden; belastbare öffentliche Ergebnisdokumente liegen beim Lauf noch nicht vor.
   const s024=document.getElementById('S024');
   if(s024){
     const place=s024.querySelector('.place');
@@ -71,7 +77,6 @@
     if(minutes) minutes.textContent='Sitzung stattgefunden – öffentliche Niederschrift/Einzelergebnisse noch nicht verfügbar';
   }
 
-  // Nächste bekannte Sitzung sichtbar machen, solange die öffentliche Tagesordnung noch nicht freigegeben ist.
   const sessionList=document.querySelector('#session-list');
   if(sessionList && !document.getElementById('S025')){
     sessionList.insertAdjacentHTML('afterbegin',`<article class="card session-card" data-search="2026-10-15 gemeinderat feldkirchen sitzung öffentliche tagesordnung noch nicht veröffentlicht" id="S025">
@@ -82,7 +87,6 @@
 </article>`);
   }
 
-  // Filterzahlen nach den versionierten Addenda wieder aus dem tatsächlichen DOM-Bestand berechnen.
   document.querySelectorAll('#place-filters .filter-chip[data-place]').forEach(button=>{
     const key=button.dataset.place;
     if(!key)return;
@@ -94,6 +98,6 @@
   const note=document.querySelector('.demo-note');
   if(note){
     note.textContent='Stand 6. Oktober 2026 · Öffentlicher Demonstrator';
-    note.dataset.standardUpdateApplied='2026-10-06';
+    note.dataset.standardUpdateApplied='2026-10-06b';
   }
 })();
