@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-05T11:33:06+00:00",
+  "updated_at": "2026-10-06T11:19:20+00:00",
   "items": [
     {
       "event_key": "document:feldkirchen-parkraum-2026:https://www.feldkirchen.de/_Resources/Persistent/d/3/d/e/d3dee38ce3c4a9ad01384ca6ed314a2a8f8bcc12/2026%20Parkraumkonzept%20gem%20GR-Beschluss.pdf:4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
@@ -3624,6 +3624,116 @@
       "kind": "link_new",
       "url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/app-filmt-schulwege-im-landkreis-muenchen-300-schueler-sollen-gefahren-aufdecken-94523907.html",
       "link_text": "App soll Schulweg-Gefahren im Landkreis München erkunden",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:feldkirchen-aktuelle-meldungen:https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/lebkuchenherzen-bingo-bayerische-schmankerl",
+      "detected_at": "2026-10-06T11:18:26+00:00",
+      "source_id": "feldkirchen-aktuelle-meldungen",
+      "source_name": "Gemeinde Feldkirchen – Aktuelle Meldungen",
+      "kind": "link_new",
+      "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/lebkuchenherzen-bingo-bayerische-schmankerl",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:landkreis-muenchen:https://www.landkreis-muenchen.de/artikel/fuehrerscheinstelle-zieht-nach-riem/",
+      "detected_at": "2026-10-06T11:18:35+00:00",
+      "source_id": "landkreis-muenchen",
+      "source_name": "Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.landkreis-muenchen.de/artikel/fuehrerscheinstelle-zieht-nach-riem/",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:adfc-muenchen:https://muenchen.adfc.de/pressemitteilung/kidical-mass-adfc-muenchen-bringt-kinder-und-familien-auf-die-raeder",
+      "detected_at": "2026-10-06T11:18:36+00:00",
+      "source_id": "adfc-muenchen",
+      "source_name": "ADFC München",
+      "kind": "link_new",
+      "url": "https://muenchen.adfc.de/pressemitteilung/kidical-mass-adfc-muenchen-bringt-kinder-und-familien-auf-die-raeder",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/neue-pv-anlage-bei-aschheim-buerger-koennen-bis-zu-25-000-euro-einlegen-94526014.html",
+      "detected_at": "2026-10-06T11:19:16+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/neue-pv-anlage-bei-aschheim-buerger-koennen-bis-zu-25-000-euro-einlegen-94526014.html",
+      "link_text": "Neue PV-Anlage bei Aschheim: Bürger können bis zu 25.000 Euro einlegen",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/baierbrunn-ort28315/baierbrunn-fahrer-umgeht-rote-ampel-und-schiebt-skoda-unter-lkw-94526885.html",
+      "detected_at": "2026-10-06T11:19:16+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/baierbrunn-ort28315/baierbrunn-fahrer-umgeht-rote-ampel-und-schiebt-skoda-unter-lkw-94526885.html",
+      "link_text": "Skoda unter Lkw: Fahrer missachtet rote Ampel und baut Unfall in Baustelle",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/abendliche-feten-und-muell-unterhachings-parklet-kaempft-um-akzeptanz-94526151.html",
+      "detected_at": "2026-10-06T11:19:16+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/abendliche-feten-und-muell-unterhachings-parklet-kaempft-um-akzeptanz-94526151.html",
+      "link_text": "Abendliche Feten und Müll: Unterhachings Parklet kämpft um Akzeptanz",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/baierbrunn-ort28315/1250-muffins-bis-12-50-uhr-zum-1250-geburtstag-baierbrunn-startet-kuriose-back-challenge-fuers-dorffest-94526011.html",
+      "detected_at": "2026-10-06T11:19:16+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/baierbrunn-ort28315/1250-muffins-bis-12-50-uhr-zum-1250-geburtstag-baierbrunn-startet-kuriose-back-challenge-fuers-dorffest-94526011.html",
+      "link_text": "1250 Muffins bis 12.50 Uhr zum 1250. Geburtstag: Baierbrunn startet kuriose Back-Challenge fürs Dorffest",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/grasbrunn-ort377335/grasbrunn-legehennenstall-neben-kindergarten-bauausschuss-lehnt-antrag-ab-94526146.html",
+      "detected_at": "2026-10-06T11:19:16+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/grasbrunn-ort377335/grasbrunn-legehennenstall-neben-kindergarten-bauausschuss-lehnt-antrag-ab-94526146.html",
+      "link_text": "Legehennenstall neben Kindergarten: Bauausschuss lehnt Antrag 7:1 ab",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/pullach-ort29321/bnd-bleibt-in-pullach-geheimdienstchef-nennt-standort-strategischen-anker-94526008.html",
+      "detected_at": "2026-10-06T11:19:16+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/pullach-ort29321/bnd-bleibt-in-pullach-geheimdienstchef-nennt-standort-strategischen-anker-94526008.html",
+      "link_text": "BND bleibt in Pullach: Geheimdienstchef nennt Standort „strategischen Anker\"",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/pullach-ort29321/gruene-warten-seit-juli-auf-antwort-buergermeisterin-plant-keinen-kauf-von-klimageraeten-94523975.html",
+      "detected_at": "2026-10-06T11:19:16+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/pullach-ort29321/gruene-warten-seit-juli-auf-antwort-buergermeisterin-plant-keinen-kauf-von-klimageraeten-94523975.html",
+      "link_text": "Hitzeschutz: Grüne warten seit Juli auf Antwort – Bürgermeisterin plant keinen Kauf von Klimageräten",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-aschheim:https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/neue-pv-anlage-bei-aschheim-buerger-koennen-bis-zu-25-000-euro-einlegen-94526014.html",
+      "detected_at": "2026-10-06T11:19:18+00:00",
+      "source_id": "merkur-aschheim",
+      "source_name": "Münchner Merkur – Aschheim",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/neue-pv-anlage-bei-aschheim-buerger-koennen-bis-zu-25-000-euro-einlegen-94526014.html",
+      "link_text": "Neue PV-Anlage bei Aschheim: Bürger können bis zu 25.000 Euro einlegen",
       "status": "unprocessed"
     }
   ]
