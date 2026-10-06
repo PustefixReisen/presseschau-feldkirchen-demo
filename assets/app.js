@@ -43,9 +43,10 @@
   await import('./app-base-20260831.js');
   // Der Demonstrator wurde am 29.09. als Entwicklungsreferenz eingefroren.
   // Auf ausdruecklichen Standard-Update-Aufruf werden spaetere Inhaltsaenderungen
-  // als versioniertes Daten-/Darstellungs-Addendum geladen, ohne die historische
+  // als versionierte Daten-/Darstellungs-Addenda geladen, ohne die historische
   // Basisdatei stillschweigend umzubauen.
   await import('./standard-update-20261001.js?v=20261001a');
+  await import('./standard-update-20261006.js?v=20261006a');
   await import('./sort-topics.js');
   await import('./sort-contributions.js');
   await import('./image-features.js?v=20260925a');
@@ -121,7 +122,7 @@
   // Standard-Update einen neueren Stand gesetzt hat.
   if(initialDemoNoteText){
     const note=document.querySelector('.demo-note');
-    if(note && !note.textContent.includes('1. Oktober 2026')) note.textContent=initialDemoNoteText;
+    if(note && !note.dataset.standardUpdateApplied && !note.textContent.includes('1. Oktober 2026')) note.textContent=initialDemoNoteText;
   }
 
   // Direkte Beitrags-/Themenlinks (z. B. #R069) nach allen dynamischen
