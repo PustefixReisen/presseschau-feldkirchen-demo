@@ -1,0 +1,76 @@
+{
+  "update_date": "2026-10-08",
+  "type": "standard-update",
+  "basis": "Post-Handoff-Addendum",
+  "new_contributions": [
+    {
+      "id": "R104",
+      "date": "2026-10-06",
+      "place": "Feldkirchen",
+      "category": "Mobilität & Verkehr",
+      "title": "Radverkehrskonzept: Gemeinderat soll über weitere Maßnahmen entscheiden",
+      "source_status": "Öffentliche Beschlussvorlage/Tagesordnung; Entscheidung steht noch aus."
+    },
+    {
+      "id": "R105",
+      "date": "2026-10-06",
+      "place": "Feldkirchen",
+      "category": "Ortsentwicklung & Bauen",
+      "title": "Rechenzentrum: Voranfrage soll Änderung des Bebauungsplans Nr. 112 anstoßen",
+      "source_status": "Öffentliche Beschlussvorlage/Tagesordnung; Entscheidung steht noch aus."
+    },
+    {
+      "id": "R106",
+      "date": "2026-10-06",
+      "place": "Feldkirchen",
+      "category": "Natur & Umwelt",
+      "title": "Kiesgrube: Gemeinderat berät über neue Fristen für die Verfüllung",
+      "source_status": "Öffentliche Beschlussvorlage/Tagesordnung; Entscheidung steht noch aus."
+    },
+    {
+      "id": "R107",
+      "date": "2026-10-06",
+      "place": "Feldkirchen",
+      "category": "Natur & Umwelt",
+      "title": "Griecherl-Gehölz: Grüner Schutzantrag kommt in den Gemeinderat",
+      "source_status": "Öffentliche Beschlussvorlage/Tagesordnung; Entscheidung steht noch aus."
+    }
+  ],
+  "updated_contributions": [
+    {
+      "id": "R069",
+      "update_date": "2026-10-07",
+      "note": "Hundewiese steht am 15.10. erneut zur Entscheidung auf der Tagesordnung."
+    },
+    {
+      "id": "R103",
+      "update_date": "2026-10-08",
+      "note": "Merkur-Originalartikel jetzt mit Direktlink ergänzt."
+    }
+  ],
+  "session_updates": [
+    {
+      "id": "S025",
+      "date": "2026-10-15",
+      "note": "Öffentliche Tagesordnung veröffentlicht; wichtige TOPs Hundewiese, Parkanlage, Radverkehrskonzept, Rechenzentrum, Wohnanlage Aschheimer Straße, Kiesgrube, Griecherl-Gehölz."
+    }
+  ],
+  "source_checks": [
+    {
+      "source": "Gemeinde Feldkirchen – Aktuelle Meldungen",
+      "result": "Neue Meldungen vom 07.10. geprüft; kein zusätzlicher eigenständiger FIB-Beitrag."
+    },
+    {
+      "source": "RIS Feldkirchen",
+      "result": "Tagesordnung Gemeinderat 15.10.2026 und neue Vorlagen veröffentlicht."
+    },
+    {
+      "source": "Münchner Merkur",
+      "result": "Direktlink zum Artikel über Aschheim Freifläche II jetzt auffindbar."
+    },
+    {
+      "source": "Landkreis München",
+      "result": "Amtsblatt 34/2026 geprüft; kein zusätzlicher eigenständiger FIB-Beitrag."
+    }
+  ]
+}
