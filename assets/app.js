@@ -48,6 +48,7 @@
   await import('./standard-update-20261001.js?v=20261001a');
   await import('./standard-update-20261006.js?v=20261006a');
   await import('./standard-update-20261006b.js?v=20261006b');
+  await import('./standard-update-20261008.js?v=20261008a');
   await import('./sort-topics.js');
   await import('./sort-contributions.js');
   await import('./image-features.js?v=20260925a');
