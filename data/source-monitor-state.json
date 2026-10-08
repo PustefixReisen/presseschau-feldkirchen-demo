@@ -5,7 +5,7 @@
       "name": "Gemeinde Feldkirchen – Nachrichten aus dem Bauamt",
       "url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt",
       "priority": "mandatory",
-      "last_success_at": "2026-10-07T11:06:20+00:00",
+      "last_success_at": "2026-10-08T11:23:54+00:00",
       "final_url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt",
       "content_type": "text/html;charset=UTF-8",
       "page_sha256": "7a84d3a0d2191a77f15fffc43b031b4a1c4fc5fdeaeba61825d6ee4f6fddf6c1",
@@ -26,7 +26,7 @@
       "name": "Gemeinde Feldkirchen – Neues Parkraumkonzept",
       "url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt/neues-parkraumkonzept-in-feldkirchen",
       "priority": "mandatory",
-      "last_success_at": "2026-10-07T11:06:23+00:00",
+      "last_success_at": "2026-10-08T11:23:58+00:00",
       "final_url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt/neues-parkraumkonzept-in-feldkirchen",
       "content_type": "text/html;charset=UTF-8",
       "page_sha256": "e90a8f8c0116008de9cbdd3c05c7b62988fa85bfcd2a1514c3690d1e162797f2",
@@ -448,7 +448,7 @@
           "content_type": "application/pdf",
           "bytes": 1472041,
           "sha256": "4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
-          "checked_at": "2026-10-07T11:06:23+00:00"
+          "checked_at": "2026-10-08T11:23:58+00:00"
         }
       },
       "error": null
@@ -457,10 +457,10 @@
       "name": "Landkreis München",
       "url": "https://www.landkreis-muenchen.de/",
       "priority": "mandatory",
-      "last_success_at": "2026-10-07T11:06:25+00:00",
+      "last_success_at": "2026-10-08T11:24:00+00:00",
       "final_url": "https://www.landkreis-muenchen.de/",
       "content_type": "text/html; charset=utf-8",
-      "page_sha256": "1130609f3f7080eeac1fce71560b1d2e344b76ba6f10ad55710010585314073c",
+      "page_sha256": "87b0153e228140447318851b432799af31e9cb5cc2c9348502e4ae51b45060fc",
       "page_changed": true,
       "first_seen": false,
       "links": {
@@ -590,8 +590,8 @@
         "https://www.landkreis-muenchen.de/landratsamt/pressestelle/": {
           "text": "Pressestelle"
         },
-        "https://www.landkreis-muenchen.de/landratsamt/standorte/": {
-          "text": "Standorte"
+        "https://www.landkreis-muenchen.de/landratsamt/anlaufstellen-standorte/": {
+          "text": "Anlaufstellen & Standorte"
         },
         "https://www.landkreis-muenchen.de/landratsamt/veroeffentlichungen/": {
           "text": "Veröffentlichungen"
@@ -742,14 +742,14 @@
       "name": "Autobahn GmbH – Südbayern",
       "url": "https://www.autobahn.de/die-autobahn/niederlassungen/suedbayern",
       "priority": "topic",
-      "last_attempt_at": "2026-10-07T11:06:26+00:00",
+      "last_attempt_at": "2026-10-08T11:24:01+00:00",
       "error": "HTTPError: HTTP Error 404: Not Found"
     },
     "adfc-muenchen": {
       "name": "ADFC München",
       "url": "https://muenchen.adfc.de/",
       "priority": "topic",
-      "last_success_at": "2026-10-07T11:06:28+00:00",
+      "last_success_at": "2026-10-08T11:24:03+00:00",
       "final_url": "https://muenchen.adfc.de/",
       "content_type": "text/html; charset=utf-8",
       "page_sha256": "0b6ec0967d7548ed51aa769d1809250715c1de7c338ed10fa37def043102292a",
@@ -836,7 +836,7 @@
       "name": "BUND Naturschutz – Kreisgruppe München",
       "url": "https://bn-muenchen.de/",
       "priority": "topic",
-      "last_success_at": "2026-10-07T11:06:29+00:00",
+      "last_success_at": "2026-10-08T11:24:04+00:00",
       "final_url": "https://bn-muenchen.de/",
       "content_type": "text/html",
       "page_sha256": "c9c228fa3294734a8b11eb9e7cfac3316ccb2db84afb1c80c6f0098e713d2e2e",
@@ -857,10 +857,10 @@
       "name": "BI-AFK",
       "url": "https://www.bi-afk.de/",
       "priority": "topic",
-      "last_success_at": "2026-10-07T11:06:33+00:00",
+      "last_success_at": "2026-10-08T11:24:08+00:00",
       "final_url": "https://bi-afk.de/",
       "content_type": "text/html; charset=UTF-8",
-      "page_sha256": "f3dfcf69007501ddd8961eb6cf860135eac250bc7f20c686ca393b954836059a",
+      "page_sha256": "170a2b5858ebe823af583a6afe84dae23a123f96003fd6dbe667a2225988cebf",
       "page_changed": true,
       "first_seen": false,
       "links": {
@@ -943,7 +943,7 @@
           "content_type": "application/pdf",
           "bytes": 149466,
           "sha256": "f0ce9eb0a26c6e4bafbce93352128b32ede6a1a841c241d07be53c69c0f4b695",
-          "checked_at": "2026-10-07T11:06:33+00:00"
+          "checked_at": "2026-10-08T11:24:08+00:00"
         }
       },
       "error": null
@@ -952,10 +952,10 @@
       "name": "RIS Feldkirchen – Dokumente mit Freigabe",
       "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/do0040.asp",
       "priority": "mandatory",
-      "last_success_at": "2026-10-07T11:06:16+00:00",
+      "last_success_at": "2026-10-08T11:23:50+00:00",
       "final_url": "https://buergerinfo-feldkirchen.digitalfabrix.de/do0040.asp",
       "content_type": "text/html; Charset=utf-8",
-      "page_sha256": "1f4dbd41f5f2181caad095c72365ad8464484dd3d04b27eed72a3e6963148a47",
+      "page_sha256": "c8cabf038581c29f7d6e01ff685b19da5c663e9a8b729de57688b9fc62a15bd8",
       "page_changed": true,
       "first_seen": false,
       "links": {
@@ -977,24 +977,6 @@
         "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75243&type=do": {
           "text": ""
         },
-        "https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8610": {
-          "text": "Antrag auf Verlängerung: Nutzungsänderung Büronutzung in schulische Nutzung, 1 OG, Fl.Nr. 319/2, Dornacher Str. 3 b-c, Gemarkung Feldkirchen"
-        },
-        "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75355&type=do": {
-          "text": ""
-        },
-        "https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8612": {
-          "text": "Antrag auf Verlängerung der befristeten Nutzungsänderung von Büroteilflächen zur Erweiterung der bestehenden Berufsintegrationsschule, Fl.Nr. 319/2, Dornacher Str. 3 - 3d"
-        },
-        "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75366&type=do": {
-          "text": ""
-        },
-        "https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8613": {
-          "text": "Bauantrag auf Verlängerung der befristeten Nutzungsänderung von Büroteilflächen zur schulischen Nutzung für Berufs-Integrationsklassen auf dem Grundstück Fl.Nr. 319/2, Dornacher Str. 3, Gemarkung Feldkirchen"
-        },
-        "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75371&type=do": {
-          "text": ""
-        },
         "https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8627": {
           "text": "Wochenmarkt in Feldkirchen - Entscheidung über eine Anpassung der Standgebühren"
         },
@@ -1011,6 +993,24 @@
           "text": "Voranfrage zur Errichtung eines Rechenzentrums auf den Flst.-Nr. 597/5 und 598/2; Einleitung der Änderung des Bebauungsplanes Nr. 112"
         },
         "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75379&type=do": {
+          "text": ""
+        },
+        "https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8610": {
+          "text": "Antrag auf Verlängerung: Nutzungsänderung Büronutzung in schulische Nutzung, 1 OG, Fl.Nr. 319/2, Dornacher Str. 3 b-c, Gemarkung Feldkirchen"
+        },
+        "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75355&type=do": {
+          "text": ""
+        },
+        "https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8612": {
+          "text": "Antrag auf Verlängerung der befristeten Nutzungsänderung von Büroteilflächen zur Erweiterung der bestehenden Berufsintegrationsschule, Fl.Nr. 319/2, Dornacher Str. 3 - 3d"
+        },
+        "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75366&type=do": {
+          "text": ""
+        },
+        "https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8613": {
+          "text": "Bauantrag auf Verlängerung der befristeten Nutzungsänderung von Büroteilflächen zur schulischen Nutzung für Berufs-Integrationsklassen auf dem Grundstück Fl.Nr. 319/2, Dornacher Str. 3, Gemarkung Feldkirchen"
+        },
+        "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75371&type=do": {
           "text": ""
         },
         "https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8614": {
@@ -1057,27 +1057,48 @@
       "name": "Münchner Merkur – Landkreis München",
       "url": "https://www.merkur.de/lokales/muenchen-lk/",
       "priority": "mandatory",
-      "last_success_at": "2026-10-07T11:06:35+00:00",
+      "last_success_at": "2026-10-08T11:24:10+00:00",
       "final_url": "https://www.merkur.de/lokales/muenchen-lk/",
       "content_type": "text/html;charset=utf-8",
-      "page_sha256": "3da6a410826f7dbc2a3e1ebce88bf509178f2c6f4c12ca93ef1034c1b16aec0d",
+      "page_sha256": "3743932da974170b64feafdf6f78551690fe1665c3143b56e2bd9a783ef4125e",
       "page_changed": true,
       "first_seen": false,
       "links": {
         "https://www.merkur.de/lokales/muenchen-lk/": {
           "text": "Menü"
         },
+        "https://www.merkur.de/lokales/muenchen-lk/hoehenkirchen-siegertsbrunn-ort100556/hoehenkirchen-siegertsbrunn-streicht-klimafoerderung-und-musikunterricht-94530566.html": {
+          "text": "Höhenkirchen-Siegertsbrunn streicht Fördermittel für Klimaschutz und Musikunterricht"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/miniatur-organe-sollen-krebstherapien-verbessern-minister-blume-besucht-eroeffnung-des-cos-in-garching-94529734.html": {
+          "text": "Mini-Organe: Durchbruch bei Krebstherapien? Minister Blume besucht Eröffnung des COS in Garching"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/grasbrunn-ort377335/fuehrerscheinstelle-zieht-um-eine-woche-lang-bleibt-sie-geschlossen-94529513.html": {
+          "text": "Führerscheinstelle zieht nach Riem: Eine Woche lang bleibt sie geschlossen"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/sportpark-unterhaching-event-zelt-seit-jahren-ohne-baugenehmigung-nun-gesperrt-94529509.html": {
+          "text": "FC Bayern nun Eigentümer vom Sportpark Unterhaching: Zelt seit Jahren ohne Baugenehmigung"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/unterschleissheim-ort29622/alter-wirt-unterschleissheim-eigentuemer-sucht-neuen-paechter-94529687.html": {
+          "text": "Der „Alte Wirt“ in Unterschleißheim soll wieder öffnen: Eigentümer sucht neuen Pächter"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/unterschleissheim-ort29622/bau-turbo-genehmigt-unterschleissheim-laesst-abweichungen-in-lohhof-sued-zu-94527978.html": {
+          "text": "Bau-Turbo soll es richten: Unterschleißheim lässt Abweichungen in Lohhof-Süd zu"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/buergermeister-sprechstunde-wgs-und-co-das-wuenscht-sich-die-haarer-jugend-94527652.html": {
+          "text": "Bürgermeister-Sprechstunde, WGs und Co.: Das wünscht sich die Haarer Jugend"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/bahn-rammt-sperrmuell-im-gleis-und-beschaedigt-ihren-transformator-94528692.html": {
+          "text": "S-Bahn rammt Sperrmüll im Gleis – Zug beschädigt"
+        },
         "https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/unterhachinger-festring-loest-gvu-ab-das-sind-die-neuen-ideen-94527763.html": {
           "text": "Unterhachinger Festring löst GVU ab: Das sind die neuen Ideen"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/schaeftlarn-ort73337/nach-erdbeben-arzt-und-abt-kaempfen-fuer-zerstoertes-dorf-94527706.html": {
-          "text": "Nach Erdbeben: Arzt und Abt kämpfen für zerstörtes Dorf"
         },
         "https://www.merkur.de/lokales/muenchen-lk/gruenwald-ort28770/kindersitz-zu-gross-maedchen-nach-unfall-mit-gehirnerschuetterung-94528930.html": {
           "text": "Kindersitz zu groß: Mädchen (3) nach Unfall mit Gehirnerschütterung"
         },
-        "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/bahn-rammt-sperrmuell-im-gleis-und-beschaedigt-ihren-transformator-94528692.html": {
-          "text": "S-Bahn rammt Sperrmüll im Gleis – Zug beschädigt"
+        "https://www.merkur.de/lokales/muenchen-lk/schaeftlarn-ort73337/nach-erdbeben-arzt-und-abt-kaempfen-fuer-zerstoertes-dorf-94527706.html": {
+          "text": "Nach Erdbeben: Arzt und Abt kämpfen für zerstörtes Dorf"
         },
         "https://www.merkur.de/lokales/muenchen-lk/region-muenchen-legt-58-vorranggebiete-fuer-windkraft-fest-94527994.html": {
           "text": "Region München legt 58 Vorranggebiete für Windkraft fest"
@@ -1102,30 +1123,6 @@
         },
         "https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/abendliche-feten-und-muell-unterhachings-parklet-kaempft-um-akzeptanz-94526151.html": {
           "text": "Abendliche Feten und Müll: Unterhachings Parklet kämpft um Akzeptanz"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/grasbrunn-ort377335/grasbrunn-legehennenstall-neben-kindergarten-bauausschuss-lehnt-antrag-ab-94526146.html": {
-          "text": "Legehennenstall neben Kindergarten: Bauausschuss lehnt Antrag 7:1 ab"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/pullach-ort29321/bnd-bleibt-in-pullach-geheimdienstchef-nennt-standort-strategischen-anker-94526008.html": {
-          "text": "BND bleibt in Pullach: Geheimdienstchef nennt Standort „strategischen Anker\""
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/pullach-ort29321/gruene-warten-seit-juli-auf-antwort-buergermeisterin-plant-keinen-kauf-von-klimageraeten-94523975.html": {
-          "text": "Hitzeschutz: Grüne warten seit Juli auf Antwort – Bürgermeisterin plant keinen Kauf von Klimageräten"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/taufkirchen-bei-muenchen-ort486320/taufkirchner-buergerversammlung-wird-teilweise-gestreamt-94523892.html": {
-          "text": "Taufkirchner Bürgerversammlung wird teilweise gestreamt"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/putzbrunn-ort29323/vater-verfolgt-14-jaehrige-mit-suv-und-wirft-fahrrad-nach-ihnen-94525244.html": {
-          "text": "Verfolgungsjagd mit Auto und Fahrrad: 43-Jähriger nach Streit mit Jugendlichen angezeigt"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/strasslach-dingharting-ort377277/16-jaehriger-wird-ueber-holzstapel-katapultiert-und-landet-zwischen-zwei-staemmen-94525069.html": {
-          "text": "16-Jähriger bei Motorradunfall verletzt"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/brunnthal-ort377264/schwerer-unfall-am-kreuz-muenchen-sued-vollbesetzter-kleinbus-zertruemmert-die-bilder-94525037.html": {
-          "text": "Fotos"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/ottobrunn-ort29241/a99-kleinbus-kracht-frontal-in-fahrbahnteiler-aufpralldaempfer-rettet-leben-94525046.html": {
-          "text": "Auf A99: Vollbesetzter Kleinbus kracht frontal in Fahrbahnteiler – Aufpralldämpfer rettet Leben"
         }
       },
       "documents": {},
@@ -1135,10 +1132,10 @@
       "name": "Münchner Merkur – Feldkirchen",
       "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/",
       "priority": "mandatory",
-      "last_success_at": "2026-10-07T11:06:37+00:00",
+      "last_success_at": "2026-10-08T11:24:12+00:00",
       "final_url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/",
       "content_type": "text/html;charset=utf-8",
-      "page_sha256": "7003cf77c2a1b24a4eb17499f93a5081065efc4faac94a8a082f4b23e2c7e775",
+      "page_sha256": "ceb2008ccb0554310e8bc61e2e8d8d267937d435e60e32911a923795847a01ab",
       "page_changed": true,
       "first_seen": false,
       "links": {
@@ -1207,10 +1204,10 @@
       "name": "Münchner Merkur – Aschheim",
       "url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/",
       "priority": "mandatory",
-      "last_success_at": "2026-10-07T11:06:38+00:00",
+      "last_success_at": "2026-10-08T11:24:13+00:00",
       "final_url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/",
       "content_type": "text/html;charset=utf-8",
-      "page_sha256": "9713604c6b10c7dd1cd529e5080c7ae75c7808fb5e04f72908644fc34239fee2",
+      "page_sha256": "62767f152da05943a1f84d7e7a91c4fac4441c676c8c25df49c8644247c849a1",
       "page_changed": true,
       "first_seen": false,
       "links": {
@@ -1279,10 +1276,10 @@
       "name": "Münchner Merkur – Kirchheim",
       "url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/",
       "priority": "mandatory",
-      "last_success_at": "2026-10-07T11:06:39+00:00",
+      "last_success_at": "2026-10-08T11:24:15+00:00",
       "final_url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/",
       "content_type": "text/html;charset=utf-8",
-      "page_sha256": "e2ca796669eac02cd62259eab7b66b587824f2fa408cc59ce0748aaaa2e8989e",
+      "page_sha256": "f9baa717585f11422f2919112b7a97d31d0722a46c24a224b460399cd6711f2b",
       "page_changed": true,
       "first_seen": false,
       "links": {
@@ -1351,10 +1348,10 @@
       "name": "Münchner Merkur – Haar",
       "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/",
       "priority": "mandatory",
-      "last_success_at": "2026-10-07T11:06:40+00:00",
+      "last_success_at": "2026-10-08T11:24:16+00:00",
       "final_url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/",
       "content_type": "text/html;charset=utf-8",
-      "page_sha256": "a3d0f6af7c7b02b45b7d7d8f78a7c7aad4cc55c776f7e3c7421300a68849ac02",
+      "page_sha256": "9a99e39bbc278fa411d03734308107a7e4eaee6d5ddc6d508abff95fc57f87f0",
       "page_changed": true,
       "first_seen": false,
       "links": {
@@ -1363,6 +1360,9 @@
         },
         "https://www.merkur.de/lokales/muenchen-lk/": {
           "text": "München Landkreis"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/buergermeister-sprechstunde-wgs-und-co-das-wuenscht-sich-die-haarer-jugend-94527652.html": {
+          "text": "Bürgermeister-Sprechstunde, WGs und Co.: Das wünscht sich die Haarer Jugend"
         },
         "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/psychiatrische-klinik-in-haar-schickt-aerzte-zu-patienten-nach-hause-94526042.html": {
           "text": "Psychiatrische Klinik schickt Ärzte zu Patienten nach Hause"
@@ -1411,9 +1411,6 @@
         },
         "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/auto-geraet-in-gegenverkehr-drei-verletzte-auf-b304-in-haar-94477382.html": {
           "text": "Auto gerät in Gegenverkehr: Drei Verletzte auf B304 in Haar"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/hauseigentuemer-ertappt-einbrecher-die-fluechten-mit-vierstelliger-beute-94473246.html": {
-          "text": "Hauseigentümer ertappt Einbrecher – die flüchten mit vierstelliger Beute"
         }
       },
       "documents": {},
@@ -1423,10 +1420,10 @@
       "name": "Gemeinde Feldkirchen – Aktuelle Meldungen",
       "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen",
       "priority": "mandatory",
-      "last_success_at": "2026-10-07T11:06:18+00:00",
+      "last_success_at": "2026-10-08T11:23:52+00:00",
       "final_url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen",
       "content_type": "text/html;charset=UTF-8",
-      "page_sha256": "64b68a9fe535a8dfdfe8f089270d9252a9e5a09ff685987aa1f018ac47084ea3",
+      "page_sha256": "8523e0e83b5af3f9af69b635fddc85efe99b93940e79cb62267346d5b5e73108",
       "page_changed": true,
       "first_seen": false,
       "links": {
@@ -1435,6 +1432,12 @@
         },
         "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/aktuelle-meldungen-landratsamt": {
           "text": "Pressemitteilungen extern"
+        },
+        "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/sperrung-wertstoffsammelstelle-westendstrasse": {
+          "text": ""
+        },
+        "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/vereinsvorstaendetreffen-im-herbst": {
+          "text": ""
         },
         "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/muenchner-ferien-und-familienpass-2026-2027-nur-noch-digital-erhaeltlich": {
           "text": ""
@@ -1472,9 +1475,6 @@
         "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/defektes-muellauto-abholung-gelber-sack": {
           "text": ""
         },
-        "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/oktoberfest-fuer-jugendliche": {
-          "text": ""
-        },
         "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/wie-fahrradfreundlich-ist-feldkirchen": {
           "text": ""
         },
@@ -1504,11 +1504,11 @@
       "name": "BENG eG – Bürgerenergie und Energieprojekte",
       "url": "https://www.beng-eg.de/",
       "priority": "topic",
-      "last_success_at": "2026-10-07T11:06:34+00:00",
+      "last_success_at": "2026-10-08T11:24:09+00:00",
       "final_url": "https://www.beng-eg.de/",
       "content_type": "text/html; charset=UTF-8",
       "page_sha256": "b79d0ca2f8b08151f7e8e1b65d622daa20eaa669711ba4f872c966f4e45ca1f7",
-      "page_changed": true,
+      "page_changed": false,
       "first_seen": false,
       "links": {
         "https://www.beng-eg.de/projekt-uebersicht/": {
@@ -1522,5 +1522,5 @@
       "error": null
     }
   },
-  "last_run_at": "2026-10-07T11:06:40+00:00"
+  "last_run_at": "2026-10-08T11:24:16+00:00"
 }

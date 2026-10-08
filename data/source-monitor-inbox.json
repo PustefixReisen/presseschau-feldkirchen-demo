@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-07T11:06:40+00:00",
+  "updated_at": "2026-10-08T11:24:16+00:00",
   "items": [
     {
       "event_key": "document:feldkirchen-parkraum-2026:https://www.feldkirchen.de/_Resources/Persistent/d/3/d/e/d3dee38ce3c4a9ad01384ca6ed314a2a8f8bcc12/2026%20Parkraumkonzept%20gem%20GR-Beschluss.pdf:4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
@@ -4154,6 +4154,116 @@
       "kind": "link_new",
       "url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/bahn-rammt-sperrmuell-im-gleis-und-beschaedigt-ihren-transformator-94528692.html",
       "link_text": "S-Bahn rammt Sperrmüll im Gleis – Zug beschädigt",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:feldkirchen-aktuelle-meldungen:https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/sperrung-wertstoffsammelstelle-westendstrasse",
+      "detected_at": "2026-10-08T11:23:52+00:00",
+      "source_id": "feldkirchen-aktuelle-meldungen",
+      "source_name": "Gemeinde Feldkirchen – Aktuelle Meldungen",
+      "kind": "link_new",
+      "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/sperrung-wertstoffsammelstelle-westendstrasse",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:feldkirchen-aktuelle-meldungen:https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/vereinsvorstaendetreffen-im-herbst",
+      "detected_at": "2026-10-08T11:23:52+00:00",
+      "source_id": "feldkirchen-aktuelle-meldungen",
+      "source_name": "Gemeinde Feldkirchen – Aktuelle Meldungen",
+      "kind": "link_new",
+      "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/vereinsvorstaendetreffen-im-herbst",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:landkreis-muenchen:https://www.landkreis-muenchen.de/landratsamt/anlaufstellen-standorte/",
+      "detected_at": "2026-10-08T11:24:00+00:00",
+      "source_id": "landkreis-muenchen",
+      "source_name": "Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.landkreis-muenchen.de/landratsamt/anlaufstellen-standorte/",
+      "link_text": "Anlaufstellen & Standorte",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/hoehenkirchen-siegertsbrunn-ort100556/hoehenkirchen-siegertsbrunn-streicht-klimafoerderung-und-musikunterricht-94530566.html",
+      "detected_at": "2026-10-08T11:24:10+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/hoehenkirchen-siegertsbrunn-ort100556/hoehenkirchen-siegertsbrunn-streicht-klimafoerderung-und-musikunterricht-94530566.html",
+      "link_text": "Höhenkirchen-Siegertsbrunn streicht Fördermittel für Klimaschutz und Musikunterricht",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/miniatur-organe-sollen-krebstherapien-verbessern-minister-blume-besucht-eroeffnung-des-cos-in-garching-94529734.html",
+      "detected_at": "2026-10-08T11:24:10+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/miniatur-organe-sollen-krebstherapien-verbessern-minister-blume-besucht-eroeffnung-des-cos-in-garching-94529734.html",
+      "link_text": "Mini-Organe: Durchbruch bei Krebstherapien? Minister Blume besucht Eröffnung des COS in Garching",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/grasbrunn-ort377335/fuehrerscheinstelle-zieht-um-eine-woche-lang-bleibt-sie-geschlossen-94529513.html",
+      "detected_at": "2026-10-08T11:24:10+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/grasbrunn-ort377335/fuehrerscheinstelle-zieht-um-eine-woche-lang-bleibt-sie-geschlossen-94529513.html",
+      "link_text": "Führerscheinstelle zieht nach Riem: Eine Woche lang bleibt sie geschlossen",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/sportpark-unterhaching-event-zelt-seit-jahren-ohne-baugenehmigung-nun-gesperrt-94529509.html",
+      "detected_at": "2026-10-08T11:24:10+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/sportpark-unterhaching-event-zelt-seit-jahren-ohne-baugenehmigung-nun-gesperrt-94529509.html",
+      "link_text": "FC Bayern nun Eigentümer vom Sportpark Unterhaching: Zelt seit Jahren ohne Baugenehmigung",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/unterschleissheim-ort29622/alter-wirt-unterschleissheim-eigentuemer-sucht-neuen-paechter-94529687.html",
+      "detected_at": "2026-10-08T11:24:10+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/unterschleissheim-ort29622/alter-wirt-unterschleissheim-eigentuemer-sucht-neuen-paechter-94529687.html",
+      "link_text": "Der „Alte Wirt“ in Unterschleißheim soll wieder öffnen: Eigentümer sucht neuen Pächter",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/unterschleissheim-ort29622/bau-turbo-genehmigt-unterschleissheim-laesst-abweichungen-in-lohhof-sued-zu-94527978.html",
+      "detected_at": "2026-10-08T11:24:10+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/unterschleissheim-ort29622/bau-turbo-genehmigt-unterschleissheim-laesst-abweichungen-in-lohhof-sued-zu-94527978.html",
+      "link_text": "Bau-Turbo soll es richten: Unterschleißheim lässt Abweichungen in Lohhof-Süd zu",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/buergermeister-sprechstunde-wgs-und-co-das-wuenscht-sich-die-haarer-jugend-94527652.html",
+      "detected_at": "2026-10-08T11:24:10+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/buergermeister-sprechstunde-wgs-und-co-das-wuenscht-sich-die-haarer-jugend-94527652.html",
+      "link_text": "Bürgermeister-Sprechstunde, WGs und Co.: Das wünscht sich die Haarer Jugend",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-haar:https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/buergermeister-sprechstunde-wgs-und-co-das-wuenscht-sich-die-haarer-jugend-94527652.html",
+      "detected_at": "2026-10-08T11:24:16+00:00",
+      "source_id": "merkur-haar",
+      "source_name": "Münchner Merkur – Haar",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/buergermeister-sprechstunde-wgs-und-co-das-wuenscht-sich-die-haarer-jugend-94527652.html",
+      "link_text": "Bürgermeister-Sprechstunde, WGs und Co.: Das wünscht sich die Haarer Jugend",
       "status": "unprocessed"
     }
   ]
