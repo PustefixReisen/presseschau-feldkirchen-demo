@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-08T11:24:16+00:00",
+  "updated_at": "2026-10-09T11:21:23+00:00",
   "items": [
     {
       "event_key": "document:feldkirchen-parkraum-2026:https://www.feldkirchen.de/_Resources/Persistent/d/3/d/e/d3dee38ce3c4a9ad01384ca6ed314a2a8f8bcc12/2026%20Parkraumkonzept%20gem%20GR-Beschluss.pdf:4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
@@ -4264,6 +4264,146 @@
       "kind": "link_new",
       "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/buergermeister-sprechstunde-wgs-und-co-das-wuenscht-sich-die-haarer-jugend-94527652.html",
       "link_text": "Bürgermeister-Sprechstunde, WGs und Co.: Das wünscht sich die Haarer Jugend",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/oberhaching-ort29194/oberhaching-rtl-bei-wer-wird-millionaer-65-000-euro-gewonnen-und-dann-kam-die-schwangerschaft-94533042.html",
+      "detected_at": "2026-10-09T11:21:20+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/oberhaching-ort29194/oberhaching-rtl-bei-wer-wird-millionaer-65-000-euro-gewonnen-und-dann-kam-die-schwangerschaft-94533042.html",
+      "link_text": "Oberhachinger gewinnt bei „Wer wird Millionär\" – und erfährt von Schwangerschaft seiner Verlobten",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/unterschleissheim-ort29622/ella-will-ins-finale-unterschleissheimer-dackel-startet-beim-dackelrace-94531727.html",
+      "detected_at": "2026-10-09T11:21:20+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/unterschleissheim-ort29622/ella-will-ins-finale-unterschleissheimer-dackel-startet-beim-dackelrace-94531727.html",
+      "link_text": "Ella will ins Finale: Unterschleißheimer Dackel startet beim Dackelrace",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/brunnthal-ort377264/kleintransporter-prallt-gegen-baum-auf-a99-zwei-verletzte-nach-auffahrunfall-94532758.html",
+      "detected_at": "2026-10-09T11:21:20+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/brunnthal-ort377264/kleintransporter-prallt-gegen-baum-auf-a99-zwei-verletzte-nach-auffahrunfall-94532758.html",
+      "link_text": "Kleintransporter prallt gegen Baum: Zwei Verletzte nach Auffahrunfall",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/ottobrunn-ort29241/ottobrunner-malerin-ilse-speckner-mit-91-jahren-gestorben-94531770.html",
+      "detected_at": "2026-10-09T11:21:20+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/ottobrunn-ort29241/ottobrunner-malerin-ilse-speckner-mit-91-jahren-gestorben-94531770.html",
+      "link_text": "Ottobrunner Malerin Ilse Speckner mit 91 Jahren gestorben",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/hohenbrunn-ort28822/schweinetransporter-auf-a99-gestoppt-139-tiere-ohne-wasser-unterwegs-94532598.html",
+      "detected_at": "2026-10-09T11:21:20+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/hohenbrunn-ort28822/schweinetransporter-auf-a99-gestoppt-139-tiere-ohne-wasser-unterwegs-94532598.html",
+      "link_text": "Schweinetransporter auf A99 gestoppt: 139 Tiere ohne Wasser unterwegs",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/unterschleissheim-ort29622/neun-brutpaare-stoppen-solarpark-jetzt-kommt-er-an-die-a92-94531854.html",
+      "detected_at": "2026-10-09T11:21:20+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/unterschleissheim-ort29622/neun-brutpaare-stoppen-solarpark-jetzt-kommt-er-an-die-a92-94531854.html",
+      "link_text": "Neun Brutpaare stoppen Solarpark – jetzt kommt er an die A92",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/putzbrunn-ort29323/ueber-30-grad-im-klassenzimmer-putzbrunner-grundschule-bekommt-zwei-baeume-statt-klimaanlage-94531652.html",
+      "detected_at": "2026-10-09T11:21:20+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/putzbrunn-ort29323/ueber-30-grad-im-klassenzimmer-putzbrunner-grundschule-bekommt-zwei-baeume-statt-klimaanlage-94531652.html",
+      "link_text": "Über 30 Grad im Klassenzimmer: Putzbrunner Grundschule bekommt zwei Bäume statt Klimaanlage",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/gruenwald-ort28770/laufzorn-ii-inbetriebnahme-koennte-sich-um-ein-halbes-jahr-verzoegern-94531647.html",
+      "detected_at": "2026-10-09T11:21:20+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/gruenwald-ort28770/laufzorn-ii-inbetriebnahme-koennte-sich-um-ein-halbes-jahr-verzoegern-94531647.html",
+      "link_text": "Laufzorn II: Inbetriebnahme könnte sich um ein halbes Jahr verzögern",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/oberhaching-ort29194/zug-kollidiert-mit-pkw-bahn-strecke-nach-holzkirchen-seit-drei-stunden-gesperrt-94531343.html",
+      "detected_at": "2026-10-09T11:21:20+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/oberhaching-ort29194/zug-kollidiert-mit-pkw-bahn-strecke-nach-holzkirchen-seit-drei-stunden-gesperrt-94531343.html",
+      "link_text": "Zug kollidiert mit Pkw: Bahnstrecke nach Holzkirchen für drei Stunden gesperrt – Autofahrer verletzt",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/gewerbesteuer-bricht-ein-gemeinde-feldkirchen-kuerzt-und-streicht-projekte-94529507.html",
+      "detected_at": "2026-10-09T11:21:20+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/gewerbesteuer-bricht-ein-gemeinde-feldkirchen-kuerzt-und-streicht-projekte-94529507.html",
+      "link_text": "Gewerbesteuer bricht ein: Gemeinde Feldkirchen kürzt und streicht Projekte",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/baierbrunn-ort28315/grundschule-baierbrunn-kostet-ploetzlich-30-statt-24-millionen-euro-94529612.html",
+      "detected_at": "2026-10-09T11:21:20+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/baierbrunn-ort28315/grundschule-baierbrunn-kostet-ploetzlich-30-statt-24-millionen-euro-94529612.html",
+      "link_text": "Grundschule Baierbrunn kostet plötzlich 30 Millionen Euro",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/schaeftlarn-ort73337/unbekannte-beschmieren-drei-bruecken-auf-der-a95-bei-muenchen-mit-graffiti-94531206.html",
+      "detected_at": "2026-10-09T11:21:20+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/schaeftlarn-ort73337/unbekannte-beschmieren-drei-bruecken-auf-der-a95-bei-muenchen-mit-graffiti-94531206.html",
+      "link_text": "Zeugen gesucht: Unbekannte beschmieren drei Brücken auf der A95 bei München mit Graffiti",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/oberhaching-ort29194/fc-deisenhofen-ii-empfaengt-tabellendritte-und-will-null-serie-verlaengern-94531143.html",
+      "detected_at": "2026-10-09T11:21:20+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/oberhaching-ort29194/fc-deisenhofen-ii-empfaengt-tabellendritte-und-will-null-serie-verlaengern-94531143.html",
+      "link_text": "FC Deisenhofen II empfängt Tabellendritten – und will Zu-null-Serie verlängern",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-feldkirchen:https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/gewerbesteuer-bricht-ein-gemeinde-feldkirchen-kuerzt-und-streicht-projekte-94529507.html",
+      "detected_at": "2026-10-09T11:21:21+00:00",
+      "source_id": "merkur-feldkirchen",
+      "source_name": "Münchner Merkur – Feldkirchen",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/gewerbesteuer-bricht-ein-gemeinde-feldkirchen-kuerzt-und-streicht-projekte-94529507.html",
+      "link_text": "Gewerbesteuer bricht ein: Gemeinde Feldkirchen kürzt und streicht Projekte",
       "status": "unprocessed"
     }
   ]
