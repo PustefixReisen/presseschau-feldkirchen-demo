@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-09T11:21:23+00:00",
+  "updated_at": "2026-10-10T10:38:38+00:00",
   "items": [
     {
       "event_key": "document:feldkirchen-parkraum-2026:https://www.feldkirchen.de/_Resources/Persistent/d/3/d/e/d3dee38ce3c4a9ad01384ca6ed314a2a8f8bcc12/2026%20Parkraumkonzept%20gem%20GR-Beschluss.pdf:4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
@@ -4404,6 +4404,186 @@
       "kind": "link_new",
       "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/gewerbesteuer-bricht-ein-gemeinde-feldkirchen-kuerzt-und-streicht-projekte-94529507.html",
       "link_text": "Gewerbesteuer bricht ein: Gemeinde Feldkirchen kürzt und streicht Projekte",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:landkreis-muenchen:https://www.landkreis-muenchen.de/buergerservice/terminvereinbarung/",
+      "detected_at": "2026-10-10T10:38:23+00:00",
+      "source_id": "landkreis-muenchen",
+      "source_name": "Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.landkreis-muenchen.de/buergerservice/terminvereinbarung/",
+      "link_text": "Terminvereinbarung",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/ottobrunn-ort29241/kraehen-in-ottobrunn-wecken-anwohner-um-uhr-morgens-94533537.html",
+      "detected_at": "2026-10-10T10:38:33+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/ottobrunn-ort29241/kraehen-in-ottobrunn-wecken-anwohner-um-uhr-morgens-94533537.html",
+      "link_text": "Bürgerversammlung: Krähen in Ottobrunn wecken Anwohner um 4 Uhr morgens",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/fast-40-jahre-chaos-unterhaching-loest-ueberschwemmung-in-bahn-unterfuehrung-94533552.html",
+      "detected_at": "2026-10-10T10:38:33+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/fast-40-jahre-chaos-unterhaching-loest-ueberschwemmung-in-bahn-unterfuehrung-94533552.html",
+      "link_text": "Fast 40 Jahre Chaos: Unterhaching löst Überschwemmung in S-Bahn-Unterführung",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/hohenbrunn-ort28822/zivildienst-comeback-verbaende-warnen-vor-billiger-personalreserve-94534404.html",
+      "detected_at": "2026-10-10T10:38:33+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/hohenbrunn-ort28822/zivildienst-comeback-verbaende-warnen-vor-billiger-personalreserve-94534404.html",
+      "link_text": "Zivildienst-Comeback: Verbände warnen vor „billiger Personalreserve\"",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/kommunen-droht-hohe-bezirksumlage-landtags-gruene-fordern-mehr-unterstuetzung-vom-freistaat-94533541.html",
+      "detected_at": "2026-10-10T10:38:33+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/kommunen-droht-hohe-bezirksumlage-landtags-gruene-fordern-mehr-unterstuetzung-vom-freistaat-94533541.html",
+      "link_text": "Kommunen droht hohe Bezirksumlage: „Können viele Aufgaben nicht mehr finanzieren“",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/oberhaching-ort29194/oberhaching-mysterioeser-unfall-am-bahnuebergang-polizei-ermittelt-94534043.html",
+      "detected_at": "2026-10-10T10:38:33+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/oberhaching-ort29194/oberhaching-mysterioeser-unfall-am-bahnuebergang-polizei-ermittelt-94534043.html",
+      "link_text": "Mysteriöser Unfall am Bahnübergang: Auto plötzlich zwischen den Schranken gefangen – dann kommt der Zug",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/600-menschen-verabschieden-sich-von-aschheims-ex-buergermeister-glashauser-94533816.html",
+      "detected_at": "2026-10-10T10:38:33+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/600-menschen-verabschieden-sich-von-aschheims-ex-buergermeister-glashauser-94533816.html",
+      "link_text": "Hunderte nehmen Abschied von Aschheims ehemaligem Bürgermeister",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/oberhaching-ort29194/oberhaching-rtl-wer-wird-millionaer-65-000-euro-gewonnen-und-dann-kam-die-schwangerschaft-94533042.html",
+      "detected_at": "2026-10-10T10:38:33+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/oberhaching-ort29194/oberhaching-rtl-wer-wird-millionaer-65-000-euro-gewonnen-und-dann-kam-die-schwangerschaft-94533042.html",
+      "link_text": "Polizist gewinnt bei „Wer wird Millionär\" – und erfährt von Schwangerschaft seiner Verlobten",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/oberschleissheim-ort29202/uebermannsgrosse-edelstahl-hand-winkt-am-ortseingang-von-oberschleissheim-94531648.html",
+      "detected_at": "2026-10-10T10:38:33+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/oberschleissheim-ort29202/uebermannsgrosse-edelstahl-hand-winkt-am-ortseingang-von-oberschleissheim-94531648.html",
+      "link_text": "Neue Skulptur enthüllt: Übermannsgroße Edelstahl-Hand winkt am Ortseingang von Oberschleißheim",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/pullach-ort29321/pullach-tischkicker-weltmeister-fordert-gaeste-heraus-tc-grosshesselohe-startet-charity-cup-94533332.html",
+      "detected_at": "2026-10-10T10:38:33+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/pullach-ort29321/pullach-tischkicker-weltmeister-fordert-gaeste-heraus-tc-grosshesselohe-startet-charity-cup-94533332.html",
+      "link_text": "Tischkicker-Weltmeister fordert Gäste heraus: TC Großhesselohe lädt ein zum  Charity Cup",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/oberhaching-ort29194/neue-details-zum-unfall-am-bahnuebergang-hergang-wirft-fragen-auf-94533251.html",
+      "detected_at": "2026-10-10T10:38:33+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/oberhaching-ort29194/neue-details-zum-unfall-am-bahnuebergang-hergang-wirft-fragen-auf-94533251.html",
+      "link_text": "Neue Details zum Unfall am Bahnübergang – Hergang wirft Fragen auf",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/ford-kommt-auf-a99-von-fahrbahn-ab-und-faehrt-gegen-daempfer-94533219.html",
+      "detected_at": "2026-10-10T10:38:33+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/ford-kommt-auf-a99-von-fahrbahn-ab-und-faehrt-gegen-daempfer-94533219.html",
+      "link_text": "Ford kommt auf A99 von Fahrbahn ab und fährt gegen Dämpfer",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/auffahrunfall-auf-der-a99-mit-drei-autos-30-000-euro-schaden-94533201.html",
+      "detected_at": "2026-10-10T10:38:33+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/auffahrunfall-auf-der-a99-mit-drei-autos-30-000-euro-schaden-94533201.html",
+      "link_text": "Auffahrunfall auf der A99 mit drei Autos – 30.000 Euro Schaden",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/haar-schafft-eigene-park-sheriffs-und-erwartet-bis-zu-54-600-euro-ueberschuss-94531654.html",
+      "detected_at": "2026-10-10T10:38:33+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/haar-schafft-eigene-park-sheriffs-und-erwartet-bis-zu-54-600-euro-ueberschuss-94531654.html",
+      "link_text": "Haar schafft eigene Park-Sheriffs an – und erwartet bis zu 54.600 Euro Überschuss",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-aschheim:https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/600-menschen-verabschieden-sich-von-aschheims-ex-buergermeister-glashauser-94533816.html",
+      "detected_at": "2026-10-10T10:38:36+00:00",
+      "source_id": "merkur-aschheim",
+      "source_name": "Münchner Merkur – Aschheim",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/600-menschen-verabschieden-sich-von-aschheims-ex-buergermeister-glashauser-94533816.html",
+      "link_text": "Hunderte nehmen Abschied von Aschheims ehemaligem Bürgermeister",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-aschheim:https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/ford-kommt-auf-a99-von-fahrbahn-ab-und-faehrt-gegen-daempfer-94533219.html",
+      "detected_at": "2026-10-10T10:38:36+00:00",
+      "source_id": "merkur-aschheim",
+      "source_name": "Münchner Merkur – Aschheim",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/ford-kommt-auf-a99-von-fahrbahn-ab-und-faehrt-gegen-daempfer-94533219.html",
+      "link_text": "Ford kommt auf A99 von Fahrbahn ab und fährt gegen Dämpfer",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-kirchheim:https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/auffahrunfall-auf-der-a99-mit-drei-autos-30-000-euro-schaden-94533201.html",
+      "detected_at": "2026-10-10T10:38:37+00:00",
+      "source_id": "merkur-kirchheim",
+      "source_name": "Münchner Merkur – Kirchheim",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/auffahrunfall-auf-der-a99-mit-drei-autos-30-000-euro-schaden-94533201.html",
+      "link_text": "Auffahrunfall auf der A99 mit drei Autos – 30.000 Euro Schaden",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-haar:https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/haar-schafft-eigene-park-sheriffs-und-erwartet-bis-zu-54-600-euro-ueberschuss-94531654.html",
+      "detected_at": "2026-10-10T10:38:38+00:00",
+      "source_id": "merkur-haar",
+      "source_name": "Münchner Merkur – Haar",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/haar-schafft-eigene-park-sheriffs-und-erwartet-bis-zu-54-600-euro-ueberschuss-94531654.html",
+      "link_text": "Haar schafft eigene Park-Sheriffs an – und erwartet bis zu 54.600 Euro Überschuss",
       "status": "unprocessed"
     }
   ]
