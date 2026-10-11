@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-10T10:38:38+00:00",
+  "updated_at": "2026-10-11T10:51:55+00:00",
   "items": [
     {
       "event_key": "document:feldkirchen-parkraum-2026:https://www.feldkirchen.de/_Resources/Persistent/d/3/d/e/d3dee38ce3c4a9ad01384ca6ed314a2a8f8bcc12/2026%20Parkraumkonzept%20gem%20GR-Beschluss.pdf:4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
@@ -4584,6 +4584,76 @@
       "kind": "link_new",
       "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/haar-schafft-eigene-park-sheriffs-und-erwartet-bis-zu-54-600-euro-ueberschuss-94531654.html",
       "link_text": "Haar schafft eigene Park-Sheriffs an – und erwartet bis zu 54.600 Euro Überschuss",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/grasbrunn-ort377335/weniger-einwohner-76-kita-plaetze-leer-grasbrunn-droht-verlust-von-foerdergeld-und-elternbeitraegen-94533515.html",
+      "detected_at": "2026-10-11T10:51:50+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/grasbrunn-ort377335/weniger-einwohner-76-kita-plaetze-leer-grasbrunn-droht-verlust-von-foerdergeld-und-elternbeitraegen-94533515.html",
+      "link_text": "Weniger Einwohner: 76 Kita-Plätze leer – Grasbrunn droht Verlust von Fördergeld und Elternbeiträgen",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/ismaning-ort28863/ismaninger-nach-polizeieinsatz-in-psychiatrie-mehrere-waffen-sichergestellt-94535165.html",
+      "detected_at": "2026-10-11T10:51:50+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/ismaning-ort28863/ismaninger-nach-polizeieinsatz-in-psychiatrie-mehrere-waffen-sichergestellt-94535165.html",
+      "link_text": "Ismaninger nach Polizeieinsatz in Psychiatrie – Mehrere Waffen sichergestellt",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/oberschleissheim-ort29202/oberschleissheim-kolpingkreuz-gerettet-familie-baut-wegkreuz-gegenueber-ihrem-hof-auf-94533525.html",
+      "detected_at": "2026-10-11T10:51:50+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/oberschleissheim-ort29202/oberschleissheim-kolpingkreuz-gerettet-familie-baut-wegkreuz-gegenueber-ihrem-hof-auf-94533525.html",
+      "link_text": "Kolpingkreuz gerettet: Familie baut Wegkreuz gegenüber ihrem Hof auf",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/taufkirchen-bei-muenchen-ort486320/muenchner-bahnbetriebshof-bleibt-in-neuperlach-landkreis-plaene-gescheitert-94533560.html",
+      "detected_at": "2026-10-11T10:51:50+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/taufkirchen-bei-muenchen-ort486320/muenchner-bahnbetriebshof-bleibt-in-neuperlach-landkreis-plaene-gescheitert-94533560.html",
+      "link_text": "Münchner U-Bahnbetriebshof bleibt in Neuperlach – Landkreis-Pläne für Taufkirchen gescheitert",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/hoehenkirchen-siegertsbrunn-ort100556/grundsteuer-in-hoehenkirchen-siegertsbrunn-steigt-auf-400-vom-hundert-94534407.html",
+      "detected_at": "2026-10-11T10:51:50+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/hoehenkirchen-siegertsbrunn-ort100556/grundsteuer-in-hoehenkirchen-siegertsbrunn-steigt-auf-400-vom-hundert-94534407.html",
+      "link_text": "Höhenkirchen-Siegertsbrunn dreht an der Steuerschraube",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/aus-gittis-waldwirtschaft-wird-zum-waldwichtl-neuer-wirt-fuer-beliebte-kneipe-94533612.html",
+      "detected_at": "2026-10-11T10:51:50+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/aus-gittis-waldwirtschaft-wird-zum-waldwichtl-neuer-wirt-fuer-beliebte-kneipe-94533612.html",
+      "link_text": "Aus „Gittis Waldwirtschaft“ wird „Zum Waldwichtl“: Neuer Wirt für beliebte Kneipe",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-haar:https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/aus-gittis-waldwirtschaft-wird-zum-waldwichtl-neuer-wirt-fuer-beliebte-kneipe-94533612.html",
+      "detected_at": "2026-10-11T10:51:55+00:00",
+      "source_id": "merkur-haar",
+      "source_name": "Münchner Merkur – Haar",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/aus-gittis-waldwirtschaft-wird-zum-waldwichtl-neuer-wirt-fuer-beliebte-kneipe-94533612.html",
+      "link_text": "Aus „Gittis Waldwirtschaft“ wird „Zum Waldwichtl“: Neuer Wirt für beliebte Kneipe",
       "status": "unprocessed"
     }
   ]
