@@ -5,7 +5,7 @@
       "name": "Gemeinde Feldkirchen – Nachrichten aus dem Bauamt",
       "url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt",
       "priority": "mandatory",
-      "last_success_at": "2026-10-11T10:51:03+00:00",
+      "last_success_at": "2026-10-12T12:03:35+00:00",
       "final_url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt",
       "content_type": "text/html;charset=UTF-8",
       "page_sha256": "7a84d3a0d2191a77f15fffc43b031b4a1c4fc5fdeaeba61825d6ee4f6fddf6c1",
@@ -26,7 +26,7 @@
       "name": "Gemeinde Feldkirchen – Neues Parkraumkonzept",
       "url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt/neues-parkraumkonzept-in-feldkirchen",
       "priority": "mandatory",
-      "last_success_at": "2026-10-11T10:51:06+00:00",
+      "last_success_at": "2026-10-12T12:03:38+00:00",
       "final_url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt/neues-parkraumkonzept-in-feldkirchen",
       "content_type": "text/html;charset=UTF-8",
       "page_sha256": "e90a8f8c0116008de9cbdd3c05c7b62988fa85bfcd2a1514c3690d1e162797f2",
@@ -448,7 +448,7 @@
           "content_type": "application/pdf",
           "bytes": 1472041,
           "sha256": "4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
-          "checked_at": "2026-10-11T10:51:06+00:00"
+          "checked_at": "2026-10-12T12:03:38+00:00"
         }
       },
       "error": null
@@ -457,11 +457,11 @@
       "name": "Landkreis München",
       "url": "https://www.landkreis-muenchen.de/",
       "priority": "mandatory",
-      "last_success_at": "2026-10-11T10:51:07+00:00",
+      "last_success_at": "2026-10-12T12:03:39+00:00",
       "final_url": "https://www.landkreis-muenchen.de/",
       "content_type": "text/html; charset=utf-8",
-      "page_sha256": "ecfbdc97f74b8618da3b9ff9c9dde81b1e1cc41c48ded1af26ebe2344d9b5fb1",
-      "page_changed": false,
+      "page_sha256": "03c3cd96aed3d43489573410c638eded90126f3852f56e44cb8dd7b6f3568112",
+      "page_changed": true,
       "first_seen": false,
       "links": {
         "https://www.landkreis-muenchen.de/": {
@@ -742,18 +742,18 @@
       "name": "Autobahn GmbH – Südbayern",
       "url": "https://www.autobahn.de/die-autobahn/niederlassungen/suedbayern",
       "priority": "topic",
-      "last_attempt_at": "2026-10-11T10:51:08+00:00",
+      "last_attempt_at": "2026-10-12T12:03:39+00:00",
       "error": "HTTPError: HTTP Error 404: Not Found"
     },
     "adfc-muenchen": {
       "name": "ADFC München",
       "url": "https://muenchen.adfc.de/",
       "priority": "topic",
-      "last_success_at": "2026-10-11T10:51:09+00:00",
+      "last_success_at": "2026-10-12T12:03:41+00:00",
       "final_url": "https://muenchen.adfc.de/",
       "content_type": "text/html; charset=utf-8",
-      "page_sha256": "0b6ec0967d7548ed51aa769d1809250715c1de7c338ed10fa37def043102292a",
-      "page_changed": false,
+      "page_sha256": "faa4147bb87feb9d40e9118332c262c112e8e899ad58c90b693128aba3dc56f3",
+      "page_changed": true,
       "first_seen": false,
       "links": {
         "https://muenchen.adfc.de/sei-dabei": {
@@ -789,7 +789,7 @@
         "https://muenchen.adfc.de/suche": {
           "text": "Suche"
         },
-        "https://muenchen.adfc.de/neuigkeit/kidical-mass-am-sonntag-11102026": {
+        "https://muenchen.adfc.de/artikel/radfahren-im-herbst-35": {
           "text": ""
         },
         "https://muenchen.adfc.de/neuigkeit/gesucht-office-und-eventmanagerin-m-w-d": {
@@ -799,6 +799,9 @@
           "text": ""
         },
         "https://muenchen.adfc.de/pressemitteilung/veranstaltungen-des-adfc-muenchen-im-oktober-2026": {
+          "text": ""
+        },
+        "https://muenchen.adfc.de/neuigkeit/kidical-mass-am-sonntag-11102026": {
           "text": ""
         },
         "https://muenchen.adfc.de/pressemitteilung/kidical-mass-adfc-muenchen-bringt-kinder-und-familien-auf-die-raeder": {
@@ -836,7 +839,7 @@
       "name": "BUND Naturschutz – Kreisgruppe München",
       "url": "https://bn-muenchen.de/",
       "priority": "topic",
-      "last_success_at": "2026-10-10T10:38:27+00:00",
+      "last_success_at": "2026-10-12T12:03:42+00:00",
       "final_url": "https://bn-muenchen.de/",
       "content_type": "text/html",
       "page_sha256": "c9c228fa3294734a8b11eb9e7cfac3316ccb2db84afb1c80c6f0098e713d2e2e",
@@ -851,14 +854,13 @@
         }
       },
       "documents": {},
-      "error": "URLError: <urlopen error timed out>",
-      "last_attempt_at": "2026-10-11T10:51:45+00:00"
+      "error": null
     },
     "bi-afk": {
       "name": "BI-AFK",
       "url": "https://www.bi-afk.de/",
       "priority": "topic",
-      "last_success_at": "2026-10-11T10:51:48+00:00",
+      "last_success_at": "2026-10-12T12:03:45+00:00",
       "final_url": "https://bi-afk.de/",
       "content_type": "text/html; charset=UTF-8",
       "page_sha256": "198108556bd0a02732657e263f62169d6d4d38f43ccc018d8979e11136b8d3b6",
@@ -944,7 +946,7 @@
           "content_type": "application/pdf",
           "bytes": 149466,
           "sha256": "f0ce9eb0a26c6e4bafbce93352128b32ede6a1a841c241d07be53c69c0f4b695",
-          "checked_at": "2026-10-11T10:51:48+00:00"
+          "checked_at": "2026-10-12T12:03:45+00:00"
         }
       },
       "error": null
@@ -953,10 +955,10 @@
       "name": "RIS Feldkirchen – Dokumente mit Freigabe",
       "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/do0040.asp",
       "priority": "mandatory",
-      "last_success_at": "2026-10-11T10:50:58+00:00",
+      "last_success_at": "2026-10-12T12:03:32+00:00",
       "final_url": "https://buergerinfo-feldkirchen.digitalfabrix.de/do0040.asp",
       "content_type": "text/html; Charset=utf-8",
-      "page_sha256": "e7e02660855bada16d96311c31e1019a1d2c9f9ef974df4720e5a14f6349b199",
+      "page_sha256": "a6ade240a616e75a75e8fe7d6b144a7f66641ddb3837bf2b096d93839b8f5fe9",
       "page_changed": true,
       "first_seen": false,
       "links": {
@@ -1046,24 +1048,36 @@
       "name": "Münchner Merkur – Landkreis München",
       "url": "https://www.merkur.de/lokales/muenchen-lk/",
       "priority": "mandatory",
-      "last_success_at": "2026-10-11T10:51:50+00:00",
+      "last_success_at": "2026-10-12T12:03:47+00:00",
       "final_url": "https://www.merkur.de/lokales/muenchen-lk/",
       "content_type": "text/html;charset=utf-8",
-      "page_sha256": "5e82cf4eac174420ceeb4152331e431d8cd6a360bfed477fba28a8482ba8a8c9",
+      "page_sha256": "0d5875d77cfa27b4de8e8b1f268bc1ff6de0c814bf5733be2fc1080312623e01",
       "page_changed": true,
       "first_seen": false,
       "links": {
         "https://www.merkur.de/lokales/muenchen-lk/": {
           "text": "Menü"
         },
-        "https://www.merkur.de/lokales/muenchen-lk/grasbrunn-ort377335/weniger-einwohner-76-kita-plaetze-leer-grasbrunn-droht-verlust-von-foerdergeld-und-elternbeitraegen-94533515.html": {
-          "text": "Weniger Einwohner: 76 Kita-Plätze leer – Grasbrunn droht Verlust von Fördergeld und Elternbeiträgen"
+        "https://www.merkur.de/lokales/muenchen-lk/grasbrunn-ort377335/rotlicht-missachtet-drei-autos-krachen-an-kreuzung-zusammen-fuenf-verletzte-94536574.html": {
+          "text": "Rotlicht missachtet? Drei Autos krachen an Kreuzung zusammen – Fünf Verletzte"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/aying-ort28266/ochse-otto-knackt-streckenrekord-ohne-reiterin-im-ziel-94535205.html": {
+          "text": "Ochse Otto knackt Streckenrekord – ohne Reiterin im Ziel"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/sterbebilder-gesucht-muenchner-merkur-gedenkt-der-toten-2025-94536806.html": {
+          "text": "Sterbebilder gesucht: Münchner Merkur gedenkt der Toten 2026"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/putzbrunn-ort29323/in-putzbrunn-wird-noch-zu-ueber-70-prozent-mit-oel-und-gas-geheizt-94535233.html": {
+          "text": "Wärmeversorgung endet nicht am Ortsschild: Südost-Gemeinden informieren Bürger bei Aktionstag"
         },
         "https://www.merkur.de/lokales/muenchen-lk/ismaning-ort28863/ismaninger-nach-polizeieinsatz-in-psychiatrie-mehrere-waffen-sichergestellt-94535165.html": {
           "text": "Ismaninger nach Polizeieinsatz in Psychiatrie – Mehrere Waffen sichergestellt"
         },
         "https://www.merkur.de/lokales/muenchen-lk/oberschleissheim-ort29202/oberschleissheim-kolpingkreuz-gerettet-familie-baut-wegkreuz-gegenueber-ihrem-hof-auf-94533525.html": {
           "text": "Kolpingkreuz gerettet: Familie baut Wegkreuz gegenüber ihrem Hof auf"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/grasbrunn-ort377335/weniger-einwohner-76-kita-plaetze-leer-grasbrunn-droht-verlust-von-foerdergeld-und-elternbeitraegen-94533515.html": {
+          "text": "Weniger Einwohner: 76 Kita-Plätze leer – Grasbrunn droht Verlust von Fördergeld und Elternbeiträgen"
         },
         "https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/sportpark-unterhaching-event-zelt-seit-jahren-ohne-baugenehmigung-nun-gesperrt-94529509.html": {
           "text": "FC Bayern nun Eigentümer vom Sportpark Unterhaching: Zelt seit Jahren ohne Baugenehmigung"
@@ -1100,15 +1114,6 @@
         },
         "https://www.merkur.de/lokales/muenchen-lk/oberschleissheim-ort29202/uebermannsgrosse-edelstahl-hand-winkt-am-ortseingang-von-oberschleissheim-94531648.html": {
           "text": "Neue Skulptur enthüllt: Übermannsgroße Edelstahl-Hand winkt am Ortseingang von Oberschleißheim"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/ottobrunn-ort29241/sanierung-endspurt-auf-a995-diese-umleitungen-gelten-bis-10-oktober-94520105.html": {
-          "text": "Sanierung: Endspurt auf A995 – letzte Sperre am heutigen Freitag"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/pullach-ort29321/pullach-tischkicker-weltmeister-fordert-gaeste-heraus-tc-grosshesselohe-startet-charity-cup-94533332.html": {
-          "text": "Tischkicker-Weltmeister fordert Gäste heraus: TC Großhesselohe lädt ein zum  Charity Cup"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/oberhaching-ort29194/neue-details-zum-unfall-am-bahnuebergang-hergang-wirft-fragen-auf-94533251.html": {
-          "text": "Neue Details zum Unfall am Bahnübergang – Hergang wirft Fragen auf"
         }
       },
       "documents": {},
@@ -1118,10 +1123,10 @@
       "name": "Münchner Merkur – Feldkirchen",
       "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/",
       "priority": "mandatory",
-      "last_success_at": "2026-10-11T10:51:51+00:00",
+      "last_success_at": "2026-10-12T12:03:48+00:00",
       "final_url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/",
       "content_type": "text/html;charset=utf-8",
-      "page_sha256": "19be327ffb19124c179cd06acf8d9dea0ebd83fa968930cfa233067ac065bfe3",
+      "page_sha256": "50e257df226d04ff5459ba71ecba0da503bb9d51256c02fa5bda24a079b51e17",
       "page_changed": true,
       "first_seen": false,
       "links": {
@@ -1190,10 +1195,10 @@
       "name": "Münchner Merkur – Aschheim",
       "url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/",
       "priority": "mandatory",
-      "last_success_at": "2026-10-11T10:51:53+00:00",
+      "last_success_at": "2026-10-12T12:03:49+00:00",
       "final_url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/",
       "content_type": "text/html;charset=utf-8",
-      "page_sha256": "4c72324cc78112b469c371eb94b937d559b1d38d8abb0a43a7542c7e1f5aa373",
+      "page_sha256": "8d60ea6ef2281f3de82b8219dea48c8caed40436f6539ead0a241cf3ffa341dd",
       "page_changed": true,
       "first_seen": false,
       "links": {
@@ -1262,10 +1267,10 @@
       "name": "Münchner Merkur – Kirchheim",
       "url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/",
       "priority": "mandatory",
-      "last_success_at": "2026-10-11T10:51:54+00:00",
+      "last_success_at": "2026-10-12T12:03:50+00:00",
       "final_url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/",
       "content_type": "text/html;charset=utf-8",
-      "page_sha256": "a2a9d5a1b8d1cfd849d8920cec1df076c41305b4334bd88e3c586f9ee91d38dc",
+      "page_sha256": "68ae1a40e9b886d49393131e5f069e45c359af3d0ddfa7c99796a47800469104",
       "page_changed": true,
       "first_seen": false,
       "links": {
@@ -1334,10 +1339,10 @@
       "name": "Münchner Merkur – Haar",
       "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/",
       "priority": "mandatory",
-      "last_success_at": "2026-10-11T10:51:55+00:00",
+      "last_success_at": "2026-10-12T12:03:51+00:00",
       "final_url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/",
       "content_type": "text/html;charset=utf-8",
-      "page_sha256": "adc7e476f298a2063d6a15cacd312a93adfe00e2b2e6b1fe248414ae07f4d698",
+      "page_sha256": "90214ccddf42968bf523372521954f8f1efdd6ea98b11e06e1818373d1370564",
       "page_changed": true,
       "first_seen": false,
       "links": {
@@ -1406,7 +1411,7 @@
       "name": "Gemeinde Feldkirchen – Aktuelle Meldungen",
       "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen",
       "priority": "mandatory",
-      "last_success_at": "2026-10-11T10:51:01+00:00",
+      "last_success_at": "2026-10-12T12:03:33+00:00",
       "final_url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen",
       "content_type": "text/html;charset=UTF-8",
       "page_sha256": "8523e0e83b5af3f9af69b635fddc85efe99b93940e79cb62267346d5b5e73108",
@@ -1490,11 +1495,11 @@
       "name": "BENG eG – Bürgerenergie und Energieprojekte",
       "url": "https://www.beng-eg.de/",
       "priority": "topic",
-      "last_success_at": "2026-10-11T10:51:49+00:00",
+      "last_success_at": "2026-10-12T12:03:46+00:00",
       "final_url": "https://www.beng-eg.de/",
       "content_type": "text/html; charset=UTF-8",
-      "page_sha256": "b79d0ca2f8b08151f7e8e1b65d622daa20eaa669711ba4f872c966f4e45ca1f7",
-      "page_changed": false,
+      "page_sha256": "ce5e5a9acf3a1404d4d3ae24f16e7e284286f68f7366c3e3cf6c571d2582e466",
+      "page_changed": true,
       "first_seen": false,
       "links": {
         "https://www.beng-eg.de/projekt-uebersicht/": {
@@ -1508,5 +1513,5 @@
       "error": null
     }
   },
-  "last_run_at": "2026-10-11T10:51:55+00:00"
+  "last_run_at": "2026-10-12T12:03:51+00:00"
 }

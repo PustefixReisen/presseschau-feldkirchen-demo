@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-11T10:51:55+00:00",
+  "updated_at": "2026-10-12T12:03:51+00:00",
   "items": [
     {
       "event_key": "document:feldkirchen-parkraum-2026:https://www.feldkirchen.de/_Resources/Persistent/d/3/d/e/d3dee38ce3c4a9ad01384ca6ed314a2a8f8bcc12/2026%20Parkraumkonzept%20gem%20GR-Beschluss.pdf:4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
@@ -4654,6 +4654,56 @@
       "kind": "link_new",
       "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/aus-gittis-waldwirtschaft-wird-zum-waldwichtl-neuer-wirt-fuer-beliebte-kneipe-94533612.html",
       "link_text": "Aus „Gittis Waldwirtschaft“ wird „Zum Waldwichtl“: Neuer Wirt für beliebte Kneipe",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:adfc-muenchen:https://muenchen.adfc.de/artikel/radfahren-im-herbst-35",
+      "detected_at": "2026-10-12T12:03:41+00:00",
+      "source_id": "adfc-muenchen",
+      "source_name": "ADFC München",
+      "kind": "link_new",
+      "url": "https://muenchen.adfc.de/artikel/radfahren-im-herbst-35",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/grasbrunn-ort377335/rotlicht-missachtet-drei-autos-krachen-an-kreuzung-zusammen-fuenf-verletzte-94536574.html",
+      "detected_at": "2026-10-12T12:03:47+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/grasbrunn-ort377335/rotlicht-missachtet-drei-autos-krachen-an-kreuzung-zusammen-fuenf-verletzte-94536574.html",
+      "link_text": "Rotlicht missachtet? Drei Autos krachen an Kreuzung zusammen – Fünf Verletzte",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/aying-ort28266/ochse-otto-knackt-streckenrekord-ohne-reiterin-im-ziel-94535205.html",
+      "detected_at": "2026-10-12T12:03:47+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/aying-ort28266/ochse-otto-knackt-streckenrekord-ohne-reiterin-im-ziel-94535205.html",
+      "link_text": "Ochse Otto knackt Streckenrekord – ohne Reiterin im Ziel",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/sterbebilder-gesucht-muenchner-merkur-gedenkt-der-toten-2025-94536806.html",
+      "detected_at": "2026-10-12T12:03:47+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/sterbebilder-gesucht-muenchner-merkur-gedenkt-der-toten-2025-94536806.html",
+      "link_text": "Sterbebilder gesucht: Münchner Merkur gedenkt der Toten 2026",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/putzbrunn-ort29323/in-putzbrunn-wird-noch-zu-ueber-70-prozent-mit-oel-und-gas-geheizt-94535233.html",
+      "detected_at": "2026-10-12T12:03:47+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/putzbrunn-ort29323/in-putzbrunn-wird-noch-zu-ueber-70-prozent-mit-oel-und-gas-geheizt-94535233.html",
+      "link_text": "Wärmeversorgung endet nicht am Ortsschild: Südost-Gemeinden informieren Bürger bei Aktionstag",
       "status": "unprocessed"
     }
   ]
