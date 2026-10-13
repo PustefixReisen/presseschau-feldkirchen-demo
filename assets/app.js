@@ -49,6 +49,12 @@
   await import('./standard-update-20261006.js?v=20261006a');
   await import('./standard-update-20261006b.js?v=20261006b');
   await import('./standard-update-20261008.js?v=20261008a');
+  // Der Stand aus dem 08.10.-Addendum darf spätere Veröffentlichungen nicht zurücksetzen.
+  const demoNote=document.querySelector('.demo-note');
+  if(demoNote){
+    demoNote.textContent='Stand 13. Oktober 2026 · Öffentlicher Demonstrator';
+    demoNote.dataset.standardUpdateApplied='2026-10-13';
+  }
   await import('./sort-topics.js');
   await import('./sort-contributions.js');
   await import('./image-features.js?v=20260925a');
