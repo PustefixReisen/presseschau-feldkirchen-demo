@@ -1,0 +1,41 @@
+{
+  "update_date": "2026-10-13",
+  "type": "standard-update",
+  "scope": "demonstrator-only",
+  "status": "research-and-dedup-done; publication-not-yet-updated",
+  "already_present": [
+    {
+      "id": "R084",
+      "title": "Bürgerversammlung 21. Oktober"
+    },
+    {
+      "id": "R085",
+      "title": "S2-Bauarbeiten Herbst"
+    },
+    {
+      "id": "S025",
+      "title": "Gemeinderat 15. Oktober (in previous update report)"
+    }
+  ],
+  "candidates": [
+    {
+      "title": "Kiss-&-Ride am Hort Raiffeisenstraße 8",
+      "source": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/kiss-ride-parkplatz-am-hort-raiffeisenstr-8",
+      "note": "Start noch offen; vor Aufnahme Quellen- und Themenprüfung"
+    },
+    {
+      "title": "Wertstoffsammelstelle Westendstraße ab 15. Oktober vorübergehend gesperrt",
+      "source": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/sperrung-wertstoffsammelstelle-westendstrasse",
+      "note": "Kurzfristige Alltagsinformation; FIB-Relevanz gesondert abwägen"
+    }
+  ],
+  "editorial_notes": [
+    "Keinen Ratsbeschluss vom 15. Oktober vorwegnehmen",
+    "Keine Duplikate aus bestehenden Veröffentlichungen erzeugen",
+    "Neue Meldungen sind noch nicht in data/beitraege.json übernommen"
+  ],
+  "source_checks": [
+    "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen",
+    "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/buergerversammlung-in-feldkirchen"
+  ]
+}
