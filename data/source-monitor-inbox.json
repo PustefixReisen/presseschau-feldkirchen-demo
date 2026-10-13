@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-12T12:03:51+00:00",
+  "updated_at": "2026-10-13T11:51:08+00:00",
   "items": [
     {
       "event_key": "document:feldkirchen-parkraum-2026:https://www.feldkirchen.de/_Resources/Persistent/d/3/d/e/d3dee38ce3c4a9ad01384ca6ed314a2a8f8bcc12/2026%20Parkraumkonzept%20gem%20GR-Beschluss.pdf:4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
@@ -4704,6 +4704,156 @@
       "kind": "link_new",
       "url": "https://www.merkur.de/lokales/muenchen-lk/putzbrunn-ort29323/in-putzbrunn-wird-noch-zu-ueber-70-prozent-mit-oel-und-gas-geheizt-94535233.html",
       "link_text": "Wärmeversorgung endet nicht am Ortsschild: Südost-Gemeinden informieren Bürger bei Aktionstag",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:landkreis-muenchen:https://www.landkreis-muenchen.de/artikel/staatliche-auszeichnungen-fuer-jahrzehntelanges-engagement/",
+      "detected_at": "2026-10-13T11:50:53+00:00",
+      "source_id": "landkreis-muenchen",
+      "source_name": "Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.landkreis-muenchen.de/artikel/staatliche-auszeichnungen-fuer-jahrzehntelanges-engagement/",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:adfc-muenchen:https://muenchen.adfc.de/neuigkeit/radfahren-in-den-medien-mitte-oktober-2026",
+      "detected_at": "2026-10-13T11:50:55+00:00",
+      "source_id": "adfc-muenchen",
+      "source_name": "ADFC München",
+      "kind": "link_new",
+      "url": "https://muenchen.adfc.de/neuigkeit/radfahren-in-den-medien-mitte-oktober-2026",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/garchinger-start-up-scannt-haut-in-minuten-100-nutzer-taeglich-im-dm-test-94538695.html",
+      "detected_at": "2026-10-13T11:51:03+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/garchinger-start-up-scannt-haut-in-minuten-100-nutzer-taeglich-im-dm-test-94538695.html",
+      "link_text": "100 Nutzer täglich im dm-Markt-Test: Garchinger Start-up mit Hautanalyse und passender Produktempfehlung",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/schaeftlarn-ort73337/repair-cafe-schaeftlarn-wird-zehn-70-prozent-der-geraete-reparierbar-94537211.html",
+      "detected_at": "2026-10-13T11:51:03+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/schaeftlarn-ort73337/repair-cafe-schaeftlarn-wird-zehn-70-prozent-der-geraete-reparierbar-94537211.html",
+      "link_text": "Repair-Café Schäftlarn wird zehn Jahre alt: 70 Prozent der Geräte reparierbar",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/gruenwald-ort28770/diebe-stehlen-ganzen-tresor-aus-forsthaus-woernbrunn-94538722.html",
+      "detected_at": "2026-10-13T11:51:03+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/gruenwald-ort28770/diebe-stehlen-ganzen-tresor-aus-forsthaus-woernbrunn-94538722.html",
+      "link_text": "Diebe stehlen ganzen Tresor aus Forsthaus Wörnbrunn",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/gruenwald-ort28770/musikschule-gruenwald-verabschiedet-leiter-nach-17-jahren-er-zieht-nach-italien-94538702.html",
+      "detected_at": "2026-10-13T11:51:03+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/gruenwald-ort28770/musikschule-gruenwald-verabschiedet-leiter-nach-17-jahren-er-zieht-nach-italien-94538702.html",
+      "link_text": "Musikschule Grünwald verabschiedet Leiter nach 17 Jahren – er zieht nach Italien",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/unterschleissheim-ort29622/60-jahre-beim-brk-unterschleissheim-ehrt-39-ehrenamtliche-im-buergerhaus-94538701.html",
+      "detected_at": "2026-10-13T11:51:03+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/unterschleissheim-ort29622/60-jahre-beim-brk-unterschleissheim-ehrt-39-ehrenamtliche-im-buergerhaus-94538701.html",
+      "link_text": "Stets über die Pflicht hinaus: Unterschleißheim ehrt 39 Ehrenamtliche im Bürgerhaus",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/lkw-kippt-auf-baustelle-um-fahrer-erleidet-oberschenkelbruch-und-lungenverletzung-94538636.html",
+      "detected_at": "2026-10-13T11:51:03+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/lkw-kippt-auf-baustelle-um-fahrer-erleidet-oberschenkelbruch-und-lungenverletzung-94538636.html",
+      "link_text": "Lkw kippt auf Baustelle um: Fahrer erleidet schwere Verletzungen",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/brunnthal-ort377264/sonne-blendet-bmw-fahrer-uebersieht-skoda-und-verursacht-30-000-euro-schaden-94538482.html",
+      "detected_at": "2026-10-13T11:51:03+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/brunnthal-ort377264/sonne-blendet-bmw-fahrer-uebersieht-skoda-und-verursacht-30-000-euro-schaden-94538482.html",
+      "link_text": "Sonne blendet: BMW-Fahrer übersieht Skoda und verursacht 30.000 Euro Schaden",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/hohenbrunn-ort28822/hohenbrunn-plant-windraeder-bis-zu-fuenf-anlagen-auf-130-hektar-moeglich-94537206.html",
+      "detected_at": "2026-10-13T11:51:03+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/hohenbrunn-ort28822/hohenbrunn-plant-windraeder-bis-zu-fuenf-anlagen-auf-130-hektar-moeglich-94537206.html",
+      "link_text": "Hohenbrunn plant Windräder: Bis zu fünf Anlagen auf 130 Hektar möglich",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/pullach-ort29321/mit-jahren-las-sie-die-odyssee-jetzt-haelt-sie-mit-87-einen-vhs-vortrag-darueber-94538205.html",
+      "detected_at": "2026-10-13T11:51:03+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/pullach-ort29321/mit-jahren-las-sie-die-odyssee-jetzt-haelt-sie-mit-87-einen-vhs-vortrag-darueber-94538205.html",
+      "link_text": "Mit 7 Jahren las sie die Odyssee – jetzt hält sie mit 87 einen VHS-Vortrag darüber",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/landrat-goebel-zeichnet-37-ehrenamtliche-im-landkreis-muenchen-aus-94537236.html",
+      "detected_at": "2026-10-13T11:51:03+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/landrat-goebel-zeichnet-37-ehrenamtliche-im-landkreis-muenchen-aus-94537236.html",
+      "link_text": "Landrat Göbel zeichnet 37 Ehrenamtliche im Landkreis München aus",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/pendeln-nach-muenchen-lohnt-sich-nur-in-drei-gemeinden-und-nie-mit-dem-auto-94537314.html",
+      "detected_at": "2026-10-13T11:51:03+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/pendeln-nach-muenchen-lohnt-sich-nur-in-drei-gemeinden-und-nie-mit-dem-auto-94537314.html",
+      "link_text": "Immobilienpreise und Fahrtkosten: Wo sich rund um München das Pendeln noch lohnt",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/hoehenkirchen-siegertsbrunn-ort100556/kreisumlage-bricht-uns-das-genick-erneute-kritik-am-unzureichenden-sparwillen-des-landkreises-94537196.html",
+      "detected_at": "2026-10-13T11:51:03+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/hoehenkirchen-siegertsbrunn-ort100556/kreisumlage-bricht-uns-das-genick-erneute-kritik-am-unzureichenden-sparwillen-des-landkreises-94537196.html",
+      "link_text": "„Kreisumlage bricht uns das Genick“: Erneute Kritik am unzureichenden Sparwillen des Landkreises",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/baierbrunn-ort28315/1250-muffins-zum-1250-geburtstag-baierbrunn-meistert-suesse-herausforderung-94536401.html",
+      "detected_at": "2026-10-13T11:51:03+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/baierbrunn-ort28315/1250-muffins-zum-1250-geburtstag-baierbrunn-meistert-suesse-herausforderung-94536401.html",
+      "link_text": "1250 Muffins zum 1250. Geburtstag: Baierbrunn meistert süße Herausforderung",
       "status": "unprocessed"
     }
   ]
