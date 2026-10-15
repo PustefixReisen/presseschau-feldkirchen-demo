@@ -60,6 +60,5 @@
 </article>`);
   }
 
-  const note=document.querySelector('.demo-note');
-  if(note) note.textContent='Stand 1. Oktober 2026 · Öffentlicher Demonstrator';
+  // Datumsanzeige ausschließlich aus index.html; kein Rücksetzen durch alte Update-Skripte.
 })();
