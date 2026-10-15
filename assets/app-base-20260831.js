@@ -183,6 +183,5 @@ if(location.hash) openHashTarget();
    }
    topic.dataset.search=(topic.textContent||'').toLowerCase();
  }
- const note=document.querySelector('.demo-note');
- if(note && note.textContent.includes('Stand ')) note.textContent='Stand 31. August 2026 · Öffentlicher Demonstrator';
+  // Datumsanzeige ausschließlich aus index.html; kein Rücksetzen durch alte Update-Skripte.
 })();
