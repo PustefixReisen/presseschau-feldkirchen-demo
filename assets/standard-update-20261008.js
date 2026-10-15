@@ -117,9 +117,5 @@
     if(span) span.textContent=String(count);
   });
 
-  const note=document.querySelector('.demo-note');
-  if(note){
-    note.textContent='Stand 8. Oktober 2026 · Öffentlicher Demonstrator';
-    note.dataset.standardUpdateApplied='2026-10-08';
-  }
+  // Datumsanzeige ausschließlich aus index.html; kein Rücksetzen durch alte Update-Skripte.
 })();
