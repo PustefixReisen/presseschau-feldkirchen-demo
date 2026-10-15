@@ -40,15 +40,15 @@
     card.dataset.printUrl=url.toString();
   },true);
 
-  await import('./app-base-20260831.js');
+  await import('./app-base-20260831.js?v=20261015-datefix2');
   // Der Demonstrator wurde am 29.09. als Entwicklungsreferenz eingefroren.
   // Auf ausdruecklichen Standard-Update-Aufruf werden spaetere Inhaltsaenderungen
   // als versionierte Daten-/Darstellungs-Addenda geladen, ohne die historische
   // Basisdatei stillschweigend umzubauen.
-  await import('./standard-update-20261001.js?v=20261001a');
-  await import('./standard-update-20261006.js?v=20261006a');
-  await import('./standard-update-20261006b.js?v=20261006b');
-  await import('./standard-update-20261008.js?v=20261008a');
+  await import('./standard-update-20261001.js?v=20261015-datefix2');
+  await import('./standard-update-20261006.js?v=20261015-datefix2');
+  await import('./standard-update-20261006b.js?v=20261015-datefix2');
+  await import('./standard-update-20261008.js?v=20261015-datefix2');
   // Die Versionsangabe im ausgelieferten HTML ist maßgeblich.
   // Keine feste Datumsangabe in JavaScript: ältere Addenda dürfen den
   // sichtbaren Stand der Veröffentlichung nicht zurücksetzen.
