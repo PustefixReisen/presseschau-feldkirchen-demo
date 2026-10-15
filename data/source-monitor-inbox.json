@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-14T09:33:06+00:00",
+  "updated_at": "2026-10-15T09:11:24+00:00",
   "items": [
     {
       "event_key": "document:feldkirchen-parkraum-2026:https://www.feldkirchen.de/_Resources/Persistent/d/3/d/e/d3dee38ce3c4a9ad01384ca6ed314a2a8f8bcc12/2026%20Parkraumkonzept%20gem%20GR-Beschluss.pdf:4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
@@ -4944,6 +4944,96 @@
       "kind": "link_new",
       "url": "https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/tum-garching-baut-neue-energiezentrale-rechenzentrum-heizt-kuenftig-mit-94538984.html",
       "link_text": "TUM Garching baut neue Energiezentrale – Rechenzentrum heizt künftig mit",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:adfc-muenchen:https://muenchen.adfc.de/pressemitteilung/jetzt-noch-abstimmen-beim-adfc-fahrradklima-test-2026",
+      "detected_at": "2026-10-15T09:10:41+00:00",
+      "source_id": "adfc-muenchen",
+      "source_name": "ADFC München",
+      "kind": "link_new",
+      "url": "https://muenchen.adfc.de/pressemitteilung/jetzt-noch-abstimmen-beim-adfc-fahrradklima-test-2026",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/44-millionen-euro-fraunhofer-institut-fuer-sichere-ki-in-garching-eroeffnet-94541287.html",
+      "detected_at": "2026-10-15T09:11:20+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/44-millionen-euro-fraunhofer-institut-fuer-sichere-ki-in-garching-eroeffnet-94541287.html",
+      "link_text": "44,6 Millionen Euro: Fraunhofer-Institut für sichere KI in Garching eröffnet – Bundesministerin Bär zu Gast",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/kampfhund-toetet-dackel-feldkirchen-prueft-leinenpflicht-fuer-grosse-hunde-94541111.html",
+      "detected_at": "2026-10-15T09:11:20+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/kampfhund-toetet-dackel-feldkirchen-prueft-leinenpflicht-fuer-grosse-hunde-94541111.html",
+      "link_text": "Kampfhund tötet Dackel: Gemeinde prüft Leinenpflicht für große Hunde",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/unterschleissheim-ort29622/kupferdieb-auf-baustelle-gefasst-michael-ende-grundschule-soll-zu-pfingsten-fertig-sein-94540947.html",
+      "detected_at": "2026-10-15T09:11:20+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/unterschleissheim-ort29622/kupferdieb-auf-baustelle-gefasst-michael-ende-grundschule-soll-zu-pfingsten-fertig-sein-94540947.html",
+      "link_text": "Kupferdieb auf Baustelle gefasst: Michael-Ende-Grundschule soll zu Pfingsten fertig sein",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/nach-toedlichem-angriff-in-oberpfalz-landratsamt-muenchen-prueft-sicherheitskonzepte-94541283.html",
+      "detected_at": "2026-10-15T09:11:20+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/nach-toedlichem-angriff-in-oberpfalz-landratsamt-muenchen-prueft-sicherheitskonzepte-94541283.html",
+      "link_text": "Zwischen Routine und Risiko: Waffenkontrollen im Landkreis München",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/oberhaching-ort29194/nach-zugunglueck-s3-zwischen-deisenhofen-und-holzkirchen-im-40-minuten-takt-94540882.html",
+      "detected_at": "2026-10-15T09:11:20+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/oberhaching-ort29194/nach-zugunglueck-s3-zwischen-deisenhofen-und-holzkirchen-im-40-minuten-takt-94540882.html",
+      "link_text": "Nach Zugunglück: Erneute Reparaturen am Bahnübergang in Deisenhofen",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/brunnthal-ort377264/schwerer-unfall-a8-autobahn-muenchen-lkw-stossen-zusammen-bilder-des-einsatzes-94540606.html",
+      "detected_at": "2026-10-15T09:11:20+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/brunnthal-ort377264/schwerer-unfall-a8-autobahn-muenchen-lkw-stossen-zusammen-bilder-des-einsatzes-94540606.html",
+      "link_text": "Fotos",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/hohenbrunn-ort28822/realschule-hohenbrunn-kostet-vier-millionen-weniger-als-geplant-94538982.html",
+      "detected_at": "2026-10-15T09:11:20+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/hohenbrunn-ort28822/realschule-hohenbrunn-kostet-vier-millionen-weniger-als-geplant-94538982.html",
+      "link_text": "Realschule Hohenbrunn kostet vier Millionen weniger als geplant",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-feldkirchen:https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/kampfhund-toetet-dackel-feldkirchen-prueft-leinenpflicht-fuer-grosse-hunde-94541111.html",
+      "detected_at": "2026-10-15T09:11:21+00:00",
+      "source_id": "merkur-feldkirchen",
+      "source_name": "Münchner Merkur – Feldkirchen",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/kampfhund-toetet-dackel-feldkirchen-prueft-leinenpflicht-fuer-grosse-hunde-94541111.html",
+      "link_text": "Kampfhund tötet Dackel: Gemeinde prüft Leinenpflicht für große Hunde",
       "status": "unprocessed"
     }
   ]

@@ -5,7 +5,7 @@
       "name": "Gemeinde Feldkirchen – Nachrichten aus dem Bauamt",
       "url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt",
       "priority": "mandatory",
-      "last_success_at": "2026-10-14T09:32:46+00:00",
+      "last_success_at": "2026-10-15T09:10:35+00:00",
       "final_url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt",
       "content_type": "text/html;charset=UTF-8",
       "page_sha256": "7a84d3a0d2191a77f15fffc43b031b4a1c4fc5fdeaeba61825d6ee4f6fddf6c1",
@@ -26,7 +26,7 @@
       "name": "Gemeinde Feldkirchen – Neues Parkraumkonzept",
       "url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt/neues-parkraumkonzept-in-feldkirchen",
       "priority": "mandatory",
-      "last_success_at": "2026-10-14T09:32:50+00:00",
+      "last_success_at": "2026-10-15T09:10:38+00:00",
       "final_url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt/neues-parkraumkonzept-in-feldkirchen",
       "content_type": "text/html;charset=UTF-8",
       "page_sha256": "e90a8f8c0116008de9cbdd3c05c7b62988fa85bfcd2a1514c3690d1e162797f2",
@@ -448,7 +448,7 @@
           "content_type": "application/pdf",
           "bytes": 1472041,
           "sha256": "4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
-          "checked_at": "2026-10-14T09:32:50+00:00"
+          "checked_at": "2026-10-15T09:10:38+00:00"
         }
       },
       "error": null
@@ -457,10 +457,10 @@
       "name": "Landkreis München",
       "url": "https://www.landkreis-muenchen.de/",
       "priority": "mandatory",
-      "last_success_at": "2026-10-14T09:32:52+00:00",
+      "last_success_at": "2026-10-15T09:10:39+00:00",
       "final_url": "https://www.landkreis-muenchen.de/",
       "content_type": "text/html; charset=utf-8",
-      "page_sha256": "f9576fb4b75e64cc503a256ed703beaf9f612213f74b1cd82a817e7fbaaef6a4",
+      "page_sha256": "61baa8749aad8f31429bede39c2cf2d27d64a26fc7d43b614204c9ddd1beaf22",
       "page_changed": true,
       "first_seen": false,
       "links": {
@@ -742,18 +742,18 @@
       "name": "Autobahn GmbH – Südbayern",
       "url": "https://www.autobahn.de/die-autobahn/niederlassungen/suedbayern",
       "priority": "topic",
-      "last_attempt_at": "2026-10-14T09:32:52+00:00",
+      "last_attempt_at": "2026-10-15T09:10:39+00:00",
       "error": "HTTPError: HTTP Error 404: Not Found"
     },
     "adfc-muenchen": {
       "name": "ADFC München",
       "url": "https://muenchen.adfc.de/",
       "priority": "topic",
-      "last_success_at": "2026-10-14T09:32:54+00:00",
+      "last_success_at": "2026-10-15T09:10:41+00:00",
       "final_url": "https://muenchen.adfc.de/",
       "content_type": "text/html; charset=utf-8",
-      "page_sha256": "a5cd3581b584b8b0abe598c10505061ee0dded280c3d24eb52a87f0042000d3c",
-      "page_changed": false,
+      "page_sha256": "8753cd9c8e81436e9d30b8a81e2ce27e68e1b397fb6808937204d4d0deabcba8",
+      "page_changed": true,
       "first_seen": false,
       "links": {
         "https://muenchen.adfc.de/sei-dabei": {
@@ -792,6 +792,9 @@
         "https://muenchen.adfc.de/artikel/radfahren-im-herbst-35": {
           "text": ""
         },
+        "https://muenchen.adfc.de/pressemitteilung/jetzt-noch-abstimmen-beim-adfc-fahrradklima-test-2026": {
+          "text": ""
+        },
         "https://muenchen.adfc.de/neuigkeit/gesucht-office-und-eventmanagerin-m-w-d": {
           "text": ""
         },
@@ -814,9 +817,6 @@
           "text": ""
         },
         "https://muenchen.adfc.de/neuigkeit/radfahren-in-den-medien-mitte-september-2026": {
-          "text": ""
-        },
-        "https://muenchen.adfc.de/pressemitteilung/der-grosse-adfc-fahrradklima-test-2026-startet-heute-2": {
           "text": ""
         },
         "https://muenchen.adfc.de/aktuelles/neuigkeiten": {
@@ -854,17 +854,18 @@
         }
       },
       "documents": {},
-      "error": null
+      "error": "URLError: <urlopen error timed out>",
+      "last_attempt_at": "2026-10-15T09:11:16+00:00"
     },
     "bi-afk": {
       "name": "BI-AFK",
       "url": "https://www.bi-afk.de/",
       "priority": "topic",
-      "last_success_at": "2026-10-14T09:32:59+00:00",
+      "last_success_at": "2026-10-15T09:11:18+00:00",
       "final_url": "https://bi-afk.de/",
       "content_type": "text/html; charset=UTF-8",
-      "page_sha256": "198108556bd0a02732657e263f62169d6d4d38f43ccc018d8979e11136b8d3b6",
-      "page_changed": false,
+      "page_sha256": "c0e0c4087de071829b64953c128550e30cdb2450d6b765b83eef8a71e6d1d7a4",
+      "page_changed": true,
       "first_seen": false,
       "links": {
         "https://bi-afk.de/": {
@@ -946,7 +947,7 @@
           "content_type": "application/pdf",
           "bytes": 149466,
           "sha256": "f0ce9eb0a26c6e4bafbce93352128b32ede6a1a841c241d07be53c69c0f4b695",
-          "checked_at": "2026-10-14T09:32:59+00:00"
+          "checked_at": "2026-10-15T09:11:18+00:00"
         }
       },
       "error": null
@@ -955,26 +956,13 @@
       "name": "RIS Feldkirchen – Dokumente mit Freigabe",
       "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/do0040.asp",
       "priority": "mandatory",
-      "last_success_at": "2026-10-14T09:32:41+00:00",
+      "last_success_at": "2026-10-15T09:10:31+00:00",
       "final_url": "https://buergerinfo-feldkirchen.digitalfabrix.de/do0040.asp",
       "content_type": "text/html; Charset=utf-8",
-      "page_sha256": "8d01dd391eccbe98b130a539f5cba89fb05b3e953f02e601a0984c8ec48fc826",
+      "page_sha256": "5ec1bd2356d39032dd6f0eaf4e7b14a9a399597ee59c0721046f913b68cd38bf",
       "page_changed": true,
       "first_seen": false,
-      "links": {
-        "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1031": {
-          "text": "15.10.2026"
-        },
-        "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75673&type=do": {
-          "text": ""
-        },
-        "https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8635": {
-          "text": "Bauantrag, Tektur zum Neubau einer Wohnanlage mit 22 Wohneinheiten mit einer Tiefgarage auf dem Grundstück Fl.Nr. 36/0 Gemarkung Feldkirchen, Aschheimer Straße 12 a - erneute Vorlage"
-        },
-        "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75668&type=do": {
-          "text": ""
-        }
-      },
+      "links": {},
       "documents": {},
       "error": null
     },
@@ -982,33 +970,54 @@
       "name": "Münchner Merkur – Landkreis München",
       "url": "https://www.merkur.de/lokales/muenchen-lk/",
       "priority": "mandatory",
-      "last_success_at": "2026-10-14T09:33:01+00:00",
+      "last_success_at": "2026-10-15T09:11:20+00:00",
       "final_url": "https://www.merkur.de/lokales/muenchen-lk/",
       "content_type": "text/html;charset=utf-8",
-      "page_sha256": "eea3f445eaceb57bcc4ce077a2116a1144b364f8479d23af5ad6f5c5ee862bdb",
+      "page_sha256": "4bc68a9f7ba77d637ce9919ef5cc4307de7a3657a41c72b28fc65997a41256cf",
       "page_changed": true,
       "first_seen": false,
       "links": {
         "https://www.merkur.de/lokales/muenchen-lk/": {
           "text": "Menü"
         },
-        "https://www.merkur.de/lokales/muenchen-lk/neubiberg-ort29121/honig-vom-dach-in-der-kantine-so-lebt-infineon-nachhaltigkeit-in-neubiberg-94538978.html": {
-          "text": "Honig vom Dach in der Kantine: So lebt Infineon Nachhaltigkeit in Neubiberg vor"
+        "https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/44-millionen-euro-fraunhofer-institut-fuer-sichere-ki-in-garching-eroeffnet-94541287.html": {
+          "text": "44,6 Millionen Euro: Fraunhofer-Institut für sichere KI in Garching eröffnet – Bundesministerin Bär zu Gast"
         },
-        "https://www.merkur.de/lokales/muenchen-lk/unterfoehring-ort29618/telehotel-wird-abgerissen-unterfoehring-plant-bezahlbaren-wohnraum-94537513.html": {
-          "text": "Telehotel wird abgerissen: Unterföhring plant bezahlbaren Wohnraum"
+        "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/kampfhund-toetet-dackel-feldkirchen-prueft-leinenpflicht-fuer-grosse-hunde-94541111.html": {
+          "text": "Kampfhund tötet Dackel: Gemeinde prüft Leinenpflicht für große Hunde"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/unterschleissheim-ort29622/kupferdieb-auf-baustelle-gefasst-michael-ende-grundschule-soll-zu-pfingsten-fertig-sein-94540947.html": {
+          "text": "Kupferdieb auf Baustelle gefasst: Michael-Ende-Grundschule soll zu Pfingsten fertig sein"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/nach-toedlichem-angriff-in-oberpfalz-landratsamt-muenchen-prueft-sicherheitskonzepte-94541283.html": {
+          "text": "Zwischen Routine und Risiko: Waffenkontrollen im Landkreis München"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/oberhaching-ort29194/nach-zugunglueck-s3-zwischen-deisenhofen-und-holzkirchen-im-40-minuten-takt-94540882.html": {
+          "text": "Nach Zugunglück: Erneute Reparaturen am Bahnübergang in Deisenhofen"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/brunnthal-ort377264/schwerer-unfall-a8-autobahn-muenchen-lkw-stossen-zusammen-bilder-des-einsatzes-94540606.html": {
+          "text": "Fotos"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/brunnthal-ort377264/lkw-faehrt-auf-anderen-auf-a8-bei-muenchen-nach-unfall-voll-gesperrt-94540185.html": {
+          "text": "Schwerer Unfall auf A8 bei München: Lkw fährt auf Sattelzug auf – Fahrer eingeklemmt und verletzt"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/hohenbrunn-ort28822/realschule-hohenbrunn-kostet-vier-millionen-weniger-als-geplant-94538982.html": {
+          "text": "Realschule Hohenbrunn kostet vier Millionen weniger als geplant"
         },
         "https://www.merkur.de/lokales/muenchen-lk/unterschleissheim-ort29622/unterschleissheim-kauft-notbetten-fuer-300-menschen-mit-umgewidmetem-geld-94540280.html": {
           "text": "Unterschleißheim kauft Notbetten für 300 Menschen"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/brunnthal-ort377264/lkw-faehrt-auf-anderen-auf-a8-bei-muenchen-nach-unfall-voll-gesperrt-94540185.html": {
-          "text": "Lkw fährt auf anderen auf: A8 bei München nach Unfall voll gesperrt"
         },
         "https://www.merkur.de/lokales/muenchen-lk/grasbrunn-ort377335/gemeindebuecherei-grasbrunn-verleiht-trauer-hilfetaschen-mit-trost-murmel-94538979.html": {
           "text": "Gemeindebücherei Grasbrunn verleiht Trauer-Hilfetaschen mit Trost-Murmel"
         },
         "https://www.merkur.de/lokales/muenchen-lk/gruenwald-ort28770/feuer-in-ruine-gruenwald-wartet-nach-zwangsversteigerung-auf-zuschlag-94538981.html": {
           "text": "Feuer in Ruine gelöscht: Grünwald wartet nach Zwangsversteigerung auf Zuschlag"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/neubiberg-ort29121/honig-vom-dach-in-der-kantine-so-lebt-infineon-nachhaltigkeit-in-neubiberg-94538978.html": {
+          "text": "Honig vom Dach in der Kantine: So lebt Infineon Nachhaltigkeit in Neubiberg vor"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/unterfoehring-ort29618/telehotel-wird-abgerissen-unterfoehring-plant-bezahlbaren-wohnraum-94537513.html": {
+          "text": "Telehotel wird abgerissen: Unterföhring plant bezahlbaren Wohnraum"
         },
         "https://www.merkur.de/lokales/muenchen-lk/unterschleissheim-ort29622/kostenloser-einbau-glasfaser-fuer-2000-unterschleissheimer-haushalte-94537222.html": {
           "text": "Kostenloser Einbau: Unterschleißheim bekommt Glasfaser für 2000 Haushalte"
@@ -1027,27 +1036,6 @@
         },
         "https://www.merkur.de/lokales/muenchen-lk/unterschleissheim-ort29622/60-jahre-beim-brk-unterschleissheim-ehrt-39-ehrenamtliche-im-buergerhaus-94538701.html": {
           "text": "Stets über die Pflicht hinaus: Unterschleißheim ehrt 39 Ehrenamtliche im Bürgerhaus"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/lkw-kippt-auf-baustelle-um-fahrer-erleidet-oberschenkelbruch-und-lungenverletzung-94538636.html": {
-          "text": "Lkw kippt auf Baustelle um: Fahrer erleidet schwere Verletzungen"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/schaeftlarn-ort73337/repair-cafe-schaeftlarn-wird-zehn-70-prozent-der-geraete-reparierbar-94537211.html": {
-          "text": "Repair-Café Schäftlarn wird zehn Jahre alt: 70 Prozent der Geräte reparierbar"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/brunnthal-ort377264/sonne-blendet-bmw-fahrer-uebersieht-skoda-und-verursacht-30-000-euro-schaden-94538482.html": {
-          "text": "Sonne blendet: BMW-Fahrer übersieht Skoda und verursacht 30.000 Euro Schaden"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/hohenbrunn-ort28822/hohenbrunn-plant-windraeder-bis-zu-fuenf-anlagen-auf-130-hektar-moeglich-94537206.html": {
-          "text": "Hohenbrunn plant Windräder: Bis zu fünf Anlagen auf 130 Hektar möglich"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/pullach-ort29321/mit-jahren-las-sie-die-odyssee-jetzt-haelt-sie-mit-87-einen-vhs-vortrag-darueber-94538205.html": {
-          "text": "Mit 7 Jahren las sie die Odyssee – jetzt hält sie mit 87 einen VHS-Vortrag darüber"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/landrat-goebel-zeichnet-37-ehrenamtliche-im-landkreis-muenchen-aus-94537236.html": {
-          "text": "Landrat Göbel zeichnet 37 Ehrenamtliche im Landkreis München aus"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/pendeln-nach-muenchen-lohnt-sich-nur-in-drei-gemeinden-und-nie-mit-dem-auto-94537314.html": {
-          "text": "Immobilienpreise und Fahrtkosten: Wo sich rund um München das Pendeln noch lohnt"
         }
       },
       "documents": {},
@@ -1057,10 +1045,10 @@
       "name": "Münchner Merkur – Feldkirchen",
       "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/",
       "priority": "mandatory",
-      "last_success_at": "2026-10-14T09:33:02+00:00",
+      "last_success_at": "2026-10-15T09:11:21+00:00",
       "final_url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/",
       "content_type": "text/html;charset=utf-8",
-      "page_sha256": "edd823cfbba53764e7cb9b620447a19120daecc930302cfa6c23a1c0933d798d",
+      "page_sha256": "fd969a297f00cf3f6d8e188b4b6ed04c32acf8e86f5c2024476f6e59a0b0c46e",
       "page_changed": true,
       "first_seen": false,
       "links": {
@@ -1069,6 +1057,9 @@
         },
         "https://www.merkur.de/lokales/muenchen-lk/": {
           "text": "München Landkreis"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/kampfhund-toetet-dackel-feldkirchen-prueft-leinenpflicht-fuer-grosse-hunde-94541111.html": {
+          "text": "Kampfhund tötet Dackel: Gemeinde prüft Leinenpflicht für große Hunde"
         },
         "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/gewerbesteuer-bricht-ein-gemeinde-feldkirchen-kuerzt-und-streicht-projekte-94529507.html": {
           "text": "Gewerbesteuer bricht ein: Gemeinde Feldkirchen kürzt und streicht Projekte"
@@ -1117,9 +1108,6 @@
         },
         "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/feldkirchen-pietaetlos-und-sinnloses-geldausgeben-anwohner-protest-gegen-hundewiese-neben-friedhof-94357019.html": {
           "text": "„Pietätlos“ und „sinnloses Geldausgeben“: Anwohner-Protest gegen Hundewiese neben Friedhof"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/a94-bei-feldkirchen-drei-naechte-gesperrt-traggeruest-fuer-neue-bruecke-wird-eingehoben-94348286.html": {
-          "text": "A94 bei Feldkirchen drei Nächte gesperrt: Traggerüst für neue Brücke wird eingehoben"
         }
       },
       "documents": {},
@@ -1129,10 +1117,10 @@
       "name": "Münchner Merkur – Aschheim",
       "url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/",
       "priority": "mandatory",
-      "last_success_at": "2026-10-14T09:33:04+00:00",
+      "last_success_at": "2026-10-15T09:11:22+00:00",
       "final_url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/",
       "content_type": "text/html;charset=utf-8",
-      "page_sha256": "32887bab9cfccc828d0c1354d6f81c93ae14a7e6726236e19f66bf91dda1d6a4",
+      "page_sha256": "7acfa08bfae816b92d99e5d38418304e921e78176ecb84da72e306d8e3aafad1",
       "page_changed": true,
       "first_seen": false,
       "links": {
@@ -1201,10 +1189,10 @@
       "name": "Münchner Merkur – Kirchheim",
       "url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/",
       "priority": "mandatory",
-      "last_success_at": "2026-10-14T09:33:05+00:00",
+      "last_success_at": "2026-10-15T09:11:23+00:00",
       "final_url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/",
       "content_type": "text/html;charset=utf-8",
-      "page_sha256": "a80bc9cff4656f693d332952d920a26fe1ac6c7738a804c2d0aa5ceaa888e6f1",
+      "page_sha256": "9cb75abd80aca7cb734d3157085b3a89c9195ed7f0e7235ccac3229a16cc04db",
       "page_changed": true,
       "first_seen": false,
       "links": {
@@ -1273,10 +1261,10 @@
       "name": "Münchner Merkur – Haar",
       "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/",
       "priority": "mandatory",
-      "last_success_at": "2026-10-14T09:33:06+00:00",
+      "last_success_at": "2026-10-15T09:11:24+00:00",
       "final_url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/",
       "content_type": "text/html;charset=utf-8",
-      "page_sha256": "c65ff359c9b9ec6faad614211181beb9fa84ca3e7e9e6f64aa21f6298b08f03c",
+      "page_sha256": "6340dabeb4c0d4d8d9d0cb32da82dce2e37c531777ee40ff61d431b45a2b4c86",
       "page_changed": true,
       "first_seen": false,
       "links": {
@@ -1345,11 +1333,11 @@
       "name": "Gemeinde Feldkirchen – Aktuelle Meldungen",
       "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen",
       "priority": "mandatory",
-      "last_success_at": "2026-10-14T09:32:43+00:00",
+      "last_success_at": "2026-10-15T09:10:32+00:00",
       "final_url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen",
       "content_type": "text/html;charset=UTF-8",
       "page_sha256": "5a1db783b8d5c3ef206b2ffa2fae6aceb4b9394a0d6269ee09581e2e553ef08d",
-      "page_changed": true,
+      "page_changed": false,
       "first_seen": false,
       "links": {
         "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/nachrichten-archiv": {
@@ -1432,7 +1420,7 @@
       "name": "BENG eG – Bürgerenergie und Energieprojekte",
       "url": "https://www.beng-eg.de/",
       "priority": "topic",
-      "last_success_at": "2026-10-14T09:33:00+00:00",
+      "last_success_at": "2026-10-15T09:11:19+00:00",
       "final_url": "https://www.beng-eg.de/",
       "content_type": "text/html; charset=UTF-8",
       "page_sha256": "998a2aaeeaf10fa2d2d770d002e3cb8d3278508655bc835529002f73819ec662",
@@ -1450,5 +1438,5 @@
       "error": null
     }
   },
-  "last_run_at": "2026-10-14T09:33:06+00:00"
+  "last_run_at": "2026-10-15T09:11:24+00:00"
 }
