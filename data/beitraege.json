@@ -22,6 +22,79 @@
   ],
   "contributions": [
     {
+      "id": "R077",
+      "date": "2026-10-08",
+      "publication_date": "2026-09-23",
+      "category": "Finanzen & Wirtschaft",
+      "topic_candidates": [
+        "Nachtragshaushalt 2026",
+        "Grundstückserwerb",
+        "Gemeindefinanzen"
+      ],
+      "title": "Grundstückskauf für rund sieben Millionen Euro: Nachtragshaushalt beschlossen",
+      "subtitle": "Aktualisierung vom 08.10.2026 (Gemeinderatsbeschluss, Gewerbesteuer und Kürzungen): Der Kauf ist geplant; der Nachtragshaushalt wurde beschlossen.",
+      "sachinformation": "Die Gemeinde Feldkirchen beabsichtigt, ein Grundstück für rund sieben Millionen Euro zu erwerben. Das Vorhaben war im ursprünglichen Haushalt 2026 nicht eingeplant. Die am 23. September öffentlich freigegebene RIS-Beschlussvorlage 5350/2026 sah deshalb einen Nachtragshaushalt vor. Im Bericht des Münchner Merkur vom 8. Oktober heißt es, der Gemeinderat habe den Nachtragshaushalt einstimmig genehmigt. Das bedeutet nicht, dass der Grundstückskauf bereits vollzogen ist. Standort und künftige Nutzung des Grundstücks sind aus den hier angegebenen Quellen nicht gesichert.\n\nNach Angaben des Merkur erwartet die Gemeinde für 2026 knapp 19 statt ursprünglich 22 Millionen Euro Gewerbesteuereinnahmen. Zusätzlich sollen 8,5 Millionen Euro aus den Rücklagen entnommen werden; die Rücklage würde damit zum Jahresende auf rund fünf Millionen Euro sinken. Im Zuge der Haushaltsänderung werden Ausgaben für mehrere Vorhaben gestrichen oder reduziert, darunter die Sanierung beziehungsweise der Umbau der Feuerwehr (250.000 Euro), die PV-Anlage am Kinderhort St. Jakob (125.000 Euro), die Umgestaltung des Maibaumplatzes (200.000 Euro) und des Kirchenvorplatzes (480.000 Euro) sowie die Bankettsanierung an Gemeindestraßen (200.000 Euro). Die Vorlage nennt außerdem eine Erhöhung des Vermögenshaushalts von 18,6943 auf 27,7393 Millionen Euro.\n\nOffen bleibt, welches Grundstück die Gemeinde erwerben möchte, wofür es verwendet werden soll und wie weit die Kaufverhandlungen fortgeschritten sind.",
+      "sources": [
+        {
+          "name": "RIS Feldkirchen – Beschlussvorlage 5350/2026",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75237&type=do",
+          "type": "primary_official",
+          "date": "2026-09-23",
+          "date_basis": "public_release_in_RIS",
+          "date_status": "verified"
+        },
+        {
+          "name": "RIS Feldkirchen – Gemeinderat 01.10.2026",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1030",
+          "type": "primary_official",
+          "date": "2026-10-01",
+          "date_basis": "session_date",
+          "date_status": "verified_session_held"
+        },
+        {
+          "name": "Münchner Merkur – Gewerbesteuer bricht ein: Gemeinde Feldkirchen kürzt und streicht Projekte",
+          "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/gewerbesteuer-bricht-ein-gemeinde-feldkirchen-kuerzt-und-streicht-projekte-94529507.html",
+          "type": "secondary_press",
+          "date": "2026-10-08",
+          "date_basis": "publication_date",
+          "date_status": "verified"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": "S024",
+      "research_refs": [
+        "R077"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen",
+        "related_places": [
+          "Feldkirchen"
+        ],
+        "scope": "feldkirchen_direct",
+        "verification_status": "verified_2026-09-24"
+      },
+      "established_topic_refs": [],
+      "stage_update_meta": {
+        "created_at": "2026-09-24",
+        "source_status": "verified_press_report_and_RIS",
+        "updated_at": "2026-10-15",
+        "latest_source_date": "2026-10-08",
+        "original_publication_date": "2026-09-23",
+        "update_reason": "Gemeinderat-Nachtragshaushalt beschlossen; Haushaltsfolgen und Grundstückskaufpreis"
+      },
+      "search_tags": [
+        "Nachtragshaushalt 2026",
+        "Grundstückserwerb",
+        "Gemeindefinanzen",
+        "7 Millionen Euro",
+        "Grundstückskauf",
+        "Gewerbesteuer",
+        "Rücklagen",
+        "Haushaltskürzungen"
+      ]
+    },
+    {
       "id": "R108",
       "date": "2026-09-28",
       "publication_date": "2026-09-28",
@@ -70,73 +143,6 @@
         "created_at": "2026-10-13",
         "source_status": "official_announcement_implementation_pending"
       }
-    },
-    {
-      "id": "R094",
-      "date": "2026-07-15",
-      "publication_date": "2026-07-15",
-      "category": "Mobilität & Verkehr",
-      "topic_candidates": [
-        "Tempo 30",
-        "B471",
-        "Schulwegsicherheit",
-        "Verkehrssicherheit"
-      ],
-      "search_tags": [
-        "Tempo 30",
-        "B471",
-        "Schulwegsicherheit",
-        "Verkehrssicherheit",
-        "Bürgerantrag"
-      ],
-      "title": "Tempo 30 an der B471: Landratsamt sieht Voraussetzungen nicht erfüllt",
-      "subtitle": "Die Prüfung eines Bürgerantrags konzentriert sich auf den Schulweg entlang der Aschheimer Straße; nach Ortstermin und Stellungnahme soll dort Tempo 50 bleiben.",
-      "sachinformation": "Ausgangspunkt war ein Antrag aus der Bürgerversammlung vom 22. Oktober 2025 auf Tempo 30 an stark frequentierten Schulwegen. Die Antragstellerin konkretisierte den Antrag später auf den Abschnitt der B471/Aschheimer Straße zwischen Zeppelinstraße und Ortsausgang Richtung Aschheim. Nach einem Ortstermin mit Landratsamt, Polizei, Staatlichem Bauamt Freising und Gemeinde kam das Landratsamt zu dem Ergebnis, dass der Geh- und Radweg dort ausreichend breit und weitgehend von der Fahrbahn getrennt sei. Auch die Unfalllage wurde als unauffällig bewertet. Deshalb soll auf B471 und M18 die Regelgeschwindigkeit von 50 km/h bestehen bleiben. Für die Fußgängerampel B471/Ottostraße wurde dagegen eine Verlängerung der Alles-Rot-Zeit auf vier Sekunden in Aussicht gestellt, sofern die Verkehrstechnik keine Einwände hat.",
-      "sources": [
-        {
-          "name": "RIS Feldkirchen – Beschlussvorlage 5275/2026",
-          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74581&type=do",
-          "type": "primary_official",
-          "date": "2026-07-15",
-          "date_basis": "public_release_in_RIS",
-          "date_status": "verified"
-        }
-      ],
-      "bisheriger_verlauf": [
-        {
-          "id": "R007",
-          "date": "2025-10-22",
-          "title": "Bürgerversammlung bringt Anträge zu Radwegen, Tempo 30 und Klimazielen"
-        },
-        {
-          "id": "R012",
-          "date": "2025-12-04",
-          "title": "Gemeinderat greift mehrere Anträge aus der Bürgerversammlung auf"
-        }
-      ],
-      "unsere_einordnung": null,
-      "council": {
-        "date": "2026-07-23",
-        "proposal_no": "5275/2026",
-        "session_id": "S020"
-      },
-      "research_refs": [
-        "R094"
-      ],
-      "ortsbezug": {
-        "display_place": "Feldkirchen",
-        "related_places": [
-          "Feldkirchen"
-        ],
-        "scope": "local",
-        "verification_status": "verified_2026-09-27"
-      },
-      "established_topic_refs": [
-        {
-          "id": "T015",
-          "title": "Verkehrssicherheit an B471 und M18"
-        }
-      ]
     },
     {
       "id": "R093",
@@ -207,394 +213,6 @@
         "Radverkehr",
         "München–Markt Schwaben",
         "Feldkirchen"
-      ]
-    },
-    {
-      "id": "R086",
-      "date": "2026-09-23",
-      "publication_date": "2026-09-23",
-      "category": "Mobilität & Verkehr",
-      "topic_candidates": [
-        "ADFC",
-        "Radverkehr",
-        "Vereinsförderung"
-      ],
-      "title": "Landkreis will ADFC-Förderung ab 2028 einstellen",
-      "subtitle": "Die Kreisförderung finanziert unter anderem die Vernetzung der ADFC-Ortsgruppen; davon ist auch die gemeinsame Ortsgruppe Aschheim, Feldkirchen, Haar und Kirchheim berührt.",
-      "sachinformation": "Der Ausschuss für Mobilität und Infrastruktur des Landkreises München hat beschlossen, die bisherige Förderung des ADFC 2027 zu reduzieren und ab 2028 einzustellen. Der ADFC hatte zuvor wegen gestiegener Kosten eine Erhöhung beantragt. Nach Angaben des Münchner Merkur wurde der Verband seit 2018 gefördert, zuletzt mit 20.000 Euro jährlich; damit wird unter anderem eine hauptamtliche Koordinatorin finanziert, die die Ortsgruppen im Landkreis vernetzt.\n\nDer ADFC München führt eine gemeinsame Ortsgruppe für Aschheim, Feldkirchen, Haar und Kirchheim. Seine Landkreis-Arbeitsgruppe beschreibt sich zudem als Schnittstelle zum Landratsamt und als Netzwerk der Ortsgruppen.",
-      "sources": [
-        {
-          "name": "Münchner Merkur – Landkreis streicht ADFC-Zuschuss ab 2028",
-          "url": "https://www.merkur.de/lokales/muenchen-lk/adfc-beantragt-mehr-geld-landkreis-muenchen-streicht-foerderung-ab-2028-94505287.html",
-          "type": "press",
-          "date": "2026-09-23",
-          "date_basis": "publication_date",
-          "date_status": "verified"
-        },
-        {
-          "name": "ADFC München – Ortsgruppe Aschheim, Feldkirchen, Haar und Kirchheim",
-          "url": "https://muenchen.adfc.de/artikel/ortsgruppe-aschheim-feldkirchen-haar-und-kirchheim",
-          "type": "organisation",
-          "date": "2026-09-26",
-          "date_basis": "access_date",
-          "date_status": "verified"
-        }
-      ],
-      "bisheriger_verlauf": [],
-      "unsere_einordnung": null,
-      "council": null,
-      "research_refs": [
-        "R086"
-      ],
-      "ortsbezug": {
-        "display_place": "Landkreis München / Feldkirchen",
-        "related_places": [
-          "Landkreis München / Feldkirchen"
-        ],
-        "scope": "extended_relevance",
-        "verification_status": "verified_2026-09-26"
-      },
-      "relevance": {
-        "type": "extended_relevance",
-        "why_feldkirchen": "Die geförderte Kreisstruktur vernetzt auch die ADFC-Ortsgruppe, die Feldkirchen gemeinsam mit Aschheim, Haar und Kirchheim abdeckt. Welche konkreten Leistungen vor Ort durch die Kürzung entfallen könnten, ist noch offen."
-      },
-      "established_topic_refs": [],
-      "stage_update_meta": {
-        "created_at": "2026-09-26",
-        "source_status": "verified_external_relevance_backfill"
-      },
-      "search_tags": [
-        "ADFC",
-        "Radverkehr",
-        "Vereinsförderung"
-      ]
-    },
-    {
-      "id": "R087",
-      "date": "2026-09-21",
-      "publication_date": "2026-09-21",
-      "category": "Mobilität & Verkehr",
-      "topic_candidates": [
-        "Schulcampus",
-        "Fahrradstraße",
-        "Schulweg"
-      ],
-      "title": "Neue Fahrradstraßen führen zum Schulcampus Aschheim",
-      "subtitle": "Aschheim weist zwei Zufahrten zum neuen Schulcampus als Fahrradstraßen aus; Feldkirchen ist Mitglied des zuständigen Schulzweckverbands.",
-      "sachinformation": "Seit der Eröffnung des neuen Schulcampus Aschheim am 15. September nutzen nach Angaben des Münchner Merkur viele Schülerinnen und Schüler die Sonnenstraße und den Heimstettner Weg mit dem Fahrrad. Der Bau- und Umweltausschuss beschloss deshalb, beide Verbindungen als Fahrradstraßen auszuweisen. Kraftfahrzeuge bleiben zugelassen, die zulässige Höchstgeschwindigkeit beträgt 30 km/h.\n\nDer Schulcampus gehört zum Zweckverband Staatliche weiterführende Schulen im Osten des Landkreises München. Träger sind der Landkreis sowie Aschheim, Feldkirchen und Kirchheim.",
-      "sources": [
-        {
-          "name": "Münchner Merkur – Aschheim macht zwei Wege zur Fahrradstraße",
-          "url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/1070-schueler-draengen-auf-die-strasse-aschheim-macht-zwei-wege-zur-fahrradstrasse-94501122.html",
-          "type": "press",
-          "date": "2026-09-21",
-          "date_basis": "publication_date",
-          "date_status": "verified"
-        },
-        {
-          "name": "Zweckverband Staatliche weiterführende Schulen im Osten des Landkreises München",
-          "url": "https://szv-mo.de/",
-          "type": "primary_official",
-          "date": "2026-09-26",
-          "date_basis": "access_date",
-          "date_status": "verified"
-        }
-      ],
-      "bisheriger_verlauf": [],
-      "unsere_einordnung": null,
-      "council": null,
-      "research_refs": [
-        "R087"
-      ],
-      "ortsbezug": {
-        "display_place": "Aschheim / Feldkirchen",
-        "related_places": [
-          "Aschheim / Feldkirchen"
-        ],
-        "scope": "extended_relevance",
-        "verification_status": "verified_2026-09-26"
-      },
-      "relevance": {
-        "type": "extended_relevance",
-        "why_feldkirchen": "Der Schulcampus wird von einem Zweckverband getragen, dem Feldkirchen angehört. Die sichere Raderschließung betrifft damit eine Bildungsinfrastruktur, die auch für Feldkirchner Schülerinnen und Schüler vorgesehen ist."
-      },
-      "established_topic_refs": [],
-      "stage_update_meta": {
-        "created_at": "2026-09-26",
-        "source_status": "verified_external_relevance_backfill"
-      },
-      "search_tags": [
-        "Schulcampus",
-        "Fahrradstraße",
-        "Schulweg"
-      ]
-    },
-    {
-      "id": "R088",
-      "date": "2026-09-07",
-      "publication_date": "2026-09-07",
-      "category": "Mobilität & Verkehr",
-      "topic_candidates": [
-        "Autonomes Fahren",
-        "On-Demand",
-        "ÖPNV"
-      ],
-      "title": "München testet autonome On-Demand-Fahrzeuge im öffentlichen Straßenraum",
-      "subtitle": "MVG und IAV starten einen Test mit drei autonom fahrenden Fahrzeugen; ein späterer Fahrgastbetrieb wird ausdrücklich mitgedacht.",
-      "sachinformation": "Die Stadtwerke München, die Münchner Verkehrsgesellschaft und IAV testen im Forschungsprojekt MINGA drei autonom fahrende VW ID. Buzz im öffentlichen Straßenraum. Der Test startet ohne Fahrgäste und mit Sicherheitsfahrpersonal. Nach Angaben der MVG werden neben der Technik bereits Anforderungen eines späteren Fahrgastbetriebs untersucht, darunter Fahrgastinformation, Sicherheitskonzept und die Einbindung in Betrieb und Leitstelle.",
-      "sources": [
-        {
-          "name": "SWM/MVG – Autonome On-Demand-Fahrzeuge für München",
-          "url": "https://www.swm.de/unternehmen/presse/pressemitteilungen/2026/09-2026/mvg-autonome-fahrzeuge-testbetrieb-startet-minga-iav",
-          "type": "primary_official",
-          "date": "2026-09-07",
-          "date_basis": "publication_date",
-          "date_status": "verified"
-        }
-      ],
-      "bisheriger_verlauf": [],
-      "unsere_einordnung": null,
-      "council": null,
-      "research_refs": [
-        "R088"
-      ],
-      "ortsbezug": {
-        "display_place": "München / Feldkirchen",
-        "related_places": [
-          "München / Feldkirchen"
-        ],
-        "scope": "extended_relevance",
-        "verification_status": "verified_2026-09-26"
-      },
-      "relevance": {
-        "type": "extended_relevance",
-        "why_feldkirchen": "Für Feldkirchen besteht noch keine unmittelbare Wirkung. Als eng mit München verflochtene Umlandgemeinde kann jedoch relevant werden, ob autonome On-Demand-Angebote später in regionale ÖPNV- und letzte-Meile-Angebote einbezogen werden."
-      },
-      "established_topic_refs": [],
-      "stage_update_meta": {
-        "created_at": "2026-09-26",
-        "source_status": "verified_external_relevance_backfill"
-      },
-      "search_tags": [
-        "Autonomes Fahren",
-        "On-Demand",
-        "ÖPNV"
-      ]
-    },
-    {
-      "id": "R089",
-      "date": "2026-09-10",
-      "publication_date": "2026-09-10",
-      "category": "Wohnen & Ortsentwicklung",
-      "topic_candidates": [
-        "Wohnungsbau",
-        "Modulbau",
-        "bezahlbares Wohnen"
-      ],
-      "title": "Aschheim baut 24 bezahlbare Wohnungen in modularer Bauweise",
-      "subtitle": "Ein kommunal beeinflusstes Pilotprojekt kombiniert kurze Bauzeit, Belegungsrechte und eine angekündigte Miete von 12,50 Euro pro Quadratmeter.",
-      "sachinformation": "In Aschheim werden 24 barrierefreie Wohnungen aus vorgefertigten Betonmodulen errichtet. Nach Angaben des Münchner Merkur soll die Bauzeit vom Spatenstich bis zum Einzug rund acht Monate betragen. Die Gemeinde hat langfristige Vorschlagsrechte für die Mieter; als Zielmiete werden 12,50 Euro pro Quadratmeter genannt. Das Projekt wird von der Baugesellschaft München Land umgesetzt.",
-      "sources": [
-        {
-          "name": "Münchner Merkur – Aschheim baut 24 günstige Wohnungen in nur acht Monaten",
-          "url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/aschheim-baut-24-guenstige-wohnungen-in-nur-acht-monaten-94482942.html",
-          "type": "press",
-          "date": "2026-09-10",
-          "date_basis": "publication_date",
-          "date_status": "verified"
-        }
-      ],
-      "bisheriger_verlauf": [],
-      "unsere_einordnung": null,
-      "council": null,
-      "research_refs": [
-        "R089"
-      ],
-      "ortsbezug": {
-        "display_place": "Aschheim",
-        "related_places": [
-          "Aschheim"
-        ],
-        "scope": "extended_relevance",
-        "verification_status": "verified_2026-09-26"
-      },
-      "relevance": {
-        "type": "extended_relevance",
-        "why_feldkirchen": "Feldkirchen beschäftigt sich ebenfalls mit Wohnungsbau und kommunalen Gestaltungsmöglichkeiten. Das Aschheimer Projekt ist ein konkreter regionaler Vergleichsfall dafür, wie Kommune und kommunale Baugesellschaft Bauzeit, Belegungsrechte und Mietniveau beeinflussen können."
-      },
-      "established_topic_refs": [],
-      "stage_update_meta": {
-        "created_at": "2026-09-26",
-        "source_status": "verified_external_relevance_backfill"
-      },
-      "search_tags": [
-        "Wohnungsbau",
-        "Modulbau",
-        "bezahlbares Wohnen"
-      ]
-    },
-    {
-      "id": "R090",
-      "date": "2026-09-21",
-      "publication_date": "2026-09-21",
-      "category": "Kommunalpolitik & Beteiligung",
-      "topic_candidates": [
-        "Jugendbeteiligung",
-        "Jugendparlament",
-        "Demokratie"
-      ],
-      "title": "Hannover wählt erstmals ein Jugendparlament",
-      "subtitle": "25 gewählte Jugendliche erhalten Antrags- und Rederecht in zwölf Ausschüssen des Stadtrats.",
-      "sachinformation": "In Hannover findet vom 21. bis 26. September 2026 erstmals die Wahl zu einem Jugendparlament statt. 63 Kandidierende treten für 25 Plätze an. Wahlberechtigt sind junge Menschen von zwölf bis 20 Jahren. Die gewählten Mitglieder erhalten nach Angaben der Stadt Antrags- und Rederecht in zwölf Ausschüssen des Rates und können damit Anliegen junger Menschen unmittelbar in kommunalpolitische Beratungen einbringen.",
-      "sources": [
-        {
-          "name": "Landeshauptstadt Hannover – Erste Jugendparlamentswahl",
-          "url": "https://www.hannover.de/Service/Presse-Medien/Landeshauptstadt-Hannover/Aktuelle-Meldungen-und-Veranstaltungen/Hannovers-erste-Jugendparlamentswahl-21.-26.-September",
-          "type": "primary_official",
-          "date": "2026-09-21",
-          "date_basis": "event_date",
-          "date_status": "verified"
-        }
-      ],
-      "bisheriger_verlauf": [],
-      "unsere_einordnung": null,
-      "council": null,
-      "research_refs": [
-        "R090"
-      ],
-      "ortsbezug": {
-        "display_place": "Beispiel Hannover",
-        "related_places": [
-          "Beispiel Hannover"
-        ],
-        "scope": "societal_democratic_relevance",
-        "verification_status": "verified_2026-09-26"
-      },
-      "relevance": {
-        "type": "societal_democratic_relevance",
-        "why_feldkirchen": "Das Modell zeigt eine institutionalisierte Form kommunaler Jugendbeteiligung mit unmittelbarem Zugang zu politischen Ausschüssen. Es ist ein konkretes Beispiel dafür, wie auch kleinere Kommunen Jugendinteressen verbindlicher in Entscheidungsprozesse einbinden könnten."
-      },
-      "established_topic_refs": [],
-      "stage_update_meta": {
-        "created_at": "2026-09-26",
-        "source_status": "verified_external_relevance_backfill"
-      },
-      "search_tags": [
-        "Jugendbeteiligung",
-        "Jugendparlament",
-        "Demokratie"
-      ]
-    },
-    {
-      "id": "R091",
-      "date": "2026-08-11",
-      "publication_date": "2026-08-11",
-      "category": "Kommunalpolitik & Beteiligung",
-      "topic_candidates": [
-        "Bürgerbudget",
-        "Bürgerbeteiligung",
-        "kommunale Gestaltung"
-      ],
-      "title": "Jena: 102 Vorschläge für das Bürgerbudget 2026",
-      "subtitle": "Für 50.000 Euro Bürgerbudget können Einwohner Projekte vorschlagen und anschließend über zulässige Ideen abstimmen.",
-      "sachinformation": "Beim Bürgerbudget der Stadt Jena sind 2026 insgesamt 102 Vorschläge eingegangen. Für die Umsetzung stehen 50.000 Euro zur Verfügung. Vorschläge müssen unter anderem in der Zuständigkeit der Stadt liegen, der Allgemeinheit dienen, innerhalb von zwei Jahren umsetzbar sein und dürfen höchstens 10.000 Euro je Einzelmaßnahme kosten. Über die zulässigen Vorschläge stimmt die Bevölkerung anschließend ab.",
-      "sources": [
-        {
-          "name": "Stadt Jena – Bürgerbudget 2026: 102 Vorschläge in der Prüfphase",
-          "url": "https://beteiligung.jena.de/de/buergerbudget-2026-102-vorschlaege-der-pruefphase",
-          "type": "primary_official",
-          "date": "2026-08-11",
-          "date_basis": "publication_date",
-          "date_status": "verified"
-        },
-        {
-          "name": "Stadt Jena – Bürgerbudget 2026",
-          "url": "https://beteiligung.jena.de/de/buergerbudget-2026",
-          "type": "primary_official",
-          "date": "2026-06-01",
-          "date_basis": "process_start",
-          "date_status": "verified"
-        }
-      ],
-      "bisheriger_verlauf": [],
-      "unsere_einordnung": null,
-      "council": null,
-      "research_refs": [
-        "R091"
-      ],
-      "ortsbezug": {
-        "display_place": "Beispiel Jena",
-        "related_places": [
-          "Beispiel Jena"
-        ],
-        "scope": "societal_democratic_relevance",
-        "verification_status": "verified_2026-09-26"
-      },
-      "relevance": {
-        "type": "societal_democratic_relevance",
-        "why_feldkirchen": "Ein Bürgerbudget verbindet Beteiligung mit einem realen, begrenzten Entscheidungsspielraum. Das ist für Feldkirchen als mögliches Modell interessant, weil Vorschläge nicht nur gesammelt, sondern nach transparenten Regeln geprüft und anschließend zur Abstimmung gestellt werden."
-      },
-      "established_topic_refs": [],
-      "stage_update_meta": {
-        "created_at": "2026-09-26",
-        "source_status": "verified_external_relevance_backfill"
-      },
-      "search_tags": [
-        "Bürgerbudget",
-        "Bürgerbeteiligung",
-        "kommunale Gestaltung"
-      ]
-    },
-    {
-      "id": "R092",
-      "date": "2026-04-01",
-      "publication_date": "2026-04-01",
-      "category": "Kommunalpolitik & Beteiligung",
-      "topic_candidates": [
-        "Bürgerrat",
-        "Losverfahren",
-        "Bürgerbeteiligung"
-      ],
-      "title": "Aachen institutionalisiert einen ständigen ausgelosten Bürger*innenrat",
-      "subtitle": "56 repräsentativ ausgewählte Einwohner beraten regelmäßig über städtische Themen und geben Empfehlungen an Politik und Verwaltung.",
-      "sachinformation": "Aachen hat einen ständigen Bürger*innenrat eingerichtet. Für die erste Runde wurden Themen aus der Bevölkerung gesammelt; 58 Vorschläge gingen ein, 17 erreichten das vorgesehene Unterstützungsquorum. Der Rat soll aus 56 nach Alter, Bildung und Sozialräumen ausgewählten Einwohnerinnen und Einwohnern bestehen und ein- bis zweimal jährlich zu einem kommunalen Thema beraten. Die Mitglieder werden jährlich neu bestimmt und durch Fachleute unterstützt.",
-      "sources": [
-        {
-          "name": "Stadt Aachen – Bürger*innenrat: sechs Themen stehen zur Wahl",
-          "url": "https://www.aachen.de/buerger-innenbeteiligung/moeglichkeiten-der-beteiligung/buerger-innenrat/news/buerger-innenrat-aachen-sechs-themen-stehen-zur-wahl/",
-          "type": "primary_official",
-          "date": "2026-04-01",
-          "date_basis": "publication_date",
-          "date_status": "verified"
-        }
-      ],
-      "bisheriger_verlauf": [],
-      "unsere_einordnung": null,
-      "council": null,
-      "research_refs": [
-        "R092"
-      ],
-      "ortsbezug": {
-        "display_place": "Beispiel Aachen",
-        "related_places": [
-          "Beispiel Aachen"
-        ],
-        "scope": "societal_democratic_relevance",
-        "verification_status": "verified_2026-09-26"
-      },
-      "relevance": {
-        "type": "societal_democratic_relevance",
-        "why_feldkirchen": "Der ständige, ausgeloste Bürgerrat zeigt eine Möglichkeit, auch Menschen systematisch einzubeziehen, die nicht von sich aus an klassischen Beteiligungsformaten teilnehmen. Für Feldkirchen ist insbesondere die Kombination aus Themenvorschlägen, Losverfahren und nachvollziehbarer Rückkopplung an Politik interessant."
-      },
-      "established_topic_refs": [],
-      "stage_update_meta": {
-        "created_at": "2026-09-26",
-        "source_status": "verified_external_relevance_backfill"
-      },
-      "search_tags": [
-        "Bürgerrat",
-        "Losverfahren",
-        "Bürgerbeteiligung"
       ]
     },
     {
@@ -717,66 +335,57 @@
       ]
     },
     {
-      "id": "R083",
-      "date": "2026-09-17",
-      "publication_date": "2026-09-17",
-      "category": "Kommunalpolitik & Beteiligung",
+      "id": "R095",
+      "date": "2026-09-24",
+      "publication_date": "2026-09-24",
+      "category": "Ortsentwicklung & Bauen",
       "topic_candidates": [
-        "Gemeinderat",
-        "Kinderhaus St. Jakob",
-        "Hitzeschutz",
-        "Betreutes Wohnen",
-        "Bürgerversammlung"
+        "Spielplätze",
+        "Dornacher Feld",
+        "Bauleitplanung",
+        "Flächensparen"
       ],
-      "title": "Gemeinderatssitzung vom 17. September",
-      "subtitle": "Aktualisierung vom 17.09.2026: TOP zum Kinderhaus St. Jakob kurzfristig abgesetzt.",
-      "sachinformation": "Die veröffentlichte Tagesordnung der Gemeinderatssitzung vom 17. September umfasste unter anderem die Straßenbenennung im Green Village, eine Bauvoranfrage für betreutes Wohnen, Hitzeschutzmaßnahmen, den Familienstützpunkt und den Antrag der Grünen-Fraktion zur Bürgerversammlung 2026. Der zunächst vorgesehene TOP 2 zum Kinderhaus St. Jakob entfiel kurzfristig. Zu einzelnen Tagesordnungspunkten liegen inzwischen eigene FIB-Beiträge vor; weiterführende Ergebnisse werden dort beziehungsweise in der Sitzungsübersicht fortgeschrieben.",
+      "search_tags": [
+        "Spielplatz",
+        "Dornacher Feld",
+        "Bebauungsplan 110",
+        "Flächennutzungsplan",
+        "Flächensparen"
+      ],
+      "title": "Spielplatz im Dornacher Feld: Verwaltung empfiehlt Ende der Planung",
+      "subtitle": "Fehlende Flächenverfügbarkeit und die Priorität „Bestand vor Neubau“ sprechen laut zwei Vorlagen gegen die Fortführung der seit 2021/2022 ruhenden Verfahren.",
+      "sachinformation": "Für einen geplanten Spielplatz mit optionalem Bolzplatz im Dornacher Feld empfiehlt die Verwaltung, zwei seit mehreren Jahren ruhende Bauleitplanverfahren einzustellen. Die Gemeinde konnte die benötigten privaten Flächen nicht langfristig sichern; ein vorgesehener Pachtvertrag über 30 Jahre kam nicht zustande. Die Vorlagen verweisen außerdem auf Flächensparziele, mögliche Konflikte mit Landwirtschaft und Naturschutz sowie beim Bolzplatz auf zusätzlichen Lärmschutzbedarf.\n\nNach einer aktuellen Bestandsaufnahme sieht die Verwaltung bereits eine hohe Dichte an Spiel- und Freizeitflächen im Gemeindegebiet. Künftig sollen deshalb vorrangig bestehende gemeindeeigene Spielplätze modernisiert und aufgewertet werden. Über die Einstellung der 17. Flächennutzungsplanänderung und des Bebauungsplans Nr. 110 soll der Gemeinderat am 29. September entscheiden.",
       "sources": [
         {
-          "name": "RIS Feldkirchen – Gemeinderat 17.09.2026",
-          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1029",
+          "name": "RIS Feldkirchen – Beschlussvorlage 5279/2026 (17. Flächennutzungsplanänderung)",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74598&type=do",
           "type": "primary_official",
-          "date": "2026-09-17",
-          "date_basis": "session_date",
+          "date": "2026-09-24",
+          "date_basis": "public_release_in_RIS",
           "date_status": "verified"
         },
         {
-          "name": "Gemeinde Feldkirchen – Eilmeldung: TOP 2 Kinderhaus St. Jakob verschoben",
-          "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/eilmeldung-gemeinderatssitzung-top-2-kinderhaus-sankt-jakob-verschoben",
+          "name": "RIS Feldkirchen – Beschlussvorlage 5280/2026 (Bebauungsplan Nr. 110 Spielplatz)",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74602&type=do",
           "type": "primary_official",
-          "date": "2026-09-17",
-          "date_basis": "publication_date",
+          "date": "2026-09-24",
+          "date_basis": "public_release_in_RIS",
           "date_status": "verified"
-        }
-      ],
-      "bisheriger_verlauf": [
-        {
-          "id": "R006",
-          "date": "2025-10-16",
-          "title": "Planungsstand für das Kinderhaus St. Jakob wird vorgestellt"
         },
         {
-          "id": "C027",
-          "date": "2026-04-30",
-          "title": "Kinderhaus St. Jakob: zusätzliche Hortgruppe und Ausweichcontainer beschlossen"
-        },
-        {
-          "id": "R030",
-          "date": "2026-06-01",
-          "title": "Kinderhaus St. Jakob: Ausweichquartier für rund 100 Kinder"
+          "name": "RIS Feldkirchen – Gemeinderat 29.09.2026",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1073",
+          "type": "primary_official",
+          "date": "2026-09-29",
+          "date_basis": "scheduled_session_date",
+          "date_status": "verified_upcoming"
         }
       ],
-      "updates": [
-        {
-          "date": "2026-09-17",
-          "label": "TOP zum Kinderhaus St. Jakob kurzfristig abgesetzt",
-          "source_type": "primary_official"
-        }
-      ],
+      "bisheriger_verlauf": [],
       "unsere_einordnung": null,
-      "council": "S022",
+      "council": "S023",
       "research_refs": [
-        "R083"
+        "R095"
       ],
       "ortsbezug": {
         "display_place": "Feldkirchen",
@@ -784,20 +393,146 @@
           "Feldkirchen"
         ],
         "scope": "feldkirchen_direct",
-        "verification_status": "verified_2026-09-24"
+        "verification_status": "verified_2026-09-28"
+      },
+      "established_topic_refs": [
+        {
+          "id": "T007",
+          "title": "Spielplätze"
+        }
+      ],
+      "stage_update_meta": {
+        "created_at": "2026-09-28",
+        "source_status": "verified_public_release_2026-09-24_upcoming_session"
+      }
+    },
+    {
+      "id": "R096",
+      "date": "2026-09-24",
+      "publication_date": "2026-09-24",
+      "category": "Ortsentwicklung & Bauen",
+      "topic_candidates": [
+        "Gewerbegebiet Weißenfelder Straße",
+        "Bauleitplanung",
+        "A99",
+        "Flächennutzung"
+      ],
+      "search_tags": [
+        "Bebauungsplan 102",
+        "Weißenfelder Straße",
+        "Gewerbegebiet",
+        "A99",
+        "Lagerflächen",
+        "Bauleitplanung"
+      ],
+      "title": "Gewerbegebiet Weißenfelder Straße: Erweiterungsplanung wird nach Beteiligung angepasst",
+      "subtitle": "Die Planung für zusätzliche Lagerflächen geht in die nächste Runde; Stellungnahmen betreffen unter anderem Verfahren, Eingrünung und die geplante A99-Erweiterung.",
+      "sachinformation": "Die Gemeinde will den Bebauungsplan Nr. 102 an der Weißenfelder Straße teilweise ändern und erweitern, damit ein ansässiger Landschaftsbaubetrieb zusätzliche Lagerflächen nutzen kann. In der frühzeitigen Öffentlichkeitsbeteiligung gingen keine Stellungnahmen ein; zahlreiche Behörden und Träger öffentlicher Belange äußerten sich zum Entwurf.\n\nDie Vorlage sieht mehrere Anpassungen vor. Das Verfahren wird als Regelverfahren fortgeführt und die Bezeichnung in „1. Teiländerung und Erweiterung“ geändert. Im südlichen Bereich entfällt nach Darstellung der Gemeinde eine ursprünglich vorgesehene Schutz- und Leitpflanzung, weil dort die Planungen für die achtstreifige Erweiterung der A99 und die zugehörige Anbauverbotszone berücksichtigt werden. Über die Stellungnahmen und den Billigungsbeschluss soll der Gemeinderat am 29. September entscheiden.",
+      "sources": [
+        {
+          "name": "RIS Feldkirchen – Beschlussvorlage 5154/2026",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=72299&type=do",
+          "type": "primary_official",
+          "date": "2026-09-24",
+          "date_basis": "public_release_in_RIS",
+          "date_status": "verified"
+        },
+        {
+          "name": "RIS Feldkirchen – Gemeinderat 29.09.2026",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1073",
+          "type": "primary_official",
+          "date": "2026-09-29",
+          "date_basis": "scheduled_session_date",
+          "date_status": "verified_upcoming"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": "S023",
+      "research_refs": [
+        "R096"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen",
+        "related_places": [
+          "Feldkirchen"
+        ],
+        "scope": "feldkirchen_direct",
+        "verification_status": "verified_2026-09-28"
+      },
+      "established_topic_refs": [
+        {
+          "id": "T002",
+          "title": "Ortsentwicklung und Bauleitplanung"
+        },
+        {
+          "id": "T012",
+          "title": "A99-Ausbau und M18/EBE4"
+        }
+      ],
+      "stage_update_meta": {
+        "created_at": "2026-09-28",
+        "source_status": "verified_public_release_2026-09-24_upcoming_session"
+      }
+    },
+    {
+      "id": "R086",
+      "date": "2026-09-23",
+      "publication_date": "2026-09-23",
+      "category": "Mobilität & Verkehr",
+      "topic_candidates": [
+        "ADFC",
+        "Radverkehr",
+        "Vereinsförderung"
+      ],
+      "title": "Landkreis will ADFC-Förderung ab 2028 einstellen",
+      "subtitle": "Die Kreisförderung finanziert unter anderem die Vernetzung der ADFC-Ortsgruppen; davon ist auch die gemeinsame Ortsgruppe Aschheim, Feldkirchen, Haar und Kirchheim berührt.",
+      "sachinformation": "Der Ausschuss für Mobilität und Infrastruktur des Landkreises München hat beschlossen, die bisherige Förderung des ADFC 2027 zu reduzieren und ab 2028 einzustellen. Der ADFC hatte zuvor wegen gestiegener Kosten eine Erhöhung beantragt. Nach Angaben des Münchner Merkur wurde der Verband seit 2018 gefördert, zuletzt mit 20.000 Euro jährlich; damit wird unter anderem eine hauptamtliche Koordinatorin finanziert, die die Ortsgruppen im Landkreis vernetzt.\n\nDer ADFC München führt eine gemeinsame Ortsgruppe für Aschheim, Feldkirchen, Haar und Kirchheim. Seine Landkreis-Arbeitsgruppe beschreibt sich zudem als Schnittstelle zum Landratsamt und als Netzwerk der Ortsgruppen.",
+      "sources": [
+        {
+          "name": "Münchner Merkur – Landkreis streicht ADFC-Zuschuss ab 2028",
+          "url": "https://www.merkur.de/lokales/muenchen-lk/adfc-beantragt-mehr-geld-landkreis-muenchen-streicht-foerderung-ab-2028-94505287.html",
+          "type": "press",
+          "date": "2026-09-23",
+          "date_basis": "publication_date",
+          "date_status": "verified"
+        },
+        {
+          "name": "ADFC München – Ortsgruppe Aschheim, Feldkirchen, Haar und Kirchheim",
+          "url": "https://muenchen.adfc.de/artikel/ortsgruppe-aschheim-feldkirchen-haar-und-kirchheim",
+          "type": "organisation",
+          "date": "2026-09-26",
+          "date_basis": "access_date",
+          "date_status": "verified"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": null,
+      "research_refs": [
+        "R086"
+      ],
+      "ortsbezug": {
+        "display_place": "Landkreis München / Feldkirchen",
+        "related_places": [
+          "Landkreis München / Feldkirchen"
+        ],
+        "scope": "extended_relevance",
+        "verification_status": "verified_2026-09-26"
+      },
+      "relevance": {
+        "type": "extended_relevance",
+        "why_feldkirchen": "Die geförderte Kreisstruktur vernetzt auch die ADFC-Ortsgruppe, die Feldkirchen gemeinsam mit Aschheim, Haar und Kirchheim abdeckt. Welche konkreten Leistungen vor Ort durch die Kürzung entfallen könnten, ist noch offen."
       },
       "established_topic_refs": [],
       "stage_update_meta": {
-        "created_at": "2026-09-24",
-        "restored_from_legacy_demo": true,
-        "source_status": "verified"
+        "created_at": "2026-09-26",
+        "source_status": "verified_external_relevance_backfill"
       },
       "search_tags": [
-        "Gemeinderat",
-        "Kinderhaus St. Jakob",
-        "Hitzeschutz",
-        "Betreutes Wohnen",
-        "Bürgerversammlung"
+        "ADFC",
+        "Radverkehr",
+        "Vereinsförderung"
       ]
     },
     {
@@ -981,199 +716,33 @@
       ]
     },
     {
-      "id": "R077",
-      "date": "2026-09-23",
-      "publication_date": "2026-09-23",
-      "category": "Finanzen & Wirtschaft",
-      "topic_candidates": [
-        "Nachtragshaushalt 2026",
-        "Grundstückserwerb",
-        "Gemeindefinanzen"
-      ],
-      "title": "Nachtragshaushalt: Grundstückserwerb verändert Vermögenshaushalt deutlich",
-      "subtitle": "Für einen beabsichtigten Grundstückskauf soll der Gemeinderat am 1. Oktober einen Nachtragshaushalt beschließen.",
-      "sachinformation": "Die Gemeinde hat am 23. September die Unterlagen zum Nachtragshaushalt 2026 öffentlich freigegeben. Anlass ist ein beabsichtigter Grundstückserwerb, für den im ursprünglichen Haushalt keine Mittel vorgesehen waren. Nach der Beschlussvorlage steigt der Vermögenshaushalt gegenüber dem bisherigen Ansatz von 18,6943 auf 27,7393 Millionen Euro. Die Ausgaben werden dabei um 10,3 Millionen Euro erhöht und an anderer Stelle um 1,255 Millionen Euro vermindert. Im Verwaltungshaushalt sinkt der Gesamtansatz auf 44,5408 Millionen Euro. Über die Nachtragshaushaltssatzung soll der Gemeinderat am 1. Oktober entscheiden.",
-      "sources": [
-        {
-          "name": "RIS Feldkirchen – Beschlussvorlage 5350/2026",
-          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75237&type=do",
-          "type": "primary_official",
-          "date": "2026-09-23",
-          "date_basis": "public_release_in_RIS",
-          "date_status": "verified"
-        },
-        {
-          "name": "RIS Feldkirchen – Gemeinderat 01.10.2026",
-          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1030",
-          "type": "primary_official",
-          "date": "2026-10-01",
-          "date_basis": "scheduled_session_date",
-          "date_status": "verified_upcoming"
-        }
-      ],
-      "bisheriger_verlauf": [],
-      "unsere_einordnung": null,
-      "council": "S024",
-      "research_refs": [
-        "R077"
-      ],
-      "ortsbezug": {
-        "display_place": "Feldkirchen",
-        "related_places": [
-          "Feldkirchen"
-        ],
-        "scope": "feldkirchen_direct",
-        "verification_status": "verified_2026-09-24"
-      },
-      "established_topic_refs": [],
-      "stage_update_meta": {
-        "created_at": "2026-09-24",
-        "source_status": "verified_public_release_upcoming_session"
-      },
-      "search_tags": [
-        "Nachtragshaushalt 2026",
-        "Grundstückserwerb",
-        "Gemeindefinanzen"
-      ]
-    },
-    {
-      "id": "R076",
-      "date": "2026-09-15",
-      "publication_date": "2026-09-15",
-      "category": "Sicherheit & Bevölkerungsschutz",
-      "topic_candidates": [
-        "Hundehaltung",
-        "Leinenpflicht",
-        "Dornacher Feld"
-      ],
-      "title": "Nach Hundevorfall: Gemeinde prüft mögliche Leinenpflicht",
-      "subtitle": "Nach einem tödlichen Angriff auf einen Hund im Dornacher Feld hat das Ordnungsamt Maßnahmen eingeleitet; Verwaltung und Gemeinderat wollen die Leinenpflicht grundsätzlich prüfen.",
-      "sachinformation": "Die Gemeinde Feldkirchen berichtete am 15. September über einen Vorfall vom 6. September im Dornacher Feld, bei dem ein Dackel von einem anderen Hund angegriffen und so schwer verletzt wurde, dass er starb. Nach Angaben der Gemeinde wurde das Ordnungsamt am folgenden Tag durch die Polizei informiert und leitete Maßnahmen ein; auch die Halterin des beteiligten Hundes habe reagiert. Die Gemeinde erklärte, es bestehe kein Anlass zu allgemeiner Beunruhigung. Unabhängig vom Einzelfall wollen Verwaltung und Gemeinderat zeitnah prüfen, ob und in welcher Form eine Leinenpflicht für Hunde in Feldkirchen sinnvoll und rechtlich umsetzbar ist.",
-      "sources": [
-        {
-          "name": "Gemeinde Feldkirchen – Pressemitteilung Hundevorfall in Feldkirchen",
-          "url": "https://feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/pressemitteilung-hundevorfall-in-feldkirchen",
-          "type": "primary_official",
-          "date": "2026-09-15",
-          "date_basis": "publication_date",
-          "date_status": "verified"
-        },
-        {
-          "name": "Gemeinde Feldkirchen – Presseinformation Vorfall mit Hunden 15.09.2026",
-          "url": "https://feldkirchen.de/_Resources/Persistent/0/3/7/e/037ec0d6df9b8a5cdcdf41d1b7b98b04c2c554fd/Presseinformation%20Vorfall%20mit%20Hunden%2015092026.pdf",
-          "type": "primary_official_document",
-          "date": "2026-09-15",
-          "date_basis": "document_date",
-          "date_status": "verified"
-        }
-      ],
-      "bisheriger_verlauf": [],
-      "unsere_einordnung": null,
-      "council": null,
-      "research_refs": [
-        "R076"
-      ],
-      "ortsbezug": {
-        "display_place": "Feldkirchen",
-        "related_places": [
-          "Feldkirchen"
-        ],
-        "scope": "feldkirchen_direct",
-        "verification_status": "verified_2026-09-23"
-      },
-      "established_topic_refs": [],
-      "stage_update_meta": {
-        "created_at": "2026-09-23",
-        "source_status": "retroactively_added_from_missed_municipal_news"
-      },
-      "search_tags": [
-        "Hundehaltung",
-        "Leinenpflicht",
-        "Dornacher Feld"
-      ]
-    },
-    {
-      "id": "R075",
-      "date": "2026-09-07",
-      "publication_date": "2026-09-07",
+      "id": "R087",
+      "date": "2026-09-21",
+      "publication_date": "2026-09-21",
       "category": "Mobilität & Verkehr",
       "topic_candidates": [
-        "Radverkehr",
-        "ADFC-Fahrradklima-Test",
-        "Bürgerbeteiligung"
+        "Schulcampus",
+        "Fahrradstraße",
+        "Schulweg"
       ],
-      "title": "Fahrradklima-Test: Feldkirchner können Radverkehr bis Ende November bewerten",
-      "subtitle": "Der ADFC-Fahrradklima-Test 2026 läuft bis 30. November; erstmals gibt es zusätzlich eine eigene Befragung für Kinder und Jugendliche.",
-      "sachinformation": "Die Gemeinde Feldkirchen ruft zur Teilnahme am ADFC-Fahrradklima-Test 2026 auf. Radfahrende können dabei bewerten, wie sicher, komfortabel und attraktiv das Radfahren im Ort ist und wo Verbesserungsbedarf besteht. Die bundesweite Befragung läuft vom 1. September bis 30. November 2026. Neu ist eine eigene Befragung für Kinder und Jugendliche; außerdem können Kommunen ihre Maßnahmen zur Radverkehrsförderung dokumentieren. Die Ergebnisse sollen im Frühjahr 2027 veröffentlicht werden.",
+      "title": "Neue Fahrradstraßen führen zum Schulcampus Aschheim",
+      "subtitle": "Aschheim weist zwei Zufahrten zum neuen Schulcampus als Fahrradstraßen aus; Feldkirchen ist Mitglied des zuständigen Schulzweckverbands.",
+      "sachinformation": "Seit der Eröffnung des neuen Schulcampus Aschheim am 15. September nutzen nach Angaben des Münchner Merkur viele Schülerinnen und Schüler die Sonnenstraße und den Heimstettner Weg mit dem Fahrrad. Der Bau- und Umweltausschuss beschloss deshalb, beide Verbindungen als Fahrradstraßen auszuweisen. Kraftfahrzeuge bleiben zugelassen, die zulässige Höchstgeschwindigkeit beträgt 30 km/h.\n\nDer Schulcampus gehört zum Zweckverband Staatliche weiterführende Schulen im Osten des Landkreises München. Träger sind der Landkreis sowie Aschheim, Feldkirchen und Kirchheim.",
       "sources": [
         {
-          "name": "Gemeinde Feldkirchen – Wie fahrradfreundlich ist Feldkirchen?",
-          "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/wie-fahrradfreundlich-ist-feldkirchen",
-          "type": "primary_official",
-          "date": "2026-09-07",
-          "date_basis": "publication_date",
-          "date_status": "verified"
-        },
-        {
-          "name": "ADFC München – Der große ADFC-Fahrradklima-Test 2026 startet heute",
-          "url": "https://muenchen.adfc.de/pressemitteilung/der-grosse-adfc-fahrradklima-test-2026-startet-heute-2",
-          "type": "association_primary",
-          "date": "2026-09-01",
-          "date_basis": "publication_date",
-          "date_status": "verified"
-        }
-      ],
-      "bisheriger_verlauf": [],
-      "unsere_einordnung": null,
-      "council": null,
-      "research_refs": [
-        "R075"
-      ],
-      "ortsbezug": {
-        "display_place": "Feldkirchen",
-        "related_places": [
-          "Feldkirchen"
-        ],
-        "scope": "feldkirchen_direct",
-        "verification_status": "verified_2026-09-23"
-      },
-      "established_topic_refs": [
-        {
-          "id": "T003",
-          "title": "Radverkehr und Verbindung über die A94"
-        }
-      ],
-      "stage_update_meta": {
-        "created_at": "2026-09-23",
-        "source_status": "retroactively_added_from_missed_municipal_news"
-      },
-      "search_tags": [
-        "Radverkehr",
-        "ADFC-Fahrradklima-Test",
-        "Bürgerbeteiligung"
-      ]
-    },
-    {
-      "id": "R074",
-      "date": "2026-09-19",
-      "publication_date": "2026-09-19",
-      "category": "Mobilität & Verkehr",
-      "topic_candidates": [
-        "B471",
-        "B471 neu",
-        "Ortsumfahrung Feldkirchen",
-        "regionale Verkehrsplanung"
-      ],
-      "title": "„B471 neu“ endgültig verworfen – lokale Entlastungsmaßnahmen rücken in den Mittelpunkt",
-      "subtitle": "Die Machbarkeitsstudie empfiehlt keine der beiden untersuchten durchgehenden Entlastungstrassen zwischen Aschheim und Hohenbrunn.",
-      "sachinformation": "Die über Jahre untersuchte „B471 neu“ als durchgehende Autobahnparallele zwischen Aschheim und Hohenbrunn wird nicht weiterverfolgt. Nach dem Bericht des Münchner Merkur kommt die abgeschlossene Machbarkeitsstudie zu dem Ergebnis, dass keine der beiden untersuchten Varianten als durchgehende Entlastungsstraße empfohlen wird. Die Varianten wurden mit rund 50 beziehungsweise 90 Millionen Euro veranschlagt; dem hohen Aufwand stünde nur eine begrenzte Entlastungswirkung gegenüber.\\n\\nStattdessen sollen kleinere, lokal umsetzbare Maßnahmen entlang der B471 geprüft werden. Für Feldkirchen ist dabei besonders relevant, dass die Gutachter den Ausbau der A99 und die Ortsumfahrung Feldkirchen als weiterzuverfolgende Ansätze nennen. Außerdem werden für Ortsdurchfahrten – soweit rechtlich möglich – niedrigere Geschwindigkeiten, bessere Radverkehrsführungen, sichere Querungen und Bushaltestellen auf der Fahrbahn empfohlen. Der Mobilitätsausschuss des Landkreises beschloss laut Bericht einstimmig, das Gutachten an die beteiligten Kommunen weiterzugeben.",
-      "sources": [
-        {
-          "name": "Münchner Merkur – Autobahnparallele „B471 neu“ ist endgültig vom Tisch",
-          "url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/90-millionen-euro-kaum-nutzen-471-neu-wird-nicht-gebaut-94499321.html",
+          "name": "Münchner Merkur – Aschheim macht zwei Wege zur Fahrradstraße",
+          "url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/1070-schueler-draengen-auf-die-strasse-aschheim-macht-zwei-wege-zur-fahrradstrasse-94501122.html",
           "type": "press",
-          "date": "2026-09-19",
+          "date": "2026-09-21",
           "date_basis": "publication_date",
+          "date_status": "verified"
+        },
+        {
+          "name": "Zweckverband Staatliche weiterführende Schulen im Osten des Landkreises München",
+          "url": "https://szv-mo.de/",
+          "type": "primary_official",
+          "date": "2026-09-26",
+          "date_basis": "access_date",
           "date_status": "verified"
         }
       ],
@@ -1181,28 +750,81 @@
       "unsere_einordnung": null,
       "council": null,
       "research_refs": [
-        "R074"
+        "R087"
       ],
       "ortsbezug": {
-        "display_place": "Region München Ost / Feldkirchen",
+        "display_place": "Aschheim / Feldkirchen",
         "related_places": [
-          "Feldkirchen",
-          "Aschheim",
-          "Hohenbrunn"
+          "Aschheim / Feldkirchen"
         ],
-        "scope": "regional_with_direct_feldkirchen_relevance",
-        "verification_status": "verified_2026-09-21"
+        "scope": "extended_relevance",
+        "verification_status": "verified_2026-09-26"
+      },
+      "relevance": {
+        "type": "extended_relevance",
+        "why_feldkirchen": "Der Schulcampus wird von einem Zweckverband getragen, dem Feldkirchen angehört. Die sichere Raderschließung betrifft damit eine Bildungsinfrastruktur, die auch für Feldkirchner Schülerinnen und Schüler vorgesehen ist."
       },
       "established_topic_refs": [],
       "stage_update_meta": {
-        "created_at": "2026-09-21",
-        "source_status": "verified_press_report"
+        "created_at": "2026-09-26",
+        "source_status": "verified_external_relevance_backfill"
       },
       "search_tags": [
-        "B471",
-        "B471 neu",
-        "Ortsumfahrung Feldkirchen",
-        "regionale Verkehrsplanung"
+        "Schulcampus",
+        "Fahrradstraße",
+        "Schulweg"
+      ]
+    },
+    {
+      "id": "R090",
+      "date": "2026-09-21",
+      "publication_date": "2026-09-21",
+      "category": "Kommunalpolitik & Beteiligung",
+      "topic_candidates": [
+        "Jugendbeteiligung",
+        "Jugendparlament",
+        "Demokratie"
+      ],
+      "title": "Hannover wählt erstmals ein Jugendparlament",
+      "subtitle": "25 gewählte Jugendliche erhalten Antrags- und Rederecht in zwölf Ausschüssen des Stadtrats.",
+      "sachinformation": "In Hannover findet vom 21. bis 26. September 2026 erstmals die Wahl zu einem Jugendparlament statt. 63 Kandidierende treten für 25 Plätze an. Wahlberechtigt sind junge Menschen von zwölf bis 20 Jahren. Die gewählten Mitglieder erhalten nach Angaben der Stadt Antrags- und Rederecht in zwölf Ausschüssen des Rates und können damit Anliegen junger Menschen unmittelbar in kommunalpolitische Beratungen einbringen.",
+      "sources": [
+        {
+          "name": "Landeshauptstadt Hannover – Erste Jugendparlamentswahl",
+          "url": "https://www.hannover.de/Service/Presse-Medien/Landeshauptstadt-Hannover/Aktuelle-Meldungen-und-Veranstaltungen/Hannovers-erste-Jugendparlamentswahl-21.-26.-September",
+          "type": "primary_official",
+          "date": "2026-09-21",
+          "date_basis": "event_date",
+          "date_status": "verified"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": null,
+      "research_refs": [
+        "R090"
+      ],
+      "ortsbezug": {
+        "display_place": "Beispiel Hannover",
+        "related_places": [
+          "Beispiel Hannover"
+        ],
+        "scope": "societal_democratic_relevance",
+        "verification_status": "verified_2026-09-26"
+      },
+      "relevance": {
+        "type": "societal_democratic_relevance",
+        "why_feldkirchen": "Das Modell zeigt eine institutionalisierte Form kommunaler Jugendbeteiligung mit unmittelbarem Zugang zu politischen Ausschüssen. Es ist ein konkretes Beispiel dafür, wie auch kleinere Kommunen Jugendinteressen verbindlicher in Entscheidungsprozesse einbinden könnten."
+      },
+      "established_topic_refs": [],
+      "stage_update_meta": {
+        "created_at": "2026-09-26",
+        "source_status": "verified_external_relevance_backfill"
+      },
+      "search_tags": [
+        "Jugendbeteiligung",
+        "Jugendparlament",
+        "Demokratie"
       ]
     },
     {
@@ -1275,54 +897,118 @@
       ]
     },
     {
-      "id": "R069",
-      "date": "2026-09-15",
-      "publication_date": "2026-09-15",
-      "category": "Natur & Umwelt",
+      "id": "R074",
+      "date": "2026-09-19",
+      "publication_date": "2026-09-19",
+      "category": "Mobilität & Verkehr",
       "topic_candidates": [
-        "Hundewiese",
-        "Grünfläche östlich des Friedhofs"
+        "B471",
+        "B471 neu",
+        "Ortsumfahrung Feldkirchen",
+        "regionale Verkehrsplanung"
       ],
-      "title": "Hundewiese: Neue Vorlage nennt Schallschutzkosten und Park-Alternative",
-      "subtitle": "Die öffentlich freigegebene Vorlage konkretisiert Schallschutz, Kosten und Betriebsfragen und stellt einer eingezäunten Hundewiese eine offene Park- und Freilauffläche als Alternative gegenüber.",
-      "sachinformation": "Der Gemeinderat hatte am 26. März 2026 mehrheitlich beschlossen, an einer Hundewiese östlich des Friedhofs festzuhalten und dafür etwa 1.000 m² vorzusehen. Die schalltechnische Untersuchung kam anschließend zu dem Ergebnis, dass eine uneingeschränkte Nutzung ohne Schutzmaßnahmen nicht möglich wäre. Vorgesehen wären unter anderem eine auf etwa 85 × 12 Meter zugeschnittene Fläche, zeitliche Nutzungsbeschränkungen und eine rund 50 Meter lange sowie 1,5 Meter hohe schalldichte Abschirmung. Für diese Abschirmung nennt die Verwaltung nach einer Markterkundung Angebote von etwa 15.200 bis 30.000 Euro; ein deutlich höheres Angebot lag bei rund 115.000 Euro.\n\nZusätzlich zu den Investitionskosten nennt die Vorlage offene Betriebsfragen: Wer die Anlage täglich auf- und zusperrt, wie die Nutzungszeiten kontrolliert und Verstöße behandelt werden, ist noch nicht geklärt. Die Verwaltung weist außerdem darauf hin, dass ihr keine belastbaren Zahlen zum konkreten Bedarf einer Hundewiese vorliegen; im Gemeindegebiet sind 372 Hunde gemeldet.\n\nDie Vorlage dokumentiert zugleich Einwände aus der Bürgerschaft, insbesondere der Initiative „Lebenswertes Feldkirchen – Pfoten weg vom Wohngebiet“. Diese betreffen unter anderem Bedarf, Kosten, Nähe zu Wohnbebauung und Friedhof, Nutzung durch Kinder sowie zusätzlichen Parkdruck. Die Verwaltung beantwortet einzelne Punkte, ohne damit die politische Abwägung vorwegzunehmen.\n\nAls Alternative wird die Prüfung einer offenen Park- und Freilauffläche beschrieben, in die auch Hundebesitzer einbezogen werden könnten. Genannt werden als mögliche Gestaltungselemente unter anderem Tiny Forest, Biodiversitätsgarten und ein öffentlicher Trinkwasserbrunnen. Dabei handelt es sich um eine Prüf- und Gestaltungsoption, nicht um eine bereits beschlossene Planung.\n\nDie fortgeschriebene Beschlussvorlage wurde im RIS öffentlich freigegeben. Ein zugehöriger Tagesordnungspunkt bzw. bestätigter Sitzungstermin ist in der veröffentlichten Tagesordnung derzeit nicht nachgewiesen.",
+      "title": "„B471 neu“ endgültig verworfen – lokale Entlastungsmaßnahmen rücken in den Mittelpunkt",
+      "subtitle": "Die Machbarkeitsstudie empfiehlt keine der beiden untersuchten durchgehenden Entlastungstrassen zwischen Aschheim und Hohenbrunn.",
+      "sachinformation": "Die über Jahre untersuchte „B471 neu“ als durchgehende Autobahnparallele zwischen Aschheim und Hohenbrunn wird nicht weiterverfolgt. Nach dem Bericht des Münchner Merkur kommt die abgeschlossene Machbarkeitsstudie zu dem Ergebnis, dass keine der beiden untersuchten Varianten als durchgehende Entlastungsstraße empfohlen wird. Die Varianten wurden mit rund 50 beziehungsweise 90 Millionen Euro veranschlagt; dem hohen Aufwand stünde nur eine begrenzte Entlastungswirkung gegenüber.\\n\\nStattdessen sollen kleinere, lokal umsetzbare Maßnahmen entlang der B471 geprüft werden. Für Feldkirchen ist dabei besonders relevant, dass die Gutachter den Ausbau der A99 und die Ortsumfahrung Feldkirchen als weiterzuverfolgende Ansätze nennen. Außerdem werden für Ortsdurchfahrten – soweit rechtlich möglich – niedrigere Geschwindigkeiten, bessere Radverkehrsführungen, sichere Querungen und Bushaltestellen auf der Fahrbahn empfohlen. Der Mobilitätsausschuss des Landkreises beschloss laut Bericht einstimmig, das Gutachten an die beteiligten Kommunen weiterzugeben.",
       "sources": [
         {
-          "name": "RIS Feldkirchen – Beschlussvorlage 5283/2026",
-          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74647&type=do",
+          "name": "Münchner Merkur – Autobahnparallele „B471 neu“ ist endgültig vom Tisch",
+          "url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/90-millionen-euro-kaum-nutzen-471-neu-wird-nicht-gebaut-94499321.html",
+          "type": "press",
+          "date": "2026-09-19",
+          "date_basis": "publication_date",
+          "date_status": "verified"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": null,
+      "research_refs": [
+        "R074"
+      ],
+      "ortsbezug": {
+        "display_place": "Region München Ost / Feldkirchen",
+        "related_places": [
+          "Feldkirchen",
+          "Aschheim",
+          "Hohenbrunn"
+        ],
+        "scope": "regional_with_direct_feldkirchen_relevance",
+        "verification_status": "verified_2026-09-21"
+      },
+      "established_topic_refs": [],
+      "stage_update_meta": {
+        "created_at": "2026-09-21",
+        "source_status": "verified_press_report"
+      },
+      "search_tags": [
+        "B471",
+        "B471 neu",
+        "Ortsumfahrung Feldkirchen",
+        "regionale Verkehrsplanung"
+      ]
+    },
+    {
+      "id": "R083",
+      "date": "2026-09-17",
+      "publication_date": "2026-09-17",
+      "category": "Kommunalpolitik & Beteiligung",
+      "topic_candidates": [
+        "Gemeinderat",
+        "Kinderhaus St. Jakob",
+        "Hitzeschutz",
+        "Betreutes Wohnen",
+        "Bürgerversammlung"
+      ],
+      "title": "Gemeinderatssitzung vom 17. September",
+      "subtitle": "Aktualisierung vom 17.09.2026: TOP zum Kinderhaus St. Jakob kurzfristig abgesetzt.",
+      "sachinformation": "Die veröffentlichte Tagesordnung der Gemeinderatssitzung vom 17. September umfasste unter anderem die Straßenbenennung im Green Village, eine Bauvoranfrage für betreutes Wohnen, Hitzeschutzmaßnahmen, den Familienstützpunkt und den Antrag der Grünen-Fraktion zur Bürgerversammlung 2026. Der zunächst vorgesehene TOP 2 zum Kinderhaus St. Jakob entfiel kurzfristig. Zu einzelnen Tagesordnungspunkten liegen inzwischen eigene FIB-Beiträge vor; weiterführende Ergebnisse werden dort beziehungsweise in der Sitzungsübersicht fortgeschrieben.",
+      "sources": [
+        {
+          "name": "RIS Feldkirchen – Gemeinderat 17.09.2026",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1029",
           "type": "primary_official",
-          "date": "2026-09-15",
-          "date_basis": "public_release_in_RIS",
+          "date": "2026-09-17",
+          "date_basis": "session_date",
           "date_status": "verified"
         },
         {
-          "name": "RIS Feldkirchen – Dokumente mit Freigabe",
-          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/do0040.asp?smcadat=2461011",
-          "type": "primary_official_index",
-          "date": "2026-09-15",
-          "date_basis": "RIS_release_listing",
-          "date_status": "verified"
-        },
-        {
-          "name": "RIS Feldkirchen – öffentliche Niederschrift Gemeinderat 23.07.2026",
-          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74927&type=do",
-          "type": "primary_official_minutes",
-          "date": "2026-09-22",
-          "date_basis": "public_release_in_RIS",
+          "name": "Gemeinde Feldkirchen – Eilmeldung: TOP 2 Kinderhaus St. Jakob verschoben",
+          "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/eilmeldung-gemeinderatssitzung-top-2-kinderhaus-sankt-jakob-verschoben",
+          "type": "primary_official",
+          "date": "2026-09-17",
+          "date_basis": "publication_date",
           "date_status": "verified"
         }
       ],
       "bisheriger_verlauf": [
         {
-          "id": "S020-T05",
-          "date": "2026-07-23",
-          "title": "Gemeinderat berät Schallgutachten; weitere Beratung wird bis zur Ermittlung der Schallschutzkosten zurückgestellt, eine Abstimmung erfolgt nicht."
+          "id": "R006",
+          "date": "2025-10-16",
+          "title": "Planungsstand für das Kinderhaus St. Jakob wird vorgestellt"
+        },
+        {
+          "id": "C027",
+          "date": "2026-04-30",
+          "title": "Kinderhaus St. Jakob: zusätzliche Hortgruppe und Ausweichcontainer beschlossen"
+        },
+        {
+          "id": "R030",
+          "date": "2026-06-01",
+          "title": "Kinderhaus St. Jakob: Ausweichquartier für rund 100 Kinder"
         }
       ],
-      "unsere_einordnung": "Positiv ist zunächst, wie ausführlich die Verwaltung den Stand der Diskussion dokumentiert. Die Vorlage macht Gutachten, Kosten und praktische Betriebsfragen sichtbar, greift Einwände aus der Bürgerschaft auf und stellt verschiedene Nutzungsmöglichkeiten gegenüber. Gerade bei einem kontroversen lokalen Thema schafft eine solche transparente Entscheidungsgrundlage gute Voraussetzungen dafür, unterschiedliche Interessen nachvollziehen und abwägen zu können.\n\nAuch die von der Verwaltung eingebrachte Alternative verdient aus grüner Sicht Aufmerksamkeit. Eine offen zugängliche Grünfläche, die beispielsweise einen Tiny Forest, einen Biodiversitätsgarten und einen Trinkwasserbrunnen miteinander verbindet und zugleich Möglichkeiten für Hundehalter berücksichtigt, könnte mehrere Funktionen auf derselben Fläche zusammenbringen: Erholung und Begegnung, Artenvielfalt und Klimaanpassung. Solche Grünflächen, Bäume, Biodiversitätsmaßnahmen und Trinkbrunnen entsprechen wichtigen Zielen grüner Kommunalpolitik.\n\nDamit ist noch keine Entscheidung über die konkrete Gestaltung der Fläche vorweggenommen. Entscheidend wäre, die unterschiedlichen Nutzungsinteressen und die ökologischen Möglichkeiten in der weiteren Planung gemeinsam zu betrachten.",
-      "council": null,
+      "updates": [
+        {
+          "date": "2026-09-17",
+          "label": "TOP zum Kinderhaus St. Jakob kurzfristig abgesetzt",
+          "source_type": "primary_official"
+        }
+      ],
+      "unsere_einordnung": null,
+      "council": "S022",
       "research_refs": [
-        "R069"
+        "R083"
       ],
       "ortsbezug": {
         "display_place": "Feldkirchen",
@@ -1330,26 +1016,20 @@
           "Feldkirchen"
         ],
         "scope": "feldkirchen_direct",
-        "verification_status": "verified_2026-09-20"
+        "verification_status": "verified_2026-09-24"
       },
       "established_topic_refs": [],
       "stage_update_meta": {
-        "created_at": "2026-09-20",
-        "source_status": "verified_public_release_without_confirmed_agenda_item",
-        "corrected_at": "2026-09-20",
-        "updated_at": "2026-09-23",
-        "history_confirmed_by_minutes": true
-      },
-      "einordnung_meta": {
-        "basis": "RIS-Beschlussvorlage 5283/2026; GRÜNE Bayern Kommunalwahl-Leitlinien 2026",
-        "editorial_status": "selected_contribution_assessment",
-        "reference_urls": [
-          "https://www.gruene-bayern.de/dateien/Leitlinien-zur-Kommunalwahl-26_Deutsch.pdf"
-        ]
+        "created_at": "2026-09-24",
+        "restored_from_legacy_demo": true,
+        "source_status": "verified"
       },
       "search_tags": [
-        "Hundewiese",
-        "Grünfläche östlich des Friedhofs"
+        "Gemeinderat",
+        "Kinderhaus St. Jakob",
+        "Hitzeschutz",
+        "Betreutes Wohnen",
+        "Bürgerversammlung"
       ]
     },
     {
@@ -1491,6 +1171,140 @@
       ]
     },
     {
+      "id": "R076",
+      "date": "2026-09-15",
+      "publication_date": "2026-09-15",
+      "category": "Sicherheit & Bevölkerungsschutz",
+      "topic_candidates": [
+        "Hundehaltung",
+        "Leinenpflicht",
+        "Dornacher Feld"
+      ],
+      "title": "Nach Hundevorfall: Gemeinde prüft mögliche Leinenpflicht",
+      "subtitle": "Nach einem tödlichen Angriff auf einen Hund im Dornacher Feld hat das Ordnungsamt Maßnahmen eingeleitet; Verwaltung und Gemeinderat wollen die Leinenpflicht grundsätzlich prüfen.",
+      "sachinformation": "Die Gemeinde Feldkirchen berichtete am 15. September über einen Vorfall vom 6. September im Dornacher Feld, bei dem ein Dackel von einem anderen Hund angegriffen und so schwer verletzt wurde, dass er starb. Nach Angaben der Gemeinde wurde das Ordnungsamt am folgenden Tag durch die Polizei informiert und leitete Maßnahmen ein; auch die Halterin des beteiligten Hundes habe reagiert. Die Gemeinde erklärte, es bestehe kein Anlass zu allgemeiner Beunruhigung. Unabhängig vom Einzelfall wollen Verwaltung und Gemeinderat zeitnah prüfen, ob und in welcher Form eine Leinenpflicht für Hunde in Feldkirchen sinnvoll und rechtlich umsetzbar ist.",
+      "sources": [
+        {
+          "name": "Gemeinde Feldkirchen – Pressemitteilung Hundevorfall in Feldkirchen",
+          "url": "https://feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/pressemitteilung-hundevorfall-in-feldkirchen",
+          "type": "primary_official",
+          "date": "2026-09-15",
+          "date_basis": "publication_date",
+          "date_status": "verified"
+        },
+        {
+          "name": "Gemeinde Feldkirchen – Presseinformation Vorfall mit Hunden 15.09.2026",
+          "url": "https://feldkirchen.de/_Resources/Persistent/0/3/7/e/037ec0d6df9b8a5cdcdf41d1b7b98b04c2c554fd/Presseinformation%20Vorfall%20mit%20Hunden%2015092026.pdf",
+          "type": "primary_official_document",
+          "date": "2026-09-15",
+          "date_basis": "document_date",
+          "date_status": "verified"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": null,
+      "research_refs": [
+        "R076"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen",
+        "related_places": [
+          "Feldkirchen"
+        ],
+        "scope": "feldkirchen_direct",
+        "verification_status": "verified_2026-09-23"
+      },
+      "established_topic_refs": [],
+      "stage_update_meta": {
+        "created_at": "2026-09-23",
+        "source_status": "retroactively_added_from_missed_municipal_news"
+      },
+      "search_tags": [
+        "Hundehaltung",
+        "Leinenpflicht",
+        "Dornacher Feld"
+      ]
+    },
+    {
+      "id": "R069",
+      "date": "2026-09-15",
+      "publication_date": "2026-09-15",
+      "category": "Natur & Umwelt",
+      "topic_candidates": [
+        "Hundewiese",
+        "Grünfläche östlich des Friedhofs"
+      ],
+      "title": "Hundewiese: Neue Vorlage nennt Schallschutzkosten und Park-Alternative",
+      "subtitle": "Die öffentlich freigegebene Vorlage konkretisiert Schallschutz, Kosten und Betriebsfragen und stellt einer eingezäunten Hundewiese eine offene Park- und Freilauffläche als Alternative gegenüber.",
+      "sachinformation": "Der Gemeinderat hatte am 26. März 2026 mehrheitlich beschlossen, an einer Hundewiese östlich des Friedhofs festzuhalten und dafür etwa 1.000 m² vorzusehen. Die schalltechnische Untersuchung kam anschließend zu dem Ergebnis, dass eine uneingeschränkte Nutzung ohne Schutzmaßnahmen nicht möglich wäre. Vorgesehen wären unter anderem eine auf etwa 85 × 12 Meter zugeschnittene Fläche, zeitliche Nutzungsbeschränkungen und eine rund 50 Meter lange sowie 1,5 Meter hohe schalldichte Abschirmung. Für diese Abschirmung nennt die Verwaltung nach einer Markterkundung Angebote von etwa 15.200 bis 30.000 Euro; ein deutlich höheres Angebot lag bei rund 115.000 Euro.\n\nZusätzlich zu den Investitionskosten nennt die Vorlage offene Betriebsfragen: Wer die Anlage täglich auf- und zusperrt, wie die Nutzungszeiten kontrolliert und Verstöße behandelt werden, ist noch nicht geklärt. Die Verwaltung weist außerdem darauf hin, dass ihr keine belastbaren Zahlen zum konkreten Bedarf einer Hundewiese vorliegen; im Gemeindegebiet sind 372 Hunde gemeldet.\n\nDie Vorlage dokumentiert zugleich Einwände aus der Bürgerschaft, insbesondere der Initiative „Lebenswertes Feldkirchen – Pfoten weg vom Wohngebiet“. Diese betreffen unter anderem Bedarf, Kosten, Nähe zu Wohnbebauung und Friedhof, Nutzung durch Kinder sowie zusätzlichen Parkdruck. Die Verwaltung beantwortet einzelne Punkte, ohne damit die politische Abwägung vorwegzunehmen.\n\nAls Alternative wird die Prüfung einer offenen Park- und Freilauffläche beschrieben, in die auch Hundebesitzer einbezogen werden könnten. Genannt werden als mögliche Gestaltungselemente unter anderem Tiny Forest, Biodiversitätsgarten und ein öffentlicher Trinkwasserbrunnen. Dabei handelt es sich um eine Prüf- und Gestaltungsoption, nicht um eine bereits beschlossene Planung.\n\nDie fortgeschriebene Beschlussvorlage wurde im RIS öffentlich freigegeben. Ein zugehöriger Tagesordnungspunkt bzw. bestätigter Sitzungstermin ist in der veröffentlichten Tagesordnung derzeit nicht nachgewiesen.",
+      "sources": [
+        {
+          "name": "RIS Feldkirchen – Beschlussvorlage 5283/2026",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74647&type=do",
+          "type": "primary_official",
+          "date": "2026-09-15",
+          "date_basis": "public_release_in_RIS",
+          "date_status": "verified"
+        },
+        {
+          "name": "RIS Feldkirchen – Dokumente mit Freigabe",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/do0040.asp?smcadat=2461011",
+          "type": "primary_official_index",
+          "date": "2026-09-15",
+          "date_basis": "RIS_release_listing",
+          "date_status": "verified"
+        },
+        {
+          "name": "RIS Feldkirchen – öffentliche Niederschrift Gemeinderat 23.07.2026",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74927&type=do",
+          "type": "primary_official_minutes",
+          "date": "2026-09-22",
+          "date_basis": "public_release_in_RIS",
+          "date_status": "verified"
+        }
+      ],
+      "bisheriger_verlauf": [
+        {
+          "id": "S020-T05",
+          "date": "2026-07-23",
+          "title": "Gemeinderat berät Schallgutachten; weitere Beratung wird bis zur Ermittlung der Schallschutzkosten zurückgestellt, eine Abstimmung erfolgt nicht."
+        }
+      ],
+      "unsere_einordnung": "Positiv ist zunächst, wie ausführlich die Verwaltung den Stand der Diskussion dokumentiert. Die Vorlage macht Gutachten, Kosten und praktische Betriebsfragen sichtbar, greift Einwände aus der Bürgerschaft auf und stellt verschiedene Nutzungsmöglichkeiten gegenüber. Gerade bei einem kontroversen lokalen Thema schafft eine solche transparente Entscheidungsgrundlage gute Voraussetzungen dafür, unterschiedliche Interessen nachvollziehen und abwägen zu können.\n\nAuch die von der Verwaltung eingebrachte Alternative verdient aus grüner Sicht Aufmerksamkeit. Eine offen zugängliche Grünfläche, die beispielsweise einen Tiny Forest, einen Biodiversitätsgarten und einen Trinkwasserbrunnen miteinander verbindet und zugleich Möglichkeiten für Hundehalter berücksichtigt, könnte mehrere Funktionen auf derselben Fläche zusammenbringen: Erholung und Begegnung, Artenvielfalt und Klimaanpassung. Solche Grünflächen, Bäume, Biodiversitätsmaßnahmen und Trinkbrunnen entsprechen wichtigen Zielen grüner Kommunalpolitik.\n\nDamit ist noch keine Entscheidung über die konkrete Gestaltung der Fläche vorweggenommen. Entscheidend wäre, die unterschiedlichen Nutzungsinteressen und die ökologischen Möglichkeiten in der weiteren Planung gemeinsam zu betrachten.",
+      "council": null,
+      "research_refs": [
+        "R069"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen",
+        "related_places": [
+          "Feldkirchen"
+        ],
+        "scope": "feldkirchen_direct",
+        "verification_status": "verified_2026-09-20"
+      },
+      "established_topic_refs": [],
+      "stage_update_meta": {
+        "created_at": "2026-09-20",
+        "source_status": "verified_public_release_without_confirmed_agenda_item",
+        "corrected_at": "2026-09-20",
+        "updated_at": "2026-09-23",
+        "history_confirmed_by_minutes": true
+      },
+      "einordnung_meta": {
+        "basis": "RIS-Beschlussvorlage 5283/2026; GRÜNE Bayern Kommunalwahl-Leitlinien 2026",
+        "editorial_status": "selected_contribution_assessment",
+        "reference_urls": [
+          "https://www.gruene-bayern.de/dateien/Leitlinien-zur-Kommunalwahl-26_Deutsch.pdf"
+        ]
+      },
+      "search_tags": [
+        "Hundewiese",
+        "Grünfläche östlich des Friedhofs"
+      ]
+    },
+    {
       "id": "R072",
       "date": "2026-09-11",
       "publication_date": null,
@@ -1574,6 +1388,58 @@
       ]
     },
     {
+      "id": "R089",
+      "date": "2026-09-10",
+      "publication_date": "2026-09-10",
+      "category": "Wohnen & Ortsentwicklung",
+      "topic_candidates": [
+        "Wohnungsbau",
+        "Modulbau",
+        "bezahlbares Wohnen"
+      ],
+      "title": "Aschheim baut 24 bezahlbare Wohnungen in modularer Bauweise",
+      "subtitle": "Ein kommunal beeinflusstes Pilotprojekt kombiniert kurze Bauzeit, Belegungsrechte und eine angekündigte Miete von 12,50 Euro pro Quadratmeter.",
+      "sachinformation": "In Aschheim werden 24 barrierefreie Wohnungen aus vorgefertigten Betonmodulen errichtet. Nach Angaben des Münchner Merkur soll die Bauzeit vom Spatenstich bis zum Einzug rund acht Monate betragen. Die Gemeinde hat langfristige Vorschlagsrechte für die Mieter; als Zielmiete werden 12,50 Euro pro Quadratmeter genannt. Das Projekt wird von der Baugesellschaft München Land umgesetzt.",
+      "sources": [
+        {
+          "name": "Münchner Merkur – Aschheim baut 24 günstige Wohnungen in nur acht Monaten",
+          "url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/aschheim-baut-24-guenstige-wohnungen-in-nur-acht-monaten-94482942.html",
+          "type": "press",
+          "date": "2026-09-10",
+          "date_basis": "publication_date",
+          "date_status": "verified"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": null,
+      "research_refs": [
+        "R089"
+      ],
+      "ortsbezug": {
+        "display_place": "Aschheim",
+        "related_places": [
+          "Aschheim"
+        ],
+        "scope": "extended_relevance",
+        "verification_status": "verified_2026-09-26"
+      },
+      "relevance": {
+        "type": "extended_relevance",
+        "why_feldkirchen": "Feldkirchen beschäftigt sich ebenfalls mit Wohnungsbau und kommunalen Gestaltungsmöglichkeiten. Das Aschheimer Projekt ist ein konkreter regionaler Vergleichsfall dafür, wie Kommune und kommunale Baugesellschaft Bauzeit, Belegungsrechte und Mietniveau beeinflussen können."
+      },
+      "established_topic_refs": [],
+      "stage_update_meta": {
+        "created_at": "2026-09-26",
+        "source_status": "verified_external_relevance_backfill"
+      },
+      "search_tags": [
+        "Wohnungsbau",
+        "Modulbau",
+        "bezahlbares Wohnen"
+      ]
+    },
+    {
       "id": "R068",
       "date": "2026-09-09",
       "publication_date": "2026-09-09",
@@ -1648,6 +1514,119 @@
       },
       "search_tags": [
         "Parkraumkonzept"
+      ]
+    },
+    {
+      "id": "R088",
+      "date": "2026-09-07",
+      "publication_date": "2026-09-07",
+      "category": "Mobilität & Verkehr",
+      "topic_candidates": [
+        "Autonomes Fahren",
+        "On-Demand",
+        "ÖPNV"
+      ],
+      "title": "München testet autonome On-Demand-Fahrzeuge im öffentlichen Straßenraum",
+      "subtitle": "MVG und IAV starten einen Test mit drei autonom fahrenden Fahrzeugen; ein späterer Fahrgastbetrieb wird ausdrücklich mitgedacht.",
+      "sachinformation": "Die Stadtwerke München, die Münchner Verkehrsgesellschaft und IAV testen im Forschungsprojekt MINGA drei autonom fahrende VW ID. Buzz im öffentlichen Straßenraum. Der Test startet ohne Fahrgäste und mit Sicherheitsfahrpersonal. Nach Angaben der MVG werden neben der Technik bereits Anforderungen eines späteren Fahrgastbetriebs untersucht, darunter Fahrgastinformation, Sicherheitskonzept und die Einbindung in Betrieb und Leitstelle.",
+      "sources": [
+        {
+          "name": "SWM/MVG – Autonome On-Demand-Fahrzeuge für München",
+          "url": "https://www.swm.de/unternehmen/presse/pressemitteilungen/2026/09-2026/mvg-autonome-fahrzeuge-testbetrieb-startet-minga-iav",
+          "type": "primary_official",
+          "date": "2026-09-07",
+          "date_basis": "publication_date",
+          "date_status": "verified"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": null,
+      "research_refs": [
+        "R088"
+      ],
+      "ortsbezug": {
+        "display_place": "München / Feldkirchen",
+        "related_places": [
+          "München / Feldkirchen"
+        ],
+        "scope": "extended_relevance",
+        "verification_status": "verified_2026-09-26"
+      },
+      "relevance": {
+        "type": "extended_relevance",
+        "why_feldkirchen": "Für Feldkirchen besteht noch keine unmittelbare Wirkung. Als eng mit München verflochtene Umlandgemeinde kann jedoch relevant werden, ob autonome On-Demand-Angebote später in regionale ÖPNV- und letzte-Meile-Angebote einbezogen werden."
+      },
+      "established_topic_refs": [],
+      "stage_update_meta": {
+        "created_at": "2026-09-26",
+        "source_status": "verified_external_relevance_backfill"
+      },
+      "search_tags": [
+        "Autonomes Fahren",
+        "On-Demand",
+        "ÖPNV"
+      ]
+    },
+    {
+      "id": "R075",
+      "date": "2026-09-07",
+      "publication_date": "2026-09-07",
+      "category": "Mobilität & Verkehr",
+      "topic_candidates": [
+        "Radverkehr",
+        "ADFC-Fahrradklima-Test",
+        "Bürgerbeteiligung"
+      ],
+      "title": "Fahrradklima-Test: Feldkirchner können Radverkehr bis Ende November bewerten",
+      "subtitle": "Der ADFC-Fahrradklima-Test 2026 läuft bis 30. November; erstmals gibt es zusätzlich eine eigene Befragung für Kinder und Jugendliche.",
+      "sachinformation": "Die Gemeinde Feldkirchen ruft zur Teilnahme am ADFC-Fahrradklima-Test 2026 auf. Radfahrende können dabei bewerten, wie sicher, komfortabel und attraktiv das Radfahren im Ort ist und wo Verbesserungsbedarf besteht. Die bundesweite Befragung läuft vom 1. September bis 30. November 2026. Neu ist eine eigene Befragung für Kinder und Jugendliche; außerdem können Kommunen ihre Maßnahmen zur Radverkehrsförderung dokumentieren. Die Ergebnisse sollen im Frühjahr 2027 veröffentlicht werden.",
+      "sources": [
+        {
+          "name": "Gemeinde Feldkirchen – Wie fahrradfreundlich ist Feldkirchen?",
+          "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/wie-fahrradfreundlich-ist-feldkirchen",
+          "type": "primary_official",
+          "date": "2026-09-07",
+          "date_basis": "publication_date",
+          "date_status": "verified"
+        },
+        {
+          "name": "ADFC München – Der große ADFC-Fahrradklima-Test 2026 startet heute",
+          "url": "https://muenchen.adfc.de/pressemitteilung/der-grosse-adfc-fahrradklima-test-2026-startet-heute-2",
+          "type": "association_primary",
+          "date": "2026-09-01",
+          "date_basis": "publication_date",
+          "date_status": "verified"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": null,
+      "research_refs": [
+        "R075"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen",
+        "related_places": [
+          "Feldkirchen"
+        ],
+        "scope": "feldkirchen_direct",
+        "verification_status": "verified_2026-09-23"
+      },
+      "established_topic_refs": [
+        {
+          "id": "T003",
+          "title": "Radverkehr und Verbindung über die A94"
+        }
+      ],
+      "stage_update_meta": {
+        "created_at": "2026-09-23",
+        "source_status": "retroactively_added_from_missed_municipal_news"
+      },
+      "search_tags": [
+        "Radverkehr",
+        "ADFC-Fahrradklima-Test",
+        "Bürgerbeteiligung"
       ]
     },
     {
@@ -2184,6 +2163,66 @@
       ]
     },
     {
+      "id": "R091",
+      "date": "2026-08-11",
+      "publication_date": "2026-08-11",
+      "category": "Kommunalpolitik & Beteiligung",
+      "topic_candidates": [
+        "Bürgerbudget",
+        "Bürgerbeteiligung",
+        "kommunale Gestaltung"
+      ],
+      "title": "Jena: 102 Vorschläge für das Bürgerbudget 2026",
+      "subtitle": "Für 50.000 Euro Bürgerbudget können Einwohner Projekte vorschlagen und anschließend über zulässige Ideen abstimmen.",
+      "sachinformation": "Beim Bürgerbudget der Stadt Jena sind 2026 insgesamt 102 Vorschläge eingegangen. Für die Umsetzung stehen 50.000 Euro zur Verfügung. Vorschläge müssen unter anderem in der Zuständigkeit der Stadt liegen, der Allgemeinheit dienen, innerhalb von zwei Jahren umsetzbar sein und dürfen höchstens 10.000 Euro je Einzelmaßnahme kosten. Über die zulässigen Vorschläge stimmt die Bevölkerung anschließend ab.",
+      "sources": [
+        {
+          "name": "Stadt Jena – Bürgerbudget 2026: 102 Vorschläge in der Prüfphase",
+          "url": "https://beteiligung.jena.de/de/buergerbudget-2026-102-vorschlaege-der-pruefphase",
+          "type": "primary_official",
+          "date": "2026-08-11",
+          "date_basis": "publication_date",
+          "date_status": "verified"
+        },
+        {
+          "name": "Stadt Jena – Bürgerbudget 2026",
+          "url": "https://beteiligung.jena.de/de/buergerbudget-2026",
+          "type": "primary_official",
+          "date": "2026-06-01",
+          "date_basis": "process_start",
+          "date_status": "verified"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": null,
+      "research_refs": [
+        "R091"
+      ],
+      "ortsbezug": {
+        "display_place": "Beispiel Jena",
+        "related_places": [
+          "Beispiel Jena"
+        ],
+        "scope": "societal_democratic_relevance",
+        "verification_status": "verified_2026-09-26"
+      },
+      "relevance": {
+        "type": "societal_democratic_relevance",
+        "why_feldkirchen": "Ein Bürgerbudget verbindet Beteiligung mit einem realen, begrenzten Entscheidungsspielraum. Das ist für Feldkirchen als mögliches Modell interessant, weil Vorschläge nicht nur gesammelt, sondern nach transparenten Regeln geprüft und anschließend zur Abstimmung gestellt werden."
+      },
+      "established_topic_refs": [],
+      "stage_update_meta": {
+        "created_at": "2026-09-26",
+        "source_status": "verified_external_relevance_backfill"
+      },
+      "search_tags": [
+        "Bürgerbudget",
+        "Bürgerbeteiligung",
+        "kommunale Gestaltung"
+      ]
+    },
+    {
       "id": "R037",
       "date": "2026-07-24",
       "publication_date": "2026-07-24",
@@ -2316,6 +2355,73 @@
       ],
       "search_tags": [
         "Ortsentwicklung"
+      ]
+    },
+    {
+      "id": "R094",
+      "date": "2026-07-15",
+      "publication_date": "2026-07-15",
+      "category": "Mobilität & Verkehr",
+      "topic_candidates": [
+        "Tempo 30",
+        "B471",
+        "Schulwegsicherheit",
+        "Verkehrssicherheit"
+      ],
+      "search_tags": [
+        "Tempo 30",
+        "B471",
+        "Schulwegsicherheit",
+        "Verkehrssicherheit",
+        "Bürgerantrag"
+      ],
+      "title": "Tempo 30 an der B471: Landratsamt sieht Voraussetzungen nicht erfüllt",
+      "subtitle": "Die Prüfung eines Bürgerantrags konzentriert sich auf den Schulweg entlang der Aschheimer Straße; nach Ortstermin und Stellungnahme soll dort Tempo 50 bleiben.",
+      "sachinformation": "Ausgangspunkt war ein Antrag aus der Bürgerversammlung vom 22. Oktober 2025 auf Tempo 30 an stark frequentierten Schulwegen. Die Antragstellerin konkretisierte den Antrag später auf den Abschnitt der B471/Aschheimer Straße zwischen Zeppelinstraße und Ortsausgang Richtung Aschheim. Nach einem Ortstermin mit Landratsamt, Polizei, Staatlichem Bauamt Freising und Gemeinde kam das Landratsamt zu dem Ergebnis, dass der Geh- und Radweg dort ausreichend breit und weitgehend von der Fahrbahn getrennt sei. Auch die Unfalllage wurde als unauffällig bewertet. Deshalb soll auf B471 und M18 die Regelgeschwindigkeit von 50 km/h bestehen bleiben. Für die Fußgängerampel B471/Ottostraße wurde dagegen eine Verlängerung der Alles-Rot-Zeit auf vier Sekunden in Aussicht gestellt, sofern die Verkehrstechnik keine Einwände hat.",
+      "sources": [
+        {
+          "name": "RIS Feldkirchen – Beschlussvorlage 5275/2026",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74581&type=do",
+          "type": "primary_official",
+          "date": "2026-07-15",
+          "date_basis": "public_release_in_RIS",
+          "date_status": "verified"
+        }
+      ],
+      "bisheriger_verlauf": [
+        {
+          "id": "R007",
+          "date": "2025-10-22",
+          "title": "Bürgerversammlung bringt Anträge zu Radwegen, Tempo 30 und Klimazielen"
+        },
+        {
+          "id": "R012",
+          "date": "2025-12-04",
+          "title": "Gemeinderat greift mehrere Anträge aus der Bürgerversammlung auf"
+        }
+      ],
+      "unsere_einordnung": null,
+      "council": {
+        "date": "2026-07-23",
+        "proposal_no": "5275/2026",
+        "session_id": "S020"
+      },
+      "research_refs": [
+        "R094"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen",
+        "related_places": [
+          "Feldkirchen"
+        ],
+        "scope": "local",
+        "verification_status": "verified_2026-09-27"
+      },
+      "established_topic_refs": [
+        {
+          "id": "T015",
+          "title": "Verkehrssicherheit an B471 und M18"
+        }
       ]
     },
     {
@@ -3360,6 +3466,58 @@
       "search_tags": [
         "Kommunalwahl 2026",
         "Gemeinderat"
+      ]
+    },
+    {
+      "id": "R092",
+      "date": "2026-04-01",
+      "publication_date": "2026-04-01",
+      "category": "Kommunalpolitik & Beteiligung",
+      "topic_candidates": [
+        "Bürgerrat",
+        "Losverfahren",
+        "Bürgerbeteiligung"
+      ],
+      "title": "Aachen institutionalisiert einen ständigen ausgelosten Bürger*innenrat",
+      "subtitle": "56 repräsentativ ausgewählte Einwohner beraten regelmäßig über städtische Themen und geben Empfehlungen an Politik und Verwaltung.",
+      "sachinformation": "Aachen hat einen ständigen Bürger*innenrat eingerichtet. Für die erste Runde wurden Themen aus der Bevölkerung gesammelt; 58 Vorschläge gingen ein, 17 erreichten das vorgesehene Unterstützungsquorum. Der Rat soll aus 56 nach Alter, Bildung und Sozialräumen ausgewählten Einwohnerinnen und Einwohnern bestehen und ein- bis zweimal jährlich zu einem kommunalen Thema beraten. Die Mitglieder werden jährlich neu bestimmt und durch Fachleute unterstützt.",
+      "sources": [
+        {
+          "name": "Stadt Aachen – Bürger*innenrat: sechs Themen stehen zur Wahl",
+          "url": "https://www.aachen.de/buerger-innenbeteiligung/moeglichkeiten-der-beteiligung/buerger-innenrat/news/buerger-innenrat-aachen-sechs-themen-stehen-zur-wahl/",
+          "type": "primary_official",
+          "date": "2026-04-01",
+          "date_basis": "publication_date",
+          "date_status": "verified"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": null,
+      "research_refs": [
+        "R092"
+      ],
+      "ortsbezug": {
+        "display_place": "Beispiel Aachen",
+        "related_places": [
+          "Beispiel Aachen"
+        ],
+        "scope": "societal_democratic_relevance",
+        "verification_status": "verified_2026-09-26"
+      },
+      "relevance": {
+        "type": "societal_democratic_relevance",
+        "why_feldkirchen": "Der ständige, ausgeloste Bürgerrat zeigt eine Möglichkeit, auch Menschen systematisch einzubeziehen, die nicht von sich aus an klassischen Beteiligungsformaten teilnehmen. Für Feldkirchen ist insbesondere die Kombination aus Themenvorschlägen, Losverfahren und nachvollziehbarer Rückkopplung an Politik interessant."
+      },
+      "established_topic_refs": [],
+      "stage_update_meta": {
+        "created_at": "2026-09-26",
+        "source_status": "verified_external_relevance_backfill"
+      },
+      "search_tags": [
+        "Bürgerrat",
+        "Losverfahren",
+        "Bürgerbeteiligung"
       ]
     },
     {
@@ -5357,147 +5515,6 @@
         "Ortsentwicklung",
         "Gewerbeentwicklung"
       ]
-    },
-    {
-      "id": "R095",
-      "date": "2026-09-24",
-      "publication_date": "2026-09-24",
-      "category": "Ortsentwicklung & Bauen",
-      "topic_candidates": [
-        "Spielplätze",
-        "Dornacher Feld",
-        "Bauleitplanung",
-        "Flächensparen"
-      ],
-      "search_tags": [
-        "Spielplatz",
-        "Dornacher Feld",
-        "Bebauungsplan 110",
-        "Flächennutzungsplan",
-        "Flächensparen"
-      ],
-      "title": "Spielplatz im Dornacher Feld: Verwaltung empfiehlt Ende der Planung",
-      "subtitle": "Fehlende Flächenverfügbarkeit und die Priorität „Bestand vor Neubau“ sprechen laut zwei Vorlagen gegen die Fortführung der seit 2021/2022 ruhenden Verfahren.",
-      "sachinformation": "Für einen geplanten Spielplatz mit optionalem Bolzplatz im Dornacher Feld empfiehlt die Verwaltung, zwei seit mehreren Jahren ruhende Bauleitplanverfahren einzustellen. Die Gemeinde konnte die benötigten privaten Flächen nicht langfristig sichern; ein vorgesehener Pachtvertrag über 30 Jahre kam nicht zustande. Die Vorlagen verweisen außerdem auf Flächensparziele, mögliche Konflikte mit Landwirtschaft und Naturschutz sowie beim Bolzplatz auf zusätzlichen Lärmschutzbedarf.\n\nNach einer aktuellen Bestandsaufnahme sieht die Verwaltung bereits eine hohe Dichte an Spiel- und Freizeitflächen im Gemeindegebiet. Künftig sollen deshalb vorrangig bestehende gemeindeeigene Spielplätze modernisiert und aufgewertet werden. Über die Einstellung der 17. Flächennutzungsplanänderung und des Bebauungsplans Nr. 110 soll der Gemeinderat am 29. September entscheiden.",
-      "sources": [
-        {
-          "name": "RIS Feldkirchen – Beschlussvorlage 5279/2026 (17. Flächennutzungsplanänderung)",
-          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74598&type=do",
-          "type": "primary_official",
-          "date": "2026-09-24",
-          "date_basis": "public_release_in_RIS",
-          "date_status": "verified"
-        },
-        {
-          "name": "RIS Feldkirchen – Beschlussvorlage 5280/2026 (Bebauungsplan Nr. 110 Spielplatz)",
-          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74602&type=do",
-          "type": "primary_official",
-          "date": "2026-09-24",
-          "date_basis": "public_release_in_RIS",
-          "date_status": "verified"
-        },
-        {
-          "name": "RIS Feldkirchen – Gemeinderat 29.09.2026",
-          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1073",
-          "type": "primary_official",
-          "date": "2026-09-29",
-          "date_basis": "scheduled_session_date",
-          "date_status": "verified_upcoming"
-        }
-      ],
-      "bisheriger_verlauf": [],
-      "unsere_einordnung": null,
-      "council": "S023",
-      "research_refs": [
-        "R095"
-      ],
-      "ortsbezug": {
-        "display_place": "Feldkirchen",
-        "related_places": [
-          "Feldkirchen"
-        ],
-        "scope": "feldkirchen_direct",
-        "verification_status": "verified_2026-09-28"
-      },
-      "established_topic_refs": [
-        {
-          "id": "T007",
-          "title": "Spielplätze"
-        }
-      ],
-      "stage_update_meta": {
-        "created_at": "2026-09-28",
-        "source_status": "verified_public_release_2026-09-24_upcoming_session"
-      }
-    },
-    {
-      "id": "R096",
-      "date": "2026-09-24",
-      "publication_date": "2026-09-24",
-      "category": "Ortsentwicklung & Bauen",
-      "topic_candidates": [
-        "Gewerbegebiet Weißenfelder Straße",
-        "Bauleitplanung",
-        "A99",
-        "Flächennutzung"
-      ],
-      "search_tags": [
-        "Bebauungsplan 102",
-        "Weißenfelder Straße",
-        "Gewerbegebiet",
-        "A99",
-        "Lagerflächen",
-        "Bauleitplanung"
-      ],
-      "title": "Gewerbegebiet Weißenfelder Straße: Erweiterungsplanung wird nach Beteiligung angepasst",
-      "subtitle": "Die Planung für zusätzliche Lagerflächen geht in die nächste Runde; Stellungnahmen betreffen unter anderem Verfahren, Eingrünung und die geplante A99-Erweiterung.",
-      "sachinformation": "Die Gemeinde will den Bebauungsplan Nr. 102 an der Weißenfelder Straße teilweise ändern und erweitern, damit ein ansässiger Landschaftsbaubetrieb zusätzliche Lagerflächen nutzen kann. In der frühzeitigen Öffentlichkeitsbeteiligung gingen keine Stellungnahmen ein; zahlreiche Behörden und Träger öffentlicher Belange äußerten sich zum Entwurf.\n\nDie Vorlage sieht mehrere Anpassungen vor. Das Verfahren wird als Regelverfahren fortgeführt und die Bezeichnung in „1. Teiländerung und Erweiterung“ geändert. Im südlichen Bereich entfällt nach Darstellung der Gemeinde eine ursprünglich vorgesehene Schutz- und Leitpflanzung, weil dort die Planungen für die achtstreifige Erweiterung der A99 und die zugehörige Anbauverbotszone berücksichtigt werden. Über die Stellungnahmen und den Billigungsbeschluss soll der Gemeinderat am 29. September entscheiden.",
-      "sources": [
-        {
-          "name": "RIS Feldkirchen – Beschlussvorlage 5154/2026",
-          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=72299&type=do",
-          "type": "primary_official",
-          "date": "2026-09-24",
-          "date_basis": "public_release_in_RIS",
-          "date_status": "verified"
-        },
-        {
-          "name": "RIS Feldkirchen – Gemeinderat 29.09.2026",
-          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1073",
-          "type": "primary_official",
-          "date": "2026-09-29",
-          "date_basis": "scheduled_session_date",
-          "date_status": "verified_upcoming"
-        }
-      ],
-      "bisheriger_verlauf": [],
-      "unsere_einordnung": null,
-      "council": "S023",
-      "research_refs": [
-        "R096"
-      ],
-      "ortsbezug": {
-        "display_place": "Feldkirchen",
-        "related_places": [
-          "Feldkirchen"
-        ],
-        "scope": "feldkirchen_direct",
-        "verification_status": "verified_2026-09-28"
-      },
-      "established_topic_refs": [
-        {
-          "id": "T002",
-          "title": "Ortsentwicklung und Bauleitplanung"
-        },
-        {
-          "id": "T012",
-          "title": "A99-Ausbau und M18/EBE4"
-        }
-      ],
-      "stage_update_meta": {
-        "created_at": "2026-09-28",
-        "source_status": "verified_public_release_2026-09-24_upcoming_session"
-      }
     }
   ],
   "political_assessment_status": "not_added_by_default; requires separately substantiated green reference per contribution",
