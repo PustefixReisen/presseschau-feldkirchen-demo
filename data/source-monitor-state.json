@@ -5,7 +5,7 @@
       "name": "Gemeinde Feldkirchen – Nachrichten aus dem Bauamt",
       "url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt",
       "priority": "mandatory",
-      "last_success_at": "2026-10-15T09:10:35+00:00",
+      "last_success_at": "2026-10-16T09:03:07+00:00",
       "final_url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt",
       "content_type": "text/html;charset=UTF-8",
       "page_sha256": "7a84d3a0d2191a77f15fffc43b031b4a1c4fc5fdeaeba61825d6ee4f6fddf6c1",
@@ -26,7 +26,7 @@
       "name": "Gemeinde Feldkirchen – Neues Parkraumkonzept",
       "url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt/neues-parkraumkonzept-in-feldkirchen",
       "priority": "mandatory",
-      "last_success_at": "2026-10-15T09:10:38+00:00",
+      "last_success_at": "2026-10-16T09:03:10+00:00",
       "final_url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt/neues-parkraumkonzept-in-feldkirchen",
       "content_type": "text/html;charset=UTF-8",
       "page_sha256": "e90a8f8c0116008de9cbdd3c05c7b62988fa85bfcd2a1514c3690d1e162797f2",
@@ -448,7 +448,7 @@
           "content_type": "application/pdf",
           "bytes": 1472041,
           "sha256": "4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
-          "checked_at": "2026-10-15T09:10:38+00:00"
+          "checked_at": "2026-10-16T09:03:10+00:00"
         }
       },
       "error": null
@@ -457,10 +457,10 @@
       "name": "Landkreis München",
       "url": "https://www.landkreis-muenchen.de/",
       "priority": "mandatory",
-      "last_success_at": "2026-10-15T09:10:39+00:00",
+      "last_success_at": "2026-10-16T09:03:11+00:00",
       "final_url": "https://www.landkreis-muenchen.de/",
       "content_type": "text/html; charset=utf-8",
-      "page_sha256": "61baa8749aad8f31429bede39c2cf2d27d64a26fc7d43b614204c9ddd1beaf22",
+      "page_sha256": "167201dfe26a5a3de0c6c21036ff10d0e569bd82baf05094b2aaa983124c0cb3",
       "page_changed": true,
       "first_seen": false,
       "links": {
@@ -623,6 +623,15 @@
         "https://www.landkreis-muenchen.de/themen/freizeit-kultur-sport/kultur/kulturvereinigung-im-landkreis-muenchen/": {
           "text": "Kultur"
         },
+        "https://www.landkreis-muenchen.de/artikel/gemeinsam-soziale-verantwortung-uebernehmen/": {
+          "text": ""
+        },
+        "https://www.landkreis-muenchen.de/artikel/neue-arbeitswelten-kennenlernen/": {
+          "text": ""
+        },
+        "https://www.landkreis-muenchen.de/artikel/herbstzeit-ist-pflanzzeit/": {
+          "text": ""
+        },
         "https://www.landkreis-muenchen.de/artikel/staatliche-auszeichnungen-fuer-jahrzehntelanges-engagement/": {
           "text": ""
         },
@@ -648,15 +657,6 @@
           "text": ""
         },
         "https://www.landkreis-muenchen.de/artikel/amtsblatt-32-2026/": {
-          "text": ""
-        },
-        "https://www.landkreis-muenchen.de/artikel/strassenbegleitender-geh-und-radweg-an-der-st-2573-zwi-schen-taufkirchen-und-lanzenhaar-offiziell-eroeffnet/": {
-          "text": ""
-        },
-        "https://www.landkreis-muenchen.de/artikel/klimawandel-hat-viele-gesichter/": {
-          "text": ""
-        },
-        "https://www.landkreis-muenchen.de/artikel/landkreis-baut-radweg-im-perlacher-forst-aus/": {
           "text": ""
         },
         "https://www.landkreis-muenchen.de/list/1/": {
@@ -742,18 +742,18 @@
       "name": "Autobahn GmbH – Südbayern",
       "url": "https://www.autobahn.de/die-autobahn/niederlassungen/suedbayern",
       "priority": "topic",
-      "last_attempt_at": "2026-10-15T09:10:39+00:00",
+      "last_attempt_at": "2026-10-16T09:03:11+00:00",
       "error": "HTTPError: HTTP Error 404: Not Found"
     },
     "adfc-muenchen": {
       "name": "ADFC München",
       "url": "https://muenchen.adfc.de/",
       "priority": "topic",
-      "last_success_at": "2026-10-15T09:10:41+00:00",
+      "last_success_at": "2026-10-16T09:03:12+00:00",
       "final_url": "https://muenchen.adfc.de/",
       "content_type": "text/html; charset=utf-8",
       "page_sha256": "8753cd9c8e81436e9d30b8a81e2ce27e68e1b397fb6808937204d4d0deabcba8",
-      "page_changed": true,
+      "page_changed": false,
       "first_seen": false,
       "links": {
         "https://muenchen.adfc.de/sei-dabei": {
@@ -855,16 +855,16 @@
       },
       "documents": {},
       "error": "URLError: <urlopen error timed out>",
-      "last_attempt_at": "2026-10-15T09:11:16+00:00"
+      "last_attempt_at": "2026-10-16T09:03:48+00:00"
     },
     "bi-afk": {
       "name": "BI-AFK",
       "url": "https://www.bi-afk.de/",
       "priority": "topic",
-      "last_success_at": "2026-10-15T09:11:18+00:00",
+      "last_success_at": "2026-10-16T09:03:50+00:00",
       "final_url": "https://bi-afk.de/",
       "content_type": "text/html; charset=UTF-8",
-      "page_sha256": "c0e0c4087de071829b64953c128550e30cdb2450d6b765b83eef8a71e6d1d7a4",
+      "page_sha256": "a5a1e1777260811d2cbc51f0c1921660cc6da3d472f46fce6b68ee499de27e85",
       "page_changed": true,
       "first_seen": false,
       "links": {
@@ -947,7 +947,7 @@
           "content_type": "application/pdf",
           "bytes": 149466,
           "sha256": "f0ce9eb0a26c6e4bafbce93352128b32ede6a1a841c241d07be53c69c0f4b695",
-          "checked_at": "2026-10-15T09:11:18+00:00"
+          "checked_at": "2026-10-16T09:03:50+00:00"
         }
       },
       "error": null
@@ -956,10 +956,10 @@
       "name": "RIS Feldkirchen – Dokumente mit Freigabe",
       "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/do0040.asp",
       "priority": "mandatory",
-      "last_success_at": "2026-10-15T09:10:31+00:00",
+      "last_success_at": "2026-10-16T09:03:04+00:00",
       "final_url": "https://buergerinfo-feldkirchen.digitalfabrix.de/do0040.asp",
       "content_type": "text/html; Charset=utf-8",
-      "page_sha256": "5ec1bd2356d39032dd6f0eaf4e7b14a9a399597ee59c0721046f913b68cd38bf",
+      "page_sha256": "d5f2f03c1efa3f230ccdc8a9bbfbde441361b330a0bcb16bf827bcd78224be88",
       "page_changed": true,
       "first_seen": false,
       "links": {},
@@ -970,21 +970,45 @@
       "name": "Münchner Merkur – Landkreis München",
       "url": "https://www.merkur.de/lokales/muenchen-lk/",
       "priority": "mandatory",
-      "last_success_at": "2026-10-15T09:11:20+00:00",
+      "last_success_at": "2026-10-16T09:03:52+00:00",
       "final_url": "https://www.merkur.de/lokales/muenchen-lk/",
       "content_type": "text/html;charset=utf-8",
-      "page_sha256": "4bc68a9f7ba77d637ce9919ef5cc4307de7a3657a41c72b28fc65997a41256cf",
+      "page_sha256": "1925e010155724ef8746597f77da95378ddbefef91c594fa2fd1a1ae85aaa9ab",
       "page_changed": true,
       "first_seen": false,
       "links": {
         "https://www.merkur.de/lokales/muenchen-lk/": {
           "text": "Menü"
         },
+        "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/kampfhund-toetet-dackel-feldkirchen-prueft-leinenpflicht-fuer-grosse-hunde-94541111.html": {
+          "text": "Kampfhund tötet Dackel: Gemeinde prüft Leinenpflicht für große Hunde"
+        },
         "https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/44-millionen-euro-fraunhofer-institut-fuer-sichere-ki-in-garching-eroeffnet-94541287.html": {
           "text": "44,6 Millionen Euro: Fraunhofer-Institut für sichere KI in Garching eröffnet – Bundesministerin Bär zu Gast"
         },
-        "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/kampfhund-toetet-dackel-feldkirchen-prueft-leinenpflicht-fuer-grosse-hunde-94541111.html": {
-          "text": "Kampfhund tötet Dackel: Gemeinde prüft Leinenpflicht für große Hunde"
+        "https://www.merkur.de/lokales/muenchen-lk/hoehenkirchen-siegertsbrunn-ort100556/csu-fordert-stellenbesetzungssperre-buergermeisterin-von-hoehenkirchen-warnt-vor-kollaps-94543130.html": {
+          "text": "CSU fordert Stellenbesetzungssperre – Bürgermeisterin warnt vor Kollaps"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/ottobrunn-ort29241/bis-zu-100-km-durchs-wohngebiet-ottobrunn-klagt-ueber-naechtliche-raser-94542984.html": {
+          "text": "Bis zu 100 km/h durchs Wohngebiet: Ottobrunn klagt über nächtliche Raser"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/hohenbrunn-ort28822/nach-jahrelangem-rechtsstreit-rewe-supermarkt-soll-im-november-baubeginn-haben-94542962.html": {
+          "text": "Nach jahrelangem Rechtsstreit: Rewe-Supermarkt soll im November Baubeginn haben"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/oberschleissheim-ort29202/fc-bayern-baut-neues-basketball-leistungszentrum-oberschleissheim-hofft-auf-steuern-94542881.html": {
+          "text": "FC Bayern baut neues Basketball-Leistungszentrum – Oberschleißheim hofft auf Steuern"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/schaeftlarn-ort73337/seit-35-jahren-gibt-sie-pilates-unterricht-jetzt-ist-sie-85-94542873.html": {
+          "text": "Seit 35 Jahren gibt sie Pilates-Unterricht – jetzt ist sie 85"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/oberhaching-ort29194/tsv-oberhaching-dreht-derby-tropics-schlagen-fc-bayern-mit-3521-im-schlussviertel-94543392.html": {
+          "text": "TSV Oberhaching dreht Derby: Tropics schlagen FC Bayern"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/sauerlach-ort117101/massive-schaeden-kirche-st-margaret-muss-dringend-saniert-werden-94540962.html": {
+          "text": "Massive Schäden: Kirche St. Margaret muss dringend saniert werden"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/hoehenkirchen-siegertsbrunn-ort100556/hundesteuer-in-hoehenkirchen-siegertsbrunn-steigt-um-zwei-drittel-auf-100-euro-94541977.html": {
+          "text": "Hundesteuer in Höhenkirchen-Siegertsbrunn steigt um zwei Drittel"
         },
         "https://www.merkur.de/lokales/muenchen-lk/unterschleissheim-ort29622/kupferdieb-auf-baustelle-gefasst-michael-ende-grundschule-soll-zu-pfingsten-fertig-sein-94540947.html": {
           "text": "Kupferdieb auf Baustelle gefasst: Michael-Ende-Grundschule soll zu Pfingsten fertig sein"
@@ -1012,30 +1036,6 @@
         },
         "https://www.merkur.de/lokales/muenchen-lk/gruenwald-ort28770/feuer-in-ruine-gruenwald-wartet-nach-zwangsversteigerung-auf-zuschlag-94538981.html": {
           "text": "Feuer in Ruine gelöscht: Grünwald wartet nach Zwangsversteigerung auf Zuschlag"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/neubiberg-ort29121/honig-vom-dach-in-der-kantine-so-lebt-infineon-nachhaltigkeit-in-neubiberg-94538978.html": {
-          "text": "Honig vom Dach in der Kantine: So lebt Infineon Nachhaltigkeit in Neubiberg vor"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/unterfoehring-ort29618/telehotel-wird-abgerissen-unterfoehring-plant-bezahlbaren-wohnraum-94537513.html": {
-          "text": "Telehotel wird abgerissen: Unterföhring plant bezahlbaren Wohnraum"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/unterschleissheim-ort29622/kostenloser-einbau-glasfaser-fuer-2000-unterschleissheimer-haushalte-94537222.html": {
-          "text": "Kostenloser Einbau: Unterschleißheim bekommt Glasfaser für 2000 Haushalte"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/tum-garching-baut-neue-energiezentrale-rechenzentrum-heizt-kuenftig-mit-94538984.html": {
-          "text": "TUM Garching baut neue Energiezentrale – Rechenzentrum heizt künftig mit"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/garchinger-start-up-scannt-haut-in-minuten-100-nutzer-taeglich-im-dm-test-94538695.html": {
-          "text": "„Mehr als 100 Nutzer am Tag“: Neues Angebot entwickelt – nun wollen Gründer zu „Die Höhle der Löwen“"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/gruenwald-ort28770/diebe-stehlen-ganzen-tresor-aus-forsthaus-woernbrunn-94538722.html": {
-          "text": "Diebe stehlen ganzen Tresor aus Forsthaus Wörnbrunn"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/gruenwald-ort28770/musikschule-gruenwald-verabschiedet-leiter-nach-17-jahren-er-zieht-nach-italien-94538702.html": {
-          "text": "Musikschule Grünwald verabschiedet Leiter nach 17 Jahren – er zieht nach Italien"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/unterschleissheim-ort29622/60-jahre-beim-brk-unterschleissheim-ehrt-39-ehrenamtliche-im-buergerhaus-94538701.html": {
-          "text": "Stets über die Pflicht hinaus: Unterschleißheim ehrt 39 Ehrenamtliche im Bürgerhaus"
         }
       },
       "documents": {},
@@ -1045,10 +1045,10 @@
       "name": "Münchner Merkur – Feldkirchen",
       "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/",
       "priority": "mandatory",
-      "last_success_at": "2026-10-15T09:11:21+00:00",
+      "last_success_at": "2026-10-16T09:03:53+00:00",
       "final_url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/",
       "content_type": "text/html;charset=utf-8",
-      "page_sha256": "fd969a297f00cf3f6d8e188b4b6ed04c32acf8e86f5c2024476f6e59a0b0c46e",
+      "page_sha256": "b669a0a451f6d1f7d3122078a8df9dd3ee10169c68e4c23a0e6b8b3092ee054a",
       "page_changed": true,
       "first_seen": false,
       "links": {
@@ -1117,10 +1117,10 @@
       "name": "Münchner Merkur – Aschheim",
       "url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/",
       "priority": "mandatory",
-      "last_success_at": "2026-10-15T09:11:22+00:00",
+      "last_success_at": "2026-10-16T09:03:54+00:00",
       "final_url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/",
       "content_type": "text/html;charset=utf-8",
-      "page_sha256": "7acfa08bfae816b92d99e5d38418304e921e78176ecb84da72e306d8e3aafad1",
+      "page_sha256": "4de85fac37a55b41fc7b682a4b27db37bb786d8fb9940c2720922e101231a1fe",
       "page_changed": true,
       "first_seen": false,
       "links": {
@@ -1189,10 +1189,10 @@
       "name": "Münchner Merkur – Kirchheim",
       "url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/",
       "priority": "mandatory",
-      "last_success_at": "2026-10-15T09:11:23+00:00",
+      "last_success_at": "2026-10-16T09:03:55+00:00",
       "final_url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/",
       "content_type": "text/html;charset=utf-8",
-      "page_sha256": "9cb75abd80aca7cb734d3157085b3a89c9195ed7f0e7235ccac3229a16cc04db",
+      "page_sha256": "05f9b6f0117170896a118d9a318a857cbf7bba154bf6a10a6b2d98eada02e047",
       "page_changed": true,
       "first_seen": false,
       "links": {
@@ -1261,10 +1261,10 @@
       "name": "Münchner Merkur – Haar",
       "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/",
       "priority": "mandatory",
-      "last_success_at": "2026-10-15T09:11:24+00:00",
+      "last_success_at": "2026-10-16T09:03:56+00:00",
       "final_url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/",
       "content_type": "text/html;charset=utf-8",
-      "page_sha256": "6340dabeb4c0d4d8d9d0cb32da82dce2e37c531777ee40ff61d431b45a2b4c86",
+      "page_sha256": "f0c36a4a3e5855b3e15b9512ed2b390f95332cb19b2ecbc1f7e6f8e6e1612690",
       "page_changed": true,
       "first_seen": false,
       "links": {
@@ -1333,7 +1333,7 @@
       "name": "Gemeinde Feldkirchen – Aktuelle Meldungen",
       "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen",
       "priority": "mandatory",
-      "last_success_at": "2026-10-15T09:10:32+00:00",
+      "last_success_at": "2026-10-16T09:03:06+00:00",
       "final_url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen",
       "content_type": "text/html;charset=UTF-8",
       "page_sha256": "5a1db783b8d5c3ef206b2ffa2fae6aceb4b9394a0d6269ee09581e2e553ef08d",
@@ -1420,7 +1420,7 @@
       "name": "BENG eG – Bürgerenergie und Energieprojekte",
       "url": "https://www.beng-eg.de/",
       "priority": "topic",
-      "last_success_at": "2026-10-15T09:11:19+00:00",
+      "last_success_at": "2026-10-16T09:03:51+00:00",
       "final_url": "https://www.beng-eg.de/",
       "content_type": "text/html; charset=UTF-8",
       "page_sha256": "998a2aaeeaf10fa2d2d770d002e3cb8d3278508655bc835529002f73819ec662",
@@ -1438,5 +1438,5 @@
       "error": null
     }
   },
-  "last_run_at": "2026-10-15T09:11:24+00:00"
+  "last_run_at": "2026-10-16T09:03:56+00:00"
 }

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-15T09:11:24+00:00",
+  "updated_at": "2026-10-16T09:03:56+00:00",
   "items": [
     {
       "event_key": "document:feldkirchen-parkraum-2026:https://www.feldkirchen.de/_Resources/Persistent/d/3/d/e/d3dee38ce3c4a9ad01384ca6ed314a2a8f8bcc12/2026%20Parkraumkonzept%20gem%20GR-Beschluss.pdf:4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
@@ -5034,6 +5034,116 @@
       "kind": "link_new",
       "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/kampfhund-toetet-dackel-feldkirchen-prueft-leinenpflicht-fuer-grosse-hunde-94541111.html",
       "link_text": "Kampfhund tötet Dackel: Gemeinde prüft Leinenpflicht für große Hunde",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:landkreis-muenchen:https://www.landkreis-muenchen.de/artikel/gemeinsam-soziale-verantwortung-uebernehmen/",
+      "detected_at": "2026-10-16T09:03:11+00:00",
+      "source_id": "landkreis-muenchen",
+      "source_name": "Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.landkreis-muenchen.de/artikel/gemeinsam-soziale-verantwortung-uebernehmen/",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:landkreis-muenchen:https://www.landkreis-muenchen.de/artikel/neue-arbeitswelten-kennenlernen/",
+      "detected_at": "2026-10-16T09:03:11+00:00",
+      "source_id": "landkreis-muenchen",
+      "source_name": "Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.landkreis-muenchen.de/artikel/neue-arbeitswelten-kennenlernen/",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:landkreis-muenchen:https://www.landkreis-muenchen.de/artikel/herbstzeit-ist-pflanzzeit/",
+      "detected_at": "2026-10-16T09:03:11+00:00",
+      "source_id": "landkreis-muenchen",
+      "source_name": "Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.landkreis-muenchen.de/artikel/herbstzeit-ist-pflanzzeit/",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/hoehenkirchen-siegertsbrunn-ort100556/csu-fordert-stellenbesetzungssperre-buergermeisterin-von-hoehenkirchen-warnt-vor-kollaps-94543130.html",
+      "detected_at": "2026-10-16T09:03:52+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/hoehenkirchen-siegertsbrunn-ort100556/csu-fordert-stellenbesetzungssperre-buergermeisterin-von-hoehenkirchen-warnt-vor-kollaps-94543130.html",
+      "link_text": "CSU fordert Stellenbesetzungssperre – Bürgermeisterin warnt vor Kollaps",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/ottobrunn-ort29241/bis-zu-100-km-durchs-wohngebiet-ottobrunn-klagt-ueber-naechtliche-raser-94542984.html",
+      "detected_at": "2026-10-16T09:03:52+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/ottobrunn-ort29241/bis-zu-100-km-durchs-wohngebiet-ottobrunn-klagt-ueber-naechtliche-raser-94542984.html",
+      "link_text": "Bis zu 100 km/h durchs Wohngebiet: Ottobrunn klagt über nächtliche Raser",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/hohenbrunn-ort28822/nach-jahrelangem-rechtsstreit-rewe-supermarkt-soll-im-november-baubeginn-haben-94542962.html",
+      "detected_at": "2026-10-16T09:03:52+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/hohenbrunn-ort28822/nach-jahrelangem-rechtsstreit-rewe-supermarkt-soll-im-november-baubeginn-haben-94542962.html",
+      "link_text": "Nach jahrelangem Rechtsstreit: Rewe-Supermarkt soll im November Baubeginn haben",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/oberschleissheim-ort29202/fc-bayern-baut-neues-basketball-leistungszentrum-oberschleissheim-hofft-auf-steuern-94542881.html",
+      "detected_at": "2026-10-16T09:03:52+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/oberschleissheim-ort29202/fc-bayern-baut-neues-basketball-leistungszentrum-oberschleissheim-hofft-auf-steuern-94542881.html",
+      "link_text": "FC Bayern baut neues Basketball-Leistungszentrum – Oberschleißheim hofft auf Steuern",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/schaeftlarn-ort73337/seit-35-jahren-gibt-sie-pilates-unterricht-jetzt-ist-sie-85-94542873.html",
+      "detected_at": "2026-10-16T09:03:52+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/schaeftlarn-ort73337/seit-35-jahren-gibt-sie-pilates-unterricht-jetzt-ist-sie-85-94542873.html",
+      "link_text": "Seit 35 Jahren gibt sie Pilates-Unterricht – jetzt ist sie 85",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/oberhaching-ort29194/tsv-oberhaching-dreht-derby-tropics-schlagen-fc-bayern-mit-3521-im-schlussviertel-94543392.html",
+      "detected_at": "2026-10-16T09:03:52+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/oberhaching-ort29194/tsv-oberhaching-dreht-derby-tropics-schlagen-fc-bayern-mit-3521-im-schlussviertel-94543392.html",
+      "link_text": "TSV Oberhaching dreht Derby: Tropics schlagen FC Bayern",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/sauerlach-ort117101/massive-schaeden-kirche-st-margaret-muss-dringend-saniert-werden-94540962.html",
+      "detected_at": "2026-10-16T09:03:52+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/sauerlach-ort117101/massive-schaeden-kirche-st-margaret-muss-dringend-saniert-werden-94540962.html",
+      "link_text": "Massive Schäden: Kirche St. Margaret muss dringend saniert werden",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/hoehenkirchen-siegertsbrunn-ort100556/hundesteuer-in-hoehenkirchen-siegertsbrunn-steigt-um-zwei-drittel-auf-100-euro-94541977.html",
+      "detected_at": "2026-10-16T09:03:52+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/hoehenkirchen-siegertsbrunn-ort100556/hundesteuer-in-hoehenkirchen-siegertsbrunn-steigt-um-zwei-drittel-auf-100-euro-94541977.html",
+      "link_text": "Hundesteuer in Höhenkirchen-Siegertsbrunn steigt um zwei Drittel",
       "status": "unprocessed"
     }
   ]
