@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-16T09:03:56+00:00",
+  "updated_at": "2026-10-17T08:36:12+00:00",
   "items": [
     {
       "event_key": "document:feldkirchen-parkraum-2026:https://www.feldkirchen.de/_Resources/Persistent/d/3/d/e/d3dee38ce3c4a9ad01384ca6ed314a2a8f8bcc12/2026%20Parkraumkonzept%20gem%20GR-Beschluss.pdf:4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
@@ -5144,6 +5144,96 @@
       "kind": "link_new",
       "url": "https://www.merkur.de/lokales/muenchen-lk/hoehenkirchen-siegertsbrunn-ort100556/hundesteuer-in-hoehenkirchen-siegertsbrunn-steigt-um-zwei-drittel-auf-100-euro-94541977.html",
       "link_text": "Hundesteuer in Höhenkirchen-Siegertsbrunn steigt um zwei Drittel",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:landkreis-muenchen:https://www.landkreis-muenchen.de/artikel/amtsblatt-35-2026/",
+      "detected_at": "2026-10-17T08:35:58+00:00",
+      "source_id": "landkreis-muenchen",
+      "source_name": "Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.landkreis-muenchen.de/artikel/amtsblatt-35-2026/",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/landkreis-muenchen-gruendet-foerdernetzwerk-22-geldgeber-beim-auftakt-dabei-94545248.html",
+      "detected_at": "2026-10-17T08:36:07+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/landkreis-muenchen-gruendet-foerdernetzwerk-22-geldgeber-beim-auftakt-dabei-94545248.html",
+      "link_text": "Landkreis sucht Partner für soziale Projekte: Stiftungen und Förderer beim Auftakt dabei",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/unterhaching-wie-ein-84-jaehriger-den-buerokratischen-aufwand-fuer-die-pflege-seiner-frau-stemmt-94544432.html",
+      "detected_at": "2026-10-17T08:36:07+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/unterhaching-wie-ein-84-jaehriger-den-buerokratischen-aufwand-fuer-die-pflege-seiner-frau-stemmt-94544432.html",
+      "link_text": "„Wahnsinnige Belastung für die Psyche“: 84-Jähriger organisiert die Pflege für seine gelähmte Frau",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/aying-ort28266/172-unterschriften-ayinger-fordern-oeffnung-des-bahnuebergangs-goeggenhofen-94544890.html",
+      "detected_at": "2026-10-17T08:36:07+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/aying-ort28266/172-unterschriften-ayinger-fordern-oeffnung-des-bahnuebergangs-goeggenhofen-94544890.html",
+      "link_text": "172 Unterschriften: Ayinger fordern Öffnung des Bahnübergangs Göggenhofen",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/oberhaching-ort29194/ex-betreuer-des-fc-deisenhofen-filmte-1000-videos-bewaehrungsstrafe-empoert-verein-94544567.html",
+      "detected_at": "2026-10-17T08:36:07+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/oberhaching-ort29194/ex-betreuer-des-fc-deisenhofen-filmte-1000-videos-bewaehrungsstrafe-empoert-verein-94544567.html",
+      "link_text": "Heimliche Kabinen-Videos: Vereins-Betreuer verurteilt – „Kann herumlaufen, als ob nichts gewesen wäre“",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/haching-baskets-wollen-derby-gegen-mtsv-schwabing-zum-heimsieg-nutzen-94545025.html",
+      "detected_at": "2026-10-17T08:36:07+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/haching-baskets-wollen-derby-gegen-mtsv-schwabing-zum-heimsieg-nutzen-94545025.html",
+      "link_text": "Haching Baskets wollen Derby gegen MTSV Schwabing zum Heimsieg nutzen",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/wer-ist-der-moerder-garchinger-impro-krimi-hat-jede-nacht-einen-anderen-taeter-94542982.html",
+      "detected_at": "2026-10-17T08:36:07+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/wer-ist-der-moerder-garchinger-impro-krimi-hat-jede-nacht-einen-anderen-taeter-94542982.html",
+      "link_text": "Wer ist der Mörder? Garchinger Impro-Krimi hat jede Nacht einen anderen Täter",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/oberschleissheim-ort29202/gewalt-respektlosigkeit-und-krawall-verein-zieht-mannschaft-zurueck-94544400.html",
+      "detected_at": "2026-10-17T08:36:07+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/oberschleissheim-ort29202/gewalt-respektlosigkeit-und-krawall-verein-zieht-mannschaft-zurueck-94544400.html",
+      "link_text": "Gewalt, Schlägereien, Drohungen: Fußballverein zieht Jugendteam zurück – „Können froh sein“",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/grasbrunn-ort377335/grasbrunn-aerger-um-parkende-werkstatt-kunden-94542993.html",
+      "detected_at": "2026-10-17T08:36:07+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/grasbrunn-ort377335/grasbrunn-aerger-um-parkende-werkstatt-kunden-94542993.html",
+      "link_text": "Ärger um parkende Werkstatt-Kunden",
       "status": "unprocessed"
     }
   ]
