@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-17T08:36:12+00:00",
+  "updated_at": "2026-10-18T08:52:39+00:00",
   "items": [
     {
       "event_key": "document:feldkirchen-parkraum-2026:https://www.feldkirchen.de/_Resources/Persistent/d/3/d/e/d3dee38ce3c4a9ad01384ca6ed314a2a8f8bcc12/2026%20Parkraumkonzept%20gem%20GR-Beschluss.pdf:4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
@@ -5234,6 +5234,56 @@
       "kind": "link_new",
       "url": "https://www.merkur.de/lokales/muenchen-lk/grasbrunn-ort377335/grasbrunn-aerger-um-parkende-werkstatt-kunden-94542993.html",
       "link_text": "Ärger um parkende Werkstatt-Kunden",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/kita-gebuehren-in-haar-steigen-um-100-euro-mutter-das-ist-geld-das-fuer-unsere-kinder-fehlt-94544895.html",
+      "detected_at": "2026-10-18T08:52:33+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/kita-gebuehren-in-haar-steigen-um-100-euro-mutter-das-ist-geld-das-fuer-unsere-kinder-fehlt-94544895.html",
+      "link_text": "Kita-Gebühren steigen deutlich – Mutter entsetzt: „Das ist Geld, das für unsere Kinder fehlt“",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/baierbrunn-ort28315/ungueltige-kommunalwahl-in-baierbrunn-selbstkritik-bei-formfehlern-94544997.html",
+      "detected_at": "2026-10-18T08:52:33+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/baierbrunn-ort28315/ungueltige-kommunalwahl-in-baierbrunn-selbstkritik-bei-formfehlern-94544997.html",
+      "link_text": "Ungültige Kommunalwahl in Baierbrunn – Selbstkritik bei Formfehlern",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/oberschleissheim-ort29202/spaziergang-durch-erfolgsgeschichte-96-gefoerderte-wohnungen-in-oberschleissheim-werden-bezogen-94544909.html",
+      "detected_at": "2026-10-18T08:52:33+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/oberschleissheim-ort29202/spaziergang-durch-erfolgsgeschichte-96-gefoerderte-wohnungen-in-oberschleissheim-werden-bezogen-94544909.html",
+      "link_text": "Spaziergang durch Erfolgsgeschichte: 96 geförderte Wohnungen in Oberschleißheim werden bezogen",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/grasbrunn-ort377335/lemonclub-grasbrunn-neues-duo-belebt-jugendtreff-nach-unsteten-jahren-94544899.html",
+      "detected_at": "2026-10-18T08:52:33+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/grasbrunn-ort377335/lemonclub-grasbrunn-neues-duo-belebt-jugendtreff-nach-unsteten-jahren-94544899.html",
+      "link_text": "Lemonclub Grasbrunn: Neues Duo belebt Jugendtreff nach unsteten Jahren",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-haar:https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/kita-gebuehren-in-haar-steigen-um-100-euro-mutter-das-ist-geld-das-fuer-unsere-kinder-fehlt-94544895.html",
+      "detected_at": "2026-10-18T08:52:39+00:00",
+      "source_id": "merkur-haar",
+      "source_name": "Münchner Merkur – Haar",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/kita-gebuehren-in-haar-steigen-um-100-euro-mutter-das-ist-geld-das-fuer-unsere-kinder-fehlt-94544895.html",
+      "link_text": "Kita-Gebühren steigen deutlich – Mutter entsetzt: „Das ist Geld, das für unsere Kinder fehlt“",
       "status": "unprocessed"
     }
   ]

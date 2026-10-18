@@ -5,11 +5,11 @@
       "name": "Gemeinde Feldkirchen – Nachrichten aus dem Bauamt",
       "url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt",
       "priority": "mandatory",
-      "last_success_at": "2026-10-17T08:35:53+00:00",
+      "last_success_at": "2026-10-18T08:52:17+00:00",
       "final_url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt",
       "content_type": "text/html;charset=UTF-8",
       "page_sha256": "cbf426a24b23ff338ae67533d4fc9993a4a4b1e178aed771a8fc7a5c39fcb12a",
-      "page_changed": true,
+      "page_changed": false,
       "first_seen": false,
       "links": {
         "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt/neues-parkraumkonzept-in-feldkirchen": {
@@ -26,11 +26,11 @@
       "name": "Gemeinde Feldkirchen – Neues Parkraumkonzept",
       "url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt/neues-parkraumkonzept-in-feldkirchen",
       "priority": "mandatory",
-      "last_success_at": "2026-10-17T08:35:57+00:00",
+      "last_success_at": "2026-10-18T08:52:21+00:00",
       "final_url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt/neues-parkraumkonzept-in-feldkirchen",
       "content_type": "text/html;charset=UTF-8",
       "page_sha256": "1be493394210c0a41835c1ff5633e449e00150c5b1fa17815381921637e98f84",
-      "page_changed": true,
+      "page_changed": false,
       "first_seen": false,
       "links": {
         "https://www.feldkirchen.de/": {
@@ -448,7 +448,7 @@
           "content_type": "application/pdf",
           "bytes": 1472041,
           "sha256": "4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
-          "checked_at": "2026-10-17T08:35:57+00:00"
+          "checked_at": "2026-10-18T08:52:21+00:00"
         }
       },
       "error": null
@@ -457,11 +457,11 @@
       "name": "Landkreis München",
       "url": "https://www.landkreis-muenchen.de/",
       "priority": "mandatory",
-      "last_success_at": "2026-10-17T08:35:58+00:00",
+      "last_success_at": "2026-10-18T08:52:22+00:00",
       "final_url": "https://www.landkreis-muenchen.de/",
       "content_type": "text/html; charset=utf-8",
       "page_sha256": "520f72e8ab1f4eeee4e4ee283c3130a19414e42332cdd0252618859b35dd0b4b",
-      "page_changed": true,
+      "page_changed": false,
       "first_seen": false,
       "links": {
         "https://www.landkreis-muenchen.de/": {
@@ -742,14 +742,14 @@
       "name": "Autobahn GmbH – Südbayern",
       "url": "https://www.autobahn.de/die-autobahn/niederlassungen/suedbayern",
       "priority": "topic",
-      "last_attempt_at": "2026-10-17T08:35:59+00:00",
+      "last_attempt_at": "2026-10-18T08:52:23+00:00",
       "error": "HTTPError: HTTP Error 404: Not Found"
     },
     "adfc-muenchen": {
       "name": "ADFC München",
       "url": "https://muenchen.adfc.de/",
       "priority": "topic",
-      "last_success_at": "2026-10-17T08:36:00+00:00",
+      "last_success_at": "2026-10-18T08:52:24+00:00",
       "final_url": "https://muenchen.adfc.de/",
       "content_type": "text/html; charset=utf-8",
       "page_sha256": "8753cd9c8e81436e9d30b8a81e2ce27e68e1b397fb6808937204d4d0deabcba8",
@@ -839,7 +839,7 @@
       "name": "BUND Naturschutz – Kreisgruppe München",
       "url": "https://bn-muenchen.de/",
       "priority": "topic",
-      "last_success_at": "2026-10-17T08:36:02+00:00",
+      "last_success_at": "2026-10-18T08:52:26+00:00",
       "final_url": "https://bn-muenchen.de/",
       "content_type": "text/html",
       "page_sha256": "c9c228fa3294734a8b11eb9e7cfac3316ccb2db84afb1c80c6f0098e713d2e2e",
@@ -860,11 +860,11 @@
       "name": "BI-AFK",
       "url": "https://www.bi-afk.de/",
       "priority": "topic",
-      "last_success_at": "2026-10-17T08:36:05+00:00",
+      "last_success_at": "2026-10-18T08:52:30+00:00",
       "final_url": "https://bi-afk.de/",
       "content_type": "text/html; charset=UTF-8",
       "page_sha256": "d49d1c9422cc7b2a8328158f3b0ff1f70c5f6e75fc9f2ca888d929ad8a16947d",
-      "page_changed": true,
+      "page_changed": false,
       "first_seen": false,
       "links": {
         "https://bi-afk.de/": {
@@ -946,7 +946,7 @@
           "content_type": "application/pdf",
           "bytes": 149466,
           "sha256": "f0ce9eb0a26c6e4bafbce93352128b32ede6a1a841c241d07be53c69c0f4b695",
-          "checked_at": "2026-10-17T08:36:05+00:00"
+          "checked_at": "2026-10-18T08:52:30+00:00"
         }
       },
       "error": null
@@ -955,10 +955,10 @@
       "name": "RIS Feldkirchen – Dokumente mit Freigabe",
       "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/do0040.asp",
       "priority": "mandatory",
-      "last_success_at": "2026-10-17T08:35:49+00:00",
+      "last_success_at": "2026-10-18T08:52:13+00:00",
       "final_url": "https://buergerinfo-feldkirchen.digitalfabrix.de/do0040.asp",
       "content_type": "text/html; Charset=utf-8",
-      "page_sha256": "9d293a1603346365d068b5bb4c10191639a49fb745e8ef85cb0a93bf9715964e",
+      "page_sha256": "2d89ef2e9356809658bc56cc9b322180314996cc3a58685c72ab954304272528",
       "page_changed": true,
       "first_seen": false,
       "links": {},
@@ -969,27 +969,39 @@
       "name": "Münchner Merkur – Landkreis München",
       "url": "https://www.merkur.de/lokales/muenchen-lk/",
       "priority": "mandatory",
-      "last_success_at": "2026-10-17T08:36:07+00:00",
+      "last_success_at": "2026-10-18T08:52:33+00:00",
       "final_url": "https://www.merkur.de/lokales/muenchen-lk/",
       "content_type": "text/html;charset=utf-8",
-      "page_sha256": "c578ee2f56f780f692d75bc9e850a8a9058d1fcadc2ed2da281971a124865af2",
+      "page_sha256": "5c555e8e24e34cef23e0a74f4803c7364e05bad477e28567d397894d934521fc",
       "page_changed": true,
       "first_seen": false,
       "links": {
         "https://www.merkur.de/lokales/muenchen-lk/": {
           "text": "Menü"
         },
+        "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/kita-gebuehren-in-haar-steigen-um-100-euro-mutter-das-ist-geld-das-fuer-unsere-kinder-fehlt-94544895.html": {
+          "text": "Kita-Gebühren steigen deutlich – Mutter entsetzt: „Das ist Geld, das für unsere Kinder fehlt“"
+        },
         "https://www.merkur.de/lokales/muenchen-lk/landkreis-muenchen-gruendet-foerdernetzwerk-22-geldgeber-beim-auftakt-dabei-94545248.html": {
           "text": "Landkreis sucht Partner für soziale Projekte: Stiftungen und Förderer beim Auftakt dabei"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/baierbrunn-ort28315/ungueltige-kommunalwahl-in-baierbrunn-selbstkritik-bei-formfehlern-94544997.html": {
+          "text": "Ungültige Kommunalwahl in Baierbrunn – Selbstkritik bei Formfehlern"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/oberschleissheim-ort29202/spaziergang-durch-erfolgsgeschichte-96-gefoerderte-wohnungen-in-oberschleissheim-werden-bezogen-94544909.html": {
+          "text": "Spaziergang durch Erfolgsgeschichte: 96 geförderte Wohnungen in Oberschleißheim werden bezogen"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/grasbrunn-ort377335/lemonclub-grasbrunn-neues-duo-belebt-jugendtreff-nach-unsteten-jahren-94544899.html": {
+          "text": "Lemonclub Grasbrunn: Neues Duo belebt Jugendtreff nach unsteten Jahren"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/aying-ort28266/172-unterschriften-ayinger-fordern-oeffnung-des-bahnuebergangs-goeggenhofen-94544890.html": {
+          "text": "172 Unterschriften: Ayinger fordern Öffnung des Bahnübergangs Göggenhofen"
         },
         "https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/unterhaching-wie-ein-84-jaehriger-den-buerokratischen-aufwand-fuer-die-pflege-seiner-frau-stemmt-94544432.html": {
           "text": "„Wahnsinnige Belastung für die Psyche“: 84-Jähriger organisiert die Pflege für seine gelähmte Frau"
         },
         "https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/garchinger-start-up-scannt-haut-in-minuten-100-nutzer-taeglich-im-dm-test-94538695.html": {
           "text": "„Mehr als 100 Nutzer am Tag“: Neues Angebot entwickelt – nun wollen Gründer zu „Die Höhle der Löwen“"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/aying-ort28266/172-unterschriften-ayinger-fordern-oeffnung-des-bahnuebergangs-goeggenhofen-94544890.html": {
-          "text": "172 Unterschriften: Ayinger fordern Öffnung des Bahnübergangs Göggenhofen"
         },
         "https://www.merkur.de/lokales/muenchen-lk/oberhaching-ort29194/ex-betreuer-des-fc-deisenhofen-filmte-1000-videos-bewaehrungsstrafe-empoert-verein-94544567.html": {
           "text": "Heimliche Kabinen-Videos: Vereins-Betreuer verurteilt – „Kann herumlaufen, als ob nichts gewesen wäre“"
@@ -1023,18 +1035,6 @@
         },
         "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/kampfhund-toetet-dackel-feldkirchen-prueft-leinenpflicht-fuer-grosse-hunde-94541111.html": {
           "text": "Kampfhund tötet Dackel: Gemeinde prüft Leinenpflicht für große Hunde"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/oberhaching-ort29194/tsv-oberhaching-dreht-derby-tropics-schlagen-fc-bayern-mit-3521-im-schlussviertel-94543392.html": {
-          "text": "TSV Oberhaching dreht Derby: Tropics schlagen FC Bayern"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/sauerlach-ort117101/massive-schaeden-kirche-st-margaret-muss-dringend-saniert-werden-94540962.html": {
-          "text": "Massive Schäden: Kirche St. Margaret muss dringend saniert werden"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/hoehenkirchen-siegertsbrunn-ort100556/hundesteuer-in-hoehenkirchen-siegertsbrunn-steigt-um-zwei-drittel-auf-100-euro-94541977.html": {
-          "text": "Hundesteuer in Höhenkirchen-Siegertsbrunn steigt um zwei Drittel"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/unterschleissheim-ort29622/kupferdieb-auf-baustelle-gefasst-michael-ende-grundschule-soll-zu-pfingsten-fertig-sein-94540947.html": {
-          "text": "Kupferdieb auf Baustelle gefasst: Michael-Ende-Grundschule soll zu Pfingsten fertig sein"
         }
       },
       "documents": {},
@@ -1044,10 +1044,10 @@
       "name": "Münchner Merkur – Feldkirchen",
       "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/",
       "priority": "mandatory",
-      "last_success_at": "2026-10-17T08:36:09+00:00",
+      "last_success_at": "2026-10-18T08:52:35+00:00",
       "final_url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/",
       "content_type": "text/html;charset=utf-8",
-      "page_sha256": "3135b10f71358292a022c99ac7660f56f43594e97808766212da3a77bee26800",
+      "page_sha256": "03d079b5b1142d760978c837373d9b80beda9f962110bb90d376b4e04ceabae2",
       "page_changed": true,
       "first_seen": false,
       "links": {
@@ -1116,10 +1116,10 @@
       "name": "Münchner Merkur – Aschheim",
       "url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/",
       "priority": "mandatory",
-      "last_success_at": "2026-10-17T08:36:10+00:00",
+      "last_success_at": "2026-10-18T08:52:36+00:00",
       "final_url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/",
       "content_type": "text/html;charset=utf-8",
-      "page_sha256": "49aa62487fb47dba885c70e974fb934672b86e7f175354673837e139897d23f9",
+      "page_sha256": "9c471ffa6533400f1f9c91f42456f5e47219cf9d91d2396b75b9cf7bb489d0b8",
       "page_changed": true,
       "first_seen": false,
       "links": {
@@ -1188,10 +1188,10 @@
       "name": "Münchner Merkur – Kirchheim",
       "url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/",
       "priority": "mandatory",
-      "last_success_at": "2026-10-17T08:36:11+00:00",
+      "last_success_at": "2026-10-18T08:52:37+00:00",
       "final_url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/",
       "content_type": "text/html;charset=utf-8",
-      "page_sha256": "314186cfabbad432730f482d08cef949002d98f41f96bc13dbbbbf599c8dd946",
+      "page_sha256": "d185cd788330d653f6419b1542b6f3ee58e62fdd2287878ccee24e75bd4ac456",
       "page_changed": true,
       "first_seen": false,
       "links": {
@@ -1260,10 +1260,10 @@
       "name": "Münchner Merkur – Haar",
       "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/",
       "priority": "mandatory",
-      "last_success_at": "2026-10-17T08:36:12+00:00",
+      "last_success_at": "2026-10-18T08:52:39+00:00",
       "final_url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/",
       "content_type": "text/html;charset=utf-8",
-      "page_sha256": "7774403c75ff79041721542bf91b8284deb7b6df947a843448eefe96ace45c19",
+      "page_sha256": "6a8534f60d5c1157c95cab812202391dc783c03633477440d3262617803c5075",
       "page_changed": true,
       "first_seen": false,
       "links": {
@@ -1273,17 +1273,20 @@
         "https://www.merkur.de/lokales/muenchen-lk/": {
           "text": "München Landkreis"
         },
+        "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/kita-gebuehren-in-haar-steigen-um-100-euro-mutter-das-ist-geld-das-fuer-unsere-kinder-fehlt-94544895.html": {
+          "text": "Kita-Gebühren steigen deutlich – Mutter entsetzt: „Das ist Geld, das für unsere Kinder fehlt“"
+        },
         "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/aus-gittis-waldwirtschaft-wird-zum-waldwichtl-neuer-wirt-fuer-beliebte-kneipe-94533612.html": {
           "text": "Aus „Gittis Waldwirtschaft“ wird „Zum Waldwichtl“: Neuer Wirt für beliebte Kneipe"
         },
         "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/buergermeister-sprechstunde-wgs-und-co-das-wuenscht-sich-die-haarer-jugend-94527652.html": {
           "text": "Bürgermeister-Sprechstunde, WGs und Co.: Das wünscht sich die Haarer Jugend"
         },
-        "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/psychiatrische-klinik-in-haar-schickt-aerzte-zu-patienten-nach-hause-94526042.html": {
-          "text": "Psychiatrische Klinik schickt Ärzte zu Patienten nach Hause"
-        },
         "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/haar-schafft-eigene-park-sheriffs-und-erwartet-bis-zu-54-600-euro-ueberschuss-94531654.html": {
           "text": "Haar schafft eigene Park-Sheriffs an – und erwartet bis zu 54.600 Euro Überschuss"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/psychiatrische-klinik-in-haar-schickt-aerzte-zu-patienten-nach-hause-94526042.html": {
+          "text": "Psychiatrische Klinik schickt Ärzte zu Patienten nach Hause"
         },
         "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/kindergarten-in-haar-wird-teurer-eltern-zahlen-ab-2027-monatlich-100-euro-mehr-94518310.html": {
           "text": "Kindergarten wird teurer: Eltern zahlen ab 2027 monatlich 100 Euro mehr"
@@ -1320,9 +1323,6 @@
         },
         "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/startup-wirbt-mit-99-prozent-erkennungsquote-und-beliefert-die-ganze-welt-94486633.html": {
           "text": "Startup wirbt mit 99,9 Prozent Erkennungsquote – und beliefert die ganze Welt"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/haar-wiesn-tracht-lisa-heining-naeht-massgeschneiderte-dirndl-ab-850-euro-94479693.html": {
-          "text": "Erstes Dirndl für die Wiesn selbst geschneidert: Mittlerweile erfüllt Haarerin Trachtenträume"
         }
       },
       "documents": {},
@@ -1332,11 +1332,11 @@
       "name": "Gemeinde Feldkirchen – Aktuelle Meldungen",
       "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen",
       "priority": "mandatory",
-      "last_success_at": "2026-10-17T08:35:52+00:00",
+      "last_success_at": "2026-10-18T08:52:15+00:00",
       "final_url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen",
       "content_type": "text/html;charset=UTF-8",
       "page_sha256": "6347c3d206aacfcc0b471fb7b3e998244f4d7738d1122d2a7903bd75294cabd0",
-      "page_changed": true,
+      "page_changed": false,
       "first_seen": false,
       "links": {
         "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/nachrichten-archiv": {
@@ -1419,7 +1419,7 @@
       "name": "BENG eG – Bürgerenergie und Energieprojekte",
       "url": "https://www.beng-eg.de/",
       "priority": "topic",
-      "last_success_at": "2026-10-17T08:36:06+00:00",
+      "last_success_at": "2026-10-18T08:52:31+00:00",
       "final_url": "https://www.beng-eg.de/",
       "content_type": "text/html; charset=UTF-8",
       "page_sha256": "998a2aaeeaf10fa2d2d770d002e3cb8d3278508655bc835529002f73819ec662",
@@ -1437,5 +1437,5 @@
       "error": null
     }
   },
-  "last_run_at": "2026-10-17T08:36:12+00:00"
+  "last_run_at": "2026-10-18T08:52:39+00:00"
 }
