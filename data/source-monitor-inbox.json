@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-18T08:52:39+00:00",
+  "updated_at": "2026-10-19T09:57:07+00:00",
   "items": [
     {
       "event_key": "document:feldkirchen-parkraum-2026:https://www.feldkirchen.de/_Resources/Persistent/d/3/d/e/d3dee38ce3c4a9ad01384ca6ed314a2a8f8bcc12/2026%20Parkraumkonzept%20gem%20GR-Beschluss.pdf:4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
@@ -5284,6 +5284,76 @@
       "kind": "link_new",
       "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/kita-gebuehren-in-haar-steigen-um-100-euro-mutter-das-ist-geld-das-fuer-unsere-kinder-fehlt-94544895.html",
       "link_text": "Kita-Gebühren steigen deutlich – Mutter entsetzt: „Das ist Geld, das für unsere Kinder fehlt“",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/putzbrunn-ort29323/schulbus-faehrt-nicht-putzbrunner-buergermeister-chauffiert-kids-im-feuerwehrauto-zur-schule-94546414.html",
+      "detected_at": "2026-10-19T09:57:03+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/putzbrunn-ort29323/schulbus-faehrt-nicht-putzbrunner-buergermeister-chauffiert-kids-im-feuerwehrauto-zur-schule-94546414.html",
+      "link_text": "Schulbus fährt nicht: Putzbrunner Bürgermeister chauffiert Kids im Feuerwehrauto zur Schule",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/hoehenkirchen-siegertsbrunn-ort100556/hoehenkirchen-durch-ausbau-der-luitpoldstrasse-soll-jetzt-bahnhofstrasse-entlastet-werden-94546480.html",
+      "detected_at": "2026-10-19T09:57:03+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/hoehenkirchen-siegertsbrunn-ort100556/hoehenkirchen-durch-ausbau-der-luitpoldstrasse-soll-jetzt-bahnhofstrasse-entlastet-werden-94546480.html",
+      "link_text": "Gleistieferlegung geplatzt: Durch Ausbau der Luitpoldstraße soll jetzt Bahnhofstraße entlastet werden",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/altbuergermeister-gruchmann-fuenf-kilo-abgenommen-und-zwei-zentimeter-gewachsen-94546584.html",
+      "detected_at": "2026-10-19T09:57:03+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/altbuergermeister-gruchmann-fuenf-kilo-abgenommen-und-zwei-zentimeter-gewachsen-94546584.html",
+      "link_text": "Abend des Engagements: Gruchmann bekommt Altbürgermeistertitel",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/schuesse-und-knallgeraeusche-polizei-uebt-im-alten-gymnasium-kirchheim-94546577.html",
+      "detected_at": "2026-10-19T09:57:03+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/schuesse-und-knallgeraeusche-polizei-uebt-im-alten-gymnasium-kirchheim-94546577.html",
+      "link_text": "Schüsse und Knallgeräusche: Polizei übt im alten Gymnasium Kirchheim",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/unterschleissheim-ort29622/350-000-euro-fuer-menschen-in-not-lichtblicke-konzerte-feiern-25-jahre-94546313.html",
+      "detected_at": "2026-10-19T09:57:03+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/unterschleissheim-ort29622/350-000-euro-fuer-menschen-in-not-lichtblicke-konzerte-feiern-25-jahre-94546313.html",
+      "link_text": "350.000 Euro für Menschen in Not: „Lichtblicke\"-Konzerte feiern 25 Jahre",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/schaeftlarn-ort73337/schaeftlarn-ueber-90-jaehriger-prallt-mit-pkw-gegen-pferdeanhaenger-94546459.html",
+      "detected_at": "2026-10-19T09:57:03+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/schaeftlarn-ort73337/schaeftlarn-ueber-90-jaehriger-prallt-mit-pkw-gegen-pferdeanhaenger-94546459.html",
+      "link_text": "Über 90-Jähriger prallt mit Pkw gegen Pferdeanhänger",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-kirchheim:https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/schuesse-und-knallgeraeusche-polizei-uebt-im-alten-gymnasium-kirchheim-94546577.html",
+      "detected_at": "2026-10-19T09:57:06+00:00",
+      "source_id": "merkur-kirchheim",
+      "source_name": "Münchner Merkur – Kirchheim",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/schuesse-und-knallgeraeusche-polizei-uebt-im-alten-gymnasium-kirchheim-94546577.html",
+      "link_text": "Schüsse und Knallgeräusche: Polizei übt im alten Gymnasium Kirchheim",
       "status": "unprocessed"
     }
   ]
