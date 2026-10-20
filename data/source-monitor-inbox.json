@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-19T09:57:07+00:00",
+  "updated_at": "2026-10-20T09:27:57+00:00",
   "items": [
     {
       "event_key": "document:feldkirchen-parkraum-2026:https://www.feldkirchen.de/_Resources/Persistent/d/3/d/e/d3dee38ce3c4a9ad01384ca6ed314a2a8f8bcc12/2026%20Parkraumkonzept%20gem%20GR-Beschluss.pdf:4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
@@ -5354,6 +5354,96 @@
       "kind": "link_new",
       "url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/schuesse-und-knallgeraeusche-polizei-uebt-im-alten-gymnasium-kirchheim-94546577.html",
       "link_text": "Schüsse und Knallgeräusche: Polizei übt im alten Gymnasium Kirchheim",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/oberschleissheim-ort29202/lkw-fahrer-auf-a99-eingeklemmt-einsatz-dauert-bis-30-uhr-94549617.html",
+      "detected_at": "2026-10-20T09:27:51+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/oberschleissheim-ort29202/lkw-fahrer-auf-a99-eingeklemmt-einsatz-dauert-bis-30-uhr-94549617.html",
+      "link_text": "Lkw-Fahrer auf A99 eingeklemmt: Einsatz dauert bis 6.30 Uhr",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/gruenwald-ort28770/gruenwald-einbrecher-klettern-an-hausfassade-hoch-ehepaar-scheucht-sie-weg-94548090.html",
+      "detected_at": "2026-10-20T09:27:51+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/gruenwald-ort28770/gruenwald-einbrecher-klettern-an-hausfassade-hoch-ehepaar-scheucht-sie-weg-94548090.html",
+      "link_text": "Ehepaar überrascht Einbrecher in Grünwald – Flucht in BMW",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/unterschleissheim-ort29622/baumgrab-steigt-von-18-auf-117-euro-unterschleissheim-erhoeht-friedhofsgebuehren-massiv-94548371.html",
+      "detected_at": "2026-10-20T09:27:51+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/unterschleissheim-ort29622/baumgrab-steigt-von-18-auf-117-euro-unterschleissheim-erhoeht-friedhofsgebuehren-massiv-94548371.html",
+      "link_text": "Baumgrab steigt von 18 auf 117 Euro: Unterschleißheim erhöht Friedhofsgebühren massiv",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/20-von-23-sickergruben-kaputt-unterhaching-saniert-bahnunterfuehrung-fuer-450-000-euro-94548514.html",
+      "detected_at": "2026-10-20T09:27:51+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/20-von-23-sickergruben-kaputt-unterhaching-saniert-bahnunterfuehrung-fuer-450-000-euro-94548514.html",
+      "link_text": "20 von 23 Sickergruben kaputt: Unterhaching saniert Bahnunterführung für 450.000 Euro",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/geben-wuerde-zurueck-lebensmittelausgabe-versorgt-300-menschen-94548428.html",
+      "detected_at": "2026-10-20T09:27:51+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/geben-wuerde-zurueck-lebensmittelausgabe-versorgt-300-menschen-94548428.html",
+      "link_text": "„Geben Würde zurück“ – Lebensmittelausgabe versorgt 300 Menschen pro Woche",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/putzbrunn-ort29323/190-000-euro-fuer-neuen-garten-putzbrunner-kindergarten-weiht-grosse-schaukel-ein-94547623.html",
+      "detected_at": "2026-10-20T09:27:51+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/putzbrunn-ort29323/190-000-euro-fuer-neuen-garten-putzbrunner-kindergarten-weiht-grosse-schaukel-ein-94547623.html",
+      "link_text": "190.000 Euro für neuen Garten: Putzbrunner Kindergarten weiht große Schaukel ein",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/schaeftlarn-ort73337/18-jaehriger-verliert-kontrolle-ueber-audi-50-000-euro-totalschaden-94548463.html",
+      "detected_at": "2026-10-20T09:27:51+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/schaeftlarn-ort73337/18-jaehriger-verliert-kontrolle-ueber-audi-50-000-euro-totalschaden-94548463.html",
+      "link_text": "18-Jähriger verliert Kontrolle über Audi – 50.000 Euro Totalschaden",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/strasslach-dingharting-ort377277/frauenkirchen-baumeister-baute-auch-diese-kirche-im-landkreis-muenchen-94546598.html",
+      "detected_at": "2026-10-20T09:27:51+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/strasslach-dingharting-ort377277/frauenkirchen-baumeister-baute-auch-diese-kirche-im-landkreis-muenchen-94546598.html",
+      "link_text": "Frauenkirchen-Baumeister baute auch diese Kirche im Landkreis München",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/oberhaching-ort29194/einbrecher-schleppen-tresor-aus-einfamilienhaus-in-oberhaching-94548102.html",
+      "detected_at": "2026-10-20T09:27:51+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/oberhaching-ort29194/einbrecher-schleppen-tresor-aus-einfamilienhaus-in-oberhaching-94548102.html",
+      "link_text": "Einbrecher schleppen Tresor aus Einfamilienhaus in Oberhaching",
       "status": "unprocessed"
     }
   ]
