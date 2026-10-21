@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-20T09:27:57+00:00",
+  "updated_at": "2026-10-21T09:23:44+00:00",
   "items": [
     {
       "event_key": "document:feldkirchen-parkraum-2026:https://www.feldkirchen.de/_Resources/Persistent/d/3/d/e/d3dee38ce3c4a9ad01384ca6ed314a2a8f8bcc12/2026%20Parkraumkonzept%20gem%20GR-Beschluss.pdf:4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
@@ -5444,6 +5444,166 @@
       "kind": "link_new",
       "url": "https://www.merkur.de/lokales/muenchen-lk/oberhaching-ort29194/einbrecher-schleppen-tresor-aus-einfamilienhaus-in-oberhaching-94548102.html",
       "link_text": "Einbrecher schleppen Tresor aus Einfamilienhaus in Oberhaching",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:feldkirchen-aktuelle-meldungen:https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/nachleerung-muelltonnen",
+      "detected_at": "2026-10-21T09:23:19+00:00",
+      "source_id": "feldkirchen-aktuelle-meldungen",
+      "source_name": "Gemeinde Feldkirchen – Aktuelle Meldungen",
+      "kind": "link_new",
+      "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/nachleerung-muelltonnen",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:landkreis-muenchen:https://www.landkreis-muenchen.de/artikel/amtsblatt-36-2026/",
+      "detected_at": "2026-10-21T09:23:29+00:00",
+      "source_id": "landkreis-muenchen",
+      "source_name": "Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.landkreis-muenchen.de/artikel/amtsblatt-36-2026/",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:landkreis-muenchen:https://www.landkreis-muenchen.de/artikel/drittes-leben-fuer-loeschfahrzeug/",
+      "detected_at": "2026-10-21T09:23:29+00:00",
+      "source_id": "landkreis-muenchen",
+      "source_name": "Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.landkreis-muenchen.de/artikel/drittes-leben-fuer-loeschfahrzeug/",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:adfc-muenchen:https://muenchen.adfc.de/neuigkeit/komm-zum-empfang-fuer-neumitglieder-und-neugierige",
+      "detected_at": "2026-10-21T09:23:31+00:00",
+      "source_id": "adfc-muenchen",
+      "source_name": "ADFC München",
+      "kind": "link_new",
+      "url": "https://muenchen.adfc.de/neuigkeit/komm-zum-empfang-fuer-neumitglieder-und-neugierige",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/brandstiftung-in-aschheimer-hotel-130-gaeste-mitten-in-der-nacht-evakuiert-94551023.html",
+      "detected_at": "2026-10-21T09:23:38+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/brandstiftung-in-aschheimer-hotel-130-gaeste-mitten-in-der-nacht-evakuiert-94551023.html",
+      "link_text": "Brandstiftung in Hotel: 130 Gäste mitten in der Nacht evakuiert",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/kleines-theater-haar-feiert-zauberfloete-mit-stehendem-applaus-94550456.html",
+      "detected_at": "2026-10-21T09:23:38+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/kleines-theater-haar-feiert-zauberfloete-mit-stehendem-applaus-94550456.html",
+      "link_text": "Kleine Bühne, große Oper: Theater Haar feiert Zauberflöte mit stehendem Applaus",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/grasbrunn-ort377335/schwedenschlacht-bei-grasbrunn-bis-zu-3000-euro-fuer-kostueme-94550389.html",
+      "detected_at": "2026-10-21T09:23:38+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/grasbrunn-ort377335/schwedenschlacht-bei-grasbrunn-bis-zu-3000-euro-fuer-kostueme-94550389.html",
+      "link_text": "Schwedenschlacht bei Grasbrunn: Musketiere geben bis zu 3000 Euro für ihr Kostüm aus",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/ottobrunn-ort29241/feuerwehrkommandant-zeigt-mit-wuersteln-und-dosensuppe-durch-den-stromausfall-94550257.html",
+      "detected_at": "2026-10-21T09:23:38+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/ottobrunn-ort29241/feuerwehrkommandant-zeigt-mit-wuersteln-und-dosensuppe-durch-den-stromausfall-94550257.html",
+      "link_text": "Feuerwehrkommandant zeigt: Mit Würsteln und Dosensuppe durch den Stromausfall",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/33-millionen-sanierung-gestrichen-kirchheimer-schule-bekommt-nur-flickwerk-94548361.html",
+      "detected_at": "2026-10-21T09:23:38+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/33-millionen-sanierung-gestrichen-kirchheimer-schule-bekommt-nur-flickwerk-94548361.html",
+      "link_text": "33-Millionen-Sanierung gestrichen: Kirchheimer Schule bekommt nur Flickwerk",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/unterschleissheim-ort29622/stadtbibliothek-unterschleissheim-bleibt-vier-wochen-geschlossen-94549782.html",
+      "detected_at": "2026-10-21T09:23:38+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/unterschleissheim-ort29622/stadtbibliothek-unterschleissheim-bleibt-vier-wochen-geschlossen-94549782.html",
+      "link_text": "Stadtbibliothek Unterschleißheim bleibt vier Wochen geschlossen",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/baierbrunn-ort28315/drohnenshow-fuer-30-000-euro-baierbrunn-rettet-spektakel-zum-jubilaeum-94548378.html",
+      "detected_at": "2026-10-21T09:23:38+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/baierbrunn-ort28315/drohnenshow-fuer-30-000-euro-baierbrunn-rettet-spektakel-zum-jubilaeum-94548378.html",
+      "link_text": "Drohnenshow für 30.000 Euro: Baierbrunn rettet Spektakel zum Jubiläum – Termin steht fest",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/oberhaching-ort29194/reh-springt-auf-strasse-rennradfahrer-prallt-mit-tier-zusammen-94549660.html",
+      "detected_at": "2026-10-21T09:23:38+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/oberhaching-ort29194/reh-springt-auf-strasse-rennradfahrer-prallt-mit-tier-zusammen-94549660.html",
+      "link_text": "Rennradfahrer prallt mit Reh zusammen",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-aschheim:https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/brandstiftung-in-hotel-bei-muenchen-die-bilder-des-naechtlichen-grosseinsatzes-94551252.html",
+      "detected_at": "2026-10-21T09:23:41+00:00",
+      "source_id": "merkur-aschheim",
+      "source_name": "Münchner Merkur – Aschheim",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/brandstiftung-in-hotel-bei-muenchen-die-bilder-des-naechtlichen-grosseinsatzes-94551252.html",
+      "link_text": "Brandstiftung in Hotel bei München: Die Bilder des nächtlichen Großeinsatzes",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-aschheim:https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/brandstiftung-in-aschheimer-hotel-130-gaeste-mitten-in-der-nacht-evakuiert-94551023.html",
+      "detected_at": "2026-10-21T09:23:41+00:00",
+      "source_id": "merkur-aschheim",
+      "source_name": "Münchner Merkur – Aschheim",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/brandstiftung-in-aschheimer-hotel-130-gaeste-mitten-in-der-nacht-evakuiert-94551023.html",
+      "link_text": "Brandstiftung in Hotel: 130 Gäste mitten in der Nacht evakuiert",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-kirchheim:https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/33-millionen-sanierung-gestrichen-kirchheimer-schule-bekommt-nur-flickwerk-94548361.html",
+      "detected_at": "2026-10-21T09:23:42+00:00",
+      "source_id": "merkur-kirchheim",
+      "source_name": "Münchner Merkur – Kirchheim",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/33-millionen-sanierung-gestrichen-kirchheimer-schule-bekommt-nur-flickwerk-94548361.html",
+      "link_text": "33-Millionen-Sanierung gestrichen: Kirchheimer Schule bekommt nur Flickwerk",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-haar:https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/kleines-theater-haar-feiert-zauberfloete-mit-stehendem-applaus-94550456.html",
+      "detected_at": "2026-10-21T09:23:44+00:00",
+      "source_id": "merkur-haar",
+      "source_name": "Münchner Merkur – Haar",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/kleines-theater-haar-feiert-zauberfloete-mit-stehendem-applaus-94550456.html",
+      "link_text": "Kleine Bühne, große Oper: Theater Haar feiert Zauberflöte mit stehendem Applaus",
       "status": "unprocessed"
     }
   ]
