@@ -4,13 +4,13 @@
   "status": "canonical_after_standard_update_2026-09-28",
   "research_window": {
     "from": "2025-08-27",
-    "to": "2026-10-20"
+    "to": "2026-10-22"
   },
   "source_basis": [
     "recherchebestand.json",
     "sitzungsbestand.json"
   ],
-  "contribution_count": 91,
+  "contribution_count": 92,
   "editorial_rules": [
     "No methodological or demonstrator text inside public contribution content.",
     "Sachinformation is neutral; political assessment is a separate optional field.",
@@ -179,6 +179,63 @@
         "Griecherl-Gehölz",
         "Münchner Straße",
         "Baumschutz"
+      ]
+    },
+    {
+      "id": "R113",
+      "date": "2026-10-15",
+      "publication_date": "2026-10-09",
+      "category": "Ortsentwicklung & Bauen",
+      "topic_candidates": [
+        "Kiesgrube",
+        "Verfüllung",
+        "Bodennutzung"
+      ],
+      "title": "Kiesgrube: Neue Fristen für die Verfüllung beantragt",
+      "subtitle": "Beschlussvorlage 5355/2026 zum Flurstück 488 war am 15. Oktober im Gemeinderat; ein Ergebnis ist bislang nicht verifiziert.",
+      "sachinformation": "Der Gemeinderat Feldkirchen hatte am 15. Oktober 2026 unter TOP 15 einen Antrag zur Festsetzung neuer Fristen für die Verfüllung der Kiesgrube auf Flurstück 488 (Gemarkung Feldkirchen) auf der öffentlichen Tagesordnung. Die Beschlussvorlage 5355/2026 wurde laut RIS zuletzt am 9. Oktober bearbeitet. Aus der öffentlich geprüften Vorlagenseite und Sitzungsliste lässt sich weder die beantragte Frist noch der tatsächliche Beschluss ableiten. Diese Punkte sind noch zu klären.",
+      "sources": [
+        {
+          "name": "RIS Feldkirchen – Beschlussvorlage 5355/2026",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8600",
+          "type": "primary_official",
+          "date": "2026-10-09",
+          "date_basis": "RIS_last_modified",
+          "date_status": "verified"
+        },
+        {
+          "name": "RIS Feldkirchen – Gemeinderat 15.10.2026",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1031",
+          "type": "primary_official",
+          "date": "2026-10-15",
+          "date_basis": "session_date",
+          "date_status": "verified"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": null,
+      "research_refs": [
+        "R113"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen",
+        "related_places": [
+          "Feldkirchen"
+        ],
+        "scope": "feldkirchen_direct",
+        "verification_status": "verified_2026-10-22"
+      },
+      "established_topic_refs": [],
+      "stage_update_meta": {
+        "created_at": "2026-10-22",
+        "source_status": "RIS agenda and metadata verified, resolution not verified"
+      },
+      "search_tags": [
+        "Kiesgrube",
+        "Flurstück 488",
+        "Verfüllung",
+        "Fristen"
       ]
     },
     {
