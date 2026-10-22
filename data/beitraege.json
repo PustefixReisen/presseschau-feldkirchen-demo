@@ -22,6 +22,75 @@
   ],
   "contributions": [
     {
+      "id": "R111",
+      "date": "2026-10-22",
+      "publication_date": "2026-10-15",
+      "category": "Ortsentwicklung & Bauen",
+      "topic_candidates": [
+        "Rechenzentrum",
+        "Bebauungsplan 112",
+        "Ortsentwicklung"
+      ],
+      "title": "Rechenzentrum: Gemeinderat befürwortet Voranfrage – Kritik an Flächenversiegelung",
+      "subtitle": "Aktualisierung vom 22.10.2026 (Merkur-Bericht zur Entscheidung vom 15. Oktober): 70 bis 80 Prozent Versiegelung vorgesehen; Grüne stimmten dagegen.",
+      "sachinformation": "Der Gemeinderat Feldkirchen hat laut einem am 22. Oktober 2026 veröffentlichten Bericht des Münchner Merkur (Bert Brosch) eine Voranfrage für ein Rechenzentrum grundsätzlich positiv beschieden. Gegenstand der Gemeinderatssitzung vom 15. Oktober waren die Flurstücke 597/5 und 598/2 sowie die Änderung des Bebauungsplans Nr. 112 (RIS-Vorlage 5370/2026). Nach dem Merkur-Bericht sollen 70 bis 80 Prozent des Grundstücks versiegelt werden. Die Grünen stimmten gegen die Voranfrage; als Kritik wird im Bericht die bereits angespannte Wassersituation im Großraum München genannt. Die vom Merkur gezeigte Visualisierung der Gemeinde enthält einen 25 Meter hohen Schornstein. Die bildliche Darstellung ist eine Planung, kein Foto eines bestehenden Gebäudes. Details der Beschlussformulierung und weitere Bedingungen sind noch anhand des Sitzungsprotokolls abzugleichen.",
+      "sources": [
+        {
+          "name": "RIS Feldkirchen – Beschlussvorlage 5370/2026",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8615",
+          "type": "primary_official",
+          "date": "2026-10-15",
+          "date_basis": "session_date",
+          "date_status": "verified_session_agenda_no_result"
+        },
+        {
+          "name": "RIS Feldkirchen – Gemeinderat 15.10.2026",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1031",
+          "type": "primary_official",
+          "date": "2026-10-15",
+          "date_basis": "session_date",
+          "date_status": "verified"
+        },
+        {
+          "name": "Münchner Merkur – Bert Brosch: Rechenzentrum in Feldkirchen: 70 bis 80 Prozent des Grundstücks sollen versiegelt werden (22.10.2026); Direktlink noch nicht ermittelt, Screenshot redaktionell vorliegend",
+          "url": "https://www.merkur.de/lokales-lk/feldkirchen-ort28673/",
+          "type": "secondary_press_section_link",
+          "date": "2026-10-22",
+          "date_basis": "publication_date_shown_in_screenshot",
+          "date_status": "screenshot_verified_link_to_article_pending"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": null,
+      "research_refs": [
+        "R111"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen",
+        "related_places": [
+          "Feldkirchen"
+        ],
+        "scope": "feldkirchen_direct",
+        "verification_status": "verified_2026-10-20"
+      },
+      "established_topic_refs": [],
+      "stage_update_meta": {
+        "created_at": "2026-10-20",
+        "source_status": "Merkur screenshot verified; permalink and official resolution pending",
+        "updated_at": "2026-10-22",
+        "latest_source_date": "2026-10-22"
+      },
+      "search_tags": [
+        "Rechenzentrum",
+        "Bebauungsplan 112",
+        "Ortsentwicklung",
+        "Flächenversiegelung",
+        "Wasserverbrauch",
+        "Gemeinderatsbeschluss"
+      ]
+    },
+    {
       "id": "R109",
       "date": "2026-10-15",
       "publication_date": "2026-10-08",
@@ -68,62 +137,6 @@
         "created_at": "2026-10-15",
         "source_status": "verified_official"
       }
-    },
-    {
-      "id": "R111",
-      "date": "2026-10-15",
-      "publication_date": "2026-10-15",
-      "category": "Ortsentwicklung & Bauen",
-      "topic_candidates": [
-        "Rechenzentrum",
-        "Bebauungsplan 112",
-        "Ortsentwicklung"
-      ],
-      "title": "Rechenzentrum: Gemeinderat befasst sich mit Planung und Bebauungsplan",
-      "subtitle": "Voranfrage für Flurstücke 597/5 und 598/2 in der Sitzung vom 15. Oktober behandelt; Ergebnis öffentlich noch nicht verifiziert.",
-      "sachinformation": "Die öffentliche Tagesordnung des Gemeinderats vom 15. Oktober 2026 führt unter TOP 6 eine Voranfrage zur Errichtung eines Rechenzentrums auf den Flurstücken 597/5 und 598/2 sowie die Einleitung einer Änderung des Bebauungsplans Nr. 112. Die Beschlussvorlage trägt die Nummer 5370/2026. Aus der öffentlich zugänglichen Tagesordnung ist noch nicht ersichtlich, ob und mit welchem Ergebnis der Gemeinderat entschieden hat. Auch Größe, Betreiber und technische Ausgestaltung sind damit hier nicht belegt.",
-      "sources": [
-        {
-          "name": "RIS Feldkirchen – Beschlussvorlage 5370/2026",
-          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8615",
-          "type": "primary_official",
-          "date": "2026-10-15",
-          "date_basis": "session_date",
-          "date_status": "verified_session_agenda_no_result"
-        },
-        {
-          "name": "RIS Feldkirchen – Gemeinderat 15.10.2026",
-          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1031",
-          "type": "primary_official",
-          "date": "2026-10-15",
-          "date_basis": "session_date",
-          "date_status": "verified"
-        }
-      ],
-      "bisheriger_verlauf": [],
-      "unsere_einordnung": null,
-      "council": null,
-      "research_refs": [
-        "R111"
-      ],
-      "ortsbezug": {
-        "display_place": "Feldkirchen",
-        "related_places": [
-          "Feldkirchen"
-        ],
-        "scope": "feldkirchen_direct",
-        "verification_status": "verified_2026-10-20"
-      },
-      "established_topic_refs": [],
-      "stage_update_meta": {
-        "created_at": "2026-10-20",
-        "source_status": "RIS-Vorlage verifiziert; Beschlussergebnis ungeklärt"
-      },
-      "search_tags": [
-        "Rechenzentrum",
-        "Bebauungsplan 112",
-        "Ortsentwicklung"
-      ]
     },
     {
       "id": "R112",
