@@ -4,7 +4,7 @@
   "status": "canonical_after_standard_update_2026-09-28",
   "research_window": {
     "from": "2025-08-27",
-    "to": "2026-10-22"
+    "to": "2026-10-23"
   },
   "source_basis": [
     "recherchebestand.json",
@@ -21,6 +21,83 @@
     "Unsere Einordnung was audited on 2026-08-29 for citizen-oriented political language per KI-Leitfaden 0.8."
   ],
   "contributions": [
+    {
+      "id": "R084",
+      "date": "2026-10-23",
+      "publication_date": "2026-09-25",
+      "category": "Kommunalpolitik & Beteiligung",
+      "topic_candidates": [
+        "Bürgerversammlung",
+        "Bürgerbeteiligung",
+        "Gemeinderat"
+      ],
+      "title": "Bürgerversammlung: Bürgeranträge vom 21. Oktober",
+      "subtitle": "Aktualisierung vom 23.10.2026: Der Merkur berichtet über mehrere angenommene Anträge.",
+      "sachinformation": "Die Gemeinde Feldkirchen hat die Bürgerversammlung für Mittwoch, 21. Oktober 2026, um 19 Uhr im großen Sitzungssaal des Rathauses angekündigt. Die Veranstaltung soll auch als Livestream übertragen werden. Auf der Tagesordnung stehen der Bericht des Ersten Bürgermeisters, ein Grußwort des Landrats, der Bericht der Polizei und die Aussprache.\n\nNach den von der Gemeinde veröffentlichten Hinweisen können anwesende wahlberechtigte Gemeindebürgerinnen und Gemeindebürger zu gemeindlichen Angelegenheiten das Wort ergreifen. Mehrheitsbeschlüsse der Bürgerversammlung in Form von Anträgen oder Empfehlungen sind innerhalb von drei Monaten vom Gemeinderat zu behandeln.\n\nLaut Münchner Merkur vom 23. Oktober wurden mehrere Anträge der Bürgerversammlung angenommen, unter anderem zu Tempo 30 auf der B471, einem Ortspark, Verkehrsfragen und Regenwassernutzung. Der Gemeinderat muss sie noch behandeln; sie bedeuten keine bereits beschlossene Umsetzung.",
+      "sources": [
+        {
+          "name": "Gemeinde Feldkirchen – Bürgerversammlung in Feldkirchen",
+          "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/buergerversammlung-in-feldkirchen",
+          "type": "primary_official",
+          "date": "2026-09-25",
+          "date_basis": "publication_date",
+          "date_status": "verified"
+        },
+        {
+          "name": "Münchner Merkur – Bericht zur Bürgerversammlung 2026",
+          "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/feldkirchner-fordern-erneut-tempo-30-auf-b471-landratsamt-lehnte-es-schon-ab-94553770.html",
+          "type": "secondary_press",
+          "date": "2026-10-23",
+          "date_basis": "publication_date",
+          "date_status": "verified"
+        }
+      ],
+      "bisheriger_verlauf": [
+        {
+          "id": "R007",
+          "date": "2025-10-22",
+          "title": "Bürgerversammlung bringt Anträge zu Radwegen, Tempo 30 und Klimazielen"
+        },
+        {
+          "id": "R012",
+          "date": "2025-12-04",
+          "title": "Gemeinderat greift mehrere Anträge aus der Bürgerversammlung auf"
+        },
+        {
+          "id": "R083",
+          "date": "2026-09-17",
+          "title": "Gemeinderatssitzung vom 17. September"
+        }
+      ],
+      "unsere_einordnung": null,
+      "council": null,
+      "research_refs": [
+        "R084"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen",
+        "related_places": [
+          "Feldkirchen"
+        ],
+        "scope": "feldkirchen_direct",
+        "verification_status": "verified_2026-09-26"
+      },
+      "established_topic_refs": [
+        {
+          "id": "T008",
+          "title": "Bürgerbeteiligung und kommunale Mitwirkung"
+        }
+      ],
+      "stage_update_meta": {
+        "created_at": "2026-09-26",
+        "source_status": "verified_official_local_news"
+      },
+      "search_tags": [
+        "Bürgerversammlung",
+        "Bürgerbeteiligung",
+        "Gemeinderat"
+      ]
+    },
     {
       "id": "R111",
       "date": "2026-10-22",
@@ -492,75 +569,6 @@
         "Radverkehr",
         "München–Markt Schwaben",
         "Feldkirchen"
-      ]
-    },
-    {
-      "id": "R084",
-      "date": "2026-09-25",
-      "publication_date": "2026-09-25",
-      "category": "Kommunalpolitik & Beteiligung",
-      "topic_candidates": [
-        "Bürgerversammlung",
-        "Bürgerbeteiligung",
-        "Gemeinderat"
-      ],
-      "title": "Bürgerversammlung am 21. Oktober mit Livestream",
-      "subtitle": "Die Gemeinde lädt für den 21. Oktober ins Rathaus; vorgesehen sind Berichte des Bürgermeisters und der Polizei sowie eine Aussprache.",
-      "sachinformation": "Die Gemeinde Feldkirchen hat die Bürgerversammlung für Mittwoch, 21. Oktober 2026, um 19 Uhr im großen Sitzungssaal des Rathauses angekündigt. Die Veranstaltung soll auch als Livestream übertragen werden. Auf der Tagesordnung stehen der Bericht des Ersten Bürgermeisters, ein Grußwort des Landrats, der Bericht der Polizei und die Aussprache.\n\nNach den von der Gemeinde veröffentlichten Hinweisen können anwesende wahlberechtigte Gemeindebürgerinnen und Gemeindebürger zu gemeindlichen Angelegenheiten das Wort ergreifen. Mehrheitsbeschlüsse der Bürgerversammlung in Form von Anträgen oder Empfehlungen sind innerhalb von drei Monaten vom Gemeinderat zu behandeln.",
-      "sources": [
-        {
-          "name": "Gemeinde Feldkirchen – Bürgerversammlung in Feldkirchen",
-          "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/buergerversammlung-in-feldkirchen",
-          "type": "primary_official",
-          "date": "2026-09-25",
-          "date_basis": "publication_date",
-          "date_status": "verified"
-        }
-      ],
-      "bisheriger_verlauf": [
-        {
-          "id": "R007",
-          "date": "2025-10-22",
-          "title": "Bürgerversammlung bringt Anträge zu Radwegen, Tempo 30 und Klimazielen"
-        },
-        {
-          "id": "R012",
-          "date": "2025-12-04",
-          "title": "Gemeinderat greift mehrere Anträge aus der Bürgerversammlung auf"
-        },
-        {
-          "id": "R083",
-          "date": "2026-09-17",
-          "title": "Gemeinderatssitzung vom 17. September"
-        }
-      ],
-      "unsere_einordnung": null,
-      "council": null,
-      "research_refs": [
-        "R084"
-      ],
-      "ortsbezug": {
-        "display_place": "Feldkirchen",
-        "related_places": [
-          "Feldkirchen"
-        ],
-        "scope": "feldkirchen_direct",
-        "verification_status": "verified_2026-09-26"
-      },
-      "established_topic_refs": [
-        {
-          "id": "T008",
-          "title": "Bürgerbeteiligung und kommunale Mitwirkung"
-        }
-      ],
-      "stage_update_meta": {
-        "created_at": "2026-09-26",
-        "source_status": "verified_official_local_news"
-      },
-      "search_tags": [
-        "Bürgerversammlung",
-        "Bürgerbeteiligung",
-        "Gemeinderat"
       ]
     },
     {
