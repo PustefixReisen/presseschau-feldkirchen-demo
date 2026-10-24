@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-21T09:23:44+00:00",
+  "updated_at": "2026-10-24T08:54:21+00:00",
   "items": [
     {
       "event_key": "document:feldkirchen-parkraum-2026:https://www.feldkirchen.de/_Resources/Persistent/d/3/d/e/d3dee38ce3c4a9ad01384ca6ed314a2a8f8bcc12/2026%20Parkraumkonzept%20gem%20GR-Beschluss.pdf:4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
@@ -5604,6 +5604,426 @@
       "kind": "link_new",
       "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/kleines-theater-haar-feiert-zauberfloete-mit-stehendem-applaus-94550456.html",
       "link_text": "Kleine Bühne, große Oper: Theater Haar feiert Zauberflöte mit stehendem Applaus",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:ris-feldkirchen-freigaben:https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8640",
+      "detected_at": "2026-10-24T08:53:59+00:00",
+      "source_id": "ris-feldkirchen-freigaben",
+      "source_name": "RIS Feldkirchen – Dokumente mit Freigabe",
+      "kind": "link_new",
+      "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8640",
+      "link_text": "Wegfall des Elternbeitragszuschusses in Höhe von 100 €",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:ris-feldkirchen-freigaben:https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75714&type=do",
+      "detected_at": "2026-10-24T08:53:59+00:00",
+      "source_id": "ris-feldkirchen-freigaben",
+      "source_name": "RIS Feldkirchen – Dokumente mit Freigabe",
+      "kind": "link_new",
+      "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75714&type=do",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:ris-feldkirchen-freigaben:https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1032",
+      "detected_at": "2026-10-24T08:53:59+00:00",
+      "source_id": "ris-feldkirchen-freigaben",
+      "source_name": "RIS Feldkirchen – Dokumente mit Freigabe",
+      "kind": "link_new",
+      "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1032",
+      "link_text": "29.10.2026",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:ris-feldkirchen-freigaben:https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75854&type=do",
+      "detected_at": "2026-10-24T08:53:59+00:00",
+      "source_id": "ris-feldkirchen-freigaben",
+      "source_name": "RIS Feldkirchen – Dokumente mit Freigabe",
+      "kind": "link_new",
+      "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75854&type=do",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:ris-feldkirchen-freigaben:https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8641",
+      "detected_at": "2026-10-24T08:53:59+00:00",
+      "source_id": "ris-feldkirchen-freigaben",
+      "source_name": "RIS Feldkirchen – Dokumente mit Freigabe",
+      "kind": "link_new",
+      "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8641",
+      "link_text": "Erlass einer Verordnung über das Einschränken des freien Umherlaufens von Kampfhunden und großen Hunden",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:ris-feldkirchen-freigaben:https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75800&type=do",
+      "detected_at": "2026-10-24T08:53:59+00:00",
+      "source_id": "ris-feldkirchen-freigaben",
+      "source_name": "RIS Feldkirchen – Dokumente mit Freigabe",
+      "kind": "link_new",
+      "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75800&type=do",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:ris-feldkirchen-freigaben:https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8644",
+      "detected_at": "2026-10-24T08:53:59+00:00",
+      "source_id": "ris-feldkirchen-freigaben",
+      "source_name": "RIS Feldkirchen – Dokumente mit Freigabe",
+      "kind": "link_new",
+      "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8644",
+      "link_text": "Beitragsanpassung für die Mittagsbetreuung ab 01.01.2027",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:ris-feldkirchen-freigaben:https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75813&type=do",
+      "detected_at": "2026-10-24T08:53:59+00:00",
+      "source_id": "ris-feldkirchen-freigaben",
+      "source_name": "RIS Feldkirchen – Dokumente mit Freigabe",
+      "kind": "link_new",
+      "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75813&type=do",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:ris-feldkirchen-freigaben:https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8642",
+      "detected_at": "2026-10-24T08:53:59+00:00",
+      "source_id": "ris-feldkirchen-freigaben",
+      "source_name": "RIS Feldkirchen – Dokumente mit Freigabe",
+      "kind": "link_new",
+      "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8642",
+      "link_text": "Beitragsanpassung der Kindertageseinrichtungen zum 01.01.2027",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:ris-feldkirchen-freigaben:https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75790&type=do",
+      "detected_at": "2026-10-24T08:53:59+00:00",
+      "source_id": "ris-feldkirchen-freigaben",
+      "source_name": "RIS Feldkirchen – Dokumente mit Freigabe",
+      "kind": "link_new",
+      "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75790&type=do",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:feldkirchen-aktuelle-meldungen:https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/abgesagt-konzert-mit-guenther-sigl",
+      "detected_at": "2026-10-24T08:54:01+00:00",
+      "source_id": "feldkirchen-aktuelle-meldungen",
+      "source_name": "Gemeinde Feldkirchen – Aktuelle Meldungen",
+      "kind": "link_new",
+      "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/abgesagt-konzert-mit-guenther-sigl",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:feldkirchen-aktuelle-meldungen:https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/umzug-fuehrerscheinstelle",
+      "detected_at": "2026-10-24T08:54:01+00:00",
+      "source_id": "feldkirchen-aktuelle-meldungen",
+      "source_name": "Gemeinde Feldkirchen – Aktuelle Meldungen",
+      "kind": "link_new",
+      "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/umzug-fuehrerscheinstelle",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:feldkirchen-aktuelle-meldungen:https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/gegenstaende-am-und-hinter-dem-grab",
+      "detected_at": "2026-10-24T08:54:01+00:00",
+      "source_id": "feldkirchen-aktuelle-meldungen",
+      "source_name": "Gemeinde Feldkirchen – Aktuelle Meldungen",
+      "kind": "link_new",
+      "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/gegenstaende-am-und-hinter-dem-grab",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:landkreis-muenchen:https://www.landkreis-muenchen.de/artikel/jahrzehnte-im-dienst-der-gemeinschaft/",
+      "detected_at": "2026-10-24T08:54:09+00:00",
+      "source_id": "landkreis-muenchen",
+      "source_name": "Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.landkreis-muenchen.de/artikel/jahrzehnte-im-dienst-der-gemeinschaft/",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:landkreis-muenchen:https://www.landkreis-muenchen.de/artikel/fachkraefte-im-blick-neuer-themenbereich-im-kommunalatlas-online/",
+      "detected_at": "2026-10-24T08:54:09+00:00",
+      "source_id": "landkreis-muenchen",
+      "source_name": "Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.landkreis-muenchen.de/artikel/fachkraefte-im-blick-neuer-themenbereich-im-kommunalatlas-online/",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:landkreis-muenchen:https://www.landkreis-muenchen.de/artikel/waldklassenzimmer-sind-dank-spenden-ein-grosser-erfolg/",
+      "detected_at": "2026-10-24T08:54:09+00:00",
+      "source_id": "landkreis-muenchen",
+      "source_name": "Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.landkreis-muenchen.de/artikel/waldklassenzimmer-sind-dank-spenden-ein-grosser-erfolg/",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:adfc-muenchen:https://muenchen.adfc.de/artikel/winterprogramm-26-27",
+      "detected_at": "2026-10-24T08:54:11+00:00",
+      "source_id": "adfc-muenchen",
+      "source_name": "ADFC München",
+      "kind": "link_new",
+      "url": "https://muenchen.adfc.de/artikel/winterprogramm-26-27",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:adfc-muenchen:https://muenchen.adfc.de/pressemitteilung/veranstaltungen-des-adfc-muenchen-im-november-2026",
+      "detected_at": "2026-10-24T08:54:11+00:00",
+      "source_id": "adfc-muenchen",
+      "source_name": "ADFC München",
+      "kind": "link_new",
+      "url": "https://muenchen.adfc.de/pressemitteilung/veranstaltungen-des-adfc-muenchen-im-november-2026",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:adfc-muenchen:https://muenchen.adfc.de/neuigkeit/radfahren-in-den-medien-ende-oktober-2026",
+      "detected_at": "2026-10-24T08:54:11+00:00",
+      "source_id": "adfc-muenchen",
+      "source_name": "ADFC München",
+      "kind": "link_new",
+      "url": "https://muenchen.adfc.de/neuigkeit/radfahren-in-den-medien-ende-oktober-2026",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/400-buerger-beim-neuen-format-rausch-verspricht-schoeneren-bahnhof-94555567.html",
+      "detected_at": "2026-10-24T08:54:16+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/400-buerger-beim-neuen-format-rausch-verspricht-schoeneren-bahnhof-94555567.html",
+      "link_text": "400 Bürger beim neuen Format: Rausch verspricht schöneren Bahnhof",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/garchinger-see-camper-sollen-nachts-fuenf-euro-pro-stunde-zahlen-94555687.html",
+      "detected_at": "2026-10-24T08:54:16+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/garchinger-see-camper-sollen-nachts-fuenf-euro-pro-stunde-zahlen-94555687.html",
+      "link_text": "„In die Ecken gepieselt und gesch...“: Schluss mit Dauerparkern am Garchinger See – Nachtgebühr kommt",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/elternbeitragszuschuss-reformiert-csu-abgeordneter-wir-streichen-keine-mittel-94555597.html",
+      "detected_at": "2026-10-24T08:54:16+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/elternbeitragszuschuss-reformiert-csu-abgeordneter-wir-streichen-keine-mittel-94555597.html",
+      "link_text": "Elternbeitragszuschuss reformiert – CSU-Abgeordneter: „Wir streichen keine Mittel\"",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/unterschleissheim-ort29622/buchbinderei-zieht-in-eigene-werkstatt-und-bietet-jetzt-workshops-an-94553877.html",
+      "detected_at": "2026-10-24T08:54:16+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/unterschleissheim-ort29622/buchbinderei-zieht-in-eigene-werkstatt-und-bietet-jetzt-workshops-an-94553877.html",
+      "link_text": "Buchbinderei zieht in eigene Werkstatt – und bietet jetzt Workshops an",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/supermarkt-in-haar-klagt-ueber-umsatzeinbruch-wegen-baustelle-94553781.html",
+      "detected_at": "2026-10-24T08:54:16+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/supermarkt-in-haar-klagt-ueber-umsatzeinbruch-wegen-baustelle-94553781.html",
+      "link_text": "Supermarkt klagt über Umsatzeinbruch wegen Baustelle: „Jetzt ist normalerweise der stärkste Monat“",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/pullach-ort29321/sv-pullach-warnt-vor-neuperlach-trotz-13-debakel-des-gegners-94556342.html",
+      "detected_at": "2026-10-24T08:54:16+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/pullach-ort29321/sv-pullach-warnt-vor-neuperlach-trotz-13-debakel-des-gegners-94556342.html",
+      "link_text": "SV Pullach warnt vor Neuperlach – trotz 0:13-Debakel des Gegners",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/taufkirchen-bei-muenchen-ort486320/24-hektar-maehen-dann-beethoven-musikschulleiter-kehrt-aus-polen-zurueck-94553885.html",
+      "detected_at": "2026-10-24T08:54:16+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/taufkirchen-bei-muenchen-ort486320/24-hektar-maehen-dann-beethoven-musikschulleiter-kehrt-aus-polen-zurueck-94553885.html",
+      "link_text": "Viele Hektar mähen, dann Beethoven: Musikschulleiter kehrt aus Polen zurück",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/feldkirchner-fordern-erneut-tempo-30-auf-b471-landratsamt-lehnte-es-schon-ab-94553770.html",
+      "detected_at": "2026-10-24T08:54:16+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/feldkirchner-fordern-erneut-tempo-30-auf-b471-landratsamt-lehnte-es-schon-ab-94553770.html",
+      "link_text": "Feldkirchner fordern erneut Tempo 30 auf B471 – Landratsamt lehnte es schon ab",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/schaeftlarn-ort73337/zwei-schaeftlarner-weiher-ausgetrocknet-man-kann-sie-nicht-mehr-weiher-nennen-94553768.html",
+      "detected_at": "2026-10-24T08:54:16+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/schaeftlarn-ort73337/zwei-schaeftlarner-weiher-ausgetrocknet-man-kann-sie-nicht-mehr-weiher-nennen-94553768.html",
+      "link_text": "Zwei Schäftlarner Weiher ausgetrocknet: „Man kann sie nicht mehr Weiher nennen\"",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/landkreis-muenchen-prueft-verzicht-auf-57-millionen-euro-um-kommunen-zu-entlasten-94552953.html",
+      "detected_at": "2026-10-24T08:54:16+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/landkreis-muenchen-prueft-verzicht-auf-57-millionen-euro-um-kommunen-zu-entlasten-94552953.html",
+      "link_text": "Landkreis München prüft Verzicht auf 57 Millionen Euro, um Kommunen zu entlasten",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/gruenwald-ort28770/vater-ueberfaehrt-rote-ampel-fuenf-verletzte-bei-schulwegunfall-in-gruenwald-94554085.html",
+      "detected_at": "2026-10-24T08:54:16+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/gruenwald-ort28770/vater-ueberfaehrt-rote-ampel-fuenf-verletzte-bei-schulwegunfall-in-gruenwald-94554085.html",
+      "link_text": "Vater überfährt rote Ampel: Fünf Verletzte bei Schulwegunfall in Grünwald",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/entsetzen-ueber-hassprediger-auftritt-duo-wettert-im-buergerhaus-gegen-homosexuelle-abtreibungen-und-co-94553436.html",
+      "detected_at": "2026-10-24T08:54:16+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/entsetzen-ueber-hassprediger-auftritt-duo-wettert-im-buergerhaus-gegen-homosexuelle-abtreibungen-und-co-94553436.html",
+      "link_text": "Entsetzen über Hassprediger-Auftritt: Duo wettert im Bürgerhaus gegen Homosexuelle, Abtreibungen und Co.",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/rechenzentrum-in-feldkirchen-70-bis-80-prozent-des-grundstuecks-sollen-versiegelt-werden-94551845.html",
+      "detected_at": "2026-10-24T08:54:16+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/rechenzentrum-in-feldkirchen-70-bis-80-prozent-des-grundstuecks-sollen-versiegelt-werden-94551845.html",
+      "link_text": "Rechenzentrum in Feldkirchen: 70 bis 80 Prozent des Grundstücks sollen versiegelt werden",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/verkehrstote-im-landkreis-muenchen-niedrigster-wert-der-landkreise-94553084.html",
+      "detected_at": "2026-10-24T08:54:16+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/verkehrstote-im-landkreis-muenchen-niedrigster-wert-der-landkreise-94553084.html",
+      "link_text": "Die wenigsten Verkehrstoten aller Landkreise: Im Landkreis München ist das Risiko am geringsten",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/ottobrunn-ort29241/anwohnerin-fordert-grundstueckstausch-statt-mehrfamilienhaus-in-ottobrunn-94553053.html",
+      "detected_at": "2026-10-24T08:54:16+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/ottobrunn-ort29241/anwohnerin-fordert-grundstueckstausch-statt-mehrfamilienhaus-in-ottobrunn-94553053.html",
+      "link_text": "Anwohnerin fordert Grundstückstausch statt Mehrfamilienhaus in Ottobrunn",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/run-club-bei-muenchen-startet-15-leute-bei-erster-runde-dabei-94551894.html",
+      "detected_at": "2026-10-24T08:54:16+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/run-club-bei-muenchen-startet-15-leute-bei-erster-runde-dabei-94551894.html",
+      "link_text": "Run-Club nahe München startet: 15 Läufer treffen sich zur ersten Runde",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/20-jahre-bahn-in-garching-ein-meilenstein-fuer-forschung-und-alltag-94551925.html",
+      "detected_at": "2026-10-24T08:54:16+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/20-jahre-bahn-in-garching-ein-meilenstein-fuer-forschung-und-alltag-94551925.html",
+      "link_text": "20 Jahre U-Bahn in Garching: Ein Meilenstein für Forschung und Alltag",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/unter-orangenen-schirmen-arge-hospiz-laedt-auf-friedhoefen-zum-reden-ein-94551885.html",
+      "detected_at": "2026-10-24T08:54:16+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/unter-orangenen-schirmen-arge-hospiz-laedt-auf-friedhoefen-zum-reden-ein-94551885.html",
+      "link_text": "Unter orangenen Schirmen: ARGE Hospiz lädt auf Friedhöfen zum Reden ein",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/aying-ort28266/schlaganfall-ueberlebt-ayingerin-kaempft-jetzt-fuer-sepsis-betroffene-94550464.html",
+      "detected_at": "2026-10-24T08:54:16+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/aying-ort28266/schlaganfall-ueberlebt-ayingerin-kaempft-jetzt-fuer-sepsis-betroffene-94550464.html",
+      "link_text": "Schlaganfall überlebt: Ayingerin kämpft jetzt für Sepsis-Betroffene",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-feldkirchen:https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/feldkirchner-fordern-erneut-tempo-30-auf-b471-landratsamt-lehnte-es-schon-ab-94553770.html",
+      "detected_at": "2026-10-24T08:54:18+00:00",
+      "source_id": "merkur-feldkirchen",
+      "source_name": "Münchner Merkur – Feldkirchen",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/feldkirchner-fordern-erneut-tempo-30-auf-b471-landratsamt-lehnte-es-schon-ab-94553770.html",
+      "link_text": "Feldkirchner fordern erneut Tempo 30 auf B471 – Landratsamt lehnte es schon ab",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-feldkirchen:https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/rechenzentrum-in-feldkirchen-70-bis-80-prozent-des-grundstuecks-sollen-versiegelt-werden-94551845.html",
+      "detected_at": "2026-10-24T08:54:18+00:00",
+      "source_id": "merkur-feldkirchen",
+      "source_name": "Münchner Merkur – Feldkirchen",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/rechenzentrum-in-feldkirchen-70-bis-80-prozent-des-grundstuecks-sollen-versiegelt-werden-94551845.html",
+      "link_text": "Rechenzentrum in Feldkirchen: 70 bis 80 Prozent des Grundstücks sollen versiegelt werden",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-kirchheim:https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/kirchheimer-gemeinderat-erhoeht-mieten-um-15-prozent-gegen-spd-widerstand-94550427.html",
+      "detected_at": "2026-10-24T08:54:20+00:00",
+      "source_id": "merkur-kirchheim",
+      "source_name": "Münchner Merkur – Kirchheim",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/kirchheimer-gemeinderat-erhoeht-mieten-um-15-prozent-gegen-spd-widerstand-94550427.html",
+      "link_text": "Kirchheimer Gemeinderat erhöht Mieten um 15 Prozent – gegen SPD-Widerstand",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-haar:https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/supermarkt-in-haar-klagt-ueber-umsatzeinbruch-wegen-baustelle-94553781.html",
+      "detected_at": "2026-10-24T08:54:21+00:00",
+      "source_id": "merkur-haar",
+      "source_name": "Münchner Merkur – Haar",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/supermarkt-in-haar-klagt-ueber-umsatzeinbruch-wegen-baustelle-94553781.html",
+      "link_text": "Supermarkt klagt über Umsatzeinbruch wegen Baustelle: „Jetzt ist normalerweise der stärkste Monat“",
       "status": "unprocessed"
     }
   ]
