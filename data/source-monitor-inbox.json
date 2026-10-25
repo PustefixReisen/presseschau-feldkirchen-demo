@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-24T08:54:21+00:00",
+  "updated_at": "2026-10-25T09:10:59+00:00",
   "items": [
     {
       "event_key": "document:feldkirchen-parkraum-2026:https://www.feldkirchen.de/_Resources/Persistent/d/3/d/e/d3dee38ce3c4a9ad01384ca6ed314a2a8f8bcc12/2026%20Parkraumkonzept%20gem%20GR-Beschluss.pdf:4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
@@ -6024,6 +6024,66 @@
       "kind": "link_new",
       "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/supermarkt-in-haar-klagt-ueber-umsatzeinbruch-wegen-baustelle-94553781.html",
       "link_text": "Supermarkt klagt über Umsatzeinbruch wegen Baustelle: „Jetzt ist normalerweise der stärkste Monat“",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/ismaning-ort28863/vereinsfeiern-am-ismaninger-stadion-gemeinde-vermietet-leerstehende-gaststaette-fuer-250-euro-94555510.html",
+      "detected_at": "2026-10-25T09:10:55+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/ismaning-ort28863/vereinsfeiern-am-ismaninger-stadion-gemeinde-vermietet-leerstehende-gaststaette-fuer-250-euro-94555510.html",
+      "link_text": "Vereinsfeiern am Ismaninger Stadion: Gemeinde vermietet leerstehende Gaststätte für 250 Euro",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/oberschleissheim-ort29202/je-mehr-anlagen-da-sind-desto-mehr-brummt-es-oberschleissheim-raetselt-bei-klimaanlagen-94555529.html",
+      "detected_at": "2026-10-25T09:10:55+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/oberschleissheim-ort29202/je-mehr-anlagen-da-sind-desto-mehr-brummt-es-oberschleissheim-raetselt-bei-klimaanlagen-94555529.html",
+      "link_text": "„Je mehr Anlagen da sind, desto mehr brummt es\": Oberschleißheim rätselt bei Klimaanlagen",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/feldkirchen-hundewiese-gescheitert-spd-zieht-antrag-nach-sieben-jahren-zurueck-auch-park-plaene-vom-tisch-94555516.html",
+      "detected_at": "2026-10-25T09:10:55+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/feldkirchen-hundewiese-gescheitert-spd-zieht-antrag-nach-sieben-jahren-zurueck-auch-park-plaene-vom-tisch-94555516.html",
+      "link_text": "Hundewiese gescheitert: SPD zieht Antrag nach sieben Jahren zurück – Auch Park-Pläne vom Tisch",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/sauerlach-ort117101/sauerlach-senkt-gewerbesteuer-und-riskiert-310-000-euro-minus-pro-jahr-94555536.html",
+      "detected_at": "2026-10-25T09:10:55+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/sauerlach-ort117101/sauerlach-senkt-gewerbesteuer-und-riskiert-310-000-euro-minus-pro-jahr-94555536.html",
+      "link_text": "Sauerlach senkt Gewerbesteuer – und riskiert 310.000 Euro Minus pro Jahr",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-feldkirchen:https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/feldkirchen-hundewiese-gescheitert-spd-zieht-antrag-nach-sieben-jahren-zurueck-auch-park-plaene-vom-tisch-94555516.html",
+      "detected_at": "2026-10-25T09:10:56+00:00",
+      "source_id": "merkur-feldkirchen",
+      "source_name": "Münchner Merkur – Feldkirchen",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/feldkirchen-hundewiese-gescheitert-spd-zieht-antrag-nach-sieben-jahren-zurueck-auch-park-plaene-vom-tisch-94555516.html",
+      "link_text": "Hundewiese gescheitert: SPD zieht Antrag nach sieben Jahren zurück – Auch Park-Pläne vom Tisch",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-kirchheim:https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/elternbeitragszuschuss-reformiert-csu-abgeordneter-wir-streichen-keine-mittel-94555597.html",
+      "detected_at": "2026-10-25T09:10:58+00:00",
+      "source_id": "merkur-kirchheim",
+      "source_name": "Münchner Merkur – Kirchheim",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/elternbeitragszuschuss-reformiert-csu-abgeordneter-wir-streichen-keine-mittel-94555597.html",
+      "link_text": "Elternbeitragszuschuss reformiert – CSU-Abgeordneter: „Wir streichen keine Mittel\"",
       "status": "unprocessed"
     }
   ]

@@ -5,11 +5,11 @@
       "name": "Gemeinde Feldkirchen – Nachrichten aus dem Bauamt",
       "url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt",
       "priority": "mandatory",
-      "last_success_at": "2026-10-24T08:54:02+00:00",
+      "last_success_at": "2026-10-25T09:10:42+00:00",
       "final_url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt",
       "content_type": "text/html;charset=UTF-8",
       "page_sha256": "690f905b4596e1cf947d548ec30bcd430b71ccb0befb0adb15a7246c88778cca",
-      "page_changed": true,
+      "page_changed": false,
       "first_seen": false,
       "links": {
         "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt/neues-parkraumkonzept-in-feldkirchen": {
@@ -26,11 +26,11 @@
       "name": "Gemeinde Feldkirchen – Neues Parkraumkonzept",
       "url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt/neues-parkraumkonzept-in-feldkirchen",
       "priority": "mandatory",
-      "last_success_at": "2026-10-24T08:54:08+00:00",
+      "last_success_at": "2026-10-25T09:10:45+00:00",
       "final_url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt/neues-parkraumkonzept-in-feldkirchen",
       "content_type": "text/html;charset=UTF-8",
       "page_sha256": "4de15eae8a543712b7d5f6b0c05234c6b4dd57e2e688f2240eaeeac69be6ffbb",
-      "page_changed": true,
+      "page_changed": false,
       "first_seen": false,
       "links": {
         "https://www.feldkirchen.de/": {
@@ -448,7 +448,7 @@
           "content_type": "application/pdf",
           "bytes": 1472041,
           "sha256": "4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
-          "checked_at": "2026-10-24T08:54:08+00:00"
+          "checked_at": "2026-10-25T09:10:45+00:00"
         }
       },
       "error": null
@@ -457,11 +457,11 @@
       "name": "Landkreis München",
       "url": "https://www.landkreis-muenchen.de/",
       "priority": "mandatory",
-      "last_success_at": "2026-10-24T08:54:09+00:00",
+      "last_success_at": "2026-10-25T09:10:46+00:00",
       "final_url": "https://www.landkreis-muenchen.de/",
       "content_type": "text/html; charset=utf-8",
       "page_sha256": "d705bca442d56f84a6f17fb2cdf9476763cbf8a3957b5fe86014ed05312510d7",
-      "page_changed": true,
+      "page_changed": false,
       "first_seen": false,
       "links": {
         "https://www.landkreis-muenchen.de/": {
@@ -745,18 +745,18 @@
       "name": "Autobahn GmbH – Südbayern",
       "url": "https://www.autobahn.de/die-autobahn/niederlassungen/suedbayern",
       "priority": "topic",
-      "last_attempt_at": "2026-10-24T08:54:09+00:00",
+      "last_attempt_at": "2026-10-25T09:10:47+00:00",
       "error": "HTTPError: HTTP Error 404: Not Found"
     },
     "adfc-muenchen": {
       "name": "ADFC München",
       "url": "https://muenchen.adfc.de/",
       "priority": "topic",
-      "last_success_at": "2026-10-24T08:54:11+00:00",
+      "last_success_at": "2026-10-25T09:10:48+00:00",
       "final_url": "https://muenchen.adfc.de/",
       "content_type": "text/html; charset=utf-8",
       "page_sha256": "5ae6496f4787bee28a1353d0d4fb2f7bf0e988b9775f616b4a3e44ec95131687",
-      "page_changed": true,
+      "page_changed": false,
       "first_seen": false,
       "links": {
         "https://muenchen.adfc.de/sei-dabei": {
@@ -842,7 +842,7 @@
       "name": "BUND Naturschutz – Kreisgruppe München",
       "url": "https://bn-muenchen.de/",
       "priority": "topic",
-      "last_success_at": "2026-10-24T08:54:12+00:00",
+      "last_success_at": "2026-10-25T09:10:49+00:00",
       "final_url": "https://bn-muenchen.de/",
       "content_type": "text/html",
       "page_sha256": "c9c228fa3294734a8b11eb9e7cfac3316ccb2db84afb1c80c6f0098e713d2e2e",
@@ -863,11 +863,11 @@
       "name": "BI-AFK",
       "url": "https://www.bi-afk.de/",
       "priority": "topic",
-      "last_success_at": "2026-10-24T08:54:15+00:00",
+      "last_success_at": "2026-10-25T09:10:52+00:00",
       "final_url": "https://bi-afk.de/",
       "content_type": "text/html; charset=UTF-8",
       "page_sha256": "3b67e5336ea52646d98ab1f22d07d86947e689c29f5e1a5583403fa94d190037",
-      "page_changed": true,
+      "page_changed": false,
       "first_seen": false,
       "links": {
         "https://bi-afk.de/": {
@@ -949,7 +949,7 @@
           "content_type": "application/pdf",
           "bytes": 149466,
           "sha256": "f0ce9eb0a26c6e4bafbce93352128b32ede6a1a841c241d07be53c69c0f4b695",
-          "checked_at": "2026-10-24T08:54:15+00:00"
+          "checked_at": "2026-10-25T09:10:52+00:00"
         }
       },
       "error": null
@@ -958,10 +958,10 @@
       "name": "RIS Feldkirchen – Dokumente mit Freigabe",
       "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/do0040.asp",
       "priority": "mandatory",
-      "last_success_at": "2026-10-24T08:53:59+00:00",
+      "last_success_at": "2026-10-25T09:10:38+00:00",
       "final_url": "https://buergerinfo-feldkirchen.digitalfabrix.de/do0040.asp",
       "content_type": "text/html; Charset=utf-8",
-      "page_sha256": "973758ee21d6d9d4b2c9884ca65c28f574a4b7d26ab093edf3bceeb1025cba05",
+      "page_sha256": "b094ae858f15fd4c8c26e280344f414c5c03cdd62f0b364c73f624097714746f",
       "page_changed": true,
       "first_seen": false,
       "links": {
@@ -1003,33 +1003,45 @@
       "name": "Münchner Merkur – Landkreis München",
       "url": "https://www.merkur.de/lokales/muenchen-lk/",
       "priority": "mandatory",
-      "last_success_at": "2026-10-24T08:54:16+00:00",
+      "last_success_at": "2026-10-25T09:10:55+00:00",
       "final_url": "https://www.merkur.de/lokales/muenchen-lk/",
       "content_type": "text/html;charset=utf-8",
-      "page_sha256": "e72657b5cbe466ed052b7cdcd780f2b321597a40ff82e7968c5d391a84d15f8d",
+      "page_sha256": "0e10eadd372c831571b6f0317128863ba0e702a5d4815511d6241c95bfa967ea",
       "page_changed": true,
       "first_seen": false,
       "links": {
         "https://www.merkur.de/lokales/muenchen-lk/": {
           "text": "Menü"
         },
-        "https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/400-buerger-beim-neuen-format-rausch-verspricht-schoeneren-bahnhof-94555567.html": {
-          "text": "400 Bürger beim neuen Format: Rausch verspricht schöneren Bahnhof"
-        },
         "https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/garchinger-see-camper-sollen-nachts-fuenf-euro-pro-stunde-zahlen-94555687.html": {
           "text": "„In die Ecken gepieselt und gesch...“: Schluss mit Dauerparkern am Garchinger See – Nachtgebühr kommt"
         },
+        "https://www.merkur.de/lokales/muenchen-lk/ismaning-ort28863/vereinsfeiern-am-ismaninger-stadion-gemeinde-vermietet-leerstehende-gaststaette-fuer-250-euro-94555510.html": {
+          "text": "Vereinsfeiern am Ismaninger Stadion: Gemeinde vermietet leerstehende Gaststätte für 250 Euro"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/oberschleissheim-ort29202/je-mehr-anlagen-da-sind-desto-mehr-brummt-es-oberschleissheim-raetselt-bei-klimaanlagen-94555529.html": {
+          "text": "„Je mehr Anlagen da sind, desto mehr brummt es\": Oberschleißheim rätselt bei Klimaanlagen"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/feldkirchen-hundewiese-gescheitert-spd-zieht-antrag-nach-sieben-jahren-zurueck-auch-park-plaene-vom-tisch-94555516.html": {
+          "text": "Hundewiese gescheitert: SPD zieht Antrag nach sieben Jahren zurück – Auch Park-Pläne vom Tisch"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/sauerlach-ort117101/sauerlach-senkt-gewerbesteuer-und-riskiert-310-000-euro-minus-pro-jahr-94555536.html": {
+          "text": "Sauerlach senkt Gewerbesteuer – und riskiert 310.000 Euro Minus pro Jahr"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/400-buerger-beim-neuen-format-rausch-verspricht-schoeneren-bahnhof-94555567.html": {
+          "text": "400 Bürger beim neuen Format: Rausch verspricht schöneren Bahnhof"
+        },
         "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/elternbeitragszuschuss-reformiert-csu-abgeordneter-wir-streichen-keine-mittel-94555597.html": {
           "text": "Elternbeitragszuschuss reformiert – CSU-Abgeordneter: „Wir streichen keine Mittel\""
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/pullach-ort29321/sv-pullach-warnt-vor-neuperlach-trotz-13-debakel-des-gegners-94556342.html": {
+          "text": "SV Pullach warnt vor Neuperlach – trotz 0:13-Debakel des Gegners"
         },
         "https://www.merkur.de/lokales/muenchen-lk/unterschleissheim-ort29622/buchbinderei-zieht-in-eigene-werkstatt-und-bietet-jetzt-workshops-an-94553877.html": {
           "text": "Buchbinderei zieht in eigene Werkstatt – und bietet jetzt Workshops an"
         },
         "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/supermarkt-in-haar-klagt-ueber-umsatzeinbruch-wegen-baustelle-94553781.html": {
           "text": "Supermarkt klagt über Umsatzeinbruch wegen Baustelle: „Jetzt ist normalerweise der stärkste Monat“"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/pullach-ort29321/sv-pullach-warnt-vor-neuperlach-trotz-13-debakel-des-gegners-94556342.html": {
-          "text": "SV Pullach warnt vor Neuperlach – trotz 0:13-Debakel des Gegners"
         },
         "https://www.merkur.de/lokales/muenchen-lk/taufkirchen-bei-muenchen-ort486320/24-hektar-maehen-dann-beethoven-musikschulleiter-kehrt-aus-polen-zurueck-94553885.html": {
           "text": "Viele Hektar mähen, dann Beethoven: Musikschulleiter kehrt aus Polen zurück"
@@ -1057,18 +1069,6 @@
         },
         "https://www.merkur.de/lokales/muenchen-lk/ottobrunn-ort29241/anwohnerin-fordert-grundstueckstausch-statt-mehrfamilienhaus-in-ottobrunn-94553053.html": {
           "text": "Anwohnerin fordert Grundstückstausch statt Mehrfamilienhaus in Ottobrunn"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/run-club-bei-muenchen-startet-15-leute-bei-erster-runde-dabei-94551894.html": {
-          "text": "Run-Club nahe München startet: 15 Läufer treffen sich zur ersten Runde"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/20-jahre-bahn-in-garching-ein-meilenstein-fuer-forschung-und-alltag-94551925.html": {
-          "text": "20 Jahre U-Bahn in Garching: Ein Meilenstein für Forschung und Alltag"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/unter-orangenen-schirmen-arge-hospiz-laedt-auf-friedhoefen-zum-reden-ein-94551885.html": {
-          "text": "Unter orangenen Schirmen: ARGE Hospiz lädt auf Friedhöfen zum Reden ein"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/aying-ort28266/schlaganfall-ueberlebt-ayingerin-kaempft-jetzt-fuer-sepsis-betroffene-94550464.html": {
-          "text": "Schlaganfall überlebt: Ayingerin kämpft jetzt für Sepsis-Betroffene"
         }
       },
       "documents": {},
@@ -1078,10 +1078,10 @@
       "name": "Münchner Merkur – Feldkirchen",
       "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/",
       "priority": "mandatory",
-      "last_success_at": "2026-10-24T08:54:18+00:00",
+      "last_success_at": "2026-10-25T09:10:56+00:00",
       "final_url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/",
       "content_type": "text/html;charset=utf-8",
-      "page_sha256": "4bdb05d31557b714a7471b7d6c08697c0abcec041018e1217d009f50b52131f4",
+      "page_sha256": "7c051a130d2d323f927fe56179f12e559b0806f9bb45967cd8b9a0471ca3ce5d",
       "page_changed": true,
       "first_seen": false,
       "links": {
@@ -1099,6 +1099,9 @@
         },
         "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/kampfhund-toetet-dackel-feldkirchen-prueft-leinenpflicht-fuer-grosse-hunde-94541111.html": {
           "text": "Kampfhund tötet Dackel: Gemeinde prüft Leinenpflicht für große Hunde"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/feldkirchen-hundewiese-gescheitert-spd-zieht-antrag-nach-sieben-jahren-zurueck-auch-park-plaene-vom-tisch-94555516.html": {
+          "text": "Hundewiese gescheitert: SPD zieht Antrag nach sieben Jahren zurück – Auch Park-Pläne vom Tisch"
         },
         "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/gewerbesteuer-bricht-ein-gemeinde-feldkirchen-kuerzt-und-streicht-projekte-94529507.html": {
           "text": "Gewerbesteuer bricht ein: Gemeinde Feldkirchen kürzt und streicht Projekte"
@@ -1138,9 +1141,6 @@
         },
         "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/mann-reisst-sich-auf-94-los-und-rennt-vor-autos-auf-die-fahrbahn-94404915.html": {
           "text": "Mann reißt sich auf A94 los und rennt vor Autos auf die Fahrbahn"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/bmw-fahrer-rast-mit-186-km-durchs-ost-kreuz-bei-tempo-60-94370956.html": {
-          "text": "BMW-Fahrer rast mit 186 km/h durchs Ost-Kreuz – bei Tempo 60"
         }
       },
       "documents": {},
@@ -1150,10 +1150,10 @@
       "name": "Münchner Merkur – Aschheim",
       "url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/",
       "priority": "mandatory",
-      "last_success_at": "2026-10-24T08:54:19+00:00",
+      "last_success_at": "2026-10-25T09:10:57+00:00",
       "final_url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/",
       "content_type": "text/html;charset=utf-8",
-      "page_sha256": "66e4b5ba89445fda182d01f1551a90ec8f84ce343828f09a3ae24b0d5f503b12",
+      "page_sha256": "acf2e07ff762807a526bb60d2f9f5f120615a5c7fb8e2a59a2d1a4d5eb590524",
       "page_changed": true,
       "first_seen": false,
       "links": {
@@ -1222,10 +1222,10 @@
       "name": "Münchner Merkur – Kirchheim",
       "url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/",
       "priority": "mandatory",
-      "last_success_at": "2026-10-24T08:54:20+00:00",
+      "last_success_at": "2026-10-25T09:10:58+00:00",
       "final_url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/",
       "content_type": "text/html;charset=utf-8",
-      "page_sha256": "417fbe25a3e9ea24a227f10a2ab247a5f82a81594d6f6c06e31942c079bf7de5",
+      "page_sha256": "115e7fb642cbe3cf02c286663351ed39f9b8028b56c5529e16972838dd60b3b6",
       "page_changed": true,
       "first_seen": false,
       "links": {
@@ -1234,6 +1234,9 @@
         },
         "https://www.merkur.de/lokales/muenchen-lk/": {
           "text": "München Landkreis"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/elternbeitragszuschuss-reformiert-csu-abgeordneter-wir-streichen-keine-mittel-94555597.html": {
+          "text": "Elternbeitragszuschuss reformiert – CSU-Abgeordneter: „Wir streichen keine Mittel\""
         },
         "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/kirchheimer-gemeinderat-erhoeht-mieten-um-15-prozent-gegen-spd-widerstand-94550427.html": {
           "text": "Kirchheimer Gemeinderat erhöht Mieten um 15 Prozent – gegen SPD-Widerstand"
@@ -1282,9 +1285,6 @@
         },
         "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/sv-heimstetten-vitus-vochatzer-nach-acht-wochen-reise-zurueck-im-kader-94452837.html": {
           "text": "SV Heimstetten: Vitus Vochatzer nach acht Wochen Reise zurück im Kader"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/blaualgen-im-heimstettener-see-nachgewiesen-landratsamt-warnt-94451256.html": {
-          "text": "Blaualgen im Heimstettener See nachgewiesen – Landratsamt warnt"
         }
       },
       "documents": {},
@@ -1294,10 +1294,10 @@
       "name": "Münchner Merkur – Haar",
       "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/",
       "priority": "mandatory",
-      "last_success_at": "2026-10-24T08:54:21+00:00",
+      "last_success_at": "2026-10-25T09:10:59+00:00",
       "final_url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/",
       "content_type": "text/html;charset=utf-8",
-      "page_sha256": "8dd3711ddbd3e23fa4c51b3f7a125084474ffade791ba48b3b0cce9e1a9aa157",
+      "page_sha256": "1ec320cb546a1d82995d88040c90ab9cdefca8ca92a926a8eaf22bfa7f85742a",
       "page_changed": true,
       "first_seen": false,
       "links": {
@@ -1366,11 +1366,11 @@
       "name": "Gemeinde Feldkirchen – Aktuelle Meldungen",
       "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen",
       "priority": "mandatory",
-      "last_success_at": "2026-10-24T08:54:01+00:00",
+      "last_success_at": "2026-10-25T09:10:40+00:00",
       "final_url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen",
       "content_type": "text/html;charset=UTF-8",
       "page_sha256": "d864af932e6e89dbf1ffeb4d5a57365cad3c02c85ee9e02752b378fd6ae267cd",
-      "page_changed": true,
+      "page_changed": false,
       "first_seen": false,
       "links": {
         "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/nachrichten-archiv": {
@@ -1417,11 +1417,11 @@
       "name": "BENG eG – Bürgerenergie und Energieprojekte",
       "url": "https://www.beng-eg.de/",
       "priority": "topic",
-      "last_success_at": "2026-10-24T08:54:15+00:00",
+      "last_success_at": "2026-10-25T09:10:53+00:00",
       "final_url": "https://www.beng-eg.de/",
       "content_type": "text/html; charset=UTF-8",
-      "page_sha256": "4ee14251aa2b5dba947fc60e3af4fafc313636e222c83b60392e72b9e252aee2",
-      "page_changed": false,
+      "page_sha256": "a353516e15049ce6b5734a6a26a5da4201ce02c8b9b9f3c0f5616607318f1764",
+      "page_changed": true,
       "first_seen": false,
       "links": {
         "https://www.beng-eg.de/projekt-uebersicht/": {
@@ -1435,5 +1435,5 @@
       "error": null
     }
   },
-  "last_run_at": "2026-10-24T08:54:21+00:00"
+  "last_run_at": "2026-10-25T09:10:59+00:00"
 }
