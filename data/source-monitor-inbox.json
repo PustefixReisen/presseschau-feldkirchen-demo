@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-25T09:10:59+00:00",
+  "updated_at": "2026-10-26T10:11:25+00:00",
   "items": [
     {
       "event_key": "document:feldkirchen-parkraum-2026:https://www.feldkirchen.de/_Resources/Persistent/d/3/d/e/d3dee38ce3c4a9ad01384ca6ed314a2a8f8bcc12/2026%20Parkraumkonzept%20gem%20GR-Beschluss.pdf:4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
@@ -6084,6 +6084,156 @@
       "kind": "link_new",
       "url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/elternbeitragszuschuss-reformiert-csu-abgeordneter-wir-streichen-keine-mittel-94555597.html",
       "link_text": "Elternbeitragszuschuss reformiert – CSU-Abgeordneter: „Wir streichen keine Mittel\"",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:ris-feldkirchen-freigaben:https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1078",
+      "detected_at": "2026-10-26T10:11:00+00:00",
+      "source_id": "ris-feldkirchen-freigaben",
+      "source_name": "RIS Feldkirchen – Dokumente mit Freigabe",
+      "kind": "link_new",
+      "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1078",
+      "link_text": "28.10.2026",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:ris-feldkirchen-freigaben:https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75594&type=do",
+      "detected_at": "2026-10-26T10:11:00+00:00",
+      "source_id": "ris-feldkirchen-freigaben",
+      "source_name": "RIS Feldkirchen – Dokumente mit Freigabe",
+      "kind": "link_new",
+      "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75594&type=do",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:ris-feldkirchen-freigaben:https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8494",
+      "detected_at": "2026-10-26T10:11:00+00:00",
+      "source_id": "ris-feldkirchen-freigaben",
+      "source_name": "RIS Feldkirchen – Dokumente mit Freigabe",
+      "kind": "link_new",
+      "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8494",
+      "link_text": "Bekanntgabe nicht öffentlich gefasster Beschlüsse aufgrund Wegfall des Geheimhaltungsgrundes",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:ris-feldkirchen-freigaben:https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=73345&type=do",
+      "detected_at": "2026-10-26T10:11:00+00:00",
+      "source_id": "ris-feldkirchen-freigaben",
+      "source_name": "RIS Feldkirchen – Dokumente mit Freigabe",
+      "kind": "link_new",
+      "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=73345&type=do",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:landkreis-muenchen:https://www.landkreis-muenchen.de/artikel/loesungsschluessel-der-heilpraktikerkenntnisueberpruefung-oktober-2026/",
+      "detected_at": "2026-10-26T10:11:09+00:00",
+      "source_id": "landkreis-muenchen",
+      "source_name": "Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.landkreis-muenchen.de/artikel/loesungsschluessel-der-heilpraktikerkenntnisueberpruefung-oktober-2026/",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/oberschleissheim-ort29202/schleissheim-hofft-auf-loesung-fuer-jahrzehnte-stau-an-der-b471-94557294.html",
+      "detected_at": "2026-10-26T10:11:20+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/oberschleissheim-ort29202/schleissheim-hofft-auf-loesung-fuer-jahrzehnte-stau-an-der-b471-94557294.html",
+      "link_text": "Schleißheim hofft auf Lösung für Jahrzehnte-Stau an der B471",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/schaeftlarn-ort73337/biber-bringt-teerstrasse-zum-einbruch-schaeftlarn-ruestet-mit-ultraschall-auf-94557039.html",
+      "detected_at": "2026-10-26T10:11:20+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/schaeftlarn-ort73337/biber-bringt-teerstrasse-zum-einbruch-schaeftlarn-ruestet-mit-ultraschall-auf-94557039.html",
+      "link_text": "Biber bringt Teerstraße zum Einbruch: Schäftlarn rüstet mit Ultraschall auf",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/klingbeil-besucht-tum-500-studenten-forschen-hier-an-weltraumschrott-sensor-94557299.html",
+      "detected_at": "2026-10-26T10:11:20+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/klingbeil-besucht-tum-500-studenten-forschen-hier-an-weltraumschrott-sensor-94557299.html",
+      "link_text": "Lars Klingbeil zu Besuch im Landkreis München: Finanzminister informiert sich über Forschungscampus und GIGA-M",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/ismaning-ort28863/rocktober-ismaning-rockt-bis-in-die-nacht-94557023.html",
+      "detected_at": "2026-10-26T10:11:20+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/ismaning-ort28863/rocktober-ismaning-rockt-bis-in-die-nacht-94557023.html",
+      "link_text": "Rocktober: Ismaning rockt bis in die Nacht",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/oberschleissheim-ort29202/diebe-stehlen-aus-augustinum-werkstaetten-mehrere-tausend-euro-aus-tresor-94557238.html",
+      "detected_at": "2026-10-26T10:11:20+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/oberschleissheim-ort29202/diebe-stehlen-aus-augustinum-werkstaetten-mehrere-tausend-euro-aus-tresor-94557238.html",
+      "link_text": "Diebe stehlen mehrere tausend Euro aus Tresor",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/oberschleissheim-ort29202/baeckerei-angestellter-folgt-verdaechtigem-und-laesst-ihn-festnehmen-94557220.html",
+      "detected_at": "2026-10-26T10:11:20+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/oberschleissheim-ort29202/baeckerei-angestellter-folgt-verdaechtigem-und-laesst-ihn-festnehmen-94557220.html",
+      "link_text": "Bäckerei-Angestellter folgt Verdächtigem und lässt ihn festnehmen",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/arzt-masche-in-heimstetten-betrueger-erbeuten-ueber-100-000-euro-94557195.html",
+      "detected_at": "2026-10-26T10:11:20+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/arzt-masche-in-heimstetten-betrueger-erbeuten-ueber-100-000-euro-94557195.html",
+      "link_text": "Arzt-Masche in Heimstetten: Betrüger erbeuten über 100.000 Euro",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/130-gaeste-nachts-evakuiert-putzkraft-soll-holiday-inn-hotel-angezuendet-haben-94557176.html",
+      "detected_at": "2026-10-26T10:11:20+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/130-gaeste-nachts-evakuiert-putzkraft-soll-holiday-inn-hotel-angezuendet-haben-94557176.html",
+      "link_text": "Verdächtiger nach Hotelbrand in Haft: Polizei nimmt 27-jährige Putzkraft fest",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-aschheim:https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/130-gaeste-nachts-evakuiert-putzkraft-soll-holiday-inn-hotel-angezuendet-haben-94557176.html",
+      "detected_at": "2026-10-26T10:11:23+00:00",
+      "source_id": "merkur-aschheim",
+      "source_name": "Münchner Merkur – Aschheim",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/130-gaeste-nachts-evakuiert-putzkraft-soll-holiday-inn-hotel-angezuendet-haben-94557176.html",
+      "link_text": "Verdächtiger nach Hotelbrand in Haft: Polizei nimmt 27-jährige Putzkraft fest",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-kirchheim:https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/arzt-masche-in-heimstetten-betrueger-erbeuten-ueber-100-000-euro-94557195.html",
+      "detected_at": "2026-10-26T10:11:24+00:00",
+      "source_id": "merkur-kirchheim",
+      "source_name": "Münchner Merkur – Kirchheim",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/arzt-masche-in-heimstetten-betrueger-erbeuten-ueber-100-000-euro-94557195.html",
+      "link_text": "Arzt-Masche in Heimstetten: Betrüger erbeuten über 100.000 Euro",
       "status": "unprocessed"
     }
   ]
