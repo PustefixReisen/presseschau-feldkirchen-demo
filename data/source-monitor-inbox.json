@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-26T10:11:25+00:00",
+  "updated_at": "2026-10-27T09:50:42+00:00",
   "items": [
     {
       "event_key": "document:feldkirchen-parkraum-2026:https://www.feldkirchen.de/_Resources/Persistent/d/3/d/e/d3dee38ce3c4a9ad01384ca6ed314a2a8f8bcc12/2026%20Parkraumkonzept%20gem%20GR-Beschluss.pdf:4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
@@ -6234,6 +6234,196 @@
       "kind": "link_new",
       "url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/arzt-masche-in-heimstetten-betrueger-erbeuten-ueber-100-000-euro-94557195.html",
       "link_text": "Arzt-Masche in Heimstetten: Betrüger erbeuten über 100.000 Euro",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:ris-feldkirchen-freigaben:https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8645",
+      "detected_at": "2026-10-27T09:50:23+00:00",
+      "source_id": "ris-feldkirchen-freigaben",
+      "source_name": "RIS Feldkirchen – Dokumente mit Freigabe",
+      "kind": "link_new",
+      "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8645",
+      "link_text": "Bauantrag zur Errichtung eines Doppelhauses auf dem Grundstück Fl.Nr. 636, Friedensstr. 15, Gemarkung Feldkichen, Änderungsantrag für den Keller und die Dachhöhe – erneute Vorlage",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:ris-feldkirchen-freigaben:https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75817&type=do",
+      "detected_at": "2026-10-27T09:50:23+00:00",
+      "source_id": "ris-feldkirchen-freigaben",
+      "source_name": "RIS Feldkirchen – Dokumente mit Freigabe",
+      "kind": "link_new",
+      "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75817&type=do",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:ris-feldkirchen-freigaben:https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8646",
+      "detected_at": "2026-10-27T09:50:23+00:00",
+      "source_id": "ris-feldkirchen-freigaben",
+      "source_name": "RIS Feldkirchen – Dokumente mit Freigabe",
+      "kind": "link_new",
+      "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8646",
+      "link_text": "Bauantrag zur Errichtung eines Doppelhauses mit Flachdach auf dem Grundstück Fl.Nr. 636, Friedensstr. 15, Gemarkung Feldkirchen – erneute Vorlage",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:ris-feldkirchen-freigaben:https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75828&type=do",
+      "detected_at": "2026-10-27T09:50:23+00:00",
+      "source_id": "ris-feldkirchen-freigaben",
+      "source_name": "RIS Feldkirchen – Dokumente mit Freigabe",
+      "kind": "link_new",
+      "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75828&type=do",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:ris-feldkirchen-freigaben:https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8647",
+      "detected_at": "2026-10-27T09:50:23+00:00",
+      "source_id": "ris-feldkirchen-freigaben",
+      "source_name": "RIS Feldkirchen – Dokumente mit Freigabe",
+      "kind": "link_new",
+      "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8647",
+      "link_text": "Formlose Bauvoranfrage; Errichtung einer Grillecke auf dem Grundstück Fl.Nr. 200/35, Brunnenstr. 19, Gemarkung Feldkirchen",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:ris-feldkirchen-freigaben:https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75832&type=do",
+      "detected_at": "2026-10-27T09:50:23+00:00",
+      "source_id": "ris-feldkirchen-freigaben",
+      "source_name": "RIS Feldkirchen – Dokumente mit Freigabe",
+      "kind": "link_new",
+      "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75832&type=do",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:landkreis-muenchen:https://www.landkreis-muenchen.de/artikel/kreissparkasse-spendet-32000-euro-zugunsten-erneuerbarer-energieerzeugung/",
+      "detected_at": "2026-10-27T09:50:32+00:00",
+      "source_id": "landkreis-muenchen",
+      "source_name": "Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.landkreis-muenchen.de/artikel/kreissparkasse-spendet-32000-euro-zugunsten-erneuerbarer-energieerzeugung/",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/feldkirchen-zahlt-taeglich-43-000-euro-kreisumlage-buergermeister-schimpft-94559167.html",
+      "detected_at": "2026-10-27T09:50:39+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/feldkirchen-zahlt-taeglich-43-000-euro-kreisumlage-buergermeister-schimpft-94559167.html",
+      "link_text": "Feldkirchen zahlt täglich 43.000 Euro Kreisumlage – Bürgermeister schimpft",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/gruenwald-ort28770/gruenwalder-tiefgarage-fuer-589-000-euro-saniert-beton-und-stahl-sind-beschaedigt-94559370.html",
+      "detected_at": "2026-10-27T09:50:39+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/gruenwald-ort28770/gruenwalder-tiefgarage-fuer-589-000-euro-saniert-beton-und-stahl-sind-beschaedigt-94559370.html",
+      "link_text": "Grünwalder Tiefgaragen brauchen eine Sanierung",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/unterfoehring-ort29618/unehelicher-sohn-platzt-zur-silberhochzeit-rein-premiere-glaenzt-94559241.html",
+      "detected_at": "2026-10-27T09:50:39+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/unterfoehring-ort29618/unehelicher-sohn-platzt-zur-silberhochzeit-rein-premiere-glaenzt-94559241.html",
+      "link_text": "Unehelicher Sohn platzt zur Silberhochzeit rein – Premiere glänzt",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/unterschleissheim-ort29622/metaleros-festival-in-lohhof-lange-nacht-der-nieten-und-kutten-94559194.html",
+      "detected_at": "2026-10-27T09:50:39+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/unterschleissheim-ort29622/metaleros-festival-in-lohhof-lange-nacht-der-nieten-und-kutten-94559194.html",
+      "link_text": "Metaleros Festival in Lohhof: lange Nacht der Nieten und Kutten",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/ottobrunn-ort29241/schulwettbewerb-vielfalt-macht-schule-diese-acht-schulen-wurden-ausgezeichnet-94559237.html",
+      "detected_at": "2026-10-27T09:50:39+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/ottobrunn-ort29241/schulwettbewerb-vielfalt-macht-schule-diese-acht-schulen-wurden-ausgezeichnet-94559237.html",
+      "link_text": "Schulwettbewerb „Vielfalt macht Schule“: Diese acht Schulen wurden ausgezeichnet",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/neubiberg-ort29121/neubiberger-maibaum-wird-gefaellt-faeulnis-bedroht-32-meter-wahrzeichen-94559251.html",
+      "detected_at": "2026-10-27T09:50:39+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/neubiberg-ort29121/neubiberger-maibaum-wird-gefaellt-faeulnis-bedroht-32-meter-wahrzeichen-94559251.html",
+      "link_text": "Neubiberger Maibaum wird gefällt: Fäulnis bedroht 32-Meter-Wahrzeichen",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/15-jaehrige-faehrt-mietwagen-durch-garching-vater-sitzt-daneben-94558947.html",
+      "detected_at": "2026-10-27T09:50:39+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/15-jaehrige-faehrt-mietwagen-durch-garching-vater-sitzt-daneben-94558947.html",
+      "link_text": "15-jährige Amerikanerin fährt Mietwagen durch Oberbayern – Vater sitzt daneben",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/oberschleissheim-ort29202/betrunken-ohne-fuehrerschein-und-ohne-versicherung-polizei-stoppt-46-jaehrigen-94559073.html",
+      "detected_at": "2026-10-27T09:50:39+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/oberschleissheim-ort29202/betrunken-ohne-fuehrerschein-und-ohne-versicherung-polizei-stoppt-46-jaehrigen-94559073.html",
+      "link_text": "Betrunken, ohne Führerschein und ohne Versicherung: Polizei stoppt 46-Jährigen",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/gruenwald-ort28770/kellerbrand-in-gruenwalder-villa-eskaliert-110-einsatzkraefte-feuer-94558740.html",
+      "detected_at": "2026-10-27T09:50:39+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/gruenwald-ort28770/kellerbrand-in-gruenwalder-villa-eskaliert-110-einsatzkraefte-feuer-94558740.html",
+      "link_text": "Kellerbrand in Grünwalder Villa eskaliert: 110 Einsatzkräfte löschen Feuer – Warn-Apps schlagen an",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/sauerlach-ort117101/150-jahre-alte-turmuhr-laeuft-noch-dank-eines-86-jaehrigen-94557300.html",
+      "detected_at": "2026-10-27T09:50:39+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/sauerlach-ort117101/150-jahre-alte-turmuhr-laeuft-noch-dank-eines-86-jaehrigen-94557300.html",
+      "link_text": "150 Jahre alte Turmuhr läuft noch – dank eines 86-Jährigen",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/taufkirchen-bei-muenchen-ort486320/mit-190-km-bei-regen-tesla-fahrer-kracht-in-beide-leitplanken-94558532.html",
+      "detected_at": "2026-10-27T09:50:39+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/taufkirchen-bei-muenchen-ort486320/mit-190-km-bei-regen-tesla-fahrer-kracht-in-beide-leitplanken-94558532.html",
+      "link_text": "Mit 190 km/h bei Regen: Tesla-Fahrer kracht in beide Leitplanken",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-feldkirchen:https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/feldkirchen-zahlt-taeglich-43-000-euro-kreisumlage-buergermeister-schimpft-94559167.html",
+      "detected_at": "2026-10-27T09:50:40+00:00",
+      "source_id": "merkur-feldkirchen",
+      "source_name": "Münchner Merkur – Feldkirchen",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/feldkirchen-zahlt-taeglich-43-000-euro-kreisumlage-buergermeister-schimpft-94559167.html",
+      "link_text": "Feldkirchen zahlt täglich 43.000 Euro Kreisumlage – Bürgermeister schimpft",
       "status": "unprocessed"
     }
   ]
