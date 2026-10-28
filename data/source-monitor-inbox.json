@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-27T09:50:42+00:00",
+  "updated_at": "2026-10-28T10:38:06+00:00",
   "items": [
     {
       "event_key": "document:feldkirchen-parkraum-2026:https://www.feldkirchen.de/_Resources/Persistent/d/3/d/e/d3dee38ce3c4a9ad01384ca6ed314a2a8f8bcc12/2026%20Parkraumkonzept%20gem%20GR-Beschluss.pdf:4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
@@ -6424,6 +6424,156 @@
       "kind": "link_new",
       "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/feldkirchen-zahlt-taeglich-43-000-euro-kreisumlage-buergermeister-schimpft-94559167.html",
       "link_text": "Feldkirchen zahlt täglich 43.000 Euro Kreisumlage – Bürgermeister schimpft",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:landkreis-muenchen:https://www.landkreis-muenchen.de/artikel/der-landkreis-muenchen-zur-zeit-des-nationalsozialismus/",
+      "detected_at": "2026-10-28T10:36:46+00:00",
+      "source_id": "landkreis-muenchen",
+      "source_name": "Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.landkreis-muenchen.de/artikel/der-landkreis-muenchen-zur-zeit-des-nationalsozialismus/",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:landkreis-muenchen:https://www.landkreis-muenchen.de/artikel/amtsblatt-37-2026/",
+      "detected_at": "2026-10-28T10:36:46+00:00",
+      "source_id": "landkreis-muenchen",
+      "source_name": "Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.landkreis-muenchen.de/artikel/amtsblatt-37-2026/",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:landkreis-muenchen:https://www.landkreis-muenchen.de/artikel/grundstein-fuer-die-zukunft-des-beruflichen-schulzentrums-muenchen-land-gelegt/",
+      "detected_at": "2026-10-28T10:36:46+00:00",
+      "source_id": "landkreis-muenchen",
+      "source_name": "Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.landkreis-muenchen.de/artikel/grundstein-fuer-die-zukunft-des-beruflichen-schulzentrums-muenchen-land-gelegt/",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:landkreis-muenchen:https://www.landkreis-muenchen.de/artikel/halbseitige-sperrung-auf-der-staatsstrasse-2344-muenchner-strasse-zwischen-planegg-und-neuried/",
+      "detected_at": "2026-10-28T10:36:46+00:00",
+      "source_id": "landkreis-muenchen",
+      "source_name": "Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.landkreis-muenchen.de/artikel/halbseitige-sperrung-auf-der-staatsstrasse-2344-muenchner-strasse-zwischen-planegg-und-neuried/",
+      "link_text": "Halbseitige Sperrung auf der Staatsstraße 2344 Münchner Straße zwischen Planegg und Neuried",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/lkw-schiebt-drei-autos-ineinander-elfjaehriger-lebensgefaehrlich-verletzt-94561967.html",
+      "detected_at": "2026-10-28T10:38:02+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/lkw-schiebt-drei-autos-ineinander-elfjaehriger-lebensgefaehrlich-verletzt-94561967.html",
+      "link_text": "Lkw schiebt drei Autos ineinander: Elfjähriger lebensgefährlich verletzt",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/baierbrunn-ort28315/harry-kane-wohnt-in-baierbrunn-wirt-liefert-ihm-schnitzel-pro-tor-94561196.html",
+      "detected_at": "2026-10-28T10:38:02+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/baierbrunn-ort28315/harry-kane-wohnt-in-baierbrunn-wirt-liefert-ihm-schnitzel-pro-tor-94561196.html",
+      "link_text": "Kane gewinnt Ballon d'Or: Wohnort Baierbrunn feiert mit – Harrys Schnitzelwirt setzt Gold-Gericht auf Karte",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/studenten-tiny-haeuser-im-garten-abgelehnt-garching-fuerchtet-praezedenzfall-94561210.html",
+      "detected_at": "2026-10-28T10:38:02+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/studenten-tiny-haeuser-im-garten-abgelehnt-garching-fuerchtet-praezedenzfall-94561210.html",
+      "link_text": "Tiny-Häuser für Studenten im Garten abgelehnt: Garching fürchtet Präzedenzfall",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/schwerer-unfall-auf-autobahn-bei-muenchen-lkw-faehrt-auf-auto-auf-kind-in-lebensgefahr-94561716.html",
+      "detected_at": "2026-10-28T10:38:02+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/schwerer-unfall-auf-autobahn-bei-muenchen-lkw-faehrt-auf-auto-auf-kind-in-lebensgefahr-94561716.html",
+      "link_text": "Schwerer Unfall auf Autobahn bei München: Lkw fährt auf Auto auf – Kind (11) in Lebensgefahr",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/neubiberg-ort29121/neubiberg-gibt-60-000-euro-aus-um-sturzflut-risiken-zu-kartieren-94561069.html",
+      "detected_at": "2026-10-28T10:38:02+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/neubiberg-ort29121/neubiberg-gibt-60-000-euro-aus-um-sturzflut-risiken-zu-kartieren-94561069.html",
+      "link_text": "Neubiberg gibt 60.000 Euro aus, um Sturzflut-Risiken zu kartieren",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/oberschleissheim-ort29202/speisen-mit-dem-koenig-historisches-in-der-schlosswirtschaft-94561320.html",
+      "detected_at": "2026-10-28T10:38:02+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/oberschleissheim-ort29202/speisen-mit-dem-koenig-historisches-in-der-schlosswirtschaft-94561320.html",
+      "link_text": "Wenn der König zu Tisch kommt: Schlosswirtschaft startet historische Abende",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/gruenwald-ort28770/kellerbrand-in-gruenwalder-villa-ehepaar-ueber-80-verletzt-haus-unbewohnbar-94560571.html",
+      "detected_at": "2026-10-28T10:38:02+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/gruenwald-ort28770/kellerbrand-in-gruenwalder-villa-ehepaar-ueber-80-verletzt-haus-unbewohnbar-94560571.html",
+      "link_text": "Verheerender Kellerbrand in Grünwalder Villa: Bewohner erfuhr erst per Telefon vom Feuer",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/baierbrunn-ort28315/nach-ballon-or-sieg-wirt-liefert-goldschnitzel-an-bayern-star-harry-kane-auch-gaeste-koennen-es-bestellen-94561451.html",
+      "detected_at": "2026-10-28T10:38:02+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/baierbrunn-ort28315/nach-ballon-or-sieg-wirt-liefert-goldschnitzel-an-bayern-star-harry-kane-auch-gaeste-koennen-es-bestellen-94561451.html",
+      "link_text": "Nach Ballon-d'Or-Sieg: Wirt liefert Goldschnitzel an Bayern-Star Harry Kane",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/die-landkreis-redaktion-startet-jetzt-mit-einem-neuen-instagram-account-94245847.html",
+      "detected_at": "2026-10-28T10:38:02+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/die-landkreis-redaktion-startet-jetzt-mit-einem-neuen-instagram-account-94245847.html",
+      "link_text": "Die Landkreis-Redaktion startet jetzt mit einem neuen Instagram-Account",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-feldkirchen:https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/lkw-schiebt-drei-autos-ineinander-elfjaehriger-lebensgefaehrlich-verletzt-94561967.html",
+      "detected_at": "2026-10-28T10:38:03+00:00",
+      "source_id": "merkur-feldkirchen",
+      "source_name": "Münchner Merkur – Feldkirchen",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/lkw-schiebt-drei-autos-ineinander-elfjaehriger-lebensgefaehrlich-verletzt-94561967.html",
+      "link_text": "Lkw schiebt drei Autos ineinander: Elfjähriger lebensgefährlich verletzt",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-feldkirchen:https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/schwerer-unfall-auf-autobahn-bei-muenchen-lkw-faehrt-auf-auto-auf-kind-in-lebensgefahr-94561716.html",
+      "detected_at": "2026-10-28T10:38:03+00:00",
+      "source_id": "merkur-feldkirchen",
+      "source_name": "Münchner Merkur – Feldkirchen",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/schwerer-unfall-auf-autobahn-bei-muenchen-lkw-faehrt-auf-auto-auf-kind-in-lebensgefahr-94561716.html",
+      "link_text": "Schwerer Unfall auf Autobahn bei München: Lkw fährt auf Auto auf – Kind (11) in Lebensgefahr",
       "status": "unprocessed"
     }
   ]
