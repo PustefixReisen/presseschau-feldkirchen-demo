@@ -10,7 +10,7 @@
     "recherchebestand.json",
     "sitzungsbestand.json"
   ],
-  "contribution_count": 93,
+  "contribution_count": 94,
   "editorial_rules": [
     "No methodological or demonstrator text inside public contribution content.",
     "Sachinformation is neutral; political assessment is a separate optional field.",
@@ -21,6 +21,161 @@
     "Unsere Einordnung was audited on 2026-08-29 for citizen-oriented political language per KI-Leitfaden 0.8."
   ],
   "contributions": [
+    {
+      "id": "R069",
+      "date": "2026-10-28",
+      "publication_date": "2026-09-15",
+      "category": "Natur & Umwelt",
+      "topic_candidates": [
+        "Hundewiese",
+        "Grünfläche östlich des Friedhofs"
+      ],
+      "title": "Hundewiese am Friedhof: Antrag zurückgezogen, auch Parkvorschlag abgelehnt",
+      "subtitle": "Aktualisierung vom 28.10.2026: Nach Schallschutz- und Kostendebatte zieht die SPD ihren Antrag zurück; der Parkvorschlag findet keine Mehrheit.",
+      "sachinformation": "Der Gemeinderat hatte am 26. März 2026 mehrheitlich beschlossen, an einer Hundewiese östlich des Friedhofs festzuhalten und dafür etwa 1.000 m² vorzusehen. Die schalltechnische Untersuchung kam anschließend zu dem Ergebnis, dass eine uneingeschränkte Nutzung ohne Schutzmaßnahmen nicht möglich wäre. Vorgesehen wären unter anderem eine auf etwa 85 × 12 Meter zugeschnittene Fläche, zeitliche Nutzungsbeschränkungen und eine rund 50 Meter lange sowie 1,5 Meter hohe schalldichte Abschirmung. Für diese Abschirmung nennt die Verwaltung nach einer Markterkundung Angebote von etwa 15.200 bis 30.000 Euro; ein deutlich höheres Angebot lag bei rund 115.000 Euro.\n\nZusätzlich zu den Investitionskosten nennt die Vorlage offene Betriebsfragen: Wer die Anlage täglich auf- und zusperrt, wie die Nutzungszeiten kontrolliert und Verstöße behandelt werden, ist noch nicht geklärt. Die Verwaltung weist außerdem darauf hin, dass ihr keine belastbaren Zahlen zum konkreten Bedarf einer Hundewiese vorliegen; im Gemeindegebiet sind 372 Hunde gemeldet.\n\nDie Vorlage dokumentiert zugleich Einwände aus der Bürgerschaft, insbesondere der Initiative „Lebenswertes Feldkirchen – Pfoten weg vom Wohngebiet“. Diese betreffen unter anderem Bedarf, Kosten, Nähe zu Wohnbebauung und Friedhof, Nutzung durch Kinder sowie zusätzlichen Parkdruck. Die Verwaltung beantwortet einzelne Punkte, ohne damit die politische Abwägung vorwegzunehmen.\n\nAls Alternative wird die Prüfung einer offenen Park- und Freilauffläche beschrieben, in die auch Hundebesitzer einbezogen werden könnten. Genannt werden als mögliche Gestaltungselemente unter anderem Tiny Forest, Biodiversitätsgarten und ein öffentlicher Trinkwasserbrunnen. Dabei handelt es sich um eine Prüf- und Gestaltungsoption, nicht um eine bereits beschlossene Planung.\n\nDie fortgeschriebene Beschlussvorlage wurde im RIS öffentlich freigegeben. Ein zugehöriger Tagesordnungspunkt bzw. bestätigter Sitzungstermin ist in der veröffentlichten Tagesordnung derzeit nicht nachgewiesen.\n\nAktualisierung nach den Presseberichten vom 25. und 26. Oktober 2026: In der jüngsten Beratung des Gemeinderats zog die SPD ihren langjährig verfolgten Antrag für eine Hundewiese östlich des Friedhofs zurück. Ein Schallschutzzaun und damit verbundene Kosten sowie Fragen des Betriebs spielten eine wichtige Rolle. Die Verwaltung hatte für einen Zaun Angebote von etwa 15.200 bis 115.000 Euro eingeholt. Auch der Vorschlag, die Fläche stattdessen als innerörtlichen Park zu gestalten, wurde im Gemeinderat mit 7 zu 13 Stimmen abgelehnt. Der frühere Planungsstand ist daher überholt. Die beiden Presseberichte schildern den Konflikt und die Entscheidung; eine zusätzliche amtliche Bestätigung anhand der Sitzungsniederschrift bleibt nachzurecherchieren.",
+      "sources": [
+        {
+          "name": "RIS Feldkirchen – Beschlussvorlage 5283/2026",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74647&type=do",
+          "type": "primary_official",
+          "date": "2026-09-15",
+          "date_basis": "public_release_in_RIS",
+          "date_status": "verified"
+        },
+        {
+          "name": "RIS Feldkirchen – Dokumente mit Freigabe",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/do0040.asp?smcadat=2461011",
+          "type": "primary_official_index",
+          "date": "2026-09-15",
+          "date_basis": "RIS_release_listing",
+          "date_status": "verified"
+        },
+        {
+          "name": "RIS Feldkirchen – öffentliche Niederschrift Gemeinderat 23.07.2026",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74927&type=do",
+          "type": "primary_official_minutes",
+          "date": "2026-09-22",
+          "date_basis": "public_release_in_RIS",
+          "date_status": "verified"
+        },
+        {
+          "name": "Münchner Merkur – Hundewiese gescheitert: SPD zieht Antrag zurück (25.10.2026)",
+          "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/feldkirchen-hundewiese-gescheitert-spd-zieht-antrag-nach-sieben-jahren-zurueck-auch-park-plaene-vom-tisch-94555516.html",
+          "type": "secondary_press",
+          "date": "2026-10-25",
+          "date_basis": "publication_date",
+          "date_status": "verified"
+        },
+        {
+          "name": "Süddeutsche Zeitung – Gegner der Hundewiese setzen sich durch (26.10.2026)",
+          "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/feldkirchen-hundewiese-streit-anwohner-li.3564259?reduced=true",
+          "type": "secondary_press",
+          "date": "2026-10-26",
+          "date_basis": "publication_date",
+          "date_status": "verified"
+        }
+      ],
+      "bisheriger_verlauf": [
+        {
+          "id": "S020-T05",
+          "date": "2026-07-23",
+          "title": "Gemeinderat berät Schallgutachten; weitere Beratung wird bis zur Ermittlung der Schallschutzkosten zurückgestellt, eine Abstimmung erfolgt nicht."
+        }
+      ],
+      "unsere_einordnung": "Positiv ist zunächst, wie ausführlich die Verwaltung den Stand der Diskussion dokumentiert. Die Vorlage macht Gutachten, Kosten und praktische Betriebsfragen sichtbar, greift Einwände aus der Bürgerschaft auf und stellt verschiedene Nutzungsmöglichkeiten gegenüber. Gerade bei einem kontroversen lokalen Thema schafft eine solche transparente Entscheidungsgrundlage gute Voraussetzungen dafür, unterschiedliche Interessen nachvollziehen und abwägen zu können.\n\nAuch die von der Verwaltung eingebrachte Alternative verdient aus grüner Sicht Aufmerksamkeit. Eine offen zugängliche Grünfläche, die beispielsweise einen Tiny Forest, einen Biodiversitätsgarten und einen Trinkwasserbrunnen miteinander verbindet und zugleich Möglichkeiten für Hundehalter berücksichtigt, könnte mehrere Funktionen auf derselben Fläche zusammenbringen: Erholung und Begegnung, Artenvielfalt und Klimaanpassung. Solche Grünflächen, Bäume, Biodiversitätsmaßnahmen und Trinkbrunnen entsprechen wichtigen Zielen grüner Kommunalpolitik.\n\nDamit ist noch keine Entscheidung über die konkrete Gestaltung der Fläche vorweggenommen. Entscheidend wäre, die unterschiedlichen Nutzungsinteressen und die ökologischen Möglichkeiten in der weiteren Planung gemeinsam zu betrachten.",
+      "council": null,
+      "research_refs": [
+        "R069"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen",
+        "related_places": [
+          "Feldkirchen"
+        ],
+        "scope": "feldkirchen_direct",
+        "verification_status": "verified_2026-09-20"
+      },
+      "established_topic_refs": [],
+      "stage_update_meta": {
+        "created_at": "2026-09-20",
+        "source_status": "verified_public_release_without_confirmed_agenda_item",
+        "corrected_at": "2026-09-20",
+        "updated_at": "2026-10-28",
+        "history_confirmed_by_minutes": true
+      },
+      "einordnung_meta": {
+        "basis": "RIS-Beschlussvorlage 5283/2026; GRÜNE Bayern Kommunalwahl-Leitlinien 2026",
+        "editorial_status": "selected_contribution_assessment",
+        "reference_urls": [
+          "https://www.gruene-bayern.de/dateien/Leitlinien-zur-Kommunalwahl-26_Deutsch.pdf"
+        ]
+      },
+      "search_tags": [
+        "Hundewiese",
+        "Grünfläche östlich des Friedhofs"
+      ]
+    },
+    {
+      "id": "R115",
+      "date": "2026-10-28",
+      "publication_date": "2026-10-27",
+      "category": "Kommunalpolitik & Beteiligung",
+      "topic_candidates": [
+        "Kindertagesbetreuung",
+        "BayKiBiG",
+        "Elternbeitragszuschuss",
+        "Gemeinderat"
+      ],
+      "title": "Kita-Förderung: Gemeinderat berät Wegfall des 100-Euro-Zuschusses und neue Beiträge",
+      "subtitle": "Am 29. Oktober behandelt Feldkirchen TOP 2 und 3. München hält die Kita-Gebühren vorerst bis August 2027 stabil.",
+      "sachinformation": "Der Feldkirchner Gemeinderat befasst sich am 29. Oktober 2026 mit dem Wegfall des bayerischen Elternbeitragszuschusses von monatlich 100 Euro (TOP 2, Vorlage 5395/2026) sowie mit einer Beitragsanpassung der Kindertageseinrichtungen zum 1. Januar 2027 (TOP 3, Vorlage 5397/2026). Die Vorlagen wurden im Ratsinformationssystem veröffentlicht. Da die Sitzung erst bevorsteht, ist noch keine Feldkirchner Entscheidung getroffen beziehungsweise hier nachgewiesen.\n\nHintergrund ist die Neuregelung der bayerischen Kita-Finanzierung: Der bisherige Elternbeitragszuschuss entfällt als gesonderte Zahlung; nach Angaben des Freistaats bleibt das Fördervolumen im System. Welche finanziellen Auswirkungen das für Eltern vor Ort hat, hängt von den kommunalen Beitragsentscheidungen ab.\n\nAls Vergleich berichtet die Süddeutsche Zeitung am 27. Oktober, dass München die Gebühren für städtische und städtisch geförderte Kitas bis Ende August 2027 zunächst stabil halten will. Ab September 2027 sind dort Beitragssteigerungen vorgesehen. Diese Münchner Regelung gilt nicht automatisch in Feldkirchen.",
+      "sources": [
+        {
+          "name": "RIS Feldkirchen – Gemeinderat am 29.10.2026, TOP 2 und 3, Vorlagen 5395/2026 und 5397/2026",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1032",
+          "type": "primary_official",
+          "date": "2026-10-28",
+          "date_basis": "retrieval_date",
+          "date_status": "verified"
+        },
+        {
+          "name": "Süddeutsche Zeitung – München: Kitagebühren steigen erst einmal nicht (27.10.2026)",
+          "url": "https://www.sueddeutsche.de/muenchen/muenchen-kitagebuehren-li.3569926",
+          "type": "secondary_press",
+          "date": "2026-10-27",
+          "date_basis": "publication_date",
+          "date_status": "verified"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": null,
+      "research_refs": [
+        "R115"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen / München",
+        "related_places": [
+          "Feldkirchen",
+          "München"
+        ],
+        "scope": "feldkirchen_direct",
+        "verification_status": "verified_2026-10-28"
+      },
+      "established_topic_refs": [],
+      "stage_update_meta": {
+        "created_at": "2026-10-28",
+        "source_status": "RIS agenda and SZ verified; decision pending"
+      },
+      "search_tags": [
+        "Kita",
+        "BayKiBiG",
+        "Elternbeitragszuschuss",
+        "Kindertageseinrichtungen",
+        "Gemeinderat",
+        "29. Oktober"
+      ]
+    },
     {
       "id": "R084",
       "date": "2026-10-23",
@@ -1560,84 +1715,6 @@
         "Hundehaltung",
         "Leinenpflicht",
         "Dornacher Feld"
-      ]
-    },
-    {
-      "id": "R069",
-      "date": "2026-09-15",
-      "publication_date": "2026-09-15",
-      "category": "Natur & Umwelt",
-      "topic_candidates": [
-        "Hundewiese",
-        "Grünfläche östlich des Friedhofs"
-      ],
-      "title": "Hundewiese: Neue Vorlage nennt Schallschutzkosten und Park-Alternative",
-      "subtitle": "Die öffentlich freigegebene Vorlage konkretisiert Schallschutz, Kosten und Betriebsfragen und stellt einer eingezäunten Hundewiese eine offene Park- und Freilauffläche als Alternative gegenüber.",
-      "sachinformation": "Der Gemeinderat hatte am 26. März 2026 mehrheitlich beschlossen, an einer Hundewiese östlich des Friedhofs festzuhalten und dafür etwa 1.000 m² vorzusehen. Die schalltechnische Untersuchung kam anschließend zu dem Ergebnis, dass eine uneingeschränkte Nutzung ohne Schutzmaßnahmen nicht möglich wäre. Vorgesehen wären unter anderem eine auf etwa 85 × 12 Meter zugeschnittene Fläche, zeitliche Nutzungsbeschränkungen und eine rund 50 Meter lange sowie 1,5 Meter hohe schalldichte Abschirmung. Für diese Abschirmung nennt die Verwaltung nach einer Markterkundung Angebote von etwa 15.200 bis 30.000 Euro; ein deutlich höheres Angebot lag bei rund 115.000 Euro.\n\nZusätzlich zu den Investitionskosten nennt die Vorlage offene Betriebsfragen: Wer die Anlage täglich auf- und zusperrt, wie die Nutzungszeiten kontrolliert und Verstöße behandelt werden, ist noch nicht geklärt. Die Verwaltung weist außerdem darauf hin, dass ihr keine belastbaren Zahlen zum konkreten Bedarf einer Hundewiese vorliegen; im Gemeindegebiet sind 372 Hunde gemeldet.\n\nDie Vorlage dokumentiert zugleich Einwände aus der Bürgerschaft, insbesondere der Initiative „Lebenswertes Feldkirchen – Pfoten weg vom Wohngebiet“. Diese betreffen unter anderem Bedarf, Kosten, Nähe zu Wohnbebauung und Friedhof, Nutzung durch Kinder sowie zusätzlichen Parkdruck. Die Verwaltung beantwortet einzelne Punkte, ohne damit die politische Abwägung vorwegzunehmen.\n\nAls Alternative wird die Prüfung einer offenen Park- und Freilauffläche beschrieben, in die auch Hundebesitzer einbezogen werden könnten. Genannt werden als mögliche Gestaltungselemente unter anderem Tiny Forest, Biodiversitätsgarten und ein öffentlicher Trinkwasserbrunnen. Dabei handelt es sich um eine Prüf- und Gestaltungsoption, nicht um eine bereits beschlossene Planung.\n\nDie fortgeschriebene Beschlussvorlage wurde im RIS öffentlich freigegeben. Ein zugehöriger Tagesordnungspunkt bzw. bestätigter Sitzungstermin ist in der veröffentlichten Tagesordnung derzeit nicht nachgewiesen.",
-      "sources": [
-        {
-          "name": "RIS Feldkirchen – Beschlussvorlage 5283/2026",
-          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74647&type=do",
-          "type": "primary_official",
-          "date": "2026-09-15",
-          "date_basis": "public_release_in_RIS",
-          "date_status": "verified"
-        },
-        {
-          "name": "RIS Feldkirchen – Dokumente mit Freigabe",
-          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/do0040.asp?smcadat=2461011",
-          "type": "primary_official_index",
-          "date": "2026-09-15",
-          "date_basis": "RIS_release_listing",
-          "date_status": "verified"
-        },
-        {
-          "name": "RIS Feldkirchen – öffentliche Niederschrift Gemeinderat 23.07.2026",
-          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=74927&type=do",
-          "type": "primary_official_minutes",
-          "date": "2026-09-22",
-          "date_basis": "public_release_in_RIS",
-          "date_status": "verified"
-        }
-      ],
-      "bisheriger_verlauf": [
-        {
-          "id": "S020-T05",
-          "date": "2026-07-23",
-          "title": "Gemeinderat berät Schallgutachten; weitere Beratung wird bis zur Ermittlung der Schallschutzkosten zurückgestellt, eine Abstimmung erfolgt nicht."
-        }
-      ],
-      "unsere_einordnung": "Positiv ist zunächst, wie ausführlich die Verwaltung den Stand der Diskussion dokumentiert. Die Vorlage macht Gutachten, Kosten und praktische Betriebsfragen sichtbar, greift Einwände aus der Bürgerschaft auf und stellt verschiedene Nutzungsmöglichkeiten gegenüber. Gerade bei einem kontroversen lokalen Thema schafft eine solche transparente Entscheidungsgrundlage gute Voraussetzungen dafür, unterschiedliche Interessen nachvollziehen und abwägen zu können.\n\nAuch die von der Verwaltung eingebrachte Alternative verdient aus grüner Sicht Aufmerksamkeit. Eine offen zugängliche Grünfläche, die beispielsweise einen Tiny Forest, einen Biodiversitätsgarten und einen Trinkwasserbrunnen miteinander verbindet und zugleich Möglichkeiten für Hundehalter berücksichtigt, könnte mehrere Funktionen auf derselben Fläche zusammenbringen: Erholung und Begegnung, Artenvielfalt und Klimaanpassung. Solche Grünflächen, Bäume, Biodiversitätsmaßnahmen und Trinkbrunnen entsprechen wichtigen Zielen grüner Kommunalpolitik.\n\nDamit ist noch keine Entscheidung über die konkrete Gestaltung der Fläche vorweggenommen. Entscheidend wäre, die unterschiedlichen Nutzungsinteressen und die ökologischen Möglichkeiten in der weiteren Planung gemeinsam zu betrachten.",
-      "council": null,
-      "research_refs": [
-        "R069"
-      ],
-      "ortsbezug": {
-        "display_place": "Feldkirchen",
-        "related_places": [
-          "Feldkirchen"
-        ],
-        "scope": "feldkirchen_direct",
-        "verification_status": "verified_2026-09-20"
-      },
-      "established_topic_refs": [],
-      "stage_update_meta": {
-        "created_at": "2026-09-20",
-        "source_status": "verified_public_release_without_confirmed_agenda_item",
-        "corrected_at": "2026-09-20",
-        "updated_at": "2026-09-23",
-        "history_confirmed_by_minutes": true
-      },
-      "einordnung_meta": {
-        "basis": "RIS-Beschlussvorlage 5283/2026; GRÜNE Bayern Kommunalwahl-Leitlinien 2026",
-        "editorial_status": "selected_contribution_assessment",
-        "reference_urls": [
-          "https://www.gruene-bayern.de/dateien/Leitlinien-zur-Kommunalwahl-26_Deutsch.pdf"
-        ]
-      },
-      "search_tags": [
-        "Hundewiese",
-        "Grünfläche östlich des Friedhofs"
       ]
     },
     {
