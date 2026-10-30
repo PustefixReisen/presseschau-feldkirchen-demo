@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-29T10:55:27+00:00",
+  "updated_at": "2026-10-30T10:53:53+00:00",
   "items": [
     {
       "event_key": "document:feldkirchen-parkraum-2026:https://www.feldkirchen.de/_Resources/Persistent/d/3/d/e/d3dee38ce3c4a9ad01384ca6ed314a2a8f8bcc12/2026%20Parkraumkonzept%20gem%20GR-Beschluss.pdf:4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
@@ -6714,6 +6714,136 @@
       "kind": "link_new",
       "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/polizeiauto-erfasst-79-jaehrigen-radfahrer-bei-ottendichl-94562207.html",
       "link_text": "Polizeiauto erfasst 79-jährigen Radfahrer bei Ottendichl",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:feldkirchen-aktuelle-meldungen:https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/foerderbudget-fuer-pv-anlagen-und-batteriespeicher-aufgebraucht",
+      "detected_at": "2026-10-30T10:53:02+00:00",
+      "source_id": "feldkirchen-aktuelle-meldungen",
+      "source_name": "Gemeinde Feldkirchen – Aktuelle Meldungen",
+      "kind": "link_new",
+      "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/foerderbudget-fuer-pv-anlagen-und-batteriespeicher-aufgebraucht",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/gruenwald-ort28770/sterbebildchen-zeigen-heute-lachende-gesichter-statt-leid-94564225.html",
+      "detected_at": "2026-10-30T10:53:50+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/gruenwald-ort28770/sterbebildchen-zeigen-heute-lachende-gesichter-statt-leid-94564225.html",
+      "link_text": "Sterbebildchen zeigen heute lachende Gesichter statt Leid",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/brueckenabriss-bei-haar-a99-vier-tage-gesperrt-massive-behinderungen-94565213.html",
+      "detected_at": "2026-10-30T10:53:50+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/brueckenabriss-bei-haar-a99-vier-tage-gesperrt-massive-behinderungen-94565213.html",
+      "link_text": "Datum für Brückenabriss steht: A99 bei München tagelang gesperrt – „massive Belastung im Stadtgebiet“",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/imagekampagne-in-eigener-gemeinde-buerger-posieren-fuer-plakate-94564828.html",
+      "detected_at": "2026-10-30T10:53:50+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/imagekampagne-in-eigener-gemeinde-buerger-posieren-fuer-plakate-94564828.html",
+      "link_text": "Imagekampagne in eigener Gemeinde: Bürger posieren für Plakate",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/ottobrunn-ort29241/60-millionen-euro-wolf-ferrari-haus-wird-zur-kostenbombe-94564819.html",
+      "detected_at": "2026-10-30T10:53:50+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/ottobrunn-ort29241/60-millionen-euro-wolf-ferrari-haus-wird-zur-kostenbombe-94564819.html",
+      "link_text": "60 Millionen Euro: Wolf-Ferrari-Haus wird zur Kostenbombe",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/unterfoehring-ort29618/freudentraenen-bei-buergerversammlung-kemmelmeyer-wird-altbuergermeister-94564319.html",
+      "detected_at": "2026-10-30T10:53:50+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/unterfoehring-ort29618/freudentraenen-bei-buergerversammlung-kemmelmeyer-wird-altbuergermeister-94564319.html",
+      "link_text": "Freudentränen bei Bürgerversammlung: Kemmelmeyer wird Altbürgermeister",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/schaeftlarn-ort73337/170-baenke-zwei-lieblinge-88-jaehriger-zeigt-seine-orte-im-isartal-94562965.html",
+      "detected_at": "2026-10-30T10:53:50+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/schaeftlarn-ort73337/170-baenke-zwei-lieblinge-88-jaehriger-zeigt-seine-orte-im-isartal-94562965.html",
+      "link_text": "170 Bänke, zwei Lieblinge: 88-Jähriger zeigt seine Orte im Isartal",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/garching-turn-auf-der-b471-26-jaehriger-schiebt-bmw-in-zwei-andere-autos-94564606.html",
+      "detected_at": "2026-10-30T10:53:50+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/garching-turn-auf-der-b471-26-jaehriger-schiebt-bmw-in-zwei-andere-autos-94564606.html",
+      "link_text": "U-Turn auf B471: 26-Jähriger verursacht mit riskantem Manöver Unfall – Fünf Verletzte",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/mit-verletztem-handgelenk-91-jaehrige-schwimmt-3500-meter-bei-dlrg-wettbewerb-94562848.html",
+      "detected_at": "2026-10-30T10:53:50+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/mit-verletztem-handgelenk-91-jaehrige-schwimmt-3500-meter-bei-dlrg-wettbewerb-94562848.html",
+      "link_text": "Mit verletztem Handgelenk: 91-Jährige schwimmt 3500 Meter bei DLRG-Wettbewerb",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/oberschleissheim-ort29202/drei-seniorinnen-durchschauen-trickbetrug-an-einem-einzigen-tag-94564122.html",
+      "detected_at": "2026-10-30T10:53:50+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/oberschleissheim-ort29202/drei-seniorinnen-durchschauen-trickbetrug-an-einem-einzigen-tag-94564122.html",
+      "link_text": "Drei Seniorinnen durchschauen Trickbetrug – an einem einzigen Tag",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-aschheim:https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/imagekampagne-in-eigener-gemeinde-buerger-posieren-fuer-plakate-94564828.html",
+      "detected_at": "2026-10-30T10:53:51+00:00",
+      "source_id": "merkur-aschheim",
+      "source_name": "Münchner Merkur – Aschheim",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/imagekampagne-in-eigener-gemeinde-buerger-posieren-fuer-plakate-94564828.html",
+      "link_text": "Imagekampagne in eigener Gemeinde: Bürger posieren für Plakate",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-haar:https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/brueckenabriss-bei-haar-a99-vier-tage-gesperrt-massive-behinderungen-94565213.html",
+      "detected_at": "2026-10-30T10:53:53+00:00",
+      "source_id": "merkur-haar",
+      "source_name": "Münchner Merkur – Haar",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/brueckenabriss-bei-haar-a99-vier-tage-gesperrt-massive-behinderungen-94565213.html",
+      "link_text": "Brückenabriss bei Haar – A99 vier Tage gesperrt – Massive Behinderungen",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-haar:https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/mit-verletztem-handgelenk-91-jaehrige-schwimmt-3500-meter-bei-dlrg-wettbewerb-94562848.html",
+      "detected_at": "2026-10-30T10:53:53+00:00",
+      "source_id": "merkur-haar",
+      "source_name": "Münchner Merkur – Haar",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/mit-verletztem-handgelenk-91-jaehrige-schwimmt-3500-meter-bei-dlrg-wettbewerb-94562848.html",
+      "link_text": "Mit verletztem Handgelenk: 91-Jährige schwimmt 3500 Meter bei DLRG-Wettbewerb",
       "status": "unprocessed"
     }
   ]
