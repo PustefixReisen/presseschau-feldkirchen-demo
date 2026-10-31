@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-30T10:53:53+00:00",
+  "updated_at": "2026-10-31T10:24:58+00:00",
   "items": [
     {
       "event_key": "document:feldkirchen-parkraum-2026:https://www.feldkirchen.de/_Resources/Persistent/d/3/d/e/d3dee38ce3c4a9ad01384ca6ed314a2a8f8bcc12/2026%20Parkraumkonzept%20gem%20GR-Beschluss.pdf:4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
@@ -6844,6 +6844,156 @@
       "kind": "link_new",
       "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/mit-verletztem-handgelenk-91-jaehrige-schwimmt-3500-meter-bei-dlrg-wettbewerb-94562848.html",
       "link_text": "Mit verletztem Handgelenk: 91-Jährige schwimmt 3500 Meter bei DLRG-Wettbewerb",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:ris-feldkirchen-freigaben:https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75785&type=do",
+      "detected_at": "2026-10-31T10:24:42+00:00",
+      "source_id": "ris-feldkirchen-freigaben",
+      "source_name": "RIS Feldkirchen – Dokumente mit Freigabe",
+      "kind": "link_new",
+      "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75785&type=do",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:feldkirchen-aktuelle-meldungen:https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/filmvorfuehrung-lebensfreundschaften-findet-wie-geplant-statt",
+      "detected_at": "2026-10-31T10:24:43+00:00",
+      "source_id": "feldkirchen-aktuelle-meldungen",
+      "source_name": "Gemeinde Feldkirchen – Aktuelle Meldungen",
+      "kind": "link_new",
+      "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/filmvorfuehrung-lebensfreundschaften-findet-wie-geplant-statt",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:feldkirchen-aktuelle-meldungen:https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/vollsperrung-der-autobahn-zwischen-autobahnkreuz-muenchen-sued-und-autobahnkreuz-muenchen-ost-vom-20-bis-23-11",
+      "detected_at": "2026-10-31T10:24:43+00:00",
+      "source_id": "feldkirchen-aktuelle-meldungen",
+      "source_name": "Gemeinde Feldkirchen – Aktuelle Meldungen",
+      "kind": "link_new",
+      "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/vollsperrung-der-autobahn-zwischen-autobahnkreuz-muenchen-sued-und-autobahnkreuz-muenchen-ost-vom-20-bis-23-11",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/unterschleissheim-ort29622/wehrpflicht-ja-oder-nein-hofreiter-sieht-keine-alternative-94566771.html",
+      "detected_at": "2026-10-31T10:24:55+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/unterschleissheim-ort29622/wehrpflicht-ja-oder-nein-hofreiter-sieht-keine-alternative-94566771.html",
+      "link_text": "Wehrpflicht ja oder nein? – Hofreiter sieht „keine Alternative“",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/pullach-ort29321/hospizhelferinnen-erklaeren-kindern-seit-sieben-jahren-was-trauer-bedeutet-94566685.html",
+      "detected_at": "2026-10-31T10:24:55+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/pullach-ort29321/hospizhelferinnen-erklaeren-kindern-seit-sieben-jahren-was-trauer-bedeutet-94566685.html",
+      "link_text": "Hospizhelferinnen erklären Kindern, was Trauer bedeutet",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/feldkirchener-kindergarten-eltern-zahlen-ab-januar-100-euro-mehr-94566719.html",
+      "detected_at": "2026-10-31T10:24:55+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/feldkirchener-kindergarten-eltern-zahlen-ab-januar-100-euro-mehr-94566719.html",
+      "link_text": "Feldkirchener Kindergarten-Eltern zahlen ab Januar 100 Euro mehr",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/ismaning-ort28863/nach-brand-neuer-burschenstadl-in-ismaning-soll-zum-weinfest-2027-stehen-94564800.html",
+      "detected_at": "2026-10-31T10:24:55+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/ismaning-ort28863/nach-brand-neuer-burschenstadl-in-ismaning-soll-zum-weinfest-2027-stehen-94564800.html",
+      "link_text": "Nach verheerendem Brand: Neuer Burschenstadl in Ismaning soll zum Weinfest 2027 stehen",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/putzbrunn-ort29323/person-eingeklemmt-schwerer-unfall-in-putzbrunn-fordert-rettungshubschrauber-94566469.html",
+      "detected_at": "2026-10-31T10:24:55+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/putzbrunn-ort29323/person-eingeklemmt-schwerer-unfall-in-putzbrunn-fordert-rettungshubschrauber-94566469.html",
+      "link_text": "Person eingeklemmt: Autos krachen frontal ineinander – Rettungshubschrauber vor Ort",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/pullach-ort29321/sv-pullach-vor-abstiegsduell-zwei-spieler-fallen-mit-knieproblemen-aus-94567007.html",
+      "detected_at": "2026-10-31T10:24:55+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/pullach-ort29321/sv-pullach-vor-abstiegsduell-zwei-spieler-fallen-mit-knieproblemen-aus-94567007.html",
+      "link_text": "SV Pullach vor Abstiegsduell: Zwei Spieler fallen mit Knieproblemen aus",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/aying-ort28266/konzept-fehlt-ayinger-gemeinderat-lehnt-agri-pv-anlage-auf-25-000-ab-94564803.html",
+      "detected_at": "2026-10-31T10:24:55+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/aying-ort28266/konzept-fehlt-ayinger-gemeinderat-lehnt-agri-pv-anlage-auf-25-000-ab-94564803.html",
+      "link_text": "Konzept fehlt: Ayinger Gemeinderat lehnt Agri-PV-Anlage auf 25.000 Quadratmetern ab",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/falsche-polizisten-bestehlen-zwei-seniorinnen-im-landkreis-muenchen-an-einem-tag-94566324.html",
+      "detected_at": "2026-10-31T10:24:55+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/falsche-polizisten-bestehlen-zwei-seniorinnen-im-landkreis-muenchen-an-einem-tag-94566324.html",
+      "link_text": "Falsche Polizisten bestehlen zwei Seniorinnen im Landkreis München an einem Tag",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/einbrecher-stehlen-moebeltresor-mit-fuenfstelligem-betrag-in-kirchheim-94566274.html",
+      "detected_at": "2026-10-31T10:24:55+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/einbrecher-stehlen-moebeltresor-mit-fuenfstelligem-betrag-in-kirchheim-94566274.html",
+      "link_text": "Einbrecher stehlen Möbeltresor mit fünfstelligem Betrag in Kirchheim: Zeugen gesucht",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/schaeftlarn-ort73337/springkraut-schleudert-samen-meterweit-schaeftlarn-kaempft-gegen-neophyten-94564757.html",
+      "detected_at": "2026-10-31T10:24:55+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/schaeftlarn-ort73337/springkraut-schleudert-samen-meterweit-schaeftlarn-kaempft-gegen-neophyten-94564757.html",
+      "link_text": "Springkraut schleudert Samen meterweit: Schäftlarn kämpft gegen Neophyten",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/neubiberg-ort29121/neubiberg-fahrer-bringt-verletzten-senior-nach-hause-und-fluechtet-dann-94566182.html",
+      "detected_at": "2026-10-31T10:24:55+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/neubiberg-ort29121/neubiberg-fahrer-bringt-verletzten-senior-nach-hause-und-fluechtet-dann-94566182.html",
+      "link_text": "Mann fährt Senior an, bringt ihn verletzt nach Hause und flüchtet: Polizei sucht Zeugen",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-kirchheim:https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/einbrecher-stehlen-moebeltresor-mit-fuenfstelligem-betrag-in-kirchheim-94566274.html",
+      "detected_at": "2026-10-31T10:24:58+00:00",
+      "source_id": "merkur-kirchheim",
+      "source_name": "Münchner Merkur – Kirchheim",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/einbrecher-stehlen-moebeltresor-mit-fuenfstelligem-betrag-in-kirchheim-94566274.html",
+      "link_text": "Einbrecher stehlen Möbeltresor mit fünfstelligem Betrag in Kirchheim: Zeugen gesucht",
       "status": "unprocessed"
     }
   ]
