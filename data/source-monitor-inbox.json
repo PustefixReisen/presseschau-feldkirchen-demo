@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-31T10:24:58+00:00",
+  "updated_at": "2026-11-01T11:18:27+00:00",
   "items": [
     {
       "event_key": "document:feldkirchen-parkraum-2026:https://www.feldkirchen.de/_Resources/Persistent/d/3/d/e/d3dee38ce3c4a9ad01384ca6ed314a2a8f8bcc12/2026%20Parkraumkonzept%20gem%20GR-Beschluss.pdf:4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
@@ -6994,6 +6994,36 @@
       "kind": "link_new",
       "url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/einbrecher-stehlen-moebeltresor-mit-fuenfstelligem-betrag-in-kirchheim-94566274.html",
       "link_text": "Einbrecher stehlen Möbeltresor mit fünfstelligem Betrag in Kirchheim: Zeugen gesucht",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/ottobrunn-ort29241/840-plaetze-und-300-meter-schlange-biergarten-im-wolf-ferrari-haus-ein-erfolg-94566672.html",
+      "detected_at": "2026-11-01T11:18:23+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/ottobrunn-ort29241/840-plaetze-und-300-meter-schlange-biergarten-im-wolf-ferrari-haus-ein-erfolg-94566672.html",
+      "link_text": "840 Plätze und 30 Meter Schlange: Biergarten im Wolf-Ferrari-Haus ein Erfolg",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/gruenwald-ort28770/enkel-des-ns-ortsgruppenleiters-trifft-nichte-von-weisser-rose-mitglied-schmorell-94566670.html",
+      "detected_at": "2026-11-01T11:18:23+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/gruenwald-ort28770/enkel-des-ns-ortsgruppenleiters-trifft-nichte-von-weisser-rose-mitglied-schmorell-94566670.html",
+      "link_text": "Enkel des NS-Ortsgruppenleiters trifft Nichte von Weißer-Rose-Mitglied Schmorell",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-feldkirchen:https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/feldkirchener-kindergarten-eltern-zahlen-ab-januar-100-euro-mehr-94566719.html",
+      "detected_at": "2026-11-01T11:18:24+00:00",
+      "source_id": "merkur-feldkirchen",
+      "source_name": "Münchner Merkur – Feldkirchen",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/feldkirchener-kindergarten-eltern-zahlen-ab-januar-100-euro-mehr-94566719.html",
+      "link_text": "Feldkirchener Kindergarten-Eltern zahlen ab Januar 100 Euro mehr",
       "status": "unprocessed"
     }
   ]
