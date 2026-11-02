@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-01T11:18:27+00:00",
+  "updated_at": "2026-11-02T12:28:35+00:00",
   "items": [
     {
       "event_key": "document:feldkirchen-parkraum-2026:https://www.feldkirchen.de/_Resources/Persistent/d/3/d/e/d3dee38ce3c4a9ad01384ca6ed314a2a8f8bcc12/2026%20Parkraumkonzept%20gem%20GR-Beschluss.pdf:4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
@@ -7024,6 +7024,116 @@
       "kind": "link_new",
       "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/feldkirchener-kindergarten-eltern-zahlen-ab-januar-100-euro-mehr-94566719.html",
       "link_text": "Feldkirchener Kindergarten-Eltern zahlen ab Januar 100 Euro mehr",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/unterschleissheim-ort29622/unterschleissheim-linienbus-erfasst-mann-beim-abbiegen-fahrer-fluechtet-vom-unfallort-94569771.html",
+      "detected_at": "2026-11-02T12:28:30+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/unterschleissheim-ort29622/unterschleissheim-linienbus-erfasst-mann-beim-abbiegen-fahrer-fluechtet-vom-unfallort-94569771.html",
+      "link_text": "Tödlicher Unfall in Unterschleißheim: Linienbus erfasst Mann beim Abbiegen",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/unterfoehring-ort29618/parkende-autos-als-tempobrecher-unterfoehring-verteidigt-regelung-an-der-muenchner-strasse-94568453.html",
+      "detected_at": "2026-11-02T12:28:30+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/unterfoehring-ort29618/parkende-autos-als-tempobrecher-unterfoehring-verteidigt-regelung-an-der-muenchner-strasse-94568453.html",
+      "link_text": "„Untragbar“: Parkende Autos blockieren Verkehr an der Münchner Straße – Unterföhring verteidigt Regelung",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/500-000-euro-studie-zur-b471-autobahnparallele-wird-nicht-gebaut-94568464.html",
+      "detected_at": "2026-11-02T12:28:30+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/500-000-euro-studie-zur-b471-autobahnparallele-wird-nicht-gebaut-94568464.html",
+      "link_text": "500.000-Euro-Studie zur B471: Autobahnparallele wird nicht gebaut",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/grasbrunn-ort377335/gronsdorfer-komoedienbrettl-feiert-premiere-chaos-im-museum-sorgt-fuer-szenenapplaus-94568460.html",
+      "detected_at": "2026-11-02T12:28:30+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/grasbrunn-ort377335/gronsdorfer-komoedienbrettl-feiert-premiere-chaos-im-museum-sorgt-fuer-szenenapplaus-94568460.html",
+      "link_text": "Gronsdorfer Komödienbrettl feiert Premiere: Chaos im Museum sorgt für Szenenapplaus",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/garchinger-buergermeister-wechselt-auto-gegen-hybrid-stadtrat-empoert-94568422.html",
+      "detected_at": "2026-11-02T12:28:30+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/garchinger-buergermeister-wechselt-auto-gegen-hybrid-stadtrat-empoert-94568422.html",
+      "link_text": "BMW oder VW, E-Auto oder Hybrid: Bürgermeister-Dienstwagen-Debatte sorgt für Zündstoff",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/taufkirchen-bei-muenchen-ort486320/taufkirchen-prueft-vorzeitigen-neubau-der-lindenpassage-94568206.html",
+      "detected_at": "2026-11-02T12:28:30+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/taufkirchen-bei-muenchen-ort486320/taufkirchen-prueft-vorzeitigen-neubau-der-lindenpassage-94568206.html",
+      "link_text": "Taufkirchen prüft vorzeitigen Neubau der Lindenpassage",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/ismaning-ort28863/halloween-fest-in-ismaning-40-helfer-sorgten-fuer-die-party-bis-zwei-uhr-morgens-94568446.html",
+      "detected_at": "2026-11-02T12:28:30+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/ismaning-ort28863/halloween-fest-in-ismaning-40-helfer-sorgten-fuer-die-party-bis-zwei-uhr-morgens-94568446.html",
+      "link_text": "Halloween-Fest in Ismaning: 40 Helfer sorgten für die Party bis zwei Uhr morgens",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/schaeftlarn-ort73337/spurwechsel-auf-der-a95-beide-autos-landen-mit-totalschaden-an-der-leitplanke-94568418.html",
+      "detected_at": "2026-11-02T12:28:30+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/schaeftlarn-ort73337/spurwechsel-auf-der-a95-beide-autos-landen-mit-totalschaden-an-der-leitplanke-94568418.html",
+      "link_text": "Spurwechsel auf der A95: Beide Autos mit Totalschaden in der Leitplanke",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/unterschleissheim-ort29622/mann-liegt-tot-auf-fahrbahn-polizei-sucht-unbekannten-fahrer-94568314.html",
+      "detected_at": "2026-11-02T12:28:30+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/unterschleissheim-ort29622/mann-liegt-tot-auf-fahrbahn-polizei-sucht-unbekannten-fahrer-94568314.html",
+      "link_text": "Mann liegt tot auf Fahrbahn – Polizei sucht unbekannten Fahrer",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/grasbrunn-ort377335/85-jaehriger-missachtet-vorfahrt-und-wird-in-bmw-eingeklemmt-94568305.html",
+      "detected_at": "2026-11-02T12:28:30+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/grasbrunn-ort377335/85-jaehriger-missachtet-vorfahrt-und-wird-in-bmw-eingeklemmt-94568305.html",
+      "link_text": "85-Jähriger missachtet Vorfahrt und wird in BMW eingeklemmt",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-haar:https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/500-000-euro-studie-zur-b471-autobahnparallele-wird-nicht-gebaut-94568464.html",
+      "detected_at": "2026-11-02T12:28:35+00:00",
+      "source_id": "merkur-haar",
+      "source_name": "Münchner Merkur – Haar",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/500-000-euro-studie-zur-b471-autobahnparallele-wird-nicht-gebaut-94568464.html",
+      "link_text": "500.000-Euro-Studie zur B471: Autobahnparallele wird nicht gebaut",
       "status": "unprocessed"
     }
   ]
