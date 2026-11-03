@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-02T12:28:35+00:00",
+  "updated_at": "2026-11-03T11:58:28+00:00",
   "items": [
     {
       "event_key": "document:feldkirchen-parkraum-2026:https://www.feldkirchen.de/_Resources/Persistent/d/3/d/e/d3dee38ce3c4a9ad01384ca6ed314a2a8f8bcc12/2026%20Parkraumkonzept%20gem%20GR-Beschluss.pdf:4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
@@ -7134,6 +7134,266 @@
       "kind": "link_new",
       "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/500-000-euro-studie-zur-b471-autobahnparallele-wird-nicht-gebaut-94568464.html",
       "link_text": "500.000-Euro-Studie zur B471: Autobahnparallele wird nicht gebaut",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:ris-feldkirchen-freigaben:https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1033",
+      "detected_at": "2026-11-03T11:58:06+00:00",
+      "source_id": "ris-feldkirchen-freigaben",
+      "source_name": "RIS Feldkirchen – Dokumente mit Freigabe",
+      "kind": "link_new",
+      "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1033",
+      "link_text": "10.11.2026",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:ris-feldkirchen-freigaben:https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75987&type=do",
+      "detected_at": "2026-11-03T11:58:06+00:00",
+      "source_id": "ris-feldkirchen-freigaben",
+      "source_name": "RIS Feldkirchen – Dokumente mit Freigabe",
+      "kind": "link_new",
+      "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75987&type=do",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:ris-feldkirchen-freigaben:https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8653",
+      "detected_at": "2026-11-03T11:58:06+00:00",
+      "source_id": "ris-feldkirchen-freigaben",
+      "source_name": "RIS Feldkirchen – Dokumente mit Freigabe",
+      "kind": "link_new",
+      "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8653",
+      "link_text": "Antrag aus der Bürgerversammlung vom 21.10.2026 auf Durchführung einer Einbahnregelung in der Richthofenstraße",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:ris-feldkirchen-freigaben:https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75975&type=do",
+      "detected_at": "2026-11-03T11:58:06+00:00",
+      "source_id": "ris-feldkirchen-freigaben",
+      "source_name": "RIS Feldkirchen – Dokumente mit Freigabe",
+      "kind": "link_new",
+      "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75975&type=do",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:ris-feldkirchen-freigaben:https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8654",
+      "detected_at": "2026-11-03T11:58:06+00:00",
+      "source_id": "ris-feldkirchen-freigaben",
+      "source_name": "RIS Feldkirchen – Dokumente mit Freigabe",
+      "kind": "link_new",
+      "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8654",
+      "link_text": "Antrag aus der Bürgerversammlung vom 21.10.2026 auf erneute Prüfung der Möglichkeit einer Geschwindigkeitsbeschränkung - Tempo 30 - auf der B471 in Feldkirchen",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:ris-feldkirchen-freigaben:https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75979&type=do",
+      "detected_at": "2026-11-03T11:58:06+00:00",
+      "source_id": "ris-feldkirchen-freigaben",
+      "source_name": "RIS Feldkirchen – Dokumente mit Freigabe",
+      "kind": "link_new",
+      "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75979&type=do",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:ris-feldkirchen-freigaben:https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8655",
+      "detected_at": "2026-11-03T11:58:06+00:00",
+      "source_id": "ris-feldkirchen-freigaben",
+      "source_name": "RIS Feldkirchen – Dokumente mit Freigabe",
+      "kind": "link_new",
+      "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8655",
+      "link_text": "Antrag aus der Bürgerversammlung vom 21.10.2026 auf Einbindung der neuen Fuß- und Radwegbrücke über die A94 in das Radwegenetz",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:ris-feldkirchen-freigaben:https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75983&type=do",
+      "detected_at": "2026-11-03T11:58:06+00:00",
+      "source_id": "ris-feldkirchen-freigaben",
+      "source_name": "RIS Feldkirchen – Dokumente mit Freigabe",
+      "kind": "link_new",
+      "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75983&type=do",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:ris-feldkirchen-freigaben:https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8650",
+      "detected_at": "2026-11-03T11:58:06+00:00",
+      "source_id": "ris-feldkirchen-freigaben",
+      "source_name": "RIS Feldkirchen – Dokumente mit Freigabe",
+      "kind": "link_new",
+      "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8650",
+      "link_text": "Antrag aus der Bürgerversammlung vom 21.10.2026 auf Festlegung des Friedhofs-Erweiterungs-Grundstücks als Parkfläche",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:ris-feldkirchen-freigaben:https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75963&type=do",
+      "detected_at": "2026-11-03T11:58:06+00:00",
+      "source_id": "ris-feldkirchen-freigaben",
+      "source_name": "RIS Feldkirchen – Dokumente mit Freigabe",
+      "kind": "link_new",
+      "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75963&type=do",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:ris-feldkirchen-freigaben:https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8651",
+      "detected_at": "2026-11-03T11:58:06+00:00",
+      "source_id": "ris-feldkirchen-freigaben",
+      "source_name": "RIS Feldkirchen – Dokumente mit Freigabe",
+      "kind": "link_new",
+      "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8651",
+      "link_text": "Antrag aus der Bürgerversammlung vom 21.10.2026 auf Abfahrverbot von der Autobahn A99 am Wochenende (Freitag bis Sonntag)",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:ris-feldkirchen-freigaben:https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75967&type=do",
+      "detected_at": "2026-11-03T11:58:06+00:00",
+      "source_id": "ris-feldkirchen-freigaben",
+      "source_name": "RIS Feldkirchen – Dokumente mit Freigabe",
+      "kind": "link_new",
+      "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75967&type=do",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:ris-feldkirchen-freigaben:https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8652",
+      "detected_at": "2026-11-03T11:58:06+00:00",
+      "source_id": "ris-feldkirchen-freigaben",
+      "source_name": "RIS Feldkirchen – Dokumente mit Freigabe",
+      "kind": "link_new",
+      "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8652",
+      "link_text": "Antrag aus der Bürgerversammlung vom 21.10.2026 auf Bezuschussung von Zisternen auf privaten Grundstücken",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:ris-feldkirchen-freigaben:https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75971&type=do",
+      "detected_at": "2026-11-03T11:58:06+00:00",
+      "source_id": "ris-feldkirchen-freigaben",
+      "source_name": "RIS Feldkirchen – Dokumente mit Freigabe",
+      "kind": "link_new",
+      "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75971&type=do",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:ris-feldkirchen-freigaben:https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8632",
+      "detected_at": "2026-11-03T11:58:06+00:00",
+      "source_id": "ris-feldkirchen-freigaben",
+      "source_name": "RIS Feldkirchen – Dokumente mit Freigabe",
+      "kind": "link_new",
+      "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8632",
+      "link_text": "Bestellung der Tarifbeschäftigten Lea Rieder zur Standesbeamtin für den Standesamtsbezirk Feldkirchen, Landkreis München",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:ris-feldkirchen-freigaben:https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75641&type=do",
+      "detected_at": "2026-11-03T11:58:06+00:00",
+      "source_id": "ris-feldkirchen-freigaben",
+      "source_name": "RIS Feldkirchen – Dokumente mit Freigabe",
+      "kind": "link_new",
+      "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75641&type=do",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:feldkirchen-aktuelle-meldungen:https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/sicherheitswacht-in-feldkirchen",
+      "detected_at": "2026-11-03T11:58:09+00:00",
+      "source_id": "feldkirchen-aktuelle-meldungen",
+      "source_name": "Gemeinde Feldkirchen – Aktuelle Meldungen",
+      "kind": "link_new",
+      "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/sicherheitswacht-in-feldkirchen",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:feldkirchen-aktuelle-meldungen:https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/fahrrad-klimatest",
+      "detected_at": "2026-11-03T11:58:09+00:00",
+      "source_id": "feldkirchen-aktuelle-meldungen",
+      "source_name": "Gemeinde Feldkirchen – Aktuelle Meldungen",
+      "kind": "link_new",
+      "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/fahrrad-klimatest",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:landkreis-muenchen:https://www.landkreis-muenchen.de/artikel/autobahn-a99-autobahnring-muenchen-ost/",
+      "detected_at": "2026-11-03T11:58:15+00:00",
+      "source_id": "landkreis-muenchen",
+      "source_name": "Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.landkreis-muenchen.de/artikel/autobahn-a99-autobahnring-muenchen-ost/",
+      "link_text": "Vollsperrung der A99 zwischen Autobahnkreuz München-Süd und München-Ost vom 20. bis 23.11.",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/a99-vollsperrung-in-muenchen-diese-bruecke-muss-komplett-weg-94571135.html",
+      "detected_at": "2026-11-03T11:58:23+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/a99-vollsperrung-in-muenchen-diese-bruecke-muss-komplett-weg-94571135.html",
+      "link_text": "A99-Vollsperrung bei München: Massive Staus im November erwartet",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/tum-eroeffnet-87-millionen-laborbau-staatsminister-nennt-ihn-fort-knox-der-physik-94570718.html",
+      "detected_at": "2026-11-03T11:58:23+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/tum-eroeffnet-87-millionen-laborbau-staatsminister-nennt-ihn-fort-knox-der-physik-94570718.html",
+      "link_text": "TUM eröffnet 87-Millionen-Laborbau – Staatsminister nennt ihn „Fort Knox der Physik\"",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/orchesterleiter-in-unterhaching-setzt-auf-pop-statt-maersche-fuer-nachwuchs-94570148.html",
+      "detected_at": "2026-11-03T11:58:23+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/orchesterleiter-in-unterhaching-setzt-auf-pop-statt-maersche-fuer-nachwuchs-94570148.html",
+      "link_text": "Orchesterleiter in Unterhaching setzt auf Pop statt Märsche für Nachwuchs",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/kein-klo-auf-raedern-fuer-feldkirchens-vereine-94570044.html",
+      "detected_at": "2026-11-03T11:58:23+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/kein-klo-auf-raedern-fuer-feldkirchens-vereine-94570044.html",
+      "link_text": "Kein Klo auf Rädern für Feldkirchens Vereine",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/unterhaching-mit-vereinten-kraeften-spielmannszug-blasorchester-und-salonorchester-auf-der-buehne-94570113.html",
+      "detected_at": "2026-11-03T11:58:23+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/unterhaching-mit-vereinten-kraeften-spielmannszug-blasorchester-und-salonorchester-auf-der-buehne-94570113.html",
+      "link_text": "Mit vereinten Kräften: Spielmannszug, Blasorchester und Salonorchester auf der Bühne",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/wohnen-fuer-hilfe-90-jaehrige-lebt-seit-12-jahren-mit-studenten-zusammen-94570062.html",
+      "detected_at": "2026-11-03T11:58:23+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/wohnen-fuer-hilfe-90-jaehrige-lebt-seit-12-jahren-mit-studenten-zusammen-94570062.html",
+      "link_text": "90-Jährige lebt seit 12 Jahren mit Studenten zusammen: „Bin nicht das Kindermädchen“",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-haar:https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/a99-vollsperrung-in-muenchen-diese-bruecke-muss-komplett-weg-94571135.html",
+      "detected_at": "2026-11-03T11:58:28+00:00",
+      "source_id": "merkur-haar",
+      "source_name": "Münchner Merkur – Haar",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/a99-vollsperrung-in-muenchen-diese-bruecke-muss-komplett-weg-94571135.html",
+      "link_text": "A99-Vollsperrung bei München: Massive Staus im November erwartet",
       "status": "unprocessed"
     }
   ]

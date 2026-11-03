@@ -5,7 +5,7 @@
       "name": "Gemeinde Feldkirchen – Nachrichten aus dem Bauamt",
       "url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt",
       "priority": "mandatory",
-      "last_success_at": "2026-11-02T12:28:20+00:00",
+      "last_success_at": "2026-11-03T11:58:11+00:00",
       "final_url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt",
       "content_type": "text/html;charset=UTF-8",
       "page_sha256": "690f905b4596e1cf947d548ec30bcd430b71ccb0befb0adb15a7246c88778cca",
@@ -26,7 +26,7 @@
       "name": "Gemeinde Feldkirchen – Neues Parkraumkonzept",
       "url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt/neues-parkraumkonzept-in-feldkirchen",
       "priority": "mandatory",
-      "last_success_at": "2026-11-02T12:28:23+00:00",
+      "last_success_at": "2026-11-03T11:58:15+00:00",
       "final_url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt/neues-parkraumkonzept-in-feldkirchen",
       "content_type": "text/html;charset=UTF-8",
       "page_sha256": "4de15eae8a543712b7d5f6b0c05234c6b4dd57e2e688f2240eaeeac69be6ffbb",
@@ -448,7 +448,7 @@
           "content_type": "application/pdf",
           "bytes": 1472041,
           "sha256": "4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
-          "checked_at": "2026-11-02T12:28:23+00:00"
+          "checked_at": "2026-11-03T11:58:15+00:00"
         }
       },
       "error": null
@@ -457,10 +457,10 @@
       "name": "Landkreis München",
       "url": "https://www.landkreis-muenchen.de/",
       "priority": "mandatory",
-      "last_success_at": "2026-11-02T12:28:23+00:00",
+      "last_success_at": "2026-11-03T11:58:15+00:00",
       "final_url": "https://www.landkreis-muenchen.de/",
       "content_type": "text/html; charset=utf-8",
-      "page_sha256": "d3c4bce68f41d3759d12cf26ca38eeed39dc2da8bd48911755b46befd26506df",
+      "page_sha256": "a497c8bb2a3f7fbe8ef9672f7942a0e93ef2cc25c92d0748c523c74548180ebd",
       "page_changed": true,
       "first_seen": false,
       "links": {
@@ -671,6 +671,9 @@
         "https://www.landkreis-muenchen.de/nachrichten/": {
           "text": "Alle Nachrichten"
         },
+        "https://www.landkreis-muenchen.de/artikel/autobahn-a99-autobahnring-muenchen-ost/": {
+          "text": "Vollsperrung der A99 zwischen Autobahnkreuz München-Süd und München-Ost vom 20. bis 23.11."
+        },
         "https://www.landkreis-muenchen.de/artikel/halbseitige-sperrung-auf-der-staatsstrasse-2344-muenchner-strasse-zwischen-planegg-und-neuried/": {
           "text": "Halbseitige Sperrung auf der Staatsstraße 2344 Münchner Straße zwischen Planegg und Neuried"
         },
@@ -697,9 +700,6 @@
         },
         "https://www.landkreis-muenchen.de/artikel/a99-autobahnring-b304-ersatzneubau-der-bruecke-an-der-anschlussstelle-haar-1/": {
           "text": "A99 Autobahnring/B304: Ersatzneubau der Brücke an der Anschlussstelle Haar"
-        },
-        "https://www.landkreis-muenchen.de/artikel/st-2088-vierstreifiger-ausbau-des-foehringer-rings-verlaengerung-der-vollsperrung-bis-zum-12-august-2026/": {
-          "text": "St 2088: Vierstreifiger Ausbau des Föhringer Rings – Voll-sperrung wird vorzeitig am Wochenende aufgehoben"
         },
         "https://www.landkreis-muenchen.de/themen/mobilitaet/kfz-zulassung/online-zulassungsbehoerde/": {
           "text": "Auto einfach online an- oder ummelden"
@@ -742,18 +742,18 @@
       "name": "Autobahn GmbH – Südbayern",
       "url": "https://www.autobahn.de/die-autobahn/niederlassungen/suedbayern",
       "priority": "topic",
-      "last_attempt_at": "2026-11-02T12:28:24+00:00",
+      "last_attempt_at": "2026-11-03T11:58:16+00:00",
       "error": "HTTPError: HTTP Error 404: Not Found"
     },
     "adfc-muenchen": {
       "name": "ADFC München",
       "url": "https://muenchen.adfc.de/",
       "priority": "topic",
-      "last_success_at": "2026-11-02T12:28:25+00:00",
+      "last_success_at": "2026-11-03T11:58:17+00:00",
       "final_url": "https://muenchen.adfc.de/",
       "content_type": "text/html; charset=utf-8",
       "page_sha256": "73fc5ccc45bf6163b8c14de3beb54d6214fe178ea3aa0ad012f0efab873d4b1b",
-      "page_changed": true,
+      "page_changed": false,
       "first_seen": false,
       "links": {
         "https://muenchen.adfc.de/sei-dabei": {
@@ -839,7 +839,7 @@
       "name": "BUND Naturschutz – Kreisgruppe München",
       "url": "https://bn-muenchen.de/",
       "priority": "topic",
-      "last_success_at": "2026-11-02T12:28:26+00:00",
+      "last_success_at": "2026-11-03T11:58:19+00:00",
       "final_url": "https://bn-muenchen.de/",
       "content_type": "text/html",
       "page_sha256": "c9c228fa3294734a8b11eb9e7cfac3316ccb2db84afb1c80c6f0098e713d2e2e",
@@ -860,11 +860,11 @@
       "name": "BI-AFK",
       "url": "https://www.bi-afk.de/",
       "priority": "topic",
-      "last_success_at": "2026-11-02T12:28:28+00:00",
+      "last_success_at": "2026-11-03T11:58:21+00:00",
       "final_url": "https://bi-afk.de/",
       "content_type": "text/html; charset=UTF-8",
-      "page_sha256": "830ee78297085de4c25516a4c97fcf42cf51e1fa222f952799cedb42b72fba0b",
-      "page_changed": false,
+      "page_sha256": "3021ad6b62fee70ea0618a883c25d0ae85eb2dba6d7fef882679e8b38a08d2a9",
+      "page_changed": true,
       "first_seen": false,
       "links": {
         "https://bi-afk.de/": {
@@ -946,7 +946,7 @@
           "content_type": "application/pdf",
           "bytes": 149466,
           "sha256": "f0ce9eb0a26c6e4bafbce93352128b32ede6a1a841c241d07be53c69c0f4b695",
-          "checked_at": "2026-11-02T12:28:28+00:00"
+          "checked_at": "2026-11-03T11:58:21+00:00"
         }
       },
       "error": null
@@ -955,13 +955,61 @@
       "name": "RIS Feldkirchen – Dokumente mit Freigabe",
       "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/do0040.asp",
       "priority": "mandatory",
-      "last_success_at": "2026-11-02T12:28:16+00:00",
+      "last_success_at": "2026-11-03T11:58:06+00:00",
       "final_url": "https://buergerinfo-feldkirchen.digitalfabrix.de/do0040.asp",
       "content_type": "text/html; Charset=utf-8",
-      "page_sha256": "f3d653e1b84e86a26d8855b45d695028a4a1ec4521a3f9925fb40762144f8d54",
+      "page_sha256": "234eebbb13818f1e973cbb3c473d1eec2daf87c060565eb8ced248589af15a0c",
       "page_changed": true,
       "first_seen": false,
       "links": {
+        "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1033": {
+          "text": "10.11.2026"
+        },
+        "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75987&type=do": {
+          "text": ""
+        },
+        "https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8653": {
+          "text": "Antrag aus der Bürgerversammlung vom 21.10.2026 auf Durchführung einer Einbahnregelung in der Richthofenstraße"
+        },
+        "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75975&type=do": {
+          "text": ""
+        },
+        "https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8654": {
+          "text": "Antrag aus der Bürgerversammlung vom 21.10.2026 auf erneute Prüfung der Möglichkeit einer Geschwindigkeitsbeschränkung - Tempo 30 - auf der B471 in Feldkirchen"
+        },
+        "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75979&type=do": {
+          "text": ""
+        },
+        "https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8655": {
+          "text": "Antrag aus der Bürgerversammlung vom 21.10.2026 auf Einbindung der neuen Fuß- und Radwegbrücke über die A94 in das Radwegenetz"
+        },
+        "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75983&type=do": {
+          "text": ""
+        },
+        "https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8650": {
+          "text": "Antrag aus der Bürgerversammlung vom 21.10.2026 auf Festlegung des Friedhofs-Erweiterungs-Grundstücks als Parkfläche"
+        },
+        "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75963&type=do": {
+          "text": ""
+        },
+        "https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8651": {
+          "text": "Antrag aus der Bürgerversammlung vom 21.10.2026 auf Abfahrverbot von der Autobahn A99 am Wochenende (Freitag bis Sonntag)"
+        },
+        "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75967&type=do": {
+          "text": ""
+        },
+        "https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8652": {
+          "text": "Antrag aus der Bürgerversammlung vom 21.10.2026 auf Bezuschussung von Zisternen auf privaten Grundstücken"
+        },
+        "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75971&type=do": {
+          "text": ""
+        },
+        "https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8632": {
+          "text": "Bestellung der Tarifbeschäftigten Lea Rieder zur Standesbeamtin für den Standesamtsbezirk Feldkirchen, Landkreis München"
+        },
+        "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75641&type=do": {
+          "text": ""
+        },
         "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1031": {
           "text": "15.10.2026"
         },
@@ -991,18 +1039,6 @@
         },
         "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75832&type=do": {
           "text": ""
-        },
-        "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1078": {
-          "text": "28.10.2026"
-        },
-        "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75594&type=do": {
-          "text": ""
-        },
-        "https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8494": {
-          "text": "Bekanntgabe nicht öffentlich gefasster Beschlüsse aufgrund Wegfall des Geheimhaltungsgrundes"
-        },
-        "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=73345&type=do": {
-          "text": ""
         }
       },
       "documents": {},
@@ -1012,15 +1048,33 @@
       "name": "Münchner Merkur – Landkreis München",
       "url": "https://www.merkur.de/lokales/muenchen-lk/",
       "priority": "mandatory",
-      "last_success_at": "2026-11-02T12:28:30+00:00",
+      "last_success_at": "2026-11-03T11:58:23+00:00",
       "final_url": "https://www.merkur.de/lokales/muenchen-lk/",
       "content_type": "text/html;charset=utf-8",
-      "page_sha256": "1c9e9816f6e8f79d38fb7e5a60564d88299da73dcd8563a18decf4bca5f77ab6",
+      "page_sha256": "6e809535212cb53f64875209b6cf9b9a46294c79a3c602d24544a37ce910db56",
       "page_changed": true,
       "first_seen": false,
       "links": {
         "https://www.merkur.de/lokales/muenchen-lk/": {
           "text": "Menü"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/a99-vollsperrung-in-muenchen-diese-bruecke-muss-komplett-weg-94571135.html": {
+          "text": "A99-Vollsperrung bei München: Massive Staus im November erwartet"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/tum-eroeffnet-87-millionen-laborbau-staatsminister-nennt-ihn-fort-knox-der-physik-94570718.html": {
+          "text": "TUM eröffnet 87-Millionen-Laborbau – Staatsminister nennt ihn „Fort Knox der Physik\""
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/orchesterleiter-in-unterhaching-setzt-auf-pop-statt-maersche-fuer-nachwuchs-94570148.html": {
+          "text": "Orchesterleiter in Unterhaching setzt auf Pop statt Märsche für Nachwuchs"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/kein-klo-auf-raedern-fuer-feldkirchens-vereine-94570044.html": {
+          "text": "Kein Klo auf Rädern für Feldkirchens Vereine"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/unterhaching-mit-vereinten-kraeften-spielmannszug-blasorchester-und-salonorchester-auf-der-buehne-94570113.html": {
+          "text": "Mit vereinten Kräften: Spielmannszug, Blasorchester und Salonorchester auf der Bühne"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/wohnen-fuer-hilfe-90-jaehrige-lebt-seit-12-jahren-mit-studenten-zusammen-94570062.html": {
+          "text": "90-Jährige lebt seit 12 Jahren mit Studenten zusammen: „Bin nicht das Kindermädchen“"
         },
         "https://www.merkur.de/lokales/muenchen-lk/unterschleissheim-ort29622/unterschleissheim-linienbus-erfasst-mann-beim-abbiegen-fahrer-fluechtet-vom-unfallort-94569771.html": {
           "text": "Tödlicher Unfall in Unterschleißheim: Linienbus erfasst Mann beim Abbiegen"
@@ -1060,21 +1114,6 @@
         },
         "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/feldkirchener-kindergarten-eltern-zahlen-ab-januar-100-euro-mehr-94566719.html": {
           "text": "Feldkirchener Kindergarten-Eltern zahlen ab Januar 100 Euro mehr"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/unterschleissheim-ort29622/wehrpflicht-ja-oder-nein-hofreiter-sieht-keine-alternative-94566771.html": {
-          "text": "Wehrpflicht ja oder nein? Grünen-Politiker Hofreiter sieht „keine Alternative“"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/pullach-ort29321/hospizhelferinnen-erklaeren-kindern-seit-sieben-jahren-was-trauer-bedeutet-94566685.html": {
-          "text": "Hospizhelferinnen erklären Kindern, was Trauer bedeutet"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/pullach-ort29321/sv-pullach-vor-abstiegsduell-zwei-spieler-fallen-mit-knieproblemen-aus-94567007.html": {
-          "text": "SV Pullach vor Abstiegsduell: Zwei Spieler fallen mit Knieproblemen aus"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/ismaning-ort28863/nach-brand-neuer-burschenstadl-in-ismaning-soll-zum-weinfest-2027-stehen-94564800.html": {
-          "text": "Nach verheerendem Brand: Neuer Burschenstadl in Ismaning soll zum Weinfest 2027 stehen"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/putzbrunn-ort29323/person-eingeklemmt-schwerer-unfall-in-putzbrunn-fordert-rettungshubschrauber-94566469.html": {
-          "text": "Frontalkollision: 67-Jähriger gerät in Gegenverkehr – zwei Verletzte"
         }
       },
       "documents": {},
@@ -1084,10 +1123,10 @@
       "name": "Münchner Merkur – Feldkirchen",
       "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/",
       "priority": "mandatory",
-      "last_success_at": "2026-11-02T12:28:32+00:00",
+      "last_success_at": "2026-11-03T11:58:25+00:00",
       "final_url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/",
       "content_type": "text/html;charset=utf-8",
-      "page_sha256": "f1bd6b800a8274a251e7150ebcbc05f53941772dd5cf9316e6cc4f34123ad8d7",
+      "page_sha256": "f26608aa4534b5821b6942a722b85c45a06e8d46541d2a069a511d9e61eebe5d",
       "page_changed": true,
       "first_seen": false,
       "links": {
@@ -1156,10 +1195,10 @@
       "name": "Münchner Merkur – Aschheim",
       "url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/",
       "priority": "mandatory",
-      "last_success_at": "2026-11-02T12:28:33+00:00",
+      "last_success_at": "2026-11-03T11:58:26+00:00",
       "final_url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/",
       "content_type": "text/html;charset=utf-8",
-      "page_sha256": "eaae4065a33692aa4635f9d6f57ca06eb0815a937fcd6f88a7016fd2c07b5836",
+      "page_sha256": "36508ac2e5c9024d73fe1b03f3e887469859f2239ec4bbcececc2c7d431196a8",
       "page_changed": true,
       "first_seen": false,
       "links": {
@@ -1228,10 +1267,10 @@
       "name": "Münchner Merkur – Kirchheim",
       "url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/",
       "priority": "mandatory",
-      "last_success_at": "2026-11-02T12:28:34+00:00",
+      "last_success_at": "2026-11-03T11:58:27+00:00",
       "final_url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/",
       "content_type": "text/html;charset=utf-8",
-      "page_sha256": "b817789670ab315fb0993353f76004c5c2f9fa0fb5bbed75225f31c86172e53c",
+      "page_sha256": "b085b97cc5860ead6b8328372d6792b6de9d79be10daf8c9cd8758600b31bded",
       "page_changed": true,
       "first_seen": false,
       "links": {
@@ -1300,10 +1339,10 @@
       "name": "Münchner Merkur – Haar",
       "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/",
       "priority": "mandatory",
-      "last_success_at": "2026-11-02T12:28:35+00:00",
+      "last_success_at": "2026-11-03T11:58:28+00:00",
       "final_url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/",
       "content_type": "text/html;charset=utf-8",
-      "page_sha256": "51976ea13efc5768b6013d1b48a918b316d0b2b534a2aba00992a7b4cc73e38a",
+      "page_sha256": "6bda3c088ac665cb51a01156a009e1e510f674dd728218ac95fe9471d40aa27c",
       "page_changed": true,
       "first_seen": false,
       "links": {
@@ -1312,6 +1351,9 @@
         },
         "https://www.merkur.de/lokales/muenchen-lk/": {
           "text": "München Landkreis"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/a99-vollsperrung-in-muenchen-diese-bruecke-muss-komplett-weg-94571135.html": {
+          "text": "A99-Vollsperrung bei München: Massive Staus im November erwartet"
         },
         "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/500-000-euro-studie-zur-b471-autobahnparallele-wird-nicht-gebaut-94568464.html": {
           "text": "500.000-Euro-Studie zur B471: Autobahnparallele wird nicht gebaut"
@@ -1360,9 +1402,6 @@
         },
         "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/kleines-theater-haar-bringt-die-zauberfloete-auf-die-buehne-94497200.html": {
           "text": "Kleines Theater Haar bringt die Zauberflöte auf die Bühne"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/garage-brennt-in-haar-bmw-und-batteriespeicher-in-vollbrand-94496705.html": {
-          "text": "Garage brennt in Haar: BMW und Batteriespeicher in Vollbrand"
         }
       },
       "documents": {},
@@ -1372,11 +1411,11 @@
       "name": "Gemeinde Feldkirchen – Aktuelle Meldungen",
       "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen",
       "priority": "mandatory",
-      "last_success_at": "2026-11-02T12:28:18+00:00",
+      "last_success_at": "2026-11-03T11:58:09+00:00",
       "final_url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen",
       "content_type": "text/html;charset=UTF-8",
-      "page_sha256": "3b931ceb2ac509c78e89f2c57f66c40172f55feabc9c8f3ddcd939d2866cfb24",
-      "page_changed": false,
+      "page_sha256": "421be654da4429aa3b8005fa1fe791881b2616ee7f032eafde57a611852b073e",
+      "page_changed": true,
       "first_seen": false,
       "links": {
         "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/nachrichten-archiv": {
@@ -1385,7 +1424,10 @@
         "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/aktuelle-meldungen-landratsamt": {
           "text": "Pressemitteilungen extern"
         },
-        "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/filmvorfuehrung-lebensfreundschaften-findet-wie-geplant-statt": {
+        "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/sicherheitswacht-in-feldkirchen": {
+          "text": ""
+        },
+        "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/fahrrad-klimatest": {
           "text": ""
         },
         "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/vollsperrung-der-autobahn-zwischen-autobahnkreuz-muenchen-sued-und-autobahnkreuz-muenchen-ost-vom-20-bis-23-11": {
@@ -1435,11 +1477,11 @@
       "name": "BENG eG – Bürgerenergie und Energieprojekte",
       "url": "https://www.beng-eg.de/",
       "priority": "topic",
-      "last_success_at": "2026-11-02T12:28:29+00:00",
+      "last_success_at": "2026-11-03T11:58:22+00:00",
       "final_url": "https://www.beng-eg.de/",
       "content_type": "text/html; charset=UTF-8",
       "page_sha256": "f266563249e4ef75712903e29732e0c618ef7cf93871a55b82a51f18712ecbde",
-      "page_changed": true,
+      "page_changed": false,
       "first_seen": false,
       "links": {
         "https://www.beng-eg.de/projekt-uebersicht/": {
@@ -1453,5 +1495,5 @@
       "error": null
     }
   },
-  "last_run_at": "2026-11-02T12:28:35+00:00"
+  "last_run_at": "2026-11-03T11:58:28+00:00"
 }
