@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-04T07:03:43+00:00",
+  "updated_at": "2026-11-04T12:12:03+00:00",
   "items": [
     {
       "event_key": "document:feldkirchen-parkraum-2026:https://www.feldkirchen.de/_Resources/Persistent/d/3/d/e/d3dee38ce3c4a9ad01384ca6ed314a2a8f8bcc12/2026%20Parkraumkonzept%20gem%20GR-Beschluss.pdf:4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
@@ -7464,6 +7464,76 @@
       "kind": "link_new",
       "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/hochbegabtes-kind-mit-jahren-diskutierte-sie-ueber-sockenfarben-94570124.html",
       "link_text": "Hochbegabtes Kind: Mit 1,5 Jahren diskutierte sie über Sockenfarben",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:feldkirchen-aktuelle-meldungen:https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/sicherheitswacht-in-feldkirchen-1",
+      "detected_at": "2026-11-04T12:11:42+00:00",
+      "source_id": "feldkirchen-aktuelle-meldungen",
+      "source_name": "Gemeinde Feldkirchen – Aktuelle Meldungen",
+      "kind": "link_new",
+      "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/sicherheitswacht-in-feldkirchen-1",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:feldkirchen-aktuelle-meldungen:https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/muelltonnen-leerung-sternstrasse",
+      "detected_at": "2026-11-04T12:11:42+00:00",
+      "source_id": "feldkirchen-aktuelle-meldungen",
+      "source_name": "Gemeinde Feldkirchen – Aktuelle Meldungen",
+      "kind": "link_new",
+      "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/muelltonnen-leerung-sternstrasse",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/gruenwald-ort28770/kreditkartenabrechnungen-gefaelscht-luxus-butler-betruegt-gruenwalder-multimillionaer-94572593.html",
+      "detected_at": "2026-11-04T12:11:58+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/gruenwald-ort28770/kreditkartenabrechnungen-gefaelscht-luxus-butler-betruegt-gruenwalder-multimillionaer-94572593.html",
+      "link_text": "Kreditkartenabrechnungen gefälscht: Luxus-Butler betrügt Grünwalder Multimillionär",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/hoehenkirchen-siegertsbrunn-ort100556/kindergartengebuehren-steigen-eltern-muessen-100-euro-mehr-zahlen-94572437.html",
+      "detected_at": "2026-11-04T12:11:58+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/hoehenkirchen-siegertsbrunn-ort100556/kindergartengebuehren-steigen-eltern-muessen-100-euro-mehr-zahlen-94572437.html",
+      "link_text": "Kindergartengebühren steigen: Eltern müssen 100 Euro mehr zahlen",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/putzbrunn-ort29323/putzbrunn-anwohner-wollen-verkehrsberuhigung-in-sackgasse-94572212.html",
+      "detected_at": "2026-11-04T12:11:58+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/putzbrunn-ort29323/putzbrunn-anwohner-wollen-verkehrsberuhigung-in-sackgasse-94572212.html",
+      "link_text": "Anwohner wollen Verkehrsberuhigung in Sackgasse",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/wolf-ferrari-haus-ottobrunn-sanierung-sprinkleranlage-brandschutz-isek-li.3573127",
+      "detected_at": "2026-11-04T12:12:03+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/wolf-ferrari-haus-ottobrunn-sanierung-sprinkleranlage-brandschutz-isek-li.3573127",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/garching-start-up-delta-orbit-weltraumtaxi-li.3559429",
+      "detected_at": "2026-11-04T12:12:03+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/garching-start-up-delta-orbit-weltraumtaxi-li.3559429",
+      "link_text": "",
       "status": "unprocessed"
     }
   ]
