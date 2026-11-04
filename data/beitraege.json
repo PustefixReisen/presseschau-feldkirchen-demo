@@ -4,13 +4,13 @@
   "status": "canonical_after_standard_update_2026-09-28",
   "research_window": {
     "from": "2025-08-27",
-    "to": "2026-10-28"
+    "to": "2026-11-04"
   },
   "source_basis": [
     "recherchebestand.json",
     "sitzungsbestand.json"
   ],
-  "contribution_count": 94,
+  "contribution_count": 98,
   "editorial_rules": [
     "No methodological or demonstrator text inside public contribution content.",
     "Sachinformation is neutral; political assessment is a separate optional field.",
@@ -21,6 +21,424 @@
     "Unsere Einordnung was audited on 2026-08-29 for citizen-oriented political language per KI-Leitfaden 0.8."
   ],
   "contributions": [
+    {
+      "id": "R115",
+      "date": "2026-11-04",
+      "publication_date": "2026-10-27",
+      "category": "Kommunalpolitik & Beteiligung",
+      "topic_candidates": [
+        "Kindertagesbetreuung",
+        "BayKiBiG",
+        "Elternbeitragszuschuss",
+        "Gemeinderat"
+      ],
+      "title": "Kita-Förderung: Eltern zahlen ab Januar 100 Euro mehr",
+      "subtitle": "Aktualisierung vom 04.11.2026 (Gemeinderat 29.10.): Keine kommunale Übernahme des wegfallenden Beitragszuschusses – Entscheidung mit 12:5 Stimmen.",
+      "sachinformation": "Der Feldkirchner Gemeinderat hat am 29. Oktober 2026 nach einem Bericht des Münchner Merkur mit 12:5 Stimmen entschieden, den ab Januar 2027 wegfallenden bayerischen Elternbeitragszuschuss von 100 Euro pro Monat nicht durch die Gemeinde zu ersetzen. Damit steigen die von den betroffenen Eltern zu zahlenden Kindergartenbeiträge ab Januar um monatlich 100 Euro. Zwei Elternvertreter hatten eine Entlastung verlangt. Die Verwaltung bezifferte die Kosten einer vollständigen kommunalen Übernahme auf etwa 265.000 Euro pro Jahr; auch eine Staffelung (30 Euro 2027, 60 Euro 2028 und 100 Euro 2029) wurde diskutiert, jedoch nicht beschlossen. Das Ergebnis betrifft den RIS-Tagesordnungspunkt 2 (Vorlage 5395/2026); TOP 3 behandelte Beitragsanpassungen der Kindertageseinrichtungen. Ein vollständiger amtlicher Abgleich aller Einzelheiten der Beschlüsse steht noch aus. Zum Vergleich: München hält laut SZ die Kita-Gebühren zunächst bis August 2027 stabil.",
+      "sources": [
+        {
+          "name": "RIS Feldkirchen – Gemeinderat am 29.10.2026, TOP 2 und 3, Vorlagen 5395/2026 und 5397/2026",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1032",
+          "type": "primary_official",
+          "date": "2026-10-28",
+          "date_basis": "retrieval_date",
+          "date_status": "verified"
+        },
+        {
+          "name": "Süddeutsche Zeitung – München: Kitagebühren steigen erst einmal nicht (27.10.2026)",
+          "url": "https://www.sueddeutsche.de/muenchen/muenchen-kitagebuehren-li.3569926",
+          "type": "secondary_press",
+          "date": "2026-10-27",
+          "date_basis": "publication_date",
+          "date_status": "verified"
+        },
+        {
+          "name": "Münchner Merkur – Feldkirchener Kindergarten-Eltern zahlen ab Januar 100 Euro mehr",
+          "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/feldkirchener-kindergarten-eltern-zahlen-ab-januar-100-euro-mehr-94566719.html",
+          "type": "secondary_press",
+          "date": "2026-10-31",
+          "date_basis": "publication_date",
+          "date_status": "verified"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": null,
+      "research_refs": [
+        "R115"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen / München",
+        "related_places": [
+          "Feldkirchen",
+          "München"
+        ],
+        "scope": "feldkirchen_direct",
+        "verification_status": "verified_2026-10-28"
+      },
+      "established_topic_refs": [],
+      "stage_update_meta": {
+        "created_at": "2026-10-28",
+        "source_status": "RIS agenda and SZ verified; decision pending",
+        "updated_at": "2026-11-04"
+      },
+      "search_tags": [
+        "Kita",
+        "BayKiBiG",
+        "Elternbeitragszuschuss",
+        "Kindertageseinrichtungen",
+        "Gemeinderat",
+        "29. Oktober"
+      ]
+    },
+    {
+      "id": "R079",
+      "date": "2026-11-04",
+      "publication_date": "2026-09-23",
+      "category": "Kommunalpolitik & Beteiligung",
+      "topic_candidates": [
+        "Vereinsförderung",
+        "Toilettenwagen",
+        "Veranstaltungen"
+      ],
+      "title": "Toilettenwagen für Vereine: Gemeinderat lehnt Kauf ab",
+      "subtitle": "Aktualisierung vom 04.11.2026: Mit 15:3 Stimmen gegen Anschaffung; stattdessen sollen Vereine bei Mietkosten unterstützt werden.",
+      "sachinformation": "Der Feldkirchner Gemeinderat hat den Kauf eines mobilen Toilettenwagens für örtliche Vereine mit 15:3 Stimmen abgelehnt, berichtet der Münchner Merkur am 3. November. Ein Antrag auf Prüfung der Anschaffung war zuvor gestellt worden. Die Gemeinde verwies auf Anschaffungskosten, fehlenden Stellplatz und offene Fragen zu Reinigung, Wartung, Transport und Haftung. Statt eines gemeindeeigenen Wagens soll eine Unterstützung der Vereine bei der Anmietung vorgesehen werden; Details dieser Unterstützung sind noch zu prüfen. Für einen kleinen Wagen wurden ungefähr 10.000 Euro genannt, für größere Modelle deutlich mehr. Das berichtete Ergebnis ist noch mit einer amtlichen Niederschrift abzugleichen.",
+      "sources": [
+        {
+          "name": "RIS Feldkirchen – Beschlussvorlage 5343/2026",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75200&type=do",
+          "type": "primary_official",
+          "date": "2026-09-23",
+          "date_basis": "public_release_in_RIS",
+          "date_status": "verified"
+        },
+        {
+          "name": "RIS Feldkirchen – Gemeinderat 01.10.2026",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1030",
+          "type": "primary_official",
+          "date": "2026-10-01",
+          "date_basis": "scheduled_session_date",
+          "date_status": "verified_upcoming"
+        },
+        {
+          "name": "Münchner Merkur – Kein Klo auf Rädern für Feldkirchens Vereine",
+          "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/kein-klo-auf-raedern-fuer-feldkirchens-vereine-94570044.html",
+          "type": "secondary_press",
+          "date": "2026-11-03",
+          "date_basis": "publication_date",
+          "date_status": "verified"
+        }
+      ],
+      "bisheriger_verlauf": [
+        {
+          "id": "R067",
+          "date": "2026-07-09",
+          "title": "Mobiler Toilettenwagen: Gemeinderat beschließt Prüfung von Kauf oder Miete"
+        }
+      ],
+      "unsere_einordnung": null,
+      "council": "S024",
+      "research_refs": [
+        "R079"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen",
+        "related_places": [
+          "Feldkirchen"
+        ],
+        "scope": "feldkirchen_direct",
+        "verification_status": "verified_2026-09-24"
+      },
+      "established_topic_refs": [],
+      "stage_update_meta": {
+        "created_at": "2026-09-24",
+        "source_status": "verified_public_release_upcoming_session",
+        "updated_at": "2026-11-04"
+      },
+      "search_tags": [
+        "Vereinsförderung",
+        "Toilettenwagen",
+        "Veranstaltungen"
+      ]
+    },
+    {
+      "id": "R059",
+      "date": "2026-11-04",
+      "publication_date": "2026-08-27",
+      "category": "Mobilität & Verkehr",
+      "topic_candidates": [
+        "A99",
+        "B304",
+        "Regionale Verkehrsführung"
+      ],
+      "title": "A99 bei Haar: Vollsperrung vom 20. bis 23. November",
+      "subtitle": "Aktualisierung vom 04.11.2026: Brückenabriss an der B304 – Sperrung ab Freitag 20 Uhr bis Montag 5 Uhr; große Verkehrsbehinderungen erwartet.",
+      "sachinformation": "Die Autobahn GmbH kündigt eine vollständige Sperrung der A99 zwischen den Autobahnkreuzen München-Süd und München-Ost von Freitag, 20. November 2026, 20 Uhr, bis Montag, 23. November, 5 Uhr, an. Grund ist der Abriss der alten Brücke der B304 über die A99 bei Haar. Die Gemeinde Feldkirchen hat die Mitteilung am 30. Oktober verbreitet. Es werden erhebliche Verkehrsbehinderungen auch in den angrenzenden Landkreisen erwartet. Die Autobahn GmbH empfiehlt, nicht notwendige Autofahrten zu vermeiden und möglichst den ÖPNV zu nutzen. B471 und B304 sind bereits stark belastet; eine geeignete Pkw-Umleitung wird nicht empfohlen. Der Ersatzneubau soll bis Ende 2028 abgeschlossen sein.",
+      "sources": [
+        {
+          "name": "Landkreis München / Autobahn GmbH – Ersatzneubau der Brücke an der Anschlussstelle Haar",
+          "url": "https://www.landkreis-muenchen.de/artikel/a99-autobahnring-b304-ersatzneubau-der-bruecke-an-der-anschlussstelle-haar-1/",
+          "type": "primary_official_republished",
+          "date": "2026-08-04",
+          "date_basis": "source_publication_date",
+          "date_status": "verified"
+        },
+        {
+          "name": "Münchner Merkur – A99 bei Haar wird für drei Tage voll gesperrt",
+          "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/gesperrt-a99-bei-haar-wird-fuer-drei-tage-voll-94459646.html",
+          "type": "press",
+          "date": "2026-08-27",
+          "date_basis": "source_publication_date",
+          "date_status": "verified"
+        },
+        {
+          "name": "Gemeinde Feldkirchen / Autobahn GmbH – A99-Vollsperrung vom 20. bis 23. November",
+          "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/vollsperrung-der-autobahn-zwischen-autobahnkreuz-muenchen-sued-und-autobahnkreuz-muenchen-ost-vom-20-bis-23-11",
+          "type": "primary_official",
+          "date": "2026-10-30",
+          "date_basis": "publication_date",
+          "date_status": "verified"
+        }
+      ],
+      "bisheriger_verlauf": [
+        {
+          "id": "R052",
+          "date": "2025-09-25",
+          "title": "Haar lehnt vorgestellte M18/EBE4-Verlegung beim A99-Ausbau ab"
+        },
+        {
+          "id": "R008",
+          "date": "2025-10-30",
+          "title": "Gemeinderat stimmt Variante 5 für die Verlegung von M18/EBE4 zu"
+        }
+      ],
+      "unsere_einordnung": null,
+      "council": null,
+      "research_refs": [
+        "R059"
+      ],
+      "ortsbezug": {
+        "display_place": "Haar",
+        "related_places": [
+          "Haar",
+          "Feldkirchen"
+        ],
+        "scope": "neighbor_transport_corridor_substantive_Feldkirchen_relation",
+        "verification_status": "verified_for_stage_E_from_research_basis",
+        "note": "A99/A94 corridor and regional diversions affect Feldkirchen's transport context; not a local Haar-only issue."
+      },
+      "stage_E_meta": {
+        "editorial_action": "new_from_verified_research",
+        "created_at": "2026-08-28"
+      },
+      "established_topic_refs": [
+        {
+          "id": "T012",
+          "title": "A99-Ausbau und M18/EBE4"
+        }
+      ],
+      "search_tags": [
+        "A99",
+        "B304",
+        "Regionale Verkehrsführung"
+      ],
+      "stage_update_meta": {
+        "updated_at": "2026-11-04"
+      }
+    },
+    {
+      "id": "R116",
+      "date": "2026-11-04",
+      "publication_date": "2026-10-30",
+      "category": "Natur & Umwelt",
+      "topic_candidates": [
+        "Photovoltaik",
+        "PV-Förderung",
+        "Batteriespeicher"
+      ],
+      "title": "PV-Förderung: Feldkirchens Budget ist ausgeschöpft",
+      "subtitle": "Die Gemeinde nimmt seit dem 30. Oktober keine neuen Anträge für PV-Anlagen und Batteriespeicher an.",
+      "sachinformation": "Das gemeindliche Förderbudget für Photovoltaikanlagen und Batteriespeicher ist nach einer Mitteilung der Gemeinde vom 30. Oktober 2026 aufgebraucht. Neue Förderanträge können deshalb derzeit nicht mehr angenommen werden. Ob und wann wieder Mittel bereitstehen, ist in der Mitteilung nicht angegeben.",
+      "sources": [
+        {
+          "name": "Gemeinde Feldkirchen – Förderbudget für PV-Anlagen und Batteriespeicher aufgebraucht",
+          "url": "https://feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/foerderbudget-fuer-pv-anlagen-und-batteriespeicher-aufgebraucht",
+          "type": "primary_official",
+          "date": "2026-10-30",
+          "date_basis": "publication_date",
+          "date_status": "verified"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": null,
+      "research_refs": [
+        "R116"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen",
+        "related_places": [
+          "Feldkirchen"
+        ],
+        "scope": "feldkirchen_direct",
+        "verification_status": "verified_2026-11-04"
+      },
+      "established_topic_refs": [],
+      "stage_update_meta": {
+        "created_at": "2026-11-04",
+        "source_status": "verified_source"
+      },
+      "search_tags": [
+        "Photovoltaik",
+        "PV-Förderung",
+        "Batteriespeicher"
+      ]
+    },
+    {
+      "id": "R117",
+      "date": "2026-11-04",
+      "publication_date": "2026-10-28",
+      "category": "Mobilität & Verkehr",
+      "topic_candidates": [
+        "Bahnhof",
+        "S-Bahn",
+        "Zuganzeiger"
+      ],
+      "title": "Bahnhof Feldkirchen: Neue Anzeigen und Wegweisung",
+      "subtitle": "Die Bahn meldet Fortschritte bei der Ausstattung; das Bahnhofsgebäude soll 2027 saniert werden.",
+      "sachinformation": "Am Bahnhof Feldkirchen wurden nach Angaben der Deutschen Bahn eine neue Umfeldstele und eine Zaunanlage errichtet; die Wegweisung am Bahnsteig wurde erneuert. Weitere Zuganzeiger und Uhren waren zum Zeitpunkt der Gemeindemitteilung vom 28. Oktober 2026 in Montage. Die Sanierung des Bahnhofsgebäudes ist für das kommende Jahr angekündigt.",
+      "sources": [
+        {
+          "name": "Gemeinde Feldkirchen – Neuerungen am Bahnhof",
+          "url": "https://feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/neuerungen-am-bahnhof",
+          "type": "primary_official",
+          "date": "2026-10-28",
+          "date_basis": "publication_date",
+          "date_status": "verified"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": null,
+      "research_refs": [
+        "R117"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen",
+        "related_places": [
+          "Feldkirchen"
+        ],
+        "scope": "feldkirchen_direct",
+        "verification_status": "verified_2026-11-04"
+      },
+      "established_topic_refs": [],
+      "stage_update_meta": {
+        "created_at": "2026-11-04",
+        "source_status": "verified_source"
+      },
+      "search_tags": [
+        "Bahnhof",
+        "S-Bahn",
+        "Zuganzeiger"
+      ]
+    },
+    {
+      "id": "R118",
+      "date": "2026-11-04",
+      "publication_date": "2026-11-03",
+      "category": "Sicherheit & Ordnung",
+      "topic_candidates": [
+        "Sicherheitswacht",
+        "Einbruchsprävention"
+      ],
+      "title": "Sicherheitswacht am 5. November in Feldkirchen unterwegs",
+      "subtitle": "Von 15 bis 18 Uhr ist ein Präventionseinsatz gegen Wohnungseinbrüche angekündigt.",
+      "sachinformation": "Die Gemeinde Feldkirchen kündigt für Donnerstag, 5. November 2026, einen Einsatz der Sicherheitswacht der Stadt Haar im Gemeindegebiet an. Die Streifen sind von 15 bis 18 Uhr geplant und gehören zu einem größeren Präventionsschwerpunkt des Polizeipräsidiums München gegen Wohnungseinbruch. Die Sicherheitswacht soll das Gespräch mit Bürgerinnen und Bürgern suchen und Informationsmaterial verteilen; eine individuelle polizeiliche Beratung ist nicht Teil dieses Einsatzes.",
+      "sources": [
+        {
+          "name": "Gemeinde Feldkirchen – Sicherheitswacht in Feldkirchen",
+          "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/sicherheitswacht-in-feldkirchen",
+          "type": "primary_official",
+          "date": "2026-11-03",
+          "date_basis": "publication_date",
+          "date_status": "verified"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": null,
+      "research_refs": [
+        "R118"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen",
+        "related_places": [
+          "Feldkirchen"
+        ],
+        "scope": "feldkirchen_direct",
+        "verification_status": "verified_2026-11-04"
+      },
+      "established_topic_refs": [],
+      "stage_update_meta": {
+        "created_at": "2026-11-04",
+        "source_status": "verified_source"
+      },
+      "search_tags": [
+        "Sicherheitswacht",
+        "Einbruchsprävention"
+      ]
+    },
+    {
+      "id": "R119",
+      "date": "2026-11-04",
+      "publication_date": "2026-10-27",
+      "category": "Kommunalpolitik & Beteiligung",
+      "topic_candidates": [
+        "Kreisumlage",
+        "Gewerbesteuer",
+        "Bürgerversammlung",
+        "Gemeindehaushalt"
+      ],
+      "title": "Kreisumlage belastet Feldkirchner Haushalt",
+      "subtitle": "Bürgermeister nennt bei der Bürgerversammlung 15,7 Millionen Euro Kreisumlage und deutlich niedrigere Gewerbesteuererwartungen.",
+      "sachinformation": "Bei der Bürgerversammlung berichtete Bürgermeister Andreas Janson nach Angaben des Münchner Merkur über die kommunalen Finanzen. Für 2026 nannte er eine Kreisumlage von 15,7 Millionen Euro, umgerechnet rund 43.000 Euro pro Tag. Die erwarteten Gewerbesteuereinnahmen bezifferte er auf etwa 18 Millionen Euro und damit rund vier Millionen Euro weniger als geplant. Wegen Grundstückskäufen seien die Rücklagen zum Jahresende voraussichtlich auf fünf Millionen Euro reduziert. Es handelt sich um Angaben aus dem Bericht über die Bürgerversammlung, nicht um eine neu festgestellte Haushaltsrechnung.",
+      "sources": [
+        {
+          "name": "Münchner Merkur – Feldkirchen zahlt täglich 43.000 Euro Kreisumlage",
+          "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/feldkirchen-zahlt-taeglich-43-000-euro-kreisumlage-buergermeister-schimpft-94559167.html",
+          "type": "secondary_press",
+          "date": "2026-10-27",
+          "date_basis": "publication_date",
+          "date_status": "verified"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": null,
+      "research_refs": [
+        "R119"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen",
+        "related_places": [
+          "Feldkirchen"
+        ],
+        "scope": "feldkirchen_direct",
+        "verification_status": "verified_2026-11-04"
+      },
+      "established_topic_refs": [],
+      "stage_update_meta": {
+        "created_at": "2026-11-04",
+        "source_status": "verified_source"
+      },
+      "search_tags": [
+        "Kreisumlage",
+        "Gewerbesteuer",
+        "Bürgerversammlung",
+        "Gemeindehaushalt"
+      ]
+    },
     {
       "id": "R069",
       "date": "2026-10-28",
@@ -113,67 +531,6 @@
       "search_tags": [
         "Hundewiese",
         "Grünfläche östlich des Friedhofs"
-      ]
-    },
-    {
-      "id": "R115",
-      "date": "2026-10-28",
-      "publication_date": "2026-10-27",
-      "category": "Kommunalpolitik & Beteiligung",
-      "topic_candidates": [
-        "Kindertagesbetreuung",
-        "BayKiBiG",
-        "Elternbeitragszuschuss",
-        "Gemeinderat"
-      ],
-      "title": "Kita-Förderung: Gemeinderat berät Wegfall des 100-Euro-Zuschusses und neue Beiträge",
-      "subtitle": "Am 29. Oktober behandelt Feldkirchen TOP 2 und 3. München hält die Kita-Gebühren vorerst bis August 2027 stabil.",
-      "sachinformation": "Der Feldkirchner Gemeinderat befasst sich am 29. Oktober 2026 mit dem Wegfall des bayerischen Elternbeitragszuschusses von monatlich 100 Euro (TOP 2, Vorlage 5395/2026) sowie mit einer Beitragsanpassung der Kindertageseinrichtungen zum 1. Januar 2027 (TOP 3, Vorlage 5397/2026). Die Vorlagen wurden im Ratsinformationssystem veröffentlicht. Da die Sitzung erst bevorsteht, ist noch keine Feldkirchner Entscheidung getroffen beziehungsweise hier nachgewiesen.\n\nHintergrund ist die Neuregelung der bayerischen Kita-Finanzierung: Der bisherige Elternbeitragszuschuss entfällt als gesonderte Zahlung; nach Angaben des Freistaats bleibt das Fördervolumen im System. Welche finanziellen Auswirkungen das für Eltern vor Ort hat, hängt von den kommunalen Beitragsentscheidungen ab.\n\nAls Vergleich berichtet die Süddeutsche Zeitung am 27. Oktober, dass München die Gebühren für städtische und städtisch geförderte Kitas bis Ende August 2027 zunächst stabil halten will. Ab September 2027 sind dort Beitragssteigerungen vorgesehen. Diese Münchner Regelung gilt nicht automatisch in Feldkirchen.",
-      "sources": [
-        {
-          "name": "RIS Feldkirchen – Gemeinderat am 29.10.2026, TOP 2 und 3, Vorlagen 5395/2026 und 5397/2026",
-          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1032",
-          "type": "primary_official",
-          "date": "2026-10-28",
-          "date_basis": "retrieval_date",
-          "date_status": "verified"
-        },
-        {
-          "name": "Süddeutsche Zeitung – München: Kitagebühren steigen erst einmal nicht (27.10.2026)",
-          "url": "https://www.sueddeutsche.de/muenchen/muenchen-kitagebuehren-li.3569926",
-          "type": "secondary_press",
-          "date": "2026-10-27",
-          "date_basis": "publication_date",
-          "date_status": "verified"
-        }
-      ],
-      "bisheriger_verlauf": [],
-      "unsere_einordnung": null,
-      "council": null,
-      "research_refs": [
-        "R115"
-      ],
-      "ortsbezug": {
-        "display_place": "Feldkirchen / München",
-        "related_places": [
-          "Feldkirchen",
-          "München"
-        ],
-        "scope": "feldkirchen_direct",
-        "verification_status": "verified_2026-10-28"
-      },
-      "established_topic_refs": [],
-      "stage_update_meta": {
-        "created_at": "2026-10-28",
-        "source_status": "RIS agenda and SZ verified; decision pending"
-      },
-      "search_tags": [
-        "Kita",
-        "BayKiBiG",
-        "Elternbeitragszuschuss",
-        "Kindertageseinrichtungen",
-        "Gemeinderat",
-        "29. Oktober"
       ]
     },
     {
@@ -1086,68 +1443,6 @@
         "Hundehaltung",
         "Leinenpflicht",
         "Gefahrenabwehr"
-      ]
-    },
-    {
-      "id": "R079",
-      "date": "2026-09-23",
-      "publication_date": "2026-09-23",
-      "category": "Kommunalpolitik & Beteiligung",
-      "topic_candidates": [
-        "Vereinsförderung",
-        "Toilettenwagen",
-        "Veranstaltungen"
-      ],
-      "title": "Toilettenwagen: Verwaltung empfiehlt Mietzuschüsse statt eigenem Fahrzeug",
-      "subtitle": "Nach der im Juli beschlossenen Prüfung rät die Verwaltung von einem gemeindeeigenen Toilettenwagen ab und schlägt stattdessen Vereinsförderung für Mietkosten vor.",
-      "sachinformation": "Der Gemeinderat hatte am 9. Juli beschlossen, die Anschaffung oder Anmietung eines mobilen Toilettenwagens für Vereine und Veranstaltungen prüfen zu lassen. Die am 23. September veröffentlichte Folgevorlage kommt nun zu dem Ergebnis, dass die Gemeinde keinen eigenen Wagen beschaffen sollte. Die Verwaltung verweist auf laufende Kosten, Wartung, Reinigung, Transport, Haftungsfragen, Vergaberegeln und zusätzlichen Personalaufwand. Für die Anschaffung nennt die Vorlage je nach Größe grob 9.000 bis über 65.000 Euro; externe Tagesmieten werden mit etwa 250 bis über 1.000 Euro angegeben. Als Alternative schlägt die Verwaltung vor, Vereine im Rahmen der Vereinsförderung bei den Mietkosten externer Toilettenanlagen zu unterstützen. Über diese Empfehlung soll der Gemeinderat am 1. Oktober beraten.",
-      "sources": [
-        {
-          "name": "RIS Feldkirchen – Beschlussvorlage 5343/2026",
-          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75200&type=do",
-          "type": "primary_official",
-          "date": "2026-09-23",
-          "date_basis": "public_release_in_RIS",
-          "date_status": "verified"
-        },
-        {
-          "name": "RIS Feldkirchen – Gemeinderat 01.10.2026",
-          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1030",
-          "type": "primary_official",
-          "date": "2026-10-01",
-          "date_basis": "scheduled_session_date",
-          "date_status": "verified_upcoming"
-        }
-      ],
-      "bisheriger_verlauf": [
-        {
-          "id": "R067",
-          "date": "2026-07-09",
-          "title": "Mobiler Toilettenwagen: Gemeinderat beschließt Prüfung von Kauf oder Miete"
-        }
-      ],
-      "unsere_einordnung": null,
-      "council": "S024",
-      "research_refs": [
-        "R079"
-      ],
-      "ortsbezug": {
-        "display_place": "Feldkirchen",
-        "related_places": [
-          "Feldkirchen"
-        ],
-        "scope": "feldkirchen_direct",
-        "verification_status": "verified_2026-09-24"
-      },
-      "established_topic_refs": [],
-      "stage_update_meta": {
-        "created_at": "2026-09-24",
-        "source_status": "verified_public_release_upcoming_session"
-      },
-      "search_tags": [
-        "Vereinsförderung",
-        "Toilettenwagen",
-        "Veranstaltungen"
       ]
     },
     {
@@ -2094,80 +2389,6 @@
         "Katastrophenschutz",
         "Gesundheit/Pflege",
         "Kommunale Resilienz"
-      ]
-    },
-    {
-      "id": "R059",
-      "date": "2026-08-27",
-      "publication_date": "2026-08-27",
-      "category": "Mobilität & Verkehr",
-      "topic_candidates": [
-        "A99",
-        "B304",
-        "Regionale Verkehrsführung"
-      ],
-      "title": "A99 bei Haar: Verkehr läuft über Behelfsbrücke",
-      "subtitle": "Für den Abriss der alten B304-Brücke ist im November eine mehrtägige Vollsperrung der A99 angekündigt.",
-      "sachinformation": "Für den Ersatzneubau der B304-Brücke über die A99 an der Anschlussstelle Haar wurde die Verkehrsführung Ende August auf die Behelfsbrücke umgestellt. Für den Abbruch der alten Brücke ist vom 20. bis 23. November 2026 eine Vollsperrung des Autobahnrings in beiden Richtungen angekündigt, mit erheblichen Auswirkungen im gesamten Münchner Osten. Der Vorgang ergänzt die Beobachtung des A99-Korridors, der auch Feldkirchen unmittelbar betrifft.",
-      "sources": [
-        {
-          "name": "Landkreis München / Autobahn GmbH – Ersatzneubau der Brücke an der Anschlussstelle Haar",
-          "url": "https://www.landkreis-muenchen.de/artikel/a99-autobahnring-b304-ersatzneubau-der-bruecke-an-der-anschlussstelle-haar-1/",
-          "type": "primary_official_republished",
-          "date": "2026-08-04",
-          "date_basis": "source_publication_date",
-          "date_status": "verified"
-        },
-        {
-          "name": "Münchner Merkur – A99 bei Haar wird für drei Tage voll gesperrt",
-          "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/gesperrt-a99-bei-haar-wird-fuer-drei-tage-voll-94459646.html",
-          "type": "press",
-          "date": "2026-08-27",
-          "date_basis": "source_publication_date",
-          "date_status": "verified"
-        }
-      ],
-      "bisheriger_verlauf": [
-        {
-          "id": "R052",
-          "date": "2025-09-25",
-          "title": "Haar lehnt vorgestellte M18/EBE4-Verlegung beim A99-Ausbau ab"
-        },
-        {
-          "id": "R008",
-          "date": "2025-10-30",
-          "title": "Gemeinderat stimmt Variante 5 für die Verlegung von M18/EBE4 zu"
-        }
-      ],
-      "unsere_einordnung": null,
-      "council": null,
-      "research_refs": [
-        "R059"
-      ],
-      "ortsbezug": {
-        "display_place": "Haar",
-        "related_places": [
-          "Haar",
-          "Feldkirchen"
-        ],
-        "scope": "neighbor_transport_corridor_substantive_Feldkirchen_relation",
-        "verification_status": "verified_for_stage_E_from_research_basis",
-        "note": "A99/A94 corridor and regional diversions affect Feldkirchen's transport context; not a local Haar-only issue."
-      },
-      "stage_E_meta": {
-        "editorial_action": "new_from_verified_research",
-        "created_at": "2026-08-28"
-      },
-      "established_topic_refs": [
-        {
-          "id": "T012",
-          "title": "A99-Ausbau und M18/EBE4"
-        }
-      ],
-      "search_tags": [
-        "A99",
-        "B304",
-        "Regionale Verkehrsführung"
       ]
     },
     {
