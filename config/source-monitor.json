@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "sources": [
     {
       "id": "ris-feldkirchen-freigaben",
@@ -192,6 +192,40 @@
         "/lokales/muenchen-lk/"
       ],
       "document_extensions": []
+    },
+    {
+      "id": "sz-landkreis-muenchen",
+      "name": "Süddeutsche Zeitung – Landkreis München",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen",
+      "mode": "overview",
+      "priority": "mandatory",
+      "follow_same_host": true,
+      "match": [
+        "/muenchen/landkreismuenchen/",
+        "/thema/Feldkirchen"
+      ],
+      "document_extensions": []
     }
-  ]
+  ],
+  "relevance_scope": {
+    "rule": "ALL news with substantiated direct, geographic, thematic or functional relationship to Feldkirchen even if place name absent",
+    "include_without_place_name": true,
+    "include_unknown_topics": true,
+    "discover_before_filter": true,
+    "corridors": [
+      "A94 Feldkirchen-Ost / Autobahnkreuz München-Ost",
+      "A99 Kreuz München-Ost",
+      "B471",
+      "Radschnellverbindung München–Markt Schwaben",
+      "S-Bahn S2"
+    ],
+    "subject_examples": [
+      "BayKiBiG kindergarten financing",
+      "district transport and infrastructure with concrete effects"
+    ],
+    "require_evidenced_connection": true,
+    "exclude_unrelated_nearby_news": true,
+    "existing_30_percent_indirect_warning_is_not_search_limit": true,
+    "registered_on": "2026-11-04"
+  }
 }
