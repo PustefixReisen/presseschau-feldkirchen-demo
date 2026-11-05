@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-04T12:12:03+00:00",
+  "updated_at": "2026-11-05T12:25:07+00:00",
   "items": [
     {
       "event_key": "document:feldkirchen-parkraum-2026:https://www.feldkirchen.de/_Resources/Persistent/d/3/d/e/d3dee38ce3c4a9ad01384ca6ed314a2a8f8bcc12/2026%20Parkraumkonzept%20gem%20GR-Beschluss.pdf:4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
@@ -7533,6 +7533,146 @@
       "source_name": "Süddeutsche Zeitung – Landkreis München",
       "kind": "link_new",
       "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/garching-start-up-delta-orbit-weltraumtaxi-li.3559429",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:feldkirchen-aktuelle-meldungen:https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/aufhebung-der-badewarnung-am-heimstettener-see",
+      "detected_at": "2026-11-05T12:24:45+00:00",
+      "source_id": "feldkirchen-aktuelle-meldungen",
+      "source_name": "Gemeinde Feldkirchen – Aktuelle Meldungen",
+      "kind": "link_new",
+      "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/aufhebung-der-badewarnung-am-heimstettener-see",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/unterschleissheim-ort29622/18-jaehriger-radelt-nachts-statt-zu-schlafen-und-holt-kreisrekord-mit-3149-km-94574009.html",
+      "detected_at": "2026-11-05T12:25:02+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/unterschleissheim-ort29622/18-jaehriger-radelt-nachts-statt-zu-schlafen-und-holt-kreisrekord-mit-3149-km-94574009.html",
+      "link_text": "18-Jähriger radelt nachts statt zu schlafen – und holt Kreisrekord mit 3149 Kilometern",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/joachim-gauck-kommt-nach-aschheim-fast-250-karten-schon-verkauft-94573985.html",
+      "detected_at": "2026-11-05T12:25:02+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/joachim-gauck-kommt-nach-aschheim-fast-250-karten-schon-verkauft-94573985.html",
+      "link_text": "Joachim Gauck kommt nach Aschheim – fast 250 Karten schon verkauft",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/seit-2016-bemaengelt-unterhaching-baut-atemschutzwerkstatt-fuer-millionen-euro-94574150.html",
+      "detected_at": "2026-11-05T12:25:02+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/seit-2016-bemaengelt-unterhaching-baut-atemschutzwerkstatt-fuer-millionen-euro-94574150.html",
+      "link_text": "Seit 2016 bemängelt: Unterhaching baut Atemschutzwerkstatt für 1,1 Millionen Euro",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/ismaning-ort28863/abgase-von-autobahn-und-bundesstrassen-verpesten-ismanings-co-bilanz-eigene-berechnung-zeigt-wahren-wert-94574048.html",
+      "detected_at": "2026-11-05T12:25:02+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/ismaning-ort28863/abgase-von-autobahn-und-bundesstrassen-verpesten-ismanings-co-bilanz-eigene-berechnung-zeigt-wahren-wert-94574048.html",
+      "link_text": "Abgase von Autobahn und Bundesstraßen verpesten Ismanings CO₂-Bilanz – Eigene Berechnung zeigt wahren Wert",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/sauerlach-ort117101/sauerlach-app-buerger-programmiert-digitalen-wegweiser-fuer-seine-neue-heimat-94573969.html",
+      "detected_at": "2026-11-05T12:25:02+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/sauerlach-ort117101/sauerlach-app-buerger-programmiert-digitalen-wegweiser-fuer-seine-neue-heimat-94573969.html",
+      "link_text": "Sauerlach-App: Bürger programmiert digitalen Wegweiser für seine neue Heimat",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/schaeftlarn-ort73337/ueber-1000-tote-ickinger-startet-benefizaktion-fuer-flutopfer-in-nepal-94572217.html",
+      "detected_at": "2026-11-05T12:25:02+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/schaeftlarn-ort73337/ueber-1000-tote-ickinger-startet-benefizaktion-fuer-flutopfer-in-nepal-94572217.html",
+      "link_text": "Über 1000 Tote: Ickinger startet Benefizaktion für Flutopfer in Nepal",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/unterschleissheim-ort29622/kinos-in-dachau-und-freising-zu-doch-die-branche-meldet-plus-17-prozent-94573821.html",
+      "detected_at": "2026-11-05T12:25:02+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/unterschleissheim-ort29622/kinos-in-dachau-und-freising-zu-doch-die-branche-meldet-plus-17-prozent-94573821.html",
+      "link_text": "Obwohl viele schließen: Das Kino lebt – auch dank deutscher Filme",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/feldkirchen-schuetzt-60-jahre-altes-kriecherl-gehoelz-trotz-geplantem-radweg-94572213.html",
+      "detected_at": "2026-11-05T12:25:02+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/feldkirchen-schuetzt-60-jahre-altes-kriecherl-gehoelz-trotz-geplantem-radweg-94572213.html",
+      "link_text": "Feldkirchen schützt 60 Jahre altes Kriecherl-Gehölz trotz geplantem Radweg",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-feldkirchen:https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/feldkirchen-schuetzt-60-jahre-altes-kriecherl-gehoelz-trotz-geplantem-radweg-94572213.html",
+      "detected_at": "2026-11-05T12:25:03+00:00",
+      "source_id": "merkur-feldkirchen",
+      "source_name": "Münchner Merkur – Feldkirchen",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/feldkirchen-schuetzt-60-jahre-altes-kriecherl-gehoelz-trotz-geplantem-radweg-94572213.html",
+      "link_text": "Feldkirchen schützt 60 Jahre altes Kriecherl-Gehölz trotz geplantem Radweg",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-aschheim:https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/joachim-gauck-kommt-nach-aschheim-fast-250-karten-schon-verkauft-94573985.html",
+      "detected_at": "2026-11-05T12:25:04+00:00",
+      "source_id": "merkur-aschheim",
+      "source_name": "Münchner Merkur – Aschheim",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/joachim-gauck-kommt-nach-aschheim-fast-250-karten-schon-verkauft-94573985.html",
+      "link_text": "Joachim Gauck kommt nach Aschheim – fast 250 Karten schon verkauft",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/unterschleissheim-sehbehindertenzentrum-blindenzentrum-sanierung-foerderschule-li.3555896",
+      "detected_at": "2026-11-05T12:25:07+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/unterschleissheim-sehbehindertenzentrum-blindenzentrum-sanierung-foerderschule-li.3555896",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/hoehenkirchen-siegertsbrunn-hackerangriff-supermarkt-tiefkuehlware-landkreis-muenchen-li.3574164",
+      "detected_at": "2026-11-05T12:25:07+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/hoehenkirchen-siegertsbrunn-hackerangriff-supermarkt-tiefkuehlware-landkreis-muenchen-li.3574164",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/unterfoehring-andreas-kemmelmeyer-altbuergermeister-li.3574227",
+      "detected_at": "2026-11-05T12:25:07+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/unterfoehring-andreas-kemmelmeyer-altbuergermeister-li.3574227",
       "link_text": "",
       "status": "unprocessed"
     }
