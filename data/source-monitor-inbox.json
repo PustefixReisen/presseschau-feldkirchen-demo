@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-05T12:25:07+00:00",
+  "updated_at": "2026-11-06T12:09:48+00:00",
   "items": [
     {
       "event_key": "document:feldkirchen-parkraum-2026:https://www.feldkirchen.de/_Resources/Persistent/d/3/d/e/d3dee38ce3c4a9ad01384ca6ed314a2a8f8bcc12/2026%20Parkraumkonzept%20gem%20GR-Beschluss.pdf:4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
@@ -7673,6 +7673,246 @@
       "source_name": "Süddeutsche Zeitung – Landkreis München",
       "kind": "link_new",
       "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/unterfoehring-andreas-kemmelmeyer-altbuergermeister-li.3574227",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:ris-feldkirchen-freigaben:https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75584&type=do",
+      "detected_at": "2026-11-06T12:08:55+00:00",
+      "source_id": "ris-feldkirchen-freigaben",
+      "source_name": "RIS Feldkirchen – Dokumente mit Freigabe",
+      "kind": "link_new",
+      "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75584&type=do",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:ris-feldkirchen-freigaben:https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1029",
+      "detected_at": "2026-11-06T12:08:55+00:00",
+      "source_id": "ris-feldkirchen-freigaben",
+      "source_name": "RIS Feldkirchen – Dokumente mit Freigabe",
+      "kind": "link_new",
+      "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1029",
+      "link_text": "17.09.2026",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:ris-feldkirchen-freigaben:https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75444&type=do",
+      "detected_at": "2026-11-06T12:08:55+00:00",
+      "source_id": "ris-feldkirchen-freigaben",
+      "source_name": "RIS Feldkirchen – Dokumente mit Freigabe",
+      "kind": "link_new",
+      "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75444&type=do",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:ris-feldkirchen-freigaben:https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1073",
+      "detected_at": "2026-11-06T12:08:55+00:00",
+      "source_id": "ris-feldkirchen-freigaben",
+      "source_name": "RIS Feldkirchen – Dokumente mit Freigabe",
+      "kind": "link_new",
+      "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1073",
+      "link_text": "29.09.2026",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:ris-feldkirchen-freigaben:https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75539&type=do",
+      "detected_at": "2026-11-06T12:08:55+00:00",
+      "source_id": "ris-feldkirchen-freigaben",
+      "source_name": "RIS Feldkirchen – Dokumente mit Freigabe",
+      "kind": "link_new",
+      "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/getfile.asp?id=75539&type=do",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:landkreis-muenchen:https://www.landkreis-muenchen.de/artikel/laufender-feuerwehreinsatz-kfz-zulassungsstelle-derzeit-gesperrt/",
+      "detected_at": "2026-11-06T12:09:02+00:00",
+      "source_id": "landkreis-muenchen",
+      "source_name": "Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.landkreis-muenchen.de/artikel/laufender-feuerwehreinsatz-kfz-zulassungsstelle-derzeit-gesperrt/",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/schulden-gemeinde-kirchheim-bei-muenchen-sagt-christkindlmarkt-ab-94576140.html",
+      "detected_at": "2026-11-06T12:09:43+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/schulden-gemeinde-kirchheim-bei-muenchen-sagt-christkindlmarkt-ab-94576140.html",
+      "link_text": "Dramatisch hohe Schulden: Gemeinde bei München kann sich Christkindlmarkt nicht mehr leisten",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/taufkirchen-bei-muenchen-ort486320/neuer-beitrag-ab-2027-taufkirchen-kassiert-gebuehren-fuer-buecherei-94575969.html",
+      "detected_at": "2026-11-06T12:09:43+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/taufkirchen-bei-muenchen-ort486320/neuer-beitrag-ab-2027-taufkirchen-kassiert-gebuehren-fuer-buecherei-94575969.html",
+      "link_text": "Neuer Beitrag ab 2027: Taufkirchen kassiert Gebühren für Bücherei",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/gruenwald-ort28770/schockanruf-in-gruenwald-falsche-polizisten-ergaunern-wertsachen-94577309.html",
+      "detected_at": "2026-11-06T12:09:43+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/gruenwald-ort28770/schockanruf-in-gruenwald-falsche-polizisten-ergaunern-wertsachen-94577309.html",
+      "link_text": "Schockanruf in Grünwald: Falsche Polizisten ergaunern Wertsachen",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/hohenbrunn-ort28822/kleintransporter-schleudert-in-gruenflaeche-drei-verletzte-bei-hohenbrunn-94577305.html",
+      "detected_at": "2026-11-06T12:09:43+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/hohenbrunn-ort28822/kleintransporter-schleudert-in-gruenflaeche-drei-verletzte-bei-hohenbrunn-94577305.html",
+      "link_text": "Kleintransporter nimmt Auto die Vorfahrt: Drei Verletzte bei Hohenbrunn",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/gruenwald-ort28770/gruenwalder-kommissarin-ermittelt-in-der-toskana-die-autorin-war-nie-dort-94577174.html",
+      "detected_at": "2026-11-06T12:09:43+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/gruenwald-ort28770/gruenwalder-kommissarin-ermittelt-in-der-toskana-die-autorin-war-nie-dort-94577174.html",
+      "link_text": "Grünwalder Kommissarin ermittelt in der Toskana – die Autorin war nie dort",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/haar-baut-photovoltaikanlage-aufs-dach-des-wertstoffhofs-ohne-speicher-94575942.html",
+      "detected_at": "2026-11-06T12:09:43+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/haar-baut-photovoltaikanlage-aufs-dach-des-wertstoffhofs-ohne-speicher-94575942.html",
+      "link_text": "Haar baut Photovoltaikanlage aufs Dach des Wertstoffhofs – ohne Speicher",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/gruene-spd-und-csu-im-landkreis-muenchen-einig-ilse-aigner-soll-bundespraesidentin-werden-94575925.html",
+      "detected_at": "2026-11-06T12:09:43+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/gruene-spd-und-csu-im-landkreis-muenchen-einig-ilse-aigner-soll-bundespraesidentin-werden-94575925.html",
+      "link_text": "Grüne, SPD und CSU im Landkreis München einig: Ilse Aigner soll Bundespräsidentin werden",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/aiwanger-starb-mit-55-weggefaehrten-erinnern-sich-an-mann-mit-handschlagqualitaet-94575984.html",
+      "detected_at": "2026-11-06T12:09:43+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/aiwanger-starb-mit-55-weggefaehrten-erinnern-sich-an-mann-mit-handschlagqualitaet-94575984.html",
+      "link_text": "Aiwangers plötzlicher Tod: Weggefährten erinnern sich an Mann mit Handschlagqualität",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/gruenwald-ort28770/nur-zur-wm-gereist-zwei-sarden-eroeffnen-jetzt-ihr-restaurant-in-gruenwald-94573973.html",
+      "detected_at": "2026-11-06T12:09:43+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/gruenwald-ort28770/nur-zur-wm-gereist-zwei-sarden-eroeffnen-jetzt-ihr-restaurant-in-gruenwald-94573973.html",
+      "link_text": "Einst zur WM gereist: Zwei Sarden eröffnen nun Restaurant in Grünwald",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-kirchheim:https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/schulden-gemeinde-kirchheim-bei-muenchen-sagt-christkindlmarkt-ab-94576140.html",
+      "detected_at": "2026-11-06T12:09:46+00:00",
+      "source_id": "merkur-kirchheim",
+      "source_name": "Münchner Merkur – Kirchheim",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/schulden-gemeinde-kirchheim-bei-muenchen-sagt-christkindlmarkt-ab-94576140.html",
+      "link_text": "Dramatisch hohe Schulden: Gemeinde bei München kann sich Christkindlmarkt nicht mehr leisten",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-haar:https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/haar-baut-photovoltaikanlage-aufs-dach-des-wertstoffhofs-ohne-speicher-94575942.html",
+      "detected_at": "2026-11-06T12:09:47+00:00",
+      "source_id": "merkur-haar",
+      "source_name": "Münchner Merkur – Haar",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/haar-baut-photovoltaikanlage-aufs-dach-des-wertstoffhofs-ohne-speicher-94575942.html",
+      "link_text": "Haar baut Photovoltaikanlage aufs Dach des Wertstoffhofs – ohne Speicher",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/unfall-hohenbrunn-a99-kleintransporter-putzbrunner-strasse-li.3575396",
+      "detected_at": "2026-11-06T12:09:48+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/unfall-hohenbrunn-a99-kleintransporter-putzbrunner-strasse-li.3575396",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/b388-ismaning-sperrung-strassensanierung-umleitung-li.3575329",
+      "detected_at": "2026-11-06T12:09:48+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/b388-ismaning-sperrung-strassensanierung-umleitung-li.3575329",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/harry-kane-baierbrunn-ballon-d-or-schnitzel-gold-kolumne-kreis-und-quer-li.3574161",
+      "detected_at": "2026-11-06T12:09:48+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/harry-kane-baierbrunn-ballon-d-or-schnitzel-gold-kolumne-kreis-und-quer-li.3574161",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/christbaum-marienplatz-sauerlach-muenchen-2026-interview-buergermeister-li.3574490",
+      "detected_at": "2026-11-06T12:09:48+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/christbaum-marienplatz-sauerlach-muenchen-2026-interview-buergermeister-li.3574490",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/muenchner-osten-verkehr-flugtaxi-autobahnparallele-haar-li.3571016",
+      "detected_at": "2026-11-06T12:09:48+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/muenchner-osten-verkehr-flugtaxi-autobahnparallele-haar-li.3571016",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/wuermtal-zigarettenkippen-planegg-neuried-graefelfing-li.3574823",
+      "detected_at": "2026-11-06T12:09:48+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/wuermtal-zigarettenkippen-planegg-neuried-graefelfing-li.3574823",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/rechenzentren-feldkirchen-landkreis-muenchen-kirchheim-digitalisierung-li.3564262",
+      "detected_at": "2026-11-06T12:09:48+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/rechenzentren-feldkirchen-landkreis-muenchen-kirchheim-digitalisierung-li.3564262",
       "link_text": "",
       "status": "unprocessed"
     }
