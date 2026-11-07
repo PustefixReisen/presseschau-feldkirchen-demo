@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-06T12:09:48+00:00",
+  "updated_at": "2026-11-07T11:06:19+00:00",
   "items": [
     {
       "event_key": "document:feldkirchen-parkraum-2026:https://www.feldkirchen.de/_Resources/Persistent/d/3/d/e/d3dee38ce3c4a9ad01384ca6ed314a2a8f8bcc12/2026%20Parkraumkonzept%20gem%20GR-Beschluss.pdf:4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
@@ -7913,6 +7913,436 @@
       "source_name": "Süddeutsche Zeitung – Landkreis München",
       "kind": "link_new",
       "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/rechenzentren-feldkirchen-landkreis-muenchen-kirchheim-digitalisierung-li.3564262",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:adfc-muenchen:https://muenchen.adfc.de/neuigkeit/radfahren-in-den-medien-mitte-november-2026",
+      "detected_at": "2026-11-07T11:06:05+00:00",
+      "source_id": "adfc-muenchen",
+      "source_name": "ADFC München",
+      "kind": "link_new",
+      "url": "https://muenchen.adfc.de/neuigkeit/radfahren-in-den-medien-mitte-november-2026",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:bn-kreisgruppe-muenchen:https://www.bn-muenchen.de/",
+      "detected_at": "2026-11-07T11:06:08+00:00",
+      "source_id": "bn-kreisgruppe-muenchen",
+      "source_name": "BUND Naturschutz – Kreisgruppe München",
+      "kind": "link_new",
+      "url": "https://www.bn-muenchen.de/",
+      "link_text": "Zum Inhalt springen",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:bn-kreisgruppe-muenchen:https://www.bn-muenchen.de/themen_projekte/",
+      "detected_at": "2026-11-07T11:06:08+00:00",
+      "source_id": "bn-kreisgruppe-muenchen",
+      "source_name": "BUND Naturschutz – Kreisgruppe München",
+      "kind": "link_new",
+      "url": "https://www.bn-muenchen.de/themen_projekte/",
+      "link_text": "Themen und Projekte Erweitern",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:bn-kreisgruppe-muenchen:https://www.bn-muenchen.de/themen_projekte/baumschutz/",
+      "detected_at": "2026-11-07T11:06:08+00:00",
+      "source_id": "bn-kreisgruppe-muenchen",
+      "source_name": "BUND Naturschutz – Kreisgruppe München",
+      "kind": "link_new",
+      "url": "https://www.bn-muenchen.de/themen_projekte/baumschutz/",
+      "link_text": "Baumschutz",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:bn-kreisgruppe-muenchen:https://www.bn-muenchen.de/themen_projekte/biodiversitaet/",
+      "detected_at": "2026-11-07T11:06:08+00:00",
+      "source_id": "bn-kreisgruppe-muenchen",
+      "source_name": "BUND Naturschutz – Kreisgruppe München",
+      "kind": "link_new",
+      "url": "https://www.bn-muenchen.de/themen_projekte/biodiversitaet/",
+      "link_text": "BIODIVERSITÄT",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:bn-kreisgruppe-muenchen:https://www.bn-muenchen.de/themen_projekte/biodiversitaet/arten-biotopschutz/",
+      "detected_at": "2026-11-07T11:06:08+00:00",
+      "source_id": "bn-kreisgruppe-muenchen",
+      "source_name": "BUND Naturschutz – Kreisgruppe München",
+      "kind": "link_new",
+      "url": "https://www.bn-muenchen.de/themen_projekte/biodiversitaet/arten-biotopschutz/",
+      "link_text": "BN Biotope in München",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:bn-kreisgruppe-muenchen:https://www.bn-muenchen.de/mobilitaet/",
+      "detected_at": "2026-11-07T11:06:08+00:00",
+      "source_id": "bn-kreisgruppe-muenchen",
+      "source_name": "BUND Naturschutz – Kreisgruppe München",
+      "kind": "link_new",
+      "url": "https://www.bn-muenchen.de/mobilitaet/",
+      "link_text": "Mobilität",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:bn-kreisgruppe-muenchen:https://www.bn-muenchen.de/themen_projekte/oekologisch-essen-2/",
+      "detected_at": "2026-11-07T11:06:08+00:00",
+      "source_id": "bn-kreisgruppe-muenchen",
+      "source_name": "BUND Naturschutz – Kreisgruppe München",
+      "kind": "link_new",
+      "url": "https://www.bn-muenchen.de/themen_projekte/oekologisch-essen-2/",
+      "link_text": "Ökologisch Essen",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:bn-kreisgruppe-muenchen:https://www.bn-muenchen.de/themen_projekte/stadtplanung/",
+      "detected_at": "2026-11-07T11:06:08+00:00",
+      "source_id": "bn-kreisgruppe-muenchen",
+      "source_name": "BUND Naturschutz – Kreisgruppe München",
+      "kind": "link_new",
+      "url": "https://www.bn-muenchen.de/themen_projekte/stadtplanung/",
+      "link_text": "Stadtplanung",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:bn-kreisgruppe-muenchen:https://www.bn-muenchen.de/umweltbildung/",
+      "detected_at": "2026-11-07T11:06:08+00:00",
+      "source_id": "bn-kreisgruppe-muenchen",
+      "source_name": "BUND Naturschutz – Kreisgruppe München",
+      "kind": "link_new",
+      "url": "https://www.bn-muenchen.de/umweltbildung/",
+      "link_text": "Umweltbildung",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:bn-kreisgruppe-muenchen:https://www.bn-muenchen.de/umweltberatung/",
+      "detected_at": "2026-11-07T11:06:08+00:00",
+      "source_id": "bn-kreisgruppe-muenchen",
+      "source_name": "BUND Naturschutz – Kreisgruppe München",
+      "kind": "link_new",
+      "url": "https://www.bn-muenchen.de/umweltberatung/",
+      "link_text": "Umweltberatung",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:bn-kreisgruppe-muenchen:https://www.bn-muenchen.de/mitmachen/",
+      "detected_at": "2026-11-07T11:06:08+00:00",
+      "source_id": "bn-kreisgruppe-muenchen",
+      "source_name": "BUND Naturschutz – Kreisgruppe München",
+      "kind": "link_new",
+      "url": "https://www.bn-muenchen.de/mitmachen/",
+      "link_text": "Mitmachen",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:bn-kreisgruppe-muenchen:https://www.bn-muenchen.de/ueber-uns/",
+      "detected_at": "2026-11-07T11:06:08+00:00",
+      "source_id": "bn-kreisgruppe-muenchen",
+      "source_name": "BUND Naturschutz – Kreisgruppe München",
+      "kind": "link_new",
+      "url": "https://www.bn-muenchen.de/ueber-uns/",
+      "link_text": "Über uns",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:bn-kreisgruppe-muenchen:https://www.bn-muenchen.de/veranstaltungen/list/",
+      "detected_at": "2026-11-07T11:06:08+00:00",
+      "source_id": "bn-kreisgruppe-muenchen",
+      "source_name": "BUND Naturschutz – Kreisgruppe München",
+      "kind": "link_new",
+      "url": "https://www.bn-muenchen.de/veranstaltungen/list/",
+      "link_text": "Veranstaltungen",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:bn-kreisgruppe-muenchen:https://www.bn-muenchen.de/contact/",
+      "detected_at": "2026-11-07T11:06:08+00:00",
+      "source_id": "bn-kreisgruppe-muenchen",
+      "source_name": "BUND Naturschutz – Kreisgruppe München",
+      "kind": "link_new",
+      "url": "https://www.bn-muenchen.de/contact/",
+      "link_text": "Kontakt",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:bn-kreisgruppe-muenchen:https://www.bn-muenchen.de/spenden/",
+      "detected_at": "2026-11-07T11:06:08+00:00",
+      "source_id": "bn-kreisgruppe-muenchen",
+      "source_name": "BUND Naturschutz – Kreisgruppe München",
+      "kind": "link_new",
+      "url": "https://www.bn-muenchen.de/spenden/",
+      "link_text": "Spenden",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:bn-kreisgruppe-muenchen:https://www.bn-muenchen.de/category/aktuelles/",
+      "detected_at": "2026-11-07T11:06:08+00:00",
+      "source_id": "bn-kreisgruppe-muenchen",
+      "source_name": "BUND Naturschutz – Kreisgruppe München",
+      "kind": "link_new",
+      "url": "https://www.bn-muenchen.de/category/aktuelles/",
+      "link_text": "Alle Meldungen",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:bn-kreisgruppe-muenchen:https://www.bn-muenchen.de/baeume-pflanzen-ist-wichtig-genauso-wichtig-ist-der-baumerhalt/",
+      "detected_at": "2026-11-07T11:06:08+00:00",
+      "source_id": "bn-kreisgruppe-muenchen",
+      "source_name": "BUND Naturschutz – Kreisgruppe München",
+      "kind": "link_new",
+      "url": "https://www.bn-muenchen.de/baeume-pflanzen-ist-wichtig-genauso-wichtig-ist-der-baumerhalt/",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:bn-kreisgruppe-muenchen:https://www.bn-muenchen.de/category/baumschutz/",
+      "detected_at": "2026-11-07T11:06:08+00:00",
+      "source_id": "bn-kreisgruppe-muenchen",
+      "source_name": "BUND Naturschutz – Kreisgruppe München",
+      "kind": "link_new",
+      "url": "https://www.bn-muenchen.de/category/baumschutz/",
+      "link_text": "Baumschutz",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:bn-kreisgruppe-muenchen:https://www.bn-muenchen.de/category/presse/",
+      "detected_at": "2026-11-07T11:06:08+00:00",
+      "source_id": "bn-kreisgruppe-muenchen",
+      "source_name": "BUND Naturschutz – Kreisgruppe München",
+      "kind": "link_new",
+      "url": "https://www.bn-muenchen.de/category/presse/",
+      "link_text": "Presse",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:bn-kreisgruppe-muenchen:https://www.bn-muenchen.de/1099-2/",
+      "detected_at": "2026-11-07T11:06:08+00:00",
+      "source_id": "bn-kreisgruppe-muenchen",
+      "source_name": "BUND Naturschutz – Kreisgruppe München",
+      "kind": "link_new",
+      "url": "https://www.bn-muenchen.de/1099-2/",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:bn-kreisgruppe-muenchen:https://www.bn-muenchen.de/category/oekologisches-essen/",
+      "detected_at": "2026-11-07T11:06:08+00:00",
+      "source_id": "bn-kreisgruppe-muenchen",
+      "source_name": "BUND Naturschutz – Kreisgruppe München",
+      "kind": "link_new",
+      "url": "https://www.bn-muenchen.de/category/oekologisches-essen/",
+      "link_text": "Ökologisches Essen",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:bn-kreisgruppe-muenchen:https://www.bn-muenchen.de/neuwahl/",
+      "detected_at": "2026-11-07T11:06:08+00:00",
+      "source_id": "bn-kreisgruppe-muenchen",
+      "source_name": "BUND Naturschutz – Kreisgruppe München",
+      "kind": "link_new",
+      "url": "https://www.bn-muenchen.de/neuwahl/",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:bn-kreisgruppe-muenchen:https://www.bn-muenchen.de/tolle-knolle-kochkurs/",
+      "detected_at": "2026-11-07T11:06:08+00:00",
+      "source_id": "bn-kreisgruppe-muenchen",
+      "source_name": "BUND Naturschutz – Kreisgruppe München",
+      "kind": "link_new",
+      "url": "https://www.bn-muenchen.de/tolle-knolle-kochkurs/",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:bn-kreisgruppe-muenchen:https://www.bn-muenchen.de/category/themen/",
+      "detected_at": "2026-11-07T11:06:08+00:00",
+      "source_id": "bn-kreisgruppe-muenchen",
+      "source_name": "BUND Naturschutz – Kreisgruppe München",
+      "kind": "link_new",
+      "url": "https://www.bn-muenchen.de/category/themen/",
+      "link_text": "Themen und Projekte",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:bn-kreisgruppe-muenchen:https://www.bn-muenchen.de/fruehlingskraeuterkueche-kochkurs/",
+      "detected_at": "2026-11-07T11:06:08+00:00",
+      "source_id": "bn-kreisgruppe-muenchen",
+      "source_name": "BUND Naturschutz – Kreisgruppe München",
+      "kind": "link_new",
+      "url": "https://www.bn-muenchen.de/fruehlingskraeuterkueche-kochkurs/",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:bn-kreisgruppe-muenchen:https://www.bn-muenchen.de/sonnenstrasse-munich-central-park/",
+      "detected_at": "2026-11-07T11:06:08+00:00",
+      "source_id": "bn-kreisgruppe-muenchen",
+      "source_name": "BUND Naturschutz – Kreisgruppe München",
+      "kind": "link_new",
+      "url": "https://www.bn-muenchen.de/sonnenstrasse-munich-central-park/",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:bn-kreisgruppe-muenchen:https://www.bn-muenchen.de/category/mobilitaet/",
+      "detected_at": "2026-11-07T11:06:08+00:00",
+      "source_id": "bn-kreisgruppe-muenchen",
+      "source_name": "BUND Naturschutz – Kreisgruppe München",
+      "kind": "link_new",
+      "url": "https://www.bn-muenchen.de/category/mobilitaet/",
+      "link_text": "Mobilität",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:bn-kreisgruppe-muenchen:https://www.bn-muenchen.de/hands-off-nature-haende-weg-von-der-natur/",
+      "detected_at": "2026-11-07T11:06:08+00:00",
+      "source_id": "bn-kreisgruppe-muenchen",
+      "source_name": "BUND Naturschutz – Kreisgruppe München",
+      "kind": "link_new",
+      "url": "https://www.bn-muenchen.de/hands-off-nature-haende-weg-von-der-natur/",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:bn-kreisgruppe-muenchen:https://www.bn-muenchen.de/weltbienentag-am-20-mai-wie-sich-mitten-in-muenchen-wildbienen-ansiedeln/",
+      "detected_at": "2026-11-07T11:06:08+00:00",
+      "source_id": "bn-kreisgruppe-muenchen",
+      "source_name": "BUND Naturschutz – Kreisgruppe München",
+      "kind": "link_new",
+      "url": "https://www.bn-muenchen.de/weltbienentag-am-20-mai-wie-sich-mitten-in-muenchen-wildbienen-ansiedeln/",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:bn-kreisgruppe-muenchen:https://www.bn-muenchen.de/category/biodiversitaet/",
+      "detected_at": "2026-11-07T11:06:08+00:00",
+      "source_id": "bn-kreisgruppe-muenchen",
+      "source_name": "BUND Naturschutz – Kreisgruppe München",
+      "kind": "link_new",
+      "url": "https://www.bn-muenchen.de/category/biodiversitaet/",
+      "link_text": "Biodiversität",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:bn-kreisgruppe-muenchen:https://www.bn-muenchen.de/baumentscheid-was-nun/",
+      "detected_at": "2026-11-07T11:06:08+00:00",
+      "source_id": "bn-kreisgruppe-muenchen",
+      "source_name": "BUND Naturschutz – Kreisgruppe München",
+      "kind": "link_new",
+      "url": "https://www.bn-muenchen.de/baumentscheid-was-nun/",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:bn-kreisgruppe-muenchen:https://www.bn-muenchen.de/datenschutzerklaerung/",
+      "detected_at": "2026-11-07T11:06:08+00:00",
+      "source_id": "bn-kreisgruppe-muenchen",
+      "source_name": "BUND Naturschutz – Kreisgruppe München",
+      "kind": "link_new",
+      "url": "https://www.bn-muenchen.de/datenschutzerklaerung/",
+      "link_text": "Datenschutzerklärung",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:bn-kreisgruppe-muenchen:https://www.bn-muenchen.de/impressum/",
+      "detected_at": "2026-11-07T11:06:08+00:00",
+      "source_id": "bn-kreisgruppe-muenchen",
+      "source_name": "BUND Naturschutz – Kreisgruppe München",
+      "kind": "link_new",
+      "url": "https://www.bn-muenchen.de/impressum/",
+      "link_text": "Impressum",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/hoehenkirchen-siegertsbrunn-ort100556/hoehenkirchen-nach-hacker-angriff-bleibt-biomarkt-kuehlung-vorerst-offline-94578132.html",
+      "detected_at": "2026-11-07T11:06:13+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/hoehenkirchen-siegertsbrunn-ort100556/hoehenkirchen-nach-hacker-angriff-bleibt-biomarkt-kuehlung-vorerst-offline-94578132.html",
+      "link_text": "„Jetzt habe ich den Schaden“: Nach Hacker-Angriff bleibt Biomarkt-Kühlung vorerst offline",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/schwerpunktkontrolle-bei-haar-polizei-auf-einbrecherjagd-94577747.html",
+      "detected_at": "2026-11-07T11:06:13+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/schwerpunktkontrolle-bei-haar-polizei-auf-einbrecherjagd-94577747.html",
+      "link_text": "Schwerpunktkontrolle bei Haar: Polizei auf Einbrecherjagd",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/christkindlmarkt-in-kirchheim-abgesagt-gemeinde-fehlen-millionen-euro-94578124.html",
+      "detected_at": "2026-11-07T11:06:13+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/christkindlmarkt-in-kirchheim-abgesagt-gemeinde-fehlen-millionen-euro-94578124.html",
+      "link_text": "Christkindlmarkt abgesagt: Vereinen brechen Einnahmen weg – Auch Seniorenweihnachtsfeier entfällt",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/hochbegabtes-kind-mit-jahren-diskutierte-ueber-sockenfarben-94570124.html",
+      "detected_at": "2026-11-07T11:06:13+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/hochbegabtes-kind-mit-jahren-diskutierte-ueber-sockenfarben-94570124.html",
+      "link_text": "Hochbegabtes Kind: Mit 1,5 Jahren diskutierte sie über Sockenfarben",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/kieslaster-rasen-durch-dornach-gemeinderat-lehnt-blitzer-ab-94575934.html",
+      "detected_at": "2026-11-07T11:06:13+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/kieslaster-rasen-durch-dornach-gemeinderat-lehnt-blitzer-ab-94575934.html",
+      "link_text": "Kieslaster rasen durch Dornach: Gemeinderat lehnt Blitzer ab",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-aschheim:https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/kieslaster-rasen-durch-dornach-gemeinderat-lehnt-blitzer-ab-94575934.html",
+      "detected_at": "2026-11-07T11:06:16+00:00",
+      "source_id": "merkur-aschheim",
+      "source_name": "Münchner Merkur – Aschheim",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/kieslaster-rasen-durch-dornach-gemeinderat-lehnt-blitzer-ab-94575934.html",
+      "link_text": "Kieslaster rasen durch Dornach: Gemeinderat lehnt Blitzer ab",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-kirchheim:https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/christkindlmarkt-in-kirchheim-abgesagt-gemeinde-fehlen-millionen-euro-94578124.html",
+      "detected_at": "2026-11-07T11:06:17+00:00",
+      "source_id": "merkur-kirchheim",
+      "source_name": "Münchner Merkur – Kirchheim",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/christkindlmarkt-in-kirchheim-abgesagt-gemeinde-fehlen-millionen-euro-94578124.html",
+      "link_text": "Christkindlmarkt abgesagt: Vereinen brechen Einnahmen weg – Auch Seniorenweihnachtsfeier entfällt",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-haar:https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/hochbegabtes-kind-mit-jahren-diskutierte-ueber-sockenfarben-94570124.html",
+      "detected_at": "2026-11-07T11:06:18+00:00",
+      "source_id": "merkur-haar",
+      "source_name": "Münchner Merkur – Haar",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/hochbegabtes-kind-mit-jahren-diskutierte-ueber-sockenfarben-94570124.html",
+      "link_text": "Hochbegabtes Kind: Mit 1,5 Jahren diskutierte sie über Sockenfarben",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/haar-bei-muenchen-polizeikontrolle-einbrecher-aufklaerung-li.3574486",
+      "detected_at": "2026-11-07T11:06:19+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/haar-bei-muenchen-polizeikontrolle-einbrecher-aufklaerung-li.3574486",
       "link_text": "",
       "status": "unprocessed"
     }
