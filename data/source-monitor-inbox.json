@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-07T11:06:19+00:00",
+  "updated_at": "2026-11-08T11:19:07+00:00",
   "items": [
     {
       "event_key": "document:feldkirchen-parkraum-2026:https://www.feldkirchen.de/_Resources/Persistent/d/3/d/e/d3dee38ce3c4a9ad01384ca6ed314a2a8f8bcc12/2026%20Parkraumkonzept%20gem%20GR-Beschluss.pdf:4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
@@ -8343,6 +8343,86 @@
       "source_name": "Süddeutsche Zeitung – Landkreis München",
       "kind": "link_new",
       "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/haar-bei-muenchen-polizeikontrolle-einbrecher-aufklaerung-li.3574486",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:landkreis-muenchen:https://www.landkreis-muenchen.de/artikel/vierstreifiger-ausbau-des-foehringer-rings/",
+      "detected_at": "2026-11-08T11:18:50+00:00",
+      "source_id": "landkreis-muenchen",
+      "source_name": "Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.landkreis-muenchen.de/artikel/vierstreifiger-ausbau-des-foehringer-rings/",
+      "link_text": "Vierstreifiger Ausbau des Föhringer Rings",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/pullach-ort29321/pullacher-freizeitbad-oeffnet-wieder-revision-dauerte-zwei-wochen-laenger-94577749.html",
+      "detected_at": "2026-11-08T11:19:00+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/pullach-ort29321/pullacher-freizeitbad-oeffnet-wieder-revision-dauerte-zwei-wochen-laenger-94577749.html",
+      "link_text": "Pullacher Freizeitbad öffnet wieder – Revision dauerte zwei Wochen länger",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-haar:https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/schwerpunktkontrolle-bei-haar-polizei-auf-einbrecherjagd-94577747.html",
+      "detected_at": "2026-11-08T11:19:06+00:00",
+      "source_id": "merkur-haar",
+      "source_name": "Münchner Merkur – Haar",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/schwerpunktkontrolle-bei-haar-polizei-auf-einbrecherjagd-94577747.html",
+      "link_text": "Schwerpunktkontrolle bei Haar: Polizei auf Einbrecherjagd",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/kreisumlage-2027-senkung-landkreis-muenchen-graefelfing-neuried-haushalt-kommunen-li.3573863",
+      "detected_at": "2026-11-08T11:19:07+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/kreisumlage-2027-senkung-landkreis-muenchen-graefelfing-neuried-haushalt-kommunen-li.3573863",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/garching-gruchmann-buergerhaus-vermietung-hassprediger-li.3573599",
+      "detected_at": "2026-11-08T11:19:07+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/garching-gruchmann-buergerhaus-vermietung-hassprediger-li.3573599",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/dieter-acker-ottobrunn-gedenkkonzert-komponist-klassische-musik-li.3575473",
+      "detected_at": "2026-11-08T11:19:07+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/dieter-acker-ottobrunn-gedenkkonzert-komponist-klassische-musik-li.3575473",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/lionel-martin-demian-martin-kupferhaus-planegg-kammermusik-konzert-li.3575476",
+      "detected_at": "2026-11-08T11:19:07+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/lionel-martin-demian-martin-kupferhaus-planegg-kammermusik-konzert-li.3575476",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/putzbrunn-alter-wirt-hassan-zohaib-li.3555291",
+      "detected_at": "2026-11-08T11:19:07+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/putzbrunn-alter-wirt-hassan-zohaib-li.3555291",
       "link_text": "",
       "status": "unprocessed"
     }
