@@ -4,13 +4,13 @@
   "status": "canonical_after_standard_update_2026-09-28",
   "research_window": {
     "from": "2025-08-27",
-    "to": "2026-11-04"
+    "to": "2026-11-08"
   },
   "source_basis": [
     "recherchebestand.json",
     "sitzungsbestand.json"
   ],
-  "contribution_count": 99,
+  "contribution_count": 100,
   "editorial_rules": [
     "No methodological or demonstrator text inside public contribution content.",
     "Sachinformation is neutral; political assessment is a separate optional field.",
@@ -21,6 +21,270 @@
     "Unsere Einordnung was audited on 2026-08-29 for citizen-oriented political language per KI-Leitfaden 0.8."
   ],
   "contributions": [
+    {
+      "id": "R074",
+      "date": "2026-11-08",
+      "publication_date": "2026-09-19",
+      "category": "Mobilität & Verkehr",
+      "topic_candidates": [
+        "B471",
+        "B471 neu",
+        "Ortsumfahrung Feldkirchen",
+        "regionale Verkehrsplanung"
+      ],
+      "title": "„B471 neu“ endgültig verworfen – lokale Entlastungsmaßnahmen rücken in den Mittelpunkt",
+      "subtitle": "Aktualisierung vom 08.11.2026: Die SZ berichtet über die Konsequenzen der verworfenen Autobahnparallele für den Verkehr im Münchner Osten.",
+      "sachinformation": "Die über Jahre untersuchte „B471 neu“ als durchgehende Autobahnparallele zwischen Aschheim und Hohenbrunn wird nicht weiterverfolgt. Nach dem Bericht des Münchner Merkur kommt die abgeschlossene Machbarkeitsstudie zu dem Ergebnis, dass keine der beiden untersuchten Varianten als durchgehende Entlastungsstraße empfohlen wird. Die Varianten wurden mit rund 50 beziehungsweise 90 Millionen Euro veranschlagt; dem hohen Aufwand stünde nur eine begrenzte Entlastungswirkung gegenüber.\\n\\nStattdessen sollen kleinere, lokal umsetzbare Maßnahmen entlang der B471 geprüft werden. Für Feldkirchen ist dabei besonders relevant, dass die Gutachter den Ausbau der A99 und die Ortsumfahrung Feldkirchen als weiterzuverfolgende Ansätze nennen. Außerdem werden für Ortsdurchfahrten – soweit rechtlich möglich – niedrigere Geschwindigkeiten, bessere Radverkehrsführungen, sichere Querungen und Bushaltestellen auf der Fahrbahn empfohlen. Der Mobilitätsausschuss des Landkreises beschloss laut Bericht einstimmig, das Gutachten an die beteiligten Kommunen weiterzugeben.\n\nAktualisierung vom 08.11.2026: Die Süddeutsche Zeitung ordnet am 5. November die Entscheidung gegen eine neue Schnellstraße parallel zur A99 und mögliche Folgen für Haar, Kirchheim und Feldkirchen ein. Dabei handelt es sich um einen zusätzlichen Bericht und eine Einordnung, nicht um einen neuen Trassenbeschluss.",
+      "sources": [
+        {
+          "name": "Münchner Merkur – Autobahnparallele „B471 neu“ ist endgültig vom Tisch",
+          "url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/90-millionen-euro-kaum-nutzen-471-neu-wird-nicht-gebaut-94499321.html",
+          "type": "press",
+          "date": "2026-09-19",
+          "date_basis": "publication_date",
+          "date_status": "verified"
+        },
+        {
+          "name": "Münchner Merkur – 500.000-Euro-Studie zur B471 (02.11.2026)",
+          "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/500-000-euro-studie-zur-b471-autobahnparallele-wird-nicht-gebaut-94568464.html",
+          "type": "secondary_press",
+          "date": "2026-11-02",
+          "date_basis": "publication_date",
+          "date_status": "verified"
+        },
+        {
+          "name": "Süddeutsche Zeitung – Jetzt bleibt nur noch der Traum vom Fliegen",
+          "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/muenchner-osten-verkehr-flugtaxi-autobahnparallele-haar-li.3571016?reduced=true",
+          "type": "secondary_press",
+          "date": "2026-11-05",
+          "date_basis": "publication_date",
+          "date_status": "verified"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": null,
+      "research_refs": [
+        "R074"
+      ],
+      "ortsbezug": {
+        "display_place": "Region München Ost / Feldkirchen",
+        "related_places": [
+          "Feldkirchen",
+          "Aschheim",
+          "Hohenbrunn"
+        ],
+        "scope": "regional_with_direct_feldkirchen_relevance",
+        "verification_status": "verified_2026-09-21"
+      },
+      "established_topic_refs": [],
+      "stage_update_meta": {
+        "created_at": "2026-09-21",
+        "source_status": "verified_press_report",
+        "updated_at": "2026-11-08",
+        "latest_source_date": "2026-11-05"
+      },
+      "search_tags": [
+        "B471",
+        "B471 neu",
+        "Ortsumfahrung Feldkirchen",
+        "regionale Verkehrsplanung"
+      ]
+    },
+    {
+      "id": "R111",
+      "date": "2026-11-08",
+      "publication_date": "2026-10-15",
+      "category": "Ortsentwicklung & Bauen",
+      "topic_candidates": [
+        "Rechenzentrum",
+        "Bebauungsplan 112",
+        "Ortsentwicklung"
+      ],
+      "title": "Rechenzentrum: Gemeinderat befürwortet Voranfrage – Kritik an Flächenversiegelung",
+      "subtitle": "Aktualisierung vom 08.11.2026: Die SZ beleuchtet zusätzliche Rechenzentrumsprojekte und ihren hohen Strombedarf im Münchner Osten.",
+      "sachinformation": "Der Gemeinderat Feldkirchen hat laut einem am 22. Oktober 2026 veröffentlichten Bericht des Münchner Merkur (Bert Brosch) eine Voranfrage für ein Rechenzentrum grundsätzlich positiv beschieden. Gegenstand der Gemeinderatssitzung vom 15. Oktober waren die Flurstücke 597/5 und 598/2 sowie die Änderung des Bebauungsplans Nr. 112 (RIS-Vorlage 5370/2026). Nach dem Merkur-Bericht sollen 70 bis 80 Prozent des Grundstücks versiegelt werden. Die Grünen stimmten gegen die Voranfrage; als Kritik wird im Bericht die bereits angespannte Wassersituation im Großraum München genannt. Die vom Merkur gezeigte Visualisierung der Gemeinde enthält einen 25 Meter hohen Schornstein. Die bildliche Darstellung ist eine Planung, kein Foto eines bestehenden Gebäudes. Details der Beschlussformulierung und weitere Bedingungen sind noch anhand des Sitzungsprotokolls abzugleichen.\n\nAktualisierung vom 08.11.2026: Ein Bericht der Süddeutschen Zeitung vom 5. November schildert die Entwicklung mehrerer Rechenzentren in Aschheim, Kirchheim und Feldkirchen. Er ordnet den hohen Strombedarf solcher Anlagen und die regionale wirtschaftliche Bedeutung ein. Der Beitrag ergänzt die Debatte über das konkrete Feldkirchner Vorhaben, ersetzt aber weder dessen kommunale Prüfung noch einen Baugenehmigungsnachweis.",
+      "sources": [
+        {
+          "name": "RIS Feldkirchen – Beschlussvorlage 5370/2026",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8615",
+          "type": "primary_official",
+          "date": "2026-10-15",
+          "date_basis": "session_date",
+          "date_status": "verified_session_agenda_no_result"
+        },
+        {
+          "name": "RIS Feldkirchen – Gemeinderat 15.10.2026",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1031",
+          "type": "primary_official",
+          "date": "2026-10-15",
+          "date_basis": "session_date",
+          "date_status": "verified"
+        },
+        {
+          "name": "Münchner Merkur – Bert Brosch: Rechenzentrum in Feldkirchen: 70 bis 80 Prozent des Grundstücks sollen versiegelt werden (22.10.2026); Direktlink noch nicht ermittelt, Screenshot redaktionell vorliegend",
+          "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/rechenzentrum-in-feldkirchen-70-bis-80-prozent-des-grundstuecks-sollen-versiegelt-werden-94551845.html",
+          "type": "secondary_press_section_link",
+          "date": "2026-10-22",
+          "date_basis": "publication_date_shown_in_screenshot",
+          "date_status": "verified_permalink"
+        },
+        {
+          "name": "Süddeutsche Zeitung – Rechenleistung für das Isar-Valley",
+          "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/rechenzentren-feldkirchen-landkreis-muenchen-kirchheim-digitalisierung-li.3564262?reduced=true",
+          "type": "secondary_press",
+          "date": "2026-11-05",
+          "date_basis": "publication_date",
+          "date_status": "verified"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": null,
+      "research_refs": [
+        "R111"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen",
+        "related_places": [
+          "Feldkirchen"
+        ],
+        "scope": "feldkirchen_direct",
+        "verification_status": "verified_2026-10-20"
+      },
+      "established_topic_refs": [],
+      "stage_update_meta": {
+        "created_at": "2026-10-20",
+        "source_status": "Merkur screenshot verified; permalink and official resolution pending",
+        "updated_at": "2026-11-08",
+        "latest_source_date": "2026-11-05"
+      },
+      "search_tags": [
+        "Rechenzentrum",
+        "Bebauungsplan 112",
+        "Ortsentwicklung",
+        "Flächenversiegelung",
+        "Wasserverbrauch",
+        "Gemeinderatsbeschluss"
+      ]
+    },
+    {
+      "id": "R112",
+      "date": "2026-11-08",
+      "publication_date": "2026-10-15",
+      "category": "Natur & Umwelt",
+      "topic_candidates": [
+        "Griecherl-Gehölz",
+        "Münchner Straße",
+        "Baumschutz"
+      ],
+      "title": "Griecherl-Gehölz: Antrag der Grünen im Gemeinderat",
+      "subtitle": "Aktualisierung vom 08.11.2026: Der Gemeinderat nahm den Antrag zum Schutz des Kriecherl-Gehölzes einstimmig an; die Radwegplanung bleibt offen.",
+      "sachinformation": "Der Gemeinderat Feldkirchen hatte am 15. Oktober 2026 unter TOP 17 einen Antrag der Fraktion Bündnis 90/Die Grünen zum Schutz des Griecherl-Gehölzes an der Münchner Straße auf der öffentlichen Tagesordnung. Die Beschlussvorlage trägt die Nummer 5378/2026. Die Tagesordnung belegt den Beratungspunkt, aber noch kein Beschlussergebnis. Welche Schutzmaßnahmen beschlossen oder geprüft werden, bleibt daher offen.\n\nAktualisierung vom 08.11.2026: Laut Münchner Merkur vom 4. November hat der Gemeinderat den Antrag der Grünen zum Schutz des 170 Meter langen Kriecherl-Gehölzes an der Münchner Straße einstimmig angenommen. Das Gehölz soll beim geplanten Fuß- und Radweg weitgehend erhalten bleiben; die genaue Radwegführung und die Kosten sind noch zu klären. Die öffentliche Niederschrift wurde noch nicht abgeglichen.",
+      "sources": [
+        {
+          "name": "RIS Feldkirchen – Beschlussvorlage 5378/2026",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8623",
+          "type": "primary_official",
+          "date": "2026-10-15",
+          "date_basis": "session_date",
+          "date_status": "verified_session_agenda_no_result"
+        },
+        {
+          "name": "RIS Feldkirchen – Gemeinderat 15.10.2026",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1031",
+          "type": "primary_official",
+          "date": "2026-10-15",
+          "date_basis": "session_date",
+          "date_status": "verified"
+        },
+        {
+          "name": "Münchner Merkur – Feldkirchen schützt 60 Jahre altes Kriecherl-Gehölz trotz geplantem Radweg",
+          "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/feldkirchen-schuetzt-60-jahre-altes-kriecherl-gehoelz-trotz-geplantem-radweg-94572213.html",
+          "type": "secondary_press",
+          "date": "2026-11-04",
+          "date_basis": "publication_date",
+          "date_status": "verified"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": null,
+      "research_refs": [
+        "R112"
+      ],
+      "ortsbezug": {
+        "display_place": "Feldkirchen",
+        "related_places": [
+          "Feldkirchen"
+        ],
+        "scope": "feldkirchen_direct",
+        "verification_status": "verified_2026-10-20"
+      },
+      "established_topic_refs": [],
+      "stage_update_meta": {
+        "created_at": "2026-10-20",
+        "source_status": "RIS-Vorlage verifiziert; Beschlussergebnis ungeklärt",
+        "updated_at": "2026-11-08",
+        "latest_source_date": "2026-11-04"
+      },
+      "search_tags": [
+        "Griecherl-Gehölz",
+        "Münchner Straße",
+        "Baumschutz"
+      ]
+    },
+    {
+      "id": "R121",
+      "date": "2026-11-08",
+      "publication_date": "2026-11-05",
+      "category": "Natur & Umwelt",
+      "topic_candidates": [
+        "Heimstettener See",
+        "Badegewässer",
+        "Naherholung"
+      ],
+      "title": "Heimstettener See: Badewarnung aufgehoben",
+      "subtitle": "Das Landratsamt hat am 5. November Entwarnung gegeben: In der aktuellen Probe wurden keine Cyanobakterien festgestellt.",
+      "sachinformation": "Das Landratsamt München hat am 5. November 2026 die Badewarnung für den Heimstettener See aufgehoben. Bei einer Sichtprüfung am 3. November gab es keine Hinweise mehr auf ein erhöhtes Cyanobakterienvorkommen; auch die gleichzeitig entnommene Wasserprobe enthielt keine nachweisbaren Cyanobakterien. Die Warnschilder werden entfernt. Der See liegt in der Feldkirchener Nachbargemeinde Kirchheim, ist aber als regionales Naherholungsziel auch für Menschen aus Feldkirchen von Interesse. Dies ist ein räumlich-funktionaler Bezug, keine Meldung über ein Gewässer auf Feldkirchner Gemeindegebiet.",
+      "sources": [
+        {
+          "name": "Gemeinde Feldkirchen / Landratsamt München – Aufhebung der Badewarnung am Heimstettener See",
+          "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/aufhebung-der-badewarnung-am-heimstettener-see",
+          "type": "primary_official",
+          "date": "2026-11-05",
+          "date_basis": "publication_date",
+          "date_status": "verified"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": null,
+      "research_refs": [
+        "R121"
+      ],
+      "ortsbezug": {
+        "display_place": "Heimstettener See / Kirchheim",
+        "related_places": [
+          "Kirchheim",
+          "Feldkirchen"
+        ],
+        "scope": "regional_functional_feldkirchen_relevance",
+        "verification_status": "verified_2026-11-08"
+      },
+      "established_topic_refs": [],
+      "stage_update_meta": {
+        "created_at": "2026-11-08",
+        "source_status": "verified_official"
+      },
+      "search_tags": [
+        "Heimstettener See",
+        "Badewarnung",
+        "Blaualgen",
+        "Cyanobakterien",
+        "Naherholung"
+      ]
+    },
     {
       "id": "R115",
       "date": "2026-11-04",
@@ -500,66 +764,6 @@
       ]
     },
     {
-      "id": "R074",
-      "date": "2026-11-04",
-      "publication_date": "2026-09-19",
-      "category": "Mobilität & Verkehr",
-      "topic_candidates": [
-        "B471",
-        "B471 neu",
-        "Ortsumfahrung Feldkirchen",
-        "regionale Verkehrsplanung"
-      ],
-      "title": "„B471 neu“ endgültig verworfen – lokale Entlastungsmaßnahmen rücken in den Mittelpunkt",
-      "subtitle": "Aktualisierung vom 04.11.2026: Die Studie wurde kommunalen Vertretern vorgestellt; Feldkirchens Bürgermeister kritisiert die Ablehnung von Tempo 30.",
-      "sachinformation": "Die über Jahre untersuchte „B471 neu“ als durchgehende Autobahnparallele zwischen Aschheim und Hohenbrunn wird nicht weiterverfolgt. Nach dem Bericht des Münchner Merkur kommt die abgeschlossene Machbarkeitsstudie zu dem Ergebnis, dass keine der beiden untersuchten Varianten als durchgehende Entlastungsstraße empfohlen wird. Die Varianten wurden mit rund 50 beziehungsweise 90 Millionen Euro veranschlagt; dem hohen Aufwand stünde nur eine begrenzte Entlastungswirkung gegenüber.\\n\\nStattdessen sollen kleinere, lokal umsetzbare Maßnahmen entlang der B471 geprüft werden. Für Feldkirchen ist dabei besonders relevant, dass die Gutachter den Ausbau der A99 und die Ortsumfahrung Feldkirchen als weiterzuverfolgende Ansätze nennen. Außerdem werden für Ortsdurchfahrten – soweit rechtlich möglich – niedrigere Geschwindigkeiten, bessere Radverkehrsführungen, sichere Querungen und Bushaltestellen auf der Fahrbahn empfohlen. Der Mobilitätsausschuss des Landkreises beschloss laut Bericht einstimmig, das Gutachten an die beteiligten Kommunen weiterzugeben.",
-      "sources": [
-        {
-          "name": "Münchner Merkur – Autobahnparallele „B471 neu“ ist endgültig vom Tisch",
-          "url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/90-millionen-euro-kaum-nutzen-471-neu-wird-nicht-gebaut-94499321.html",
-          "type": "press",
-          "date": "2026-09-19",
-          "date_basis": "publication_date",
-          "date_status": "verified"
-        },
-        {
-          "name": "Münchner Merkur – 500.000-Euro-Studie zur B471 (02.11.2026)",
-          "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/500-000-euro-studie-zur-b471-autobahnparallele-wird-nicht-gebaut-94568464.html",
-          "type": "secondary_press",
-          "date": "2026-11-02",
-          "date_basis": "publication_date",
-          "date_status": "verified"
-        }
-      ],
-      "bisheriger_verlauf": [],
-      "unsere_einordnung": null,
-      "council": null,
-      "research_refs": [
-        "R074"
-      ],
-      "ortsbezug": {
-        "display_place": "Region München Ost / Feldkirchen",
-        "related_places": [
-          "Feldkirchen",
-          "Aschheim",
-          "Hohenbrunn"
-        ],
-        "scope": "regional_with_direct_feldkirchen_relevance",
-        "verification_status": "verified_2026-09-21"
-      },
-      "established_topic_refs": [],
-      "stage_update_meta": {
-        "created_at": "2026-09-21",
-        "source_status": "verified_press_report"
-      },
-      "search_tags": [
-        "B471",
-        "B471 neu",
-        "Ortsumfahrung Feldkirchen",
-        "regionale Verkehrsplanung"
-      ]
-    },
-    {
       "id": "R069",
       "date": "2026-10-28",
       "publication_date": "2026-09-15",
@@ -731,75 +935,6 @@
       ]
     },
     {
-      "id": "R111",
-      "date": "2026-10-22",
-      "publication_date": "2026-10-15",
-      "category": "Ortsentwicklung & Bauen",
-      "topic_candidates": [
-        "Rechenzentrum",
-        "Bebauungsplan 112",
-        "Ortsentwicklung"
-      ],
-      "title": "Rechenzentrum: Gemeinderat befürwortet Voranfrage – Kritik an Flächenversiegelung",
-      "subtitle": "Aktualisierung vom 22.10.2026 (Merkur-Bericht zur Entscheidung vom 15. Oktober): 70 bis 80 Prozent Versiegelung vorgesehen; Grüne stimmten dagegen.",
-      "sachinformation": "Der Gemeinderat Feldkirchen hat laut einem am 22. Oktober 2026 veröffentlichten Bericht des Münchner Merkur (Bert Brosch) eine Voranfrage für ein Rechenzentrum grundsätzlich positiv beschieden. Gegenstand der Gemeinderatssitzung vom 15. Oktober waren die Flurstücke 597/5 und 598/2 sowie die Änderung des Bebauungsplans Nr. 112 (RIS-Vorlage 5370/2026). Nach dem Merkur-Bericht sollen 70 bis 80 Prozent des Grundstücks versiegelt werden. Die Grünen stimmten gegen die Voranfrage; als Kritik wird im Bericht die bereits angespannte Wassersituation im Großraum München genannt. Die vom Merkur gezeigte Visualisierung der Gemeinde enthält einen 25 Meter hohen Schornstein. Die bildliche Darstellung ist eine Planung, kein Foto eines bestehenden Gebäudes. Details der Beschlussformulierung und weitere Bedingungen sind noch anhand des Sitzungsprotokolls abzugleichen.",
-      "sources": [
-        {
-          "name": "RIS Feldkirchen – Beschlussvorlage 5370/2026",
-          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8615",
-          "type": "primary_official",
-          "date": "2026-10-15",
-          "date_basis": "session_date",
-          "date_status": "verified_session_agenda_no_result"
-        },
-        {
-          "name": "RIS Feldkirchen – Gemeinderat 15.10.2026",
-          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1031",
-          "type": "primary_official",
-          "date": "2026-10-15",
-          "date_basis": "session_date",
-          "date_status": "verified"
-        },
-        {
-          "name": "Münchner Merkur – Bert Brosch: Rechenzentrum in Feldkirchen: 70 bis 80 Prozent des Grundstücks sollen versiegelt werden (22.10.2026); Direktlink noch nicht ermittelt, Screenshot redaktionell vorliegend",
-          "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/rechenzentrum-in-feldkirchen-70-bis-80-prozent-des-grundstuecks-sollen-versiegelt-werden-94551845.html",
-          "type": "secondary_press_section_link",
-          "date": "2026-10-22",
-          "date_basis": "publication_date_shown_in_screenshot",
-          "date_status": "verified_permalink"
-        }
-      ],
-      "bisheriger_verlauf": [],
-      "unsere_einordnung": null,
-      "council": null,
-      "research_refs": [
-        "R111"
-      ],
-      "ortsbezug": {
-        "display_place": "Feldkirchen",
-        "related_places": [
-          "Feldkirchen"
-        ],
-        "scope": "feldkirchen_direct",
-        "verification_status": "verified_2026-10-20"
-      },
-      "established_topic_refs": [],
-      "stage_update_meta": {
-        "created_at": "2026-10-20",
-        "source_status": "Merkur screenshot verified; permalink and official resolution pending",
-        "updated_at": "2026-10-22",
-        "latest_source_date": "2026-10-22"
-      },
-      "search_tags": [
-        "Rechenzentrum",
-        "Bebauungsplan 112",
-        "Ortsentwicklung",
-        "Flächenversiegelung",
-        "Wasserverbrauch",
-        "Gemeinderatsbeschluss"
-      ]
-    },
-    {
       "id": "R114",
       "date": "2026-10-22",
       "publication_date": "2026-10-22",
@@ -895,62 +1030,6 @@
         "source_status": "verified_official",
         "updated_at": "2026-10-28"
       }
-    },
-    {
-      "id": "R112",
-      "date": "2026-10-15",
-      "publication_date": "2026-10-15",
-      "category": "Natur & Umwelt",
-      "topic_candidates": [
-        "Griecherl-Gehölz",
-        "Münchner Straße",
-        "Baumschutz"
-      ],
-      "title": "Griecherl-Gehölz: Antrag der Grünen im Gemeinderat",
-      "subtitle": "Der Schutz des Gehölzes an der Münchner Straße stand am 15. Oktober auf der Tagesordnung. Ein Beschluss ist noch nicht verifiziert.",
-      "sachinformation": "Der Gemeinderat Feldkirchen hatte am 15. Oktober 2026 unter TOP 17 einen Antrag der Fraktion Bündnis 90/Die Grünen zum Schutz des Griecherl-Gehölzes an der Münchner Straße auf der öffentlichen Tagesordnung. Die Beschlussvorlage trägt die Nummer 5378/2026. Die Tagesordnung belegt den Beratungspunkt, aber noch kein Beschlussergebnis. Welche Schutzmaßnahmen beschlossen oder geprüft werden, bleibt daher offen.",
-      "sources": [
-        {
-          "name": "RIS Feldkirchen – Beschlussvorlage 5378/2026",
-          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/vo0050.asp?__kvonr=8623",
-          "type": "primary_official",
-          "date": "2026-10-15",
-          "date_basis": "session_date",
-          "date_status": "verified_session_agenda_no_result"
-        },
-        {
-          "name": "RIS Feldkirchen – Gemeinderat 15.10.2026",
-          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/si0057.asp?__ksinr=1031",
-          "type": "primary_official",
-          "date": "2026-10-15",
-          "date_basis": "session_date",
-          "date_status": "verified"
-        }
-      ],
-      "bisheriger_verlauf": [],
-      "unsere_einordnung": null,
-      "council": null,
-      "research_refs": [
-        "R112"
-      ],
-      "ortsbezug": {
-        "display_place": "Feldkirchen",
-        "related_places": [
-          "Feldkirchen"
-        ],
-        "scope": "feldkirchen_direct",
-        "verification_status": "verified_2026-10-20"
-      },
-      "established_topic_refs": [],
-      "stage_update_meta": {
-        "created_at": "2026-10-20",
-        "source_status": "RIS-Vorlage verifiziert; Beschlussergebnis ungeklärt"
-      },
-      "search_tags": [
-        "Griecherl-Gehölz",
-        "Münchner Straße",
-        "Baumschutz"
-      ]
     },
     {
       "id": "R113",
