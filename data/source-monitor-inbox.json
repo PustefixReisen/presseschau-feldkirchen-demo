@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-08T11:19:07+00:00",
+  "updated_at": "2026-11-09T12:56:07+00:00",
   "items": [
     {
       "event_key": "document:feldkirchen-parkraum-2026:https://www.feldkirchen.de/_Resources/Persistent/d/3/d/e/d3dee38ce3c4a9ad01384ca6ed314a2a8f8bcc12/2026%20Parkraumkonzept%20gem%20GR-Beschluss.pdf:4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
@@ -8423,6 +8423,86 @@
       "source_name": "Süddeutsche Zeitung – Landkreis München",
       "kind": "link_new",
       "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/putzbrunn-alter-wirt-hassan-zohaib-li.3555291",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:feldkirchen-aktuelle-meldungen:https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/online-befragung-zur-naturvielfalt-im-landkreis-muenchen",
+      "detected_at": "2026-11-09T12:55:13+00:00",
+      "source_id": "feldkirchen-aktuelle-meldungen",
+      "source_name": "Gemeinde Feldkirchen – Aktuelle Meldungen",
+      "kind": "link_new",
+      "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/online-befragung-zur-naturvielfalt-im-landkreis-muenchen",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/astrophysiker-radelt-805-km-garching-dominiert-das-stadtradeln-94579647.html",
+      "detected_at": "2026-11-09T12:56:02+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/astrophysiker-radelt-805-km-garching-dominiert-das-stadtradeln-94579647.html",
+      "link_text": "Astrophysiker radelt 2805 km: Garching dominiert das Stadtradeln",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/putzbrunn-ort29323/tempo-30-vor-putzbrunner-gymnasium-gemeinderat-stimmt-einstimmig-zu-94579700.html",
+      "detected_at": "2026-11-09T12:56:02+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/putzbrunn-ort29323/tempo-30-vor-putzbrunner-gymnasium-gemeinderat-stimmt-einstimmig-zu-94579700.html",
+      "link_text": "Tempo 30 vor Putzbrunner Gymnasium: Gemeinderat stimmt einstimmig zu",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/sauerlach-ort117101/muenchner-christbaum-am-marienplatz-buergermeister-faellte-ihn-selbst-94579704.html",
+      "detected_at": "2026-11-09T12:56:02+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/sauerlach-ort117101/muenchner-christbaum-am-marienplatz-buergermeister-faellte-ihn-selbst-94579704.html",
+      "link_text": "Christbaum am Marienplatz aus Sauerlach: Bürgermeister fällte ihn selbst",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/nur-von-64-autos-falsch-geparkt-dornachs-kontrollen-zeigen-wirkung-94579702.html",
+      "detected_at": "2026-11-09T12:56:02+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/nur-von-64-autos-falsch-geparkt-dornachs-kontrollen-zeigen-wirkung-94579702.html",
+      "link_text": "Nur wenige Autos falsch geparkt: P+R-Kontrollen in Dornach zeigen Wirkung",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/neubiberg-ort29121/johanna-rumschoettel-die-zaehlkandidatin-die-landraetin-wurde-94577748.html",
+      "detected_at": "2026-11-09T12:56:02+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/neubiberg-ort29121/johanna-rumschoettel-die-zaehlkandidatin-die-landraetin-wurde-94577748.html",
+      "link_text": "Johanna Rumschöttel: Die Alibi-Kandidatin, die Landrätin wurde",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/aschheim-realschule-digitalisierung-senioren-li.3569294",
+      "detected_at": "2026-11-09T12:56:07+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/aschheim-realschule-digitalisierung-senioren-li.3569294",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/polizei-unterhaching-tipps-praevention-einbrueche-li.3577015",
+      "detected_at": "2026-11-09T12:56:07+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/polizei-unterhaching-tipps-praevention-einbrueche-li.3577015",
       "link_text": "",
       "status": "unprocessed"
     }
