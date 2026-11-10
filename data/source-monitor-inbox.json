@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-09T12:56:07+00:00",
+  "updated_at": "2026-11-10T12:42:00+00:00",
   "items": [
     {
       "event_key": "document:feldkirchen-parkraum-2026:https://www.feldkirchen.de/_Resources/Persistent/d/3/d/e/d3dee38ce3c4a9ad01384ca6ed314a2a8f8bcc12/2026%20Parkraumkonzept%20gem%20GR-Beschluss.pdf:4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
@@ -8503,6 +8503,206 @@
       "source_name": "Süddeutsche Zeitung – Landkreis München",
       "kind": "link_new",
       "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/polizei-unterhaching-tipps-praevention-einbrueche-li.3577015",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:landkreis-muenchen:https://www.landkreis-muenchen.de/artikel/was-verbirgt-sich-hinter-naturvielfalt-leben/",
+      "detected_at": "2026-11-10T12:41:43+00:00",
+      "source_id": "landkreis-muenchen",
+      "source_name": "Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.landkreis-muenchen.de/artikel/was-verbirgt-sich-hinter-naturvielfalt-leben/",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/christkindlmarkt-abgesagt-kirchheimer-vereine-verkaufen-plaetzchen-deko-jetzt-anderweitig-94581515.html",
+      "detected_at": "2026-11-10T12:41:54+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/christkindlmarkt-abgesagt-kirchheimer-vereine-verkaufen-plaetzchen-deko-jetzt-anderweitig-94581515.html",
+      "link_text": "Christkindlmarkt abgesagt: Kirchheimer Vereine verkaufen Plätzchen & Deko jetzt anderweitig",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/gruenwald-ort28770/hauerbrezn-lebt-weiter-baeckerei-reis-rettet-die-gruenwalder-kultbrezn-94581522.html",
+      "detected_at": "2026-11-10T12:41:54+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/gruenwald-ort28770/hauerbrezn-lebt-weiter-baeckerei-reis-rettet-die-gruenwalder-kultbrezn-94581522.html",
+      "link_text": "Hauerbrezn lebt weiter: Bäckerei Reis rettet die Grünwalder Kultbrezn",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/schaeftlarn-ort73337/jedes-fuenfte-auto-zu-schnell-starnberger-strasse-ist-spitzenreiter-in-schaeftlarn-94581495.html",
+      "detected_at": "2026-11-10T12:41:54+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/schaeftlarn-ort73337/jedes-fuenfte-auto-zu-schnell-starnberger-strasse-ist-spitzenreiter-in-schaeftlarn-94581495.html",
+      "link_text": "Jedes fünfte Auto zu schnell: Starnberger Straße ist Spitzenreiter in Schäftlarn",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/unterfoehring-ort29618/unterfoehring-zahlt-189-kita-mitarbeitern-bis-2028-weiter-200-euro-extra-94581724.html",
+      "detected_at": "2026-11-10T12:41:54+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/unterfoehring-ort29618/unterfoehring-zahlt-189-kita-mitarbeitern-bis-2028-weiter-200-euro-extra-94581724.html",
+      "link_text": "Arbeitsmarktzulage: Unterföhring zahlt Kita-Mitarbeitern bis 2028 weiter 200 Euro extra",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/oberschleissheim-ort29202/vhs-oberschleissheim-droht-pleite-gemeinde-verweigert-17-000-euro-94581499.html",
+      "detected_at": "2026-11-10T12:41:54+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/oberschleissheim-ort29202/vhs-oberschleissheim-droht-pleite-gemeinde-verweigert-17-000-euro-94581499.html",
+      "link_text": "VHS Oberschleißheim droht Pleite: Vorsitzender hofft auf Spenden – Keine weiteren Gemeinde-Zuschsüsse",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/christkindlmarkt-kirchheim-abgesagt-gemeinde-fehlen-millionen-euro-94578124.html",
+      "detected_at": "2026-11-10T12:41:54+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/christkindlmarkt-kirchheim-abgesagt-gemeinde-fehlen-millionen-euro-94578124.html",
+      "link_text": "Christkindlmarkt abgesagt: Vereinen brechen Einnahmen weg – Auch Seniorenweihnachtsfeier entfällt",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/feldkirchen-olympiapark-architekt-auer-und-designer-muth-sitzen-ploetzlich-live-im-publikum-94579728.html",
+      "detected_at": "2026-11-10T12:41:54+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/feldkirchen-olympiapark-architekt-auer-und-designer-muth-sitzen-ploetzlich-live-im-publikum-94579728.html",
+      "link_text": "Olympiapark-Architekt Auer und Designer Muth sitzen plötzlich live im Publikum",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/vier-muellcontainer-brennen-polizei-ermittelt-zur-ursache-94581514.html",
+      "detected_at": "2026-11-10T12:41:54+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/vier-muellcontainer-brennen-polizei-ermittelt-zur-ursache-94581514.html",
+      "link_text": "Vier Müllcontainer brennen in Haar – Polizei ermittelt zur Ursache",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/brunnthal-ort377264/sechs-autos-auf-parkplatz-eines-gebrauchtwagenhaendlers-in-flammen-94581513.html",
+      "detected_at": "2026-11-10T12:41:54+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/brunnthal-ort377264/sechs-autos-auf-parkplatz-eines-gebrauchtwagenhaendlers-in-flammen-94581513.html",
+      "link_text": "Sechs Autos auf Parkplatz eines Gebrauchtwagenhändlers in Flammen",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/premiere-friede-freude-fruechtepunsch-setzt-messlatte-fuer-anstehendes-jubilaeumsjahr-hoch-94579652.html",
+      "detected_at": "2026-11-10T12:41:54+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/premiere-friede-freude-fruechtepunsch-setzt-messlatte-fuer-anstehendes-jubilaeumsjahr-hoch-94579652.html",
+      "link_text": "Premiere: „Friede, Freude, Früchtepunsch“ setzt Messlatte für anstehendes Jubiläumsjahr hoch",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-feldkirchen:https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/feldkirchen-olympiapark-architekt-auer-und-designer-muth-sitzen-ploetzlich-live-im-publikum-94579728.html",
+      "detected_at": "2026-11-10T12:41:55+00:00",
+      "source_id": "merkur-feldkirchen",
+      "source_name": "Münchner Merkur – Feldkirchen",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/feldkirchen-olympiapark-architekt-auer-und-designer-muth-sitzen-ploetzlich-live-im-publikum-94579728.html",
+      "link_text": "Olympiapark-Architekt Auer und Designer Muth sitzen plötzlich live im Publikum",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-aschheim:https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/nur-von-64-autos-falsch-geparkt-dornachs-kontrollen-zeigen-wirkung-94579702.html",
+      "detected_at": "2026-11-10T12:41:56+00:00",
+      "source_id": "merkur-aschheim",
+      "source_name": "Münchner Merkur – Aschheim",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/nur-von-64-autos-falsch-geparkt-dornachs-kontrollen-zeigen-wirkung-94579702.html",
+      "link_text": "Nur wenige Autos falsch geparkt: P+R-Kontrollen in Dornach zeigen Wirkung",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-kirchheim:https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/christkindlmarkt-abgesagt-kirchheimer-vereine-verkaufen-plaetzchen-deko-jetzt-anderweitig-94581515.html",
+      "detected_at": "2026-11-10T12:41:58+00:00",
+      "source_id": "merkur-kirchheim",
+      "source_name": "Münchner Merkur – Kirchheim",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/christkindlmarkt-abgesagt-kirchheimer-vereine-verkaufen-plaetzchen-deko-jetzt-anderweitig-94581515.html",
+      "link_text": "Christkindlmarkt abgesagt: Kirchheimer Vereine verkaufen Plätzchen & Deko jetzt anderweitig",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-kirchheim:https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/christkindlmarkt-kirchheim-abgesagt-gemeinde-fehlen-millionen-euro-94578124.html",
+      "detected_at": "2026-11-10T12:41:58+00:00",
+      "source_id": "merkur-kirchheim",
+      "source_name": "Münchner Merkur – Kirchheim",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/christkindlmarkt-kirchheim-abgesagt-gemeinde-fehlen-millionen-euro-94578124.html",
+      "link_text": "Christkindlmarkt abgesagt: Vereinen brechen Einnahmen weg – Auch Seniorenweihnachtsfeier entfällt",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-haar:https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/vier-muellcontainer-brennen-polizei-ermittelt-zur-ursache-94581514.html",
+      "detected_at": "2026-11-10T12:41:59+00:00",
+      "source_id": "merkur-haar",
+      "source_name": "Münchner Merkur – Haar",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/vier-muellcontainer-brennen-polizei-ermittelt-zur-ursache-94581514.html",
+      "link_text": "Vier Müllcontainer brennen in Haar – Polizei ermittelt zur Ursache",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/perlacher-forst-exkursion-hitzesommer-klimawandel-li.3548469",
+      "detected_at": "2026-11-10T12:42:00+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/perlacher-forst-exkursion-hitzesommer-klimawandel-li.3548469",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/wort-bild-verlag-baierbrunn-apotheken-umschau-stellenabbau-redaktion-li.3577645",
+      "detected_at": "2026-11-10T12:42:00+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/wort-bild-verlag-baierbrunn-apotheken-umschau-stellenabbau-redaktion-li.3577645",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/isartalverein-susanna-tausendfreund-pullach-naturschutz-muenchen-li.3577528",
+      "detected_at": "2026-11-10T12:42:00+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/isartalverein-susanna-tausendfreund-pullach-naturschutz-muenchen-li.3577528",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/brunnthal-feuer-polizei-autos-gebrauchtwagen-li.3577615",
+      "detected_at": "2026-11-10T12:42:00+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/brunnthal-feuer-polizei-autos-gebrauchtwagen-li.3577615",
       "link_text": "",
       "status": "unprocessed"
     }
