@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-10T12:42:00+00:00",
+  "updated_at": "2026-11-11T11:54:26+00:00",
   "items": [
     {
       "event_key": "document:feldkirchen-parkraum-2026:https://www.feldkirchen.de/_Resources/Persistent/d/3/d/e/d3dee38ce3c4a9ad01384ca6ed314a2a8f8bcc12/2026%20Parkraumkonzept%20gem%20GR-Beschluss.pdf:4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
@@ -8703,6 +8703,166 @@
       "source_name": "Süddeutsche Zeitung – Landkreis München",
       "kind": "link_new",
       "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/brunnthal-feuer-polizei-autos-gebrauchtwagen-li.3577615",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:landkreis-muenchen:https://www.landkreis-muenchen.de/artikel/amtsblatt-39-2026/",
+      "detected_at": "2026-11-11T11:54:12+00:00",
+      "source_id": "landkreis-muenchen",
+      "source_name": "Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.landkreis-muenchen.de/artikel/amtsblatt-39-2026/",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:landkreis-muenchen:https://www.landkreis-muenchen.de/baustellen-sperrungen/",
+      "detected_at": "2026-11-11T11:54:12+00:00",
+      "source_id": "landkreis-muenchen",
+      "source_name": "Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.landkreis-muenchen.de/baustellen-sperrungen/",
+      "link_text": "Baustellen & Sperrungen",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:landkreis-muenchen:https://www.landkreis-muenchen.de/themen/energie-klimaschutz/klimaanpassung-im-landkreis-muenchen/",
+      "detected_at": "2026-11-11T11:54:12+00:00",
+      "source_id": "landkreis-muenchen",
+      "source_name": "Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.landkreis-muenchen.de/themen/energie-klimaschutz/klimaanpassung-im-landkreis-muenchen/",
+      "link_text": "Wetter-Warnungen Bayern",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/ottobrunn-ort29241/it-mann-aus-ottobrunn-schreibt-kinderbuch-inspiriert-von-neffen-94583344.html",
+      "detected_at": "2026-11-11T11:54:21+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/ottobrunn-ort29241/it-mann-aus-ottobrunn-schreibt-kinderbuch-inspiriert-von-neffen-94583344.html",
+      "link_text": "IT-Mann aus Ottobrunn schreibt Kinderbuch – inspiriert von Neffen",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/gruenwald-ort28770/neue-ausstellung-im-landratsamt-zeigt-den-landkreis-muenchen-in-der-nazi-zeit-94583186.html",
+      "detected_at": "2026-11-11T11:54:21+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/gruenwald-ort28770/neue-ausstellung-im-landratsamt-zeigt-den-landkreis-muenchen-in-der-nazi-zeit-94583186.html",
+      "link_text": "Neue Ausstellung im Landratsamt zeigt den Landkreis in der Nazi-Zeit",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/hoehenkirchen-siegertsbrunn-ort100556/falsche-polizisten-scheitern-viermal-an-senioren-in-hoehenkirchen-siegertsbrunn-94584785.html",
+      "detected_at": "2026-11-11T11:54:21+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/hoehenkirchen-siegertsbrunn-ort100556/falsche-polizisten-scheitern-viermal-an-senioren-in-hoehenkirchen-siegertsbrunn-94584785.html",
+      "link_text": "Falsche Polizisten scheitern viermal an Senioren in Höhenkirchen-Siegertsbrunn",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/taufkirchen-bei-muenchen-ort486320/doppelt-so-schnell-wie-erlaubt-raser-faehrt-160-km-auf-autobahn-bei-muenchen-94584687.html",
+      "detected_at": "2026-11-11T11:54:21+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/taufkirchen-bei-muenchen-ort486320/doppelt-so-schnell-wie-erlaubt-raser-faehrt-160-km-auf-autobahn-bei-muenchen-94584687.html",
+      "link_text": "Doppelt so schnell wie erlaubt: Raser fährt 160 km/h auf Autobahn bei München",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/feldkirchens-kita-gebuehren-bleiben-2027-eingefroren-trotz-millionendefizit-94583443.html",
+      "detected_at": "2026-11-11T11:54:21+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/feldkirchens-kita-gebuehren-bleiben-2027-eingefroren-trotz-millionendefizit-94583443.html",
+      "link_text": "Feldkirchens Kita-Gebühren bleiben 2027 eingefroren – trotz Millionendefizit",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/schaeftlarn-ort73337/thomas-mann-wollte-ihn-als-uebersetzer-doch-scheffauer-starb-im-selben-jahr-94583352.html",
+      "detected_at": "2026-11-11T11:54:21+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/schaeftlarn-ort73337/thomas-mann-wollte-ihn-als-uebersetzer-doch-scheffauer-starb-im-selben-jahr-94583352.html",
+      "link_text": "Thomas Mann wollte ihn als Übersetzer – doch Scheffauer starb im selben Jahr",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/b304-sperrung-in-haar-stau-nimmt-zu-doch-auf-manchen-strassen-laeuft-schneller-94583348.html",
+      "detected_at": "2026-11-11T11:54:21+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/b304-sperrung-in-haar-stau-nimmt-zu-doch-auf-manchen-strassen-laeuft-schneller-94583348.html",
+      "link_text": "B304-Sperrung in Haar: Stau nimmt zu, doch auf manchen Straßen läuft‘s schneller",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/falsche-handwerker-stehlen-senior-in-unterhaching-schmuck-im-wert-von-tausenden-euro-94583167.html",
+      "detected_at": "2026-11-11T11:54:21+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/falsche-handwerker-stehlen-senior-in-unterhaching-schmuck-im-wert-von-tausenden-euro-94583167.html",
+      "link_text": "Falsche Handwerker stehlen Senior  Schmuck im Wert von Tausenden Euro",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-feldkirchen:https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/feldkirchens-kita-gebuehren-bleiben-2027-eingefroren-trotz-millionendefizit-94583443.html",
+      "detected_at": "2026-11-11T11:54:22+00:00",
+      "source_id": "merkur-feldkirchen",
+      "source_name": "Münchner Merkur – Feldkirchen",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/feldkirchens-kita-gebuehren-bleiben-2027-eingefroren-trotz-millionendefizit-94583443.html",
+      "link_text": "Feldkirchens Kita-Gebühren bleiben 2027 eingefroren – trotz Millionendefizit",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-haar:https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/b304-sperrung-in-haar-stau-nimmt-zu-doch-auf-manchen-strassen-laeuft-schneller-94583348.html",
+      "detected_at": "2026-11-11T11:54:26+00:00",
+      "source_id": "merkur-haar",
+      "source_name": "Münchner Merkur – Haar",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/b304-sperrung-in-haar-stau-nimmt-zu-doch-auf-manchen-strassen-laeuft-schneller-94583348.html",
+      "link_text": "B304-Sperrung in Haar: Stau nimmt zu, doch auf manchen Straßen läuft‘s schneller",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/autobahnen-landkreis-muenchen-verkehrskontrolle-raser-li.3578840",
+      "detected_at": "2026-11-11T11:54:26+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/autobahnen-landkreis-muenchen-verkehrskontrolle-raser-li.3578840",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/sammlung-lothar-schirmer-ismaning-kallmann-museum-gerhard-richter-henri-cartier-bresson-li.3572442",
+      "detected_at": "2026-11-11T11:54:26+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/sammlung-lothar-schirmer-ismaning-kallmann-museum-gerhard-richter-henri-cartier-bresson-li.3572442",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/kirchheim-christkindlmarkt-absage-haushaltssperre-li.3577846",
+      "detected_at": "2026-11-11T11:54:26+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/kirchheim-christkindlmarkt-absage-haushaltssperre-li.3577846",
       "link_text": "",
       "status": "unprocessed"
     }
