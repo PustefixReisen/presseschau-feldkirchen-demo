@@ -74,6 +74,105 @@
       ]
     },
     {
+      "id": "R074",
+      "date": "2026-11-11",
+      "publication_date": "2026-09-19",
+      "category": "Mobilität & Verkehr",
+      "topic_candidates": [
+        "B471",
+        "B471 neu",
+        "Ortsumfahrung Feldkirchen",
+        "regionale Verkehrsplanung"
+      ],
+      "title": "„B471 neu“ endgültig verworfen – lokale Entlastungsmaßnahmen rücken in den Mittelpunkt",
+      "subtitle": "Aktualisierung vom 11.11.2026: Die gemeinsame Sitzung vom 28. Oktober in Haar mit Vertretern aus Feldkirchen und Kirchheim ist nachgetragen.",
+      "sachinformation": "Die über Jahre untersuchte „B471 neu“ als durchgehende Autobahnparallele zwischen Aschheim und Hohenbrunn wird nicht weiterverfolgt. Nach dem Bericht des Münchner Merkur kommt die abgeschlossene Machbarkeitsstudie zu dem Ergebnis, dass keine der beiden untersuchten Varianten als durchgehende Entlastungsstraße empfohlen wird. Die Varianten wurden mit rund 50 beziehungsweise 90 Millionen Euro veranschlagt; dem hohen Aufwand stünde nur eine begrenzte Entlastungswirkung gegenüber.\\n\\nStattdessen sollen kleinere, lokal umsetzbare Maßnahmen entlang der B471 geprüft werden. Für Feldkirchen ist dabei besonders relevant, dass die Gutachter den Ausbau der A99 und die Ortsumfahrung Feldkirchen als weiterzuverfolgende Ansätze nennen. Außerdem werden für Ortsdurchfahrten – soweit rechtlich möglich – niedrigere Geschwindigkeiten, bessere Radverkehrsführungen, sichere Querungen und Bushaltestellen auf der Fahrbahn empfohlen. Der Mobilitätsausschuss des Landkreises beschloss laut Bericht einstimmig, das Gutachten an die beteiligten Kommunen weiterzugeben.\n\nAktualisierung vom 08.11.2026: Die Süddeutsche Zeitung ordnet am 5. November die Entscheidung gegen eine neue Schnellstraße parallel zur A99 und mögliche Folgen für Haar, Kirchheim und Feldkirchen ein. Dabei handelt es sich um einen zusätzlichen Bericht und eine Einordnung, nicht um einen neuen Trassenbeschluss.\n\nNachtrag vom 11. November 2026 zur gemeinsamen Sitzung am 28. Oktober: In Haar wurden die Ergebnisse der etwa 500.000 Euro teuren Machbarkeitsstudie zur B471 neu vor Stadt- und Gemeinderäten aus Haar, Kirchheim und Feldkirchen vorgestellt. Die Gutachter der Bernard-Gruppe empfehlen keine der zwei untersuchten durchgehenden Trassenvarianten; sie würden bis zu etwa 90 Millionen Euro kosten und die bestehenden Verkehrsprobleme nicht ausreichend lösen. Teilweise kommen örtliche Verbesserungen oder einzelne Umfahrungen weiterhin in Betracht. Der Bericht von B304 vom 30. Oktober und die Onlineausgabe von Hallo vom 2. November dokumentieren die gemeinsame Veranstaltung und Reaktionen der Kommunalpolitik. Die Veranstaltung war eine Präsentation und Diskussion des Gutachtens; ein neuer Beschluss zur Trasse ist daraus nicht nachgewiesen. Das Feldkirchner RIS führt den 28. Oktober als Gemeinderat, Sonstiger Termin. Diese Zusammenhänge waren im bisherigen FIB-Beitrag nicht ausdrücklich dargestellt.",
+      "sources": [
+        {
+          "name": "Münchner Merkur – Autobahnparallele „B471 neu“ ist endgültig vom Tisch",
+          "url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/90-millionen-euro-kaum-nutzen-471-neu-wird-nicht-gebaut-94499321.html",
+          "type": "press",
+          "date": "2026-09-19",
+          "date_basis": "publication_date",
+          "date_status": "verified"
+        },
+        {
+          "name": "Münchner Merkur – 500.000-Euro-Studie zur B471 (02.11.2026)",
+          "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/500-000-euro-studie-zur-b471-autobahnparallele-wird-nicht-gebaut-94568464.html",
+          "type": "secondary_press",
+          "date": "2026-11-02",
+          "date_basis": "publication_date",
+          "date_status": "verified"
+        },
+        {
+          "name": "Süddeutsche Zeitung – Jetzt bleibt nur noch der Traum vom Fliegen",
+          "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/muenchner-osten-verkehr-flugtaxi-autobahnparallele-haar-li.3571016?reduced=true",
+          "type": "secondary_press",
+          "date": "2026-11-05",
+          "date_basis": "publication_date",
+          "date_status": "verified"
+        },
+        {
+          "name": "B304 – B471-Studie für fast 500.000 Euro: Keine Variante überzeugt",
+          "url": "https://b304.de/b471-studie-fuer-fast-500-000-euro-keine-variante-ueberzeugt/",
+          "type": "secondary_press",
+          "date": "2026-10-30",
+          "date_basis": "publication_date",
+          "date_status": "verified"
+        },
+        {
+          "name": "Hallo München – 500.000-Euro-Studie zur B471: Autobahnparallele wird nicht gebaut",
+          "url": "https://www.hallo-muenchen.de/hallo-verlag/500-000-euro-studie-zur-b471-autobahnparallele-wird-nicht-gebaut-94568464.html",
+          "type": "secondary_press",
+          "date": "2026-11-02",
+          "date_basis": "publication_date",
+          "date_status": "verified"
+        },
+        {
+          "name": "RIS Feldkirchen – Dokumentenfreigabe Sitzung 28.10.2026, sonstiger Termin",
+          "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/do0040.asp?smcadat=2461095",
+          "type": "primary_official_index",
+          "date": "2026-10-27",
+          "date_basis": "public_release_listing",
+          "date_status": "verified"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": null,
+      "research_refs": [
+        "R074"
+      ],
+      "ortsbezug": {
+        "display_place": "Region München Ost / Feldkirchen",
+        "related_places": [
+          "Feldkirchen",
+          "Aschheim",
+          "Hohenbrunn"
+        ],
+        "scope": "regional_with_direct_feldkirchen_relevance",
+        "verification_status": "verified_2026-09-21"
+      },
+      "established_topic_refs": [],
+      "stage_update_meta": {
+        "created_at": "2026-09-21",
+        "source_status": "cross_source_meeting_report_verified_outcome_not_confirmed",
+        "updated_at": "2026-11-11",
+        "latest_source_date": "2026-11-05"
+      },
+      "search_tags": [
+        "B471",
+        "B471 neu",
+        "Ortsumfahrung Feldkirchen",
+        "regionale Verkehrsplanung",
+        "28. Oktober 2026",
+        "Machbarkeitsstudie",
+        "A99 Autobahnparallele",
+        "Haar",
+        "Kirchheim"
+      ]
+    },
+    {
       "id": "R084",
       "date": "2026-11-09",
       "publication_date": "2026-09-25",
@@ -171,76 +270,6 @@
         "A99-Abfahrverbot",
         "Zisternenzuschuss",
         "Park am Friedhof"
-      ]
-    },
-    {
-      "id": "R074",
-      "date": "2026-11-08",
-      "publication_date": "2026-09-19",
-      "category": "Mobilität & Verkehr",
-      "topic_candidates": [
-        "B471",
-        "B471 neu",
-        "Ortsumfahrung Feldkirchen",
-        "regionale Verkehrsplanung"
-      ],
-      "title": "„B471 neu“ endgültig verworfen – lokale Entlastungsmaßnahmen rücken in den Mittelpunkt",
-      "subtitle": "Aktualisierung vom 08.11.2026: Die SZ berichtet über die Konsequenzen der verworfenen Autobahnparallele für den Verkehr im Münchner Osten.",
-      "sachinformation": "Die über Jahre untersuchte „B471 neu“ als durchgehende Autobahnparallele zwischen Aschheim und Hohenbrunn wird nicht weiterverfolgt. Nach dem Bericht des Münchner Merkur kommt die abgeschlossene Machbarkeitsstudie zu dem Ergebnis, dass keine der beiden untersuchten Varianten als durchgehende Entlastungsstraße empfohlen wird. Die Varianten wurden mit rund 50 beziehungsweise 90 Millionen Euro veranschlagt; dem hohen Aufwand stünde nur eine begrenzte Entlastungswirkung gegenüber.\\n\\nStattdessen sollen kleinere, lokal umsetzbare Maßnahmen entlang der B471 geprüft werden. Für Feldkirchen ist dabei besonders relevant, dass die Gutachter den Ausbau der A99 und die Ortsumfahrung Feldkirchen als weiterzuverfolgende Ansätze nennen. Außerdem werden für Ortsdurchfahrten – soweit rechtlich möglich – niedrigere Geschwindigkeiten, bessere Radverkehrsführungen, sichere Querungen und Bushaltestellen auf der Fahrbahn empfohlen. Der Mobilitätsausschuss des Landkreises beschloss laut Bericht einstimmig, das Gutachten an die beteiligten Kommunen weiterzugeben.\n\nAktualisierung vom 08.11.2026: Die Süddeutsche Zeitung ordnet am 5. November die Entscheidung gegen eine neue Schnellstraße parallel zur A99 und mögliche Folgen für Haar, Kirchheim und Feldkirchen ein. Dabei handelt es sich um einen zusätzlichen Bericht und eine Einordnung, nicht um einen neuen Trassenbeschluss.",
-      "sources": [
-        {
-          "name": "Münchner Merkur – Autobahnparallele „B471 neu“ ist endgültig vom Tisch",
-          "url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/90-millionen-euro-kaum-nutzen-471-neu-wird-nicht-gebaut-94499321.html",
-          "type": "press",
-          "date": "2026-09-19",
-          "date_basis": "publication_date",
-          "date_status": "verified"
-        },
-        {
-          "name": "Münchner Merkur – 500.000-Euro-Studie zur B471 (02.11.2026)",
-          "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/500-000-euro-studie-zur-b471-autobahnparallele-wird-nicht-gebaut-94568464.html",
-          "type": "secondary_press",
-          "date": "2026-11-02",
-          "date_basis": "publication_date",
-          "date_status": "verified"
-        },
-        {
-          "name": "Süddeutsche Zeitung – Jetzt bleibt nur noch der Traum vom Fliegen",
-          "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/muenchner-osten-verkehr-flugtaxi-autobahnparallele-haar-li.3571016?reduced=true",
-          "type": "secondary_press",
-          "date": "2026-11-05",
-          "date_basis": "publication_date",
-          "date_status": "verified"
-        }
-      ],
-      "bisheriger_verlauf": [],
-      "unsere_einordnung": null,
-      "council": null,
-      "research_refs": [
-        "R074"
-      ],
-      "ortsbezug": {
-        "display_place": "Region München Ost / Feldkirchen",
-        "related_places": [
-          "Feldkirchen",
-          "Aschheim",
-          "Hohenbrunn"
-        ],
-        "scope": "regional_with_direct_feldkirchen_relevance",
-        "verification_status": "verified_2026-09-21"
-      },
-      "established_topic_refs": [],
-      "stage_update_meta": {
-        "created_at": "2026-09-21",
-        "source_status": "verified_press_report",
-        "updated_at": "2026-11-08",
-        "latest_source_date": "2026-11-05"
-      },
-      "search_tags": [
-        "B471",
-        "B471 neu",
-        "Ortsumfahrung Feldkirchen",
-        "regionale Verkehrsplanung"
       ]
     },
     {
