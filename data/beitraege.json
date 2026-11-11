@@ -4,13 +4,13 @@
   "status": "canonical_after_standard_update_2026-09-28",
   "research_window": {
     "from": "2025-08-27",
-    "to": "2026-11-09"
+    "to": "2026-11-11"
   },
   "source_basis": [
     "recherchebestand.json",
     "sitzungsbestand.json"
   ],
-  "contribution_count": 100,
+  "contribution_count": 101,
   "editorial_rules": [
     "No methodological or demonstrator text inside public contribution content.",
     "Sachinformation is neutral; political assessment is a separate optional field.",
@@ -21,6 +21,58 @@
     "Unsere Einordnung was audited on 2026-08-29 for citizen-oriented political language per KI-Leitfaden 0.8."
   ],
   "contributions": [
+    {
+      "id": "R122",
+      "date": "2026-11-11",
+      "publication_date": "2026-11-09",
+      "category": "Natur & Umwelt",
+      "topic_candidates": [
+        "Biodiversität",
+        "Naturvielfalt",
+        "Landkreis München",
+        "Bürgerbeteiligung"
+      ],
+      "title": "Naturvielfalt: Landkreis bittet Feldkirchner um Teilnahme an Online-Befragung",
+      "subtitle": "Seit 10. November läuft eine etwa neunminütige Befragung zur biologischen Vielfalt; teilnehmen können alle, die sich regelmäßig im Landkreis aufhalten.",
+      "sachinformation": "Das Landratsamt München lässt im Rahmen seines seit 2023 laufenden Projekts „NaturVielfalt Leben im Landkreis München“ eine Online-Befragung durchführen. Sie soll zeigen, welche Angebote und Maßnahmen zur biologischen Vielfalt bekannt sind und wie die Menschen das Thema wahrnehmen. Start war am 10. November 2026, die Laufzeit beträgt voraussichtlich drei Wochen. Die Befragung dauert laut Gemeinde etwa neun Minuten und richtet sich an alle Menschen, die sich regelmäßig privat oder beruflich im Landkreis München aufhalten. Die Antworten werden anonymisiert ausgewertet. Damit können auch Menschen aus Feldkirchen ihre Erfahrungen einbringen. Das Projekt will Lebensräume für Tiere und Pflanzen über Gemeindegrenzen hinweg verbinden. Der örtliche Bezug ergibt sich aus der Zugehörigkeit Feldkirchens zum Landkreis und aus der ausdrücklich landkreisweiten Einladung.",
+      "sources": [
+        {
+          "name": "Gemeinde Feldkirchen – Online-Befragung zur Naturvielfalt im Landkreis München (09.11.2026)",
+          "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/online-befragung-zur-naturvielfalt-im-landkreis-muenchen",
+          "type": "primary_official",
+          "date": "2026-11-09",
+          "date_basis": "publication_date",
+          "date_status": "verified"
+        }
+      ],
+      "bisheriger_verlauf": [],
+      "unsere_einordnung": null,
+      "council": null,
+      "research_refs": [
+        "R122"
+      ],
+      "ortsbezug": {
+        "display_place": "Landkreis München / Feldkirchen",
+        "related_places": [
+          "Feldkirchen",
+          "Landkreis München"
+        ],
+        "scope": "regional_functional_feldkirchen_relevance",
+        "verification_status": "verified_2026-11-11"
+      },
+      "established_topic_refs": [],
+      "stage_update_meta": {
+        "created_at": "2026-11-11",
+        "source_status": "verified_official"
+      },
+      "search_tags": [
+        "Naturvielfalt",
+        "Biodiversität",
+        "Umfrage",
+        "Landratsamt München",
+        "Bürgerbeteiligung"
+      ]
+    },
     {
       "id": "R084",
       "date": "2026-11-09",
