@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-11T11:54:26+00:00",
+  "updated_at": "2026-11-12T12:47:00+00:00",
   "items": [
     {
       "event_key": "document:feldkirchen-parkraum-2026:https://www.feldkirchen.de/_Resources/Persistent/d/3/d/e/d3dee38ce3c4a9ad01384ca6ed314a2a8f8bcc12/2026%20Parkraumkonzept%20gem%20GR-Beschluss.pdf:4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
@@ -8863,6 +8863,186 @@
       "source_name": "Süddeutsche Zeitung – Landkreis München",
       "kind": "link_new",
       "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/kirchheim-christkindlmarkt-absage-haushaltssperre-li.3577846",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:landkreis-muenchen:https://www.landkreis-muenchen.de/landratsamt/servicestellen-standorte/",
+      "detected_at": "2026-11-12T12:46:47+00:00",
+      "source_id": "landkreis-muenchen",
+      "source_name": "Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.landkreis-muenchen.de/landratsamt/servicestellen-standorte/",
+      "link_text": "Servicestellen & Standorte",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:landkreis-muenchen:https://www.landkreis-muenchen.de/artikel/gesundheit-auf-einen-blick-landratsamt-muenchen-veroeffentlicht-statistikbroschuere-2026/",
+      "detected_at": "2026-11-12T12:46:47+00:00",
+      "source_id": "landkreis-muenchen",
+      "source_name": "Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.landkreis-muenchen.de/artikel/gesundheit-auf-einen-blick-landratsamt-muenchen-veroeffentlicht-statistikbroschuere-2026/",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:landkreis-muenchen:https://www.landkreis-muenchen.de/artikel/zukunftsozial-zeigt-wege-in-soziale-berufe/",
+      "detected_at": "2026-11-12T12:46:47+00:00",
+      "source_id": "landkreis-muenchen",
+      "source_name": "Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.landkreis-muenchen.de/artikel/zukunftsozial-zeigt-wege-in-soziale-berufe/",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/wer-rettet-in-kirchheim-das-christkindl-94585147.html",
+      "detected_at": "2026-11-12T12:46:56+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/wer-rettet-in-kirchheim-das-christkindl-94585147.html",
+      "link_text": "Nach Absage der Gemeinde: „Organisationsbündnis“ soll Christkindlmarkt in Kirchheim retten",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/unterfoehring-ort29618/400-besucher-beim-tag-der-senioren-in-unterfoehring-94585393.html",
+      "detected_at": "2026-11-12T12:46:56+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/unterfoehring-ort29618/400-besucher-beim-tag-der-senioren-in-unterfoehring-94585393.html",
+      "link_text": "400 Besucher beim Tag der Senioren in Unterföhring",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/landrat-goebel-sonst-machen-wir-uns-laecherlich-kreisumlage-soll-sinken-94586622.html",
+      "detected_at": "2026-11-12T12:46:56+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/landrat-goebel-sonst-machen-wir-uns-laecherlich-kreisumlage-soll-sinken-94586622.html",
+      "link_text": "Landrat Göbel: „Sonst machen wir uns lächerlich\" – Kreisumlage soll sinken",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/taufkirchen-bei-muenchen-ort486320/vgh-stoppt-bebauungsplan-taufkirchen-verliert-15-millionen-euro-einnahmen-94585518.html",
+      "detected_at": "2026-11-12T12:46:56+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/taufkirchen-bei-muenchen-ort486320/vgh-stoppt-bebauungsplan-taufkirchen-verliert-15-millionen-euro-einnahmen-94585518.html",
+      "link_text": "VGH stoppt Bebauungsplan für neues Seniorenquartier",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/gleisenia-eroeffnet-fasching-mit-aperol-ansteckern-und-zwei-prinzenpaaren-94585289.html",
+      "detected_at": "2026-11-12T12:46:56+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/gleisenia-eroeffnet-fasching-mit-aperol-ansteckern-und-zwei-prinzenpaaren-94585289.html",
+      "link_text": "Gleisenia eröffnet Fasching mit Aperol-Ansteckern und zwei Prinzenpaaren",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/lange-nacht-des-impfens-apotheke-impft-bis-21-30-uhr-ohne-termin-94585348.html",
+      "detected_at": "2026-11-12T12:46:56+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/lange-nacht-des-impfens-apotheke-impft-bis-21-30-uhr-ohne-termin-94585348.html",
+      "link_text": "Lange Nacht des Impfens: Apotheke impft bis 21.30 Uhr ohne Termin",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/blaualgen-warnung-am-fidschi-see-aufgehoben-keine-cyanobakterien-mehr-94585252.html",
+      "detected_at": "2026-11-12T12:46:56+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/blaualgen-warnung-am-fidschi-see-aufgehoben-keine-cyanobakterien-mehr-94585252.html",
+      "link_text": "Blaualgen: Badewarnung am Heimstettener See aufgehoben",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/ottobrunn-ort29241/pavillons-immer-wieder-angezuendet-ottobrunn-baut-jugendtreffpunkte-ab-94583357.html",
+      "detected_at": "2026-11-12T12:46:56+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/ottobrunn-ort29241/pavillons-immer-wieder-angezuendet-ottobrunn-baut-jugendtreffpunkte-ab-94583357.html",
+      "link_text": "Pavillons immer wieder angezündet: Ottobrunn baut Jugendtreffpunkte ab",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/vernissage-an-unterhachinger-foerderschule-bringt-1430-euro-ein-94583389.html",
+      "detected_at": "2026-11-12T12:46:56+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/vernissage-an-unterhachinger-foerderschule-bringt-1430-euro-ein-94583389.html",
+      "link_text": "Vernissage an Unterhachinger Förderschule bringt 1430 Euro ein",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-feldkirchen:https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/blaualgen-warnung-am-fidschi-see-aufgehoben-keine-cyanobakterien-mehr-94585252.html",
+      "detected_at": "2026-11-12T12:46:57+00:00",
+      "source_id": "merkur-feldkirchen",
+      "source_name": "Münchner Merkur – Feldkirchen",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/blaualgen-warnung-am-fidschi-see-aufgehoben-keine-cyanobakterien-mehr-94585252.html",
+      "link_text": "Blaualgen: Badewarnung am Heimstettener See aufgehoben",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-kirchheim:https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/wer-rettet-in-kirchheim-das-christkindl-94585147.html",
+      "detected_at": "2026-11-12T12:46:59+00:00",
+      "source_id": "merkur-kirchheim",
+      "source_name": "Münchner Merkur – Kirchheim",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/wer-rettet-in-kirchheim-das-christkindl-94585147.html",
+      "link_text": "Nach Absage der Gemeinde: „Organisationsbündnis“ soll Christkindlmarkt in Kirchheim retten",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/kabarett-wettbewerb-amici-artium-ottobrunn-martina-schwarzmann-max-uthoff-li.3579002",
+      "detected_at": "2026-11-12T12:47:00+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/kabarett-wettbewerb-amici-artium-ottobrunn-martina-schwarzmann-max-uthoff-li.3579002",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/haar-stadtratswahl-wahlwiederholung-verwaltungsgericht-ubh-afd-li.3578359",
+      "detected_at": "2026-11-12T12:47:00+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/haar-stadtratswahl-wahlwiederholung-verwaltungsgericht-ubh-afd-li.3578359",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/graefelfing-lochham-michaelskirche-verkauf-abriss-wohnungen-li.3578130",
+      "detected_at": "2026-11-12T12:47:00+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/graefelfing-lochham-michaelskirche-verkauf-abriss-wohnungen-li.3578130",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/wertstoffhof-ottobrunn-bebauungsplan-zweckverband-muenchen-suedost-modernisierung-li.3578371",
+      "detected_at": "2026-11-12T12:47:00+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/wertstoffhof-ottobrunn-bebauungsplan-zweckverband-muenchen-suedost-modernisierung-li.3578371",
       "link_text": "",
       "status": "unprocessed"
     }
