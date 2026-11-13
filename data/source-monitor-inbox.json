@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-12T12:47:00+00:00",
+  "updated_at": "2026-11-13T12:16:59+00:00",
   "items": [
     {
       "event_key": "document:feldkirchen-parkraum-2026:https://www.feldkirchen.de/_Resources/Persistent/d/3/d/e/d3dee38ce3c4a9ad01384ca6ed314a2a8f8bcc12/2026%20Parkraumkonzept%20gem%20GR-Beschluss.pdf:4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
@@ -9043,6 +9043,106 @@
       "source_name": "Süddeutsche Zeitung – Landkreis München",
       "kind": "link_new",
       "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/wertstoffhof-ottobrunn-bebauungsplan-zweckverband-muenchen-suedost-modernisierung-li.3578371",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/unterhaching-wohnmobile-nerven-anwohner-doch-die-gemeinde-kann-kaum-etwas-tun-94587461.html",
+      "detected_at": "2026-11-13T12:16:54+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/unterhaching-wohnmobile-nerven-anwohner-doch-die-gemeinde-kann-kaum-etwas-tun-94587461.html",
+      "link_text": "Wohnmobile nerven Anwohner – doch die Gemeinde kann kaum etwas tun",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/unterschleissheim-ort29622/vom-doener-bis-zur-schulbildung-bayerns-jugendminister-hoert-zu-94587516.html",
+      "detected_at": "2026-11-13T12:16:54+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/unterschleissheim-ort29622/vom-doener-bis-zur-schulbildung-bayerns-jugendminister-hoert-zu-94587516.html",
+      "link_text": "Vom Döner bis zur Schulbildung – Bayerns Jugendminister hört zu",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/putzbrunn-ort29323/putzbrunner-sv-theatergruppe-schickt-tote-auf-mission-ins-paradies-94586659.html",
+      "detected_at": "2026-11-13T12:16:54+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/putzbrunn-ort29323/putzbrunner-sv-theatergruppe-schickt-tote-auf-mission-ins-paradies-94586659.html",
+      "link_text": "Putzbrunner SV-Theatergruppe schickt Tote auf Mission ins Paradies",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/buergerhaus-haar-wird-teurer-stadtrat-erhoeht-preise-um-prozent-94587370.html",
+      "detected_at": "2026-11-13T12:16:54+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/buergerhaus-haar-wird-teurer-stadtrat-erhoeht-preise-um-prozent-94587370.html",
+      "link_text": "Bürgerhaus Haar wird teurer: Stadtrat erhöht Preise für Vermietung",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/anderweitig-christkindlmarkt-abgesagt-kirchheimer-vereine-verkaufen-plaetzchen-deko-jetzt-94581515.html",
+      "detected_at": "2026-11-13T12:16:54+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/anderweitig-christkindlmarkt-abgesagt-kirchheimer-vereine-verkaufen-plaetzchen-deko-jetzt-94581515.html",
+      "link_text": "Christkindlmarkt abgesagt: Kirchheimer Vereine verkaufen Plätzchen & Deko jetzt anderweitig",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-kirchheim:https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/anderweitig-christkindlmarkt-abgesagt-kirchheimer-vereine-verkaufen-plaetzchen-deko-jetzt-94581515.html",
+      "detected_at": "2026-11-13T12:16:57+00:00",
+      "source_id": "merkur-kirchheim",
+      "source_name": "Münchner Merkur – Kirchheim",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/anderweitig-christkindlmarkt-abgesagt-kirchheimer-vereine-verkaufen-plaetzchen-deko-jetzt-94581515.html",
+      "link_text": "Christkindlmarkt abgesagt: Kirchheimer Vereine verkaufen Plätzchen & Deko jetzt anderweitig",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/hoehenkirchen-siegertsbrunn-hackerangriff-biomarkt-cybercrime-landkreis-muenchen-li.3579634",
+      "detected_at": "2026-11-13T12:16:59+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/hoehenkirchen-siegertsbrunn-hackerangriff-biomarkt-cybercrime-landkreis-muenchen-li.3579634",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/haar-raphaelle-zaneboni-buergermeister-andreas-bukowski-haiku-interview-li.3557931",
+      "detected_at": "2026-11-13T12:16:59+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/haar-raphaelle-zaneboni-buergermeister-andreas-bukowski-haiku-interview-li.3557931",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/hypersonica-hyperschall-raketen-landkreis-muenchen-verteidigung-li.3574110",
+      "detected_at": "2026-11-13T12:16:59+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/hypersonica-hyperschall-raketen-landkreis-muenchen-verteidigung-li.3574110",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/garching-fahrradpendler-tipps-li.3563014",
+      "detected_at": "2026-11-13T12:16:59+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/garching-fahrradpendler-tipps-li.3563014",
       "link_text": "",
       "status": "unprocessed"
     }
