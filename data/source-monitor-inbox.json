@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-13T12:16:59+00:00",
+  "updated_at": "2026-11-14T11:31:11+00:00",
   "items": [
     {
       "event_key": "document:feldkirchen-parkraum-2026:https://www.feldkirchen.de/_Resources/Persistent/d/3/d/e/d3dee38ce3c4a9ad01384ca6ed314a2a8f8bcc12/2026%20Parkraumkonzept%20gem%20GR-Beschluss.pdf:4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
@@ -9143,6 +9143,216 @@
       "source_name": "Süddeutsche Zeitung – Landkreis München",
       "kind": "link_new",
       "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/garching-fahrradpendler-tipps-li.3563014",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:landkreis-muenchen:https://www.landkreis-muenchen.de/artikel/der-landkreis-muenchen-zur-zeit-des-nationalsozialismus-1/",
+      "detected_at": "2026-11-14T11:30:58+00:00",
+      "source_id": "landkreis-muenchen",
+      "source_name": "Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.landkreis-muenchen.de/artikel/der-landkreis-muenchen-zur-zeit-des-nationalsozialismus-1/",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:bn-kreisgruppe-muenchen:https://www.bn-muenchen.de/arten-biotopschutz/",
+      "detected_at": "2026-11-14T11:31:02+00:00",
+      "source_id": "bn-kreisgruppe-muenchen",
+      "source_name": "BUND Naturschutz – Kreisgruppe München",
+      "kind": "link_new",
+      "url": "https://www.bn-muenchen.de/arten-biotopschutz/",
+      "link_text": "Biotope in München",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:bn-kreisgruppe-muenchen:https://www.bn-muenchen.de/oepnv-fuehrerschein/",
+      "detected_at": "2026-11-14T11:31:02+00:00",
+      "source_id": "bn-kreisgruppe-muenchen",
+      "source_name": "BUND Naturschutz – Kreisgruppe München",
+      "kind": "link_new",
+      "url": "https://www.bn-muenchen.de/oepnv-fuehrerschein/",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:bn-kreisgruppe-muenchen:https://www.bn-muenchen.de/mitmachen-beim-amphibienschutz/",
+      "detected_at": "2026-11-14T11:31:02+00:00",
+      "source_id": "bn-kreisgruppe-muenchen",
+      "source_name": "BUND Naturschutz – Kreisgruppe München",
+      "kind": "link_new",
+      "url": "https://www.bn-muenchen.de/mitmachen-beim-amphibienschutz/",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:bn-kreisgruppe-muenchen:https://www.bn-muenchen.de/category/arten-biotopschutz/",
+      "detected_at": "2026-11-14T11:31:02+00:00",
+      "source_id": "bn-kreisgruppe-muenchen",
+      "source_name": "BUND Naturschutz – Kreisgruppe München",
+      "kind": "link_new",
+      "url": "https://www.bn-muenchen.de/category/arten-biotopschutz/",
+      "link_text": "Arten-, Biotopschutz",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:bn-kreisgruppe-muenchen:https://www.bn-muenchen.de/aktion-in-der-ami-siedlung/",
+      "detected_at": "2026-11-14T11:31:02+00:00",
+      "source_id": "bn-kreisgruppe-muenchen",
+      "source_name": "BUND Naturschutz – Kreisgruppe München",
+      "kind": "link_new",
+      "url": "https://www.bn-muenchen.de/aktion-in-der-ami-siedlung/",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:bn-kreisgruppe-muenchen:https://www.bn-muenchen.de/category/stadtplanung/",
+      "detected_at": "2026-11-14T11:31:02+00:00",
+      "source_id": "bn-kreisgruppe-muenchen",
+      "source_name": "BUND Naturschutz – Kreisgruppe München",
+      "kind": "link_new",
+      "url": "https://www.bn-muenchen.de/category/stadtplanung/",
+      "link_text": "Stadtplanung",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/gemeinde-unterhaching-investiert-drei-millionen-euro-in-feuerwehr-umzugsplaene-endgueltig-vom-tisch-94589498.html",
+      "detected_at": "2026-11-14T11:31:06+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/gemeinde-unterhaching-investiert-drei-millionen-euro-in-feuerwehr-umzugsplaene-endgueltig-vom-tisch-94589498.html",
+      "link_text": "Gemeinde investiert drei Millionen Euro in Feuerwehr – Umzugspläne endgültig vom Tisch",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/gruenwald-ort28770/zugeparkte-einfahrten-und-muell-gruenwalder-klagen-ueber-afghanisches-konsulat-94589260.html",
+      "detected_at": "2026-11-14T11:31:06+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/gruenwald-ort28770/zugeparkte-einfahrten-und-muell-gruenwalder-klagen-ueber-afghanisches-konsulat-94589260.html",
+      "link_text": "Zugeparkte Einfahrten und Müll: Grünwalder klagen über afghanisches Konsulat",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/ascheim-will-spielplaetze-noch-inklusiver-gestalten-94589357.html",
+      "detected_at": "2026-11-14T11:31:06+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/ascheim-will-spielplaetze-noch-inklusiver-gestalten-94589357.html",
+      "link_text": "Spielplätze noch inklusiver gestalten",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/ottobrunn-ort29241/kindergartengebuehren-in-ottobrunn-steigen-100-euro-mehr-pro-kind-ab-2027-94589274.html",
+      "detected_at": "2026-11-14T11:31:06+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/ottobrunn-ort29241/kindergartengebuehren-in-ottobrunn-steigen-100-euro-mehr-pro-kind-ab-2027-94589274.html",
+      "link_text": "Kindergartengebühren in Ottobrunn steigen: 100 Euro mehr pro Kind ab 2027",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/taufkirchen-bei-muenchen-ort486320/taufkirchen-ottobrunn-soeder-schlief-als-bub-in-star-wars-bettwaesche-und-eroeffnet-neue-tum-mensa-94589512.html",
+      "detected_at": "2026-11-14T11:31:06+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/taufkirchen-bei-muenchen-ort486320/taufkirchen-ottobrunn-soeder-schlief-als-bub-in-star-wars-bettwaesche-und-eroeffnet-neue-tum-mensa-94589512.html",
+      "link_text": "Söder schlief als Bub in Star-Wars-Bettwäsche – und eröffnet neue TUM-Mensa",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/gruenwald-ort28770/21-spieler-boykottieren-tuerkguecue-jetzt-empfaengt-tsv-gruenwald-den-krisenklub-94589290.html",
+      "detected_at": "2026-11-14T11:31:06+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/gruenwald-ort28770/21-spieler-boykottieren-tuerkguecue-jetzt-empfaengt-tsv-gruenwald-den-krisenklub-94589290.html",
+      "link_text": "21 Spieler boykottieren Türkgücü – jetzt empfängt TSV Grünwald den Krisenclub",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/gold-und-bargeld-im-kochtopf-falsche-polizisten-zocken-zwei-garchinger-senioren-ab-94589053.html",
+      "detected_at": "2026-11-14T11:31:06+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/gold-und-bargeld-im-kochtopf-falsche-polizisten-zocken-zwei-garchinger-senioren-ab-94589053.html",
+      "link_text": "Gold und Bargeld im Kochtopf: Falsche Polizisten zocken zwei Garchinger Senioren ab",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/pv-anlage-auf-feuerwehr-dornach-gemeinde-spart-1600-euro-im-jahr-dank-kooperation-94587464.html",
+      "detected_at": "2026-11-14T11:31:06+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/pv-anlage-auf-feuerwehr-dornach-gemeinde-spart-1600-euro-im-jahr-dank-kooperation-94587464.html",
+      "link_text": "PV-Anlage auf Feuerwehr Dornach: Gemeinde spart 1600 Euro im Jahr dank Kooperation",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/pullach-ort29321/pullach-meldet-rekordtief-nur-25-straftaten-pro-1000-einwohner-94587460.html",
+      "detected_at": "2026-11-14T11:31:06+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/pullach-ort29321/pullach-meldet-rekordtief-nur-25-straftaten-pro-1000-einwohner-94587460.html",
+      "link_text": "Polizei meldet für Pullach Rekordtief: Nur 25 Straftaten pro 1000 Einwohner",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-aschheim:https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/ascheim-will-spielplaetze-noch-inklusiver-gestalten-94589357.html",
+      "detected_at": "2026-11-14T11:31:09+00:00",
+      "source_id": "merkur-aschheim",
+      "source_name": "Münchner Merkur – Aschheim",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/ascheim-will-spielplaetze-noch-inklusiver-gestalten-94589357.html",
+      "link_text": "Spielplätze noch inklusiver gestalten",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-aschheim:https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/pv-anlage-auf-feuerwehr-dornach-gemeinde-spart-1600-euro-im-jahr-dank-kooperation-94587464.html",
+      "detected_at": "2026-11-14T11:31:09+00:00",
+      "source_id": "merkur-aschheim",
+      "source_name": "Münchner Merkur – Aschheim",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/pv-anlage-auf-feuerwehr-dornach-gemeinde-spart-1600-euro-im-jahr-dank-kooperation-94587464.html",
+      "link_text": "PV-Anlage auf Feuerwehr Dornach: Gemeinde spart 1600 Euro im Jahr dank Kooperation",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-haar:https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/buergerhaus-haar-wird-teurer-stadtrat-erhoeht-preise-um-prozent-94587370.html",
+      "detected_at": "2026-11-14T11:31:11+00:00",
+      "source_id": "merkur-haar",
+      "source_name": "Münchner Merkur – Haar",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/buergerhaus-haar-wird-teurer-stadtrat-erhoeht-preise-um-prozent-94587370.html",
+      "link_text": "Bürgerhaus Haar wird teurer: Stadtrat erhöht Preise für Vermietung",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/christoph-goebel-mongolei-polarstern-orden-landkreis-muenchen-kolumne-kreis-und-quer-li.3579639",
+      "detected_at": "2026-11-14T11:31:11+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/christoph-goebel-mongolei-polarstern-orden-landkreis-muenchen-kolumne-kreis-und-quer-li.3579639",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/microsoft-ausfall-outlook-muenchen-cloud-dienste-region-unternehmen-landkreis-fuerstenfeldbruck-li.3579928",
+      "detected_at": "2026-11-14T11:31:11+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/microsoft-ausfall-outlook-muenchen-cloud-dienste-region-unternehmen-landkreis-fuerstenfeldbruck-li.3579928",
       "link_text": "",
       "status": "unprocessed"
     }
