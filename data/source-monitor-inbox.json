@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-14T11:31:11+00:00",
+  "updated_at": "2026-11-15T11:58:39+00:00",
   "items": [
     {
       "event_key": "document:feldkirchen-parkraum-2026:https://www.feldkirchen.de/_Resources/Persistent/d/3/d/e/d3dee38ce3c4a9ad01384ca6ed314a2a8f8bcc12/2026%20Parkraumkonzept%20gem%20GR-Beschluss.pdf:4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
@@ -9353,6 +9353,86 @@
       "source_name": "Süddeutsche Zeitung – Landkreis München",
       "kind": "link_new",
       "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/microsoft-ausfall-outlook-muenchen-cloud-dienste-region-unternehmen-landkreis-fuerstenfeldbruck-li.3579928",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:bi-afk:https://bi-afk.de/aktuelles/nov-2026-demonstration/",
+      "detected_at": "2026-11-15T11:58:31+00:00",
+      "source_id": "bi-afk",
+      "source_name": "BI-AFK",
+      "kind": "link_new",
+      "url": "https://bi-afk.de/aktuelles/nov-2026-demonstration/",
+      "link_text": "Nov. 2026 Demonstration",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:bi-afk:https://bi-afk.de/aktuelles/nov-2026-brief-an-afk/",
+      "detected_at": "2026-11-15T11:58:31+00:00",
+      "source_id": "bi-afk",
+      "source_name": "BI-AFK",
+      "kind": "link_new",
+      "url": "https://bi-afk.de/aktuelles/nov-2026-brief-an-afk/",
+      "link_text": "Nov. 2026 Brief an AFK",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/unterschleissheim-ort29622/unfall-in-drive-in-schlange-18-jaehriger-in-unterschleissheim-zwischen-autos-eingeklemmt-94590715.html",
+      "detected_at": "2026-11-15T11:58:33+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/unterschleissheim-ort29622/unfall-in-drive-in-schlange-18-jaehriger-in-unterschleissheim-zwischen-autos-eingeklemmt-94590715.html",
+      "link_text": "Unfall in Drive-in-Schlange: 18-Jähriger zwischen Autos eingeklemmt",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/pullach-ort29321/feuerwehr-pullach-trauert-kamerad-aus-partnerstadt-bei-einsatz-getoetet-94590571.html",
+      "detected_at": "2026-11-15T11:58:33+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/pullach-ort29321/feuerwehr-pullach-trauert-kamerad-aus-partnerstadt-bei-einsatz-getoetet-94590571.html",
+      "link_text": "Feuerwehr Pullach trauert: Kamerad aus Partnerstadt in der Ukraine bei Einsatz getötet",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/tum-eroeffnet-quantencomputer-zentrum-mit-100-wissenschaftlern-94589365.html",
+      "detected_at": "2026-11-15T11:58:33+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/tum-eroeffnet-quantencomputer-zentrum-mit-100-wissenschaftlern-94589365.html",
+      "link_text": "TUM eröffnet Quantencomputer-Zentrum mit 100 Wissenschaftlern",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/kulturfestival-oberhaching-benno-fuermann-impressionisten-miles-davis-li.3579423",
+      "detected_at": "2026-11-15T11:58:39+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/kulturfestival-oberhaching-benno-fuermann-impressionisten-miles-davis-li.3579423",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/dia-ton-foerderpreis-oberbayern-dialekt-musik-2027-li.3580024",
+      "detected_at": "2026-11-15T11:58:39+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/dia-ton-foerderpreis-oberbayern-dialekt-musik-2027-li.3580024",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/pflegekosten-landkreis-muenchen-caritas-schuldnerberatung-sozialhilfe-li.3563479",
+      "detected_at": "2026-11-15T11:58:39+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/pflegekosten-landkreis-muenchen-caritas-schuldnerberatung-sozialhilfe-li.3563479",
       "link_text": "",
       "status": "unprocessed"
     }
