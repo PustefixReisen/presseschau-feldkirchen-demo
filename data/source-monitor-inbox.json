@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-15T11:58:39+00:00",
+  "updated_at": "2026-11-16T12:48:58+00:00",
   "items": [
     {
       "event_key": "document:feldkirchen-parkraum-2026:https://www.feldkirchen.de/_Resources/Persistent/d/3/d/e/d3dee38ce3c4a9ad01384ca6ed314a2a8f8bcc12/2026%20Parkraumkonzept%20gem%20GR-Beschluss.pdf:4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
@@ -9433,6 +9433,156 @@
       "source_name": "Süddeutsche Zeitung – Landkreis München",
       "kind": "link_new",
       "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/pflegekosten-landkreis-muenchen-caritas-schuldnerberatung-sozialhilfe-li.3563479",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:feldkirchen-aktuelle-meldungen:https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/strassenreinigung-im-gemeindegebiet",
+      "detected_at": "2026-11-16T12:48:37+00:00",
+      "source_id": "feldkirchen-aktuelle-meldungen",
+      "source_name": "Gemeinde Feldkirchen – Aktuelle Meldungen",
+      "kind": "link_new",
+      "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/strassenreinigung-im-gemeindegebiet",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:feldkirchen-aktuelle-meldungen:https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/gesundheit-auf-einen-blick",
+      "detected_at": "2026-11-16T12:48:37+00:00",
+      "source_id": "feldkirchen-aktuelle-meldungen",
+      "source_name": "Gemeinde Feldkirchen – Aktuelle Meldungen",
+      "kind": "link_new",
+      "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/gesundheit-auf-einen-blick",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/bande-folgt-ausstellerpaar-von-mineralientagen-bis-ins-hotelzimmer-feldkirchen-94592233.html",
+      "detected_at": "2026-11-16T12:48:53+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/bande-folgt-ausstellerpaar-von-mineralientagen-bis-ins-hotelzimmer-feldkirchen-94592233.html",
+      "link_text": "Kratzgeräusche an Zimmertür: Diebesbande folgt Messeausstellern bis ins Hotel",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/vibrotrucks-ruetteln-durch-60-kommunen-geothermie-suche-zu-84-prozent-fertig-94590920.html",
+      "detected_at": "2026-11-16T12:48:53+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/vibrotrucks-ruetteln-durch-60-kommunen-geothermie-suche-zu-84-prozent-fertig-94590920.html",
+      "link_text": "Vibrotrucks auf der Zielgeraden: Geothermie-Messungen fast abgeschlossen",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/sauerlach-ort117101/bbv-kreisobmann-stuerzer-legt-amt-nieder-ich-will-der-jugend-platz-machen-94590926.html",
+      "detected_at": "2026-11-16T12:48:53+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/sauerlach-ort117101/bbv-kreisobmann-stuerzer-legt-amt-nieder-ich-will-der-jugend-platz-machen-94590926.html",
+      "link_text": "BBV-Kreisobmann Stürzer legt Amt nieder: „Ich will der Jugend Platz machen\"",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/ismaning-ort28863/pferd-rutscht-in-graben-reitstall-team-befreit-es-nach-einer-stunde-94592043.html",
+      "detected_at": "2026-11-16T12:48:53+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/ismaning-ort28863/pferd-rutscht-in-graben-reitstall-team-befreit-es-nach-einer-stunde-94592043.html",
+      "link_text": "Pferd rutscht in Graben: Reitstall-Team befreit es nach einer Stunde",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/oberhaching-ort29194/160-tonnen-laub-pro-jahr-oberhachings-bauhof-chef-erklaert-wie-er-das-schafft-94590924.html",
+      "detected_at": "2026-11-16T12:48:53+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/oberhaching-ort29194/160-tonnen-laub-pro-jahr-oberhachings-bauhof-chef-erklaert-wie-er-das-schafft-94590924.html",
+      "link_text": "160 Tonnen Laub pro Jahr: Oberhachings Bauhof-Chef erklärt, wie er das schafft",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/oberhaching-ort29194/11000-euro-gesammelt-oberhachinger-kriegerdenkmal-wieder-lesbar-94590861.html",
+      "detected_at": "2026-11-16T12:48:53+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/oberhaching-ort29194/11000-euro-gesammelt-oberhachinger-kriegerdenkmal-wieder-lesbar-94590861.html",
+      "link_text": "11.000 Euro gesammelt: Oberhachinger Kriegerdenkmal wieder lesbar",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/krisengipfel-gescheitert-kirchheimer-christkindlmarkt-faellt-auch-2024-aus-94590669.html",
+      "detected_at": "2026-11-16T12:48:53+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/krisengipfel-gescheitert-kirchheimer-christkindlmarkt-faellt-auch-2024-aus-94590669.html",
+      "link_text": "Krisengipfel gescheitert: Kirchheimer Christkindlmarkt fällt endgültig aus",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-feldkirchen:https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/bande-folgt-ausstellerpaar-von-mineralientagen-bis-ins-hotelzimmer-feldkirchen-94592233.html",
+      "detected_at": "2026-11-16T12:48:54+00:00",
+      "source_id": "merkur-feldkirchen",
+      "source_name": "Münchner Merkur – Feldkirchen",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/bande-folgt-ausstellerpaar-von-mineralientagen-bis-ins-hotelzimmer-feldkirchen-94592233.html",
+      "link_text": "Kratzgeräusche an Zimmertür: Diebesbande folgt Messeausstellern bis ins Hotel",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-kirchheim:https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/vibrotrucks-ruetteln-durch-60-kommunen-geothermie-suche-zu-84-prozent-fertig-94590920.html",
+      "detected_at": "2026-11-16T12:48:56+00:00",
+      "source_id": "merkur-kirchheim",
+      "source_name": "Münchner Merkur – Kirchheim",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/vibrotrucks-ruetteln-durch-60-kommunen-geothermie-suche-zu-84-prozent-fertig-94590920.html",
+      "link_text": "Vibrotrucks auf der Zielgeraden: Geothermie-Messungen fast abgeschlossen",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-kirchheim:https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/krisengipfel-gescheitert-kirchheimer-christkindlmarkt-faellt-auch-2024-aus-94590669.html",
+      "detected_at": "2026-11-16T12:48:56+00:00",
+      "source_id": "merkur-kirchheim",
+      "source_name": "Münchner Merkur – Kirchheim",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/krisengipfel-gescheitert-kirchheimer-christkindlmarkt-faellt-auch-2024-aus-94590669.html",
+      "link_text": "Krisengipfel gescheitert: Kirchheimer Christkindlmarkt fällt endgültig aus",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/brunnthaler-konzerte-kammermusik-barock-renaissance-li.3581343",
+      "detected_at": "2026-11-16T12:48:58+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/brunnthaler-konzerte-kammermusik-barock-renaissance-li.3581343",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/haar-atelierhaus-hp7-tag-der-offenen-tuer-kunst-kuenstler-li.3581344",
+      "detected_at": "2026-11-16T12:48:58+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/haar-atelierhaus-hp7-tag-der-offenen-tuer-kunst-kuenstler-li.3581344",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/muenchner-umland-hundesteuer-erhoehung-li.3569260",
+      "detected_at": "2026-11-16T12:48:58+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/muenchner-umland-hundesteuer-erhoehung-li.3569260",
       "link_text": "",
       "status": "unprocessed"
     }
