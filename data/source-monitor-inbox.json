@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-16T12:48:58+00:00",
+  "updated_at": "2026-11-17T13:30:04+00:00",
   "items": [
     {
       "event_key": "document:feldkirchen-parkraum-2026:https://www.feldkirchen.de/_Resources/Persistent/d/3/d/e/d3dee38ce3c4a9ad01384ca6ed314a2a8f8bcc12/2026%20Parkraumkonzept%20gem%20GR-Beschluss.pdf:4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
@@ -9583,6 +9583,166 @@
       "source_name": "Süddeutsche Zeitung – Landkreis München",
       "kind": "link_new",
       "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/muenchner-umland-hundesteuer-erhoehung-li.3569260",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:feldkirchen-aktuelle-meldungen:https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/tag-der-offenen-tuer-beim-gymnasium-aschheim",
+      "detected_at": "2026-11-17T13:29:36+00:00",
+      "source_id": "feldkirchen-aktuelle-meldungen",
+      "source_name": "Gemeinde Feldkirchen – Aktuelle Meldungen",
+      "kind": "link_new",
+      "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/tag-der-offenen-tuer-beim-gymnasium-aschheim",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:feldkirchen-aktuelle-meldungen:https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/20-jahre-ehrenamt-herzblut-und-engagement-fuer-die-umwelt",
+      "detected_at": "2026-11-17T13:29:36+00:00",
+      "source_id": "feldkirchen-aktuelle-meldungen",
+      "source_name": "Gemeinde Feldkirchen – Aktuelle Meldungen",
+      "kind": "link_new",
+      "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/20-jahre-ehrenamt-herzblut-und-engagement-fuer-die-umwelt",
+      "link_text": "Privat",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:landkreis-muenchen:https://www.landkreis-muenchen.de/artikel/die-chancen-liegen-auf-der-strasse/",
+      "detected_at": "2026-11-17T13:29:43+00:00",
+      "source_id": "landkreis-muenchen",
+      "source_name": "Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.landkreis-muenchen.de/artikel/die-chancen-liegen-auf-der-strasse/",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:bn-kreisgruppe-muenchen:https://www.bn-muenchen.de/unsere-werberinnen-sind-unterwegs/",
+      "detected_at": "2026-11-17T13:29:52+00:00",
+      "source_id": "bn-kreisgruppe-muenchen",
+      "source_name": "BUND Naturschutz – Kreisgruppe München",
+      "kind": "link_new",
+      "url": "https://www.bn-muenchen.de/unsere-werberinnen-sind-unterwegs/",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/haar-bebauungsplan-finckwiese-scheitert-gewerbe-am-bluthaenfling-94592686.html",
+      "detected_at": "2026-11-17T13:29:58+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/haar-bebauungsplan-finckwiese-scheitert-gewerbe-am-bluthaenfling-94592686.html",
+      "link_text": "Bebauungsplan Finckwiese: Scheitert Gewerbe am Bluthänfling?",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/taufkirchen-bei-muenchen-ort486320/taufkirchner-gewerbesteuer-steigt-nur-auf-mindestmass-gruene-scheitern-mit-hoeherem-satz-94592808.html",
+      "detected_at": "2026-11-17T13:29:58+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/taufkirchen-bei-muenchen-ort486320/taufkirchner-gewerbesteuer-steigt-nur-auf-mindestmass-gruene-scheitern-mit-hoeherem-satz-94592808.html",
+      "link_text": "Taufkirchner Gewerbesteuer steigt nur auf Mindestmaß – Grüne scheitern mit höherem Satz",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/unterschleissheim-ort29622/ufc-weiss-blau-kroent-neue-prinzenpaare-kinder-showtruppe-mit-warteliste-94592643.html",
+      "detected_at": "2026-11-17T13:29:58+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/unterschleissheim-ort29622/ufc-weiss-blau-kroent-neue-prinzenpaare-kinder-showtruppe-mit-warteliste-94592643.html",
+      "link_text": "UFC Weiß-Blau krönt neue Prinzenpaare – Kinder-Showtruppe mit Warteliste",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/ottobrunn-ort29241/er-grub-unter-der-berliner-mauer-jetzt-ist-manfred-kreusch-mit-91-gestorben-94592818.html",
+      "detected_at": "2026-11-17T13:29:58+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/ottobrunn-ort29241/er-grub-unter-der-berliner-mauer-jetzt-ist-manfred-kreusch-mit-91-gestorben-94592818.html",
+      "link_text": "Er grub dereinst Tunnel unter Berliner Mauer – jetzt ist Manfred Kreusch mit 91 gestorben",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/gruenwald-ort28770/gruenwalder-marktplatz-bleibt-ohne-tempo-20-ausschuss-lehnt-antrag-ab-94592807.html",
+      "detected_at": "2026-11-17T13:29:58+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/gruenwald-ort28770/gruenwalder-marktplatz-bleibt-ohne-tempo-20-ausschuss-lehnt-antrag-ab-94592807.html",
+      "link_text": "Grünwalder Marktplatz bleibt, wie er ist: Ausschuss lehnt Antrag ab",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/oberschleissheim-ort29202/millionenhilfe-weg-oberschleissheims-hallenbad-landet-auf-letztem-rang-94592631.html",
+      "detected_at": "2026-11-17T13:29:58+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/oberschleissheim-ort29202/millionenhilfe-weg-oberschleissheims-hallenbad-landet-auf-letztem-rang-94592631.html",
+      "link_text": "Millionenhilfe weg: Oberschleißheims Hallenbad landet auf letztem Rang",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/oberhaching-ort29194/tropics-kassieren-zwei-pleiten-gegner-trifft-52-prozent-seiner-dreier-94593231.html",
+      "detected_at": "2026-11-17T13:29:58+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/oberhaching-ort29194/tropics-kassieren-zwei-pleiten-gegner-trifft-52-prozent-seiner-dreier-94593231.html",
+      "link_text": "Tropics kassieren zwei Pleiten: Gegner trifft 52 Prozent seiner Dreier",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-haar:https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/haar-bebauungsplan-finckwiese-scheitert-gewerbe-am-bluthaenfling-94592686.html",
+      "detected_at": "2026-11-17T13:30:03+00:00",
+      "source_id": "merkur-haar",
+      "source_name": "Münchner Merkur – Haar",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/haar-bebauungsplan-finckwiese-scheitert-gewerbe-am-bluthaenfling-94592686.html",
+      "link_text": "Bebauungsplan Finckwiese: Scheitert Gewerbe am Bluthänfling?",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/unterschleissheim-grundsteuer-friedhofsgebuehren-hundesteuer-sparen-li.3580252",
+      "detected_at": "2026-11-17T13:30:04+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/unterschleissheim-grundsteuer-friedhofsgebuehren-hundesteuer-sparen-li.3580252",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/landkreis-muenchen-bildungskonferenz-mentale-gesundheit-resilienz-li.3570565",
+      "detected_at": "2026-11-17T13:30:04+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/landkreis-muenchen-bildungskonferenz-mentale-gesundheit-resilienz-li.3570565",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/ikea-brunnthal-schwedenrestaurant-terminal-warteschlange-li.3580274",
+      "detected_at": "2026-11-17T13:30:04+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/ikea-brunnthal-schwedenrestaurant-terminal-warteschlange-li.3580274",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/landkreis-muenchen-nationalsozialismus-ns-zeit-ausstellung-landratsamt-li.3577856",
+      "detected_at": "2026-11-17T13:30:04+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/landkreis-muenchen-nationalsozialismus-ns-zeit-ausstellung-landratsamt-li.3577856",
       "link_text": "",
       "status": "unprocessed"
     }

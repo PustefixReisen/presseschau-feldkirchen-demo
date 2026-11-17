@@ -5,11 +5,11 @@
       "name": "Gemeinde Feldkirchen – Nachrichten aus dem Bauamt",
       "url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt",
       "priority": "mandatory",
-      "last_success_at": "2026-11-16T12:48:40+00:00",
+      "last_success_at": "2026-11-17T13:29:37+00:00",
       "final_url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt",
       "content_type": "text/html;charset=UTF-8",
-      "page_sha256": "690f905b4596e1cf947d548ec30bcd430b71ccb0befb0adb15a7246c88778cca",
-      "page_changed": false,
+      "page_sha256": "476bca575fdb51dea792074f90e8099ecdc0d01f90bf51b9fc4edfa13ba2097b",
+      "page_changed": true,
       "first_seen": false,
       "links": {
         "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt/neues-parkraumkonzept-in-feldkirchen": {
@@ -26,11 +26,11 @@
       "name": "Gemeinde Feldkirchen – Neues Parkraumkonzept",
       "url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt/neues-parkraumkonzept-in-feldkirchen",
       "priority": "mandatory",
-      "last_success_at": "2026-11-16T12:48:44+00:00",
+      "last_success_at": "2026-11-17T13:29:41+00:00",
       "final_url": "https://www.feldkirchen.de/bauen/nachrichten-aus-dem-bauamt/neues-parkraumkonzept-in-feldkirchen",
       "content_type": "text/html;charset=UTF-8",
-      "page_sha256": "4de15eae8a543712b7d5f6b0c05234c6b4dd57e2e688f2240eaeeac69be6ffbb",
-      "page_changed": false,
+      "page_sha256": "c937f4d8dc8ca9f57d87b9d7ffe5da165cd7b6d6996b6bc2cb542f73039f1d1b",
+      "page_changed": true,
       "first_seen": false,
       "links": {
         "https://www.feldkirchen.de/": {
@@ -448,7 +448,7 @@
           "content_type": "application/pdf",
           "bytes": 1472041,
           "sha256": "4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
-          "checked_at": "2026-11-16T12:48:44+00:00"
+          "checked_at": "2026-11-17T13:29:41+00:00"
         }
       },
       "error": null
@@ -457,11 +457,11 @@
       "name": "Landkreis München",
       "url": "https://www.landkreis-muenchen.de/",
       "priority": "mandatory",
-      "last_success_at": "2026-11-16T12:48:45+00:00",
+      "last_success_at": "2026-11-17T13:29:43+00:00",
       "final_url": "https://www.landkreis-muenchen.de/",
       "content_type": "text/html; charset=utf-8",
-      "page_sha256": "da505d08a8ade35b6df6bde74b321c32c5c963ec514c79f74ea9efd325b8ee83",
-      "page_changed": false,
+      "page_sha256": "5c2dd2f5600f4cf3e10110ebbb5f86321b52cbeaeee2500c1c7df876571adda1",
+      "page_changed": true,
       "first_seen": false,
       "links": {
         "https://www.landkreis-muenchen.de/": {
@@ -623,6 +623,9 @@
         "https://www.landkreis-muenchen.de/themen/freizeit-kultur-sport/kultur/kulturvereinigung-im-landkreis-muenchen/": {
           "text": "Kultur"
         },
+        "https://www.landkreis-muenchen.de/artikel/die-chancen-liegen-auf-der-strasse/": {
+          "text": ""
+        },
         "https://www.landkreis-muenchen.de/artikel/der-landkreis-muenchen-zur-zeit-des-nationalsozialismus-1/": {
           "text": ""
         },
@@ -645,9 +648,6 @@
           "text": ""
         },
         "https://www.landkreis-muenchen.de/artikel/krisen-bewaeltigen-gelingt-nicht-allein/": {
-          "text": ""
-        },
-        "https://www.landkreis-muenchen.de/artikel/der-landkreis-muenchen-zur-zeit-des-nationalsozialismus/": {
           "text": ""
         },
         "https://www.landkreis-muenchen.de/list/1/": {
@@ -706,18 +706,18 @@
       "name": "Autobahn GmbH – Südbayern",
       "url": "https://www.autobahn.de/die-autobahn/niederlassungen/suedbayern",
       "priority": "topic",
-      "last_attempt_at": "2026-11-16T12:48:45+00:00",
+      "last_attempt_at": "2026-11-17T13:29:44+00:00",
       "error": "HTTPError: HTTP Error 404: Not Found"
     },
     "adfc-muenchen": {
       "name": "ADFC München",
       "url": "https://muenchen.adfc.de/",
       "priority": "topic",
-      "last_success_at": "2026-11-16T12:48:46+00:00",
+      "last_success_at": "2026-11-17T13:29:45+00:00",
       "final_url": "https://muenchen.adfc.de/",
       "content_type": "text/html; charset=utf-8",
-      "page_sha256": "be9f3ff885a6822b0b1b4e13e06ea915d2b9bb6752d7976e5210551290d63188",
-      "page_changed": false,
+      "page_sha256": "2da2f853333b13aa641475e66b652a8bd70119b985ebc37d65eb5e450fa4556b",
+      "page_changed": true,
       "first_seen": false,
       "links": {
         "https://muenchen.adfc.de/sei-dabei": {
@@ -756,10 +756,10 @@
         "https://muenchen.adfc.de/artikel/winterprogramm-26-27": {
           "text": ""
         },
-        "https://muenchen.adfc.de/pressemitteilung/veranstaltungen-des-adfc-muenchen-im-november-2026": {
+        "https://muenchen.adfc.de/neuigkeit/radfahren-in-den-medien-mitte-november-2026": {
           "text": ""
         },
-        "https://muenchen.adfc.de/neuigkeit/radfahren-in-den-medien-ende-oktober-2026": {
+        "https://muenchen.adfc.de/pressemitteilung/veranstaltungen-des-adfc-muenchen-im-november-2026": {
           "text": ""
         },
         "https://muenchen.adfc.de/pressemitteilung/jetzt-noch-abstimmen-beim-adfc-fahrradklima-test-2026": {
@@ -777,7 +777,7 @@
         "https://muenchen.adfc.de/neuigkeit/kidical-mass-am-sonntag-11102026": {
           "text": ""
         },
-        "https://muenchen.adfc.de/neuigkeit/radfahren-in-den-medien-mitte-november-2026": {
+        "https://muenchen.adfc.de/neuigkeit/radfahren-in-den-medien-ende-oktober-2026": {
           "text": ""
         },
         "https://muenchen.adfc.de/neuigkeit/radfahren-in-den-medien-mitte-oktober-2026": {
@@ -803,10 +803,10 @@
       "name": "BUND Naturschutz – Kreisgruppe München",
       "url": "https://bn-muenchen.de/",
       "priority": "topic",
-      "last_success_at": "2026-11-16T12:48:49+00:00",
+      "last_success_at": "2026-11-17T13:29:52+00:00",
       "final_url": "https://www.bn-muenchen.de/",
       "content_type": "text/html; charset=UTF-8",
-      "page_sha256": "b69bfb28df9d1d9eb80063c203c145a2b1f6eff25ddbe2ef33e4eb80d6296894",
+      "page_sha256": "d28a342bb3c1d2c1f658346a4dbb4f887d1720511cb056f978fc99544d5cc139",
       "page_changed": true,
       "first_seen": false,
       "links": {
@@ -858,6 +858,9 @@
         "https://www.bn-muenchen.de/category/aktuelles/": {
           "text": "Alle Meldungen"
         },
+        "https://www.bn-muenchen.de/unsere-werberinnen-sind-unterwegs/": {
+          "text": ""
+        },
         "https://www.bn-muenchen.de/baeume-pflanzen-ist-wichtig-genauso-wichtig-ist-der-baumerhalt/": {
           "text": ""
         },
@@ -868,9 +871,6 @@
           "text": "Presse"
         },
         "https://www.bn-muenchen.de/neuwahl/": {
-          "text": ""
-        },
-        "https://www.bn-muenchen.de/baumentscheid-was-nun/": {
           "text": ""
         },
         "https://www.bn-muenchen.de/1099-2/": {
@@ -920,11 +920,11 @@
       "name": "BI-AFK",
       "url": "https://www.bi-afk.de/",
       "priority": "topic",
-      "last_success_at": "2026-11-16T12:48:51+00:00",
+      "last_success_at": "2026-11-17T13:29:56+00:00",
       "final_url": "https://bi-afk.de/",
       "content_type": "text/html; charset=UTF-8",
       "page_sha256": "a77ed0e000566ee693e6892a2d5dd0d564ccfa5ca503beedb7472adc0086c359",
-      "page_changed": true,
+      "page_changed": false,
       "first_seen": false,
       "links": {
         "https://bi-afk.de/": {
@@ -1012,7 +1012,7 @@
           "content_type": "application/pdf",
           "bytes": 149466,
           "sha256": "f0ce9eb0a26c6e4bafbce93352128b32ede6a1a841c241d07be53c69c0f4b695",
-          "checked_at": "2026-11-16T12:48:51+00:00"
+          "checked_at": "2026-11-17T13:29:56+00:00"
         }
       },
       "error": null
@@ -1021,10 +1021,10 @@
       "name": "RIS Feldkirchen – Dokumente mit Freigabe",
       "url": "https://buergerinfo-feldkirchen.digitalfabrix.de/do0040.asp",
       "priority": "mandatory",
-      "last_success_at": "2026-11-16T12:48:36+00:00",
+      "last_success_at": "2026-11-17T13:29:33+00:00",
       "final_url": "https://buergerinfo-feldkirchen.digitalfabrix.de/do0040.asp",
       "content_type": "text/html; Charset=utf-8",
-      "page_sha256": "94f88ac84385cbee76ef2649697580f72793c0d3751a762fe36b54c04d84ff1f",
+      "page_sha256": "3e760c85167628fd2ad23f4712e0c2947b06d66803fbd26c1cb70767b6737cca",
       "page_changed": true,
       "first_seen": false,
       "links": {},
@@ -1035,30 +1035,51 @@
       "name": "Münchner Merkur – Landkreis München",
       "url": "https://www.merkur.de/lokales/muenchen-lk/",
       "priority": "mandatory",
-      "last_success_at": "2026-11-16T12:48:53+00:00",
+      "last_success_at": "2026-11-17T13:29:58+00:00",
       "final_url": "https://www.merkur.de/lokales/muenchen-lk/",
       "content_type": "text/html;charset=utf-8",
-      "page_sha256": "150ce7ccad617a7d9bc54f765dd847ba542e78247f70b0d8202498486f5fd333",
+      "page_sha256": "fbaeae1f97c4d9c349846a53f483f40e4c971cd98a113c6be60ec1c1f5c7b5bd",
       "page_changed": true,
       "first_seen": false,
       "links": {
         "https://www.merkur.de/lokales/muenchen-lk/": {
           "text": "Menü"
         },
-        "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/bande-folgt-ausstellerpaar-von-mineralientagen-bis-ins-hotelzimmer-feldkirchen-94592233.html": {
-          "text": "Kratzgeräusche an Zimmertür: Diebesbande folgt Messeausstellern bis ins Hotel"
+        "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/haar-bebauungsplan-finckwiese-scheitert-gewerbe-am-bluthaenfling-94592686.html": {
+          "text": "Bebauungsplan Finckwiese: Scheitert Gewerbe am Bluthänfling?"
         },
-        "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/vibrotrucks-ruetteln-durch-60-kommunen-geothermie-suche-zu-84-prozent-fertig-94590920.html": {
-          "text": "Vibrotrucks auf der Zielgeraden: Geothermie-Messungen fast abgeschlossen"
+        "https://www.merkur.de/lokales/muenchen-lk/taufkirchen-bei-muenchen-ort486320/taufkirchner-gewerbesteuer-steigt-nur-auf-mindestmass-gruene-scheitern-mit-hoeherem-satz-94592808.html": {
+          "text": "Taufkirchner Gewerbesteuer steigt nur auf Mindestmaß – Grüne scheitern mit höherem Satz"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/unterschleissheim-ort29622/ufc-weiss-blau-kroent-neue-prinzenpaare-kinder-showtruppe-mit-warteliste-94592643.html": {
+          "text": "UFC Weiß-Blau krönt neue Prinzenpaare – Kinder-Showtruppe mit Warteliste"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/ottobrunn-ort29241/er-grub-unter-der-berliner-mauer-jetzt-ist-manfred-kreusch-mit-91-gestorben-94592818.html": {
+          "text": "Er grub dereinst Tunnel unter Berliner Mauer – jetzt ist Manfred Kreusch mit 91 gestorben"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/gruenwald-ort28770/gruenwalder-marktplatz-bleibt-ohne-tempo-20-ausschuss-lehnt-antrag-ab-94592807.html": {
+          "text": "Grünwalder Marktplatz bleibt, wie er ist: Ausschuss lehnt Antrag ab"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/oberschleissheim-ort29202/millionenhilfe-weg-oberschleissheims-hallenbad-landet-auf-letztem-rang-94592631.html": {
+          "text": "Millionenhilfe weg: Oberschleißheims Hallenbad landet auf letztem Rang"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/oberhaching-ort29194/tropics-kassieren-zwei-pleiten-gegner-trifft-52-prozent-seiner-dreier-94593231.html": {
+          "text": "Tropics kassieren zwei Pleiten: Gegner trifft 52 Prozent seiner Dreier"
         },
         "https://www.merkur.de/lokales/muenchen-lk/sauerlach-ort117101/bbv-kreisobmann-stuerzer-legt-amt-nieder-ich-will-der-jugend-platz-machen-94590926.html": {
           "text": "BBV-Kreisobmann Stürzer legt Amt nieder: „Ich will der Jugend Platz machen\""
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/bande-folgt-ausstellerpaar-von-mineralientagen-bis-ins-hotelzimmer-feldkirchen-94592233.html": {
+          "text": "Kratzgeräusche an Zimmertür: Diebesbande folgt Messeausstellern bis ins Hotel"
         },
         "https://www.merkur.de/lokales/muenchen-lk/ismaning-ort28863/pferd-rutscht-in-graben-reitstall-team-befreit-es-nach-einer-stunde-94592043.html": {
           "text": "Pferd rutscht in Graben: Reitstall-Team befreit es nach einer Stunde"
         },
         "https://www.merkur.de/lokales/muenchen-lk/oberhaching-ort29194/160-tonnen-laub-pro-jahr-oberhachings-bauhof-chef-erklaert-wie-er-das-schafft-94590924.html": {
           "text": "160 Tonnen Laub pro Jahr: Oberhachings Bauhof-Chef erklärt, wie er das schafft"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/vibrotrucks-ruetteln-durch-60-kommunen-geothermie-suche-zu-84-prozent-fertig-94590920.html": {
+          "text": "Vibrotrucks auf der Zielgeraden: Geothermie-Messungen fast abgeschlossen"
         },
         "https://www.merkur.de/lokales/muenchen-lk/oberhaching-ort29194/11000-euro-gesammelt-oberhachinger-kriegerdenkmal-wieder-lesbar-94590861.html": {
           "text": "11.000 Euro gesammelt: Oberhachinger Kriegerdenkmal wieder lesbar"
@@ -1080,27 +1101,6 @@
         },
         "https://www.merkur.de/lokales/muenchen-lk/ottobrunn-ort29241/kindergartengebuehren-in-ottobrunn-steigen-100-euro-mehr-pro-kind-ab-2027-94589274.html": {
           "text": "Kindergartengebühren in Ottobrunn könnten steigen: 100 Euro mehr pro Kind ab 2027 im Gespräch"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/ascheim-will-spielplaetze-noch-inklusiver-gestalten-94589357.html": {
-          "text": "Spielplätze noch inklusiver gestalten"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/gruenwald-ort28770/zugeparkte-einfahrten-und-muell-gruenwalder-klagen-ueber-afghanisches-konsulat-94589260.html": {
-          "text": "Zugeparkte Einfahrten und Müll: Grünwalder klagen über afghanisches Konsulat"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/taufkirchen-bei-muenchen-ort486320/taufkirchen-ottobrunn-soeder-schlief-als-bub-in-star-wars-bettwaesche-und-eroeffnet-neue-tum-mensa-94589512.html": {
-          "text": "Söder schlief als Bub in Star-Wars-Bettwäsche – und eröffnet neue TUM-Mensa"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/gruenwald-ort28770/21-spieler-boykottieren-tuerkguecue-jetzt-empfaengt-tsv-gruenwald-den-krisenklub-94589290.html": {
-          "text": "21 Spieler boykottieren Türkgücü – jetzt empfängt TSV Grünwald den Krisenclub"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/gold-und-bargeld-im-kochtopf-falsche-polizisten-zocken-zwei-garchinger-senioren-ab-94589053.html": {
-          "text": "Gold und Bargeld im Kochtopf: Falsche Polizisten zocken zwei Garchinger Senioren ab"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/pv-anlage-auf-feuerwehr-dornach-gemeinde-spart-1600-euro-im-jahr-dank-kooperation-94587464.html": {
-          "text": "PV-Anlage auf Feuerwehr Dornach: Gemeinde spart 1600 Euro im Jahr dank Kooperation"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/pullach-ort29321/pullach-meldet-rekordtief-nur-25-straftaten-pro-1000-einwohner-94587460.html": {
-          "text": "Polizei meldet für Pullach Rekordtief: Nur 25 Straftaten pro 1000 Einwohner"
         }
       },
       "documents": {},
@@ -1110,10 +1110,10 @@
       "name": "Münchner Merkur – Feldkirchen",
       "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/",
       "priority": "mandatory",
-      "last_success_at": "2026-11-16T12:48:54+00:00",
+      "last_success_at": "2026-11-17T13:30:00+00:00",
       "final_url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/",
       "content_type": "text/html;charset=utf-8",
-      "page_sha256": "6455ffdc99d287add8781e263db5aaebc2986f89e7646bfc7293c00c73f2a9cf",
+      "page_sha256": "954074ab9694d2bae2a7a68f39863b90be5ea807f7b94dee4189f1be23342f31",
       "page_changed": true,
       "first_seen": false,
       "links": {
@@ -1182,10 +1182,10 @@
       "name": "Münchner Merkur – Aschheim",
       "url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/",
       "priority": "mandatory",
-      "last_success_at": "2026-11-16T12:48:55+00:00",
+      "last_success_at": "2026-11-17T13:30:01+00:00",
       "final_url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/",
       "content_type": "text/html;charset=utf-8",
-      "page_sha256": "4d2a0d0e99f63eaef88d435b8c4d3e10f29886946e6285e278cd00017791558c",
+      "page_sha256": "06b16930fdd36665c229a8cfc3fc4c7ef07368c22a8cb2b640275007c6d8ccc1",
       "page_changed": true,
       "first_seen": false,
       "links": {
@@ -1254,10 +1254,10 @@
       "name": "Münchner Merkur – Kirchheim",
       "url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/",
       "priority": "mandatory",
-      "last_success_at": "2026-11-16T12:48:56+00:00",
+      "last_success_at": "2026-11-17T13:30:02+00:00",
       "final_url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/",
       "content_type": "text/html;charset=utf-8",
-      "page_sha256": "f4cea69579e5fae7b54911f2b0428e44ac725f6e871f1b8ba66a582d5564bdb3",
+      "page_sha256": "5f9d438c4d95a2d7dffeaeb921becf95581fea420bef926b0c39db18adf597b9",
       "page_changed": true,
       "first_seen": false,
       "links": {
@@ -1326,10 +1326,10 @@
       "name": "Münchner Merkur – Haar",
       "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/",
       "priority": "mandatory",
-      "last_success_at": "2026-11-16T12:48:57+00:00",
+      "last_success_at": "2026-11-17T13:30:03+00:00",
       "final_url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/",
       "content_type": "text/html;charset=utf-8",
-      "page_sha256": "bac30cdf77edcc6dcbc0228313012882f0dc8e18c1446e9b59a6741877a29252",
+      "page_sha256": "3c1d18d7b12c3fc138536c456d650c9a7ba0c16f9e578768ba6a7bbc5dc6819f",
       "page_changed": true,
       "first_seen": false,
       "links": {
@@ -1339,17 +1339,20 @@
         "https://www.merkur.de/lokales/muenchen-lk/": {
           "text": "München Landkreis"
         },
+        "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/haar-bebauungsplan-finckwiese-scheitert-gewerbe-am-bluthaenfling-94592686.html": {
+          "text": "Bebauungsplan Finckwiese: Scheitert Gewerbe am Bluthänfling?"
+        },
         "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/b304-sperrung-in-haar-stau-nimmt-zu-doch-auf-manchen-strassen-laeuft-schneller-94583348.html": {
           "text": "B304-Sperrung in Haar: Stau nimmt zu, doch auf manchen Straßen läuft‘s schneller"
         },
         "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/vier-muellcontainer-brennen-polizei-ermittelt-zur-ursache-94581514.html": {
           "text": "Vier Müllcontainer brennen in Haar – Polizei ermittelt zur Ursache"
         },
-        "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/schwerpunktkontrolle-bei-haar-polizei-auf-einbrecherjagd-94577747.html": {
-          "text": "Schwerpunktkontrolle bei Haar: Polizei auf Einbrecherjagd"
-        },
         "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/buergerhaus-haar-wird-teurer-stadtrat-erhoeht-preise-um-prozent-94587370.html": {
           "text": "Bürgerhaus Haar wird teurer: Stadtrat erhöht Preise für Vermietung"
+        },
+        "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/schwerpunktkontrolle-bei-haar-polizei-auf-einbrecherjagd-94577747.html": {
+          "text": "Schwerpunktkontrolle bei Haar: Polizei auf Einbrecherjagd"
         },
         "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/hochbegabtes-kind-mit-jahren-diskutierte-ueber-sockenfarben-94570124.html": {
           "text": "Hochbegabtes Kind: Mit 1,5 Jahren diskutierte sie über Sockenfarben"
@@ -1386,9 +1389,6 @@
         },
         "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/haar-schafft-eigene-park-sheriffs-und-erwartet-bis-zu-54-600-euro-ueberschuss-94531654.html": {
           "text": "Haar schafft eigene Park-Sheriffs an – und erwartet bis zu 54.600 Euro Überschuss"
-        },
-        "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/buergermeister-sprechstunde-wgs-und-co-das-wuenscht-sich-die-haarer-jugend-94527652.html": {
-          "text": "Bürgermeister-Sprechstunde, WGs und Co.: Das wünscht sich die Haarer Jugend"
         }
       },
       "documents": {},
@@ -1398,10 +1398,10 @@
       "name": "Gemeinde Feldkirchen – Aktuelle Meldungen",
       "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen",
       "priority": "mandatory",
-      "last_success_at": "2026-11-16T12:48:37+00:00",
+      "last_success_at": "2026-11-17T13:29:36+00:00",
       "final_url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen",
       "content_type": "text/html;charset=UTF-8",
-      "page_sha256": "abed025da93da8ff2a71b933404d68a155e647889180c5d7e5b3b7dd78597df8",
+      "page_sha256": "a000babbd8eec6c0bd9a6da8b2ae49186bff9fb3de2871c106409dca5387d20e",
       "page_changed": true,
       "first_seen": false,
       "links": {
@@ -1410,6 +1410,12 @@
         },
         "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/aktuelle-meldungen-landratsamt": {
           "text": "Pressemitteilungen extern"
+        },
+        "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/tag-der-offenen-tuer-beim-gymnasium-aschheim": {
+          "text": ""
+        },
+        "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/20-jahre-ehrenamt-herzblut-und-engagement-fuer-die-umwelt": {
+          "text": "Privat"
         },
         "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/strassenreinigung-im-gemeindegebiet": {
           "text": ""
@@ -1473,11 +1479,11 @@
       "name": "BENG eG – Bürgerenergie und Energieprojekte",
       "url": "https://www.beng-eg.de/",
       "priority": "topic",
-      "last_success_at": "2026-11-16T12:48:52+00:00",
+      "last_success_at": "2026-11-17T13:29:57+00:00",
       "final_url": "https://www.beng-eg.de/",
       "content_type": "text/html; charset=UTF-8",
       "page_sha256": "d0209c537939322e7c734d92e9ae43c547f71dec3de24fc691edd8826e67021d",
-      "page_changed": true,
+      "page_changed": false,
       "first_seen": false,
       "links": {
         "https://www.beng-eg.de/projekt-uebersicht/": {
@@ -1494,13 +1500,25 @@
       "name": "Süddeutsche Zeitung – Landkreis München",
       "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen",
       "priority": "mandatory",
-      "last_success_at": "2026-11-16T12:48:58+00:00",
+      "last_success_at": "2026-11-17T13:30:04+00:00",
       "final_url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen",
       "content_type": "text/html; charset=utf-8",
-      "page_sha256": "eb44d081f23351748a105ba96ebef0ee9d38ef474b51880272d7bb2427398077",
+      "page_sha256": "805a12d7f62c1f7ae0cc177d03e71871a55bf91354ebec0d22398f1de20d58be",
       "page_changed": true,
       "first_seen": false,
       "links": {
+        "https://www.sueddeutsche.de/muenchen/landkreismuenchen/unterschleissheim-grundsteuer-friedhofsgebuehren-hundesteuer-sparen-li.3580252": {
+          "text": ""
+        },
+        "https://www.sueddeutsche.de/muenchen/landkreismuenchen/landkreis-muenchen-bildungskonferenz-mentale-gesundheit-resilienz-li.3570565": {
+          "text": ""
+        },
+        "https://www.sueddeutsche.de/muenchen/landkreismuenchen/ikea-brunnthal-schwedenrestaurant-terminal-warteschlange-li.3580274": {
+          "text": ""
+        },
+        "https://www.sueddeutsche.de/muenchen/landkreismuenchen/landkreis-muenchen-nationalsozialismus-ns-zeit-ausstellung-landratsamt-li.3577856": {
+          "text": ""
+        },
         "https://www.sueddeutsche.de/muenchen/landkreismuenchen/brunnthaler-konzerte-kammermusik-barock-renaissance-li.3581343": {
           "text": ""
         },
@@ -1638,23 +1656,11 @@
         },
         "https://www.sueddeutsche.de/muenchen/landkreismuenchen/neubiberg-putzbrunn-kuenstliche-intelligenz-katastrophenschutz-bundeswettbewerb-li.3570070": {
           "text": ""
-        },
-        "https://www.sueddeutsche.de/muenchen/landkreismuenchen/graefelfing-planeg-nadel-halloween-kaubonbon-li.3573026": {
-          "text": ""
-        },
-        "https://www.sueddeutsche.de/muenchen/landkreismuenchen/unfall-pedelec-auto-ismaning-frau-verletzt-li.3573032": {
-          "text": ""
-        },
-        "https://www.sueddeutsche.de/muenchen/landkreismuenchen/unterschleissheim-toedlicher-unfall-linienbus-li.3573022": {
-          "text": ""
-        },
-        "https://www.sueddeutsche.de/muenchen/landkreismuenchen/taufkirchen-ottobahn-teststrecke-aus-li.3571008": {
-          "text": ""
         }
       },
       "documents": {},
       "error": null
     }
   },
-  "last_run_at": "2026-11-16T12:48:58+00:00"
+  "last_run_at": "2026-11-17T13:30:04+00:00"
 }
