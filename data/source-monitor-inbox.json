@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-17T13:30:04+00:00",
+  "updated_at": "2026-11-18T13:06:43+00:00",
   "items": [
     {
       "event_key": "document:feldkirchen-parkraum-2026:https://www.feldkirchen.de/_Resources/Persistent/d/3/d/e/d3dee38ce3c4a9ad01384ca6ed314a2a8f8bcc12/2026%20Parkraumkonzept%20gem%20GR-Beschluss.pdf:4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
@@ -9743,6 +9743,146 @@
       "source_name": "Süddeutsche Zeitung – Landkreis München",
       "kind": "link_new",
       "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/landkreis-muenchen-nationalsozialismus-ns-zeit-ausstellung-landratsamt-li.3577856",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:landkreis-muenchen:https://www.landkreis-muenchen.de/artikel/amtsblatt-40-2026/",
+      "detected_at": "2026-11-18T13:06:30+00:00",
+      "source_id": "landkreis-muenchen",
+      "source_name": "Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.landkreis-muenchen.de/artikel/amtsblatt-40-2026/",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:adfc-muenchen:https://muenchen.adfc.de/neuigkeit/radreisevortrag-mit-rad-und-zelt-von-bayern-nach-georgien",
+      "detected_at": "2026-11-18T13:06:32+00:00",
+      "source_id": "adfc-muenchen",
+      "source_name": "ADFC München",
+      "kind": "link_new",
+      "url": "https://muenchen.adfc.de/neuigkeit/radreisevortrag-mit-rad-und-zelt-von-bayern-nach-georgien",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/gruenwald-ort28770/gruenwald-senta-berger-liest-fuer-fruehchen-fuer-verein-harl-kin-auf-der-buehne-94594705.html",
+      "detected_at": "2026-11-18T13:06:38+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/gruenwald-ort28770/gruenwald-senta-berger-liest-fuer-fruehchen-fuer-verein-harl-kin-auf-der-buehne-94594705.html",
+      "link_text": "Senta Berger liest für Frühchen – für Verein  Harl.e.kin auf der Bühne",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/grasbrunn-ort377335/grasbrunn-dorfladen-harthausen-kaempft-ums-ueberleben-94594647.html",
+      "detected_at": "2026-11-18T13:06:38+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/grasbrunn-ort377335/grasbrunn-dorfladen-harthausen-kaempft-ums-ueberleben-94594647.html",
+      "link_text": "Harthauser Dorfladen kämpft ums Überleben",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/glasfaserausbau-in-unterhaching-startet-4700-haushalte-bekommen-anschluss-kostenlos-94594730.html",
+      "detected_at": "2026-11-18T13:06:38+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/glasfaserausbau-in-unterhaching-startet-4700-haushalte-bekommen-anschluss-kostenlos-94594730.html",
+      "link_text": "Glasfaserausbau in Unterhaching startet: 4700 Haushalte bekommen Anschluss kostenlos",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/pullach-ort29321/einzug-fuer-naechste-woche-geplant-neubau-in-pullach-brennt-94595065.html",
+      "detected_at": "2026-11-18T13:06:38+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/pullach-ort29321/einzug-fuer-naechste-woche-geplant-neubau-in-pullach-brennt-94595065.html",
+      "link_text": "Feuer in nagelneuem Haus: Kriminalpolizei ermittelt",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/kulturverein-haar-wird-30-opus-klassik-preistraeger-spielt-beim-jubilaeumskonzert-94594631.html",
+      "detected_at": "2026-11-18T13:06:38+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/kulturverein-haar-wird-30-opus-klassik-preistraeger-spielt-beim-jubilaeumskonzert-94594631.html",
+      "link_text": "Kulturverein Haar wird 30: Opus-Klassik-Preisträger spielt beim Jubiläumskonzert",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/landkreis-plant-123-personalwohnungen-ploetzlich-ist-ein-viertes-gebaeude-im-gespraech-94594620.html",
+      "detected_at": "2026-11-18T13:06:38+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/landkreis-plant-123-personalwohnungen-ploetzlich-ist-ein-viertes-gebaeude-im-gespraech-94594620.html",
+      "link_text": "Landkreis plant 123 Personalwohnungen – plötzlich ist ein viertes Gebäude im Gespräch",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/massive-einschraenkungen-a99-fuer-vier-tage-komplett-gesperrt-94594651.html",
+      "detected_at": "2026-11-18T13:06:38+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/massive-einschraenkungen-a99-fuer-vier-tage-komplett-gesperrt-94594651.html",
+      "link_text": "Massive Einschränkungen bei München: A99 an vier Tagen komplett gesperrt",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-haar:https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/kulturverein-haar-wird-30-opus-klassik-preistraeger-spielt-beim-jubilaeumskonzert-94594631.html",
+      "detected_at": "2026-11-18T13:06:42+00:00",
+      "source_id": "merkur-haar",
+      "source_name": "Münchner Merkur – Haar",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/kulturverein-haar-wird-30-opus-klassik-preistraeger-spielt-beim-jubilaeumskonzert-94594631.html",
+      "link_text": "Kulturverein Haar wird 30: Opus-Klassik-Preisträger spielt beim Jubiläumskonzert",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-haar:https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/massive-einschraenkungen-a99-fuer-vier-tage-komplett-gesperrt-94594651.html",
+      "detected_at": "2026-11-18T13:06:42+00:00",
+      "source_id": "merkur-haar",
+      "source_name": "Münchner Merkur – Haar",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/massive-einschraenkungen-a99-fuer-vier-tage-komplett-gesperrt-94594651.html",
+      "link_text": "Massive Einschränkungen bei München: A99 an vier Tagen komplett gesperrt",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/unterschleissheim-geothermie-waermepumpe-fernwaerme-energiezentrale-li.3581556",
+      "detected_at": "2026-11-18T13:06:43+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/unterschleissheim-geothermie-waermepumpe-fernwaerme-energiezentrale-li.3581556",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/tu-muenchen-ottobrunn-taufkirchen-luft-und-raumfahrt-campus-li.3581998",
+      "detected_at": "2026-11-18T13:06:43+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/tu-muenchen-ottobrunn-taufkirchen-luft-und-raumfahrt-campus-li.3581998",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/a99-sperrung-muenchen-haar-brueckenabriss-li.3581309",
+      "detected_at": "2026-11-18T13:06:43+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/a99-sperrung-muenchen-haar-brueckenabriss-li.3581309",
       "link_text": "",
       "status": "unprocessed"
     }
