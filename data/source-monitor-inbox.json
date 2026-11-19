@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-18T13:06:43+00:00",
+  "updated_at": "2026-11-19T13:16:02+00:00",
   "items": [
     {
       "event_key": "document:feldkirchen-parkraum-2026:https://www.feldkirchen.de/_Resources/Persistent/d/3/d/e/d3dee38ce3c4a9ad01384ca6ed314a2a8f8bcc12/2026%20Parkraumkonzept%20gem%20GR-Beschluss.pdf:4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
@@ -9883,6 +9883,146 @@
       "source_name": "Süddeutsche Zeitung – Landkreis München",
       "kind": "link_new",
       "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/a99-sperrung-muenchen-haar-brueckenabriss-li.3581309",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:feldkirchen-aktuelle-meldungen:https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/neues-gymnasium-in-aschheim-feierlich-eroeffnet",
+      "detected_at": "2026-11-19T13:15:37+00:00",
+      "source_id": "feldkirchen-aktuelle-meldungen",
+      "source_name": "Gemeinde Feldkirchen – Aktuelle Meldungen",
+      "kind": "link_new",
+      "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/neues-gymnasium-in-aschheim-feierlich-eroeffnet",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:landkreis-muenchen:https://www.landkreis-muenchen.de/artikel/badeverbot-am-deininger-weiher-aufgehoben/",
+      "detected_at": "2026-11-19T13:15:46+00:00",
+      "source_id": "landkreis-muenchen",
+      "source_name": "Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.landkreis-muenchen.de/artikel/badeverbot-am-deininger-weiher-aufgehoben/",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:landkreis-muenchen:https://www.landkreis-muenchen.de/artikel/neues-gymnasium-in-aschheim-feierlich-eroeffnet/",
+      "detected_at": "2026-11-19T13:15:46+00:00",
+      "source_id": "landkreis-muenchen",
+      "source_name": "Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.landkreis-muenchen.de/artikel/neues-gymnasium-in-aschheim-feierlich-eroeffnet/",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/pullach-ort29321/radfahrer-bricht-nach-wenigen-metern-zusammen-und-stirbt-in-pullach-94598028.html",
+      "detected_at": "2026-11-19T13:15:57+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/pullach-ort29321/radfahrer-bricht-nach-wenigen-metern-zusammen-und-stirbt-in-pullach-94598028.html",
+      "link_text": "Tödliches Unglück in Pullach: Radfahrer bricht nach wenigen Metern zusammen – und stirbt im Krankenhaus",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/ottobrunn-ort29241/ottobrunn-streicht-100-euro-zuschuss-kindergartengebuehren-steigen-trotzdem-nicht-94596842.html",
+      "detected_at": "2026-11-19T13:15:57+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/ottobrunn-ort29241/ottobrunn-streicht-100-euro-zuschuss-kindergartengebuehren-steigen-trotzdem-nicht-94596842.html",
+      "link_text": "100-Euro-Zuschuss kann Ottobrunn wohl nicht aufrechterhalten",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/gruenwald-ort28770/gruenwald-82-jaehriger-geraet-auf-gegenfahrbahn-und-zerstoert-zwei-autos-94597867.html",
+      "detected_at": "2026-11-19T13:15:57+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/gruenwald-ort28770/gruenwald-82-jaehriger-geraet-auf-gegenfahrbahn-und-zerstoert-zwei-autos-94597867.html",
+      "link_text": "82-Jähriger gerät auf Gegenfahrbahn und zerstört zwei Autos",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/strasslach-dingharting-ort377277/badeverbot-am-deininger-weiher-aufgehoben-jetzt-duerfen-winterbader-rein-94598069.html",
+      "detected_at": "2026-11-19T13:15:57+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/strasslach-dingharting-ort377277/badeverbot-am-deininger-weiher-aufgehoben-jetzt-duerfen-winterbader-rein-94598069.html",
+      "link_text": "Badeverbot am Deininger Weiher aufgehoben – jetzt dürfen Winterbader rein",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/taufkirchen-bei-muenchen-ort486320/repair-cafe-taufkirchen-wird-zehn-780-reparaturen-24-tonnen-co-gespart-94597008.html",
+      "detected_at": "2026-11-19T13:15:57+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/taufkirchen-bei-muenchen-ort486320/repair-cafe-taufkirchen-wird-zehn-780-reparaturen-24-tonnen-co-gespart-94597008.html",
+      "link_text": "Ein Jahrzehnt gegen die Wegwerfgesellschaft – und fast 25 Tonnen CO₂ gespart",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/strasslach-dingharting-ort377277/ortsdurchfahrt-strasslach-ab-2027-gesperrt-grossraeumige-umleitung-94596825.html",
+      "detected_at": "2026-11-19T13:15:57+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/strasslach-dingharting-ort377277/ortsdurchfahrt-strasslach-ab-2027-gesperrt-grossraeumige-umleitung-94596825.html",
+      "link_text": "Ortsdurchfahrt Straßlach ab 2027 gesperrt – großräumige Umleitung",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/unterschleissheim-ort29622/nester-weg-kraehen-bleiben-unterschleissheim-greift-nur-punktuell-ein-94596828.html",
+      "detected_at": "2026-11-19T13:15:57+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/unterschleissheim-ort29622/nester-weg-kraehen-bleiben-unterschleissheim-greift-nur-punktuell-ein-94596828.html",
+      "link_text": "Krähen: Unterschleißheim greift nur punktuell ein",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/pullach-ort29321/pullach-bohrt-4000-meter-tief-120-millionen-projekt-startet-im-forstenrieder-park-94596817.html",
+      "detected_at": "2026-11-19T13:15:57+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/pullach-ort29321/pullach-bohrt-4000-meter-tief-120-millionen-projekt-startet-im-forstenrieder-park-94596817.html",
+      "link_text": "Pullach bohrt 4000 Meter tief: 120-Millionen-Projekt startet im Forstenrieder Park",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/putzbrunn-ort29323/putzbrunn-lehnt-hitzeschutzplan-ab-ausschuss-stimmt-dagegen-94594792.html",
+      "detected_at": "2026-11-19T13:15:57+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/putzbrunn-ort29323/putzbrunn-lehnt-hitzeschutzplan-ab-ausschuss-stimmt-dagegen-94594792.html",
+      "link_text": "Putzbrunn lehnt Hitzeschutzplan ab",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/unterschleissheim-afd-gegendemo-bildungspolitik-2026-li.3582470",
+      "detected_at": "2026-11-19T13:16:02+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/unterschleissheim-afd-gegendemo-bildungspolitik-2026-li.3582470",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/garching-buergerversammlung-buergermeister-hassprediger-li.3582003",
+      "detected_at": "2026-11-19T13:16:02+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/garching-buergerversammlung-buergermeister-hassprediger-li.3582003",
       "link_text": "",
       "status": "unprocessed"
     }
