@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-19T13:16:02+00:00",
+  "updated_at": "2026-11-20T12:57:59+00:00",
   "items": [
     {
       "event_key": "document:feldkirchen-parkraum-2026:https://www.feldkirchen.de/_Resources/Persistent/d/3/d/e/d3dee38ce3c4a9ad01384ca6ed314a2a8f8bcc12/2026%20Parkraumkonzept%20gem%20GR-Beschluss.pdf:4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
@@ -10023,6 +10023,266 @@
       "source_name": "Süddeutsche Zeitung – Landkreis München",
       "kind": "link_new",
       "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/garching-buergerversammlung-buergermeister-hassprediger-li.3582003",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:feldkirchen-aktuelle-meldungen:https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/weihnachtszeit-in-feldkirchen-2026",
+      "detected_at": "2026-11-20T12:57:25+00:00",
+      "source_id": "feldkirchen-aktuelle-meldungen",
+      "source_name": "Gemeinde Feldkirchen – Aktuelle Meldungen",
+      "kind": "link_new",
+      "url": "https://www.feldkirchen.de/aktuelles/aktuelle-news/aktuelle-meldungen/weihnachtszeit-in-feldkirchen-2026",
+      "link_text": "Bild: Rico Winkler - mit KI bearbeitet",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:landkreis-muenchen:https://www.landkreis-muenchen.de/artikel/ausgezeichnetes-engagement-fuer-die-demokratie/",
+      "detected_at": "2026-11-20T12:57:31+00:00",
+      "source_id": "landkreis-muenchen",
+      "source_name": "Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.landkreis-muenchen.de/artikel/ausgezeichnetes-engagement-fuer-die-demokratie/",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:landkreis-muenchen:https://www.landkreis-muenchen.de/artikel/amtsblatt-41-2026/",
+      "detected_at": "2026-11-20T12:57:31+00:00",
+      "source_id": "landkreis-muenchen",
+      "source_name": "Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.landkreis-muenchen.de/artikel/amtsblatt-41-2026/",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:bn-kreisgruppe-muenchen:https://www.bn-muenchen.de/category/oekologisch-essen/",
+      "detected_at": "2026-11-20T12:57:45+00:00",
+      "source_id": "bn-kreisgruppe-muenchen",
+      "source_name": "BUND Naturschutz – Kreisgruppe München",
+      "kind": "link_new",
+      "url": "https://www.bn-muenchen.de/category/oekologisch-essen/",
+      "link_text": "Ökologisch Essen",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/abfahrverbot-von-autobahn-auch-im-landkreis-muenchen-vorstoss-in-feldkirchen-scheitert-94598664.html",
+      "detected_at": "2026-11-20T12:57:54+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/abfahrverbot-von-autobahn-auch-im-landkreis-muenchen-vorstoss-in-feldkirchen-scheitert-94598664.html",
+      "link_text": "Abfahrverbot von Autobahn auch im Landkreis München? Vorstoß in Feldkirchen scheitert",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/parkcontrol24-schickt-145-euro-forderungen-stadt-garching-widerspricht-94598903.html",
+      "detected_at": "2026-11-20T12:57:54+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/parkcontrol24-schickt-145-euro-forderungen-stadt-garching-widerspricht-94598903.html",
+      "link_text": "Parkcontrol24 schickt 145-Euro-Forderungen – Stadt Garching widerspricht",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/oberhaching-ort29194/landkreis-muenchen-zeichnet-13-denkmalschutz-bauten-aus-und-verteilt-60-000-euro-94598949.html",
+      "detected_at": "2026-11-20T12:57:54+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/oberhaching-ort29194/landkreis-muenchen-zeichnet-13-denkmalschutz-bauten-aus-und-verteilt-60-000-euro-94598949.html",
+      "link_text": "Landkreis zeichnet 13 Denkmalschutz-Bauten aus – und verteilt 60.000 Euro",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/ottobrunn-ort29241/transporter-faehrt-aus-parkbucht-17-jaehriger-motorradfahrer-schwer-verletzt-94599953.html",
+      "detected_at": "2026-11-20T12:57:54+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/ottobrunn-ort29241/transporter-faehrt-aus-parkbucht-17-jaehriger-motorradfahrer-schwer-verletzt-94599953.html",
+      "link_text": "Transporter fährt aus Parkbucht: 17-jähriger Motorradfahrer schwer verletzt",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/hoehenkirchen-siegertsbrunn-ort100556/86-jaehrige-stirbt-nach-unfall-ermittlungen-gegen-22-jaehrige-autofahrerin-94599935.html",
+      "detected_at": "2026-11-20T12:57:54+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/hoehenkirchen-siegertsbrunn-ort100556/86-jaehrige-stirbt-nach-unfall-ermittlungen-gegen-22-jaehrige-autofahrerin-94599935.html",
+      "link_text": "86-Jährige stirbt nach Unfall: Ermittlungen gegen 22-jährige Autofahrerin",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/aschheimer-gemeindebuecherei-erhaelt-zum-zweiten-mal-gold-siegel-94599064.html",
+      "detected_at": "2026-11-20T12:57:54+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/aschheimer-gemeindebuecherei-erhaelt-zum-zweiten-mal-gold-siegel-94599064.html",
+      "link_text": "Aschheimer Gemeindebücherei erhält zum zweiten Mal Gold-Siegel",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/taufkirchen-bei-muenchen-ort486320/taufkirchens-buergermeister-warnt-kassenkredit-naehert-sich-dem-limit-94598515.html",
+      "detected_at": "2026-11-20T12:57:54+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/taufkirchen-bei-muenchen-ort486320/taufkirchens-buergermeister-warnt-kassenkredit-naehert-sich-dem-limit-94598515.html",
+      "link_text": "Schatten über der Premiere: Neuer Rathauschef erläutert bei Bürgerversammlung prekäre Finanzlage",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/in-garching-leben-heisst-sicher-leben-polizei-stellt-kriminalstatistik-fuer-universitaetsstadt-vor-94598645.html",
+      "detected_at": "2026-11-20T12:57:54+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/in-garching-leben-heisst-sicher-leben-polizei-stellt-kriminalstatistik-fuer-universitaetsstadt-vor-94598645.html",
+      "link_text": "„In Garching leben, heißt sicher leben“: Polizei stellt Kriminalstatistik für Universitätsstadt vor",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/b304-in-haar-wieder-frei-einbahnregelung-und-umleitung-aufgehoben-94598800.html",
+      "detected_at": "2026-11-20T12:57:54+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/b304-in-haar-wieder-frei-einbahnregelung-und-umleitung-aufgehoben-94598800.html",
+      "link_text": "B304 in Haar ab Freitag wieder frei: Einbahnregelung und Umleitung aufgehoben",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/afd-haar-parteiausschlussverfahren-gegen-stadtrat-raetscher-laeuft-94596837.html",
+      "detected_at": "2026-11-20T12:57:54+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/afd-haar-parteiausschlussverfahren-gegen-stadtrat-raetscher-laeuft-94596837.html",
+      "link_text": "AfD Haar: Parteiausschlussverfahren gegen Stadtrat Rätscher läuft",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/ismaning-ort28863/neuer-pfarrer-in-ismaning-will-an-den-kuechentisch-seiner-gemeindemitglieder-94596844.html",
+      "detected_at": "2026-11-20T12:57:54+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/ismaning-ort28863/neuer-pfarrer-in-ismaning-will-an-den-kuechentisch-seiner-gemeindemitglieder-94596844.html",
+      "link_text": "Neuer Pfarrer in Ismaning will an den Küchentisch seiner Gemeindemitglieder",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/grundschule-ost-in-garching-neubau-koennte-100-millionen-euro-kosten-muessen-uns-kuemmern-94598355.html",
+      "detected_at": "2026-11-20T12:57:54+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/grundschule-ost-in-garching-neubau-koennte-100-millionen-euro-kosten-muessen-uns-kuemmern-94598355.html",
+      "link_text": "Grundschule Ost in Garching: Neubau könnte 100 Millionen Euro kosten – „Müssen uns kümmern“",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-haar:https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/b304-in-haar-wieder-frei-einbahnregelung-und-umleitung-aufgehoben-94598800.html",
+      "detected_at": "2026-11-20T12:57:58+00:00",
+      "source_id": "merkur-haar",
+      "source_name": "Münchner Merkur – Haar",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/b304-in-haar-wieder-frei-einbahnregelung-und-umleitung-aufgehoben-94598800.html",
+      "link_text": "B304 in Haar ab Freitag wieder frei: Einbahnregelung und Umleitung aufgehoben",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-haar:https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/afd-haar-parteiausschlussverfahren-gegen-stadtrat-raetscher-laeuft-94596837.html",
+      "detected_at": "2026-11-20T12:57:58+00:00",
+      "source_id": "merkur-haar",
+      "source_name": "Münchner Merkur – Haar",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/afd-haar-parteiausschlussverfahren-gegen-stadtrat-raetscher-laeuft-94596837.html",
+      "link_text": "AfD Haar: Parteiausschlussverfahren gegen Stadtrat Rätscher läuft",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/unfall-ottobrunn-motorradfahrer-leichtkraftrad-kleintransporter-li.3583603",
+      "detected_at": "2026-11-20T12:57:59+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/unfall-ottobrunn-motorradfahrer-leichtkraftrad-kleintransporter-li.3583603",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/neuried-solar-carport-photovoltaik-buergerenergie-landkreis-muenchen-li.3581468",
+      "detected_at": "2026-11-20T12:57:59+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/neuried-solar-carport-photovoltaik-buergerenergie-landkreis-muenchen-li.3581468",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/gruenwald-buergerversammlung-buergerbeteiligung-debattenkultur-fdp-li.3582320",
+      "detected_at": "2026-11-20T12:57:59+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/gruenwald-buergerversammlung-buergerbeteiligung-debattenkultur-fdp-li.3582320",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/b304-haar-fahrbahnsanierung-laermsanierung-a99-li.3583275",
+      "detected_at": "2026-11-20T12:57:59+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/b304-haar-fahrbahnsanierung-laermsanierung-a99-li.3583275",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/pullach-tiefengeothermie-fernwaerme-muenchen-li.3582468",
+      "detected_at": "2026-11-20T12:57:59+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/pullach-tiefengeothermie-fernwaerme-muenchen-li.3582468",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/wuermtal-in-concert-planegg-kupferhaus-jugend-musiziert-klassikkonzert-li.3583154",
+      "detected_at": "2026-11-20T12:57:59+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/wuermtal-in-concert-planegg-kupferhaus-jugend-musiziert-klassikkonzert-li.3583154",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/josef-hien-krippenschnitzer-ottobrunn-st-otto-dokumentarfilm-li.3583159",
+      "detected_at": "2026-11-20T12:57:59+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/josef-hien-krippenschnitzer-ottobrunn-st-otto-dokumentarfilm-li.3583159",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/martinsried-grosshadern-u-bahnbau-stossdaempfer-li.3581470",
+      "detected_at": "2026-11-20T12:57:59+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/martinsried-grosshadern-u-bahnbau-stossdaempfer-li.3581470",
       "link_text": "",
       "status": "unprocessed"
     }
