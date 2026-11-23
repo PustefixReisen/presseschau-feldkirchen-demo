@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-22T12:38:15+00:00",
+  "updated_at": "2026-11-23T14:44:20+00:00",
   "items": [
     {
       "event_key": "document:feldkirchen-parkraum-2026:https://www.feldkirchen.de/_Resources/Persistent/d/3/d/e/d3dee38ce3c4a9ad01384ca6ed314a2a8f8bcc12/2026%20Parkraumkonzept%20gem%20GR-Beschluss.pdf:4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
@@ -10454,6 +10454,186 @@
       "kind": "link_new",
       "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/haar-zaehlt-zu-den-fuenf-schwaechsten-kommunen-im-landkreis-buergermeister-kuendigt-kuerzungen-an-94599916.html",
       "link_text": "Haar zählt zu den fünf schwächsten Kommunen im Landkreis: Bürgermeister kündigt Kürzungen an",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/streit-um-kuendigung-bauarbeiter-schlaegt-mann-mit-eisenstange-bewusstlos-94603665.html",
+      "detected_at": "2026-11-23T14:44:16+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/streit-um-kuendigung-bauarbeiter-schlaegt-mann-mit-eisenstange-bewusstlos-94603665.html",
+      "link_text": "Massenschlägerei an Tankstelle: Bauarbeiter schlägt Mann mit Eisenstange bewusstlos",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/hoehenkirchen-siegertsbrunn-ort100556/gewerbesteuer-bricht-ein-hoehenkirchen-siegertsbrunn-fehlen-millionen-euro-94602397.html",
+      "detected_at": "2026-11-23T14:44:16+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/hoehenkirchen-siegertsbrunn-ort100556/gewerbesteuer-bricht-ein-hoehenkirchen-siegertsbrunn-fehlen-millionen-euro-94602397.html",
+      "link_text": "Gewerbesteuer bricht ein: Höhenkirchen-Siegertsbrunn fehlen 3,5 Millionen Euro",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/aying-ort28266/bahnuebergang-grosshelfendorf-bleibt-bis-18-dezember-gesperrt-94603857.html",
+      "detected_at": "2026-11-23T14:44:16+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/aying-ort28266/bahnuebergang-grosshelfendorf-bleibt-bis-18-dezember-gesperrt-94603857.html",
+      "link_text": "Verzögerung: Bahnübergang Großhelfendorf bleibt bis 18. Dezember gesperrt",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/nach-sperrung-uebers-wochenende-a99-wieder-fuer-verkehr-freigegeben-weiterer-baustellen-fahrplan-94603145.html",
+      "detected_at": "2026-11-23T14:44:16+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/nach-sperrung-uebers-wochenende-a99-wieder-fuer-verkehr-freigegeben-weiterer-baustellen-fahrplan-94603145.html",
+      "link_text": "Nach Sperrung übers Wochenende: A99 wieder für Verkehr freigegeben – So gehen Bauarbeiten weiter",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/ottobrunn-ort29241/theologe-gewinnt-ottobrunner-comedy-wettbewerb-mit-beerdigungsliedern-94602403.html",
+      "detected_at": "2026-11-23T14:44:16+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/ottobrunn-ort29241/theologe-gewinnt-ottobrunner-comedy-wettbewerb-mit-beerdigungsliedern-94602403.html",
+      "link_text": "Theologe gewinnt Ottobrunner Comedy-Wettbewerb mit Liedern",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/polizei-warnt-haarer-senioren-so-funktioniert-der-falsche-arztanruf-94602398.html",
+      "detected_at": "2026-11-23T14:44:16+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/polizei-warnt-haarer-senioren-so-funktioniert-der-falsche-arztanruf-94602398.html",
+      "link_text": "Polizei warnt Haarer Senioren: So funktioniert der falsche Arztanruf",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/pullach-ort29321/pullach-kaempft-um-seine-mittelschule-94602400.html",
+      "detected_at": "2026-11-23T14:44:16+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/pullach-ort29321/pullach-kaempft-um-seine-mittelschule-94602400.html",
+      "link_text": "Pullach kämpft um seine Mittelschule",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/a99-bruecke-bei-haar-wird-abgerissen-verkehrschaos-bleibt-komplett-aus-menschen-sind-aufruf-gefolgt-94602444.html",
+      "detected_at": "2026-11-23T14:44:16+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/a99-bruecke-bei-haar-wird-abgerissen-verkehrschaos-bleibt-komplett-aus-menschen-sind-aufruf-gefolgt-94602444.html",
+      "link_text": "A99-Brücke wird abgerissen – doch Verkehrschaos bleibt aus: „Menschen sind Aufruf gefolgt“",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-kirchheim:https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/streit-um-kuendigung-bauarbeiter-schlaegt-mann-mit-eisenstange-bewusstlos-94603665.html",
+      "detected_at": "2026-11-23T14:44:19+00:00",
+      "source_id": "merkur-kirchheim",
+      "source_name": "Münchner Merkur – Kirchheim",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/kirchheim-ort43310/streit-um-kuendigung-bauarbeiter-schlaegt-mann-mit-eisenstange-bewusstlos-94603665.html",
+      "link_text": "Massenschlägerei an Tankstelle: Bauarbeiter schlägt Mann mit Eisenstange bewusstlos",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-haar:https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/nach-sperrung-uebers-wochenende-a99-wieder-fuer-verkehr-freigegeben-weiterer-baustellen-fahrplan-94603145.html",
+      "detected_at": "2026-11-23T14:44:20+00:00",
+      "source_id": "merkur-haar",
+      "source_name": "Münchner Merkur – Haar",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/nach-sperrung-uebers-wochenende-a99-wieder-fuer-verkehr-freigegeben-weiterer-baustellen-fahrplan-94603145.html",
+      "link_text": "Nach Sperrung übers Wochenende: A99 wieder für Verkehr freigegeben – So gehen Bauarbeiten weiter",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-haar:https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/polizei-warnt-haarer-senioren-so-funktioniert-der-falsche-arztanruf-94602398.html",
+      "detected_at": "2026-11-23T14:44:20+00:00",
+      "source_id": "merkur-haar",
+      "source_name": "Münchner Merkur – Haar",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/polizei-warnt-haarer-senioren-so-funktioniert-der-falsche-arztanruf-94602398.html",
+      "link_text": "Polizei warnt Haarer Senioren: So funktioniert der falsche Arztanruf",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-haar:https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/a99-bruecke-bei-haar-wird-abgerissen-verkehrschaos-bleibt-komplett-aus-menschen-sind-aufruf-gefolgt-94602444.html",
+      "detected_at": "2026-11-23T14:44:20+00:00",
+      "source_id": "merkur-haar",
+      "source_name": "Münchner Merkur – Haar",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/haar-ort104496/a99-bruecke-bei-haar-wird-abgerissen-verkehrschaos-bleibt-komplett-aus-menschen-sind-aufruf-gefolgt-94602444.html",
+      "link_text": "A99-Brücke wird abgerissen – doch Verkehrschaos bleibt aus: „Menschen sind Aufruf gefolgt“",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/kirchheim-massenschlaegerei-tankstelle-polizei-bauarbeiter-li.3584823",
+      "detected_at": "2026-11-23T14:44:20+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/kirchheim-massenschlaegerei-tankstelle-polizei-bauarbeiter-li.3584823",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/memento-odesa-stefan-studnitzky-philharmonie-odesa-fuerstenfeldbruck-pullach-li.3584698",
+      "detected_at": "2026-11-23T14:44:20+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/memento-odesa-stefan-studnitzky-philharmonie-odesa-fuerstenfeldbruck-pullach-li.3584698",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/neubiberg-containerdorf-gefluechtete-ukraine-li.3583167",
+      "detected_at": "2026-11-23T14:44:20+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/neubiberg-containerdorf-gefluechtete-ukraine-li.3583167",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/garching-grundschulen-ersatzbau-neubau-li.3583657",
+      "detected_at": "2026-11-23T14:44:20+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/garching-grundschulen-ersatzbau-neubau-li.3583657",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/unfall-polizei-hoehenkirchen-siegertsbrunn-toedlich-li.3584417",
+      "detected_at": "2026-11-23T14:44:20+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/unfall-polizei-hoehenkirchen-siegertsbrunn-toedlich-li.3584417",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/amici-artium-kabarett-ottobrunn-markus-kapp-wolf-ferrari-haus-jubilaeum-li.3579276",
+      "detected_at": "2026-11-23T14:44:20+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/amici-artium-kabarett-ottobrunn-markus-kapp-wolf-ferrari-haus-jubilaeum-li.3579276",
+      "link_text": "",
       "status": "unprocessed"
     }
   ]
