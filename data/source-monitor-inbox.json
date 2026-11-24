@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-23T14:44:20+00:00",
+  "updated_at": "2026-11-24T14:55:16+00:00",
   "items": [
     {
       "event_key": "document:feldkirchen-parkraum-2026:https://www.feldkirchen.de/_Resources/Persistent/d/3/d/e/d3dee38ce3c4a9ad01384ca6ed314a2a8f8bcc12/2026%20Parkraumkonzept%20gem%20GR-Beschluss.pdf:4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
@@ -10633,6 +10633,176 @@
       "source_name": "Süddeutsche Zeitung – Landkreis München",
       "kind": "link_new",
       "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/amici-artium-kabarett-ottobrunn-markus-kapp-wolf-ferrari-haus-jubilaeum-li.3579276",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:landkreis-muenchen:https://www.landkreis-muenchen.de/landratsamt/elektronische-kommunikation/daten-sicher-an-das-landratsamt-uebermitteln/",
+      "detected_at": "2026-11-24T14:54:28+00:00",
+      "source_id": "landkreis-muenchen",
+      "source_name": "Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.landkreis-muenchen.de/landratsamt/elektronische-kommunikation/daten-sicher-an-das-landratsamt-uebermitteln/",
+      "link_text": "Daten sicher an das Landratsamt übermitteln",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:landkreis-muenchen:https://www.landkreis-muenchen.de/buergerservice/online-services-nutzen/",
+      "detected_at": "2026-11-24T14:54:28+00:00",
+      "source_id": "landkreis-muenchen",
+      "source_name": "Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.landkreis-muenchen.de/buergerservice/online-services-nutzen/",
+      "link_text": "Online-Services nutzen",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:landkreis-muenchen:https://www.landkreis-muenchen.de/artikel/geschichte-bewahren-zukunft-gestalten/",
+      "detected_at": "2026-11-24T14:54:28+00:00",
+      "source_id": "landkreis-muenchen",
+      "source_name": "Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.landkreis-muenchen.de/artikel/geschichte-bewahren-zukunft-gestalten/",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:landkreis-muenchen:https://www.landkreis-muenchen.de/artikel/baeckertueten-aktion-am-25-november-2026/",
+      "detected_at": "2026-11-24T14:54:28+00:00",
+      "source_id": "landkreis-muenchen",
+      "source_name": "Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.landkreis-muenchen.de/artikel/baeckertueten-aktion-am-25-november-2026/",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:landkreis-muenchen:https://www.landkreis-muenchen.de/artikel/zulassungs-und-fuehrerscheinstelle-stellen-ab-2027-auf-terminbetrieb-um/",
+      "detected_at": "2026-11-24T14:54:28+00:00",
+      "source_id": "landkreis-muenchen",
+      "source_name": "Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.landkreis-muenchen.de/artikel/zulassungs-und-fuehrerscheinstelle-stellen-ab-2027-auf-terminbetrieb-um/",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:landkreis-muenchen:https://www.landkreis-muenchen.de/artikel/verlaengerung-der-vollsperrung-des-bahnuebergangs-der-kreisstrasse-m-8-in-grosshelfendorf/",
+      "detected_at": "2026-11-24T14:54:28+00:00",
+      "source_id": "landkreis-muenchen",
+      "source_name": "Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.landkreis-muenchen.de/artikel/verlaengerung-der-vollsperrung-des-bahnuebergangs-der-kreisstrasse-m-8-in-grosshelfendorf/",
+      "link_text": "Verlängerung der Vollsperrung des Bahnübergangs der Kreisstraße M 8 in Großhelfendorf",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:landkreis-muenchen:https://www.landkreis-muenchen.de/artikel/fahrbahnsanierung-auf-der-st-2368-in-unterhaching/",
+      "detected_at": "2026-11-24T14:54:28+00:00",
+      "source_id": "landkreis-muenchen",
+      "source_name": "Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.landkreis-muenchen.de/artikel/fahrbahnsanierung-auf-der-st-2368-in-unterhaching/",
+      "link_text": "Fahrbahnsanierung auf der St 2368 in Unterhaching",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/taufkirchen-bei-muenchen-ort486320/taufkirchen-erhoeht-grundsteuer-auf-500-prozent-zwei-jahre-soll-ruhe-sein-94604177.html",
+      "detected_at": "2026-11-24T14:55:11+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/taufkirchen-bei-muenchen-ort486320/taufkirchen-erhoeht-grundsteuer-auf-500-prozent-zwei-jahre-soll-ruhe-sein-94604177.html",
+      "link_text": "Taufkirchen erhöht Grundsteuer auf 500 Prozent – zwei Jahre soll Ruhe sein",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/gruenwald-ort28770/ex-polizeichef-von-gruenwald-verliert-bei-niederlage-auch-seine-pension-94604183.html",
+      "detected_at": "2026-11-24T14:55:11+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/gruenwald-ort28770/ex-polizeichef-von-gruenwald-verliert-bei-niederlage-auch-seine-pension-94604183.html",
+      "link_text": "Ex-Polizeichef von Grünwald verliert bei Niederlage auch seine Pension",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/ismaning-ort28863/muss-gesenkt-werden-ismanings-buergermeister-fordert-kreisumlage-unter-50-prozent-94604199.html",
+      "detected_at": "2026-11-24T14:55:11+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/ismaning-ort28863/muss-gesenkt-werden-ismanings-buergermeister-fordert-kreisumlage-unter-50-prozent-94604199.html",
+      "link_text": "Belastung für Kommunen „muss gesenkt werden“: Ismanings Bürgermeister fordert niedrigere Kreisumlage",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/ottobrunn-ort29241/kraehen-reissen-muellsaecke-auf-buergermeister-macht-anwohner-selbst-verantwortlich-94604195.html",
+      "detected_at": "2026-11-24T14:55:11+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/ottobrunn-ort29241/kraehen-reissen-muellsaecke-auf-buergermeister-macht-anwohner-selbst-verantwortlich-94604195.html",
+      "link_text": "Krähen reißen Müllsäcke auf: Bürgermeister Schardt spricht Tacheles zur Krähenplage im Vogelviertel",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/grosshelfendorf-bahnuebergang-sperrung-aying-kreisstrasse-m8-li.3585244",
+      "detected_at": "2026-11-24T14:55:16+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/grosshelfendorf-bahnuebergang-sperrung-aying-kreisstrasse-m8-li.3585244",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/frauen-netzwerk-region-muenchen-kommentar-li.3578212",
+      "detected_at": "2026-11-24T14:55:16+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/frauen-netzwerk-region-muenchen-kommentar-li.3578212",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/unterschleissheim-frauen-selbstverteidigung-gewalt-gegen-frauen-li.3578214",
+      "detected_at": "2026-11-24T14:55:16+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/unterschleissheim-frauen-selbstverteidigung-gewalt-gegen-frauen-li.3578214",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/gruenwald-waldhaus-eierwiese-markus-tschurtschenthaler-gastronomie-restaurant-li.3582999",
+      "detected_at": "2026-11-24T14:55:16+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/gruenwald-waldhaus-eierwiese-markus-tschurtschenthaler-gastronomie-restaurant-li.3582999",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/graefelfing-hospizverein-30-jahre-li.3581459",
+      "detected_at": "2026-11-24T14:55:16+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/graefelfing-hospizverein-30-jahre-li.3581459",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/ottobrunn-unterhaching-buergermeister-florian-schardt-korbinian-rausch-interview-li.3566533",
+      "detected_at": "2026-11-24T14:55:16+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/ottobrunn-unterhaching-buergermeister-florian-schardt-korbinian-rausch-interview-li.3566533",
       "link_text": "",
       "status": "unprocessed"
     }
