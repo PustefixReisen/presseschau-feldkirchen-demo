@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-24T14:55:16+00:00",
+  "updated_at": "2026-11-25T14:27:53+00:00",
   "items": [
     {
       "event_key": "document:feldkirchen-parkraum-2026:https://www.feldkirchen.de/_Resources/Persistent/d/3/d/e/d3dee38ce3c4a9ad01384ca6ed314a2a8f8bcc12/2026%20Parkraumkonzept%20gem%20GR-Beschluss.pdf:4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
@@ -10803,6 +10803,156 @@
       "source_name": "Süddeutsche Zeitung – Landkreis München",
       "kind": "link_new",
       "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/ottobrunn-unterhaching-buergermeister-florian-schardt-korbinian-rausch-interview-li.3566533",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:landkreis-muenchen:https://www.landkreis-muenchen.de/artikel/amtsblatt-42-2026/",
+      "detected_at": "2026-11-25T14:27:34+00:00",
+      "source_id": "landkreis-muenchen",
+      "source_name": "Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.landkreis-muenchen.de/artikel/amtsblatt-42-2026/",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:landkreis-muenchen:https://www.landkreis-muenchen.de/artikel/europaeische-woche-der-abfallvermeidung-landkreis-muenchen-beteiligt-sich-an-europaweiter-aktion/",
+      "detected_at": "2026-11-25T14:27:34+00:00",
+      "source_id": "landkreis-muenchen",
+      "source_name": "Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.landkreis-muenchen.de/artikel/europaeische-woche-der-abfallvermeidung-landkreis-muenchen-beteiligt-sich-an-europaweiter-aktion/",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/frauenhaeuser-im-landkreis-muenchen-fuerchten-luecke-von-300-000-euro-94606466.html",
+      "detected_at": "2026-11-25T14:27:47+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/frauenhaeuser-im-landkreis-muenchen-fuerchten-luecke-von-300-000-euro-94606466.html",
+      "link_text": "Frauenhäuser: Zehn Jahre Zuflucht und neue Sorgen",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/taufkirchen-bei-muenchen-ort486320/cafe-brandwerk-taufkirchen-oeffnet-wieder-neue-betreiber-erfuellen-sich-einen-traum-94605892.html",
+      "detected_at": "2026-11-25T14:27:47+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/taufkirchen-bei-muenchen-ort486320/cafe-brandwerk-taufkirchen-oeffnet-wieder-neue-betreiber-erfuellen-sich-einen-traum-94605892.html",
+      "link_text": "Café Brandwerk in Taufkirchen öffnet wieder: Neue Betreiber erfüllen sich einen Traum",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/deisenhofen-schreibt-vereinsgeschichte-u17-steigt-in-die-bundesliga-auf-94607304.html",
+      "detected_at": "2026-11-25T14:27:47+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/deisenhofen-schreibt-vereinsgeschichte-u17-steigt-in-die-bundesliga-auf-94607304.html",
+      "link_text": "Deisenhofen schreibt Vereinsgeschichte: U17 steigt in die Bundesliga auf",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/gruenwald-ort28770/dachstuhlbrand-in-gruenwald-150-einsatzkraefte-loeschen-flammen-94607479.html",
+      "detected_at": "2026-11-25T14:27:47+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/gruenwald-ort28770/dachstuhlbrand-in-gruenwald-150-einsatzkraefte-loeschen-flammen-94607479.html",
+      "link_text": "Dachstuhlbrand in Grünwald: Löscharbeiten laufen – 150 Kräfte im Einsatz",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/nach-dackel-tod-feldkirchen-lehnt-leinenpflicht-fuer-hunde-ab-94605986.html",
+      "detected_at": "2026-11-25T14:27:47+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/nach-dackel-tod-feldkirchen-lehnt-leinenpflicht-fuer-hunde-ab-94605986.html",
+      "link_text": "Nach tödlicher Kampfhund-Attacke: Feldkirchen lehnt Leinenpflicht und Maulkorbzwang ab",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/falschfahrer-in-einbahnstrasse-aschheims-buergermeister-erklaert-warum-die-gemeinde-machtlos-ist-94606035.html",
+      "detected_at": "2026-11-25T14:27:47+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/falschfahrer-in-einbahnstrasse-aschheims-buergermeister-erklaert-warum-die-gemeinde-machtlos-ist-94606035.html",
+      "link_text": "Falschfahrer in Einbahnstraße: Aschheims Bürgermeister erklärt, warum die Gemeinde machtlos ist",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/pullach-ort29321/kirchplatz-pullach-20-jahre-alte-eiche-ersetzt-umstrittenen-brunnen-94606432.html",
+      "detected_at": "2026-11-25T14:27:47+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/pullach-ort29321/kirchplatz-pullach-20-jahre-alte-eiche-ersetzt-umstrittenen-brunnen-94606432.html",
+      "link_text": "Kirchplatz Pullach: 20 Jahre alte Eiche ersetzt umstrittenen Brunnen",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/ismaning-ort28863/per-vr-brille-zum-richtigen-job-messe-begeistert-mit-neuem-feature-94605981.html",
+      "detected_at": "2026-11-25T14:27:47+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/ismaning-ort28863/per-vr-brille-zum-richtigen-job-messe-begeistert-mit-neuem-feature-94605981.html",
+      "link_text": "Per VR-Brille zum richtigen Job? Messe begeistert mit neuem Feature",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-aschheim:https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/falschfahrer-in-einbahnstrasse-aschheims-buergermeister-erklaert-warum-die-gemeinde-machtlos-ist-94606035.html",
+      "detected_at": "2026-11-25T14:27:50+00:00",
+      "source_id": "merkur-aschheim",
+      "source_name": "Münchner Merkur – Aschheim",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/falschfahrer-in-einbahnstrasse-aschheims-buergermeister-erklaert-warum-die-gemeinde-machtlos-ist-94606035.html",
+      "link_text": "Falschfahrer in Einbahnstraße: Aschheims Bürgermeister erklärt, warum die Gemeinde machtlos ist",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/christkindlmaerkte-tour-mvv-muenchen-region-flyer-li.3584959",
+      "detected_at": "2026-11-25T14:27:53+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/christkindlmaerkte-tour-mvv-muenchen-region-flyer-li.3584959",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/ausstellung-neubiberg-ukraine-kuenstlerinnen-kunst-li.3585984",
+      "detected_at": "2026-11-25T14:27:53+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/ausstellung-neubiberg-ukraine-kuenstlerinnen-kunst-li.3585984",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/landkreis-muenchen-zulassungsstelle-fuehrerscheinstelle-terminbetrieb-2027-li.3585689",
+      "detected_at": "2026-11-25T14:27:53+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/landkreis-muenchen-zulassungsstelle-fuehrerscheinstelle-terminbetrieb-2027-li.3585689",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/leerstand-muenchner-umland-wohnraum-immobilienverband-mietrecht-li.3582991",
+      "detected_at": "2026-11-25T14:27:53+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/leerstand-muenchner-umland-wohnraum-immobilienverband-mietrecht-li.3582991",
       "link_text": "",
       "status": "unprocessed"
     }
