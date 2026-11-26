@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-25T14:27:53+00:00",
+  "updated_at": "2026-11-26T13:56:36+00:00",
   "items": [
     {
       "event_key": "document:feldkirchen-parkraum-2026:https://www.feldkirchen.de/_Resources/Persistent/d/3/d/e/d3dee38ce3c4a9ad01384ca6ed314a2a8f8bcc12/2026%20Parkraumkonzept%20gem%20GR-Beschluss.pdf:4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
@@ -10953,6 +10953,156 @@
       "source_name": "Süddeutsche Zeitung – Landkreis München",
       "kind": "link_new",
       "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/leerstand-muenchner-umland-wohnraum-immobilienverband-mietrecht-li.3582991",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/garching-lkw-parkverbot-kommt-hochbrueck-kaempft-um-schule-und-kindergarten-94608858.html",
+      "detected_at": "2026-11-26T13:56:31+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/garching-lkw-parkverbot-kommt-hochbrueck-kaempft-um-schule-und-kindergarten-94608858.html",
+      "link_text": "Lkw-Parkverbot im Wohngebiet und mehr Kinder für Hochbrücks Zukunft",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/805-anfragen-abgelehnt-landkreis-erhoeht-foerderung-fuer-refugio-psychotherapie-94608327.html",
+      "detected_at": "2026-11-26T13:56:31+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/805-anfragen-abgelehnt-landkreis-erhoeht-foerderung-fuer-refugio-psychotherapie-94608327.html",
+      "link_text": "805 Anfragen abgelehnt: Landkreis erhöht Förderung für Refugio-Psychotherapie",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/unterfoehring-ort29618/ehepaar-lockt-falschen-arzt-in-falle-polizei-schnappt-abholer-in-unterfoehring-94609320.html",
+      "detected_at": "2026-11-26T13:56:31+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/unterfoehring-ort29618/ehepaar-lockt-falschen-arzt-in-falle-polizei-schnappt-abholer-in-unterfoehring-94609320.html",
+      "link_text": "Callcenter-Betrug: Ehepaar schöpft rechtzeitig Verdacht, Polizei schnappt Abholer",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/unterhachingerin-schreibt-debuetroman-ueber-anne-boleyn-am-franzoesischen-hof-94609276.html",
+      "detected_at": "2026-11-26T13:56:31+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/unterhachingerin-schreibt-debuetroman-ueber-anne-boleyn-am-franzoesischen-hof-94609276.html",
+      "link_text": "Unterhachingerin schreibt Debütroman über Anne Boleyn am französischen Hof",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/neubiberg-ort29121/neubiberg-plant-300-wohnungen-bis-zu-sieben-stockwerke-an-der-lilienthalstrasse-94608042.html",
+      "detected_at": "2026-11-26T13:56:31+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/neubiberg-ort29121/neubiberg-plant-300-wohnungen-bis-zu-sieben-stockwerke-an-der-lilienthalstrasse-94608042.html",
+      "link_text": "Neubiberg plant 300 Wohnungen – bis zu sieben Stockwerke an der Lilienthalstraße",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/sauerlach-ort117101/86-jaehriger-erhaelt-bundesverdienstkreuz-und-wuenscht-sich-noch-den-nobelpreis-94608039.html",
+      "detected_at": "2026-11-26T13:56:31+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/sauerlach-ort117101/86-jaehriger-erhaelt-bundesverdienstkreuz-und-wuenscht-sich-noch-den-nobelpreis-94608039.html",
+      "link_text": "86-Jähriger erhält Bundesverdienstkreuz – und wünscht sich schmunzelnd noch Nobelpreis",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/putzbrunn-ort29323/putzbrunn-streicht-zuschuesse-fuer-busfahrten-auch-fuer-gymnasiumsschueler-94608070.html",
+      "detected_at": "2026-11-26T13:56:31+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/putzbrunn-ort29323/putzbrunn-streicht-zuschuesse-fuer-busfahrten-auch-fuer-gymnasiumsschueler-94608070.html",
+      "link_text": "Putzbrunn streicht Zuschüsse für Busfahrten – auch für Gymnasiumsschüler",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/gruenwald-ort28770/vorteilen-ex-polizeichef-verliert-ruhegehalt-wegen-17-000-euro-94608252.html",
+      "detected_at": "2026-11-26T13:56:31+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/gruenwald-ort28770/vorteilen-ex-polizeichef-verliert-ruhegehalt-wegen-17-000-euro-94608252.html",
+      "link_text": "Berufung erfolglos: Ex-Polizeichef verliert Ruhegehalt",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/das-bieten-die-christkindlmaerkte-im-landkreis-muenchen-am-ersten-adventswochenende-94608071.html",
+      "detected_at": "2026-11-26T13:56:31+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/unterhaching-ort29619/das-bieten-die-christkindlmaerkte-im-landkreis-muenchen-am-ersten-adventswochenende-94608071.html",
+      "link_text": "Drohnenshow, Alpakas und Kramperl: Das bieten die Christkindlmärkte im Landkreis München am ersten Adventswochenende",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/gruenwald-ort28770/dachstuhlbrand-in-gruenwald-feuer-geloescht-haus-nicht-bewohnbar-polizei-ermittelt-zur-brandursache-94607479.html",
+      "detected_at": "2026-11-26T13:56:31+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/gruenwald-ort28770/dachstuhlbrand-in-gruenwald-feuer-geloescht-haus-nicht-bewohnbar-polizei-ermittelt-zur-brandursache-94607479.html",
+      "link_text": "Dachstuhlbrand in Grünwald: Feuer gelöscht – Haus nicht bewohnbar – Polizei ermittelt zur Brandursache",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-feldkirchen:https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/nach-dackel-tod-feldkirchen-lehnt-leinenpflicht-fuer-hunde-ab-94605986.html",
+      "detected_at": "2026-11-26T13:56:32+00:00",
+      "source_id": "merkur-feldkirchen",
+      "source_name": "Münchner Merkur – Feldkirchen",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/feldkirchen-ort28673/nach-dackel-tod-feldkirchen-lehnt-leinenpflicht-fuer-hunde-ab-94605986.html",
+      "link_text": "Nach tödlicher Kampfhund-Attacke: Feldkirchen lehnt Leinenpflicht und Maulkorbzwang ab",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/oberschleissheim-hallenbad-schliessung-buergerversammlung-li.3583335",
+      "detected_at": "2026-11-26T13:56:36+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/oberschleissheim-hallenbad-schliessung-buergerversammlung-li.3583335",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/unterhaching-rudelsingen-gemeindebuecherei-weihnachtslieder-2026-li.3586227",
+      "detected_at": "2026-11-26T13:56:36+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/unterhaching-rudelsingen-gemeindebuecherei-weihnachtslieder-2026-li.3586227",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/olympia-2036-muenchen-sportstaetten-umland-li.3570674",
+      "detected_at": "2026-11-26T13:56:36+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/olympia-2036-muenchen-sportstaetten-umland-li.3570674",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/gruenwald-brand-feuerwehr-dachstuhl-garage-li.3586291",
+      "detected_at": "2026-11-26T13:56:36+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/gruenwald-brand-feuerwehr-dachstuhl-garage-li.3586291",
       "link_text": "",
       "status": "unprocessed"
     }
