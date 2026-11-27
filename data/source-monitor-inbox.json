@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-26T13:56:36+00:00",
+  "updated_at": "2026-11-27T13:55:38+00:00",
   "items": [
     {
       "event_key": "document:feldkirchen-parkraum-2026:https://www.feldkirchen.de/_Resources/Persistent/d/3/d/e/d3dee38ce3c4a9ad01384ca6ed314a2a8f8bcc12/2026%20Parkraumkonzept%20gem%20GR-Beschluss.pdf:4d928e0592da3a39d6d89a22246bdbda289b258ebbdbc00e3e740e68a6d581cc",
@@ -11103,6 +11103,176 @@
       "source_name": "Süddeutsche Zeitung – Landkreis München",
       "kind": "link_new",
       "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/gruenwald-brand-feuerwehr-dachstuhl-garage-li.3586291",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:landkreis-muenchen:https://www.landkreis-muenchen.de/artikel/amtsblatt-43-2026/",
+      "detected_at": "2026-11-27T13:54:52+00:00",
+      "source_id": "landkreis-muenchen",
+      "source_name": "Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.landkreis-muenchen.de/artikel/amtsblatt-43-2026/",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:adfc-muenchen:https://muenchen.adfc.de/artikel/verkauf-von-gespendeten-ebikes",
+      "detected_at": "2026-11-27T13:54:53+00:00",
+      "source_id": "adfc-muenchen",
+      "source_name": "ADFC München",
+      "kind": "link_new",
+      "url": "https://muenchen.adfc.de/artikel/verkauf-von-gespendeten-ebikes",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:adfc-muenchen:https://muenchen.adfc.de/pressemitteilung/adfc-muenchen-verkauft-gespendete-e-bikes-in-kooperation-mit-der-halle-2",
+      "detected_at": "2026-11-27T13:54:53+00:00",
+      "source_id": "adfc-muenchen",
+      "source_name": "ADFC München",
+      "kind": "link_new",
+      "url": "https://muenchen.adfc.de/pressemitteilung/adfc-muenchen-verkauft-gespendete-e-bikes-in-kooperation-mit-der-halle-2",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/pullach-ort29321/unbekannte-zuenden-mobilfunkmast-in-pullach-an-staatsschutz-ermittelt-94611263.html",
+      "detected_at": "2026-11-27T13:55:34+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/pullach-ort29321/unbekannte-zuenden-mobilfunkmast-in-pullach-an-staatsschutz-ermittelt-94611263.html",
+      "link_text": "Unbekannte zünden Mobilfunkmast in Pullach an – Staatsschutz ermittelt nach Systemausfall",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/taufkirchen-bei-muenchen-ort486320/staus-und-achsen-killer-die-taufkirchner-wollen-aus-kreuzung-kreisel-machen-94610018.html",
+      "detected_at": "2026-11-27T13:55:34+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/taufkirchen-bei-muenchen-ort486320/staus-und-achsen-killer-die-taufkirchner-wollen-aus-kreuzung-kreisel-machen-94610018.html",
+      "link_text": "Staus und „Achsen-Killer“: Taufkirchner wollen aus  Kreuzung Kreisel machen",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/oberschleissheim-ort29202/steuerkraft-sinkt-um-17-prozent-oberschleissheim-landet-fast-am-ende-des-landkreis-rankings-94610031.html",
+      "detected_at": "2026-11-27T13:55:34+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/oberschleissheim-ort29202/steuerkraft-sinkt-um-17-prozent-oberschleissheim-landet-fast-am-ende-des-landkreis-rankings-94610031.html",
+      "link_text": "Steuerkraft sinkt um 17,5 Prozent: Oberschleißheim landet fast am Ende des Landkreis-Rankings",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/erster-schneefall-loest-17-unfaelle-aus-frau-mit-hubschrauber-ins-krankenhaus-94611597.html",
+      "detected_at": "2026-11-27T13:55:34+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/erster-schneefall-loest-17-unfaelle-aus-frau-mit-hubschrauber-ins-krankenhaus-94611597.html",
+      "link_text": "Erster Schneefall löst reihenweise Unfälle aus – Rutschpartien und schwere Kollisionen",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/hundewiese-in-garching-scheitert-zum-dritten-mal-buergermeister-sieht-keine-flaeche-94610036.html",
+      "detected_at": "2026-11-27T13:55:34+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/hundewiese-in-garching-scheitert-zum-dritten-mal-buergermeister-sieht-keine-flaeche-94610036.html",
+      "link_text": "Hundewiese in Garching scheitert zum dritten Mal – Bürgermeister sieht keine Fläche",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/zimmerbrand-greift-auf-dachstuhl-ueber-haus-am-keltenweg-unbewohnbar-94610945.html",
+      "detected_at": "2026-11-27T13:55:34+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/zimmerbrand-greift-auf-dachstuhl-ueber-haus-am-keltenweg-unbewohnbar-94610945.html",
+      "link_text": "Brand in Garching: Wohnhaus unbewohnbar – 73 Einsatzkräfte vor Ort",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/vw-fahrer-biegt-ab-und-kracht-in-audi-30-000-euro-schaden-am-tu-campus-94610912.html",
+      "detected_at": "2026-11-27T13:55:34+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/garching-ort28709/vw-fahrer-biegt-ab-und-kracht-in-audi-30-000-euro-schaden-am-tu-campus-94610912.html",
+      "link_text": "VW-Fahrer biegt ab und kracht in Audi: Beifahrerin (70) aus Wrack geschnitten",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/taufkirchen-bei-muenchen-ort486320/jerusalemkirche-taufkirchen-wird-entwidmet-evangelische-gemeinde-zieht-zu-katholiken-94610079.html",
+      "detected_at": "2026-11-27T13:55:34+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/taufkirchen-bei-muenchen-ort486320/jerusalemkirche-taufkirchen-wird-entwidmet-evangelische-gemeinde-zieht-zu-katholiken-94610079.html",
+      "link_text": "Jerusalemkirche wird aufgegeben: Warum eine evangelische Gemeinde jetzt bei den Katholiken einzieht",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/alle-plaetze-in-15-minuten-weg-300-puzzler-kaempfen-10-stunden-im-feststadl-94610027.html",
+      "detected_at": "2026-11-27T13:55:34+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/alle-plaetze-in-15-minuten-weg-300-puzzler-kaempfen-10-stunden-im-feststadl-94610027.html",
+      "link_text": "Alle Plätze in 15 Minuten weg: 300 Puzzler kämpfen stundenlang im Feststadl",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/oberschleissheim-ort29202/tsv-schleissheim-drohen-spielabbrueche-wegen-verblasster-hallenboden-markierungen-94610037.html",
+      "detected_at": "2026-11-27T13:55:34+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/oberschleissheim-ort29202/tsv-schleissheim-drohen-spielabbrueche-wegen-verblasster-hallenboden-markierungen-94610037.html",
+      "link_text": "TSV Schleißheim drohen Spielabbrüche wegen verblasster Hallenboden-Markierungen – Hoffen auf Zuschüsse",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-landkreis-muenchen:https://www.merkur.de/lokales/muenchen-lk/gruenwald-ort28770/gruenwalder-ex-polizeichef-verliert-nach-jahrzehnten-im-dienst-seine-altersversorgung-94610331.html",
+      "detected_at": "2026-11-27T13:55:34+00:00",
+      "source_id": "merkur-landkreis-muenchen",
+      "source_name": "Münchner Merkur – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/gruenwald-ort28770/gruenwalder-ex-polizeichef-verliert-nach-jahrzehnten-im-dienst-seine-altersversorgung-94610331.html",
+      "link_text": "Grünwalder Ex-Polizeichef verliert Altersversorgung: Diese Praxis macht frösteln",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:merkur-aschheim:https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/alle-plaetze-in-15-minuten-weg-300-puzzler-kaempfen-10-stunden-im-feststadl-94610027.html",
+      "detected_at": "2026-11-27T13:55:36+00:00",
+      "source_id": "merkur-aschheim",
+      "source_name": "Münchner Merkur – Aschheim",
+      "kind": "link_new",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/aschheim-ort28228/alle-plaetze-in-15-minuten-weg-300-puzzler-kaempfen-10-stunden-im-feststadl-94610027.html",
+      "link_text": "Alle Plätze in 15 Minuten weg: 300 Puzzler kämpfen stundenlang im Feststadl",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/pullach-brandstiftung-mobilfunkmast-kripo-zeugensuche-li.3587260",
+      "detected_at": "2026-11-27T13:55:38+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/pullach-brandstiftung-mobilfunkmast-kripo-zeugensuche-li.3587260",
+      "link_text": "",
+      "status": "unprocessed"
+    },
+    {
+      "event_key": "link:sz-landkreis-muenchen:https://www.sueddeutsche.de/muenchen/landkreismuenchen/dominik-klein-handball-bundesliga-tsv-ismaning-muenchen-li.3585679",
+      "detected_at": "2026-11-27T13:55:38+00:00",
+      "source_id": "sz-landkreis-muenchen",
+      "source_name": "Süddeutsche Zeitung – Landkreis München",
+      "kind": "link_new",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/dominik-klein-handball-bundesliga-tsv-ismaning-muenchen-li.3585679",
       "link_text": "",
       "status": "unprocessed"
     }
